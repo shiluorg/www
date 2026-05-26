@@ -496,7 +496,9 @@ const App = (() => {
 
   const MapView = {
     map: null,
-    tileLayer: null,
+    satelliteLayer: null,
+    streetLayer: null,
+    currentLayer: 'satellite',
 
     init() {
       this.map = L.map('map', {
@@ -508,10 +510,17 @@ const App = (() => {
         attributionControl: false
       })
 
-      this.tileLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      this.satelliteLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+        maxZoom: 18,
+        attribution: ''
+      })
+
+      this.streetLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 18,
         attribution: '&copy; OpenStreetMap contributors'
-      }).addTo(this.map)
+      })
+
+      this.satelliteLayer.addTo(this.map)
 
       this.map.on('resize', () => {
         this.map.invalidateSize()
@@ -520,6 +529,34 @@ const App = (() => {
       window.addEventListener('resize', () => {
         this.map.invalidateSize()
       })
+
+      const satBtn = document.getElementById('layer-satellite')
+      const strBtn = document.getElementById('layer-street')
+      if (satBtn) {
+        satBtn.addEventListener('click', () => this.switchLayer('satellite'))
+      }
+      if (strBtn) {
+        strBtn.addEventListener('click', () => this.switchLayer('street'))
+      }
+    },
+
+    switchLayer(type) {
+      if (this.currentLayer === type) return
+      this.currentLayer = type
+      const satBtn = document.getElementById('layer-satellite')
+      const strBtn = document.getElementById('layer-street')
+
+      if (type === 'satellite') {
+        this.map.removeLayer(this.streetLayer)
+        this.satelliteLayer.addTo(this.map)
+        if (satBtn) satBtn.classList.add('active')
+        if (strBtn) strBtn.classList.remove('active')
+      } else {
+        this.map.removeLayer(this.satelliteLayer)
+        this.streetLayer.addTo(this.map)
+        if (strBtn) strBtn.classList.add('active')
+        if (satBtn) satBtn.classList.remove('active')
+      }
     },
 
     clearMarkers() {
