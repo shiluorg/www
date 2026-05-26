@@ -1,0 +1,51 @@
+[
+  {
+    "year": 9,
+    "dynasties": [],
+    "events": [
+      { "title": "王莽篡汉建立新朝", "description": "王莽篡夺西汉政权，自立为帝，国号'新'，史称新莽。他推行了一系列激进的改制政策，包括土地国有和货币改革。", "latitude": 34.34, "longitude": 108.93, "category": "政治", "region": "新朝" }
+    ]
+  },
+  {
+    "year": 25,
+    "dynasties": [],
+    "events": [
+      { "title": "刘秀建立东汉", "description": "刘秀在河北鄗城称帝，恢复汉室，定都洛阳，开启东汉王朝。历经平定各地割据势力后，重新统一中国。", "latitude": 34.65, "longitude": 112.45, "category": "政治", "region": "东汉" }
+    ]
+  },
+  {
+    "year": 33,
+    "dynasties": [],
+    "events": [
+      { "title": "耶稣受难", "description": "耶稣基督在耶路撒冷被罗马总督彼拉多定罪并处死于十字架上。他的门徒随后传播其教义，基督教由此诞生。", "latitude": 31.78, "longitude": 35.23, "category": "文化", "region": "罗马帝国" }
+    ]
+  },
+  {
+    "year": 64,
+    "dynasties": [],
+    "events": [
+      { "title": "罗马大火", "description": "罗马城发生毁灭性大火，城市大部分被焚毁。尼禄皇帝将此归咎于基督徒，引发了对基督徒的首次大规模迫害。", "latitude": 41.9, "longitude": 12.5, "category": "政治", "region": "罗马帝国" }
+    ]
+  },
+  {
+    "year": 73,
+    "dynasties": [],
+    "events": [
+      { "title": "马萨达陷落", "description": "罗马军队攻陷犹太人的最后据点马萨达要塞，近千名犹太反抗者集体自杀。标志着第一次犹太-罗马战争的终结。", "latitude": 31.32, "longitude": 35.35, "category": "军事", "region": "罗马帝国 / 犹太行省" }
+    ]
+  },
+  {
+    "year": 79,
+    "dynasties": [],
+    "events": [
+      { "title": "维苏威火山喷发", "description": "意大利维苏威火山猛烈喷发，庞贝、赫库兰尼姆等罗马城市被火山灰掩埋，数万人遇难。但也因此完整保留了古罗马城市风貌。", "latitude": 40.82, "longitude": 14.43, "category": "科技", "region": "罗马帝国" }
+    ]
+  },
+  {
+    "year": 97,
+    "dynasties": [],
+    "events": [
+      { "title": "甘英使大秦", "description": "东汉西域都护班超派遣甘英出使大秦（罗马帝国），抵达条支国（今伊拉克一带）海边，虽因安息商人劝阻而未渡海，但开拓了中国对西方的认知。", "latitude": 30.5, "longitude": 47.8, "category": "政治", "region": "东汉 / 罗马帝国" }
+    ]
+  }
+]

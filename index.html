@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>实录 - 历史时间轴</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+    <header id="header">
+      <h1 id="site-title">实录</h1>
+      <button id="shortcut-btn" class="icon-btn" title="键盘快捷键">⌨</button>
+    </header>
+
+    <div id="timeline-area">
+      <div id="dynasty-timeline-container">
+        <canvas id="dynasty-canvas"></canvas>
+        <div id="dynasty-tooltip" class="tooltip hidden"></div>
+      </div>
+
+      <div id="calendar-timeline-container">
+        <canvas id="calendar-canvas"></canvas>
+        <div id="calendar-tooltip" class="tooltip hidden"></div>
+      </div>
+
+      <div id="year-indicator">
+        <span id="current-year-display">公元1年</span>
+      </div>
+    </div>
+
+    <div id="map-and-events">
+      <div id="map-area">
+        <div id="map-container">
+          <div id="map"></div>
+          <div id="map-empty-hint" class="hidden">该年份暂无记录事件</div>
+        </div>
+
+        <div id="event-detail-panel" class="hidden">
+          <div id="event-detail-header">
+            <h3 id="event-detail-title"></h3>
+            <button id="event-detail-close" class="icon-btn">✕</button>
+          </div>
+          <div id="event-detail-body">
+            <p id="event-detail-year"></p>
+            <span id="event-detail-category"></span>
+            <span id="event-detail-region"></span>
+            <p id="event-detail-description"></p>
+          </div>
+        </div>
+      </div>
+
+      <div id="event-list-panel">
+        <div id="event-list-header">
+          <span id="event-list-year"></span>
+          <span id="event-list-count"></span>
+        </div>
+        <div id="event-list-body"></div>
+      </div>
+    </div>
+
+    <footer id="copyright">
+      <span>&copy; 2026 实录 shilu.org 铭记人类文明的每一年</span>
+    </footer>
+
+    <div id="loading-overlay" class="hidden">
+      <div class="spinner"></div>
+      <p>加载中...</p>
+    </div>
+
+    <div id="error-toast" class="hidden">
+      <p id="error-message"></p>
+    </div>
+
+    <div id="shortcut-panel" class="hidden">
+      <h3>键盘快捷键</h3>
+      <ul>
+        <li><kbd>←</kbd> <kbd>→</kbd> 切换年份</li>
+        <li><kbd>Shift</kbd> + <kbd>←</kbd> <kbd>→</kbd> 快进/快退10年</li>
+        <li>鼠标滚轮 滚动时间轴</li>
+        <li>拖拽时间轴 平移浏览</li>
+      </ul>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

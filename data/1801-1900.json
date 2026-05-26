@@ -1,0 +1,107 @@
+[
+  {
+    "year": 1804,
+    "dynasties": [],
+    "events": [
+      { "title": "拿破仑加冕称帝", "description": "拿破仑·波拿巴在巴黎圣母院加冕为法兰西第一帝国皇帝，标志着法国从共和国向帝国的转变，欧洲进入拿破仑战争时代。", "latitude": 48.853, "longitude": 2.35, "category": "政治", "region": "法兰西第一帝国" }
+    ]
+  },
+  {
+    "year": 1839,
+    "dynasties": [],
+    "events": [
+      { "title": "虎门销烟", "description": "林则徐在广东虎门海滩销毁收缴的鸦片，历时23天销毁鸦片约两万箱，展现了中国抵制鸦片贸易的决心，直接触发了后来的鸦片战争。", "latitude": 22.82, "longitude": 113.65, "category": "政治", "region": "清朝" }
+    ]
+  },
+  {
+    "year": 1840,
+    "dynasties": [],
+    "events": [
+      { "title": "第一次鸦片战争爆发", "description": "英国以虎门销烟为借口发动了对华战争，西方列强用坚船利炮打开了中国闭关锁国的大门，是中国近代史的开端。", "latitude": 23.13, "longitude": 113.26, "category": "军事", "region": "清朝 / 大英帝国" }
+    ]
+  },
+  {
+    "year": 1848,
+    "dynasties": [],
+    "events": [
+      { "title": "《共产党宣言》发表", "description": "马克思和恩格斯在伦敦发表《共产党宣言》，系统阐述了科学社会主义的基本原理，深刻影响了此后世界历史的进程。", "latitude": 51.51, "longitude": -0.13, "category": "文化", "region": "英国" }
+    ]
+  },
+  {
+    "year": 1851,
+    "dynasties": [],
+    "events": [
+      { "title": "太平天国起义", "description": "洪秀全在广西金田村发动起义，建立太平天国政权，定都南京。这场持续14年的农民起义席卷半个中国，是中国历史上规模最大的农民起义之一。", "latitude": 32.06, "longitude": 118.80, "category": "军事", "region": "清朝 / 太平天国" }
+    ]
+  },
+  {
+    "year": 1859,
+    "dynasties": [],
+    "events": [
+      { "title": "达尔文发表《物种起源》", "description": "查尔斯·达尔文在伦敦发表《物种起源》，提出了以自然选择为核心的生物进化理论，彻底改变了人类对生命起源和演化的认知。", "latitude": 51.51, "longitude": -0.13, "category": "科技", "region": "英国" }
+    ]
+  },
+  {
+    "year": 1861,
+    "dynasties": [],
+    "events": [
+      { "title": "美国南北战争爆发", "description": "美国南方蓄奴州宣布脱离联邦，南北战争爆发。这场历时四年的内战以北方联邦胜利告终，废除了奴隶制，维护了国家统一。", "latitude": 38.9, "longitude": -77.03, "category": "军事", "region": "美国" }
+    ]
+  },
+  {
+    "year": 1868,
+    "dynasties": [],
+    "events": [
+      { "title": "日本明治维新", "description": "日本明治天皇颁布维新诏书，开始全面学习西方的现代化改革运动，使日本迅速崛起为亚洲第一个工业化强国。", "latitude": 35.68, "longitude": 139.76, "category": "政治", "region": "日本" }
+    ]
+  },
+  {
+    "year": 1870,
+    "dynasties": [],
+    "events": [
+      { "title": "普法战争", "description": "普鲁士与法国之间爆发战争，普鲁士凭借先进军事体制取得了决定性胜利，德意志帝国在凡尔赛宫宣告成立，欧洲力量格局重新洗牌。", "latitude": 48.80, "longitude": 2.13, "category": "军事", "region": "法国 / 普鲁士 / 德意志帝国" }
+    ]
+  },
+  {
+    "year": 1894,
+    "dynasties": [],
+    "events": [
+      { "title": "甲午中日战争", "description": "日本对中国发动甲午战争，北洋水师全军覆没。战后签订《马关条约》，台湾被割让给日本，标志着中国洋务运动的彻底失败。", "latitude": 39.12, "longitude": 122.35, "category": "军事", "region": "清朝 / 日本" }
+    ]
+  },
+  {
+    "year": 1895,
+    "dynasties": [],
+    "events": [
+      { "title": "伦琴发现X射线", "description": "德国物理学家伦琴发现X射线，为医学诊断和物质结构研究开辟了新天地，获得首届诺贝尔物理学奖。", "latitude": 49.80, "longitude": 9.93, "category": "科技", "region": "德国" }
+    ]
+  },
+  {
+    "year": 1898,
+    "dynasties": [],
+    "events": [
+      { "title": "戊戌变法", "description": "光绪帝在康有为、梁启超等人推动下颁布变法诏令，试图全面改革中国政治制度。变法仅持续103天即被慈禧太后发动政变终止，史称'百日维新'。", "latitude": 39.91, "longitude": 116.40, "category": "政治", "region": "清朝" }
+    ]
+  },
+  {
+    "year": 1900,
+    "dynasties": [],
+    "events": [
+      { "title": "八国联军侵华", "description": "英、美、法、德、俄、日、意、奥八国联军攻入北京，镇压义和团运动。战后签订《辛丑条约》，清政府主权进一步丧失。", "latitude": 39.91, "longitude": 116.40, "category": "军事", "region": "清朝 / 八国联军" }
+    ]
+  },
+  {
+    "year": 1905,
+    "dynasties": [],
+    "events": [
+      { "title": "爱因斯坦发表狭义相对论", "description": "爱因斯坦在伯尔尼发表狭义相对论，提出了质能方程E=mc²，彻底改变了人类对时间、空间和物质的认识。", "latitude": 46.95, "longitude": 7.45, "category": "科技", "region": "瑞士" }
+    ]
+  },
+  {
+    "year": 1912,
+    "dynasties": [],
+    "events": [
+      { "title": "中华民国成立", "description": "孙中山在南京就任中华民国临时大总统，清朝末代皇帝溥仪退位，中国两千多年的封建帝制终结。亚洲第一个民主共和国诞生。", "latitude": 32.06, "longitude": 118.80, "category": "政治", "region": "中华民国" }
+    ]
+  }
+]

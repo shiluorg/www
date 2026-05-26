@@ -1,0 +1,51 @@
+[
+  {
+    "year": -1600,
+    "dynasties": [],
+    "events": [
+      { "title": "商汤灭夏", "description": "商族首领汤率领部众推翻夏桀暴政，建立商朝，开创了中国历史上第二个世袭王朝。商朝的青铜文明达到空前繁荣。", "latitude": 34.6, "longitude": 113.5, "category": "政治", "region": "商朝" }
+    ]
+  },
+  {
+    "year": -1046,
+    "dynasties": [],
+    "events": [
+      { "title": "牧野之战", "description": "周武王联军在牧野击败商纣王军队，商朝灭亡，周朝建立。此战役标志着中国历史上商周更替的关键转折点。", "latitude": 35.2, "longitude": 113.8, "category": "军事", "region": "商 / 西周" }
+    ]
+  },
+  {
+    "year": -1000,
+    "dynasties": [],
+    "events": [
+      { "title": "大卫王定都耶路撒冷", "description": "以色列大卫王征服耶路撒冷，将其定为以色列联合王国的首都，并计划在此建造圣殿，确立了耶路撒冷作为犹太教圣城的地位。", "latitude": 31.7683, "longitude": 35.2137, "category": "政治", "region": "以色列联合王国" }
+    ]
+  },
+  {
+    "year": -960,
+    "dynasties": [],
+    "events": [
+      { "title": "所罗门圣殿建成", "description": "以色列王所罗门在耶路撒冷建造了第一圣殿，成为古以色列人敬拜耶和华的中心场所。圣殿的建成标志着以色列联合王国国力的顶峰。", "latitude": 31.778, "longitude": 35.235, "category": "文化", "region": "以色列联合王国" }
+    ]
+  },
+  {
+    "year": -950,
+    "dynasties": [],
+    "events": [
+      { "title": "周穆王西巡", "description": "西周第五代君主周穆王率军西征，远至昆仑山一带，与西方各部族交往，扩展了周朝的势力范围和影响力。此行被后世记载于《穆天子传》中。", "latitude": 34.5, "longitude": 109.5, "category": "政治", "region": "西周" }
+    ]
+  },
+  {
+    "year": -930,
+    "dynasties": [],
+    "events": [
+      { "title": "以色列联合王国分裂", "description": "所罗门王去世后，以色列联合王国因内部矛盾分裂为北方的以色列王国和南方的犹大王国，自此两个希伯来王国各自发展。", "latitude": 32.0, "longitude": 35.3, "category": "政治", "region": "以色列联合王国" }
+    ]
+  },
+  {
+    "year": -900,
+    "dynasties": [],
+    "events": [
+      { "title": "新亚述帝国崛起", "description": "亚述帝国进入新亚述时期，开始大规模军事扩张，建立了当时世界上最庞大的军事力量，成为古代近东地区的霸主。", "latitude": 36.0, "longitude": 43.0, "category": "军事", "region": "新亚述帝国" }
+    ]
+  }
+]
