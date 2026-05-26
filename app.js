@@ -4,7 +4,7 @@ const App = (() => {
   const YEAR_RANGE = YEAR_MAX - YEAR_MIN
 
   const state = {
-    currentYear: 9,
+    currentYear: 1,
     selectedDynasty: null,
     viewStartYear: YEAR_MIN,
     pixelsPerYear: 1.5,
@@ -32,13 +32,12 @@ const App = (() => {
     dom.dynastyCtx = dom.dynastyCanvas.getContext('2d')
     dom.calendarCanvas = document.getElementById('calendar-canvas')
     dom.calendarCtx = dom.calendarCanvas.getContext('2d')
-    dom.yearDisplay = document.getElementById('current-year-display')
     dom.mapEl = document.getElementById('map')
     dom.mapEmptyHint = document.getElementById('map-empty-hint')
     dom.eventPanel = document.getElementById('event-detail-panel')
     dom.eventTitle = document.getElementById('event-detail-title')
-    dom.eventYear = document.getElementById('event-detail-year')
     dom.eventCategory = document.getElementById('event-detail-category')
+    dom.eventContinent = document.getElementById('event-detail-continent')
     dom.eventRegion = document.getElementById('event-detail-region')
     dom.eventDesc = document.getElementById('event-detail-description')
     dom.eventClose = document.getElementById('event-detail-close')
@@ -84,6 +83,18 @@ const App = (() => {
   function formatYear(y) {
     if (y < 0) return `公元前${Math.abs(y)}年`
     return `公元${y}年`
+  }
+
+  function updateRuleDisplay(year, yearData) {
+    const el = document.getElementById('rule-quote')
+    if (!el) return
+    const dynData = yearData && yearData.dynasties
+    if (dynData && dynData.length > 0) {
+      const primary = dynData[0]
+      el.textContent = `${formatYear(year)}，${primary.name}，${primary.ruler}，${primary.era}`
+    } else {
+      el.textContent = formatYear(year)
+    }
   }
 
   function yearToX(year, canvasWidth) {
@@ -200,7 +211,7 @@ const App = (() => {
 
         if (width > 14) {
           ctx.fillStyle = (isActive || isCurrent || isHovered) ? '#fff' : 'rgba(255,255,255,0.6)'
-          ctx.font = `${Math.max(8, Math.min(10, barH * 0.7))}px "PingFang SC", "Microsoft YaHei", sans-serif`
+          ctx.font = `${Math.max(7, Math.min(9, barH * 0.65))}px "PingFang SC", "Microsoft YaHei", sans-serif`
           ctx.textAlign = 'center'
           ctx.textBaseline = 'middle'
           ctx.fillText(d.name, x1 + width / 2, barY + barH / 2)
@@ -357,13 +368,6 @@ const App = (() => {
           ctx.moveTo(x, tickTop)
           ctx.lineTo(x, tickTop + largeTickH)
           ctx.stroke()
-
-          ctx.fillStyle = '#e6edf3'
-          ctx.font = '9px monospace'
-          ctx.textAlign = 'center'
-          ctx.textBaseline = 'top'
-          const label = y < 0 ? `前${Math.abs(y)}` : `${y}`
-          ctx.fillText(label, x, tickTop + largeTickH + 4)
         } else if (isDecade) {
           ctx.strokeStyle = '#484f58'
           ctx.lineWidth = 1
@@ -638,38 +642,15 @@ const App = (() => {
     dom.shortcutPanel.classList.toggle('hidden')
   }
 
-  function updateYearDisplay(year) {
-    dom.yearDisplay.textContent = formatYear(year)
-  }
-
   const EventPanel = {
     showEvents(year, yearData) {
-      const listYear = document.getElementById('event-list-year')
-      const listCount = document.getElementById('event-list-count')
       const listBody = document.getElementById('event-list-body')
 
       const events = yearData.events
-      const dynastiesData = yearData.dynasties
-
-      if (listYear) listYear.textContent = formatYear(year)
-      if (listCount) listCount.textContent = events && events.length ? `${events.length} 条事件` : ''
 
       if (!listBody) return
 
       let html = ''
-
-      if (dynastiesData && dynastiesData.length > 0) {
-        html += '<div class="event-region-group"><div class="event-region-title">帝王年号</div>'
-        dynastiesData.forEach(r => {
-          const color = dynasties.find(d => d.id === r.dynastyId)
-          html += `<div class="event-item">
-            <span class="event-item-dot" style="background:${color ? color.color : '#888'};"></span>
-            <span class="event-item-cat">${r.name || r.dynastyId}</span>
-            <span class="event-item-title">${r.ruler} · ${r.era}</span>
-          </div>`
-        })
-        html += '</div>'
-      }
 
       if (!events || events.length === 0) {
         html += '<p style="color:var(--color-text-muted);font-size:12px;padding:8px;">该年份暂无记录事件</p>'
@@ -679,19 +660,27 @@ const App = (() => {
 
       const groups = {}
       events.forEach(evt => {
+        const continent = evt.continent || '其他'
+        if (!groups[continent]) groups[continent] = {}
         const region = evt.region || '其他'
-        if (!groups[region]) groups[region] = []
-        groups[region].push(evt)
+        if (!groups[continent][region]) groups[continent][region] = []
+        groups[continent][region].push(evt)
       })
 
-      Object.keys(groups).sort().forEach(region => {
-        html += `<div class="event-region-group"><div class="event-region-title">${region}</div>`
-        groups[region].forEach(evt => {
-          html += `<div class="event-item" data-title="${evt.title.replace(/"/g, '&quot;')}">
-            <span class="event-item-dot"></span>
-            <span class="event-item-cat">${evt.category || '事件'}</span>
-            <span class="event-item-title">${evt.title}</span>
-          </div>`
+      const continentOrder = ['亚洲', '欧洲', '非洲', '北美洲', '南美洲', '大洋洲', '其他']
+      continentOrder.forEach(continent => {
+        if (!groups[continent]) return
+        html += `<div class="event-continent-group"><div class="event-continent-title">${continent}</div>`
+        Object.keys(groups[continent]).sort().forEach(region => {
+          html += `<div class="event-region-group"><div class="event-region-title">${region}</div><div class="event-region-items">`
+          groups[continent][region].forEach(evt => {
+            html += `<div class="event-item" data-title="${evt.title.replace(/"/g, '&quot;')}">
+              <span class="event-item-dot"></span>
+              <span class="event-item-cat">${evt.category || '事件'}</span>
+              <span class="event-item-title">${evt.title}</span>
+            </div>`
+          })
+          html += '</div></div>'
         })
         html += '</div>'
       })
@@ -727,6 +716,7 @@ const App = (() => {
     showLoading()
     try {
       const yearData = await DataLoader.getYearData(year)
+      updateRuleDisplay(year, yearData)
       MapView.showEvents(yearData.events)
       EventPanel.showEvents(year, yearData)
     } catch (err) {
@@ -825,14 +815,12 @@ const App = (() => {
   function setupSubscriptions() {
     on('dynastySelected', dynasty => {
       state.currentYear = dynasty.start
-      updateYearDisplay(dynasty.start)
       CalendarTimeline.animateScrollToYear(dynasty.start)
       CalendarTimeline.draw()
       loadAndShowEvents(dynasty.start)
     })
 
     on('yearChanged', year => {
-      updateYearDisplay(year)
       loadAndShowEvents(year)
       const activeDynasty = dynasties.find(d => year >= d.start && year <= d.end)
       if (activeDynasty) {
@@ -843,8 +831,8 @@ const App = (() => {
 
     on('eventSelected', evt => {
       dom.eventTitle.textContent = evt.title
-      dom.eventYear.textContent = formatYear(evt.year)
       dom.eventCategory.textContent = evt.category || '历史事件'
+      dom.eventContinent.textContent = evt.continent || ''
       dom.eventRegion.textContent = evt.region || ''
       dom.eventDesc.textContent = evt.description
       dom.eventPanel.classList.remove('hidden')
@@ -860,7 +848,6 @@ const App = (() => {
     DynastyTimeline.resize()
     CalendarTimeline.resize()
 
-    updateYearDisplay(state.currentYear)
     await loadAndShowEvents(state.currentYear)
   }
 

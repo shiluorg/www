@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>实录 - 历史时间轴</title>
+  <title>实录 shilu.org - 地球硅基文明年表：人类群星闪耀时</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <link rel="stylesheet" href="style.css">
 </head>
@@ -11,6 +11,7 @@
   <div id="app">
     <header id="header">
       <h1 id="site-title">实录</h1>
+      <div id="rule-quote"></div>
       <button id="shortcut-btn" class="icon-btn" title="键盘快捷键">⌨</button>
     </header>
 
@@ -23,10 +24,6 @@
       <div id="calendar-timeline-container">
         <canvas id="calendar-canvas"></canvas>
         <div id="calendar-tooltip" class="tooltip hidden"></div>
-      </div>
-
-      <div id="year-indicator">
-        <span id="current-year-display">公元1年</span>
       </div>
     </div>
 
@@ -47,8 +44,8 @@
             <button id="event-detail-close" class="icon-btn">✕</button>
           </div>
           <div id="event-detail-body">
-            <p id="event-detail-year"></p>
             <span id="event-detail-category"></span>
+            <span id="event-detail-continent"></span>
             <span id="event-detail-region"></span>
             <p id="event-detail-description"></p>
           </div>
@@ -56,10 +53,6 @@
       </div>
 
       <div id="event-list-panel">
-        <div id="event-list-header">
-          <span id="event-list-year"></span>
-          <span id="event-list-count"></span>
-        </div>
         <div id="event-list-body"></div>
       </div>
     </div>
