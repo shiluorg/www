@@ -18,6 +18,33 @@
         "category": "政治",
         "region": "隋",
         "continent": "亚洲"
+      },
+      {
+        "title": "隋文帝去世",
+        "description": "隋文帝杨坚病逝隋炀帝继位。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "隋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "大运河贯通南北",
+        "description": "隋大运河促进南北经济交流。",
+        "latitude": 35.0,
+        "longitude": 116.0,
+        "category": "经济",
+        "region": "隋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲早期农业工具",
+        "description": "重犁。",
+        "latitude": 50.0,
+        "longitude": 3.0,
+        "category": "农业",
+        "region": "欧洲",
+        "continent": "欧洲"
       }
     ]
   },
@@ -37,6 +64,42 @@
         "description": "隋朝派刘方率军平定交州（今越南北部）李佛子叛乱，隋朝势力延伸至安南地区，加强了对南方边疆的控制。",
         "latitude": 21.0,
         "longitude": 105.8,
+        "category": "军事",
+        "region": "隋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "唐朝兴盛与对外扩张",
+        "description": "唐朝疆域达到极盛，唐朝文化影响日本、朝鲜和西域各国。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲经济自给自足",
+        "description": "西欧庄园经济成为社会基础。",
+        "latitude": 48.0,
+        "longitude": 3.0,
+        "category": "经济",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "吐蕃王朝制度建设",
+        "description": "松赞干布等赞普建立法律制度。",
+        "latitude": 29.0,
+        "longitude": 90.0,
+        "category": "政治",
+        "region": "吐蕃",
+        "continent": "亚洲"
+      },
+      {
+        "title": "隋将韦云起击契丹",
+        "description": "隋军击败契丹部落。",
+        "latitude": 42.0,
+        "longitude": 120.0,
         "category": "军事",
         "region": "隋",
         "continent": "亚洲"
@@ -71,6 +134,15 @@
         "category": "军事",
         "region": "拜占庭帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "突原可汗向隋朝贡",
+        "description": "突厥向隋称臣。",
+        "latitude": 45.0,
+        "longitude": 100.0,
+        "category": "外交",
+        "region": "突厥",
+        "continent": "亚洲"
       }
     ]
   },
@@ -93,6 +165,24 @@
         "category": "政治",
         "region": "隋",
         "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯半岛统一战争",
+        "description": "先知穆罕默德统一阿拉伯各部落。",
+        "latitude": 24.0,
+        "longitude": 42.0,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "斯拉夫部落迁徙定居",
+        "description": "斯拉夫人在东欧和巴尔干半岛定居。",
+        "latitude": 50.0,
+        "longitude": 28.0,
+        "category": "社会",
+        "region": "斯拉夫人",
+        "continent": "欧洲"
       }
     ]
   },
@@ -122,6 +212,51 @@
         "latitude": 34.7,
         "longitude": 112.5,
         "category": "社会",
+        "region": "隋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "隋唐大运河建设",
+        "description": "隋炀帝和唐代扩建大运河，连接南北经济命脉。",
+        "latitude": 35.0,
+        "longitude": 116.0,
+        "category": "科技",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "拜占庭巴尔干防御",
+        "description": "拜占庭帝国在巴尔干抵御斯拉夫人定居。",
+        "latitude": 42.0,
+        "longitude": 23.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "拜占庭帝国军区制推广",
+        "description": "拜占庭在全国推行军区制度。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "大运河开工",
+        "description": "隋朝大运河工程启动。",
+        "latitude": 35.0,
+        "longitude": 116.0,
+        "category": "科技",
+        "region": "隋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "科举制度确立",
+        "description": "中国确立科举选官制度。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "制度",
         "region": "隋",
         "continent": "亚洲"
       }
@@ -155,6 +290,42 @@
         "category": "社会",
         "region": "隋",
         "continent": "亚洲"
+      },
+      {
+        "title": "戒日王即位",
+        "description": "戒日王即位，北印度进入戒日帝国时代。",
+        "latitude": 28.0,
+        "longitude": 78.0,
+        "category": "政治",
+        "region": "戒日帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "中国科举制度发展",
+        "description": "唐朝继续完善和改进科举取士制度。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "新罗与唐朝关系",
+        "description": "新罗遣使与唐朝保持密切关系。",
+        "latitude": 37.6,
+        "longitude": 127.0,
+        "category": "外交",
+        "region": "新罗",
+        "continent": "亚洲"
+      },
+      {
+        "title": "隋炀帝营建东都",
+        "description": "大规模营建洛阳。",
+        "latitude": 34.7,
+        "longitude": 112.5,
+        "category": "政治",
+        "region": "隋",
+        "continent": "亚洲"
       }
     ]
   },
@@ -186,6 +357,15 @@
         "category": "外交",
         "region": "隋",
         "continent": "亚洲"
+      },
+      {
+        "title": "日本飞鸟时代改革",
+        "description": "日本圣德太子推动佛教和儒家文化传播，大化改新逐步展开。",
+        "latitude": 34.5,
+        "longitude": 136.0,
+        "category": "政治",
+        "region": "日本",
+        "continent": "亚洲"
       }
     ]
   },
@@ -208,6 +388,24 @@
         "category": "经济",
         "region": "隋",
         "continent": "亚洲"
+      },
+      {
+        "title": "日本飞鸟时代佛教文化",
+        "description": "日本在佛教影响下建造寺院发展艺术。",
+        "latitude": 34.5,
+        "longitude": 136.0,
+        "category": "文化",
+        "region": "倭国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "隋征辽东",
+        "description": "隋炀帝第一次征高句丽。",
+        "latitude": 40.0,
+        "longitude": 125.0,
+        "category": "军事",
+        "region": "隋",
+        "continent": "亚洲"
       }
     ]
   },
@@ -228,6 +426,15 @@
         "latitude": 36.6,
         "longitude": 101.8,
         "category": "军事",
+        "region": "隋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "隋炀帝西巡",
+        "description": "巡视河西走廊。",
+        "latitude": 39.0,
+        "longitude": 100.0,
+        "category": "政治",
         "region": "隋",
         "continent": "亚洲"
       }
@@ -259,6 +466,51 @@
         "latitude": 34.7,
         "longitude": 112.5,
         "category": "外交",
+        "region": "隋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "伊斯兰教兴起与阿拉伯帝国扩张",
+        "description": "先知穆罕默德创立伊斯兰教，阿拉伯帝国崛起并迅速扩张。",
+        "latitude": 24.0,
+        "longitude": 40.0,
+        "category": "宗教",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "玛雅文明全盛",
+        "description": "中美洲玛雅文明进入古典时期全盛阶段，建造大型金字塔。",
+        "latitude": 17.0,
+        "longitude": -90.0,
+        "category": "文化",
+        "region": "玛雅",
+        "continent": "北美洲"
+      },
+      {
+        "title": "中国雕版印刷最早记载",
+        "description": "中国雕版印刷佛经和历书。",
+        "latitude": 34.0,
+        "longitude": 115.0,
+        "category": "科技",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "大运河通航",
+        "description": "隋大运河全线贯通。",
+        "latitude": 35.0,
+        "longitude": 116.0,
+        "category": "科技",
+        "region": "隋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "隋朝人口普查",
+        "description": "隋朝人口统计约5000万。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "社会",
         "region": "隋",
         "continent": "亚洲"
       }
@@ -305,6 +557,15 @@
         "category": "军事",
         "region": "隋",
         "continent": "亚洲"
+      },
+      {
+        "title": "李密聚众瓦岗",
+        "description": "瓦岗军在河南起义。",
+        "latitude": 34.5,
+        "longitude": 114.0,
+        "category": "社会",
+        "region": "隋",
+        "continent": "亚洲"
       }
     ]
   },
@@ -324,6 +585,24 @@
         "description": "隋炀帝再次征伐高句丽，围攻辽东城。后方礼部尚书杨玄感在黎阳起兵反隋，炀帝被迫回师平叛。杨玄感兵败自杀，但隋朝统治已严重动摇。",
         "latitude": 39.1,
         "longitude": 125.0,
+        "category": "军事",
+        "region": "隋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "西哥特王国在西班牙",
+        "description": "西哥特王国在伊比利亚半岛统治巩固。",
+        "latitude": 40.0,
+        "longitude": -3.0,
+        "category": "政治",
+        "region": "西哥特王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "杨玄感反隋",
+        "description": "贵族杨玄感起兵反隋。",
+        "latitude": 34.5,
+        "longitude": 114.5,
         "category": "军事",
         "region": "隋",
         "continent": "亚洲"
@@ -349,6 +628,15 @@
         "category": "军事",
         "region": "隋",
         "continent": "亚洲"
+      },
+      {
+        "title": "窦建德崛起",
+        "description": "窦建德在河北起义。",
+        "latitude": 38.0,
+        "longitude": 115.0,
+        "category": "社会",
+        "region": "隋",
+        "continent": "亚洲"
       }
     ]
   },
@@ -371,6 +659,15 @@
         "category": "军事",
         "region": "隋",
         "continent": "亚洲"
+      },
+      {
+        "title": "巴加尔大帝即位帕伦克",
+        "description": "巴加尔大帝统治玛雅城邦帕伦克，建造铭文神庙。",
+        "latitude": 17.5,
+        "longitude": -92.0,
+        "category": "政治",
+        "region": "玛雅",
+        "continent": "北美洲"
       }
     ]
   },
@@ -424,6 +721,15 @@
         "category": "军事",
         "region": "隋",
         "continent": "亚洲"
+      },
+      {
+        "title": "唐王李渊入长安",
+        "description": "李渊攻占长安。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
       }
     ]
   },
@@ -470,6 +776,15 @@
         "category": "军事",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "唐朝货币改革",
+        "description": "唐朝铸造开元通宝。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "经济",
+        "region": "唐",
+        "continent": "亚洲"
       }
     ]
   },
@@ -490,6 +805,15 @@
         "latitude": 34.7,
         "longitude": 112.5,
         "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "唐稳固关中",
+        "description": "唐朝巩固关中根据地。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "军事",
         "region": "唐",
         "continent": "亚洲"
       }
@@ -513,6 +837,24 @@
         "longitude": 112.5,
         "category": "军事",
         "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "李世民平薛仁杲",
+        "description": "唐平定陇右薛仁杲。",
+        "latitude": 35.5,
+        "longitude": 105.0,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "伊斯兰历法确立",
+        "description": "回历。",
+        "latitude": 24.5,
+        "longitude": 39.6,
+        "category": "历法",
+        "region": "阿拉伯帝国",
         "continent": "亚洲"
       }
     ]
@@ -545,6 +887,15 @@
         "category": "政治",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "李世民虎牢破夏",
+        "description": "虎牢关大破窦建德。",
+        "latitude": 34.7,
+        "longitude": 113.2,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
       }
     ]
   },
@@ -563,6 +914,15 @@
         "title": "刘黑闼起义",
         "description": "窦建德旧部刘黑闼在河北起兵反唐，屡败唐军，半年内收复窦建德故地。李世民率军征讨，在洺水之战中击败刘黑闼。",
         "latitude": 38.9,
+        "longitude": 115.0,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "唐平定刘黑闼",
+        "description": "李世民击败河北刘黑闼。",
+        "latitude": 38.0,
         "longitude": 115.0,
         "category": "军事",
         "region": "唐",
@@ -598,6 +958,15 @@
         "category": "军事",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "唐统一基本完成",
+        "description": "各路割据势力平定。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
       }
     ]
   },
@@ -618,6 +987,24 @@
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "唐定制度",
+        "description": "高祖定官制科举制。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "唐武德律令",
+        "description": "唐朝第一部律法颁布。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "法律",
         "region": "唐",
         "continent": "亚洲"
       }
@@ -650,6 +1037,15 @@
         "longitude": 35.2,
         "category": "军事",
         "region": "拜占庭帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "唐与突厥战和",
+        "description": "突厥颉利屡扰唐边。",
+        "latitude": 38.0,
+        "longitude": 110.0,
+        "category": "军事",
+        "region": "唐",
         "continent": "亚洲"
       }
     ]
@@ -770,6 +1166,15 @@
         "category": "军事",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "日本遣唐使",
+        "description": "日本大规模派遣唐使。",
+        "latitude": 34.5,
+        "longitude": 136.0,
+        "category": "外交",
+        "region": "倭国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -790,6 +1195,24 @@
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "外交",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "唐三省六部完善",
+        "description": "唐朝官制体系成熟。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "唐朝葡萄酒酿造",
+        "description": "葡萄酒。",
+        "latitude": 40.0,
+        "longitude": 110.0,
+        "category": "饮食",
         "region": "唐",
         "continent": "亚洲"
       }
@@ -822,6 +1245,15 @@
         "longitude": 39.6,
         "category": "宗教",
         "region": "阿拉伯",
+        "continent": "亚洲"
+      },
+      {
+        "title": "先知穆罕默德归真",
+        "description": "伊斯兰教先知穆罕默德去世。",
+        "latitude": 24.5,
+        "longitude": 39.6,
+        "category": "宗教",
+        "region": "阿拉伯帝国",
         "continent": "亚洲"
       }
     ]
@@ -876,6 +1308,15 @@
         "category": "外交",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯攻占大马士革",
+        "description": "叙利亚大马士革降服。",
+        "latitude": 33.5,
+        "longitude": 36.3,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -906,6 +1347,15 @@
         "longitude": 101.8,
         "category": "军事",
         "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯攻耶路撒冷",
+        "description": "耶路撒冷归降。",
+        "latitude": 31.8,
+        "longitude": 35.2,
+        "category": "军事",
+        "region": "阿拉伯帝国",
         "continent": "亚洲"
       }
     ]
@@ -938,6 +1388,15 @@
         "category": "文化",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "雅尔穆克河战役",
+        "description": "阿拉伯大败拜占庭。",
+        "latitude": 32.8,
+        "longitude": 35.9,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -960,6 +1419,15 @@
         "category": "政治",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯征服美索不达米亚",
+        "description": "伊拉克地区入阿拉伯版图。",
+        "latitude": 33.3,
+        "longitude": 44.4,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -981,6 +1449,15 @@
         "longitude": 103.6,
         "category": "军事",
         "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯攻占安条克",
+        "description": "安条克降。",
+        "latitude": 36.2,
+        "longitude": 36.8,
+        "category": "军事",
+        "region": "阿拉伯帝国",
         "continent": "亚洲"
       }
     ]
@@ -1013,6 +1490,15 @@
         "category": "军事",
         "region": "阿拉伯帝国",
         "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯入侵埃及",
+        "description": "阿穆尔率军入埃及。",
+        "latitude": 30.5,
+        "longitude": 31.0,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "非洲"
       }
     ]
   },
@@ -1033,6 +1519,42 @@
         "latitude": 42.9,
         "longitude": 89.2,
         "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "室利佛逝王国建立",
+        "description": "苏门答腊岛上室利佛逝（三佛齐）王国建立。",
+        "latitude": -2.8,
+        "longitude": 104.0,
+        "category": "政治",
+        "region": "室利佛逝",
+        "continent": "亚洲"
+      },
+      {
+        "title": "王玄策出使印度",
+        "description": "唐朝使节王玄策借吐蕃兵平定印度叛乱。",
+        "latitude": 28.0,
+        "longitude": 78.0,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯围埃及巴比伦堡",
+        "description": "埃及巴比伦堡战役。",
+        "latitude": 30.0,
+        "longitude": 31.2,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "非洲"
+      },
+      {
+        "title": "唐僧义净赴印",
+        "description": "义净西行。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "宗教",
         "region": "唐",
         "continent": "亚洲"
       }
@@ -1057,6 +1579,24 @@
         "category": "外交",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯占亚历山大",
+        "description": "埃及亚历山大港降。",
+        "latitude": 31.2,
+        "longitude": 29.9,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "非洲"
+      },
+      {
+        "title": "亚历山大大图书馆",
+        "description": "图书馆。",
+        "latitude": 31.2,
+        "longitude": 29.9,
+        "category": "文化",
+        "region": "阿拉伯帝国",
+        "continent": "非洲"
       }
     ]
   },
@@ -1088,6 +1628,15 @@
         "category": "政治",
         "region": "高句丽",
         "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯征服埃及全境",
+        "description": "埃及成为阿拉伯行省。",
+        "latitude": 30.0,
+        "longitude": 31.0,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "非洲"
       }
     ]
   },
@@ -1113,10 +1662,28 @@
       },
       {
         "title": "魏徵病逝",
-        "description": "一代名臣魏徵病逝，唐太宗亲临恸哭，罢朝五日。太宗感叹：\u201c以铜为镜，可以正衣冠；以史为镜，可以知兴替；以人为镜，可以明得失。\u201d魏徵死后再无如此敢谏之臣。",
+        "description": "一代名臣魏徵病逝，唐太宗亲临恸哭，罢朝五日。太宗感叹：“以铜为镜，可以正衣冠；以史为镜，可以知兴替；以人为镜，可以明得失。”魏徵死后再无如此敢谏之臣。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯向西扩",
+        "description": "阿拉伯人北非西进。",
+        "latitude": 33.0,
+        "longitude": 11.0,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "非洲"
+      },
+      {
+        "title": "颜氏家训广泛流传",
+        "description": "颜之推家训。",
+        "latitude": 34.0,
+        "longitude": 115.0,
+        "category": "教育",
         "region": "唐",
         "continent": "亚洲"
       }
@@ -1140,6 +1707,15 @@
         "longitude": 125.0,
         "category": "军事",
         "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "第三任哈里发奥斯曼",
+        "description": "奥斯曼任哈里发。",
+        "latitude": 33.5,
+        "longitude": 36.3,
+        "category": "政治",
+        "region": "阿拉伯帝国",
         "continent": "亚洲"
       }
     ]
@@ -1209,6 +1785,15 @@
         "category": "外交",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "唐灭薛延陀",
+        "description": "唐朝灭漠北薛延陀。",
+        "latitude": 47.0,
+        "longitude": 105.0,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1231,6 +1816,15 @@
         "category": "政治",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯舰队造",
+        "description": "阿拉伯建海军。",
+        "latitude": 33.5,
+        "longitude": 36.3,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1251,6 +1845,15 @@
         "latitude": 28.6,
         "longitude": 77.2,
         "category": "外交",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "唐置安西都护",
+        "description": "唐设安西四镇。",
+        "latitude": 41.0,
+        "longitude": 80.0,
+        "category": "政治",
         "region": "唐",
         "continent": "亚洲"
       }
@@ -1297,6 +1900,33 @@
         "category": "政治",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "西突厥被唐朝击败",
+        "description": "唐朝击败西突厥，控制中亚西域。",
+        "latitude": 42.0,
+        "longitude": 75.0,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "摩洛哥城市发展",
+        "description": "北非城市凯鲁万繁荣。",
+        "latitude": 31.0,
+        "longitude": 9.0,
+        "category": "文化",
+        "region": "阿拉伯帝国",
+        "continent": "非洲"
+      },
+      {
+        "title": "欧洲马镫普及",
+        "description": "骑兵。",
+        "latitude": 48.0,
+        "longitude": 4.0,
+        "category": "军事科技",
+        "region": "欧洲",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1319,6 +1949,15 @@
         "category": "宗教",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯彻底灭波斯",
+        "description": "波斯帝国最终灭亡。",
+        "latitude": 33.0,
+        "longitude": 46.0,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1339,6 +1978,24 @@
         "latitude": 43.0,
         "longitude": 82.0,
         "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "倭马亚家族崛起",
+        "description": "穆阿维叶强大。",
+        "latitude": 33.5,
+        "longitude": 36.3,
+        "category": "政治",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "唐律疏议成书",
+        "description": "唐朝法律注释。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "法律",
         "region": "唐",
         "continent": "亚洲"
       }
@@ -1370,6 +2027,24 @@
         "latitude": 29.6,
         "longitude": 119.0,
         "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "玄奘回长安",
+        "description": "玄奘携经返回。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "宗教",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "玄奘译经",
+        "description": "玄奘翻译佛经。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "宗教",
         "region": "唐",
         "continent": "亚洲"
       }
@@ -1416,6 +2091,15 @@
         "category": "政治",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯首攻君士坦丁堡",
+        "description": "阿拉伯舰队攻拜占庭都城。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1447,6 +2131,15 @@
         "category": "军事",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "奥斯曼哈里发遇刺",
+        "description": "第三任哈里发遇刺。",
+        "latitude": 33.5,
+        "longitude": 36.3,
+        "category": "政治",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1468,6 +2161,15 @@
         "longitude": 82.0,
         "category": "军事",
         "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿里任第四任哈里发",
+        "description": "阿里成为哈里发。",
+        "latitude": 36.2,
+        "longitude": 36.8,
+        "category": "政治",
+        "region": "阿拉伯帝国",
         "continent": "亚洲"
       }
     ]
@@ -1513,6 +2215,15 @@
         "category": "政治",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "唐朝安西都护府扩张",
+        "description": "唐朝影响力延至中亚。",
+        "latitude": 41.0,
+        "longitude": 80.0,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1534,6 +2245,24 @@
         "longitude": 126.9,
         "category": "军事",
         "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "唐灭百济",
+        "description": "唐与新罗攻灭百济。",
+        "latitude": 36.0,
+        "longitude": 127.0,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "日本渔业发展",
+        "description": "渔业。",
+        "latitude": 35.0,
+        "longitude": 136.0,
+        "category": "经济",
+        "region": "日本",
         "continent": "亚洲"
       }
     ]
@@ -1566,6 +2295,15 @@
         "category": "军事",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "倭马亚定都大马士革",
+        "description": "穆阿维叶迁都大马士革。",
+        "latitude": 33.5,
+        "longitude": 36.3,
+        "category": "政治",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1587,6 +2325,15 @@
         "longitude": 126.5,
         "category": "军事",
         "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯攻安纳托利亚",
+        "description": "阿拉伯军入小亚细亚。",
+        "latitude": 39.0,
+        "longitude": 33.0,
+        "category": "军事",
+        "region": "阿拉伯帝国",
         "continent": "亚洲"
       }
     ]
@@ -1632,6 +2379,15 @@
         "category": "文化",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯北非西进",
+        "description": "阿拉伯军攻至迦太基。",
+        "latitude": 34.0,
+        "longitude": 10.0,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "非洲"
       }
     ]
   },
@@ -1685,6 +2441,15 @@
         "category": "政治",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯舰队再攻拜占庭",
+        "description": "多次进攻君士坦丁堡。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1716,6 +2481,15 @@
         "category": "军事",
         "region": "阿拉伯帝国",
         "continent": "亚洲"
+      },
+      {
+        "title": "日本天智天皇即位",
+        "description": "中大兄皇子即位。",
+        "latitude": 34.5,
+        "longitude": 136.0,
+        "category": "政治",
+        "region": "日本",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1743,6 +2517,15 @@
         "title": "新罗统一朝鲜半岛",
         "description": "新罗在唐朝帮助下统一朝鲜半岛大同江以南地区。新罗进入统一新罗时代，全面吸收唐朝文化制度，开启朝鲜半岛的繁荣时期。",
         "latitude": 37.5,
+        "longitude": 127.0,
+        "category": "政治",
+        "region": "新罗",
+        "continent": "亚洲"
+      },
+      {
+        "title": "新罗统国后发展",
+        "description": "新罗推行唐制。",
+        "latitude": 37.6,
         "longitude": 127.0,
         "category": "政治",
         "region": "新罗",
@@ -1778,6 +2561,15 @@
         "category": "军事",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "唐朝商业发展",
+        "description": "唐朝商贸繁荣。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "经济",
+        "region": "唐",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1799,6 +2591,33 @@
         "longitude": 100.6,
         "category": "军事",
         "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "塞伦德拉王朝统治爪哇",
+        "description": "塞伦德拉王朝在中爪哇建造婆罗浮屠佛塔。",
+        "latitude": -7.5,
+        "longitude": 110.0,
+        "category": "政治",
+        "region": "爪哇",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯围君士坦丁堡",
+        "description": "阿拉伯大军陆海齐攻。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "中亚突厥文化",
+        "description": "突厥文。",
+        "latitude": 45.0,
+        "longitude": 90.0,
+        "category": "文字",
+        "region": "突厥",
         "continent": "亚洲"
       }
     ]
@@ -1831,6 +2650,15 @@
         "category": "军事",
         "region": "阿拉伯帝国",
         "continent": "亚洲"
+      },
+      {
+        "title": "希腊火破阿拉伯舰队",
+        "description": "拜占庭用希腊火击败阿舰队。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1853,6 +2681,15 @@
         "category": "军事",
         "region": "阿拉伯帝国",
         "continent": "非洲"
+      },
+      {
+        "title": "穆阿维叶继续围城",
+        "description": "阿拉伯坚持围城。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1878,7 +2715,7 @@
       },
       {
         "title": "阿拉伯帝国围攻君士坦丁堡",
-        "description": "阿拉伯倭马亚王朝哈里发穆阿维叶发动对拜占庭帝国首都君士坦丁堡的第一次大规模围攻。拜占庭守军首次使用秘密武器\u201c希腊火\u201d在海战中焚毁大量阿拉伯战船，阿拉伯海军惨败撤退。",
+        "description": "阿拉伯倭马亚王朝哈里发穆阿维叶发动对拜占庭帝国首都君士坦丁堡的第一次大规模围攻。拜占庭守军首次使用秘密武器“希腊火”在海战中焚毁大量阿拉伯战船，阿拉伯海军惨败撤退。",
         "latitude": 41.0,
         "longitude": 28.9,
         "category": "军事",
@@ -1906,6 +2743,15 @@
         "category": "政治",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "倭马亚货币改革",
+        "description": "阿卜杜勒马利克改革。",
+        "latitude": 33.5,
+        "longitude": 36.3,
+        "category": "经济",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1928,6 +2774,15 @@
         "category": "政治",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯北非灭拜占庭",
+        "description": "阿拉伯攻取迦太基。",
+        "latitude": 36.9,
+        "longitude": 10.3,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "非洲"
       }
     ]
   },
@@ -1949,6 +2804,15 @@
         "longitude": 124.0,
         "category": "政治",
         "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "日本制定律令",
+        "description": "日本仿唐律令改制。",
+        "latitude": 34.5,
+        "longitude": 136.0,
+        "category": "政治",
+        "region": "日本",
         "continent": "亚洲"
       }
     ]
@@ -1972,6 +2836,15 @@
         "category": "军事",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯西进西班牙",
+        "description": "阿拉伯将渡直布罗陀。",
+        "latitude": 36.0,
+        "longitude": -5.0,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2000,6 +2873,15 @@
         "description": "原百济太子扶余隆在唐朝任职多年，官至熊津都督、带方郡王。扶余隆去世后，百济遗民复国运动的最后组织力量消散，唐朝在百济故地的统治彻底终结。",
         "latitude": 36.3,
         "longitude": 126.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "唐朝北方边境治理",
+        "description": "唐在北方设都护府。",
+        "latitude": 42.0,
+        "longitude": 112.0,
         "category": "政治",
         "region": "唐",
         "continent": "亚洲"
@@ -2034,6 +2916,15 @@
         "category": "文化",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "武则天权势增长",
+        "description": "武后参与朝政。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2055,6 +2946,24 @@
         "longitude": 107.0,
         "category": "政治",
         "region": "突厥",
+        "continent": "亚洲"
+      },
+      {
+        "title": "伊斯兰什叶派成型",
+        "description": "逊尼派和什叶派分裂。",
+        "latitude": 36.0,
+        "longitude": 45.0,
+        "category": "宗教",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "中国饮茶文化",
+        "description": "茶文化。",
+        "latitude": 34.0,
+        "longitude": 118.0,
+        "category": "饮食",
+        "region": "唐",
         "continent": "亚洲"
       }
     ]
@@ -2078,6 +2987,15 @@
         "category": "军事",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯推行阿拉伯化",
+        "description": "哈里发推行阿语行政。",
+        "latitude": 33.5,
+        "longitude": 36.3,
+        "category": "政治",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2100,6 +3018,24 @@
         "category": "军事",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "亚斯奇兰城邦强盛",
+        "description": "玛雅城邦亚斯奇兰在盾豹王统治下繁荣。",
+        "latitude": 16.9,
+        "longitude": -91.0,
+        "category": "政治",
+        "region": "玛雅",
+        "continent": "北美洲"
+      },
+      {
+        "title": "后突厥汗国建立",
+        "description": "骨咄禄可汗建立后突厥汗国。",
+        "latitude": 47.0,
+        "longitude": 100.0,
+        "category": "政治",
+        "region": "突厥",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2121,6 +3057,24 @@
         "longitude": 108.9,
         "category": "政治",
         "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "希腊火在拜占庭使用",
+        "description": "拜占庭帝国使用希腊火击退阿拉伯舰队。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "科技",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "后突厥攻唐",
+        "description": "突厥扰唐北境。",
+        "latitude": 42.0,
+        "longitude": 112.0,
+        "category": "军事",
+        "region": "突厥",
         "continent": "亚洲"
       }
     ]
@@ -2153,6 +3107,15 @@
         "category": "军事",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "武则天临朝称制",
+        "description": "唐高宗病重武后摄政。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2174,6 +3137,15 @@
         "longitude": 108.9,
         "category": "政治",
         "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "倭马亚攻打花剌子模",
+        "description": "阿拉伯入河中。",
+        "latitude": 41.0,
+        "longitude": 65.0,
+        "category": "军事",
+        "region": "阿拉伯帝国",
         "continent": "亚洲"
       }
     ]
@@ -2206,6 +3178,15 @@
         "category": "文化",
         "region": "新罗",
         "continent": "亚洲"
+      },
+      {
+        "title": "保加尔人建国",
+        "description": "保加尔在巴尔干建国。",
+        "latitude": 44.0,
+        "longitude": 28.0,
+        "category": "政治",
+        "region": "保加尔汗国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2228,6 +3209,15 @@
         "category": "政治",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "丕平二世任法兰克宫相",
+        "description": "赫里斯塔尔丕平掌法兰克。",
+        "latitude": 50.0,
+        "longitude": 5.0,
+        "category": "政治",
+        "region": "法兰克王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2250,6 +3240,15 @@
         "category": "军事",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯在非洲西进",
+        "description": "阿拉伯入柏柏尔地。",
+        "latitude": 32.0,
+        "longitude": 8.0,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "非洲"
       }
     ]
   },
@@ -2271,6 +3270,15 @@
         "longitude": 108.9,
         "category": "政治",
         "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "新罗完善制度",
+        "description": "新罗仿唐政制。",
+        "latitude": 37.6,
+        "longitude": 127.0,
+        "category": "政治",
+        "region": "新罗",
         "continent": "亚洲"
       }
     ]
@@ -2294,6 +3302,15 @@
         "category": "政治",
         "region": "武周",
         "continent": "亚洲"
+      },
+      {
+        "title": "基督教在努比亚",
+        "description": "努比亚。",
+        "latitude": 20.0,
+        "longitude": 32.0,
+        "category": "宗教",
+        "region": "努比亚",
+        "continent": "非洲"
       }
     ]
   },
@@ -2315,6 +3332,15 @@
         "longitude": 112.5,
         "category": "政治",
         "region": "武周",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯建圆顶清真寺",
+        "description": "耶路撒冷圆顶寺建成。",
+        "latitude": 31.8,
+        "longitude": 35.2,
+        "category": "文化",
+        "region": "阿拉伯帝国",
         "continent": "亚洲"
       }
     ]
@@ -2338,6 +3364,15 @@
         "category": "军事",
         "region": "武周",
         "continent": "亚洲"
+      },
+      {
+        "title": "拜占庭查士丁尼复位",
+        "description": "查士丁尼二世复位。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2358,6 +3393,15 @@
         "latitude": 34.5,
         "longitude": 112.5,
         "category": "宗教",
+        "region": "武周",
+        "continent": "亚洲"
+      },
+      {
+        "title": "武周科举发展",
+        "description": "武则天创武举。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
         "region": "武周",
         "continent": "亚洲"
       }
@@ -2382,6 +3426,15 @@
         "category": "宗教",
         "region": "武周",
         "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯攻迦太基",
+        "description": "阿拉伯灭北非拜占庭。",
+        "latitude": 36.9,
+        "longitude": 10.3,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "非洲"
       }
     ]
   },
@@ -2404,6 +3457,15 @@
         "category": "政治",
         "region": "武周",
         "continent": "亚洲"
+      },
+      {
+        "title": "倭马亚易弗里基叶总督",
+        "description": "阿拉伯北非总督区。",
+        "latitude": 34.0,
+        "longitude": 9.0,
+        "category": "政治",
+        "region": "阿拉伯帝国",
+        "continent": "非洲"
       }
     ]
   },
@@ -2435,6 +3497,15 @@
         "category": "政治",
         "region": "突厥",
         "continent": "亚洲"
+      },
+      {
+        "title": "法兰克教皇同盟",
+        "description": "丕平二世与教皇结盟。",
+        "latitude": 49.0,
+        "longitude": 5.0,
+        "category": "政治",
+        "region": "法兰克王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2456,6 +3527,15 @@
         "longitude": 112.5,
         "category": "政治",
         "region": "武周",
+        "continent": "亚洲"
+      },
+      {
+        "title": "日本大宝律令实施",
+        "description": "日本法典完成。",
+        "latitude": 34.5,
+        "longitude": 136.0,
+        "category": "政治",
+        "region": "日本",
         "continent": "亚洲"
       }
     ]
@@ -2479,6 +3559,15 @@
         "category": "政治",
         "region": "武周",
         "continent": "亚洲"
+      },
+      {
+        "title": "倭马亚征拜占庭",
+        "description": "阿拉伯小亚细亚攻势。",
+        "latitude": 39.0,
+        "longitude": 33.0,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2500,6 +3589,15 @@
         "longitude": 114.5,
         "category": "军事",
         "region": "武周",
+        "continent": "亚洲"
+      },
+      {
+        "title": "唐代边防调整",
+        "description": "唐朝加强边防。",
+        "latitude": 42.0,
+        "longitude": 110.0,
+        "category": "军事",
+        "region": "唐",
         "continent": "亚洲"
       }
     ]
@@ -2523,6 +3621,15 @@
         "category": "政治",
         "region": "武周",
         "continent": "亚洲"
+      },
+      {
+        "title": "基督教在日耳曼传教",
+        "description": "英传教士入德意志。",
+        "latitude": 51.0,
+        "longitude": 9.0,
+        "category": "宗教",
+        "region": "日耳曼",
+        "continent": "欧洲"
       }
     ]
   }

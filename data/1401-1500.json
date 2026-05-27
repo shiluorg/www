@@ -1,470 +1,2878 @@
 [
   {
-    "year": 1401,
+    "year": 1400,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明惠宗朱允炆", "era": "建文三年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
     ],
     "events": [
-      { "title": "帖木儿东征明朝", "description": "帖木儿集结二十万大军东征明朝，准备以恢复蒙古帝国之名发动战争。帖木儿大军从撒马尔罕出发，行军至讹答剌时帖木儿病逝，东征计划随之瓦解。", "latitude": 42.9, "longitude": 68.3, "category": "军事", "region": "中亚", "continent": "亚洲" }
+      {
+        "title": "拉帕努伊文明鼎盛",
+        "description": "复活节岛文明在生态崩溃前达到人口高峰。",
+        "latitude": -27.1,
+        "longitude": -109.4,
+        "category": "文化",
+        "region": "拉帕努伊",
+        "continent": "大洋洲"
+      },
+      {
+        "title": "明朝国力鼎盛",
+        "description": "明朝永乐至宣德年间国力达到极盛。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "朝鲜王朝文化",
+        "description": "朝鲜世宗大王创造韩文推动文化发展。",
+        "latitude": 37.6,
+        "longitude": 127.0,
+        "category": "文化",
+        "region": "朝鲜",
+        "continent": "亚洲"
+      },
+      {
+        "title": "日本室町幕府",
+        "description": "日本室町幕府足利氏统治战国前夜。",
+        "latitude": 35.0,
+        "longitude": 136.0,
+        "category": "政治",
+        "region": "日本",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲活字印刷传播",
+        "description": "古腾堡印刷术从德国传播至欧洲各国。",
+        "latitude": 50.0,
+        "longitude": 10.0,
+        "category": "科技",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "西班牙宗教统一",
+        "description": "西班牙天主教双王国统一信仰驱逐犹太人。",
+        "latitude": 40.4,
+        "longitude": -3.7,
+        "category": "宗教",
+        "region": "西班牙",
+        "continent": "欧洲"
+      },
+      {
+        "title": "印加帝国工程",
+        "description": "印加人建造道路梯田和马丘比丘。",
+        "latitude": -13.5,
+        "longitude": -72.0,
+        "category": "科技",
+        "region": "印加帝国",
+        "continent": "南美洲"
+      }
+    ]
+  },
+  {
+    "year": 1401,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "帖木儿东征明朝",
+        "description": "帖木儿集结二十万大军东征明朝，准备以恢复蒙古帝国之名发动战争。帖木儿大军从撒马尔罕出发，行军至讹答剌时帖木儿病逝，东征计划随之瓦解。",
+        "latitude": 42.9,
+        "longitude": 68.3,
+        "category": "军事",
+        "region": "中亚",
+        "continent": "亚洲"
+      },
+      {
+        "title": "朝鲜王朝建立",
+        "description": "李成桂推翻高丽王朝，建立朝鲜王朝，定都汉城。",
+        "latitude": 37.6,
+        "longitude": 127.0,
+        "category": "政治",
+        "region": "朝鲜",
+        "continent": "亚洲"
+      },
+      {
+        "title": "明朝海禁政策",
+        "description": "明朝实行海禁限制民间海外贸易。",
+        "latitude": 30.0,
+        "longitude": 120.0,
+        "category": "经济",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "朱棣改制度",
+        "description": "靖难之役。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1402,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明惠宗朱允炆", "era": "建文四年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文四年"
+      }
     ],
     "events": [
-      { "title": "靖难之役结束与朱棣即位", "description": "燕王朱棣攻破南京，建文帝朱允炆在皇宫大火中失踪。朱棣即皇帝位，是为明成祖，年号永乐。朱棣大肆屠杀建文旧臣，方孝孺因拒绝草拟即位诏书被诛十族。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "明", "continent": "亚洲" },
-      { "title": "帖木儿去世", "description": "帖木儿在率军东征明朝途中病逝，终年约六十七岁。帖木儿帝国迅速分裂，其孙皮儿·马黑麻和沙哈鲁争夺汗位，帝国由盛转衰。", "latitude": 42.9, "longitude": 68.3, "category": "政治", "region": "中亚", "continent": "亚洲" },
-      { "title": "安卡拉战役", "description": "帖木儿在安卡拉战役中大败奥斯曼苏丹巴耶济德一世并将其俘虏。奥斯曼帝国陷入十一年内战（大空位期），拜占庭帝国因此获得喘息之机。", "latitude": 39.9, "longitude": 32.9, "category": "军事", "region": "中亚", "continent": "亚洲" }
+      {
+        "title": "靖难之役结束与朱棣即位",
+        "description": "燕王朱棣攻破南京，建文帝朱允炆在皇宫大火中失踪。朱棣即皇帝位，是为明成祖，年号永乐。朱棣大肆屠杀建文旧臣，方孝孺因拒绝草拟即位诏书被诛十族。",
+        "latitude": 32.1,
+        "longitude": 118.8,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "帖木儿去世",
+        "description": "帖木儿在率军东征明朝途中病逝，终年约六十七岁。帖木儿帝国迅速分裂，其孙皮儿·马黑麻和沙哈鲁争夺汗位，帝国由盛转衰。",
+        "latitude": 42.9,
+        "longitude": 68.3,
+        "category": "政治",
+        "region": "中亚",
+        "continent": "亚洲"
+      },
+      {
+        "title": "安卡拉战役",
+        "description": "帖木儿在安卡拉战役中大败奥斯曼苏丹巴耶济德一世并将其俘虏。奥斯曼帝国陷入十一年内战（大空位期），拜占庭帝国因此获得喘息之机。",
+        "latitude": 39.9,
+        "longitude": 32.9,
+        "category": "军事",
+        "region": "中亚",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲地理大发现",
+        "description": "葡萄牙和西班牙航海家探索非洲西海岸，开辟新航路。",
+        "latitude": 38.7,
+        "longitude": -9.1,
+        "category": "科技",
+        "region": "葡萄牙",
+        "continent": "欧洲"
+      },
+      {
+        "title": "西欧印刷术推广",
+        "description": "古腾堡印刷术在欧洲各国传播。",
+        "latitude": 50.0,
+        "longitude": 8.0,
+        "category": "科技",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "大航海时代欧洲造船",
+        "description": "欧洲各国改进造船技术适应远洋航行。",
+        "latitude": 38.7,
+        "longitude": -9.1,
+        "category": "科技",
+        "region": "葡萄牙",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1403,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "明朝迁都北京准备",
+        "description": "明成祖朱棣决定将都城从南京迁往北京，开始大规模营建北京城。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "朱棣即皇帝位",
+        "description": "永乐帝登基。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1404,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "威尔士欧文·格林杜尔起义",
+        "description": "威尔士王子欧文·格林杜尔领导威尔士反抗英格兰统治。",
+        "latitude": 52.0,
+        "longitude": -4.0,
+        "category": "军事",
+        "region": "威尔士",
+        "continent": "欧洲"
+      },
+      {
+        "title": "阿兹特克帝国扩张",
+        "description": "阿兹特克人在中美洲建立庞大帝国，首都特诺奇蒂特兰繁荣。",
+        "latitude": 19.4,
+        "longitude": -99.1,
+        "category": "政治",
+        "region": "阿兹特克帝国",
+        "continent": "北美洲"
+      },
+      {
+        "title": "埃塞俄比亚基督教王国",
+        "description": "埃塞俄比亚所罗门王朝繁荣发展基督教文化。",
+        "latitude": 12.0,
+        "longitude": 39.0,
+        "category": "宗教",
+        "region": "埃塞俄比亚",
+        "continent": "非洲"
+      },
+      {
+        "title": "帖木儿东征准备",
+        "description": "拟征明。",
+        "latitude": 39.0,
+        "longitude": 66.0,
+        "category": "军事",
+        "region": "帖木儿帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1405,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明成祖朱棣", "era": "永乐三年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明成祖朱棣",
+        "era": "永乐三年"
+      }
     ],
     "events": [
-      { "title": "郑和第一次下西洋", "description": "明成祖朱棣命太监郑和率庞大船队从苏州刘家港出发，第一次下西洋。船队有两万七千余人、两百多艘船只，先后到达占城、爪哇、苏门答腊、锡兰等地，宣读明朝国威。", "latitude": 31.3, "longitude": 121.3, "category": "外交", "region": "明", "continent": "亚洲" }
+      {
+        "title": "郑和第一次下西洋",
+        "description": "明成祖朱棣命太监郑和率庞大船队从苏州刘家港出发，第一次下西洋。船队有两万七千余人、两百多艘船只，先后到达占城、爪哇、苏门答腊、锡兰等地，宣读明朝国威。",
+        "latitude": 31.3,
+        "longitude": 121.3,
+        "category": "外交",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "郑和七下西洋",
+        "description": "明朝郑和率领庞大船队远航至东南亚、印度、中东和东非。",
+        "latitude": 20.0,
+        "longitude": 110.0,
+        "category": "科技",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "西非贸易帝国",
+        "description": "马里和桑海帝国控制西非横贯商路。",
+        "latitude": 16.0,
+        "longitude": 0.0,
+        "category": "经济",
+        "region": "西非",
+        "continent": "非洲"
+      },
+      {
+        "title": "阿兹特克帝国社会",
+        "description": "阿兹特克人在中美洲建设强大帝国。",
+        "latitude": 19.4,
+        "longitude": -99.1,
+        "category": "政治",
+        "region": "阿兹特克帝国",
+        "continent": "北美洲"
+      }
     ]
   },
   {
     "year": 1406,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明成祖朱棣", "era": "永乐四年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明成祖朱棣",
+        "era": "永乐四年"
+      }
     ],
     "events": [
-      { "title": "明朝开始营建北京", "description": "明成祖朱棣下诏营建北京城，为迁都做准备。工程由泰宁侯陈珪主持，征发三十万工匠和百万民夫，修建紫禁城、天坛、钟鼓楼等宏伟建筑。", "latitude": 39.9, "longitude": 116.4, "category": "社会", "region": "明", "continent": "亚洲" }
+      {
+        "title": "明朝开始营建北京",
+        "description": "明成祖朱棣下诏营建北京城，为迁都做准备。工程由泰宁侯陈珪主持，征发三十万工匠和百万民夫，修建紫禁城、天坛、钟鼓楼等宏伟建筑。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "社会",
+        "region": "明",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1407,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明成祖朱棣", "era": "永乐五年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明成祖朱棣",
+        "era": "永乐五年"
+      }
     ],
     "events": [
-      { "title": "《永乐大典》编纂完成", "description": "明成祖命解缙、姚广孝主持编纂的《永乐大典》完成。全书二万二千八百七十七卷，一万一千零九十五册，收录古今图书七八千种，是世界上最大的一部百科全书。", "latitude": 32.1, "longitude": 118.8, "category": "文化", "region": "明", "continent": "亚洲" },
-      { "title": "郑和第二次下西洋", "description": "郑和第二次率船队下西洋，此次航行到达了印度西海岸的古里（今科泽科德）等地。郑和船队在锡兰（斯里兰卡）立碑纪念，碑文用中文、泰米尔文和波斯文三种文字书写。", "latitude": 11.0, "longitude": 76.0, "category": "外交", "region": "明", "continent": "亚洲" }
+      {
+        "title": "《永乐大典》编纂完成",
+        "description": "明成祖命解缙、姚广孝主持编纂的《永乐大典》完成。全书二万二千八百七十七卷，一万一千零九十五册，收录古今图书七八千种，是世界上最大的一部百科全书。",
+        "latitude": 32.1,
+        "longitude": 118.8,
+        "category": "文化",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "郑和第二次下西洋",
+        "description": "郑和第二次率船队下西洋，此次航行到达了印度西海岸的古里（今科泽科德）等地。郑和船队在锡兰（斯里兰卡）立碑纪念，碑文用中文、泰米尔文和波斯文三种文字书写。",
+        "latitude": 11.0,
+        "longitude": 76.0,
+        "category": "外交",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "明朝修缮大运河",
+        "description": "大运河通。",
+        "latitude": 35.0,
+        "longitude": 116.0,
+        "category": "科技",
+        "region": "明",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1408,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "帖木儿帝国沙哈鲁统治",
+        "description": "帖木儿之子沙哈鲁在赫拉特统治，帖木儿帝国文化繁荣。",
+        "latitude": 34.3,
+        "longitude": 62.2,
+        "category": "文化",
+        "region": "帖木儿帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "波斯帖木儿后王",
+        "description": "沙哈鲁赫拉特。",
+        "latitude": 34.3,
+        "longitude": 62.2,
+        "category": "政治",
+        "region": "帖木儿帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1409,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明成祖朱棣", "era": "永乐七年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明成祖朱棣",
+        "era": "永乐七年"
+      }
     ],
     "events": [
-      { "title": "明朝设立奴儿干都司", "description": "明成祖在黑龙江入海口设立奴儿干都指挥使司，管辖外兴安岭和库页岛在内的广大东北地区。明朝在此修建永宁寺并立碑纪念，这是明朝对东北行使主权的明证。", "latitude": 53.0, "longitude": 141.0, "category": "政治", "region": "明", "continent": "亚洲" }
+      {
+        "title": "明朝设立奴儿干都司",
+        "description": "明成祖在黑龙江入海口设立奴儿干都指挥使司，管辖外兴安岭和库页岛在内的广大东北地区。明朝在此修建永宁寺并立碑纪念，这是明朝对东北行使主权的明证。",
+        "latitude": 53.0,
+        "longitude": 141.0,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "格里高利十二世退位",
+        "description": "教会大分裂。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "教皇国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1410,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明成祖朱棣", "era": "永乐八年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明成祖朱棣",
+        "era": "永乐八年"
+      }
     ],
     "events": [
-      { "title": "明成祖亲征漠北", "description": "明成祖朱棣率五十万大军首次亲征漠北，征讨鞑靼部。明军在斡难河畔大败鞑靼可汗本雅失里，又在兴安岭击败太师阿鲁台。鞑靼被迫称臣纳贡。", "latitude": 45.0, "longitude": 112.0, "category": "军事", "region": "明", "continent": "亚洲" }
+      {
+        "title": "明成祖亲征漠北",
+        "description": "明成祖朱棣率五十万大军首次亲征漠北，征讨鞑靼部。明军在斡难河畔大败鞑靼可汗本雅失里，又在兴安岭击败太师阿鲁台。鞑靼被迫称臣纳贡。",
+        "latitude": 45.0,
+        "longitude": 112.0,
+        "category": "军事",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "波兰条顿骑士团战争",
+        "description": "波兰立陶宛联军在格伦瓦尔德击败条顿骑士团。",
+        "latitude": 53.5,
+        "longitude": 20.0,
+        "category": "军事",
+        "region": "波兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "格伦瓦德战役",
+        "description": "波兰条顿大战。",
+        "latitude": 53.5,
+        "longitude": 20.0,
+        "category": "军事",
+        "region": "波兰立陶宛",
+        "continent": "欧洲"
+      },
+      {
+        "title": "欧洲商业资本主义",
+        "description": "资本。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "经济",
+        "region": "意大利",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1411,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "条顿骑士团与波兰立陶宛战争",
+        "description": "条顿骑士团在坦能堡战役后与波兰立陶宛继续作战。",
+        "latitude": 53.5,
+        "longitude": 20.0,
+        "category": "军事",
+        "region": "条顿骑士团",
+        "continent": "欧洲"
+      },
+      {
+        "title": "托伦和约",
+        "description": "波兰得地。",
+        "latitude": 53.0,
+        "longitude": 18.5,
+        "category": "外交",
+        "region": "波兰立陶宛",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1412,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明成祖朱棣", "era": "永乐十年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明成祖朱棣",
+        "era": "永乐十年"
+      }
     ],
     "events": [
-      { "title": "郑和第四次下西洋", "description": "郑和第四次下西洋，船队首次远航至波斯湾的霍尔木兹和东非的木骨都束（今索马里摩加迪沙）、卜剌哇（今索马里布腊瓦）等地。非洲特产长颈鹿（麒麟）被带回中国。", "latitude": 2.0, "longitude": 45.3, "category": "外交", "region": "明", "continent": "非洲" }
+      {
+        "title": "郑和第四次下西洋",
+        "description": "郑和第四次下西洋，船队首次远航至波斯湾的霍尔木兹和东非的木骨都束（今索马里摩加迪沙）、卜剌哇（今索马里布腊瓦）等地。非洲特产长颈鹿（麒麟）被带回中国。",
+        "latitude": 2.0,
+        "longitude": 45.3,
+        "category": "外交",
+        "region": "明",
+        "continent": "非洲"
+      },
+      {
+        "title": "玛雅后古典",
+        "description": "奇琴伊察。",
+        "latitude": 20.7,
+        "longitude": -88.0,
+        "category": "文化",
+        "region": "玛雅",
+        "continent": "北美洲"
+      }
+    ]
+  },
+  {
+    "year": 1413,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "波兰立陶宛霍罗德沃联合",
+        "description": "波兰王国与立陶宛大公国签订霍罗德沃条约，进一步加强联盟。",
+        "latitude": 50.0,
+        "longitude": 23.0,
+        "category": "外交",
+        "region": "波兰立陶宛",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英国农民起义",
+        "description": "罗拉德派。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "社会",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1414,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明成祖朱棣", "era": "永乐十二年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明成祖朱棣",
+        "era": "永乐十二年"
+      }
     ],
     "events": [
-      { "title": "明成祖第二次亲征漠北", "description": "明成祖朱棣第二次亲征漠北，征讨瓦剌部。明军在忽兰忽失温（今蒙古乌兰巴托附近）大败瓦剌首领马哈木。瓦剌战败后遣使谢罪，暂时臣服明朝。", "latitude": 47.9, "longitude": 106.9, "category": "军事", "region": "明", "continent": "亚洲" }
+      {
+        "title": "明成祖第二次亲征漠北",
+        "description": "明成祖朱棣第二次亲征漠北，征讨瓦剌部。明军在忽兰忽失温（今蒙古乌兰巴托附近）大败瓦剌首领马哈木。瓦剌战败后遣使谢罪，暂时臣服明朝。",
+        "latitude": 47.9,
+        "longitude": 106.9,
+        "category": "军事",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "康斯坦茨会议开幕",
+        "description": "天主教大会。",
+        "latitude": 47.7,
+        "longitude": 9.2,
+        "category": "宗教",
+        "region": "教皇国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1415,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明成祖朱棣", "era": "永乐十三年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明成祖朱棣",
+        "era": "永乐十三年"
+      }
     ],
     "events": [
-      { "title": "阿金库尔战役", "description": "英王亨利五世在法国阿金库尔以五千长弓手大败法王查理六世的三万五千法军。法军阵亡约一万人，英军仅损失四百余人。百年战争进入决定性阶段。", "latitude": 50.3, "longitude": 2.1, "category": "军事", "region": "法兰西", "continent": "欧洲" }
+      {
+        "title": "阿金库尔战役",
+        "description": "英王亨利五世在法国阿金库尔以五千长弓手大败法王查理六世的三万五千法军。法军阵亡约一万人，英军仅损失四百余人。百年战争进入决定性阶段。",
+        "latitude": 50.3,
+        "longitude": 2.1,
+        "category": "军事",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "胡斯被烧死",
+        "description": "胡斯殉道。",
+        "latitude": 49.2,
+        "longitude": 9.2,
+        "category": "宗教",
+        "region": "波西米亚",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1416,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "郑和第四次下西洋",
+        "description": "明朝郑和船队第四次下西洋，到达波斯湾和东非。",
+        "latitude": 26.0,
+        "longitude": 50.0,
+        "category": "外交",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "奥斯曼恢复",
+        "description": "穆罕默德一世。",
+        "latitude": 40.0,
+        "longitude": 30.0,
+        "category": "政治",
+        "region": "奥斯曼帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1417,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明成祖朱棣", "era": "永乐十五年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明成祖朱棣",
+        "era": "永乐十五年"
+      }
     ],
     "events": [
-      { "title": "郑和第五次下西洋", "description": "郑和第五次下西洋，此次主要目的是护送十九国使臣回国。船队再次到达东非，带回了狮子、金钱豹、长颈鹿等珍稀动物以及大量的象牙、香料等贡品。", "latitude": 5.0, "longitude": 45.0, "category": "外交", "region": "明", "continent": "非洲" }
+      {
+        "title": "郑和第五次下西洋",
+        "description": "郑和第五次下西洋，此次主要目的是护送十九国使臣回国。船队再次到达东非，带回了狮子、金钱豹、长颈鹿等珍稀动物以及大量的象牙、香料等贡品。",
+        "latitude": 5.0,
+        "longitude": 45.0,
+        "category": "外交",
+        "region": "明",
+        "continent": "非洲"
+      },
+      {
+        "title": "马丁五世即教皇",
+        "description": "教会分裂结束。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "教皇国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1418,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明成祖朱棣", "era": "永乐十六年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明成祖朱棣",
+        "era": "永乐十六年"
+      }
     ],
     "events": [
-      { "title": "葡萄牙人发现马德拉群岛", "description": "葡萄牙恩里克王子（航海家亨利）派遣的探险家若昂·贡萨尔维斯·扎尔科发现马德拉群岛。葡萄牙开始在此殖民并开发蔗糖产业，开启欧洲大航海时代的先声。", "latitude": 32.7, "longitude": -16.9, "category": "科技", "region": "葡萄牙", "continent": "欧洲" }
+      {
+        "title": "葡萄牙人发现马德拉群岛",
+        "description": "葡萄牙恩里克王子（航海家亨利）派遣的探险家若昂·贡萨尔维斯·扎尔科发现马德拉群岛。葡萄牙开始在此殖民并开发蔗糖产业，开启欧洲大航海时代的先声。",
+        "latitude": 32.7,
+        "longitude": -16.9,
+        "category": "科技",
+        "region": "葡萄牙",
+        "continent": "欧洲"
+      },
+      {
+        "title": "胡斯战争开始",
+        "description": "波西米亚起义。",
+        "latitude": 50.0,
+        "longitude": 14.5,
+        "category": "军事",
+        "region": "波西米亚",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1419,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明成祖朱棣", "era": "永乐十七年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明成祖朱棣",
+        "era": "永乐十七年"
+      }
     ],
     "events": [
-      { "title": "郑和第六次下西洋", "description": "郑和第六次下西洋，护送十六国使臣回国。此次航行重点加强了与东南亚和印度洋各国的联系，进一步巩固了明朝的朝贡体系。", "latitude": 1.3, "longitude": 103.8, "category": "外交", "region": "明", "continent": "亚洲" }
+      {
+        "title": "郑和第六次下西洋",
+        "description": "郑和第六次下西洋，护送十六国使臣回国。此次航行重点加强了与东南亚和印度洋各国的联系，进一步巩固了明朝的朝贡体系。",
+        "latitude": 1.3,
+        "longitude": 103.8,
+        "category": "外交",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "葡萄牙亨利王子航海",
+        "description": "恩里克王。",
+        "latitude": 37.0,
+        "longitude": -8.0,
+        "category": "科技",
+        "region": "葡萄牙",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1420,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明成祖朱棣", "era": "永乐十八年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明成祖朱棣",
+        "era": "永乐十八年"
+      }
     ],
     "events": [
-      { "title": "明朝迁都北京", "description": "明成祖朱棣正式迁都北京，改北京为京师，南京为留都。紫禁城历经十四年营建正式启用，成为此后五百年中国的政治中心。北京城的规划布局一直延续至今。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "明", "continent": "亚洲" }
+      {
+        "title": "明朝迁都北京",
+        "description": "明成祖朱棣正式迁都北京，改北京为京师，南京为留都。紫禁城历经十四年营建正式启用，成为此后五百年中国的政治中心。北京城的规划布局一直延续至今。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "马六甲苏丹国建立",
+        "description": "拜里米苏拉在马六甲建立苏丹国。",
+        "latitude": 2.2,
+        "longitude": 102.2,
+        "category": "政治",
+        "region": "马六甲",
+        "continent": "亚洲"
+      },
+      {
+        "title": "胡斯战争塔博尔",
+        "description": "塔博尔派。",
+        "latitude": 49.5,
+        "longitude": 14.5,
+        "category": "军事",
+        "region": "波西米亚",
+        "continent": "欧洲"
+      },
+      {
+        "title": "葡萄牙航海学校",
+        "description": "亨利。",
+        "latitude": 37.0,
+        "longitude": -8.5,
+        "category": "教育",
+        "region": "葡萄牙",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1421,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明成祖朱棣", "era": "永乐十九年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明成祖朱棣",
+        "era": "永乐十九年"
+      }
     ],
     "events": [
-      { "title": "北京紫禁城三大殿火灾", "description": "刚刚建成的北京紫禁城奉天、华盖、谨身三大殿因雷击发生火灾，化为灰烬。朱棣震惊，认为是上天示警，下诏求直言。主事萧仪因批评迁都被处死。", "latitude": 39.9, "longitude": 116.4, "category": "社会", "region": "明", "continent": "亚洲" }
+      {
+        "title": "北京紫禁城三大殿火灾",
+        "description": "刚刚建成的北京紫禁城奉天、华盖、谨身三大殿因雷击发生火灾，化为灰烬。朱棣震惊，认为是上天示警，下诏求直言。主事萧仪因批评迁都被处死。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "社会",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "朱棣迁都北京",
+        "description": "北京正式为都。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1422,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "百年战争中英格兰在法国进展",
+        "description": "英格兰国王亨利五世在法国扩大英占区。",
+        "latitude": 49.0,
+        "longitude": 2.0,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "马六甲王国",
+        "description": "拜里米苏拉。",
+        "latitude": 2.2,
+        "longitude": 102.2,
+        "category": "政治",
+        "region": "马六甲",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1423,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "意大利布鲁内莱斯基建造穹顶",
+        "description": "意大利建筑师菲利波·布鲁内莱斯基在佛罗伦萨建造圣母百花大教堂穹顶。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "文化",
+        "region": "佛罗伦萨",
+        "continent": "欧洲"
+      },
+      {
+        "title": "高丽世宗大王",
+        "description": "世宗即位。",
+        "latitude": 37.6,
+        "longitude": 127.0,
+        "category": "政治",
+        "region": "朝鲜",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1424,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明成祖朱棣", "era": "永乐二十二年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明成祖朱棣",
+        "era": "永乐二十二年"
+      }
     ],
     "events": [
-      { "title": "明成祖朱棣驾崩", "description": "明成祖朱棣在第五次亲征漠北归途中病逝于榆木川（今内蒙古多伦），享年六十四岁。朱棣在位期间迁都北京、派郑和下西洋、编纂《永乐大典》，开创了永乐盛世。", "latitude": 42.2, "longitude": 116.5, "category": "政治", "region": "明", "continent": "亚洲" }
+      {
+        "title": "明成祖朱棣驾崩",
+        "description": "明成祖朱棣在第五次亲征漠北归途中病逝于榆木川（今内蒙古多伦），享年六十四岁。朱棣在位期间迁都北京、派郑和下西洋、编纂《永乐大典》，开创了永乐盛世。",
+        "latitude": 42.2,
+        "longitude": 116.5,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "胡斯战争结束",
+        "description": "捷克宗教。",
+        "latitude": 50.0,
+        "longitude": 14.5,
+        "category": "军事",
+        "region": "波西米亚",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1425,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明仁宗朱高炽", "era": "洪熙元年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明仁宗朱高炽",
+        "era": "洪熙元年"
+      }
     ],
     "events": [
-      { "title": "明仁宗即位与去世", "description": "明仁宗朱高炽即位，赦免建文旧臣，罢停郑和下西洋。但仁宗在位仅十个月即病逝，享年四十七岁。其子朱瞻基即位，是为明宣宗。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "明", "continent": "亚洲" }
+      {
+        "title": "明仁宗即位与去世",
+        "description": "明仁宗朱高炽即位，赦免建文旧臣，罢停郑和下西洋。但仁宗在位仅十个月即病逝，享年四十七岁。其子朱瞻基即位，是为明宣宗。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1426,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "明朝仁宣之治",
+        "description": "明仁宗和明宣宗在明朝推行休养生息政策。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "葡萄牙亨利率兵",
+        "description": "北非。",
+        "latitude": 35.0,
+        "longitude": -5.0,
+        "category": "军事",
+        "region": "葡萄牙",
+        "continent": "非洲"
+      }
+    ]
+  },
+  {
+    "year": 1427,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "越南黎利建立后黎朝",
+        "description": "黎利领导蓝山起义击败明军，建立后黎朝，恢复越南独立。",
+        "latitude": 21.0,
+        "longitude": 105.8,
+        "category": "政治",
+        "region": "后黎朝",
+        "continent": "亚洲"
+      },
+      {
+        "title": "勃艮第公爵腓力",
+        "description": "好人腓力。",
+        "latitude": 47.0,
+        "longitude": 5.0,
+        "category": "政治",
+        "region": "勃艮第",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1428,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明宣宗朱瞻基", "era": "宣德三年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明宣宗朱瞻基",
+        "era": "宣德三年"
+      }
     ],
     "events": [
-      { "title": "奥尔良之围与圣女贞德", "description": "百年战争中，法军营地出现自称受神启召的农家少女贞德。贞德说服法王查理七世让她率军解救被英军围困的奥尔良。贞德率军突破英军包围圈，极大鼓舞了法军士气。", "latitude": 47.9, "longitude": 1.9, "category": "军事", "region": "法兰西", "continent": "欧洲" }
+      {
+        "title": "奥尔良之围与圣女贞德",
+        "description": "百年战争中，法军营地出现自称受神启召的农家少女贞德。贞德说服法王查理七世让她率军解救被英军围困的奥尔良。贞德率军突破英军包围圈，极大鼓舞了法军士气。",
+        "latitude": 47.9,
+        "longitude": 1.9,
+        "category": "军事",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "阿兹特克三国同盟",
+        "description": "特诺奇蒂特兰、特斯科科和特拉科潘组成阿兹特克三国同盟。",
+        "latitude": 19.4,
+        "longitude": -99.1,
+        "category": "政治",
+        "region": "阿兹特克帝国",
+        "continent": "北美洲"
+      },
+      {
+        "title": "法国贞德出生",
+        "description": "贞德。",
+        "latitude": 48.4,
+        "longitude": 5.7,
+        "category": "文化",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1429,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明宣宗朱瞻基", "era": "宣德四年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明宣宗朱瞻基",
+        "era": "宣德四年"
+      }
     ],
     "events": [
-      { "title": "兰斯加冕与圣女贞德被捕", "description": "贞德护送查理七世在兰斯大教堂加冕为法兰西国王。但贞德在随后的康比涅战役中被勃艮第军队俘虏，被以一万法郎卖给英国人。", "latitude": 49.2, "longitude": 2.5, "category": "军事", "region": "法兰西", "continent": "欧洲" }
+      {
+        "title": "兰斯加冕与圣女贞德被捕",
+        "description": "贞德护送查理七世在兰斯大教堂加冕为法兰西国王。但贞德在随后的康比涅战役中被勃艮第军队俘虏，被以一万法郎卖给英国人。",
+        "latitude": 49.2,
+        "longitude": 2.5,
+        "category": "军事",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "奥尔良解围",
+        "description": "贞德解围。",
+        "latitude": 47.9,
+        "longitude": 1.9,
+        "category": "军事",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1430,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明宣宗朱瞻基", "era": "宣德五年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明宣宗朱瞻基",
+        "era": "宣德五年"
+      }
     ],
     "events": [
-      { "title": "郑和第七次下西洋", "description": "明宣宗命郑和第七次下西洋。郑和率船队再次访问东南亚、印度洋和东非各国。返航途中郑和于1433年在古里（今印度科泽科德）病逝，一代航海家魂归大海。", "latitude": 11.0, "longitude": 76.0, "category": "外交", "region": "明", "continent": "亚洲" }
+      {
+        "title": "郑和第七次下西洋",
+        "description": "明宣宗命郑和第七次下西洋。郑和率船队再次访问东南亚、印度洋和东非各国。返航途中郑和于1433年在古里（今印度科泽科德）病逝，一代航海家魂归大海。",
+        "latitude": 11.0,
+        "longitude": 76.0,
+        "category": "外交",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "英格兰亨利六世",
+        "description": "亨利加冕。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "佛罗伦萨美第奇",
+        "description": "银行。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "金融",
+        "region": "佛罗伦萨",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1431,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明宣宗朱瞻基", "era": "宣德六年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明宣宗朱瞻基",
+        "era": "宣德六年"
+      }
     ],
     "events": [
-      { "title": "圣女贞德被火刑处死", "description": "十九岁的圣女贞德在鲁昂被英国操控的宗教法庭以异端和女巫罪名判处火刑。贞德在火刑柱上高呼耶稣之名而逝。其英勇事迹激励法军最终赢得百年战争。", "latitude": 49.4, "longitude": 1.1, "category": "宗教", "region": "法兰西", "continent": "欧洲" }
+      {
+        "title": "圣女贞德被火刑处死",
+        "description": "十九岁的圣女贞德在鲁昂被英国操控的宗教法庭以异端和女巫罪名判处火刑。贞德在火刑柱上高呼耶稣之名而逝。其英勇事迹激励法军最终赢得百年战争。",
+        "latitude": 49.4,
+        "longitude": 1.1,
+        "category": "宗教",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1432,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明宣宗朱瞻基", "era": "宣德七年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明宣宗朱瞻基",
+        "era": "宣德七年"
+      }
     ],
     "events": [
-      { "title": "葡萄牙人发现亚速尔群岛", "description": "葡萄牙航海家贡萨洛·维利乌·卡布拉尔发现亚速尔群岛。葡萄牙开始在这些大西洋岛屿上殖民，种植小麦和甘蔗，为大西洋探索提供重要的中继站。", "latitude": 37.7, "longitude": -25.7, "category": "科技", "region": "葡萄牙", "continent": "欧洲" }
+      {
+        "title": "葡萄牙人发现亚速尔群岛",
+        "description": "葡萄牙航海家贡萨洛·维利乌·卡布拉尔发现亚速尔群岛。葡萄牙开始在这些大西洋岛屿上殖民，种植小麦和甘蔗，为大西洋探索提供重要的中继站。",
+        "latitude": 37.7,
+        "longitude": -25.7,
+        "category": "科技",
+        "region": "葡萄牙",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1433,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "桑海帝国崛起",
+        "description": "西亚马克·马迪阿廷成为桑海帝国统治者。",
+        "latitude": 16.0,
+        "longitude": 0.0,
+        "category": "政治",
+        "region": "桑海帝国",
+        "continent": "非洲"
+      }
+    ]
+  },
+  {
+    "year": 1434,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "美第奇家族在佛罗伦萨掌权",
+        "description": "科西莫·德·美第奇成为佛罗伦萨的实际统治者，美第奇家族统治开始。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "政治",
+        "region": "佛罗伦萨",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1435,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明英宗朱祁镇", "era": "正统元年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明英宗朱祁镇",
+        "era": "正统元年"
+      }
     ],
     "events": [
-      { "title": "明宣宗驾崩与幼主登基", "description": "明宣宗朱瞻基病逝，年仅三十七岁。九岁太子朱祁镇即位，是为明英宗。太皇太后张氏听政，重用“三杨”（杨士奇、杨荣、杨溥）辅政，延续仁宣之治。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "明", "continent": "亚洲" }
+      {
+        "title": "明宣宗驾崩与幼主登基",
+        "description": "明宣宗朱瞻基病逝，年仅三十七岁。九岁太子朱祁镇即位，是为明英宗。太皇太后张氏听政，重用“三杨”（杨士奇、杨荣、杨溥）辅政，延续仁宣之治。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1436,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明英宗朱祁镇", "era": "正统元年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明英宗朱祁镇",
+        "era": "正统元年"
+      }
     ],
     "events": [
-      { "title": "古登堡发明印刷术", "description": "德国工匠约翰内斯·古登堡在美因茨开始研发金属活字印刷技术。他独立发明了铅合金活字、油墨和螺旋压印机，并于1450年代印刷了著名的《古登堡圣经》。", "latitude": 50.0, "longitude": 8.3, "category": "科技", "region": "德意志", "continent": "欧洲" }
+      {
+        "title": "古登堡发明印刷术",
+        "description": "德国工匠约翰内斯·古登堡在美因茨开始研发金属活字印刷技术。他独立发明了铅合金活字、油墨和螺旋压印机，并于1450年代印刷了著名的《古登堡圣经》。",
+        "latitude": 50.0,
+        "longitude": 8.3,
+        "category": "科技",
+        "region": "德意志",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1437,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "神圣罗马帝国阿尔布雷希特二世",
+        "description": "阿尔布雷希特二世成为德意志国王。",
+        "latitude": 50.0,
+        "longitude": 9.0,
+        "category": "政治",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1438,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明英宗朱祁镇", "era": "正统三年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明英宗朱祁镇",
+        "era": "正统三年"
+      }
     ],
     "events": [
-      { "title": "印加帝国建立", "description": "印加王帕查库蒂·印加·尤潘基在库斯科建立印加帝国。印加帝国迅速扩张，成为前哥伦布时期美洲最大的帝国，版图涵盖今秘鲁、厄瓜多尔、玻利维亚等国。", "latitude": -13.5, "longitude": -71.9, "category": "政治", "region": "印加", "continent": "南美洲" }
+      {
+        "title": "印加帝国建立",
+        "description": "印加王帕查库蒂·印加·尤潘基在库斯科建立印加帝国。印加帝国迅速扩张，成为前哥伦布时期美洲最大的帝国，版图涵盖今秘鲁、厄瓜多尔、玻利维亚等国。",
+        "latitude": -13.5,
+        "longitude": -71.9,
+        "category": "政治",
+        "region": "印加",
+        "continent": "南美洲"
+      },
+      {
+        "title": "印加帝国帕查库蒂改革",
+        "description": "帕查库蒂改革印加行政体系，帝国迅速扩张。",
+        "latitude": -13.5,
+        "longitude": -72.0,
+        "category": "政治",
+        "region": "印加帝国",
+        "continent": "南美洲"
+      }
+    ]
+  },
+  {
+    "year": 1439,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "佛罗伦萨大公会议",
+        "description": "天主教与东正教在佛罗伦萨举行合一会议。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "宗教",
+        "region": "教皇国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1440,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "古腾堡发明印刷机（约）",
+        "description": "德国工匠约翰内斯·古腾堡在欧洲发明金属活字印刷术。",
+        "latitude": 50.0,
+        "longitude": 8.0,
+        "category": "科技",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "葡萄牙亨利王子航海",
+        "description": "亨利王子推动葡萄牙航海事业。",
+        "latitude": 37.0,
+        "longitude": -8.0,
+        "category": "科技",
+        "region": "葡萄牙",
+        "continent": "欧洲"
+      },
+      {
+        "title": "桑海帝国阿斯基亚王朝兴起",
+        "description": "阿斯基亚·穆罕默德建立桑海帝国的阿斯基亚王朝。",
+        "latitude": 16.0,
+        "longitude": 0.0,
+        "category": "政治",
+        "region": "桑海帝国",
+        "continent": "非洲"
+      },
+      {
+        "title": "锡克教创始人那纳克出生",
+        "description": "那纳克创立锡克教。",
+        "latitude": 31.0,
+        "longitude": 75.0,
+        "category": "宗教",
+        "region": "印度",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲早期金属活字印刷（约）",
+        "description": "约翰内斯·古腾堡在美因茨发明金属活字印刷术。",
+        "latitude": 50.0,
+        "longitude": 8.0,
+        "category": "科技",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1441,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明英宗朱祁镇", "era": "正统六年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明英宗朱祁镇",
+        "era": "正统六年"
+      }
     ],
     "events": [
-      { "title": "葡萄牙人开始非洲奴隶贸易", "description": "葡萄牙船长安唐·贡萨尔维斯在非洲西海岸捕获十二名黑人，带回欧洲出售。这是欧洲人首次直接参与非洲奴隶贸易，开启了大西洋黑奴贸易的黑暗历史。", "latitude": 21.0, "longitude": -17.0, "category": "社会", "region": "非洲", "continent": "非洲" }
+      {
+        "title": "葡萄牙人开始非洲奴隶贸易",
+        "description": "葡萄牙船长安唐·贡萨尔维斯在非洲西海岸捕获十二名黑人，带回欧洲出售。这是欧洲人首次直接参与非洲奴隶贸易，开启了大西洋黑奴贸易的黑暗历史。",
+        "latitude": 21.0,
+        "longitude": -17.0,
+        "category": "社会",
+        "region": "非洲",
+        "continent": "非洲"
+      }
+    ]
+  },
+  {
+    "year": 1442,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": []
+  },
+  {
+    "year": 1443,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "阿尔巴尼亚斯坎德培起义",
+        "description": "阿尔巴尼亚民族英雄斯坎德培领导反抗奥斯曼帝国的起义。",
+        "latitude": 41.5,
+        "longitude": 20.0,
+        "category": "军事",
+        "region": "阿尔巴尼亚",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1444,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "瓦尔纳战役",
+        "description": "波兰瓦迪斯瓦夫三世率领欧洲联军在瓦尔纳被奥斯曼帝国击败。",
+        "latitude": 43.1,
+        "longitude": 27.9,
+        "category": "军事",
+        "region": "波兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1445,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "明朝瓦剌崛起",
+        "description": "蒙古瓦剌部在也先领导下崛起，威胁明朝边境。",
+        "latitude": 42.0,
+        "longitude": 105.0,
+        "category": "政治",
+        "region": "瓦剌",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1446,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": []
+  },
+  {
+    "year": 1447,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "朝鲜世宗大王推行训民正音",
+        "description": "朝鲜世宗大王颁布《训民正音》创立韩文字母。",
+        "latitude": 37.6,
+        "longitude": 127.0,
+        "category": "文化",
+        "region": "朝鲜",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1448,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "勃艮第与法国战争",
+        "description": "勃艮第公爵好人腓力与法兰西王国发生冲突。",
+        "latitude": 47.0,
+        "longitude": 5.0,
+        "category": "军事",
+        "region": "勃艮第",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1449,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明英宗朱祁镇", "era": "正统十四年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明英宗朱祁镇",
+        "era": "正统十四年"
+      }
     ],
     "events": [
-      { "title": "土木堡之变", "description": "明英宗在太监王振怂恿下亲征瓦剌，在土木堡（今河北怀来）被瓦剌也先进包围。明军大溃，死伤数十万，明英宗被俘。这是明朝历史上最惨重的军事失败。", "latitude": 40.4, "longitude": 115.5, "category": "军事", "region": "明", "continent": "亚洲" },
-      { "title": "北京保卫战", "description": "瓦剌也先挟持被俘的明英宗兵临北京城下。兵部尚书于谦力排众议，组织北京军民顽强抵抗，击退瓦剌军。于谦拒绝与瓦剌议和，坚持“社稷为重君为轻”。", "latitude": 39.9, "longitude": 116.4, "category": "军事", "region": "明", "continent": "亚洲" }
+      {
+        "title": "土木堡之变",
+        "description": "明英宗在太监王振怂恿下亲征瓦剌，在土木堡（今河北怀来）被瓦剌也先进包围。明军大溃，死伤数十万，明英宗被俘。这是明朝历史上最惨重的军事失败。",
+        "latitude": 40.4,
+        "longitude": 115.5,
+        "category": "军事",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "北京保卫战",
+        "description": "瓦剌也先挟持被俘的明英宗兵临北京城下。兵部尚书于谦力排众议，组织北京军民顽强抵抗，击退瓦剌军。于谦拒绝与瓦剌议和，坚持“社稷为重君为轻”。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "军事",
+        "region": "明",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1450,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明代宗朱祁钰", "era": "景泰元年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明代宗朱祁钰",
+        "era": "景泰元年"
+      }
     ],
     "events": [
-      { "title": "瓦剌释放明英宗", "description": "瓦剌也先在军事失利和明朝新君已立的情况下，将俘虏的明英宗朱祁镇释放回北京。明英宗回到北京后被代宗软禁在南宫，开始了长达七年的太上皇生活。", "latitude": 39.9, "longitude": 116.4, "category": "外交", "region": "明", "continent": "亚洲" }
+      {
+        "title": "瓦剌释放明英宗",
+        "description": "瓦剌也先在军事失利和明朝新君已立的情况下，将俘虏的明英宗朱祁镇释放回北京。明英宗回到北京后被代宗软禁在南宫，开始了长达七年的太上皇生活。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "外交",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "古腾堡印刷圣经",
+        "description": "古腾堡用活字印刷术印制拉丁文圣经。",
+        "latitude": 50.0,
+        "longitude": 8.0,
+        "category": "科技",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "欧洲妇女地位",
+        "description": "女性。",
+        "latitude": 48.0,
+        "longitude": 2.0,
+        "category": "社会",
+        "region": "欧洲",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1451,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "奥斯曼穆罕默德二世即位",
+        "description": "穆罕默德二世（征服者）成为奥斯曼苏丹。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "奥斯曼帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1452,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "达·芬奇出生",
+        "description": "意大利文艺复兴全才列奥纳多·达·芬奇出生。",
+        "latitude": 43.8,
+        "longitude": 11.0,
+        "category": "文化",
+        "region": "意大利",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1453,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明代宗朱祁钰", "era": "景泰四年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明代宗朱祁钰",
+        "era": "景泰四年"
+      }
     ],
     "events": [
-      { "title": "君士坦丁堡陷落", "description": "奥斯曼苏丹穆罕默德二世率八万大军攻破君士坦丁堡，末代皇帝君士坦丁十一世战死。立国一千余年的拜占庭帝国灭亡。穆罕默德二世将君士坦丁堡改名伊斯坦布尔，成为奥斯曼帝国首都。", "latitude": 41.0, "longitude": 28.9, "category": "军事", "region": "奥斯曼", "continent": "欧洲" },
-      { "title": "百年战争结束", "description": "英军在波尔多战役中战败，英格兰在法国除加莱外的全部领土丧失。持续一百一十六年的百年战争结束。法国完成民族统一，英国则转向不列颠群岛的内部发展。", "latitude": 44.8, "longitude": -0.6, "category": "军事", "region": "法兰西", "continent": "欧洲" },
-      { "title": "古登堡印刷《圣经》", "description": "约翰内斯·古登堡在美因茨用金属活字印刷术完成了《古登堡圣经》的印刷。这是欧洲第一部用活字印刷的书籍，标志着信息传播革命的开始。", "latitude": 50.0, "longitude": 8.3, "category": "科技", "region": "德意志", "continent": "欧洲" }
+      {
+        "title": "君士坦丁堡陷落",
+        "description": "奥斯曼苏丹穆罕默德二世率八万大军攻破君士坦丁堡，末代皇帝君士坦丁十一世战死。立国一千余年的拜占庭帝国灭亡。穆罕默德二世将君士坦丁堡改名伊斯坦布尔，成为奥斯曼帝国首都。",
+        "latitude": 41.0,
+        "longitude": 28.9,
+        "category": "军事",
+        "region": "奥斯曼",
+        "continent": "欧洲"
+      },
+      {
+        "title": "百年战争结束",
+        "description": "英军在波尔多战役中战败，英格兰在法国除加莱外的全部领土丧失。持续一百一十六年的百年战争结束。法国完成民族统一，英国则转向不列颠群岛的内部发展。",
+        "latitude": 44.8,
+        "longitude": -0.6,
+        "category": "军事",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "古登堡印刷《圣经》",
+        "description": "约翰内斯·古登堡在美因茨用金属活字印刷术完成了《古登堡圣经》的印刷。这是欧洲第一部用活字印刷的书籍，标志着信息传播革命的开始。",
+        "latitude": 50.0,
+        "longitude": 8.3,
+        "category": "科技",
+        "region": "德意志",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1454,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "百年战争结束",
+        "description": "英格兰失去在法国的全部领地。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1455,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明代宗朱祁钰", "era": "景泰六年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明代宗朱祁钰",
+        "era": "景泰六年"
+      }
     ],
     "events": [
-      { "title": "玫瑰战争爆发", "description": "英格兰兰开斯特家族（红玫瑰）与约克家族（白玫瑰）为争夺王位爆发内战。玫瑰战争持续三十年，几乎消灭了英格兰的旧贵族势力。", "latitude": 51.5, "longitude": -0.1, "category": "军事", "region": "英格兰", "continent": "欧洲" }
+      {
+        "title": "玫瑰战争爆发",
+        "description": "英格兰兰开斯特家族（红玫瑰）与约克家族（白玫瑰）为争夺王位爆发内战。玫瑰战争持续三十年，几乎消灭了英格兰的旧贵族势力。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1456,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明代宗朱祁钰", "era": "景泰七年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明代宗朱祁钰",
+        "era": "景泰七年"
+      }
     ],
     "events": [
-      { "title": "贝尔格莱德之围", "description": "奥斯曼苏丹穆罕默德二世围攻匈牙利控制下的贝尔格莱德。匈牙利名将匈雅提·亚诺什率军成功解围，奥斯曼军遭受重大损失，巴尔干地区的基督教势力获得暂时喘息。", "latitude": 44.8, "longitude": 20.5, "category": "军事", "region": "匈牙利", "continent": "欧洲" }
+      {
+        "title": "贝尔格莱德之围",
+        "description": "奥斯曼苏丹穆罕默德二世围攻匈牙利控制下的贝尔格莱德。匈牙利名将匈雅提·亚诺什率军成功解围，奥斯曼军遭受重大损失，巴尔干地区的基督教势力获得暂时喘息。",
+        "latitude": 44.8,
+        "longitude": 20.5,
+        "category": "军事",
+        "region": "匈牙利",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1457,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明英宗朱祁镇", "era": "天顺元年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明英宗朱祁镇",
+        "era": "天顺元年"
+      }
     ],
     "events": [
-      { "title": "夺门之变", "description": "明英宗朱祁镇在武清侯石亨、太监曹吉祥等人的策划下发动政变，从南宫夺回帝位，废明代宗朱祁钰为郕王。英宗复辟后以谋逆罪冤杀于谦，史称夺门之变。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "明", "continent": "亚洲" }
+      {
+        "title": "夺门之变",
+        "description": "明英宗朱祁镇在武清侯石亨、太监曹吉祥等人的策划下发动政变，从南宫夺回帝位，废明代宗朱祁钰为郕王。英宗复辟后以谋逆罪冤杀于谦，史称夺门之变。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1458,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "葡萄牙航海事业推进",
+        "description": "葡萄牙亨利王子去世，但葡萄牙航海探索继续推进。",
+        "latitude": 38.7,
+        "longitude": -9.1,
+        "category": "科技",
+        "region": "葡萄牙",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1459,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "塞尔维亚被奥斯曼征服",
+        "description": "奥斯曼帝国完全征服塞尔维亚。",
+        "latitude": 44.0,
+        "longitude": 21.0,
+        "category": "军事",
+        "region": "奥斯曼帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1460,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "葡萄牙航海发现西非海岸",
+        "description": "葡萄牙航海家继续沿西非海岸南下探索。",
+        "latitude": 5.0,
+        "longitude": -2.0,
+        "category": "科技",
+        "region": "葡萄牙",
+        "continent": "欧洲"
+      },
+      {
+        "title": "刚果王国与葡萄牙接触",
+        "description": "葡萄牙探险家迪奥戈·刚果首次接触刚果王国。",
+        "latitude": -6.0,
+        "longitude": 14.0,
+        "category": "外交",
+        "region": "刚果王国",
+        "continent": "非洲"
+      },
+      {
+        "title": "欧洲奴隶贸易开始",
+        "description": "非洲奴隶。",
+        "latitude": 6.0,
+        "longitude": -3.0,
+        "category": "奴隶贸易",
+        "region": "葡萄牙",
+        "continent": "非洲"
+      }
     ]
   },
   {
     "year": 1461,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明英宗朱祁镇", "era": "天顺五年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明英宗朱祁镇",
+        "era": "天顺五年"
+      }
     ],
     "events": [
-      { "title": "约克王朝建立", "description": "约克公爵爱德华在陶顿战役中击败兰开斯特军队后在伦敦加冕，是为爱德华四世。约克王朝建立。陶顿战役是玫瑰战争中最惨烈的一仗，双方死亡约两万八千人。", "latitude": 51.5, "longitude": -0.1, "category": "政治", "region": "英格兰", "continent": "欧洲" }
+      {
+        "title": "约克王朝建立",
+        "description": "约克公爵爱德华在陶顿战役中击败兰开斯特军队后在伦敦加冕，是为爱德华四世。约克王朝建立。陶顿战役是玫瑰战争中最惨烈的一仗，双方死亡约两万八千人。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1462,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "莫斯科伊凡三世即位",
+        "description": "伊凡三世（伊凡大帝）成为莫斯科大公。",
+        "latitude": 55.8,
+        "longitude": 37.6,
+        "category": "政治",
+        "region": "莫斯科大公国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1463,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明英宗朱祁镇", "era": "天顺七年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明英宗朱祁镇",
+        "era": "天顺七年"
+      }
     ],
     "events": [
-      { "title": "奥斯曼征服波斯尼亚", "description": "奥斯曼帝国征服波斯尼亚王国，波斯尼亚末代国王斯蒂芬·托马舍维奇被处决。大量波斯尼亚贵族和平民改信伊斯兰教，波斯尼亚从此成为奥斯曼帝国的一部分。", "latitude": 43.9, "longitude": 18.4, "category": "军事", "region": "奥斯曼", "continent": "欧洲" }
+      {
+        "title": "奥斯曼征服波斯尼亚",
+        "description": "奥斯曼帝国征服波斯尼亚王国，波斯尼亚末代国王斯蒂芬·托马舍维奇被处决。大量波斯尼亚贵族和平民改信伊斯兰教，波斯尼亚从此成为奥斯曼帝国的一部分。",
+        "latitude": 43.9,
+        "longitude": 18.4,
+        "category": "军事",
+        "region": "奥斯曼",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1464,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明英宗朱祁镇", "era": "天顺八年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明英宗朱祁镇",
+        "era": "天顺八年"
+      }
     ],
     "events": [
-      { "title": "明英宗驾崩与废除殉葬", "description": "明英宗朱祁镇病逝，临终前遗诏废除自明太祖以来的人殉制度。太子朱见深即位，是为明宪宗，年号成化。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "明", "continent": "亚洲" }
+      {
+        "title": "明英宗驾崩与废除殉葬",
+        "description": "明英宗朱祁镇病逝，临终前遗诏废除自明太祖以来的人殉制度。太子朱见深即位，是为明宪宗，年号成化。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      }
     ]
+  },
+  {
+    "year": 1465,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "摩洛哥瓦塔斯王朝",
+        "description": "摩洛哥瓦塔斯王朝统治非斯等地。",
+        "latitude": 34.0,
+        "longitude": -5.0,
+        "category": "政治",
+        "region": "摩洛哥",
+        "continent": "非洲"
+      }
+    ]
+  },
+  {
+    "year": 1466,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": []
   },
   {
     "year": 1467,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明宪宗朱见深", "era": "成化三年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明宪宗朱见深",
+        "era": "成化三年"
+      }
     ],
     "events": [
-      { "title": "应仁之乱爆发", "description": "日本室町幕府因幕府将军继承权和各大名势力争斗爆发应仁之乱。细川胜元与山名宗全两大势力在京都开战，战火蔓延至全国，日本由此进入战国时代。", "latitude": 35.0, "longitude": 135.8, "category": "军事", "region": "日本", "continent": "亚洲" }
+      {
+        "title": "应仁之乱爆发",
+        "description": "日本室町幕府因幕府将军继承权和各大名势力争斗爆发应仁之乱。细川胜元与山名宗全两大势力在京都开战，战火蔓延至全国，日本由此进入战国时代。",
+        "latitude": 35.0,
+        "longitude": 135.8,
+        "category": "军事",
+        "region": "日本",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1468,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刚果王国建立",
+        "description": "刚果王国在中非建立。",
+        "latitude": -5.0,
+        "longitude": 14.0,
+        "category": "政治",
+        "region": "刚果王国",
+        "continent": "非洲"
+      }
     ]
   },
   {
     "year": 1469,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明宪宗朱见深", "era": "成化五年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明宪宗朱见深",
+        "era": "成化五年"
+      }
     ],
     "events": [
-      { "title": "伊莎贝拉与斐迪南联姻", "description": "卡斯蒂利亚公主伊莎贝拉与阿拉贡王子斐迪南结婚。两人的联姻为日后统一西班牙奠定了基础，也使西班牙成为欧洲最强大的天主教国家之一。", "latitude": 40.4, "longitude": -3.7, "category": "政治", "region": "西班牙", "continent": "欧洲" }
+      {
+        "title": "伊莎贝拉与斐迪南联姻",
+        "description": "卡斯蒂利亚公主伊莎贝拉与阿拉贡王子斐迪南结婚。两人的联姻为日后统一西班牙奠定了基础，也使西班牙成为欧洲最强大的天主教国家之一。",
+        "latitude": 40.4,
+        "longitude": -3.7,
+        "category": "政治",
+        "region": "西班牙",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1470,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "明朝设西厂",
+        "description": "明宪宗设立西厂，加强特务统治。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿瑜陀耶王国鼎盛",
+        "description": "戴莱洛迦王统治时期阿瑜陀耶达到鼎盛。",
+        "latitude": 14.4,
+        "longitude": 100.6,
+        "category": "政治",
+        "region": "阿瑜陀耶",
+        "continent": "亚洲"
+      },
+      {
+        "title": "印加征服奇穆王国",
+        "description": "印加帝国吞并秘鲁北部沿海的奇穆王国。",
+        "latitude": -8.1,
+        "longitude": -79.0,
+        "category": "军事",
+        "region": "印加帝国",
+        "continent": "南美洲"
+      },
+      {
+        "title": "明朝修筑长城",
+        "description": "明长城。",
+        "latitude": 40.0,
+        "longitude": 115.0,
+        "category": "工程",
+        "region": "明",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1471,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明宪宗朱见深", "era": "成化七年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明宪宗朱见深",
+        "era": "成化七年"
+      }
     ],
     "events": [
-      { "title": "阿兹特克帝国鼎盛", "description": "阿兹特克皇帝阿哈亚卡特尔在位期间，阿兹特克帝国的势力达到鼎盛。帝国控制墨西哥中部广大地区，特诺奇蒂特兰城人口达二十万，是当时世界最大的城市之一。", "latitude": 19.4, "longitude": -99.1, "category": "政治", "region": "阿兹特克", "continent": "北美洲" }
+      {
+        "title": "阿兹特克帝国鼎盛",
+        "description": "阿兹特克皇帝阿哈亚卡特尔在位期间，阿兹特克帝国的势力达到鼎盛。帝国控制墨西哥中部广大地区，特诺奇蒂特兰城人口达二十万，是当时世界最大的城市之一。",
+        "latitude": 19.4,
+        "longitude": -99.1,
+        "category": "政治",
+        "region": "阿兹特克",
+        "continent": "北美洲"
+      }
+    ]
+  },
+  {
+    "year": 1472,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "莫斯科公国征服诺夫哥罗德",
+        "description": "莫斯科大公伊凡三世征服诺夫哥罗德共和国。",
+        "latitude": 58.5,
+        "longitude": 31.3,
+        "category": "军事",
+        "region": "莫斯科大公国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1473,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "波斯萨法维教团兴起",
+        "description": "萨菲·丁创立的萨法维教团在波斯西北部活动。",
+        "latitude": 38.0,
+        "longitude": 47.0,
+        "category": "宗教",
+        "region": "波斯",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1474,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "卡斯蒂利亚国王亨利四世去世",
+        "description": "亨利四世去世，伊莎贝拉公主继承王位。",
+        "latitude": 41.7,
+        "longitude": -4.7,
+        "category": "政治",
+        "region": "卡斯蒂利亚",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1475,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明宪宗朱见深", "era": "成化十一年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明宪宗朱见深",
+        "era": "成化十一年"
+      }
     ],
     "events": [
-      { "title": "米开朗基罗诞生", "description": "意大利文艺复兴大师米开朗基罗·博纳罗蒂在佛罗伦萨附近的卡普雷塞诞生。他后来成为伟大的雕塑家、画家和建筑师，创作了《大卫》《创世纪》等不朽杰作。", "latitude": 43.8, "longitude": 11.3, "category": "文化", "region": "意大利", "continent": "欧洲" }
+      {
+        "title": "米开朗基罗诞生",
+        "description": "意大利文艺复兴大师米开朗基罗·博纳罗蒂在佛罗伦萨附近的卡普雷塞诞生。他后来成为伟大的雕塑家、画家和建筑师，创作了《大卫》《创世纪》等不朽杰作。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "文化",
+        "region": "意大利",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1476,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "米兰大公斯福尔扎统治",
+        "description": "卢多维科·斯福尔扎在米兰掌握实权。",
+        "latitude": 45.5,
+        "longitude": 9.2,
+        "category": "政治",
+        "region": "米兰公国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1477,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "勃艮第公爵大胆查理战死",
+        "description": "勃艮第公爵大胆查理在南锡战役中战死，勃艮第领土被法国和哈布斯堡瓜分。",
+        "latitude": 48.7,
+        "longitude": 6.2,
+        "category": "军事",
+        "region": "勃艮第",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1478,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明宪宗朱见深", "era": "成化十四年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明宪宗朱见深",
+        "era": "成化十四年"
+      }
     ],
     "events": [
-      { "title": "西班牙宗教裁判所成立", "description": "西班牙国王斐迪南和女王伊莎贝拉在教皇西斯笃四世的批准下成立西班牙宗教裁判所，由多明我会修士托马斯·德·托尔克马达担任首任大法官。裁判所以残酷手段迫害异端和改宗者。", "latitude": 40.4, "longitude": -3.7, "category": "宗教", "region": "西班牙", "continent": "欧洲" }
+      {
+        "title": "西班牙宗教裁判所成立",
+        "description": "西班牙国王斐迪南和女王伊莎贝拉在教皇西斯笃四世的批准下成立西班牙宗教裁判所，由多明我会修士托马斯·德·托尔克马达担任首任大法官。裁判所以残酷手段迫害异端和改宗者。",
+        "latitude": 40.4,
+        "longitude": -3.7,
+        "category": "宗教",
+        "region": "西班牙",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1479,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明宪宗朱见深", "era": "成化十五年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明宪宗朱见深",
+        "era": "成化十五年"
+      }
     ],
     "events": [
-      { "title": "西班牙统一", "description": "阿拉贡国王斐迪南二世继承卡斯蒂利亚王位，与伊莎贝拉一世共治。西班牙王国正式统一，天主教双王（Los Reyes Católicos）开始推动西班牙成为欧洲霸权。", "latitude": 40.4, "longitude": -3.7, "category": "政治", "region": "西班牙", "continent": "欧洲" }
+      {
+        "title": "西班牙统一",
+        "description": "阿拉贡国王斐迪南二世继承卡斯蒂利亚王位，与伊莎贝拉一世共治。西班牙王国正式统一，天主教双王（Los Reyes Católicos）开始推动西班牙成为欧洲霸权。",
+        "latitude": 40.4,
+        "longitude": -3.7,
+        "category": "政治",
+        "region": "西班牙",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1480,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明宪宗朱见深", "era": "成化十六年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明宪宗朱见深",
+        "era": "成化十六年"
+      }
     ],
     "events": [
-      { "title": "莫斯科公国摆脱蒙古统治", "description": "莫斯科大公伊凡三世停止向金帐汗国纳贡。金帐汗阿合马率军征讨，两军在乌格拉河对峙后阿合马不战而退。蒙古对俄罗斯长达两个多世纪的统治终结。", "latitude": 55.8, "longitude": 37.6, "category": "政治", "region": "俄罗斯", "continent": "欧洲" }
+      {
+        "title": "莫斯科公国摆脱蒙古统治",
+        "description": "莫斯科大公伊凡三世停止向金帐汗国纳贡。金帐汗阿合马率军征讨，两军在乌格拉河对峙后阿合马不战而退。蒙古对俄罗斯长达两个多世纪的统治终结。",
+        "latitude": 55.8,
+        "longitude": 37.6,
+        "category": "政治",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "西班牙设立宗教裁判所",
+        "description": "西班牙设立宗教裁判所。",
+        "latitude": 40.4,
+        "longitude": -3.7,
+        "category": "宗教",
+        "region": "西班牙",
+        "continent": "欧洲"
+      },
+      {
+        "title": "埃塞俄比亚与欧洲联系",
+        "description": "埃塞俄比亚皇帝派遣使团前往葡萄牙寻求结盟。",
+        "latitude": 12.0,
+        "longitude": 39.0,
+        "category": "外交",
+        "region": "埃塞俄比亚",
+        "continent": "非洲"
+      }
+    ]
+  },
+  {
+    "year": 1481,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "奥斯曼苏丹穆罕默德二世去世",
+        "description": "征服者穆罕默德二世去世，巴耶济德二世即位。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "奥斯曼帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1482,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "葡萄牙沿非洲西海岸南航",
+        "description": "葡萄牙航海家迪奥戈·康沿刚果河口南航。",
+        "latitude": -5.0,
+        "longitude": 12.0,
+        "category": "科技",
+        "region": "葡萄牙",
+        "continent": "非洲"
+      }
+    ]
+  },
+  {
+    "year": 1483,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "马丁·路德出生",
+        "description": "德国宗教改革领袖马丁·路德出生。",
+        "latitude": 51.5,
+        "longitude": 12.0,
+        "category": "宗教",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1484,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "葡萄牙商人到达刚果",
+        "description": "葡萄牙与刚果王国建立贸易关系。",
+        "latitude": -5.0,
+        "longitude": 14.0,
+        "category": "外交",
+        "region": "葡萄牙",
+        "continent": "非洲"
+      }
     ]
   },
   {
     "year": 1485,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明宪宗朱见深", "era": "成化二十一年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明宪宗朱见深",
+        "era": "成化二十一年"
+      }
     ],
     "events": [
-      { "title": "博斯沃思战役与都铎王朝建立", "description": "亨利·都铎在博斯沃思战役中击败理查三世，玫瑰战争结束。亨利七世加冕为英格兰国王，创立都铎王朝，并与约克家族的伊丽莎白结婚，红白玫瑰合二为一。", "latitude": 52.6, "longitude": -1.4, "category": "政治", "region": "英格兰", "continent": "欧洲" }
+      {
+        "title": "博斯沃思战役与都铎王朝建立",
+        "description": "亨利·都铎在博斯沃思战役中击败理查三世，玫瑰战争结束。亨利七世加冕为英格兰国王，创立都铎王朝，并与约克家族的伊丽莎白结婚，红白玫瑰合二为一。",
+        "latitude": 52.6,
+        "longitude": -1.4,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1486,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "神圣罗马帝国马克西米利安一世当选",
+        "description": "马克西米利安一世当选为德意志国王。",
+        "latitude": 50.0,
+        "longitude": 9.0,
+        "category": "政治",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1487,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明宪宗朱见深", "era": "成化二十三年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明宪宗朱见深",
+        "era": "成化二十三年"
+      }
     ],
     "events": [
-      { "title": "迪亚士绕过好望角", "description": "葡萄牙航海家巴尔托洛梅乌·迪亚士率船队沿非洲西海岸南下，遭遇风暴后被吹到非洲最南端。迪亚士将其命名为“风暴角”，后被葡萄牙国王改为“好望角”。", "latitude": -34.4, "longitude": 18.5, "category": "科技", "region": "葡萄牙", "continent": "非洲" }
+      {
+        "title": "迪亚士绕过好望角",
+        "description": "葡萄牙航海家巴尔托洛梅乌·迪亚士率船队沿非洲西海岸南下，遭遇风暴后被吹到非洲最南端。迪亚士将其命名为“风暴角”，后被葡萄牙国王改为“好望角”。",
+        "latitude": -34.4,
+        "longitude": 18.5,
+        "category": "科技",
+        "region": "葡萄牙",
+        "continent": "非洲"
+      }
     ]
   },
   {
     "year": 1488,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明孝宗朱祐樘", "era": "弘治元年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明孝宗朱祐樘",
+        "era": "弘治元年"
+      }
     ],
     "events": [
-      { "title": "明孝宗即位与弘治中兴", "description": "明宪宗驾崩，太子朱祐樘即位，是为明孝宗。明孝宗是明朝中后期少有的明君，勤政爱民，驱逐奸佞，重用贤臣，开创“弘治中兴”局面。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "明", "continent": "亚洲" }
+      {
+        "title": "明孝宗即位与弘治中兴",
+        "description": "明宪宗驾崩，太子朱祐樘即位，是为明孝宗。明孝宗是明朝中后期少有的明君，勤政爱民，驱逐奸佞，重用贤臣，开创“弘治中兴”局面。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1489,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "塞浦路斯成为威尼斯殖民地",
+        "description": "威尼斯共和国控制塞浦路斯岛。",
+        "latitude": 35.0,
+        "longitude": 33.0,
+        "category": "政治",
+        "region": "威尼斯共和国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1490,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "波斯萨法维王朝兴起",
+        "description": "伊斯玛仪一世在波斯组建萨法维教团武装。",
+        "latitude": 38.0,
+        "longitude": 47.0,
+        "category": "政治",
+        "region": "波斯",
+        "continent": "亚洲"
+      },
+      {
+        "title": "满者伯夷衰落",
+        "description": "满者伯夷帝国在内战中衰落，伊斯兰教在爪哇传播。",
+        "latitude": -7.3,
+        "longitude": 112.8,
+        "category": "政治",
+        "region": "满者伯夷",
+        "continent": "亚洲"
+      },
+      {
+        "title": "密西西比文化繁荣",
+        "description": "北美东南部密西西比文化建造蒙德土墩。",
+        "latitude": 32.5,
+        "longitude": -86.0,
+        "category": "文化",
+        "region": "密西西比",
+        "continent": "北美洲"
+      },
+      {
+        "title": "达·芬奇科学笔记",
+        "description": "列奥纳多·达·芬奇开始系统记录科学和工程学笔记。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "科技",
+        "region": "意大利",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1491,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "桑海帝国阿斯基亚王朝",
+        "description": "阿斯基亚·穆罕默德在西非建立桑海帝国阿斯基亚王朝。",
+        "latitude": 16.0,
+        "longitude": 0.0,
+        "category": "政治",
+        "region": "桑海帝国",
+        "continent": "非洲"
+      }
     ]
   },
   {
     "year": 1492,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明孝宗朱祐樘", "era": "弘治五年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明孝宗朱祐樘",
+        "era": "弘治五年"
+      }
     ],
     "events": [
-      { "title": "哥伦布发现新大陆", "description": "热那亚航海家克里斯托弗·哥伦布的西班牙船队抵达巴哈马群岛的华特林岛。哥伦布以为自己到达了印度，实际上发现了美洲新大陆。此后欧洲与美洲的接触彻底改变了世界历史进程。", "latitude": 24.0, "longitude": -74.5, "category": "科技", "region": "西班牙", "continent": "北美洲" },
-      { "title": "西班牙收复格拉纳达", "description": "西班牙天主教双王的军队攻陷摩尔人在伊比利亚半岛的最后一个据点格拉纳达。纳斯里王朝灭亡，历时近八百年的收复失地运动宣告结束。", "latitude": 37.2, "longitude": -3.6, "category": "军事", "region": "西班牙", "continent": "欧洲" },
-      { "title": "哥伦布建立美洲第一个殖民点", "description": "哥伦布在伊斯帕尼奥拉岛（今海地岛）建立纳维达德定居点，这是欧洲在美洲的第一个殖民据点。哥伦布留下三十九人驻守，自己返回西班牙报捷。", "latitude": 19.6, "longitude": -72.4, "category": "外交", "region": "西班牙", "continent": "北美洲" }
+      {
+        "title": "哥伦布发现新大陆",
+        "description": "热那亚航海家克里斯托弗·哥伦布的西班牙船队抵达巴哈马群岛的华特林岛。哥伦布以为自己到达了印度，实际上发现了美洲新大陆。此后欧洲与美洲的接触彻底改变了世界历史进程。",
+        "latitude": 24.0,
+        "longitude": -74.5,
+        "category": "科技",
+        "region": "西班牙",
+        "continent": "北美洲"
+      },
+      {
+        "title": "西班牙收复格拉纳达",
+        "description": "西班牙天主教双王的军队攻陷摩尔人在伊比利亚半岛的最后一个据点格拉纳达。纳斯里王朝灭亡，历时近八百年的收复失地运动宣告结束。",
+        "latitude": 37.2,
+        "longitude": -3.6,
+        "category": "军事",
+        "region": "西班牙",
+        "continent": "欧洲"
+      },
+      {
+        "title": "哥伦布建立美洲第一个殖民点",
+        "description": "哥伦布在伊斯帕尼奥拉岛（今海地岛）建立纳维达德定居点，这是欧洲在美洲的第一个殖民据点。哥伦布留下三十九人驻守，自己返回西班牙报捷。",
+        "latitude": 19.6,
+        "longitude": -72.4,
+        "category": "外交",
+        "region": "西班牙",
+        "continent": "北美洲"
+      }
     ]
   },
   {
     "year": 1493,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明孝宗朱祐樘", "era": "弘治六年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明孝宗朱祐樘",
+        "era": "弘治六年"
+      }
     ],
     "events": [
-      { "title": "教皇子午线划定", "description": "教皇亚历山大六世发布教宗诏书，划定亚速尔群岛以西一百里格为西班牙和葡萄牙的势力分界线。后在1494年《托尔德西里亚斯条约》中改至佛得角以西三百七十里格。", "latitude": 41.9, "longitude": 12.5, "category": "宗教", "region": "教廷", "continent": "欧洲" }
+      {
+        "title": "教皇子午线划定",
+        "description": "教皇亚历山大六世发布教宗诏书，划定亚速尔群岛以西一百里格为西班牙和葡萄牙的势力分界线。后在1494年《托尔德西里亚斯条约》中改至佛得角以西三百七十里格。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "教廷",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1494,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明孝宗朱祐樘", "era": "弘治七年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明孝宗朱祐樘",
+        "era": "弘治七年"
+      }
     ],
     "events": [
-      { "title": "法国入侵意大利", "description": "法王查理八世率军翻越阿尔卑斯山入侵意大利，意大利战争爆发。佛罗伦萨修士萨沃纳罗拉趁机推翻美第奇家族统治，建立神权共和国。", "latitude": 43.8, "longitude": 11.3, "category": "军事", "region": "意大利", "continent": "欧洲" }
+      {
+        "title": "法国入侵意大利",
+        "description": "法王查理八世率军翻越阿尔卑斯山入侵意大利，意大利战争爆发。佛罗伦萨修士萨沃纳罗拉趁机推翻美第奇家族统治，建立神权共和国。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "军事",
+        "region": "意大利",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1495,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "神圣罗马帝国帝国改革",
+        "description": "马克西米利安一世在沃尔姆斯帝国议会推行改革。",
+        "latitude": 49.6,
+        "longitude": 8.4,
+        "category": "政治",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "松戈帝国在非洲中部分立",
+        "description": "加纳帝国之后的中西非政权。",
+        "latitude": 12.0,
+        "longitude": -5.0,
+        "category": "政治",
+        "region": "松戈",
+        "continent": "非洲"
+      }
+    ]
+  },
+  {
+    "year": 1496,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "西班牙与英格兰联姻",
+        "description": "西班牙双王安排子女与英格兰都铎王朝联姻。",
+        "latitude": 41.7,
+        "longitude": -4.7,
+        "category": "外交",
+        "region": "西班牙",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1497,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明孝宗朱祐樘", "era": "弘治十年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明孝宗朱祐樘",
+        "era": "弘治十年"
+      }
     ],
     "events": [
-      { "title": "达伽马开辟印度航线", "description": "葡萄牙航海家瓦斯科·达伽马率船队绕过好望角，抵达印度卡利卡特（古里）。达伽马开辟了从欧洲绕非洲直达印度的新航线，为葡萄牙建立东方殖民帝国奠定了基础。", "latitude": 11.3, "longitude": 75.8, "category": "科技", "region": "葡萄牙", "continent": "亚洲" },
-      { "title": "约翰·卡伯特发现纽芬兰", "description": "意大利航海家约翰·卡伯特（乔瓦尼·卡博托）在英王亨利七世资助下横渡大西洋，抵达纽芬兰岛。他误以为到达了亚洲，实际上为英国在北美的殖民扩张奠定了基础。", "latitude": 47.6, "longitude": -52.7, "category": "科技", "region": "英格兰", "continent": "北美洲" }
+      {
+        "title": "达伽马开辟印度航线",
+        "description": "葡萄牙航海家瓦斯科·达伽马率船队绕过好望角，抵达印度卡利卡特（古里）。达伽马开辟了从欧洲绕非洲直达印度的新航线，为葡萄牙建立东方殖民帝国奠定了基础。",
+        "latitude": 11.3,
+        "longitude": 75.8,
+        "category": "科技",
+        "region": "葡萄牙",
+        "continent": "亚洲"
+      },
+      {
+        "title": "约翰·卡伯特发现纽芬兰",
+        "description": "意大利航海家约翰·卡伯特（乔瓦尼·卡博托）在英王亨利七世资助下横渡大西洋，抵达纽芬兰岛。他误以为到达了亚洲，实际上为英国在北美的殖民扩张奠定了基础。",
+        "latitude": 47.6,
+        "longitude": -52.7,
+        "category": "科技",
+        "region": "英格兰",
+        "continent": "北美洲"
+      }
     ]
   },
   {
     "year": 1498,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明孝宗朱祐樘", "era": "弘治十一年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明孝宗朱祐樘",
+        "era": "弘治十一年"
+      }
     ],
     "events": [
-      { "title": "哥伦布第三次航行", "description": "哥伦布第三次航行至南美洲大陆，到达了今天委内瑞拉沿海。哥伦布第一次踏上美洲大陆，但他至死都认为自己到达的是亚洲。", "latitude": 10.5, "longitude": -66.9, "category": "科技", "region": "西班牙", "continent": "南美洲" }
+      {
+        "title": "哥伦布第三次航行",
+        "description": "哥伦布第三次航行至南美洲大陆，到达了今天委内瑞拉沿海。哥伦布第一次踏上美洲大陆，但他至死都认为自己到达的是亚洲。",
+        "latitude": 10.5,
+        "longitude": -66.9,
+        "category": "科技",
+        "region": "西班牙",
+        "continent": "南美洲"
+      },
+      {
+        "title": "达·伽马到达印度",
+        "description": "瓦斯科·达·伽马到达印度卡利卡特。",
+        "latitude": 11.3,
+        "longitude": 75.8,
+        "category": "科技",
+        "region": "葡萄牙",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1499,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明孝宗朱祐樘", "era": "弘治十二年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明孝宗朱祐樘",
+        "era": "弘治十二年"
+      }
     ],
     "events": [
-      { "title": "达芬奇创作《最后的晚餐》", "description": "意大利文艺复兴大师列奥纳多·达·芬奇在米兰圣玛丽亚感恩教堂完成了壁画《最后的晚餐》。这幅描绘耶稣与十二门徒最后晚餐的作品成为西方艺术史上的杰作。", "latitude": 45.5, "longitude": 9.2, "category": "文化", "region": "意大利", "continent": "欧洲" }
+      {
+        "title": "达芬奇创作《最后的晚餐》",
+        "description": "意大利文艺复兴大师列奥纳多·达·芬奇在米兰圣玛丽亚感恩教堂完成了壁画《最后的晚餐》。这幅描绘耶稣与十二门徒最后晚餐的作品成为西方艺术史上的杰作。",
+        "latitude": 45.5,
+        "longitude": 9.2,
+        "category": "文化",
+        "region": "意大利",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1500,
+    "dynasties": [
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "巴西被发现",
+        "description": "葡萄牙航海家卡布拉尔在前往印度途中发现巴西。",
+        "latitude": -15.0,
+        "longitude": -50.0,
+        "category": "科技",
+        "region": "葡萄牙",
+        "continent": "南美洲"
+      }
     ]
   }
 ]

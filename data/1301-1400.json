@@ -1,387 +1,2928 @@
 [
   {
-    "year": 1302,
+    "year": 1301,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元成宗铁穆耳", "era": "大德六年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
     ],
     "events": [
-      { "title": "法国首次召开三级会议", "description": "法王腓力四世为征收新税以应对与教皇的冲突，首次召开由教士、贵族和第三等级（平民）代表组成的三级会议。这是法国等级代表制的重要开端。", "latitude": 48.9, "longitude": 2.3, "category": "政治", "region": "法兰西", "continent": "欧洲" }
+      {
+        "title": "苏格兰独立战争继续",
+        "description": "罗伯特·布鲁斯继承苏格兰抗英首领地位。",
+        "latitude": 56.0,
+        "longitude": -3.0,
+        "category": "军事",
+        "region": "苏格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "中国元末农民起义",
+        "description": "元末各地农民起义风起云涌。",
+        "latitude": 33.0,
+        "longitude": 115.0,
+        "category": "社会",
+        "region": "元",
+        "continent": "亚洲"
+      },
+      {
+        "title": "意大利文艺复兴文学",
+        "description": "但丁彼特拉克薄伽丘开创文艺复兴。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "文化",
+        "region": "意大利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "元朝朱清张瑄海运",
+        "description": "元海上漕运。",
+        "latitude": 30.0,
+        "longitude": 122.0,
+        "category": "经济",
+        "region": "元",
+        "continent": "亚洲"
+      },
+      {
+        "title": "中国青花瓷",
+        "description": "青花。",
+        "latitude": 30.5,
+        "longitude": 114.0,
+        "category": "工艺",
+        "region": "元",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1302,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "法国首次召开三级会议",
+        "description": "法王腓力四世为征收新税以应对与教皇的冲突，首次召开由教士、贵族和第三等级（平民）代表组成的三级会议。这是法国等级代表制的重要开端。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "奥斯曼帝国崛起",
+        "description": "奥斯曼帝国在安纳托利亚兴起并扩张至欧洲巴尔干。",
+        "latitude": 40.0,
+        "longitude": 30.0,
+        "category": "军事",
+        "region": "奥斯曼帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲汉萨同盟发展",
+        "description": "德意志北方城市组成汉萨贸易同盟。",
+        "latitude": 54.0,
+        "longitude": 12.0,
+        "category": "经济",
+        "region": "汉萨同盟",
+        "continent": "欧洲"
+      },
+      {
+        "title": "欧洲黑死病影响",
+        "description": "黑死病后欧洲社会和经济结构深刻变化。",
+        "latitude": 50.0,
+        "longitude": 8.0,
+        "category": "社会",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "高丽王朝晚期",
+        "description": "高丽王朝末年政治腐败倭寇侵扰。",
+        "latitude": 37.6,
+        "longitude": 127.0,
+        "category": "政治",
+        "region": "高丽",
+        "continent": "亚洲"
+      },
+      {
+        "title": "明朝开国制度",
+        "description": "朱元璋建立明朝后制定一系列典章制度。",
+        "latitude": 32.1,
+        "longitude": 118.8,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "东南亚佛教王国",
+        "description": "暹罗阿瑜陀耶和老挝澜沧等王国发展。",
+        "latitude": 15.0,
+        "longitude": 102.0,
+        "category": "政治",
+        "region": "东南亚",
+        "continent": "亚洲"
+      },
+      {
+        "title": "非洲马里帝国城市",
+        "description": "廷巴克图和杰内成为重要文化和商业中心。",
+        "latitude": 16.5,
+        "longitude": -3.0,
+        "category": "文化",
+        "region": "马里帝国",
+        "continent": "非洲"
+      },
+      {
+        "title": "教廷与法国冲突",
+        "description": "腓力四世反抗。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1303,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "教皇博尼法斯八世遭袭击",
+        "description": "法国国王腓力四世派兵在阿纳尼袭击教皇博尼法斯八世。",
+        "latitude": 41.8,
+        "longitude": 13.0,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "元朝统治中国",
+        "description": "元朝实施民族等级政策，中外交流频繁。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "元",
+        "continent": "亚洲"
+      },
+      {
+        "title": "教皇卜尼法斯被囚",
+        "description": "法国拘教皇。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "教皇国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1304,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "英格兰征服苏格兰",
+        "description": "爱德华一世攻占苏格兰斯特灵城堡。",
+        "latitude": 56.1,
+        "longitude": -4.0,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "帖木儿帝国扩张",
+        "description": "帖木儿在中亚和波斯进行大规模征服。",
+        "latitude": 39.0,
+        "longitude": 66.0,
+        "category": "军事",
+        "region": "帖木儿帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲民族语言兴起",
+        "description": "但丁用意大利语等民族语言进行文学创作。",
+        "latitude": 44.0,
+        "longitude": 10.0,
+        "category": "文化",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "欧洲商业资本主义",
+        "description": "意大利城邦商业银行和资本主义萌芽。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "经济",
+        "region": "意大利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "但丁开始神曲",
+        "description": "但丁创作。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "文化",
+        "region": "意大利",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1305,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "威廉·华莱士被处决",
+        "description": "苏格兰民族英雄威廉·华莱士在伦敦被英格兰人处决。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "苏格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "意大利文艺复兴兴起",
+        "description": "但丁、彼得拉克和薄伽丘等文学大师开创文艺复兴。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "文化",
+        "region": "意大利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "奥斯曼帝国扩张",
+        "description": "奥斯曼帝国在巴尔干半岛加速扩张。",
+        "latitude": 42.0,
+        "longitude": 23.0,
+        "category": "军事",
+        "region": "奥斯曼帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "教廷迁阿维尼翁",
+        "description": "教皇在法国。",
+        "latitude": 43.9,
+        "longitude": 4.8,
+        "category": "宗教",
+        "region": "教皇国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1306,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "罗伯特·布鲁斯加冕苏格兰王",
+        "description": "罗伯特·布鲁斯在斯昆加冕为苏格兰国王。",
+        "latitude": 56.4,
+        "longitude": -3.4,
+        "category": "政治",
+        "region": "苏格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英法百年战争",
+        "description": "英法百年战争期间法国遭受严重破坏。",
+        "latitude": 49.0,
+        "longitude": 2.0,
+        "category": "军事",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "印度教毗奢耶那伽罗",
+        "description": "南印度毗奢耶那伽罗帝国文化与建筑繁荣。",
+        "latitude": 15.0,
+        "longitude": 78.0,
+        "category": "文化",
+        "region": "毗奢耶那伽罗",
+        "continent": "亚洲"
+      },
+      {
+        "title": "元朝限制汉人",
+        "description": "四等级制。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "元",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1307,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元成宗铁穆耳", "era": "大德十一年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德十一年"
+      }
     ],
     "events": [
-      { "title": "圣殿骑士团被镇压", "description": "法王腓力四世以异端罪名逮捕圣殿骑士团成员，骑士团领袖雅克·德·莫莱被烧死。腓力四世借此夺取了骑士团的巨额财富，教皇克雷芒五世在压力下解散了圣殿骑士团。", "latitude": 48.9, "longitude": 2.3, "category": "宗教", "region": "法兰西", "continent": "欧洲" }
+      {
+        "title": "圣殿骑士团被镇压",
+        "description": "法王腓力四世以异端罪名逮捕圣殿骑士团成员，骑士团领袖雅克·德·莫莱被烧死。腓力四世借此夺取了骑士团的巨额财富，教皇克雷芒五世在压力下解散了圣殿骑士团。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "宗教",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "马里帝国鼎盛",
+        "description": "马里帝国曼萨·穆萨朝觐麦加，帝国在西非达到极盛。",
+        "latitude": 14.0,
+        "longitude": -4.0,
+        "category": "政治",
+        "region": "马里帝国",
+        "continent": "非洲"
+      },
+      {
+        "title": "但丁开始流放",
+        "description": "但丁离佛罗伦萨。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "文化",
+        "region": "意大利",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1308,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元武宗海山", "era": "至大元年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元武宗海山",
+        "era": "至大元年"
+      }
     ],
     "events": [
-      { "title": "但丁开始创作《神曲》", "description": "意大利诗人但丁在被佛罗伦萨流放后开始创作伟大史诗《神曲》。作品以第一人称叙述了穿越地狱、炼狱和天堂的旅程，成为文艺复兴文学的奠基之作。", "latitude": 43.8, "longitude": 11.3, "category": "文化", "region": "意大利", "continent": "欧洲" }
+      {
+        "title": "但丁开始创作《神曲》",
+        "description": "意大利诗人但丁在被佛罗伦萨流放后开始创作伟大史诗《神曲》。作品以第一人称叙述了穿越地狱、炼狱和天堂的旅程，成为文艺复兴文学的奠基之作。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "文化",
+        "region": "意大利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "教皇克莱门特五世",
+        "description": "阿维尼翁。",
+        "latitude": 43.9,
+        "longitude": 4.8,
+        "category": "宗教",
+        "region": "教皇国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1309,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元武宗海山", "era": "至大二年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元武宗海山",
+        "era": "至大二年"
+      }
     ],
     "events": [
-      { "title": "教廷迁至阿维尼翁", "description": "法王腓力四世施压之下，教皇克雷芒五世将教廷从罗马迁至法国阿维尼翁。此后七任教皇均为法国人，教廷驻阿维尼翁长达六十八年，史称“阿维尼翁之囚”。", "latitude": 43.9, "longitude": 4.8, "category": "宗教", "region": "法兰西", "continent": "欧洲" }
+      {
+        "title": "教廷迁至阿维尼翁",
+        "description": "法王腓力四世施压之下，教皇克雷芒五世将教廷从罗马迁至法国阿维尼翁。此后七任教皇均为法国人，教廷驻阿维尼翁长达六十八年，史称“阿维尼翁之囚”。",
+        "latitude": 43.9,
+        "longitude": 4.8,
+        "category": "宗教",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "圣殿骑士团受审",
+        "description": "法王迫害。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "宗教",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1310,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "但丁撰写《神曲》",
+        "description": "意大利诗人但丁开始创作不朽史诗《神曲》。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "文化",
+        "region": "意大利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "马里帝国扩张",
+        "description": "曼萨·穆萨统治时期马里帝国达到极盛。",
+        "latitude": 14.0,
+        "longitude": -4.0,
+        "category": "政治",
+        "region": "马里帝国",
+        "continent": "非洲"
+      },
+      {
+        "title": "邓斯司各脱哲学",
+        "description": "司各脱。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "文化",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "欧洲瘟疫爆发前",
+        "description": "欧洲人口。",
+        "latitude": 50.0,
+        "longitude": 8.0,
+        "category": "人口",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "欧洲机械钟",
+        "description": "钟表。",
+        "latitude": 48.0,
+        "longitude": 2.0,
+        "category": "科技",
+        "region": "欧洲",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1311,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "维也纳大公会议",
+        "description": "教皇克莱门特五世在维也纳召开大公会议。",
+        "latitude": 48.2,
+        "longitude": 16.4,
+        "category": "宗教",
+        "region": "教皇国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "元与日本元",
+        "description": "中日关系。",
+        "latitude": 35.0,
+        "longitude": 136.0,
+        "category": "外交",
+        "region": "元",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1312,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "圣殿骑士团被解散",
+        "description": "教皇克莱门特五世正式下令解散圣殿骑士团。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "教皇国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1313,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "但丁《神曲》完成",
+        "description": "但丁完成《神曲》的创作，成为意大利文学和世界文学的经典。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "文化",
+        "region": "意大利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "但丁著论著",
+        "description": "但丁论君主。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "文化",
+        "region": "意大利",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1314,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "班诺克本战役",
+        "description": "苏格兰国王罗伯特·布鲁斯在班诺克本击败英格兰大军，苏格兰独立基本确立。",
+        "latitude": 56.1,
+        "longitude": -3.9,
+        "category": "军事",
+        "region": "苏格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "苏格兰独立战争",
+        "description": "班诺克本。",
+        "latitude": 56.1,
+        "longitude": -3.9,
+        "category": "军事",
+        "region": "苏格兰",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1315,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元仁宗爱育黎拔力八达", "era": "延祐二年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元仁宗爱育黎拔力八达",
+        "era": "延祐二年"
+      }
     ],
     "events": [
-      { "title": "欧洲大饥荒", "description": "欧洲遭遇持续三年的大饥荒，因连续暴雨导致农作物绝收。饥荒蔓延至整个北欧和中欧，数百万人饿死，社会动荡加剧，为后来的黑死病大流行埋下了人口脆弱性的伏笔。", "latitude": 48.9, "longitude": 2.3, "category": "社会", "region": "西欧", "continent": "欧洲" }
+      {
+        "title": "欧洲大饥荒",
+        "description": "欧洲遭遇持续三年的大饥荒，因连续暴雨导致农作物绝收。饥荒蔓延至整个北欧和中欧，数百万人饿死，社会动荡加剧，为后来的黑死病大流行埋下了人口脆弱性的伏笔。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "社会",
+        "region": "西欧",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1316,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元仁宗爱育黎拔力八达", "era": "延祐三年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元仁宗爱育黎拔力八达",
+        "era": "延祐三年"
+      }
     ],
     "events": [
-      { "title": "元朝恢复科举", "description": "元仁宗下令恢复科举考试，史称“延祐复科”。科举以程朱理学为主要考试内容，首次分左右榜录取蒙古、色目人和汉人、南人。这是元朝汉化改革的重要举措。", "latitude": 39.9, "longitude": 116.4, "category": "文化", "region": "元", "continent": "亚洲" }
+      {
+        "title": "元朝恢复科举",
+        "description": "元仁宗下令恢复科举考试，史称“延祐复科”。科举以程朱理学为主要考试内容，首次分左右榜录取蒙古、色目人和汉人、南人。这是元朝汉化改革的重要举措。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "文化",
+        "region": "元",
+        "continent": "亚洲"
+      },
+      {
+        "title": "瑞士独立战争",
+        "description": "莫尔加滕。",
+        "latitude": 47.0,
+        "longitude": 8.5,
+        "category": "军事",
+        "region": "瑞士",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1317,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "法兰西路易十世去世",
+        "description": "法兰西国王路易十世去世，王位继承问题突显。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "元分封诸王",
+        "description": "元朝内斗。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "元",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1318,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "元朝科举恢复",
+        "description": "元仁宗恢复科举考试制度。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "元",
+        "continent": "亚洲"
+      },
+      {
+        "title": "天主教神学争论",
+        "description": "方济各派。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "宗教",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1319,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "条顿骑士团打立陶宛",
+        "description": "骑士团东征。",
+        "latitude": 55.0,
+        "longitude": 22.0,
+        "category": "军事",
+        "region": "条顿骑士团",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1320,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "波兰统一",
+        "description": "瓦迪斯瓦夫一世在克拉科夫加冕为波兰国王，波兰重新统一。",
+        "latitude": 50.0,
+        "longitude": 20.0,
+        "category": "政治",
+        "region": "波兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "玛雅奇琴伊察文明",
+        "description": "玛雅文明在尤卡坦半岛的奇琴伊察繁荣。",
+        "latitude": 20.7,
+        "longitude": -88.0,
+        "category": "文化",
+        "region": "玛雅",
+        "continent": "北美洲"
+      },
+      {
+        "title": "机械钟表在欧洲出现",
+        "description": "欧洲大教堂开始安装机械钟表。",
+        "latitude": 48.0,
+        "longitude": 2.0,
+        "category": "科技",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "元曲杂剧兴盛",
+        "description": "关汉卿。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "文学",
+        "region": "元",
+        "continent": "亚洲"
+      },
+      {
+        "title": "波斯细密画",
+        "description": "波斯绘画。",
+        "latitude": 32.0,
+        "longitude": 52.0,
+        "category": "艺术",
+        "region": "波斯",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1321,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "但丁去世",
+        "description": "意大利诗人但丁在拉文纳去世。",
+        "latitude": 44.4,
+        "longitude": 12.2,
+        "category": "文化",
+        "region": "意大利",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1322,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "元朝南坡之变",
+        "description": "元英宗在元朝内乱中被刺杀。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "元",
+        "continent": "亚洲"
+      },
+      {
+        "title": "元朝晋王之变",
+        "description": "元英宗被杀。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "元",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1323,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "元朝泰定帝即位",
+        "description": "元朝泰定帝即位，元朝政治日趋腐败。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "元",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1324,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元泰定帝也孙铁木儿", "era": "泰定元年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元泰定帝也孙铁木儿",
+        "era": "泰定元年"
+      }
     ],
     "events": [
-      { "title": "马可·波罗去世", "description": "著名旅行家马可·波罗在威尼斯去世，享年约七十岁。他的《马可·波罗游记》在欧洲广为流传，激发了无数欧洲人对东方的向往，间接推动了大航海时代。", "latitude": 45.4, "longitude": 12.3, "category": "文化", "region": "威尼斯", "continent": "欧洲" }
+      {
+        "title": "马可·波罗去世",
+        "description": "著名旅行家马可·波罗在威尼斯去世，享年约七十岁。他的《马可·波罗游记》在欧洲广为流传，激发了无数欧洲人对东方的向往，间接推动了大航海时代。",
+        "latitude": 45.4,
+        "longitude": 12.3,
+        "category": "文化",
+        "region": "威尼斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "马里曼萨穆萨朝圣",
+        "description": "马里皇帝。",
+        "latitude": 21.4,
+        "longitude": 39.8,
+        "category": "宗教",
+        "region": "马里帝国",
+        "continent": "非洲"
+      }
     ]
   },
   {
     "year": 1325,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元泰定帝也孙铁木儿", "era": "泰定二年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元泰定帝也孙铁木儿",
+        "era": "泰定二年"
+      }
     ],
     "events": [
-      { "title": "阿兹特克人建立特诺奇蒂特兰", "description": "阿兹特克人在特斯科科湖中的小岛上建造了他们的首都特诺奇蒂特兰城（今墨西哥城所在地）。此后阿兹特克帝国迅速扩张，成为中美洲最强大的文明之一。", "latitude": 19.4, "longitude": -99.1, "category": "社会", "region": "阿兹特克", "continent": "北美洲" }
+      {
+        "title": "阿兹特克人建立特诺奇蒂特兰",
+        "description": "阿兹特克人在特斯科科湖中的小岛上建造了他们的首都特诺奇蒂特兰城（今墨西哥城所在地）。此后阿兹特克帝国迅速扩张，成为中美洲最强大的文明之一。",
+        "latitude": 19.4,
+        "longitude": -99.1,
+        "category": "社会",
+        "region": "阿兹特克",
+        "continent": "北美洲"
+      }
+    ]
+  },
+  {
+    "year": 1326,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "奥斯曼帝国夺取布鲁萨",
+        "description": "奥斯曼一世之子奥尔汗攻占布鲁萨，定为奥斯曼帝国首都。",
+        "latitude": 40.2,
+        "longitude": 29.1,
+        "category": "军事",
+        "region": "奥斯曼帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "奥斯曼奥尔汗继位",
+        "description": "奥尔汗苏丹。",
+        "latitude": 40.2,
+        "longitude": 29.1,
+        "category": "政治",
+        "region": "奥斯曼帝国",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1327,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "英格兰爱德华三世亲政",
+        "description": "英格兰国王爱德华三世推翻摄政，开始亲政。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1328,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元文宗图帖睦尔", "era": "天历元年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元文宗图帖睦尔",
+        "era": "天历元年"
+      }
     ],
     "events": [
-      { "title": "元朝两都之战", "description": "元泰定帝驾崩后，元朝爆发皇位争夺战。大都派（燕铁木儿）与上都派（倒剌沙）激战，最终大都派获胜，元文宗图帖睦尔即位。元朝中央权威进一步削弱。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "元", "continent": "亚洲" }
+      {
+        "title": "元朝两都之战",
+        "description": "元泰定帝驾崩后，元朝爆发皇位争夺战。大都派（燕铁木儿）与上都派（倒剌沙）激战，最终大都派获胜，元文宗图帖睦尔即位。元朝中央权威进一步削弱。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "元",
+        "continent": "亚洲"
+      },
+      {
+        "title": "法瓦卢瓦王朝",
+        "description": "腓力六世。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1329,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "马里曼萨·穆萨朝觐麦加",
+        "description": "马里帝国皇帝曼萨·穆萨前往麦加朝圣，沿途大量布施黄金。",
+        "latitude": 21.4,
+        "longitude": 39.8,
+        "category": "宗教",
+        "region": "马里帝国",
+        "continent": "非洲"
+      },
+      {
+        "title": "日本足利尊氏",
+        "description": "室町幕府。",
+        "latitude": 35.0,
+        "longitude": 136.0,
+        "category": "政治",
+        "region": "日本",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1330,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "立陶宛大公国兴起",
+        "description": "立陶宛大公格迪米纳斯在位，立陶宛向东扩张。",
+        "latitude": 55.0,
+        "longitude": 24.0,
+        "category": "政治",
+        "region": "立陶宛",
+        "continent": "欧洲"
+      },
+      {
+        "title": "明朝科举制度完善",
+        "description": "明朝继承元朝科举制度。",
+        "latitude": 32.1,
+        "longitude": 118.8,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "立陶宛格迪米纳斯",
+        "description": "立陶宛强。",
+        "latitude": 55.0,
+        "longitude": 24.0,
+        "category": "政治",
+        "region": "立陶宛",
+        "continent": "欧洲"
+      },
+      {
+        "title": "意大利簿记发明",
+        "description": "复式记账。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "会计",
+        "region": "意大利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "元朝大运河整治",
+        "description": "运河。",
+        "latitude": 35.0,
+        "longitude": 116.0,
+        "category": "工程",
+        "region": "元",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1331,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "塞尔维亚帝国斯特凡·杜尚统治",
+        "description": "塞尔维亚国王斯特凡·杜尚开始统治，塞尔维亚帝国进入全盛。",
+        "latitude": 44.0,
+        "longitude": 21.0,
+        "category": "政治",
+        "region": "塞尔维亚",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1332,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "元朝权臣伯颜专权",
+        "description": "元朝丞相伯颜权势熏天，元顺帝形同傀儡。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "元",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1333,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "日本建武新政",
+        "description": "日本后醍醐天皇推翻镰仓幕府，实行建武新政。",
+        "latitude": 35.0,
+        "longitude": 136.0,
+        "category": "政治",
+        "region": "日本",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1334,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "佛罗伦萨银行家崛起",
+        "description": "佛罗伦萨美第奇家族前身开始从事银行业务。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "经济",
+        "region": "佛罗伦萨",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1335,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "日本室町幕府建立",
+        "description": "足利尊氏在京都建立室町幕府。",
+        "latitude": 35.0,
+        "longitude": 136.0,
+        "category": "政治",
+        "region": "日本",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1336,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "百年战争前夕",
+        "description": "英格兰与法兰西因佛兰德和加斯科尼问题矛盾激化。",
+        "latitude": 50.0,
+        "longitude": 2.0,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "毗奢耶那伽罗帝国建立",
+        "description": "哈里哈拉和布卡在南印度建立毗奢耶那伽罗帝国。",
+        "latitude": 15.0,
+        "longitude": 76.0,
+        "category": "政治",
+        "region": "毗奢耶那伽罗",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1337,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至元三年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元顺帝妥懽帖睦尔",
+        "era": "至元三年"
+      }
     ],
     "events": [
-      { "title": "百年战争爆发", "description": "英王爱德华三世以法王腓力六世继承权争议为由，对法国宣战。百年战争由此爆发，这场战争持续一百一十六年，深刻塑造了英法两国的民族认同和政治制度。", "latitude": 48.9, "longitude": 2.3, "category": "军事", "region": "法兰西", "continent": "欧洲" }
+      {
+        "title": "百年战争爆发",
+        "description": "英王爱德华三世以法王腓力六世继承权争议为由，对法国宣战。百年战争由此爆发，这场战争持续一百一十六年，深刻塑造了英法两国的民族认同和政治制度。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "军事",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1338,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "神圣罗马帝国金玺诏书",
+        "description": "德意志选帝侯会议决定皇帝不经教皇认可即可统治。",
+        "latitude": 50.0,
+        "longitude": 9.0,
+        "category": "政治",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1339,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "元朝黄河决口",
+        "description": "黄河在河南多次决口，民生凋敝，红巾军起义的导火索。",
+        "latitude": 35.0,
+        "longitude": 114.0,
+        "category": "社会",
+        "region": "元",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1340,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至元六年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元顺帝妥懽帖睦尔",
+        "era": "至元六年"
+      }
     ],
     "events": [
-      { "title": "斯勒伊斯海战", "description": "英法舰队在斯勒伊斯港（今荷兰）爆发大规模海战。英王爱德华三世亲自指挥，几乎全歼法国舰队，夺得英吉利海峡制海权。此战是百年战争初期的关键战役。", "latitude": 51.3, "longitude": 3.4, "category": "军事", "region": "英格兰", "continent": "欧洲" }
+      {
+        "title": "斯勒伊斯海战",
+        "description": "英法舰队在斯勒伊斯港（今荷兰）爆发大规模海战。英王爱德华三世亲自指挥，几乎全歼法国舰队，夺得英吉利海峡制海权。此战是百年战争初期的关键战役。",
+        "latitude": 51.3,
+        "longitude": 3.4,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "阿拉伯史学家伊本·赫勒敦出生",
+        "description": "伊本·赫勒敦出生，后为历史哲学奠基人。",
+        "latitude": 33.0,
+        "longitude": 10.0,
+        "category": "文化",
+        "region": "突尼斯",
+        "continent": "非洲"
+      },
+      {
+        "title": "欧洲黑死病影响",
+        "description": "人口剧减。",
+        "latitude": 50.0,
+        "longitude": 8.0,
+        "category": "瘟疫",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "欧洲眼镜普及",
+        "description": "光学。",
+        "latitude": 48.0,
+        "longitude": 2.0,
+        "category": "科技",
+        "region": "意大利",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1341,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "意大利彼特拉克被加冕为桂冠诗人",
+        "description": "意大利诗人彼特拉克在罗马被加冕为桂冠诗人，文艺复兴先驱。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "文化",
+        "region": "意大利",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1342,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "匈牙利路易大帝即位",
+        "description": "路易一世成为匈牙利国王，匈牙利进入强盛时期。",
+        "latitude": 47.5,
+        "longitude": 19.0,
+        "category": "政治",
+        "region": "匈牙利",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1343,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "元朝红巾军起义开始",
+        "description": "元末农民起义爆发，白莲教首领韩山童和刘福通领导红巾军。",
+        "latitude": 34.0,
+        "longitude": 115.0,
+        "category": "社会",
+        "region": "元",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1344,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "彼得拉克发现西塞罗书信",
+        "description": "意大利人文主义者彼特拉克发现古罗马西塞罗的书信。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "文化",
+        "region": "意大利",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1345,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "威尼斯商人旅行",
+        "description": "威尼斯商人开始沿丝绸之路深入亚洲。",
+        "latitude": 45.4,
+        "longitude": 12.3,
+        "category": "经济",
+        "region": "威尼斯共和国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1346,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正六年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元顺帝妥懽帖睦尔",
+        "era": "至正六年"
+      }
     ],
     "events": [
-      { "title": "克雷西战役", "description": "英王爱德华三世率军在法国克雷西以长弓手大败法王腓力六世的骑士大军。法军阵亡一万五千余人，英军仅损失数百人。此战宣告了英国长弓在战场上的统治地位。", "latitude": 50.3, "longitude": 1.9, "category": "军事", "region": "法兰西", "continent": "欧洲" }
+      {
+        "title": "克雷西战役",
+        "description": "英王爱德华三世率军在法国克雷西以长弓手大败法王腓力六世的骑士大军。法军阵亡一万五千余人，英军仅损失数百人。此战宣告了英国长弓在战场上的统治地位。",
+        "latitude": 50.3,
+        "longitude": 1.9,
+        "category": "军事",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1347,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正七年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元顺帝妥懽帖睦尔",
+        "era": "至正七年"
+      }
     ],
     "events": [
-      { "title": "黑死病抵达欧洲", "description": "鼠疫（黑死病）从克里米亚经由热那亚商船传播至西西里岛和意大利本土。此后黑死病迅速蔓延至整个欧洲，成为人类历史上最致命的传染病大流行之一。", "latitude": 38.1, "longitude": 13.4, "category": "社会", "region": "意大利", "continent": "欧洲" }
+      {
+        "title": "黑死病抵达欧洲",
+        "description": "鼠疫（黑死病）从克里米亚经由热那亚商船传播至西西里岛和意大利本土。此后黑死病迅速蔓延至整个欧洲，成为人类历史上最致命的传染病大流行之一。",
+        "latitude": 38.1,
+        "longitude": 13.4,
+        "category": "社会",
+        "region": "意大利",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1348,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正八年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元顺帝妥懽帖睦尔",
+        "era": "至正八年"
+      }
     ],
     "events": [
-      { "title": "黑死病席卷欧洲", "description": "黑死病迅速蔓延至法国、英国、德意志和北欧各国。欧洲人口减少约三分之一至一半，约两千五百万人死亡。社会结构、经济体系和文化观念遭受前所未有的冲击。", "latitude": 48.9, "longitude": 2.3, "category": "社会", "region": "西欧", "continent": "欧洲" },
-      { "title": "薄伽丘开始创作《十日谈》", "description": "意大利作家乔万尼·薄伽丘以黑死病为背景开始创作《十日谈》。作品讲述十名青年在佛罗伦萨郊外避难时讲述的一百个故事，批判教会腐败，宣扬人性解放。", "latitude": 43.8, "longitude": 11.3, "category": "文化", "region": "意大利", "continent": "欧洲" }
+      {
+        "title": "黑死病席卷欧洲",
+        "description": "黑死病迅速蔓延至法国、英国、德意志和北欧各国。欧洲人口减少约三分之一至一半，约两千五百万人死亡。社会结构、经济体系和文化观念遭受前所未有的冲击。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "社会",
+        "region": "西欧",
+        "continent": "欧洲"
+      },
+      {
+        "title": "薄伽丘开始创作《十日谈》",
+        "description": "意大利作家乔万尼·薄伽丘以黑死病为背景开始创作《十日谈》。作品讲述十名青年在佛罗伦萨郊外避难时讲述的一百个故事，批判教会腐败，宣扬人性解放。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "文化",
+        "region": "意大利",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1349,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "黑死病高峰",
+        "description": "黑死病在欧洲达到高峰，欧洲人口减少约三分之一。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "社会",
+        "region": "欧洲",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1350,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "薄伽丘创作《十日谈》",
+        "description": "意大利作家薄伽丘在佛罗伦萨瘟疫期间创作《十日谈》。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "文化",
+        "region": "意大利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "欧洲商业革命",
+        "description": "意大利城邦商业和银行业兴起。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "经济",
+        "region": "意大利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "姆瓦尼·库巴西统治刚果王国",
+        "description": "刚果王国在非洲中西部形成。",
+        "latitude": -5.0,
+        "longitude": 14.0,
+        "category": "政治",
+        "region": "刚果王国",
+        "continent": "非洲"
+      },
+      {
+        "title": "阿瑜陀耶王国建立",
+        "description": "拉玛铁菩提在泰国建立阿瑜陀耶王国。",
+        "latitude": 14.4,
+        "longitude": 100.6,
+        "category": "政治",
+        "region": "阿瑜陀耶",
+        "continent": "亚洲"
+      },
+      {
+        "title": "印加帝国扩张开始",
+        "description": "印加人在安第斯山库斯科谷地开始扩张。",
+        "latitude": -13.5,
+        "longitude": -72.0,
+        "category": "政治",
+        "region": "印加帝国",
+        "continent": "南美洲"
+      },
+      {
+        "title": "缅甸佛教",
+        "description": "上座部。",
+        "latitude": 22.0,
+        "longitude": 96.0,
+        "category": "宗教",
+        "region": "缅甸",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1351,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正十一年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元顺帝妥懽帖睦尔",
+        "era": "至正十一年"
+      }
     ],
     "events": [
-      { "title": "红巾军起义爆发", "description": "元顺帝征发十五万民工治理黄河，民工韩山童、刘福通在白鹿庄起义，头裹红巾，称红巾军。韩山童战死后，刘福通拥立韩林儿为小明王，中原各地纷纷响应。", "latitude": 33.0, "longitude": 114.0, "category": "军事", "region": "元", "continent": "亚洲" },
-      { "title": "朱元璋出家为僧", "description": "朱元璋（原名朱重八）在安徽凤阳皇觉寺出家为僧，不久因饥荒外出化缘流浪。流浪期间他接触了白莲教等反元思想，逐渐坚定了推翻元朝的志向。", "latitude": 32.9, "longitude": 117.6, "category": "宗教", "region": "元", "continent": "亚洲" }
+      {
+        "title": "红巾军起义爆发",
+        "description": "元顺帝征发十五万民工治理黄河，民工韩山童、刘福通在白鹿庄起义，头裹红巾，称红巾军。韩山童战死后，刘福通拥立韩林儿为小明王，中原各地纷纷响应。",
+        "latitude": 33.0,
+        "longitude": 114.0,
+        "category": "军事",
+        "region": "元",
+        "continent": "亚洲"
+      },
+      {
+        "title": "朱元璋出家为僧",
+        "description": "朱元璋（原名朱重八）在安徽凤阳皇觉寺出家为僧，不久因饥荒外出化缘流浪。流浪期间他接触了白莲教等反元思想，逐渐坚定了推翻元朝的志向。",
+        "latitude": 32.9,
+        "longitude": 117.6,
+        "category": "宗教",
+        "region": "元",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1352,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正十二年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元顺帝妥懽帖睦尔",
+        "era": "至正十二年"
+      }
     ],
     "events": [
-      { "title": "朱元璋投奔红巾军", "description": "朱元璋应好友汤和之邀，投奔濠州红巾军首领郭子兴。朱元璋作战勇敢、足智多谋，很快得到郭子兴赏识，被提升为九夫长，并将养女马氏嫁给他。", "latitude": 32.9, "longitude": 117.6, "category": "军事", "region": "元", "continent": "亚洲" }
+      {
+        "title": "朱元璋投奔红巾军",
+        "description": "朱元璋应好友汤和之邀，投奔濠州红巾军首领郭子兴。朱元璋作战勇敢、足智多谋，很快得到郭子兴赏识，被提升为九夫长，并将养女马氏嫁给他。",
+        "latitude": 32.9,
+        "longitude": 117.6,
+        "category": "军事",
+        "region": "元",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1353,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正十三年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元顺帝妥懽帖睦尔",
+        "era": "至正十三年"
+      }
     ],
     "events": [
-      { "title": "张士诚高邮起义", "description": "盐贩张士诚在江苏高邮率盐丁起义，自称诚王，国号大周。张士诚占据江浙富庶之地后逐渐蜕变为割据势力，成为朱元璋逐鹿天下的主要对手之一。", "latitude": 32.8, "longitude": 119.5, "category": "军事", "region": "元", "continent": "亚洲" }
+      {
+        "title": "张士诚高邮起义",
+        "description": "盐贩张士诚在江苏高邮率盐丁起义，自称诚王，国号大周。张士诚占据江浙富庶之地后逐渐蜕变为割据势力，成为朱元璋逐鹿天下的主要对手之一。",
+        "latitude": 32.8,
+        "longitude": 119.5,
+        "category": "军事",
+        "region": "元",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1354,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "教皇从阿维尼翁返回罗马",
+        "description": "教皇英诺森六世试图将教廷从阿维尼翁迁回罗马。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "教皇国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1355,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正十五年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元顺帝妥懽帖睦尔",
+        "era": "至正十五年"
+      }
     ],
     "events": [
-      { "title": "朱元璋接掌郭子兴部", "description": "郭子兴病逝后，朱元璋实际接掌了郭子兴的红巾军部队。朱元璋采取“高筑墙、广积粮、缓称王”的策略，以应天（今南京）为根据地稳步发展势力。", "latitude": 32.1, "longitude": 118.8, "category": "军事", "region": "元", "continent": "亚洲" }
+      {
+        "title": "朱元璋接掌郭子兴部",
+        "description": "郭子兴病逝后，朱元璋实际接掌了郭子兴的红巾军部队。朱元璋采取“高筑墙、广积粮、缓称王”的策略，以应天（今南京）为根据地稳步发展势力。",
+        "latitude": 32.1,
+        "longitude": 118.8,
+        "category": "军事",
+        "region": "元",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1356,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正十六年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元顺帝妥懽帖睦尔",
+        "era": "至正十六年"
+      }
     ],
     "events": [
-      { "title": "朱元璋攻占集庆", "description": "朱元璋率军攻占集庆（今南京），改名为应天府。朱元璋以此为中心建立江南根据地，招纳刘基（刘伯温）、李善长、徐达、常遇春等文臣武将，势力迅速壮大。", "latitude": 32.1, "longitude": 118.8, "category": "军事", "region": "元", "continent": "亚洲" }
+      {
+        "title": "朱元璋攻占集庆",
+        "description": "朱元璋率军攻占集庆（今南京），改名为应天府。朱元璋以此为中心建立江南根据地，招纳刘基（刘伯温）、李善长、徐达、常遇春等文臣武将，势力迅速壮大。",
+        "latitude": 32.1,
+        "longitude": 118.8,
+        "category": "军事",
+        "region": "元",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1357,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正十七年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元顺帝妥懽帖睦尔",
+        "era": "至正十七年"
+      }
     ],
     "events": [
-      { "title": "元朝内乱（两都之战升级）", "description": "元朝内部军阀混战加剧，察罕帖木儿、孛罗帖木儿、扩廓帖木儿等军阀拥兵自重、互相攻伐。元顺帝丧失对地方的实际控制，元朝名存实亡。", "latitude": 39.9, "longitude": 116.4, "category": "军事", "region": "元", "continent": "亚洲" }
+      {
+        "title": "元朝内乱（两都之战升级）",
+        "description": "元朝内部军阀混战加剧，察罕帖木儿、孛罗帖木儿、扩廓帖木儿等军阀拥兵自重、互相攻伐。元顺帝丧失对地方的实际控制，元朝名存实亡。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "军事",
+        "region": "元",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1358,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "法国扎克雷起义",
+        "description": "法国北部农民因战乱和赋税爆发扎克雷大起义。",
+        "latitude": 49.0,
+        "longitude": 2.0,
+        "category": "社会",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1359,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "朱元璋势力壮大",
+        "description": "朱元璋在红巾军中崛起，逐渐控制长江中下游。",
+        "latitude": 32.0,
+        "longitude": 119.0,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1360,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "布雷蒂尼和约",
+        "description": "英格兰和法兰西签订布雷蒂尼和约，百年战争第一阶段结束。",
+        "latitude": 47.5,
+        "longitude": 0.5,
+        "category": "外交",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "欧洲行会制度",
+        "description": "行会。",
+        "latitude": 50.0,
+        "longitude": 8.0,
+        "category": "经济",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法国葡萄酒业",
+        "description": "波尔多。",
+        "latitude": 44.8,
+        "longitude": -0.5,
+        "category": "农业",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1361,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "奥斯曼帝国在色雷斯扩张",
+        "description": "奥斯曼苏丹穆拉德一世在色雷斯地区扩张领土。",
+        "latitude": 41.0,
+        "longitude": 28.0,
+        "category": "军事",
+        "region": "奥斯曼帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1362,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "条顿骑士团立陶宛远征",
+        "description": "条顿骑士团持续对信奉异教的立陶宛大公国发动十字军远征。",
+        "latitude": 55.0,
+        "longitude": 22.0,
+        "category": "军事",
+        "region": "条顿骑士团",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1363,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正二十三年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元顺帝妥懽帖睦尔",
+        "era": "至正二十三年"
+      }
     ],
     "events": [
-      { "title": "鄱阳湖之战", "description": "朱元璋与陈友谅在鄱阳湖展开决战。朱元璋以二十万兵力对阵陈友谅六十万大军，采用火攻战术大获全胜。陈友谅中流矢身亡，朱元璋统一江南的最大障碍被扫除。", "latitude": 29.2, "longitude": 116.2, "category": "军事", "region": "元", "continent": "亚洲" }
+      {
+        "title": "鄱阳湖之战",
+        "description": "朱元璋与陈友谅在鄱阳湖展开决战。朱元璋以二十万兵力对阵陈友谅六十万大军，采用火攻战术大获全胜。陈友谅中流矢身亡，朱元璋统一江南的最大障碍被扫除。",
+        "latitude": 29.2,
+        "longitude": 116.2,
+        "category": "军事",
+        "region": "元",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1364,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正二十四年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元顺帝妥懽帖睦尔",
+        "era": "至正二十四年"
+      }
     ],
     "events": [
-      { "title": "朱元璋称吴王", "description": "朱元璋在应天自称吴王，建立西吴政权，以李善长为右相国、徐达为左相国。朱元璋继续消灭张士诚、方国珍等割据势力，北伐元朝的时机日趋成熟。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "元", "continent": "亚洲" }
+      {
+        "title": "朱元璋称吴王",
+        "description": "朱元璋在应天自称吴王，建立西吴政权，以李善长为右相国、徐达为左相国。朱元璋继续消灭张士诚、方国珍等割据势力，北伐元朝的时机日趋成熟。",
+        "latitude": 32.1,
+        "longitude": 118.8,
+        "category": "政治",
+        "region": "元",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1365,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "帖木儿帝国崛起",
+        "description": "帖木儿（跛子帖木儿）在河中地区建立帖木儿帝国。",
+        "latitude": 39.0,
+        "longitude": 66.0,
+        "category": "政治",
+        "region": "帖木儿帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "满者伯夷帝国极盛",
+        "description": "哈扬·武鲁克统治期间满者伯夷版图覆盖整个马来群岛。",
+        "latitude": -7.3,
+        "longitude": 112.8,
+        "category": "政治",
+        "region": "满者伯夷",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1366,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "瑞士联邦扩张",
+        "description": "瑞士联邦成员国扩大，进一步巩固独立。",
+        "latitude": 47.0,
+        "longitude": 7.5,
+        "category": "政治",
+        "region": "瑞士",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1367,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正二十七年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元顺帝妥懽帖睦尔",
+        "era": "至正二十七年"
+      }
     ],
     "events": [
-      { "title": "朱元璋灭张士诚", "description": "朱元璋大将徐达、常遇春攻破平江（今苏州），张士诚被俘后自缢而死。朱元璋随后平定方国珍等地，统一江南全境。北伐元朝的条件已完全成熟。", "latitude": 31.3, "longitude": 120.6, "category": "军事", "region": "元", "continent": "亚洲" }
+      {
+        "title": "朱元璋灭张士诚",
+        "description": "朱元璋大将徐达、常遇春攻破平江（今苏州），张士诚被俘后自缢而死。朱元璋随后平定方国珍等地，统一江南全境。北伐元朝的条件已完全成熟。",
+        "latitude": 31.3,
+        "longitude": 120.6,
+        "category": "军事",
+        "region": "元",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1368,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正二十八年" },
-      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武元年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元顺帝妥懽帖睦尔",
+        "era": "至正二十八年"
+      },
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明太祖朱元璋",
+        "era": "洪武元年"
+      }
     ],
     "events": [
-      { "title": "明朝建立", "description": "朱元璋在应天（今南京）即皇帝位，国号大明，年号洪武，是为明太祖。明朝的建立标志着汉族政权重新统一中国，结束了蒙古人近百年的统治。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "明", "continent": "亚洲" },
-      { "title": "徐达北伐攻破大都", "description": "明军大将徐达率军北伐，攻破元朝大都（今北京）。元顺帝率后妃太子北逃至上都，元朝在全国的统治结束。元朝残余势力退守蒙古高原，史称北元。", "latitude": 39.9, "longitude": 116.4, "category": "军事", "region": "明", "continent": "亚洲" }
+      {
+        "title": "明朝建立",
+        "description": "朱元璋在应天（今南京）即皇帝位，国号大明，年号洪武，是为明太祖。明朝的建立标志着汉族政权重新统一中国，结束了蒙古人近百年的统治。",
+        "latitude": 32.1,
+        "longitude": 118.8,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "徐达北伐攻破大都",
+        "description": "明军大将徐达率军北伐，攻破元朝大都（今北京）。元顺帝率后妃太子北逃至上都，元朝在全国的统治结束。元朝残余势力退守蒙古高原，史称北元。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "军事",
+        "region": "明",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1369,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武二年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明太祖朱元璋",
+        "era": "洪武二年"
+      }
     ],
     "events": [
-      { "title": "帖木儿帝国崛起", "description": "瘸腿突厥化蒙古贵族帖木儿在中亚撒马尔罕发动政变，建立帖木儿帝国。帖木儿自称成吉思汗继承者，以恢复蒙古帝国为己任，开始了长达三十余年的扩张战争。", "latitude": 39.6, "longitude": 66.9, "category": "政治", "region": "中亚", "continent": "亚洲" }
+      {
+        "title": "帖木儿帝国崛起",
+        "description": "瘸腿突厥化蒙古贵族帖木儿在中亚撒马尔罕发动政变，建立帖木儿帝国。帖木儿自称成吉思汗继承者，以恢复蒙古帝国为己任，开始了长达三十余年的扩张战争。",
+        "latitude": 39.6,
+        "longitude": 66.9,
+        "category": "政治",
+        "region": "中亚",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1370,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武三年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明太祖朱元璋",
+        "era": "洪武三年"
+      }
     ],
     "events": [
-      { "title": "明军远征漠北", "description": "明太祖朱元璋派徐达、李文忠、冯胜分三路北伐北元。明军在沈儿峪大败扩廓帖木儿（王保保），北元势力退至和林。朱元璋分封诸子为藩王，镇守北方边疆。", "latitude": 42.0, "longitude": 112.0, "category": "军事", "region": "明", "continent": "亚洲" }
+      {
+        "title": "明军远征漠北",
+        "description": "明太祖朱元璋派徐达、李文忠、冯胜分三路北伐北元。明军在沈儿峪大败扩廓帖木儿（王保保），北元势力退至和林。朱元璋分封诸子为藩王，镇守北方边疆。",
+        "latitude": 42.0,
+        "longitude": 112.0,
+        "category": "军事",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲百年战争阶段",
+        "description": "英法百年战争第一阶段结束。",
+        "latitude": 47.0,
+        "longitude": 0.5,
+        "category": "军事",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "明朝开国制度",
+        "description": "朱元璋。",
+        "latitude": 32.1,
+        "longitude": 118.8,
+        "category": "制度",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "瑞士雇佣兵",
+        "description": "瑞士长枪。",
+        "latitude": 47.0,
+        "longitude": 7.5,
+        "category": "军事",
+        "region": "瑞士",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1371,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武四年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明太祖朱元璋",
+        "era": "洪武四年"
+      }
     ],
     "events": [
-      { "title": "明朝统一四川", "description": "明将汤和、傅友德分水陆两路攻入四川，割据蜀地的明玉珍之子明升投降。明升被朱元璋封为归义侯，送往南京居住。四川纳入明朝版图。", "latitude": 30.6, "longitude": 104.1, "category": "军事", "region": "明", "continent": "亚洲" }
+      {
+        "title": "明朝统一四川",
+        "description": "明将汤和、傅友德分水陆两路攻入四川，割据蜀地的明玉珍之子明升投降。明升被朱元璋封为归义侯，送往南京居住。四川纳入明朝版图。",
+        "latitude": 30.6,
+        "longitude": 104.1,
+        "category": "军事",
+        "region": "明",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1372,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武五年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明太祖朱元璋",
+        "era": "洪武五年"
+      }
     ],
     "events": [
-      { "title": "明朝与北元的拉锯战", "description": "徐达率十五万明军北伐，在岭北和林地区被扩廓帖木儿和北元大汗爱猷识理达腊击败。明军损失数万人，朱元璋从此改变对北元策略，转攻为守，修筑长城防御体系。", "latitude": 44.5, "longitude": 110.0, "category": "军事", "region": "明", "continent": "亚洲" }
+      {
+        "title": "明朝与北元的拉锯战",
+        "description": "徐达率十五万明军北伐，在岭北和林地区被扩廓帖木儿和北元大汗爱猷识理达腊击败。明军损失数万人，朱元璋从此改变对北元策略，转攻为守，修筑长城防御体系。",
+        "latitude": 44.5,
+        "longitude": 110.0,
+        "category": "军事",
+        "region": "明",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1373,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "英格兰与葡萄牙结盟（约）",
+        "description": "英格兰与葡萄牙签订同盟条约，成为欧洲最古老的军事同盟。",
+        "latitude": 38.7,
+        "longitude": -9.1,
+        "category": "外交",
+        "region": "葡萄牙",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1374,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "薄伽丘去世",
+        "description": "意大利作家薄伽丘去世，著有《十日谈》。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "文化",
+        "region": "意大利",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1375,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武八年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明太祖朱元璋",
+        "era": "洪武八年"
+      }
     ],
     "events": [
-      { "title": "刘基逝世", "description": "明朝开国功臣刘基（刘伯温）因病去世，享年六十五岁。刘基是朱元璋最重要的谋士之一，精通天文兵法，曾参与制定明朝各项典章制度，被后世视为神机妙算的化身。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "明", "continent": "亚洲" }
+      {
+        "title": "刘基逝世",
+        "description": "明朝开国功臣刘基（刘伯温）因病去世，享年六十五岁。刘基是朱元璋最重要的谋士之一，精通天文兵法，曾参与制定明朝各项典章制度，被后世视为神机妙算的化身。",
+        "latitude": 32.1,
+        "longitude": 118.8,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1376,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武九年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明太祖朱元璋",
+        "era": "洪武九年"
+      }
     ],
     "events": [
-      { "title": "明朝废除行中书省", "description": "朱元璋下诏废除行中书省制度，改为承宣布政使司、提刑按察使司和都指挥使司三司分立，互相牵制。这一改革加强了中央集权，奠定了明清两代地方行政体制的基础。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "明", "continent": "亚洲" }
+      {
+        "title": "明朝废除行中书省",
+        "description": "朱元璋下诏废除行中书省制度，改为承宣布政使司、提刑按察使司和都指挥使司三司分立，互相牵制。这一改革加强了中央集权，奠定了明清两代地方行政体制的基础。",
+        "latitude": 32.1,
+        "longitude": 118.8,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1377,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "教皇格列高利十一世返回罗马",
+        "description": "教皇格列高利十一世从阿维尼翁返回罗马，结束阿维尼翁教廷。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "教皇国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1378,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "西方教会大分裂开始",
+        "description": "教皇乌尔班六世与克莱门特七世并立，西方教会大分裂开始。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "教皇国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1379,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "帖木儿入侵波斯",
+        "description": "帖木儿开始大规模入侵波斯地区。",
+        "latitude": 35.0,
+        "longitude": 55.0,
+        "category": "军事",
+        "region": "帖木儿帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1380,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武十三年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明太祖朱元璋",
+        "era": "洪武十三年"
+      }
     ],
     "events": [
-      { "title": "胡惟庸案", "description": "朱元璋以谋反罪名处死宰相胡惟庸，废除中书省和丞相制度。此后六部直接对皇帝负责，皇权达到前所未有的高度。胡惟庸案牵连三万余人，是明初四大案之一。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "明", "continent": "亚洲" }
+      {
+        "title": "胡惟庸案",
+        "description": "朱元璋以谋反罪名处死宰相胡惟庸，废除中书省和丞相制度。此后六部直接对皇帝负责，皇权达到前所未有的高度。胡惟庸案牵连三万余人，是明初四大案之一。",
+        "latitude": 32.1,
+        "longitude": 118.8,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "明朝设立卫所制",
+        "description": "明朝在全国设立卫所军事制度。",
+        "latitude": 32.1,
+        "longitude": 118.8,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "蒸馏酒在欧洲",
+        "description": "酒文化。",
+        "latitude": 48.0,
+        "longitude": 2.0,
+        "category": "社会",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "中国围棋发展",
+        "description": "棋艺。",
+        "latitude": 34.0,
+        "longitude": 115.0,
+        "category": "文化",
+        "region": "明",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1381,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武十四年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明太祖朱元璋",
+        "era": "洪武十四年"
+      }
     ],
     "events": [
-      { "title": "明朝平定云南", "description": "明将傅友德、蓝玉、沐英率三十万大军征讨云南。明军攻破大理，元朝梁王把匝剌瓦尔密自杀。云南正式纳入明朝版图，沐英留镇云南。", "latitude": 25.0, "longitude": 102.7, "category": "军事", "region": "明", "continent": "亚洲" }
+      {
+        "title": "明朝平定云南",
+        "description": "明将傅友德、蓝玉、沐英率三十万大军征讨云南。明军攻破大理，元朝梁王把匝剌瓦尔密自杀。云南正式纳入明朝版图，沐英留镇云南。",
+        "latitude": 25.0,
+        "longitude": 102.7,
+        "category": "军事",
+        "region": "明",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1382,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武十五年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明太祖朱元璋",
+        "era": "洪武十五年"
+      }
     ],
     "events": [
-      { "title": "明朝设置锦衣卫", "description": "朱元璋设置锦衣卫，作为皇帝的贴身卫队和侦查机构。锦衣卫直接听命于皇帝，有权侦查、逮捕和审讯任何官员。锦衣卫的设立标志着明朝特务政治的正式开始。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "明", "continent": "亚洲" },
-      { "title": "马皇后逝世", "description": "明太祖朱元璋的结发妻子马皇后病逝，享年五十一岁。马皇后仁慈贤德，多次劝谏朱元璋宽待臣民，被后世尊为一代贤后。朱元璋在马皇后去世后再未立后。", "latitude": 32.1, "longitude": 118.8, "category": "社会", "region": "明", "continent": "亚洲" }
+      {
+        "title": "明朝设置锦衣卫",
+        "description": "朱元璋设置锦衣卫，作为皇帝的贴身卫队和侦查机构。锦衣卫直接听命于皇帝，有权侦查、逮捕和审讯任何官员。锦衣卫的设立标志着明朝特务政治的正式开始。",
+        "latitude": 32.1,
+        "longitude": 118.8,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "马皇后逝世",
+        "description": "明太祖朱元璋的结发妻子马皇后病逝，享年五十一岁。马皇后仁慈贤德，多次劝谏朱元璋宽待臣民，被后世尊为一代贤后。朱元璋在马皇后去世后再未立后。",
+        "latitude": 32.1,
+        "longitude": 118.8,
+        "category": "社会",
+        "region": "明",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1383,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "葡萄牙与卡斯蒂利亚战争",
+        "description": "葡萄牙为维护独立与卡斯蒂利亚王国交战。",
+        "latitude": 39.0,
+        "longitude": -8.0,
+        "category": "军事",
+        "region": "葡萄牙",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1384,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "英格兰乔叟创作《坎特伯雷故事集》",
+        "description": "英国诗人杰弗雷·乔叟开始创作《坎特伯雷故事集》。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "文化",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1385,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "波兰立陶宛联盟形成",
+        "description": "波兰女王雅德维加与立陶宛大公亚盖洛结婚，波兰立陶宛联盟形成。",
+        "latitude": 50.0,
+        "longitude": 20.0,
+        "category": "政治",
+        "region": "波兰立陶宛",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1386,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "海德堡大学成立",
+        "description": "神圣罗马帝国选帝侯在海德堡创办大学。",
+        "latitude": 49.4,
+        "longitude": 8.7,
+        "category": "文化",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1387,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武二十年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明太祖朱元璋",
+        "era": "洪武二十年"
+      }
     ],
     "events": [
-      { "title": "明朝征讨辽东", "description": "明将冯胜、傅友德率军征讨盘踞东北的纳哈出部。纳哈出率二十万部众投降明朝，元朝在东北的残余势力被彻底清除。明朝设立辽东都指挥使司管辖东北地区。", "latitude": 41.8, "longitude": 123.4, "category": "军事", "region": "明", "continent": "亚洲" }
+      {
+        "title": "明朝征讨辽东",
+        "description": "明将冯胜、傅友德率军征讨盘踞东北的纳哈出部。纳哈出率二十万部众投降明朝，元朝在东北的残余势力被彻底清除。明朝设立辽东都指挥使司管辖东北地区。",
+        "latitude": 41.8,
+        "longitude": 123.4,
+        "category": "军事",
+        "region": "明",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1388,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武二十一年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明太祖朱元璋",
+        "era": "洪武二十一年"
+      }
     ],
     "events": [
-      { "title": "捕鱼儿海之战", "description": "明将蓝玉率十五万大军在捕鱼儿海（今贝尔湖）大败北元军队。北元天元帝脱古思帖木儿被部将缢杀，北元政权瓦解。蒙古分裂为鞑靼、瓦剌和兀良哈三部。", "latitude": 47.5, "longitude": 117.5, "category": "军事", "region": "明", "continent": "亚洲" }
+      {
+        "title": "捕鱼儿海之战",
+        "description": "明将蓝玉率十五万大军在捕鱼儿海（今贝尔湖）大败北元军队。北元天元帝脱古思帖木儿被部将缢杀，北元政权瓦解。蒙古分裂为鞑靼、瓦剌和兀良哈三部。",
+        "latitude": 47.5,
+        "longitude": 117.5,
+        "category": "军事",
+        "region": "明",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1389,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武二十二年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明太祖朱元璋",
+        "era": "洪武二十二年"
+      }
     ],
     "events": [
-      { "title": "奥斯曼帝国科索沃战役", "description": "奥斯曼苏丹穆拉德一世在科索沃战役中击败塞尔维亚联军，但穆拉德一世本人在战后被塞尔维亚贵族刺杀。其子巴耶济德一世继位，奥斯曼帝国继续向巴尔干扩张。", "latitude": 42.6, "longitude": 21.2, "category": "军事", "region": "奥斯曼", "continent": "欧洲" }
+      {
+        "title": "奥斯曼帝国科索沃战役",
+        "description": "奥斯曼苏丹穆拉德一世在科索沃战役中击败塞尔维亚联军，但穆拉德一世本人在战后被塞尔维亚贵族刺杀。其子巴耶济德一世继位，奥斯曼帝国继续向巴尔干扩张。",
+        "latitude": 42.6,
+        "longitude": 21.2,
+        "category": "军事",
+        "region": "奥斯曼",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1390,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "明朝开国皇帝朱元璋晚年",
+        "description": "明太祖朱元璋晚年大杀功臣，巩固皇权。",
+        "latitude": 32.1,
+        "longitude": 118.8,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "大津巴布韦极盛（约）",
+        "description": "大津巴布韦石头城扩建，人口达到约2万人。",
+        "latitude": -20.3,
+        "longitude": 30.9,
+        "category": "文化",
+        "region": "大津巴布韦",
+        "continent": "非洲"
+      },
+      {
+        "title": "茶馆文化在中国",
+        "description": "茶文化。",
+        "latitude": 34.0,
+        "longitude": 117.0,
+        "category": "社会",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲亚麻纺织",
+        "description": "纺织。",
+        "latitude": 51.0,
+        "longitude": 3.0,
+        "category": "工业",
+        "region": "尼德兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1391,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "奥斯曼在巴尔干扩张",
+        "description": "奥斯曼帝国在巴尔干持续扩张。",
+        "latitude": 42.0,
+        "longitude": 23.0,
+        "category": "军事",
+        "region": "奥斯曼帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1392,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武二十五年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明太祖朱元璋",
+        "era": "洪武二十五年"
+      }
     ],
     "events": [
-      { "title": "朱元璋诛杀蓝玉", "description": "朱元璋以谋反罪处死大将蓝玉，剥皮实草，牵连一万五千余人。蓝玉案与胡惟庸案合称“胡蓝之狱”，明朝开国功臣宿将几乎被屠戮殆尽。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "明", "continent": "亚洲" },
-      { "title": "高丽灭亡与朝鲜王朝建立", "description": "高丽大将李成桂发动威化岛回军，推翻高丽王朝，建立朝鲜王朝。李成桂向明朝称臣纳贡，请朱元璋赐国号为“朝鲜”。朝鲜王朝此后统治朝鲜半岛五百余年。", "latitude": 37.6, "longitude": 127.0, "category": "政治", "region": "朝鲜", "continent": "亚洲" }
+      {
+        "title": "朱元璋诛杀蓝玉",
+        "description": "朱元璋以谋反罪处死大将蓝玉，剥皮实草，牵连一万五千余人。蓝玉案与胡惟庸案合称“胡蓝之狱”，明朝开国功臣宿将几乎被屠戮殆尽。",
+        "latitude": 32.1,
+        "longitude": 118.8,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "高丽灭亡与朝鲜王朝建立",
+        "description": "高丽大将李成桂发动威化岛回军，推翻高丽王朝，建立朝鲜王朝。李成桂向明朝称臣纳贡，请朱元璋赐国号为“朝鲜”。朝鲜王朝此后统治朝鲜半岛五百余年。",
+        "latitude": 37.6,
+        "longitude": 127.0,
+        "category": "政治",
+        "region": "朝鲜",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1393,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "明朝燕王朱棣势力壮大",
+        "description": "明太祖朱元璋死后燕王朱棣实力增强，准备夺位。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "兰甘亨大帝统治素可泰",
+        "description": "兰甘亨创造泰文字母，素可泰文化繁荣。",
+        "latitude": 17.0,
+        "longitude": 99.8,
+        "category": "文化",
+        "region": "素可泰",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1394,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "朝鲜迁都汉城",
+        "description": "朝鲜王朝太祖李成桂将都城从开京迁至汉城（首尔）。",
+        "latitude": 37.6,
+        "longitude": 127.0,
+        "category": "政治",
+        "region": "朝鲜",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1395,
+    "dynasties": [
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "帖木儿击败金帐汗国",
+        "description": "帖木儿在捷列克河击败金帐汗国脱脱迷失汗。",
+        "latitude": 44.0,
+        "longitude": 46.0,
+        "category": "军事",
+        "region": "帖木儿帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1396,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武二十九年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明太祖朱元璋",
+        "era": "洪武二十九年"
+      }
     ],
     "events": [
-      { "title": "尼科波利斯战役", "description": "奥斯曼苏丹巴耶济德一世在尼科波利斯（今保加利亚）大败欧洲十字军联军。来自法国、德意志、匈牙利等国的骑士几乎全军覆没，奥斯曼帝国对巴尔干的控制愈加稳固。", "latitude": 43.7, "longitude": 24.9, "category": "军事", "region": "奥斯曼", "continent": "欧洲" }
+      {
+        "title": "尼科波利斯战役",
+        "description": "奥斯曼苏丹巴耶济德一世在尼科波利斯（今保加利亚）大败欧洲十字军联军。来自法国、德意志、匈牙利等国的骑士几乎全军覆没，奥斯曼帝国对巴尔干的控制愈加稳固。",
+        "latitude": 43.7,
+        "longitude": 24.9,
+        "category": "军事",
+        "region": "奥斯曼",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1397,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武三十年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明太祖朱元璋",
+        "era": "洪武三十年"
+      }
     ],
     "events": [
-      { "title": "帖木儿入侵印度", "description": "帖木儿率大军入侵印度德里苏丹国。帖木儿军攻陷德里后大肆屠城，三天内杀人数万，掳掠大量工匠和财富返回撒马尔罕。德里苏丹国从此一蹶不振。", "latitude": 28.6, "longitude": 77.2, "category": "军事", "region": "中亚", "continent": "亚洲" }
+      {
+        "title": "帖木儿入侵印度",
+        "description": "帖木儿率大军入侵印度德里苏丹国。帖木儿军攻陷德里后大肆屠城，三天内杀人数万，掳掠大量工匠和财富返回撒马尔罕。德里苏丹国从此一蹶不振。",
+        "latitude": 28.6,
+        "longitude": 77.2,
+        "category": "军事",
+        "region": "中亚",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1398,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武三十一年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明太祖朱元璋",
+        "era": "洪武三十一年"
+      }
     ],
     "events": [
-      { "title": "明太祖朱元璋驾崩", "description": "明太祖朱元璋在应天皇宫驾崩，享年七十岁。朱元璋从乞丐到皇帝的传奇一生画上句号。皇太孙朱允炆即位，是为建文帝，随即开始削藩。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "明", "continent": "亚洲" }
+      {
+        "title": "明太祖朱元璋驾崩",
+        "description": "明太祖朱元璋在应天皇宫驾崩，享年七十岁。朱元璋从乞丐到皇帝的传奇一生画上句号。皇太孙朱允炆即位，是为建文帝，随即开始削藩。",
+        "latitude": 32.1,
+        "longitude": 118.8,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1399,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明惠宗朱允炆", "era": "建文元年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文元年"
+      }
     ],
     "events": [
-      { "title": "靖难之役爆发", "description": "建文帝朱允炆采纳齐泰、黄子澄建议大力削藩。燕王朱棣以“清君侧”为名，从北平起兵发动“靖难之役”。这场持续四年的内战将决定明朝的最高权力归属。", "latitude": 39.9, "longitude": 116.4, "category": "军事", "region": "明", "continent": "亚洲" }
+      {
+        "title": "靖难之役爆发",
+        "description": "建文帝朱允炆采纳齐泰、黄子澄建议大力削藩。燕王朱棣以“清君侧”为名，从北平起兵发动“靖难之役”。这场持续四年的内战将决定明朝的最高权力归属。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "军事",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "帖木儿入侵印度",
+        "description": "帖木儿率军入侵印度德里苏丹国。",
+        "latitude": 28.6,
+        "longitude": 77.2,
+        "category": "军事",
+        "region": "帖木儿帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1400,
     "dynasties": [
-      { "dynastyId": "ming", "name": "明", "ruler": "明惠宗朱允炆", "era": "建文二年" }
+      {
+        "dynastyId": "ming",
+        "name": "明",
+        "ruler": "明惠宗朱允炆",
+        "era": "建文二年"
+      }
     ],
     "events": [
-      { "title": "靖难之役白沟河之战", "description": "朱棣的燕军与建文帝的官军在白沟河（今河北保定）展开激战。朱棣一度险被俘虏，但最终凭借风沙掩护击败官军主帅李景隆。此战是靖难之役的关键转折点。", "latitude": 39.1, "longitude": 115.9, "category": "军事", "region": "明", "continent": "亚洲" },
-      { "title": "乔叟逝世", "description": "英国文学之父杰弗里·乔叟在伦敦去世。他的代表作《坎特伯雷故事集》以生动的语言描绘了中世纪英国社会的众生相，对英语文学发展产生了深远影响。", "latitude": 51.5, "longitude": -0.1, "category": "文化", "region": "英格兰", "continent": "欧洲" }
+      {
+        "title": "靖难之役白沟河之战",
+        "description": "朱棣的燕军与建文帝的官军在白沟河（今河北保定）展开激战。朱棣一度险被俘虏，但最终凭借风沙掩护击败官军主帅李景隆。此战是靖难之役的关键转折点。",
+        "latitude": 39.1,
+        "longitude": 115.9,
+        "category": "军事",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "乔叟逝世",
+        "description": "英国文学之父杰弗里·乔叟在伦敦去世。他的代表作《坎特伯雷故事集》以生动的语言描绘了中世纪英国社会的众生相，对英语文学发展产生了深远影响。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "文化",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
     ]
   }
 ]

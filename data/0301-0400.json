@@ -2,996 +2,4088 @@
   {
     "year": 301,
     "dynasties": [
-      { "dynastyId": "xijin", "name": "西晋", "ruler": "晋惠帝司马衷", "era": "永宁元年" }
+      {
+        "dynastyId": "xijin",
+        "name": "西晋",
+        "ruler": "晋惠帝司马衷",
+        "era": "永宁元年"
+      }
     ],
     "events": [
-      { "title": "赵王司马伦篡位称帝", "description": "赵王司马伦逼迫晋惠帝禅让，在洛阳即皇帝位，改元建始。司马伦是西晋第一个篡位的宗室王。他以孙秀为侍中，大肆封赏党羽。此举激起其他诸王的强烈反对，齐王司马冏、成都王司马颖、河间王司马颙等联合起兵讨伐。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "西晋", "continent": "亚洲" },
-      { "title": "戴克里先大举迫害基督教", "description": "罗马皇帝戴克里先在东罗马帝国发布严厉敕令，要求摧毁所有基督教堂、焚烧圣经、禁止基督教集会。基督教徒被剥夺公民权利，拒绝献祭者被处决。这是罗马帝国历史上规模最大、持续时间最长的基督教迫害运动。", "latitude": 41.893, "longitude": 12.485, "category": "宗教", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "赵王司马伦篡位称帝",
+        "description": "赵王司马伦逼迫晋惠帝禅让，在洛阳即皇帝位，改元建始。司马伦是西晋第一个篡位的宗室王。他以孙秀为侍中，大肆封赏党羽。此举激起其他诸王的强烈反对，齐王司马冏、成都王司马颖、河间王司马颙等联合起兵讨伐。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "西晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "戴克里先大举迫害基督教",
+        "description": "罗马皇帝戴克里先在东罗马帝国发布严厉敕令，要求摧毁所有基督教堂、焚烧圣经、禁止基督教集会。基督教徒被剥夺公民权利，拒绝献祭者被处决。这是罗马帝国历史上规模最大、持续时间最长的基督教迫害运动。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "宗教",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "戴克里先退位",
+        "description": "戴克里先退体至斯普利特种植卷心菜。",
+        "latitude": 43.5,
+        "longitude": 16.4,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "萨珊与贵霜边境",
+        "description": "萨珊帝国向东扩张与贵霜残余势力冲突。",
+        "latitude": 33.0,
+        "longitude": 65.0,
+        "category": "军事",
+        "region": "萨珊帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "中国道教发展",
+        "description": "道教授箓制度化。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "宗教",
+        "region": "中国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 302,
     "dynasties": [
-      { "dynastyId": "xijin", "name": "西晋", "ruler": "晋惠帝司马衷", "era": "太安元年" }
+      {
+        "dynastyId": "xijin",
+        "name": "西晋",
+        "ruler": "晋惠帝司马衷",
+        "era": "太安元年"
+      }
     ],
     "events": [
-      { "title": "长沙王司马乂杀齐王司马冏", "description": "齐王司马冏在洛阳独揽朝政后日益骄奢，引起了长沙王司马乂的不满。司马乂联合李含等人趁夜攻入洛阳，与司马冏的军队在城内激战三日。最终司马冏兵败被斩首，司马乂控制了朝政。八王之乱进入第三阶段。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "西晋", "continent": "亚洲" },
-      { "title": "成汉政权初露端倪", "description": "益州刺史罗尚强制遣返入蜀流民回关中，引起流民强烈不满。氐族首领李特在绵竹聚众起义，连败晋军。李特与蜀人约法三章、开仓赈济，深得民心，自称持节大都督、镇北大将军。成汉政权的雏形由此形成。", "latitude": 31.000, "longitude": 104.000, "category": "军事", "region": "西晋", "continent": "亚洲" }
+      {
+        "title": "长沙王司马乂杀齐王司马冏",
+        "description": "齐王司马冏在洛阳独揽朝政后日益骄奢，引起了长沙王司马乂的不满。司马乂联合李含等人趁夜攻入洛阳，与司马冏的军队在城内激战三日。最终司马冏兵败被斩首，司马乂控制了朝政。八王之乱进入第三阶段。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "西晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "成汉政权初露端倪",
+        "description": "益州刺史罗尚强制遣返入蜀流民回关中，引起流民强烈不满。氐族首领李特在绵竹聚众起义，连败晋军。李特与蜀人约法三章、开仓赈济，深得民心，自称持节大都督、镇北大将军。成汉政权的雏形由此形成。",
+        "latitude": 31.0,
+        "longitude": 104.0,
+        "category": "军事",
+        "region": "西晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "四帝共治体系动摇",
+        "description": "戴克里先和马克西米安退位后期混乱。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 303,
     "dynasties": [
-      { "dynastyId": "xijin", "name": "西晋", "ruler": "晋惠帝司马衷", "era": "太安二年" }
+      {
+        "dynastyId": "xijin",
+        "name": "西晋",
+        "ruler": "晋惠帝司马衷",
+        "era": "太安二年"
+      }
     ],
     "events": [
-      { "title": "李特战败被杀，李雄继起", "description": "李特在郫城被益州刺史罗尚击败，战死沙场。其弟李流和儿子李雄继续领导流民作战。李流病逝后李雄被推举为首领。李雄率军猛攻成都，逐步掌握了益州的主动权。", "latitude": 30.800, "longitude": 103.800, "category": "军事", "region": "成汉", "continent": "亚洲" },
-      { "title": "张昌在江夏起义", "description": "流民张昌在江夏（今湖北安陆）聚众起义，立山都县吏沈丘为天子，设置百官。张昌头戴面具、以妖术惑众，各路流民纷纷响应。义军攻占了江夏、武昌、长沙等多郡。西晋派陶侃率军征讨，最终平定张昌之乱。", "latitude": 31.200, "longitude": 113.700, "category": "军事", "region": "西晋", "continent": "亚洲" },
-      { "title": "戴克里先退位意愿愈发坚定", "description": "戴克里先因长期患病，在尼科米底亚宫廷中公开表示希望退位。他曾对臣下表示：'我治理国家已二十年，身心俱疲，渴望回归田园生活。'马克西米安虽不情愿，但被迫同意与戴克里先一同退位。", "latitude": 40.750, "longitude": 29.900, "category": "政治", "region": "罗马帝国", "continent": "亚洲" }
+      {
+        "title": "李特战败被杀，李雄继起",
+        "description": "李特在郫城被益州刺史罗尚击败，战死沙场。其弟李流和儿子李雄继续领导流民作战。李流病逝后李雄被推举为首领。李雄率军猛攻成都，逐步掌握了益州的主动权。",
+        "latitude": 30.8,
+        "longitude": 103.8,
+        "category": "军事",
+        "region": "成汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "张昌在江夏起义",
+        "description": "流民张昌在江夏（今湖北安陆）聚众起义，立山都县吏沈丘为天子，设置百官。张昌头戴面具、以妖术惑众，各路流民纷纷响应。义军攻占了江夏、武昌、长沙等多郡。西晋派陶侃率军征讨，最终平定张昌之乱。",
+        "latitude": 31.2,
+        "longitude": 113.7,
+        "category": "军事",
+        "region": "西晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "戴克里先退位意愿愈发坚定",
+        "description": "戴克里先因长期患病，在尼科米底亚宫廷中公开表示希望退位。他曾对臣下表示：'我治理国家已二十年，身心俱疲，渴望回归田园生活。'马克西米安虽不情愿，但被迫同意与戴克里先一同退位。",
+        "latitude": 40.75,
+        "longitude": 29.9,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马帝国基督教合法化",
+        "description": "君士坦丁大帝颁布米兰敕令，基督教在罗马帝国取得合法地位。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "君士坦丁堡建设",
+        "description": "君士坦丁大帝在东地中海之滨扩建新都。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "戴克里先大迫害",
+        "description": "戴克里先发布四道敕令大规模迫害基督徒。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "基督教修道制在埃及发展",
+        "description": "埃及沙漠中隐修和修道制度发展。",
+        "latitude": 28.0,
+        "longitude": 33.0,
+        "category": "宗教",
+        "region": "埃及",
+        "continent": "非洲"
+      }
     ]
   },
   {
     "year": 304,
     "dynasties": [
-      { "dynastyId": "xijin", "name": "西晋", "ruler": "晋惠帝司马衷", "era": "永兴元年" }
+      {
+        "dynastyId": "xijin",
+        "name": "西晋",
+        "ruler": "晋惠帝司马衷",
+        "era": "永兴元年"
+      }
     ],
     "events": [
-      { "title": "李雄在成都称王建立成汉", "description": "李雄攻占成都后即成都王位，改元建兴，建立成汉政权。李雄封赏功臣、减轻赋税、发展生产，成汉政权逐渐稳固。这是西晋末年最早建立的少数民族政权之一，也是十六国时期的开端。", "latitude": 30.600, "longitude": 104.100, "category": "政治", "region": "成汉", "continent": "亚洲" },
-      { "title": "刘渊在左国城称王建立汉赵", "description": "匈奴贵族刘渊（冒顿单于之后）在左国城（今山西离石）称汉王，改元元熙，建立汉国（后改称前赵）。刘渊自称是汉朝的外甥，以'复汉'为号召，尊刘禅为孝怀皇帝。五胡中的匈奴最先建立政权。", "latitude": 37.500, "longitude": 111.000, "category": "政治", "region": "汉赵", "continent": "亚洲" },
-      { "title": "东海王司马越囚禁长沙王", "description": "东海王司马越联合殿中诸将趁夜在洛阳发动政变，将长沙王司马乂囚禁于金墉城。司马越将司马乂送给城外围攻洛阳的河间王司马颙部将张方。张方将司马乂烧死在火堆上。八王之乱愈演愈烈。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "西晋", "continent": "亚洲" }
+      {
+        "title": "李雄在成都称王建立成汉",
+        "description": "李雄攻占成都后即成都王位，改元建兴，建立成汉政权。李雄封赏功臣、减轻赋税、发展生产，成汉政权逐渐稳固。这是西晋末年最早建立的少数民族政权之一，也是十六国时期的开端。",
+        "latitude": 30.6,
+        "longitude": 104.1,
+        "category": "政治",
+        "region": "成汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "刘渊在左国城称王建立汉赵",
+        "description": "匈奴贵族刘渊（冒顿单于之后）在左国城（今山西离石）称汉王，改元元熙，建立汉国（后改称前赵）。刘渊自称是汉朝的外甥，以'复汉'为号召，尊刘禅为孝怀皇帝。五胡中的匈奴最先建立政权。",
+        "latitude": 37.5,
+        "longitude": 111.0,
+        "category": "政治",
+        "region": "汉赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "东海王司马越囚禁长沙王",
+        "description": "东海王司马越联合殿中诸将趁夜在洛阳发动政变，将长沙王司马乂囚禁于金墉城。司马越将司马乂送给城外围攻洛阳的河间王司马颙部将张方。张方将司马乂烧死在火堆上。八王之乱愈演愈烈。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "西晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "东亚佛教传播",
+        "description": "佛教通过丝绸之路在中国和朝鲜半岛广泛传播。",
+        "latitude": 36.0,
+        "longitude": 120.0,
+        "category": "宗教",
+        "region": "东亚",
+        "continent": "亚洲"
+      },
+      {
+        "title": "中国五胡乱华",
+        "description": "北方少数民族进入中原，西晋灭亡东晋建立。",
+        "latitude": 36.0,
+        "longitude": 112.0,
+        "category": "军事",
+        "region": "五胡",
+        "continent": "亚洲"
+      },
+      {
+        "title": "基督教在波斯发展",
+        "description": "基督教在萨珊帝国境内传播。",
+        "latitude": 35.0,
+        "longitude": 45.0,
+        "category": "宗教",
+        "region": "萨珊帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "印度笈多帝国科学",
+        "description": "笈多帝国数学家和天文学家取得重要成就。",
+        "latitude": 25.0,
+        "longitude": 82.0,
+        "category": "科技",
+        "region": "笈多帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "笈多帝国艺术繁荣",
+        "description": "笈多帝国雕刻绘画和阿旃陀石窟艺术发展。",
+        "latitude": 24.0,
+        "longitude": 72.0,
+        "category": "文化",
+        "region": "笈多帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 305,
     "dynasties": [
-      { "dynastyId": "xijin", "name": "西晋", "ruler": "晋惠帝司马衷", "era": "永兴二年" }
+      {
+        "dynastyId": "xijin",
+        "name": "西晋",
+        "ruler": "晋惠帝司马衷",
+        "era": "永兴二年"
+      }
     ],
     "events": [
-      { "title": "东海王司马越起兵讨伐诸王", "description": "东海王司马越不愿受制于河间王司马颙，在山东起兵讨伐。司马越以鲜卑骑兵为援，联合范阳王司马虓、幽州都督王浚等，声势浩大。司马颙派张方率军迎战，双方在中原地区展开混战。", "latitude": 35.000, "longitude": 116.000, "category": "军事", "region": "西晋", "continent": "亚洲" },
-      { "title": "戴克里先正式退位", "description": "戴克里先在尼科米底亚正式宣布退位，成为罗马历史上第一位主动退位的皇帝。他归隐于家乡萨洛纳（今克罗地亚斯普利特）的豪华庄园中，亲自栽种蔬菜以自娱。关于他为何退位，后世有各种猜测，但多半与他的健康状况有关。", "latitude": 43.500, "longitude": 16.440, "category": "政治", "region": "罗马帝国", "continent": "欧洲" },
-      { "title": "马克西米安被迫退位", "description": "戴克里先迫使不情愿的马克西米安在米兰同时退位。四位统治者全部更替：加利里乌斯和君士坦提乌斯升任奥古斯都，分别统治东方和西方；马克西米安之子马克森提乌斯和君士坦丁被排除在继承人之外，为日后内战埋下伏笔。", "latitude": 45.500, "longitude": 9.200, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "东海王司马越起兵讨伐诸王",
+        "description": "东海王司马越不愿受制于河间王司马颙，在山东起兵讨伐。司马越以鲜卑骑兵为援，联合范阳王司马虓、幽州都督王浚等，声势浩大。司马颙派张方率军迎战，双方在中原地区展开混战。",
+        "latitude": 35.0,
+        "longitude": 116.0,
+        "category": "军事",
+        "region": "西晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "戴克里先正式退位",
+        "description": "戴克里先在尼科米底亚正式宣布退位，成为罗马历史上第一位主动退位的皇帝。他归隐于家乡萨洛纳（今克罗地亚斯普利特）的豪华庄园中，亲自栽种蔬菜以自娱。关于他为何退位，后世有各种猜测，但多半与他的健康状况有关。",
+        "latitude": 43.5,
+        "longitude": 16.44,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "马克西米安被迫退位",
+        "description": "戴克里先迫使不情愿的马克西米安在米兰同时退位。四位统治者全部更替：加利里乌斯和君士坦提乌斯升任奥古斯都，分别统治东方和西方；马克西米安之子马克森提乌斯和君士坦丁被排除在继承人之外，为日后内战埋下伏笔。",
+        "latitude": 45.5,
+        "longitude": 9.2,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "非洲基督教传播",
+        "description": "基督教在埃及和北非广泛传播，苦修制度发展。",
+        "latitude": 25.0,
+        "longitude": 32.0,
+        "category": "宗教",
+        "region": "埃及",
+        "continent": "非洲"
+      },
+      {
+        "title": "君士坦提乌斯一世去世",
+        "description": "不列颠奥古斯都去世其子君士坦丁被军队拥立。",
+        "latitude": 51.5,
+        "longitude": -0.5,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "日耳曼人沿罗马边境定居",
+        "description": "日耳曼部落获准在罗马帝国边境定居。",
+        "latitude": 48.0,
+        "longitude": 15.0,
+        "category": "社会",
+        "region": "日耳曼",
+        "continent": "欧洲"
+      },
+      {
+        "title": "戴克里先退位种菜",
+        "description": "罗马皇帝退休。",
+        "latitude": 43.5,
+        "longitude": 16.4,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 306,
     "dynasties": [
-      { "dynastyId": "xijin", "name": "西晋", "ruler": "晋惠帝司马衷", "era": "光熙元年" },
-      { "dynastyId": "xijin", "name": "西晋", "ruler": "晋怀帝司马炽", "era": "永嘉元年" }
+      {
+        "dynastyId": "xijin",
+        "name": "西晋",
+        "ruler": "晋惠帝司马衷",
+        "era": "光熙元年"
+      },
+      {
+        "dynastyId": "xijin",
+        "name": "西晋",
+        "ruler": "晋怀帝司马炽",
+        "era": "永嘉元年"
+      }
     ],
     "events": [
-      { "title": "司马越毒死晋惠帝立司马炽", "description": "东海王司马越在击败各路诸王后掌控朝政。他毒死了白痴皇帝晋惠帝司马衷（终年四十八岁），立惠帝之弟司马炽为帝，是为晋怀帝。八王之乱至此基本结束，但西晋在战乱中已元气大伤。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "西晋", "continent": "亚洲" },
-      { "title": "君士坦提乌斯去世，君士坦丁继位", "description": "罗马西方奥古斯都君士坦提乌斯·克洛鲁斯在不列颠的约克去世。其子君士坦丁被当地军团拥立为奥古斯都。君士坦丁（后来的君士坦丁大帝）年仅三十余岁，才智过人。他立即巩固了在高卢和不列颠的统治。", "latitude": 53.960, "longitude": -1.080, "category": "政治", "region": "罗马帝国", "continent": "欧洲" },
-      { "title": "马克森提乌斯在罗马称帝", "description": "马克西米安之子马克森提乌斯在罗马被近卫军拥立为皇帝。马克西米安也重新出山自称奥古斯都，父子共同统治意大利和非洲。罗马帝国陷入了新的内战循环。", "latitude": 41.893, "longitude": 12.485, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "司马越毒死晋惠帝立司马炽",
+        "description": "东海王司马越在击败各路诸王后掌控朝政。他毒死了白痴皇帝晋惠帝司马衷（终年四十八岁），立惠帝之弟司马炽为帝，是为晋怀帝。八王之乱至此基本结束，但西晋在战乱中已元气大伤。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "西晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦提乌斯去世，君士坦丁继位",
+        "description": "罗马西方奥古斯都君士坦提乌斯·克洛鲁斯在不列颠的约克去世。其子君士坦丁被当地军团拥立为奥古斯都。君士坦丁（后来的君士坦丁大帝）年仅三十余岁，才智过人。他立即巩固了在高卢和不列颠的统治。",
+        "latitude": 53.96,
+        "longitude": -1.08,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "马克森提乌斯在罗马称帝",
+        "description": "马克西米安之子马克森提乌斯在罗马被近卫军拥立为皇帝。马克西米安也重新出山自称奥古斯都，父子共同统治意大利和非洲。罗马帝国陷入了新的内战循环。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "中国五胡乱华持续",
+        "description": "匈奴鲜卑羯氐羌等民族在中原建立政权。",
+        "latitude": 36.0,
+        "longitude": 112.0,
+        "category": "政治",
+        "region": "五胡",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦丁被拥立为帝",
+        "description": "君士坦丁在不列颠被拥立为罗马皇帝。",
+        "latitude": 51.5,
+        "longitude": -0.5,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "中国佛教石窟开凿",
+        "description": "中国北方佛教徒在云冈龙门等地开凿石窟。",
+        "latitude": 37.0,
+        "longitude": 113.0,
+        "category": "文化",
+        "region": "中国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 307,
     "dynasties": [
-      { "dynastyId": "xijin", "name": "西晋", "ruler": "晋怀帝司马炽", "era": "永嘉元年" }
+      {
+        "dynastyId": "xijin",
+        "name": "西晋",
+        "ruler": "晋怀帝司马炽",
+        "era": "永嘉元年"
+      }
     ],
     "events": [
-      { "title": "司马睿出镇建邺", "description": "东海王司马越任命琅琊王司马睿为安东将军、都督扬州江南诸军事，镇守建邺（后改建康，今南京）。司马睿以王导为谋主，王氏家族为其笼络江南士族。这是东晋立国江南的起点。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "西晋", "continent": "亚洲" },
-      { "title": "王导为司马睿笼络江南士族", "description": "王导为提升司马睿在江南的威望，在三月初三上巳节安排司马睿乘坐华丽肩舆出行，王敦、王导等名士骑马跟随。江南豪族顾荣、贺循等见司马睿受北方士族拥戴，纷纷归附。王导奠定了'王与马共天下'的政治格局。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "西晋", "continent": "亚洲" },
-      { "title": "加利里乌斯承认君士坦丁", "description": "东罗马奥古斯都加利里乌斯为稳定局势，被迫承认君士坦丁为西方凯撒（而非奥古斯都）。但君士坦丁实际控制着高卢、不列颠和西班牙，拥有与奥古斯都相同的权力。", "latitude": 40.750, "longitude": 29.900, "category": "政治", "region": "罗马帝国", "continent": "亚洲" }
+      {
+        "title": "司马睿出镇建邺",
+        "description": "东海王司马越任命琅琊王司马睿为安东将军、都督扬州江南诸军事，镇守建邺（后改建康，今南京）。司马睿以王导为谋主，王氏家族为其笼络江南士族。这是东晋立国江南的起点。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "西晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "王导为司马睿笼络江南士族",
+        "description": "王导为提升司马睿在江南的威望，在三月初三上巳节安排司马睿乘坐华丽肩舆出行，王敦、王导等名士骑马跟随。江南豪族顾荣、贺循等见司马睿受北方士族拥戴，纷纷归附。王导奠定了'王与马共天下'的政治格局。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "西晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "加利里乌斯承认君士坦丁",
+        "description": "东罗马奥古斯都加利里乌斯为稳定局势，被迫承认君士坦丁为西方凯撒（而非奥古斯都）。但君士坦丁实际控制着高卢、不列颠和西班牙，拥有与奥古斯都相同的权力。",
+        "latitude": 40.75,
+        "longitude": 29.9,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "马克森提乌斯占据罗马",
+        "description": "戴克里先之子马克森提乌斯控制罗马城。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 308,
     "dynasties": [
-      { "dynastyId": "xijin", "name": "西晋", "ruler": "晋怀帝司马炽", "era": "永嘉二年" }
+      {
+        "dynastyId": "xijin",
+        "name": "西晋",
+        "ruler": "晋怀帝司马炽",
+        "era": "永嘉二年"
+      }
     ],
     "events": [
-      { "title": "刘渊正式称帝", "description": "汉王刘渊在蒲子（今山西隰县）正式即皇帝位，改元永凤，建都平阳（今山西临汾）。刘渊立刘和为太子，大封宗室和功臣为诸王。汉赵政权初具规模，开始全面进攻西晋。", "latitude": 36.100, "longitude": 111.500, "category": "政治", "region": "汉赵", "continent": "亚洲" },
-      { "title": "石勒投奔刘渊", "description": "羯族首领石勒率部投奔刘渊。石勒原为奴隶，后来聚众起义，在河北一带转战。刘渊任命石勒为平东大将军，命其率军进攻西晋的冀州、兖州等地。石勒成为汉赵政权麾下最杰出的将领。", "latitude": 38.000, "longitude": 114.500, "category": "军事", "region": "汉赵", "continent": "亚洲" },
-      { "title": "李锡尼被任命为奥古斯都", "description": "加利里乌斯在卡农图姆（今奥地利境内）召集会议，任命李锡尼为西方奥古斯都，但仅控制多瑙河一带。君士坦丁拒绝接受此安排，继续在高卢自称奥古斯都。", "latitude": 48.000, "longitude": 16.000, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "刘渊正式称帝",
+        "description": "汉王刘渊在蒲子（今山西隰县）正式即皇帝位，改元永凤，建都平阳（今山西临汾）。刘渊立刘和为太子，大封宗室和功臣为诸王。汉赵政权初具规模，开始全面进攻西晋。",
+        "latitude": 36.1,
+        "longitude": 111.5,
+        "category": "政治",
+        "region": "汉赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "石勒投奔刘渊",
+        "description": "羯族首领石勒率部投奔刘渊。石勒原为奴隶，后来聚众起义，在河北一带转战。刘渊任命石勒为平东大将军，命其率军进攻西晋的冀州、兖州等地。石勒成为汉赵政权麾下最杰出的将领。",
+        "latitude": 38.0,
+        "longitude": 114.5,
+        "category": "军事",
+        "region": "汉赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "李锡尼被任命为奥古斯都",
+        "description": "加利里乌斯在卡农图姆（今奥地利境内）召集会议，任命李锡尼为西方奥古斯都，但仅控制多瑙河一带。君士坦丁拒绝接受此安排，继续在高卢自称奥古斯都。",
+        "latitude": 48.0,
+        "longitude": 16.0,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "西藏吐蕃起源",
+        "description": "吐蕃早期部落联盟在雅鲁藏布江流域形成。",
+        "latitude": 29.0,
+        "longitude": 90.0,
+        "category": "政治",
+        "region": "吐蕃",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 309,
     "dynasties": [
-      { "dynastyId": "xijin", "name": "西晋", "ruler": "晋怀帝司马炽", "era": "永嘉三年" }
+      {
+        "dynastyId": "xijin",
+        "name": "西晋",
+        "ruler": "晋怀帝司马炽",
+        "era": "永嘉三年"
+      }
     ],
     "events": [
-      { "title": "刘渊两攻洛阳失利", "description": "刘渊派其子刘聪和石勒率军进攻洛阳。刘聪在洛阳城外击败晋军，但攻城时遭遇顽强抵抗。晋怀帝急调各地勤王军队，刘聪因粮草不济两次被迫撤军。洛阳暂时得以保全。", "latitude": 34.682, "longitude": 112.470, "category": "军事", "region": "汉赵", "continent": "亚洲" },
-      { "title": "石勒在河北攻掠", "description": "石勒率军在冀州（今河北）大规模攻掠，连克郡县。他攻占了巨鹿、常山、中山等地，兵力急剧扩张至十万余人。石勒招纳汉族士人张宾为谋主，军事实力和政治谋略同步提升。", "latitude": 38.000, "longitude": 114.500, "category": "军事", "region": "汉赵", "continent": "亚洲" }
+      {
+        "title": "刘渊两攻洛阳失利",
+        "description": "刘渊派其子刘聪和石勒率军进攻洛阳。刘聪在洛阳城外击败晋军，但攻城时遭遇顽强抵抗。晋怀帝急调各地勤王军队，刘聪因粮草不济两次被迫撤军。洛阳暂时得以保全。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "军事",
+        "region": "汉赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "石勒在河北攻掠",
+        "description": "石勒率军在冀州（今河北）大规模攻掠，连克郡县。他攻占了巨鹿、常山、中山等地，兵力急剧扩张至十万余人。石勒招纳汉族士人张宾为谋主，军事实力和政治谋略同步提升。",
+        "latitude": 38.0,
+        "longitude": 114.5,
+        "category": "军事",
+        "region": "汉赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "日耳曼部落迁徙",
+        "description": "日耳曼各部落开始大规模迁徙进入罗马帝国境内。",
+        "latitude": 50.0,
+        "longitude": 10.0,
+        "category": "社会",
+        "region": "日耳曼人",
+        "continent": "欧洲"
+      },
+      {
+        "title": "李雄成汉立国",
+        "description": "李雄在成都建立成汉政权，开启十六国时期。",
+        "latitude": 30.6,
+        "longitude": 104.0,
+        "category": "政治",
+        "region": "成汉",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 310,
     "dynasties": [
-      { "dynastyId": "xijin", "name": "西晋", "ruler": "晋怀帝司马炽", "era": "永嘉四年" }
+      {
+        "dynastyId": "xijin",
+        "name": "西晋",
+        "ruler": "晋怀帝司马炽",
+        "era": "永嘉四年"
+      }
     ],
     "events": [
-      { "title": "刘渊病逝，刘聪继位", "description": "汉赵皇帝刘渊病逝，终年约六十岁。太子刘和继位不久即被刘聪所杀。刘聪自立为帝，改元光兴。刘聪文武双全，但性格残暴。他在位期间汉赵达到鼎盛。", "latitude": 36.100, "longitude": 111.500, "category": "政治", "region": "汉赵", "continent": "亚洲" },
-      { "title": "石勒攻掠江淮", "description": "石勒率军渡过淮水，攻掠长江以北地区。他在苦县宁平城（今河南郸城）大败西晋主力军队，杀王公以下十余万人。石勒的军事活动严重削弱了西晋的统治基础。", "latitude": 33.500, "longitude": 115.000, "category": "军事", "region": "汉赵", "continent": "亚洲" },
-      { "title": "加利里乌斯病逝", "description": "东罗马奥古斯都加利里乌斯病逝。他在临终前发布宽容敕令，结束了长达八年的基督教迫害运动。加利里乌斯承认基督教为合法宗教，允许基督徒恢复聚会和修建教堂。", "latitude": 40.750, "longitude": 29.900, "category": "政治", "region": "罗马帝国", "continent": "亚洲" }
+      {
+        "title": "刘渊病逝，刘聪继位",
+        "description": "汉赵皇帝刘渊病逝，终年约六十岁。太子刘和继位不久即被刘聪所杀。刘聪自立为帝，改元光兴。刘聪文武双全，但性格残暴。他在位期间汉赵达到鼎盛。",
+        "latitude": 36.1,
+        "longitude": 111.5,
+        "category": "政治",
+        "region": "汉赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "石勒攻掠江淮",
+        "description": "石勒率军渡过淮水，攻掠长江以北地区。他在苦县宁平城（今河南郸城）大败西晋主力军队，杀王公以下十余万人。石勒的军事活动严重削弱了西晋的统治基础。",
+        "latitude": 33.5,
+        "longitude": 115.0,
+        "category": "军事",
+        "region": "汉赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "加利里乌斯病逝",
+        "description": "东罗马奥古斯都加利里乌斯病逝。他在临终前发布宽容敕令，结束了长达八年的基督教迫害运动。加利里乌斯承认基督教为合法宗教，允许基督徒恢复聚会和修建教堂。",
+        "latitude": 40.75,
+        "longitude": 29.9,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "日耳曼部落大迁徙",
+        "description": "日耳曼各部落在欧洲大陆持续迁徙。",
+        "latitude": 50.0,
+        "longitude": 12.0,
+        "category": "社会",
+        "region": "日耳曼",
+        "continent": "欧洲"
+      },
+      {
+        "title": "中国北方民族融合",
+        "description": "五胡入华。",
+        "latitude": 36.0,
+        "longitude": 112.0,
+        "category": "民族",
+        "region": "中国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 311,
     "dynasties": [
-      { "dynastyId": "xijin", "name": "西晋", "ruler": "晋怀帝司马炽", "era": "永嘉五年" }
+      {
+        "dynastyId": "xijin",
+        "name": "西晋",
+        "ruler": "晋怀帝司马炽",
+        "era": "永嘉五年"
+      }
     ],
     "events": [
-      { "title": "永嘉之乱——刘聪攻陷洛阳", "description": "汉赵皇帝刘聪派刘曜、石勒、王弥等率军攻陷洛阳。晋怀帝在逃往长安途中被俘。刘曜纵兵烧杀抢掠，发掘陵墓、焚烧宫庙，王公士民被杀三万余人。洛阳这座百年帝都化为废墟。史称'永嘉之乱'。", "latitude": 34.682, "longitude": 112.470, "category": "军事", "region": "汉赵", "continent": "亚洲" },
-      { "title": "晋怀帝被俘北迁", "description": "晋怀帝司马炽被俘后被送往平阳。刘聪在光极殿大宴群臣，让晋怀帝身着青衣行酒。西晋旧臣见到故君受辱无不痛哭失声。尚书郎辛宾抱帝大哭被杀。刘聪将晋怀帝封为会稽郡公，软禁在平阳。", "latitude": 36.100, "longitude": 111.500, "category": "政治", "region": "汉赵", "continent": "亚洲" },
-      { "title": "司马睿在江南积聚实力", "description": "永嘉之乱后北方陷入全面混乱，大量中原士族和百姓南渡长江避难。司马睿在王导的建议下广纳贤才，安置流民。南渡士族和江南本土士族在王导的调和下逐渐融合，东晋政权的社会基础逐步形成。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "永嘉之乱——刘聪攻陷洛阳",
+        "description": "汉赵皇帝刘聪派刘曜、石勒、王弥等率军攻陷洛阳。晋怀帝在逃往长安途中被俘。刘曜纵兵烧杀抢掠，发掘陵墓、焚烧宫庙，王公士民被杀三万余人。洛阳这座百年帝都化为废墟。史称'永嘉之乱'。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "军事",
+        "region": "汉赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "晋怀帝被俘北迁",
+        "description": "晋怀帝司马炽被俘后被送往平阳。刘聪在光极殿大宴群臣，让晋怀帝身着青衣行酒。西晋旧臣见到故君受辱无不痛哭失声。尚书郎辛宾抱帝大哭被杀。刘聪将晋怀帝封为会稽郡公，软禁在平阳。",
+        "latitude": 36.1,
+        "longitude": 111.5,
+        "category": "政治",
+        "region": "汉赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "司马睿在江南积聚实力",
+        "description": "永嘉之乱后北方陷入全面混乱，大量中原士族和百姓南渡长江避难。司马睿在王导的建议下广纳贤才，安置流民。南渡士族和江南本土士族在王导的调和下逐渐融合，东晋政权的社会基础逐步形成。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "加莱里乌斯临终宽容令",
+        "description": "加莱里乌斯临死前颁布宽容基督教法令。",
+        "latitude": 40.0,
+        "longitude": 22.0,
+        "category": "宗教",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 312,
     "dynasties": [
-      { "dynastyId": "xijin", "name": "西晋", "ruler": "晋怀帝司马炽", "era": "永嘉六年" }
+      {
+        "dynastyId": "xijin",
+        "name": "西晋",
+        "ruler": "晋怀帝司马炽",
+        "era": "永嘉六年"
+      }
     ],
     "events": [
-      { "title": "石勒进据襄国", "description": "石勒采纳谋士张宾的建议，率军北上占据襄国（今河北邢台）。襄国地处河北腹地，进可攻退可守。石勒以此为根据地，大力经营，为日后建立后赵奠定了基础。", "latitude": 37.000, "longitude": 114.500, "category": "军事", "region": "汉赵", "continent": "亚洲" },
-      { "title": "刘聪杀晋怀帝", "description": "刘聪在平阳以晋怀帝阴谋叛乱为借口，派人用毒酒将其杀害。司马炽年仅三十岁。消息传到长安后，西晋残余势力拥立司马邺为帝。刘聪此举加速了西晋残余势力的反扑。", "latitude": 36.100, "longitude": 111.500, "category": "政治", "region": "汉赵", "continent": "亚洲" },
-      { "title": "君士坦丁与李锡尼结盟", "description": "君士坦丁在西罗马与李锡尼结盟，共同对抗马克森提乌斯和马克西米安。君士坦丁将自己的妹妹君士坦提娅嫁给李锡尼为妻。这一政治联姻为两人日后的合作和冲突埋下了基础。", "latitude": 45.500, "longitude": 9.200, "category": "外交", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "石勒进据襄国",
+        "description": "石勒采纳谋士张宾的建议，率军北上占据襄国（今河北邢台）。襄国地处河北腹地，进可攻退可守。石勒以此为根据地，大力经营，为日后建立后赵奠定了基础。",
+        "latitude": 37.0,
+        "longitude": 114.5,
+        "category": "军事",
+        "region": "汉赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "刘聪杀晋怀帝",
+        "description": "刘聪在平阳以晋怀帝阴谋叛乱为借口，派人用毒酒将其杀害。司马炽年仅三十岁。消息传到长安后，西晋残余势力拥立司马邺为帝。刘聪此举加速了西晋残余势力的反扑。",
+        "latitude": 36.1,
+        "longitude": 111.5,
+        "category": "政治",
+        "region": "汉赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦丁与李锡尼结盟",
+        "description": "君士坦丁在西罗马与李锡尼结盟，共同对抗马克森提乌斯和马克西米安。君士坦丁将自己的妹妹君士坦提娅嫁给李锡尼为妻。这一政治联姻为两人日后的合作和冲突埋下了基础。",
+        "latitude": 45.5,
+        "longitude": 9.2,
+        "category": "外交",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 313,
     "dynasties": [
-      { "dynastyId": "xijin", "name": "西晋", "ruler": "晋愍帝司马邺", "era": "建兴元年" }
+      {
+        "dynastyId": "xijin",
+        "name": "西晋",
+        "ruler": "晋愍帝司马邺",
+        "era": "建兴元年"
+      }
     ],
     "events": [
-      { "title": "晋愍帝在长安继位", "description": "永嘉之乱后，西晋残余势力在长安拥立秦王司马邺为帝，是为晋愍帝。司马邺年仅十三岁，以索綝、贾疋等为辅政大臣。长安城中房屋破败、人口稀少，西晋政权已如风中残烛。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "西晋", "continent": "亚洲" },
-      { "title": "祖逖北上北伐", "description": "祖逖率部曲百余家渡江北伐。船行至长江中流时，祖逖击楫发誓：'祖逖不能清中原而复济者，有如大江！'辞色壮烈，部下无不感动。祖逖在淮阴招募士兵、冶铸兵器，开始北伐事业。", "latitude": 34.000, "longitude": 118.000, "category": "军事", "region": "西晋", "continent": "亚洲" },
-      { "title": "君士坦丁颁布米兰敕令", "description": "君士坦丁和李锡尼在米兰会面，共同颁布了著名的《米兰敕令》。敕令宣布罗马帝国境内所有宗教一律平等，基督教正式获得合法地位。教会财产被归还，基督徒不再受迫害。这是基督教发展史上最重要的转折点之一。", "latitude": 45.500, "longitude": 9.200, "category": "宗教", "region": "罗马帝国", "continent": "欧洲" },
-      { "title": "马克西米安自杀身亡", "description": "罗马前皇帝马克西米安在第三次夺权失败后，被女婿君士坦丁围困在马赛。马克西米安被迫自杀，终年约六十三岁。这位曾与戴克里先共同治理帝国的野心家以此凄惨结局收场。", "latitude": 43.300, "longitude": 5.400, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "晋愍帝在长安继位",
+        "description": "永嘉之乱后，西晋残余势力在长安拥立秦王司马邺为帝，是为晋愍帝。司马邺年仅十三岁，以索綝、贾疋等为辅政大臣。长安城中房屋破败、人口稀少，西晋政权已如风中残烛。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "西晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "祖逖北上北伐",
+        "description": "祖逖率部曲百余家渡江北伐。船行至长江中流时，祖逖击楫发誓：'祖逖不能清中原而复济者，有如大江！'辞色壮烈，部下无不感动。祖逖在淮阴招募士兵、冶铸兵器，开始北伐事业。",
+        "latitude": 34.0,
+        "longitude": 118.0,
+        "category": "军事",
+        "region": "西晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦丁颁布米兰敕令",
+        "description": "君士坦丁和李锡尼在米兰会面，共同颁布了著名的《米兰敕令》。敕令宣布罗马帝国境内所有宗教一律平等，基督教正式获得合法地位。教会财产被归还，基督徒不再受迫害。这是基督教发展史上最重要的转折点之一。",
+        "latitude": 45.5,
+        "longitude": 9.2,
+        "category": "宗教",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "马克西米安自杀身亡",
+        "description": "罗马前皇帝马克西米安在第三次夺权失败后，被女婿君士坦丁围困在马赛。马克西米安被迫自杀，终年约六十三岁。这位曾与戴克里先共同治理帝国的野心家以此凄惨结局收场。",
+        "latitude": 43.3,
+        "longitude": 5.4,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 314,
     "dynasties": [
-      { "dynastyId": "xijin", "name": "西晋", "ruler": "晋愍帝司马邺", "era": "建兴二年" }
+      {
+        "dynastyId": "xijin",
+        "name": "西晋",
+        "ruler": "晋愍帝司马邺",
+        "era": "建兴二年"
+      }
     ],
     "events": [
-      { "title": "石勒吞并幽州", "description": "石勒率军攻陷幽州治所蓟城（今北京），擒杀幽州刺史王浚。石勒进入蓟城后约束军纪、善待降将，但随后背约将王浚部将全部诛杀。石勒的势力扩展到河北北部。", "latitude": 39.900, "longitude": 116.400, "category": "军事", "region": "汉赵", "continent": "亚洲" },
-      { "title": "张轨张寔割据凉州", "description": "凉州刺史张轨病逝，其子张寔继任凉州牧。张氏家族世代经营凉州，保境安民、发展经济。西晋灭亡后张氏继续称藩，凉州成为北方唯一的安定绿洲，大量中原士人逃往避难。", "latitude": 36.000, "longitude": 103.800, "category": "政治", "region": "前凉", "continent": "亚洲" }
+      {
+        "title": "石勒吞并幽州",
+        "description": "石勒率军攻陷幽州治所蓟城（今北京），擒杀幽州刺史王浚。石勒进入蓟城后约束军纪、善待降将，但随后背约将王浚部将全部诛杀。石勒的势力扩展到河北北部。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "军事",
+        "region": "汉赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "张轨张寔割据凉州",
+        "description": "凉州刺史张轨病逝，其子张寔继任凉州牧。张氏家族世代经营凉州，保境安民、发展经济。西晋灭亡后张氏继续称藩，凉州成为北方唯一的安定绿洲，大量中原士人逃往避难。",
+        "latitude": 36.0,
+        "longitude": 103.8,
+        "category": "政治",
+        "region": "前凉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "小亚细亚教会会议",
+        "description": "基督教会在安卡拉召开会议解决教义分歧。",
+        "latitude": 39.9,
+        "longitude": 32.9,
+        "category": "宗教",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 315,
     "dynasties": [
-      { "dynastyId": "xijin", "name": "西晋", "ruler": "晋愍帝司马邺", "era": "建兴三年" }
+      {
+        "dynastyId": "xijin",
+        "name": "西晋",
+        "ruler": "晋愍帝司马邺",
+        "era": "建兴三年"
+      }
     ],
     "events": [
-      { "title": "拓跋猗卢建立代国", "description": "鲜卑拓跋部首领拓跋猗卢因帮助西晋对抗刘聪有功，被晋愍帝封为代王。拓跋猗卢在盛乐（今内蒙古和林格尔）建立代国，设置百官、制定法律。代国是北魏的前身，在北方草原上兴起。", "latitude": 40.400, "longitude": 111.800, "category": "政治", "region": "代国", "continent": "亚洲" },
-      { "title": "石勒吞并青州", "description": "石勒率军攻占青州（今山东一带），刺史曹嶷投降。石勒的势力范围扩展到整个黄河下游地区。他大力招纳流民、恢复生产，实力急剧膨胀。", "latitude": 36.500, "longitude": 118.500, "category": "军事", "region": "汉赵", "continent": "亚洲" }
+      {
+        "title": "拓跋猗卢建立代国",
+        "description": "鲜卑拓跋部首领拓跋猗卢因帮助西晋对抗刘聪有功，被晋愍帝封为代王。拓跋猗卢在盛乐（今内蒙古和林格尔）建立代国，设置百官、制定法律。代国是北魏的前身，在北方草原上兴起。",
+        "latitude": 40.4,
+        "longitude": 111.8,
+        "category": "政治",
+        "region": "代国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "石勒吞并青州",
+        "description": "石勒率军攻占青州（今山东一带），刺史曹嶷投降。石勒的势力范围扩展到整个黄河下游地区。他大力招纳流民、恢复生产，实力急剧膨胀。",
+        "latitude": 36.5,
+        "longitude": 118.5,
+        "category": "军事",
+        "region": "汉赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦丁统一西部",
+        "description": "君士坦丁击败李锡尼统一帝国西部。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "罗马基督教合法化前夕",
+        "description": "米兰敕令。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 316,
     "dynasties": [
-      { "dynastyId": "xijin", "name": "西晋", "ruler": "晋愍帝司马邺", "era": "建兴四年" }
+      {
+        "dynastyId": "xijin",
+        "name": "西晋",
+        "ruler": "晋愍帝司马邺",
+        "era": "建兴四年"
+      }
     ],
     "events": [
-      { "title": "刘曜攻陷长安，西晋灭亡", "description": "汉赵刘曜率军围攻长安。城中粮尽，斗米值黄金二两，百姓饿死者大半。晋愍帝司马邺乘羊车、口衔玉璧、裸露上身出降。西晋立国五十二年而亡。司马邺被押送平阳后受尽屈辱，一年后被刘聪杀害。", "latitude": 34.300, "longitude": 108.900, "category": "军事", "region": "汉赵", "continent": "亚洲" },
-      { "title": "北方士族大规模南渡", "description": "西晋灭亡后，中原士族百姓掀起南渡长江的浪潮。琅琊王氏、陈郡谢氏、颍川庾氏、谯国桓氏等著名士族纷纷过江。王导等极力安抚和团结南渡士族和江南士族，为东晋政权的建立奠定了人才基础。", "latitude": 32.060, "longitude": 118.740, "category": "社会", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "刘曜攻陷长安，西晋灭亡",
+        "description": "汉赵刘曜率军围攻长安。城中粮尽，斗米值黄金二两，百姓饿死者大半。晋愍帝司马邺乘羊车、口衔玉璧、裸露上身出降。西晋立国五十二年而亡。司马邺被押送平阳后受尽屈辱，一年后被刘聪杀害。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "军事",
+        "region": "汉赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "北方士族大规模南渡",
+        "description": "西晋灭亡后，中原士族百姓掀起南渡长江的浪潮。琅琊王氏、陈郡谢氏、颍川庾氏、谯国桓氏等著名士族纷纷过江。王导等极力安抚和团结南渡士族和江南士族，为东晋政权的建立奠定了人才基础。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "社会",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "石勒建立后赵",
+        "description": "羯人石勒在北方建立后赵政权。",
+        "latitude": 38.0,
+        "longitude": 114.0,
+        "category": "政治",
+        "region": "后赵",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 317,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋元帝司马睿", "era": "建武元年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋元帝司马睿",
+        "era": "建武元年"
+      }
     ],
     "events": [
-      { "title": "司马睿在建康称晋王", "description": "西晋灭亡后，司马睿在南渡过江的北方士族和江南士族的共同拥戴下，在建康（今南京）称晋王，改元建武。司马睿以王导为丞相、王敦为大将军，史称'王与马，共天下'。东晋政权正式建立。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" },
-      { "title": "祖逖在谯城站稳脚跟", "description": "祖逖在谯城（今安徽亳州）击败了石勒的守军，在黄淮之间建立了北伐基地。祖逖与将士同甘共苦、推诚待人，部众很快发展到数万人。黄河以南的坞壁武装纷纷归附祖逖。", "latitude": 33.800, "longitude": 115.700, "category": "军事", "region": "东晋", "continent": "亚洲" },
-      { "title": "刘琨在并州孤军奋战", "description": "西晋并州刺史刘琨在晋阳（今山西太原）坚持抗击刘聪和石勒。刘琨在孤城被围的情况下吹奏胡笳，用思乡曲瓦解了匈奴骑兵的斗志。但他终因兵力悬殊难以持久，后投奔鲜卑段部。", "latitude": 37.900, "longitude": 112.500, "category": "军事", "region": "西晋", "continent": "亚洲" }
+      {
+        "title": "司马睿在建康称晋王",
+        "description": "西晋灭亡后，司马睿在南渡过江的北方士族和江南士族的共同拥戴下，在建康（今南京）称晋王，改元建武。司马睿以王导为丞相、王敦为大将军，史称'王与马，共天下'。东晋政权正式建立。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "祖逖在谯城站稳脚跟",
+        "description": "祖逖在谯城（今安徽亳州）击败了石勒的守军，在黄淮之间建立了北伐基地。祖逖与将士同甘共苦、推诚待人，部众很快发展到数万人。黄河以南的坞壁武装纷纷归附祖逖。",
+        "latitude": 33.8,
+        "longitude": 115.7,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "刘琨在并州孤军奋战",
+        "description": "西晋并州刺史刘琨在晋阳（今山西太原）坚持抗击刘聪和石勒。刘琨在孤城被围的情况下吹奏胡笳，用思乡曲瓦解了匈奴骑兵的斗志。但他终因兵力悬殊难以持久，后投奔鲜卑段部。",
+        "latitude": 37.9,
+        "longitude": 112.5,
+        "category": "军事",
+        "region": "西晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "东晋建立",
+        "description": "司马睿在南京建立东晋偏安江南。",
+        "latitude": 32.1,
+        "longitude": 118.8,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 318,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋元帝司马睿", "era": "太兴元年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋元帝司马睿",
+        "era": "太兴元年"
+      }
     ],
     "events": [
-      { "title": "司马睿正式称帝", "description": "晋王司马睿在建康正式即皇帝位，改元太兴，是为晋元帝。司马睿在登基时竟然邀请王导同坐御床，王导推辞说'若太阳下同万物，苍生何由仰照'。这生动反映了琅琊王氏在东晋的特殊地位。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" },
-      { "title": "刘聪病逝，汉赵内乱", "description": "汉赵皇帝刘聪病逝。其子刘粲继位，荒淫无道，在位仅月余便被外戚靳准所杀。靳准自称汉天王，将刘氏宗室不分老幼全部屠杀。刘曜和石勒分别起兵讨伐靳准，汉赵政权陷入分裂。", "latitude": 36.100, "longitude": 111.500, "category": "政治", "region": "汉赵", "continent": "亚洲" }
+      {
+        "title": "司马睿正式称帝",
+        "description": "晋王司马睿在建康正式即皇帝位，改元太兴，是为晋元帝。司马睿在登基时竟然邀请王导同坐御床，王导推辞说'若太阳下同万物，苍生何由仰照'。这生动反映了琅琊王氏在东晋的特殊地位。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "刘聪病逝，汉赵内乱",
+        "description": "汉赵皇帝刘聪病逝。其子刘粲继位，荒淫无道，在位仅月余便被外戚靳准所杀。靳准自称汉天王，将刘氏宗室不分老幼全部屠杀。刘曜和石勒分别起兵讨伐靳准，汉赵政权陷入分裂。",
+        "latitude": 36.1,
+        "longitude": 111.5,
+        "category": "政治",
+        "region": "汉赵",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 319,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋元帝司马睿", "era": "太兴二年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋元帝司马睿",
+        "era": "太兴二年"
+      }
     ],
     "events": [
-      { "title": "刘曜迁都长安建立前赵", "description": "刘曜在平定靳准之乱后称帝，改元光初，将都城从平阳迁至长安，国号改为赵，史称前赵。刘曜实行汉化政策、发展文教、尊崇儒学，前赵政权逐渐汉化。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "前赵", "continent": "亚洲" },
-      { "title": "石勒称王建立后赵", "description": "石勒在襄国称赵王，改元赵，建立后赵政权。他以张宾为大执法，建立了一套汉式官僚体系。石勒虽是羯族，但广纳汉族士人、推行文教。后赵与刘曜的前赵形成东西对峙的局面。", "latitude": 37.000, "longitude": 114.500, "category": "政治", "region": "后赵", "continent": "亚洲" }
+      {
+        "title": "刘曜迁都长安建立前赵",
+        "description": "刘曜在平定靳准之乱后称帝，改元光初，将都城从平阳迁至长安，国号改为赵，史称前赵。刘曜实行汉化政策、发展文教、尊崇儒学，前赵政权逐渐汉化。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "前赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "石勒称王建立后赵",
+        "description": "石勒在襄国称赵王，改元赵，建立后赵政权。他以张宾为大执法，建立了一套汉式官僚体系。石勒虽是羯族，但广纳汉族士人、推行文教。后赵与刘曜的前赵形成东西对峙的局面。",
+        "latitude": 37.0,
+        "longitude": 114.5,
+        "category": "政治",
+        "region": "后赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马法律教授职位",
+        "description": "君士坦丁在罗马设立法律教授公职。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "文化",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 320,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋元帝司马睿", "era": "太兴三年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋元帝司马睿",
+        "era": "太兴三年"
+      }
     ],
     "events": [
-      { "title": "前凉张茂继位", "description": "凉州牧张寔被部下所杀，其弟张茂继任凉州牧。张茂在位期间前凉继续保境安民、发展生产，并击败了前赵刘曜的进攻。前凉政权在十六国乱世中保持了相对稳定和繁荣。", "latitude": 36.000, "longitude": 103.800, "category": "政治", "region": "前凉", "continent": "亚洲" },
-      { "title": "君士坦丁击败李锡尼", "description": "君士坦丁在阿德里安堡战役中击败东罗马皇帝李锡尼，随后在克里索波利斯战役中取得决定性胜利。李锡尼投降后君士坦丁暂时饶其性命，但次年以阴谋叛乱为名将其处死。君士坦丁成为罗马帝国唯一的皇帝。", "latitude": 41.700, "longitude": 26.600, "category": "军事", "region": "罗马帝国", "continent": "欧洲" },
-      { "title": "笈多王朝旃陀罗笈多一世统治", "description": "印度笈多王朝正处于旃陀罗笈多一世统治时期。他通过政治联姻和军事征服扩大了领土，控制了比哈尔和孟加拉地区。旃陀罗笈多一世采用'众王之王'的称号，笈多帝国开始步入黄金时代。", "latitude": 25.600, "longitude": 85.100, "category": "政治", "region": "笈多帝国", "continent": "亚洲" }
+      {
+        "title": "前凉张茂继位",
+        "description": "凉州牧张寔被部下所杀，其弟张茂继任凉州牧。张茂在位期间前凉继续保境安民、发展生产，并击败了前赵刘曜的进攻。前凉政权在十六国乱世中保持了相对稳定和繁荣。",
+        "latitude": 36.0,
+        "longitude": 103.8,
+        "category": "政治",
+        "region": "前凉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦丁击败李锡尼",
+        "description": "君士坦丁在阿德里安堡战役中击败东罗马皇帝李锡尼，随后在克里索波利斯战役中取得决定性胜利。李锡尼投降后君士坦丁暂时饶其性命，但次年以阴谋叛乱为名将其处死。君士坦丁成为罗马帝国唯一的皇帝。",
+        "latitude": 41.7,
+        "longitude": 26.6,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "笈多王朝旃陀罗笈多一世统治",
+        "description": "印度笈多王朝正处于旃陀罗笈多一世统治时期。他通过政治联姻和军事征服扩大了领土，控制了比哈尔和孟加拉地区。旃陀罗笈多一世采用'众王之王'的称号，笈多帝国开始步入黄金时代。",
+        "latitude": 25.6,
+        "longitude": 85.1,
+        "category": "政治",
+        "region": "笈多帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "蒂亚瓦纳科文化兴起",
+        "description": "安第斯山脉高原的蒂亚瓦纳科文化开始建造巨石建筑。",
+        "latitude": -16.6,
+        "longitude": -68.7,
+        "category": "文化",
+        "region": "蒂亚瓦纳科",
+        "continent": "南美洲"
+      },
+      {
+        "title": "笈多帝国建立",
+        "description": "旃陀罗笈多一世建立笈多帝国，印度进入黄金时代。",
+        "latitude": 25.0,
+        "longitude": 82.0,
+        "category": "政治",
+        "region": "笈多帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "古印度梵剧",
+        "description": "戏剧理论。",
+        "latitude": 23.0,
+        "longitude": 78.0,
+        "category": "文学",
+        "region": "古印度",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 321,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋元帝司马睿", "era": "太兴四年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋元帝司马睿",
+        "era": "太兴四年"
+      }
     ],
     "events": [
-      { "title": "祖逖北伐失败忧愤而死", "description": "祖逖在河南与石勒对峙多年，已收复黄河以南大片土地。但晋元帝司马睿担心祖逖功高震主，派戴渊为都督节制祖逖。祖逖见朝廷猜忌、北伐事业受阻，忧愤成疾，病逝于雍丘，终年五十六岁。河南地区不久重归后赵。", "latitude": 34.500, "longitude": 114.500, "category": "军事", "region": "东晋", "continent": "亚洲" },
-      { "title": "石勒统一北方大部", "description": "祖逖病逝后，石勒趁势南下占领了河南全境。后赵的疆域东到大海、西到河东、南到淮河、北到幽州，成为当时北方最强大的政权。石勒推行胡汉分治政策。", "latitude": 37.000, "longitude": 114.500, "category": "军事", "region": "后赵", "continent": "亚洲" },
-      { "title": "王敦起兵攻入建康", "description": "东晋大将军王敦以诛杀刘隗、刁协为名，从武昌起兵顺江东下进攻建康。晋元帝派兵抵抗但大败，建康被攻破。王敦放纵士兵烧杀抢掠，自己则退驻武昌遥控朝政。晋元帝被迫任命王敦为丞相。", "latitude": 32.060, "longitude": 118.740, "category": "军事", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "祖逖北伐失败忧愤而死",
+        "description": "祖逖在河南与石勒对峙多年，已收复黄河以南大片土地。但晋元帝司马睿担心祖逖功高震主，派戴渊为都督节制祖逖。祖逖见朝廷猜忌、北伐事业受阻，忧愤成疾，病逝于雍丘，终年五十六岁。河南地区不久重归后赵。",
+        "latitude": 34.5,
+        "longitude": 114.5,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "石勒统一北方大部",
+        "description": "祖逖病逝后，石勒趁势南下占领了河南全境。后赵的疆域东到大海、西到河东、南到淮河、北到幽州，成为当时北方最强大的政权。石勒推行胡汉分治政策。",
+        "latitude": 37.0,
+        "longitude": 114.5,
+        "category": "军事",
+        "region": "后赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "王敦起兵攻入建康",
+        "description": "东晋大将军王敦以诛杀刘隗、刁协为名，从武昌起兵顺江东下进攻建康。晋元帝派兵抵抗但大败，建康被攻破。王敦放纵士兵烧杀抢掠，自己则退驻武昌遥控朝政。晋元帝被迫任命王敦为丞相。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦丁立法礼拜日休息",
+        "description": "君士坦丁颁布法律星期日为休息日。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 322,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋元帝司马睿", "era": "永昌元年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋元帝司马睿",
+        "era": "永昌元年"
+      }
     ],
     "events": [
-      { "title": "晋元帝司马睿忧愤而死", "description": "晋元帝司马睿因王敦之乱后郁郁寡欢，在忧愤中病逝，终年四十七岁。太子司马绍继位，是为晋明帝。司马绍自幼聪明过人，有'长安日远'的美谈，继位后决心铲除王氏势力。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" },
-      { "title": "王敦再次谋反", "description": "王敦见晋明帝年轻有为，担心自己权势不保，从姑孰（今安徽当涂）再次起兵。王敦此次病重，由其兄王含和党羽钱凤指挥军队。晋明帝亲临前线督战。", "latitude": 32.060, "longitude": 118.740, "category": "军事", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "晋元帝司马睿忧愤而死",
+        "description": "晋元帝司马睿因王敦之乱后郁郁寡欢，在忧愤中病逝，终年四十七岁。太子司马绍继位，是为晋明帝。司马绍自幼聪明过人，有'长安日远'的美谈，继位后决心铲除王氏势力。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "王敦再次谋反",
+        "description": "王敦见晋明帝年轻有为，担心自己权势不保，从姑孰（今安徽当涂）再次起兵。王敦此次病重，由其兄王含和党羽钱凤指挥军队。晋明帝亲临前线督战。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦丁击败哥特人",
+        "description": "君士坦丁在多瑙河击败哥特人。",
+        "latitude": 44.0,
+        "longitude": 27.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 323,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋明帝司马绍", "era": "太宁元年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋明帝司马绍",
+        "era": "太宁元年"
+      }
     ],
     "events": [
-      { "title": "王敦之乱平定", "description": "王敦在武昌病重去世，其党羽钱凤、沈充等率军与晋军交战。晋明帝派温峤、庾亮等率军迎战。王含、钱凤等先后兵败被杀。王敦被剖棺戮尸，王氏势力遭受重创。但晋明帝没有扩大打击面，王导等人继续留任。", "latitude": 32.060, "longitude": 118.740, "category": "军事", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "王敦之乱平定",
+        "description": "王敦在武昌病重去世，其党羽钱凤、沈充等率军与晋军交战。晋明帝派温峤、庾亮等率军迎战。王含、钱凤等先后兵败被杀。王敦被剖棺戮尸，王氏势力遭受重创。但晋明帝没有扩大打击面，王导等人继续留任。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦丁统一全帝国",
+        "description": "君士坦丁击败李锡尼成为唯一奥古斯都。",
+        "latitude": 42.0,
+        "longitude": 27.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 324,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋明帝司马绍", "era": "太宁二年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋明帝司马绍",
+        "era": "太宁二年"
+      }
     ],
     "events": [
-      { "title": "前赵刘曜灭前赵？不，前赵和后赵对峙", "description": "前赵刘曜率军进攻后赵石勒，在洛阳附近与石虎交战。这场战役前赵失利，刘曜退回关中。前赵和后赵形成了长期对峙的局面。", "latitude": 34.682, "longitude": 112.470, "category": "军事", "region": "前赵", "continent": "亚洲" },
-      { "title": "君士坦丁重建拜占庭", "description": "君士坦丁大帝决定在古希腊城市拜占庭的旧址上建立新都。他亲自勘定城址，将城墙向外扩展数里。新都城建设宏大，动用了数万名工人，从帝国各地运来雕塑和建材。", "latitude": 41.010, "longitude": 28.980, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "前赵刘曜灭前赵？不，前赵和后赵对峙",
+        "description": "前赵刘曜率军进攻后赵石勒，在洛阳附近与石虎交战。这场战役前赵失利，刘曜退回关中。前赵和后赵形成了长期对峙的局面。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "军事",
+        "region": "前赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦丁重建拜占庭",
+        "description": "君士坦丁大帝决定在古希腊城市拜占庭的旧址上建立新都。他亲自勘定城址，将城墙向外扩展数里。新都城建设宏大，动用了数万名工人，从帝国各地运来雕塑和建材。",
+        "latitude": 41.01,
+        "longitude": 28.98,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "君士坦丁堡奠基",
+        "description": "君士坦丁在拜占庭旧址举行新都奠基礼。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 325,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋明帝司马绍", "era": "太宁三年" },
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋成帝司马衍", "era": "咸和元年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋明帝司马绍",
+        "era": "太宁三年"
+      },
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋成帝司马衍",
+        "era": "咸和元年"
+      }
     ],
     "events": [
-      { "title": "晋明帝病逝，晋成帝继位", "description": "晋明帝司马绍病逝，年仅二十七岁。五岁的太子司马衍继位，是为晋成帝。太后庾文君临朝听政，庾亮以国舅身份执政。庾亮年轻气盛、用法严峻，引起朝中广泛不满。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" },
-      { "title": "前赵刘曜攻打凉州", "description": "前赵刘曜率军攻打前凉张茂。张茂见前赵势大，被迫遣使称藩。刘曜封张茂为凉王，前凉名义上成为前赵的附属国。但张氏在凉州的实际统治地位未受影响。", "latitude": 36.000, "longitude": 103.800, "category": "军事", "region": "前赵", "continent": "亚洲" }
+      {
+        "title": "晋明帝病逝，晋成帝继位",
+        "description": "晋明帝司马绍病逝，年仅二十七岁。五岁的太子司马衍继位，是为晋成帝。太后庾文君临朝听政，庾亮以国舅身份执政。庾亮年轻气盛、用法严峻，引起朝中广泛不满。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "前赵刘曜攻打凉州",
+        "description": "前赵刘曜率军攻打前凉张茂。张茂见前赵势大，被迫遣使称藩。刘曜封张茂为凉王，前凉名义上成为前赵的附属国。但张氏在凉州的实际统治地位未受影响。",
+        "latitude": 36.0,
+        "longitude": 103.8,
+        "category": "军事",
+        "region": "前赵",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 326,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋成帝司马衍", "era": "咸和二年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋成帝司马衍",
+        "era": "咸和二年"
+      }
     ],
     "events": [
-      { "title": "庾亮专权激化矛盾", "description": "庾亮执政后雷厉风行地整肃朝纲，罢免和诛杀了一批大臣。他对握有重兵的历阳内史苏峻和豫州刺史祖约（祖逖之弟）采取了强硬态度，下令召苏峻入京。苏峻和祖约不满庾亮的排挤，密谋起兵反叛。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "庾亮专权激化矛盾",
+        "description": "庾亮执政后雷厉风行地整肃朝纲，罢免和诛杀了一批大臣。他对握有重兵的历阳内史苏峻和豫州刺史祖约（祖逖之弟）采取了强硬态度，下令召苏峻入京。苏峻和祖约不满庾亮的排挤，密谋起兵反叛。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦丁处死长子克里斯普斯",
+        "description": "君士坦丁因宫廷阴谋处死其子。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 327,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋成帝司马衍", "era": "咸和三年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋成帝司马衍",
+        "era": "咸和三年"
+      }
     ],
     "events": [
-      { "title": "苏峻祖约之乱爆发", "description": "苏峻联合祖约从历阳（今安徽和县）起兵反晋，声称'清君侧'诛杀庾亮。苏峻军队训练有素、战斗力极强，一路势如破竹攻向建康。庾亮派兵迎战但连战连败。", "latitude": 31.700, "longitude": 118.300, "category": "军事", "region": "东晋", "continent": "亚洲" },
-      { "title": "苏峻攻陷建康", "description": "苏峻叛军攻入建康，纵兵大肆烧杀抢掠。百官逃散，库藏被洗劫一空。庾亮逃往寻阳投奔温峤。苏峻挟持幼帝晋成帝，自任骠骑大将军、录尚书事。建康城遭受了比永嘉之乱更为惨重的破坏。", "latitude": 32.060, "longitude": 118.740, "category": "军事", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "苏峻祖约之乱爆发",
+        "description": "苏峻联合祖约从历阳（今安徽和县）起兵反晋，声称'清君侧'诛杀庾亮。苏峻军队训练有素、战斗力极强，一路势如破竹攻向建康。庾亮派兵迎战但连战连败。",
+        "latitude": 31.7,
+        "longitude": 118.3,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "苏峻攻陷建康",
+        "description": "苏峻叛军攻入建康，纵兵大肆烧杀抢掠。百官逃散，库藏被洗劫一空。庾亮逃往寻阳投奔温峤。苏峻挟持幼帝晋成帝，自任骠骑大将军、录尚书事。建康城遭受了比永嘉之乱更为惨重的破坏。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "石勒统一北方",
+        "description": "后赵石勒统一北方大部与东晋对峙。",
+        "latitude": 38.0,
+        "longitude": 114.0,
+        "category": "政治",
+        "region": "后赵",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 328,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋成帝司马衍", "era": "咸和四年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋成帝司马衍",
+        "era": "咸和四年"
+      }
     ],
     "events": [
-      { "title": "陶侃温峤平定苏峻之乱", "description": "荆州刺史陶侃和江州刺史温峤组织联军东下讨伐苏峻。联军在石头城（建康西郊）与苏峻展开激战。温峤用火攻烧毁了苏峻的粮草辎重。苏峻在出战途中醉酒坠马被杀。苏峻部将据守石头城继续抵抗。", "latitude": 32.060, "longitude": 118.740, "category": "军事", "region": "东晋", "continent": "亚洲" },
-      { "title": "陶侃平定余乱迎接成帝", "description": "苏峻死后，其弟苏逸和将领韩晃继续抵抗。陶侃率军攻破石头城，斩杀苏逸。晋成帝被从宫中救出后乘牛车回宫，建康宫阙已成废墟。陶侃因功被任命为太尉、长沙郡公。东晋政权度过了一次严重危机。", "latitude": 32.060, "longitude": 118.740, "category": "军事", "region": "东晋", "continent": "亚洲" },
-      { "title": "后赵石虎大败前赵", "description": "后赵石虎率军进攻前赵。前赵皇帝刘曜亲率大军迎战，在洛阳西郊与后赵军大战。刘曜在战前饮酒过多，战斗中马失前蹄被后赵所俘。石勒乘胜攻入关中，灭亡前赵。后赵统一了中国北方大部。", "latitude": 34.682, "longitude": 112.470, "category": "军事", "region": "后赵", "continent": "亚洲" }
+      {
+        "title": "陶侃温峤平定苏峻之乱",
+        "description": "荆州刺史陶侃和江州刺史温峤组织联军东下讨伐苏峻。联军在石头城（建康西郊）与苏峻展开激战。温峤用火攻烧毁了苏峻的粮草辎重。苏峻在出战途中醉酒坠马被杀。苏峻部将据守石头城继续抵抗。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "陶侃平定余乱迎接成帝",
+        "description": "苏峻死后，其弟苏逸和将领韩晃继续抵抗。陶侃率军攻破石头城，斩杀苏逸。晋成帝被从宫中救出后乘牛车回宫，建康宫阙已成废墟。陶侃因功被任命为太尉、长沙郡公。东晋政权度过了一次严重危机。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "后赵石虎大败前赵",
+        "description": "后赵石虎率军进攻前赵。前赵皇帝刘曜亲率大军迎战，在洛阳西郊与后赵军大战。刘曜在战前饮酒过多，战斗中马失前蹄被后赵所俘。石勒乘胜攻入关中，灭亡前赵。后赵统一了中国北方大部。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "军事",
+        "region": "后赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦丁堡城墙建设",
+        "description": "君士坦丁为新城建造城墙和宫殿。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "科技",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 329,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋成帝司马衍", "era": "咸和五年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋成帝司马衍",
+        "era": "咸和五年"
+      }
     ],
     "events": [
-      { "title": "后赵灭前赵统一北方", "description": "石勒在灭前赵后基本统一了中国北方。后赵的疆域空前广阔，黄河中下游和关中地区尽归石勒。石勒在襄国称帝，改元建平。他是十六国时期第一位统一北方的少数民族君主。", "latitude": 37.000, "longitude": 114.500, "category": "政治", "region": "后赵", "continent": "亚洲" },
-      { "title": "石勒称帝大封群臣", "description": "石勒在襄国正式即皇帝位，立世子石弘为太子。石勒虽不识字但重视文教，常令儒生读《汉书》给他听。他推行胡汉分治政策，以'国人'（羯族）为统治核心。后赵达到鼎盛时期。", "latitude": 37.000, "longitude": 114.500, "category": "政治", "region": "后赵", "continent": "亚洲" }
+      {
+        "title": "后赵灭前赵统一北方",
+        "description": "石勒在灭前赵后基本统一了中国北方。后赵的疆域空前广阔，黄河中下游和关中地区尽归石勒。石勒在襄国称帝，改元建平。他是十六国时期第一位统一北方的少数民族君主。",
+        "latitude": 37.0,
+        "longitude": 114.5,
+        "category": "政治",
+        "region": "后赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "石勒称帝大封群臣",
+        "description": "石勒在襄国正式即皇帝位，立世子石弘为太子。石勒虽不识字但重视文教，常令儒生读《汉书》给他听。他推行胡汉分治政策，以'国人'（羯族）为统治核心。后赵达到鼎盛时期。",
+        "latitude": 37.0,
+        "longitude": 114.5,
+        "category": "政治",
+        "region": "后赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马帝国迁都君士坦丁堡",
+        "description": "君士坦丁正式迁都至君士坦丁堡。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 330,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋成帝司马衍", "era": "咸和六年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋成帝司马衍",
+        "era": "咸和六年"
+      }
     ],
     "events": [
-      { "title": "君士坦丁大帝迁都新罗马", "description": "君士坦丁大帝在拜占庭旧址上建成新都，正式将其命名为'新罗马'（即君士坦丁堡，今伊斯坦布尔）。新都规模宏大、城防坚固，拥有皇宫、元老院议事厅、竞技场和众多教堂。君士坦丁堡成为罗马帝国东部的新政治中心。", "latitude": 41.010, "longitude": 28.980, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "君士坦丁大帝迁都新罗马",
+        "description": "君士坦丁大帝在拜占庭旧址上建成新都，正式将其命名为'新罗马'（即君士坦丁堡，今伊斯坦布尔）。新都规模宏大、城防坚固，拥有皇宫、元老院议事厅、竞技场和众多教堂。君士坦丁堡成为罗马帝国东部的新政治中心。",
+        "latitude": 41.01,
+        "longitude": 28.98,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "君士坦丁堡正式启用",
+        "description": "君士坦丁堡举行盛大落成典礼。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "君士坦丁堡赛马场",
+        "description": "赛车。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "体育",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 331,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋成帝司马衍", "era": "咸和七年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋成帝司马衍",
+        "era": "咸和七年"
+      }
     ],
     "events": [
-      { "title": "后赵石勒致力文教", "description": "石勒在襄国设立太学，选派文武官员子弟入学。他虽出身奴隶不识字，但非常重视儒家教育。石勒亲自到太学考试学生，按成绩优劣给予赏赐。后赵在石勒的统治下呈现出少见的安定局面。", "latitude": 37.000, "longitude": 114.500, "category": "文化", "region": "后赵", "continent": "亚洲" }
+      {
+        "title": "后赵石勒致力文教",
+        "description": "石勒在襄国设立太学，选派文武官员子弟入学。他虽出身奴隶不识字，但非常重视儒家教育。石勒亲自到太学考试学生，按成绩优劣给予赏赐。后赵在石勒的统治下呈现出少见的安定局面。",
+        "latitude": 37.0,
+        "longitude": 114.5,
+        "category": "文化",
+        "region": "后赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "东晋北伐祖逖",
+        "description": "祖逖率军北伐收复黄河以南领土。",
+        "latitude": 35.0,
+        "longitude": 114.0,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 332,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋成帝司马衍", "era": "咸和八年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋成帝司马衍",
+        "era": "咸和八年"
+      }
     ],
     "events": [
-      { "title": "陶侃功高望重", "description": "陶侃因平定苏峻之乱被任命为丞相，但他多次辞让不受。陶侃在广州时曾'朝夕运百甓'以锻炼意志，为政勤勉、事必躬亲。他主张惜阴，留下了'大禹圣者乃惜寸阴，至于众人当惜分阴'的名言。", "latitude": 23.100, "longitude": 113.200, "category": "政治", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "陶侃功高望重",
+        "description": "陶侃因平定苏峻之乱被任命为丞相，但他多次辞让不受。陶侃在广州时曾'朝夕运百甓'以锻炼意志，为政勤勉、事必躬亲。他主张惜阴，留下了'大禹圣者乃惜寸阴，至于众人当惜分阴'的名言。",
+        "latitude": 23.1,
+        "longitude": 113.2,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦丁鼓励基督教化",
+        "description": "君士坦丁推动基督教在帝国范围内传播。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "宗教",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 333,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋成帝司马衍", "era": "咸和九年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋成帝司马衍",
+        "era": "咸和九年"
+      }
     ],
     "events": [
-      { "title": "后赵石勒病逝，石虎夺权", "description": "后赵皇帝石勒病逝。太子石弘继位，但大权被石勒的侄子石虎掌握。石虎是石勒麾下最勇猛的将领，残忍好杀。他废黜石弘自立为帝，并将石弘及石勒的其他子孙全部杀害。", "latitude": 37.000, "longitude": 114.500, "category": "政治", "region": "后赵", "continent": "亚洲" },
-      { "title": "陶侃病逝", "description": "东晋名臣陶侃病逝，终年七十六岁。陶侃是东晋初期最重要的将领和政治家，先后平定张昌之乱、王敦之乱、苏峻之乱。他勤政爱民、清廉自守，被誉为淝水之战前东晋最杰出的军事家。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "后赵石勒病逝，石虎夺权",
+        "description": "后赵皇帝石勒病逝。太子石弘继位，但大权被石勒的侄子石虎掌握。石虎是石勒麾下最勇猛的将领，残忍好杀。他废黜石弘自立为帝，并将石弘及石勒的其他子孙全部杀害。",
+        "latitude": 37.0,
+        "longitude": 114.5,
+        "category": "政治",
+        "region": "后赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "陶侃病逝",
+        "description": "东晋名臣陶侃病逝，终年七十六岁。陶侃是东晋初期最重要的将领和政治家，先后平定张昌之乱、王敦之乱、苏峻之乱。他勤政爱民、清廉自守，被誉为淝水之战前东晋最杰出的军事家。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "萨珊与罗马边境冲突",
+        "description": "萨珊帝国沙普尔二世与罗马在美索不达米亚作战。",
+        "latitude": 35.0,
+        "longitude": 42.0,
+        "category": "军事",
+        "region": "萨珊帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 334,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋成帝司马衍", "era": "咸康元年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋成帝司马衍",
+        "era": "咸康元年"
+      }
     ],
     "events": [
-      { "title": "石虎凶残暴虐统治后赵", "description": "石虎正式称帝后将都城迁至邺城（今河北临漳）。石虎是中国历史上最残暴的君主之一，大兴土木修建宫室苑囿，征发民夫数十万。他还穷兵黩武连年征战，百姓苦不堪言。后赵国力虽强但民心尽失。", "latitude": 36.300, "longitude": 114.500, "category": "政治", "region": "后赵", "continent": "亚洲" },
-      { "title": "成汉李雄去世", "description": "成汉皇帝李雄病逝。李雄在位三十年，是成汉政权的奠基人。他为人宽厚、生活简朴，注重发展蜀地经济。李雄去世后其子李班继位，不久被李雄之子李期杀害。成汉开始走向衰落。", "latitude": 30.600, "longitude": 104.100, "category": "政治", "region": "成汉", "continent": "亚洲" }
+      {
+        "title": "石虎凶残暴虐统治后赵",
+        "description": "石虎正式称帝后将都城迁至邺城（今河北临漳）。石虎是中国历史上最残暴的君主之一，大兴土木修建宫室苑囿，征发民夫数十万。他还穷兵黩武连年征战，百姓苦不堪言。后赵国力虽强但民心尽失。",
+        "latitude": 36.3,
+        "longitude": 114.5,
+        "category": "政治",
+        "region": "后赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "成汉李雄去世",
+        "description": "成汉皇帝李雄病逝。李雄在位三十年，是成汉政权的奠基人。他为人宽厚、生活简朴，注重发展蜀地经济。李雄去世后其子李班继位，不久被李雄之子李期杀害。成汉开始走向衰落。",
+        "latitude": 30.6,
+        "longitude": 104.1,
+        "category": "政治",
+        "region": "成汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦丁北方边境防御",
+        "description": "君士坦丁在多瑙河和莱茵河加强防御。",
+        "latitude": 48.0,
+        "longitude": 15.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 335,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋成帝司马衍", "era": "咸康二年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋成帝司马衍",
+        "era": "咸康二年"
+      }
     ],
     "events": [
-      { "title": "石虎大建邺城宫室", "description": "石虎在邺城大举兴建华丽的宫殿和苑囿，包括太武殿、晖华殿、凌霄台等建筑。石虎还在邺城与襄国之间修建数十处行宫。这些工程耗费了难以计数的人力和物力，百姓苦不堪言。", "latitude": 36.300, "longitude": 114.500, "category": "社会", "region": "后赵", "continent": "亚洲" }
+      {
+        "title": "石虎大建邺城宫室",
+        "description": "石虎在邺城大举兴建华丽的宫殿和苑囿，包括太武殿、晖华殿、凌霄台等建筑。石虎还在邺城与襄国之间修建数十处行宫。这些工程耗费了难以计数的人力和物力，百姓苦不堪言。",
+        "latitude": 36.3,
+        "longitude": 114.5,
+        "category": "社会",
+        "region": "后赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦丁分封诸子",
+        "description": "君士坦丁在去世前将帝国分给三个儿子。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 336,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋成帝司马衍", "era": "咸康三年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋成帝司马衍",
+        "era": "咸康三年"
+      }
     ],
     "events": [
-      { "title": "东晋推行土断政策", "description": "东晋朝廷开始推行土断政策，将南渡的侨置郡县并入当地的行政体系，核实户口、整顿户籍。此举增加了朝廷的财政收入，但也引起了侨姓士族的不满。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "东晋推行土断政策",
+        "description": "东晋朝廷开始推行土断政策，将南渡的侨置郡县并入当地的行政体系，核实户口、整顿户籍。此举增加了朝廷的财政收入，但也引起了侨姓士族的不满。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿里乌斯派争议持续",
+        "description": "基督教内部关于基督神性争议激烈。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "宗教",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 337,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋成帝司马衍", "era": "咸康四年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋成帝司马衍",
+        "era": "咸康四年"
+      }
     ],
     "events": [
-      { "title": "慕容皝称燕王建立前燕", "description": "鲜卑慕容部首领慕容皝在辽东称燕王，建立前燕政权。慕容皝迁都龙城（今辽宁朝阳），大力发展农业和畜牧业，推崇汉文化。前燕成为东北地区最强大的政权。", "latitude": 41.600, "longitude": 120.400, "category": "政治", "region": "前燕", "continent": "亚洲" },
-      { "title": "阿克苏姆王国埃扎纳统治", "description": "东非阿克苏姆王国国王埃扎纳在位。他征服了库施王国（麦罗埃），将阿克苏姆的疆域扩张到最大。埃扎纳皈依基督教，使阿克苏姆成为世界上最早的基督教国家之一。", "latitude": 14.100, "longitude": 38.700, "category": "政治", "region": "阿克苏姆", "continent": "非洲" }
+      {
+        "title": "慕容皝称燕王建立前燕",
+        "description": "鲜卑慕容部首领慕容皝在辽东称燕王，建立前燕政权。慕容皝迁都龙城（今辽宁朝阳），大力发展农业和畜牧业，推崇汉文化。前燕成为东北地区最强大的政权。",
+        "latitude": 41.6,
+        "longitude": 120.4,
+        "category": "政治",
+        "region": "前燕",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿克苏姆王国埃扎纳统治",
+        "description": "东非阿克苏姆王国国王埃扎纳在位。他征服了库施王国（麦罗埃），将阿克苏姆的疆域扩张到最大。埃扎纳皈依基督教，使阿克苏姆成为世界上最早的基督教国家之一。",
+        "latitude": 14.1,
+        "longitude": 38.7,
+        "category": "政治",
+        "region": "阿克苏姆",
+        "continent": "非洲"
+      },
+      {
+        "title": "君士坦丁大帝去世",
+        "description": "君士坦丁在尼科米底亚病逝。",
+        "latitude": 40.8,
+        "longitude": 29.9,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 338,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋成帝司马衍", "era": "咸康五年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋成帝司马衍",
+        "era": "咸康五年"
+      }
     ],
     "events": [
-      { "title": "拓跋什翼犍建立代国", "description": "鲜卑拓跋部首领拓跋什翼犍在繁畤（今山西浑源）北即代王位，改元建国，重建代国。什翼犍曾在后赵当质子，学习中原制度。他设置百官、制定法律，拓跋部开始从部落联盟向国家过渡。", "latitude": 39.700, "longitude": 113.700, "category": "政治", "region": "代国", "continent": "亚洲" },
-      { "title": "石虎攻打前燕失败", "description": "石虎亲率数十万大军攻打前燕。燕王慕容皝在棘城（今辽宁义县）坚守。石虎军队久攻不下，又赶上大雪和瘟疫被迫退军。前燕的军事实力在这次战役中得到验证。", "latitude": 41.500, "longitude": 121.000, "category": "军事", "region": "后赵", "continent": "亚洲" }
+      {
+        "title": "拓跋什翼犍建立代国",
+        "description": "鲜卑拓跋部首领拓跋什翼犍在繁畤（今山西浑源）北即代王位，改元建国，重建代国。什翼犍曾在后赵当质子，学习中原制度。他设置百官、制定法律，拓跋部开始从部落联盟向国家过渡。",
+        "latitude": 39.7,
+        "longitude": 113.7,
+        "category": "政治",
+        "region": "代国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "石虎攻打前燕失败",
+        "description": "石虎亲率数十万大军攻打前燕。燕王慕容皝在棘城（今辽宁义县）坚守。石虎军队久攻不下，又赶上大雪和瘟疫被迫退军。前燕的军事实力在这次战役中得到验证。",
+        "latitude": 41.5,
+        "longitude": 121.0,
+        "category": "军事",
+        "region": "后赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦丁二世继位失败",
+        "description": "君士坦丁二世在争位中被杀。",
+        "latitude": 40.0,
+        "longitude": 25.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 339,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋成帝司马衍", "era": "咸康六年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋成帝司马衍",
+        "era": "咸康六年"
+      }
     ],
     "events": [
-      { "title": "庾亮北伐失败", "description": "东晋征西将军庾亮在武昌部署北伐，准备收复中原。庾亮派梁州刺史司马勋和江夏相陈嚣兴等分路进攻前赵残余势力和后赵。但因协调不力、后勤不继，北伐进展有限，最终无功而返。", "latitude": 30.500, "longitude": 114.300, "category": "军事", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "庾亮北伐失败",
+        "description": "东晋征西将军庾亮在武昌部署北伐，准备收复中原。庾亮派梁州刺史司马勋和江夏相陈嚣兴等分路进攻前赵残余势力和后赵。但因协调不力、后勤不继，北伐进展有限，最终无功而返。",
+        "latitude": 30.5,
+        "longitude": 114.3,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦提乌斯二世立为东帝",
+        "description": "君士坦提乌斯二世控制东方帝国。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 340,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋成帝司马衍", "era": "咸康七年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋成帝司马衍",
+        "era": "咸康七年"
+      }
     ],
     "events": [
-      { "title": "王导病逝", "description": "东晋丞相王导病逝，终年六十四岁。王导是东晋政权的实际缔造者，辅佐元、明、成三帝。他在位期间调和南北士族矛盾、稳定政局，为东晋的百年基业奠定了基础。王导之死标志着'王与马共天下'时代的结束。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" },
-      { "title": "君士坦丁大帝的政治改革", "description": "君士坦丁大帝继续推行全面改革。他重组了罗马帝国的行政体系，将帝国划分为四大行政区（东方、伊利里亚、意大利和高卢），下设行省。他还改革了货币制度，铸造了名为'索利都斯'的金币，该金币成为中世纪欧洲的标准货币。", "latitude": 41.010, "longitude": 28.980, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "王导病逝",
+        "description": "东晋丞相王导病逝，终年六十四岁。王导是东晋政权的实际缔造者，辅佐元、明、成三帝。他在位期间调和南北士族矛盾、稳定政局，为东晋的百年基业奠定了基础。王导之死标志着'王与马共天下'时代的结束。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦丁大帝的政治改革",
+        "description": "君士坦丁大帝继续推行全面改革。他重组了罗马帝国的行政体系，将帝国划分为四大行政区（东方、伊利里亚、意大利和高卢），下设行省。他还改革了货币制度，铸造了名为'索利都斯'的金币，该金币成为中世纪欧洲的标准货币。",
+        "latitude": 41.01,
+        "longitude": 28.98,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "萨珊大规模迫害基督徒",
+        "description": "沙普尔二世因基督教与罗马亲近而迫害波斯基督徒。",
+        "latitude": 35.0,
+        "longitude": 45.0,
+        "category": "宗教",
+        "region": "萨珊帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "萨珊波斯艺术",
+        "description": "银器。",
+        "latitude": 32.0,
+        "longitude": 52.0,
+        "category": "艺术",
+        "region": "萨珊帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 341,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋成帝司马衍", "era": "咸康八年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋成帝司马衍",
+        "era": "咸康八年"
+      }
     ],
     "events": [
-      { "title": "东晋侨置郡县整顿", "description": "东晋朝廷继续推行土断和侨置郡县整顿工作。大量南渡的北方侨民被纳入当地户籍管理制度。此举增加了朝廷的赋税收入，但也引起了侨姓士族的抵触。这项政策为后来桓温的庚戌土断奠定了基础。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "东晋侨置郡县整顿",
+        "description": "东晋朝廷继续推行土断和侨置郡县整顿工作。大量南渡的北方侨民被纳入当地户籍管理制度。此举增加了朝廷的赋税收入，但也引起了侨姓士族的抵触。这项政策为后来桓温的庚戌土断奠定了基础。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "哥特人接受基督教",
+        "description": "乌尔菲拉将圣经译成哥特语在哥特人中传教。",
+        "latitude": 45.0,
+        "longitude": 28.0,
+        "category": "宗教",
+        "region": "哥特人",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 342,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋康帝司马岳", "era": "建元元年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋康帝司马岳",
+        "era": "建元元年"
+      }
     ],
     "events": [
-      { "title": "晋成帝去世，晋康帝继位", "description": "晋成帝司马衍病逝，终年二十二岁。成帝临终前将皇位传给弟弟司马岳，是为晋康帝。康帝任命庾冰、庾翼辅政。庾氏家族继续垄断东晋朝政。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "晋成帝去世，晋康帝继位",
+        "description": "晋成帝司马衍病逝，终年二十二岁。成帝临终前将皇位传给弟弟司马岳，是为晋康帝。康帝任命庾冰、庾翼辅政。庾氏家族继续垄断东晋朝政。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦提乌斯与波斯战争",
+        "description": "罗马与萨珊在美索不达米亚边境交战。",
+        "latitude": 35.0,
+        "longitude": 42.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 343,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋康帝司马岳", "era": "建元二年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋康帝司马岳",
+        "era": "建元二年"
+      }
     ],
     "events": [
-      { "title": "庾翼准备北伐", "description": "东晋荆州都督庾翼在襄阳大规模整军备战，准备北伐后赵。他修缮城池、打造兵器、招募流民。庾翼以'灭胡平蜀'为己任，志在恢复中原。但东晋朝廷内部对北伐意见不一。", "latitude": 32.000, "longitude": 112.200, "category": "军事", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "庾翼准备北伐",
+        "description": "东晋荆州都督庾翼在襄阳大规模整军备战，准备北伐后赵。他修缮城池、打造兵器、招募流民。庾翼以'灭胡平蜀'为己任，志在恢复中原。但东晋朝廷内部对北伐意见不一。",
+        "latitude": 32.0,
+        "longitude": 112.2,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "第一次尼西亚会议确认",
+        "description": "君士坦提乌斯二世坚持阿里乌斯派立场。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "宗教",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 344,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋穆帝司马聃", "era": "永和元年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋穆帝司马聃",
+        "era": "永和元年"
+      }
     ],
     "events": [
-      { "title": "晋康帝去世，晋穆帝继位", "description": "晋康帝司马岳在位仅两年即病逝，终年二十三岁。年仅两岁的太子司马聃继位，是为晋穆帝。褚太后临朝听政，会稽王司马昱（后来的晋简文帝）和殷浩辅政。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "晋康帝去世，晋穆帝继位",
+        "description": "晋康帝司马岳在位仅两年即病逝，终年二十三岁。年仅两岁的太子司马聃继位，是为晋穆帝。褚太后临朝听政，会稽王司马昱（后来的晋简文帝）和殷浩辅政。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "东晋与北方政权对峙",
+        "description": "东晋偏安江南，北方政权更替频繁。",
+        "latitude": 32.1,
+        "longitude": 118.8,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 345,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋穆帝司马聃", "era": "永和二年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋穆帝司马聃",
+        "era": "永和二年"
+      }
     ],
     "events": [
-      { "title": "桓温出任荆州刺史", "description": "桓温被任命为荆州刺史，成为长江上游的实际统治者。桓温是东晋名将，善于用兵、胸怀大志。他决心以荆州为基地建立自己的功业，为日后北伐和篡位积累资本。", "latitude": 30.400, "longitude": 112.200, "category": "政治", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "桓温出任荆州刺史",
+        "description": "桓温被任命为荆州刺史，成为长江上游的实际统治者。桓温是东晋名将，善于用兵、胸怀大志。他决心以荆州为基地建立自己的功业，为日后北伐和篡位积累资本。",
+        "latitude": 30.4,
+        "longitude": 112.2,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "沙普尔二世攻占罗马要塞",
+        "description": "萨珊军队在美索不达米亚取得进展。",
+        "latitude": 35.0,
+        "longitude": 42.0,
+        "category": "军事",
+        "region": "萨珊帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "中国书法艺术",
+        "description": "王羲之。",
+        "latitude": 32.0,
+        "longitude": 120.0,
+        "category": "书法",
+        "region": "东晋",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 346,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋穆帝司马聃", "era": "永和三年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋穆帝司马聃",
+        "era": "永和三年"
+      }
     ],
     "events": [
-      { "title": "桓温伐蜀灭成汉", "description": "桓温率军沿长江西上讨伐成汉。他兵分三路，自己率主力直取成都。成汉皇帝李势派军迎战，在笮桥被桓温击败。桓温攻入成都，李势出降。成汉灭亡，立国四十三年。桓温声名大噪，被封为征西大将军。", "latitude": 30.600, "longitude": 104.100, "category": "军事", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "桓温伐蜀灭成汉",
+        "description": "桓温率军沿长江西上讨伐成汉。他兵分三路，自己率主力直取成都。成汉皇帝李势派军迎战，在笮桥被桓温击败。桓温攻入成都，李势出降。成汉灭亡，立国四十三年。桓温声名大噪，被封为征西大将军。",
+        "latitude": 30.6,
+        "longitude": 104.1,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马东方防御体系调整",
+        "description": "君士坦提乌斯加强叙利亚和美索不达米亚驻军。",
+        "latitude": 36.0,
+        "longitude": 37.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 347,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋穆帝司马聃", "era": "永和四年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋穆帝司马聃",
+        "era": "永和四年"
+      }
     ],
     "events": [
-      { "title": "东晋完全控制巴蜀", "description": "桓温灭成汉后，东晋完全控制了巴蜀地区。东晋朝廷派周抚为益州刺史镇守蜀地。巴蜀并入东晋版图大大增强了东晋的国力和战略纵深。桓温因灭蜀之功名震天下。", "latitude": 30.600, "longitude": 104.100, "category": "政治", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "东晋完全控制巴蜀",
+        "description": "桓温灭成汉后，东晋完全控制了巴蜀地区。东晋朝廷派周抚为益州刺史镇守蜀地。巴蜀并入东晋版图大大增强了东晋的国力和战略纵深。桓温因灭蜀之功名震天下。",
+        "latitude": 30.6,
+        "longitude": 104.1,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "前秦苻洪率部迁徙",
+        "description": "氐人苻洪率部迁居中原。",
+        "latitude": 35.0,
+        "longitude": 110.0,
+        "category": "政治",
+        "region": "前秦",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 348,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋穆帝司马聃", "era": "永和五年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋穆帝司马聃",
+        "era": "永和五年"
+      }
     ],
     "events": [
-      { "title": "前燕慕容皝去世", "description": "前燕王慕容皝病逝，其子慕容儁继位。慕容皝在位期间前燕迅速崛起，统一了辽东和辽西地区。慕容儁是慕容皝的次子，文武双全。他继位后进一步扩张前燕的势力。", "latitude": 41.600, "longitude": 120.400, "category": "政治", "region": "前燕", "continent": "亚洲" }
+      {
+        "title": "前燕慕容皝去世",
+        "description": "前燕王慕容皝病逝，其子慕容儁继位。慕容皝在位期间前燕迅速崛起，统一了辽东和辽西地区。慕容儁是慕容皝的次子，文武双全。他继位后进一步扩张前燕的势力。",
+        "latitude": 41.6,
+        "longitude": 120.4,
+        "category": "政治",
+        "region": "前燕",
+        "continent": "亚洲"
+      },
+      {
+        "title": "印度佛教与印度教发展",
+        "description": "笈多帝国同时支持佛教和印度教发展。",
+        "latitude": 25.0,
+        "longitude": 82.0,
+        "category": "宗教",
+        "region": "笈多帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 349,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋穆帝司马聃", "era": "永和六年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋穆帝司马聃",
+        "era": "永和六年"
+      }
     ],
     "events": [
-      { "title": "后赵石虎去世，诸子争位", "description": "后赵皇帝石虎病逝，终年约五十四岁。石虎死后诸子争位，后赵陷入大乱。太子石世继位仅三十三天就被其兄石遵杀害。石遵在位不到半年又被石鉴杀害。后赵宫廷政变不断，国力迅速衰落。", "latitude": 36.300, "longitude": 114.500, "category": "政治", "region": "后赵", "continent": "亚洲" },
-      { "title": "冉闵崭露头角", "description": "冉闵（石闵）作为石虎的养孙在后赵宫廷政变中崭露头角。他先后拥立石遵和石鉴，掌握了后赵的军政大权。冉闵是汉族人，他深感羯族对汉族百姓的压迫，暗中积蓄力量准备政变。", "latitude": 36.300, "longitude": 114.500, "category": "政治", "region": "后赵", "continent": "亚洲" }
+      {
+        "title": "后赵石虎去世，诸子争位",
+        "description": "后赵皇帝石虎病逝，终年约五十四岁。石虎死后诸子争位，后赵陷入大乱。太子石世继位仅三十三天就被其兄石遵杀害。石遵在位不到半年又被石鉴杀害。后赵宫廷政变不断，国力迅速衰落。",
+        "latitude": 36.3,
+        "longitude": 114.5,
+        "category": "政治",
+        "region": "后赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "冉闵崭露头角",
+        "description": "冉闵（石闵）作为石虎的养孙在后赵宫廷政变中崭露头角。他先后拥立石遵和石鉴，掌握了后赵的军政大权。冉闵是汉族人，他深感羯族对汉族百姓的压迫，暗中积蓄力量准备政变。",
+        "latitude": 36.3,
+        "longitude": 114.5,
+        "category": "政治",
+        "region": "后赵",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马帝国日耳曼雇佣军",
+        "description": "罗马军队中日耳曼人比例日益增高。",
+        "latitude": 45.0,
+        "longitude": 20.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 350,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋穆帝司马聃", "era": "永和七年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋穆帝司马聃",
+        "era": "永和七年"
+      }
     ],
     "events": [
-      { "title": "冉闵杀胡称帝建立冉魏", "description": "冉闵在邺城发动政变，杀死后赵皇帝石鉴和大量羯族权贵。冉闵自称皇帝，改元永兴，国号魏，史称冉魏。他颁布著名的'杀胡令'，号召汉人屠杀胡人。邺城内外羯族被杀二十余万人，后赵政权彻底崩溃。", "latitude": 36.300, "longitude": 114.500, "category": "政治", "region": "冉魏", "continent": "亚洲" },
-      { "title": "苻健建立前秦", "description": "氐族首领苻健率部西入关中，攻占长安后称天王、大单于，建立前秦政权。苻健是苻洪之子，为人宽厚、善于用人。他废除石虎的暴政、减税安民，关中百姓纷纷归附。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "前秦", "continent": "亚洲" }
+      {
+        "title": "冉闵杀胡称帝建立冉魏",
+        "description": "冉闵在邺城发动政变，杀死后赵皇帝石鉴和大量羯族权贵。冉闵自称皇帝，改元永兴，国号魏，史称冉魏。他颁布著名的'杀胡令'，号召汉人屠杀胡人。邺城内外羯族被杀二十余万人，后赵政权彻底崩溃。",
+        "latitude": 36.3,
+        "longitude": 114.5,
+        "category": "政治",
+        "region": "冉魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "苻健建立前秦",
+        "description": "氐族首领苻健率部西入关中，攻占长安后称天王、大单于，建立前秦政权。苻健是苻洪之子，为人宽厚、善于用人。他废除石虎的暴政、减税安民，关中百姓纷纷归附。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "前秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "笈多帝国统一北印度",
+        "description": "旃陀罗笈多二世（超日王）在位，笈多帝国迈向全盛。",
+        "latitude": 25.0,
+        "longitude": 82.0,
+        "category": "政治",
+        "region": "笈多帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "笈多帝国数学发展",
+        "description": "印度数学家发明零和十进制计数法。",
+        "latitude": 25.0,
+        "longitude": 82.0,
+        "category": "科技",
+        "region": "笈多帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "马格嫩提乌斯称帝",
+        "description": "马格嫩提乌斯在高卢杀君士坦斯称帝。",
+        "latitude": 49.0,
+        "longitude": 2.0,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "玛雅历法完善",
+        "description": "历法。",
+        "latitude": 17.0,
+        "longitude": -90.0,
+        "category": "历法",
+        "region": "玛雅",
+        "continent": "北美洲"
+      }
     ]
   },
   {
     "year": 351,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋穆帝司马聃", "era": "永和八年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋穆帝司马聃",
+        "era": "永和八年"
+      }
     ],
     "events": [
-      { "title": "苻健正式称帝", "description": "前秦天王苻健在长安正式即皇帝位，改元皇始。苻健立苻苌为太子，任命弟苻雄为丞相。前秦政权在关中逐步巩固，成为十六国后期最重要的政权。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "前秦", "continent": "亚洲" },
-      { "title": "冉闵与慕容儁交战", "description": "前燕慕容儁率军南下进攻冉魏。冉闵率军在魏昌（今河北定州）与燕军交战。冉闵勇冠三军、十战十胜，但最终因兵力悬殊被前燕包围。冉闵的坐骑朱龙马突然倒毙，冉闵被前燕俘获后斩杀。冉魏灭亡。", "latitude": 38.500, "longitude": 115.000, "category": "军事", "region": "前燕", "continent": "亚洲" }
+      {
+        "title": "苻健正式称帝",
+        "description": "前秦天王苻健在长安正式即皇帝位，改元皇始。苻健立苻苌为太子，任命弟苻雄为丞相。前秦政权在关中逐步巩固，成为十六国后期最重要的政权。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "前秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "冉闵与慕容儁交战",
+        "description": "前燕慕容儁率军南下进攻冉魏。冉闵率军在魏昌（今河北定州）与燕军交战。冉闵勇冠三军、十战十胜，但最终因兵力悬殊被前燕包围。冉闵的坐骑朱龙马突然倒毙，冉闵被前燕俘获后斩杀。冉魏灭亡。",
+        "latitude": 38.5,
+        "longitude": 115.0,
+        "category": "军事",
+        "region": "前燕",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦提乌斯击败马格嫩提乌斯",
+        "description": "君士坦提乌斯在穆尔萨战役击败篡位者。",
+        "latitude": 45.5,
+        "longitude": 18.5,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 352,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋穆帝司马聃", "era": "永和九年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋穆帝司马聃",
+        "era": "永和九年"
+      }
     ],
     "events": [
-      { "title": "慕容儁灭冉魏称帝", "description": "前燕王慕容儁灭冉魏后吞并了河北广大地区。慕容儁在蓟城（今北京西南）正式即皇帝位，改元元玺。前燕成为北方最强大的政权，与东晋、前秦形成鼎立之势。", "latitude": 39.900, "longitude": 116.400, "category": "政治", "region": "前燕", "continent": "亚洲" }
+      {
+        "title": "慕容儁灭冉魏称帝",
+        "description": "前燕王慕容儁灭冉魏后吞并了河北广大地区。慕容儁在蓟城（今北京西南）正式即皇帝位，改元元玺。前燕成为北方最强大的政权，与东晋、前秦形成鼎立之势。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "前燕",
+        "continent": "亚洲"
+      },
+      {
+        "title": "尤里安任凯撒",
+        "description": "君士坦提乌斯任命其表弟尤里安为西部凯撒。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 353,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋穆帝司马聃", "era": "永和十年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋穆帝司马聃",
+        "era": "永和十年"
+      }
     ],
     "events": [
-      { "title": "兰亭雅集——王羲之作《兰亭集序》", "description": "三月初三上巳节，东晋书法家王羲之与谢安、孙绰等四十一位名士在会稽山阴的兰亭举行修禊集会。众人曲水流觞、饮酒赋诗。王羲之乘兴为诗集作序，写下了被誉为'天下第一行书'的《兰亭集序》。其书法遒媚飘逸、变化万千。", "latitude": 30.000, "longitude": 120.600, "category": "文化", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "兰亭雅集——王羲之作《兰亭集序》",
+        "description": "三月初三上巳节，东晋书法家王羲之与谢安、孙绰等四十一位名士在会稽山阴的兰亭举行修禊集会。众人曲水流觞、饮酒赋诗。王羲之乘兴为诗集作序，写下了被誉为'天下第一行书'的《兰亭集序》。其书法遒媚飘逸、变化万千。",
+        "latitude": 30.0,
+        "longitude": 120.6,
+        "category": "文化",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦提乌斯统一帝国",
+        "description": "君士坦提乌斯二世成为罗马帝国唯一皇帝。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 354,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋穆帝司马聃", "era": "永和十一年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋穆帝司马聃",
+        "era": "永和十一年"
+      }
     ],
     "events": [
-      { "title": "桓温第一次北伐前秦", "description": "桓温率步骑四万从江陵出发北伐前秦。他派水军从襄阳沿汉水北上，自己率主力直趋关中。桓温在蓝田大败前秦军队，进军至长安东郊的灞上。关中百姓纷纷持牛酒迎接，但桓温犹豫不决最终因粮草不济退兵。", "latitude": 34.300, "longitude": 108.900, "category": "军事", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "桓温第一次北伐前秦",
+        "description": "桓温率步骑四万从江陵出发北伐前秦。他派水军从襄阳沿汉水北上，自己率主力直趋关中。桓温在蓝田大败前秦军队，进军至长安东郊的灞上。关中百姓纷纷持牛酒迎接，但桓温犹豫不决最终因粮草不济退兵。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "尤里安在高卢",
+        "description": "尤里安在高卢指挥对日耳曼人作战取得胜利。",
+        "latitude": 49.0,
+        "longitude": 6.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 355,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋穆帝司马聃", "era": "永和十二年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋穆帝司马聃",
+        "era": "永和十二年"
+      }
     ],
     "events": [
-      { "title": "前秦苻健去世，苻生继位", "description": "前秦皇帝苻健病逝，太子苻生继位。苻生是历史上著名的暴君，天生独眼，残暴嗜杀。他在位期间滥杀大臣和宗室，前秦朝政混乱，国力受损。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "前秦", "continent": "亚洲" },
-      { "title": "君士坦丁大帝去世", "description": "罗马帝国皇帝君士坦丁大帝在尼科米底亚病逝，终年六十五岁。他是罗马历史上最重要的皇帝之一：统一帝国、颁布米兰敕令、召开尼西亚大公会议、建立君士坦丁堡。君士坦丁临终前接受了基督教洗礼。帝国由其三个儿子继承。", "latitude": 40.750, "longitude": 29.900, "category": "政治", "region": "罗马帝国", "continent": "亚洲" }
+      {
+        "title": "前秦苻健去世，苻生继位",
+        "description": "前秦皇帝苻健病逝，太子苻生继位。苻生是历史上著名的暴君，天生独眼，残暴嗜杀。他在位期间滥杀大臣和宗室，前秦朝政混乱，国力受损。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "前秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿勒曼尼人入侵高卢",
+        "description": "阿勒曼尼人越过莱茵河侵入高卢。",
+        "latitude": 48.0,
+        "longitude": 7.0,
+        "category": "军事",
+        "region": "日耳曼",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 356,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋穆帝司马聃", "era": "晋升平元年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋穆帝司马聃",
+        "era": "晋升平元年"
+      }
     ],
     "events": [
-      { "title": "桓温收复洛阳", "description": "桓温第二次北伐，从江陵出发进攻占据洛阳的后赵残余姚襄。桓温在伊水之战中大破姚襄，收复故都洛阳。桓温进入洛阳后拜谒先帝陵墓、修缮宫殿，上书东晋朝廷请求还都洛阳，但朝廷无意北迁。", "latitude": 34.682, "longitude": 112.470, "category": "军事", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "桓温收复洛阳",
+        "description": "桓温第二次北伐，从江陵出发进攻占据洛阳的后赵残余姚襄。桓温在伊水之战中大破姚襄，收复故都洛阳。桓温进入洛阳后拜谒先帝陵墓、修缮宫殿，上书东晋朝廷请求还都洛阳，但朝廷无意北迁。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "尤里安在斯特拉斯堡击败阿勒曼尼人",
+        "description": "尤里安在斯特拉斯堡战役大获全胜。",
+        "latitude": 48.6,
+        "longitude": 7.8,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 357,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋穆帝司马聃", "era": "晋升平二年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋穆帝司马聃",
+        "era": "晋升平二年"
+      }
     ],
     "events": [
-      { "title": "苻坚杀苻生继位前秦", "description": "前秦暴君苻生被其堂弟苻坚发动政变杀死。苻坚废除暴政，在长安即位，称大秦天王。苻坚是十六国最杰出的君主之一，他重用汉族士人王猛、推行汉化改革、发展经济文化，前秦迅速强盛。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "前秦", "continent": "亚洲" },
-      { "title": "王猛出任前秦中书令", "description": "苻坚任命王猛为中书令，执掌前秦朝政。王猛出身贫寒、学识渊博，以法治国、雷厉风行。他整顿吏治、打击豪强、发展农业，前秦政治为之一新。苻坚与王猛的君臣相得被誉为十六国时期的佳话。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "前秦", "continent": "亚洲" }
+      {
+        "title": "苻坚杀苻生继位前秦",
+        "description": "前秦暴君苻生被其堂弟苻坚发动政变杀死。苻坚废除暴政，在长安即位，称大秦天王。苻坚是十六国最杰出的君主之一，他重用汉族士人王猛、推行汉化改革、发展经济文化，前秦迅速强盛。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "前秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "王猛出任前秦中书令",
+        "description": "苻坚任命王猛为中书令，执掌前秦朝政。王猛出身贫寒、学识渊博，以法治国、雷厉风行。他整顿吏治、打击豪强、发展农业，前秦政治为之一新。苻坚与王猛的君臣相得被誉为十六国时期的佳话。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "前秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "尤里安重建高卢城市",
+        "description": "尤里安修复被战火摧毁的高卢城市。",
+        "latitude": 49.0,
+        "longitude": 4.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 358,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋穆帝司马聃", "era": "晋升平三年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋穆帝司马聃",
+        "era": "晋升平三年"
+      }
     ],
     "events": [
-      { "title": "前秦王猛整顿吏治", "description": "王猛在前秦大力推行法治，严厉惩治贪官污吏和违法豪强。他查出并惩处了大量利用特权的氐族权贵和宗室成员。王猛甚至将苻健的妻弟强德处死。苻坚全力支持王猛的改革。前秦法治清明、社会安定。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "前秦", "continent": "亚洲" }
+      {
+        "title": "前秦王猛整顿吏治",
+        "description": "王猛在前秦大力推行法治，严厉惩治贪官污吏和违法豪强。他查出并惩处了大量利用特权的氐族权贵和宗室成员。王猛甚至将苻健的妻弟强德处死。苻坚全力支持王猛的改革。前秦法治清明、社会安定。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "前秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "尤里安在巴黎",
+        "description": "尤里安在巴黎（吕泰蒂亚）过冬。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 359,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋穆帝司马聃", "era": "晋升平四年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋穆帝司马聃",
+        "era": "晋升平四年"
+      }
     ],
     "events": [
-      { "title": "前燕向南扩张", "description": "前燕皇帝慕容儁大举南征，攻占东晋在淮北的大片领土。东晋的防线被压缩到淮河以南。前燕的疆域达到鼎盛，占据了中原和华北的广大地区。", "latitude": 34.000, "longitude": 116.000, "category": "军事", "region": "前燕", "continent": "亚洲" }
+      {
+        "title": "前燕向南扩张",
+        "description": "前燕皇帝慕容儁大举南征，攻占东晋在淮北的大片领土。东晋的防线被压缩到淮河以南。前燕的疆域达到鼎盛，占据了中原和华北的广大地区。",
+        "latitude": 34.0,
+        "longitude": 116.0,
+        "category": "军事",
+        "region": "前燕",
+        "continent": "亚洲"
+      },
+      {
+        "title": "波斯围攻阿米达",
+        "description": "萨珊军队攻陷罗马东方城市阿米达。",
+        "latitude": 37.9,
+        "longitude": 40.2,
+        "category": "军事",
+        "region": "萨珊帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 360,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋穆帝司马聃", "era": "晋升平五年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋穆帝司马聃",
+        "era": "晋升平五年"
+      }
     ],
     "events": [
-      { "title": "前燕慕容儁去世，慕容暐继位", "description": "前燕皇帝慕容儁在邺城病逝。其子慕容暐继位，年仅十一岁。慕容恪以太宰身份辅政。慕容恪是慕容皝之子、慕容儁之弟，是十六国时期杰出的政治家和军事家。", "latitude": 36.300, "longitude": 114.500, "category": "政治", "region": "前燕", "continent": "亚洲" },
-      { "title": "晋穆帝去世，晋哀帝继位", "description": "晋穆帝司马聃病逝，终年十九岁。成帝之子司马丕继位，是为晋哀帝。哀帝迷信方术、服食丹药，朝政由会稽王司马昱主持。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "前燕慕容儁去世，慕容暐继位",
+        "description": "前燕皇帝慕容儁在邺城病逝。其子慕容暐继位，年仅十一岁。慕容恪以太宰身份辅政。慕容恪是慕容皝之子、慕容儁之弟，是十六国时期杰出的政治家和军事家。",
+        "latitude": 36.3,
+        "longitude": 114.5,
+        "category": "政治",
+        "region": "前燕",
+        "continent": "亚洲"
+      },
+      {
+        "title": "晋穆帝去世，晋哀帝继位",
+        "description": "晋穆帝司马聃病逝，终年十九岁。成帝之子司马丕继位，是为晋哀帝。哀帝迷信方术、服食丹药，朝政由会稽王司马昱主持。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "尤里安被军队拥立为帝",
+        "description": "巴黎军团拥立尤里安为奥古斯都。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 361,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋哀帝司马丕", "era": "隆和元年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋哀帝司马丕",
+        "era": "隆和元年"
+      }
     ],
     "events": [
-      { "title": "东晋与前燕在淮北对峙", "description": "东晋与前燕在淮北地区形成对峙局面。桓温主张大举北伐以收复中原，但朝廷内部反对派以'强寇在境'为由阻止。东晋朝廷与桓温之间的矛盾日益加深。", "latitude": 32.000, "longitude": 116.000, "category": "军事", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "东晋与前燕在淮北对峙",
+        "description": "东晋与前燕在淮北地区形成对峙局面。桓温主张大举北伐以收复中原，但朝廷内部反对派以'强寇在境'为由阻止。东晋朝廷与桓温之间的矛盾日益加深。",
+        "latitude": 32.0,
+        "longitude": 116.0,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦提乌斯去世尤里安即位",
+        "description": "君士坦提乌斯病逝尤里安成为唯一皇帝。",
+        "latitude": 33.0,
+        "longitude": 36.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 362,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋哀帝司马丕", "era": "隆和二年" },
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋废帝司马奕", "era": "太和元年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋哀帝司马丕",
+        "era": "隆和二年"
+      },
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋废帝司马奕",
+        "era": "太和元年"
+      }
     ],
     "events": [
-      { "title": "晋哀帝去世，晋废帝继位", "description": "晋哀帝司马丕因服食丹药中毒而死，终年二十五岁。其弟司马奕继位，是为晋废帝。桓温的权势继续膨胀，与朝廷的矛盾进一步激化。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "晋哀帝去世，晋废帝继位",
+        "description": "晋哀帝司马丕因服食丹药中毒而死，终年二十五岁。其弟司马奕继位，是为晋废帝。桓温的权势继续膨胀，与朝廷的矛盾进一步激化。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "尤里安恢复多神教",
+        "description": "尤里安推行恢复罗马传统宗教信仰政策。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "宗教",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 363,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋废帝司马奕", "era": "太和二年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋废帝司马奕",
+        "era": "太和二年"
+      }
     ],
     "events": [
-      { "title": "桓温专横跋扈", "description": "桓温因灭蜀和收复洛阳之功，权势日益膨胀。他自领扬州牧，遥控建康朝政。桓温任用亲信郗超为参军，对朝廷大臣颐指气使。东晋形成'政在桓温'的局面。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "桓温专横跋扈",
+        "description": "桓温因灭蜀和收复洛阳之功，权势日益膨胀。他自领扬州牧，遥控建康朝政。桓温任用亲信郗超为参军，对朝廷大臣颐指气使。东晋形成'政在桓温'的局面。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 364,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋废帝司马奕", "era": "太和三年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋废帝司马奕",
+        "era": "太和三年"
+      }
     ],
     "events": [
-      { "title": "桓温推行庚戌土断", "description": "桓温在东晋推行大规模的土断政策（因在庚戌日颁布，故称庚戌土断）。他下令严查侨籍户口，将侨民编入当地户籍，严厉打击隐瞒户口的行为。此政策增加了朝廷的财政收入和兵源。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "桓温推行庚戌土断",
+        "description": "桓温在东晋推行大规模的土断政策（因在庚戌日颁布，故称庚戌土断）。他下令严查侨籍户口，将侨民编入当地户籍，严厉打击隐瞒户口的行为。此政策增加了朝廷的财政收入和兵源。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "尤里安战死波斯",
+        "description": "尤里安在美索不达米亚战役中被矛刺死。",
+        "latitude": 33.0,
+        "longitude": 44.5,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 365,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋废帝司马奕", "era": "太和四年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋废帝司马奕",
+        "era": "太和四年"
+      }
     ],
     "events": [
-      { "title": "前燕攻占洛阳", "description": "前燕慕容恪率军攻占洛阳。桓温原本在洛阳留有驻军，但因东晋朝廷无力支援被前燕攻破。东晋失去洛阳这个北方最重要的据点，北伐成果付诸东流。", "latitude": 34.682, "longitude": 112.470, "category": "军事", "region": "前燕", "continent": "亚洲" }
+      {
+        "title": "前燕攻占洛阳",
+        "description": "前燕慕容恪率军攻占洛阳。桓温原本在洛阳留有驻军，但因东晋朝廷无力支援被前燕攻破。东晋失去洛阳这个北方最重要的据点，北伐成果付诸东流。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "军事",
+        "region": "前燕",
+        "continent": "亚洲"
+      },
+      {
+        "title": "约维安让出美索不达米亚（约）",
+        "description": "约维安与萨珊媾和割让美索不达米亚。",
+        "latitude": 33.0,
+        "longitude": 44.0,
+        "category": "外交",
+        "region": "拜占庭帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 366,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋废帝司马奕", "era": "太和五年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋废帝司马奕",
+        "era": "太和五年"
+      }
     ],
     "events": [
-      { "title": "敦煌莫高窟开凿", "description": "沙门乐僔在河西走廊的敦煌鸣沙山东麓开凿了第一个石窟。他见三危山上金光如千佛闪耀，遂在此开窟造像。此后历经千年不断扩建，形成了举世闻名的莫高窟。", "latitude": 40.040, "longitude": 94.800, "category": "宗教", "region": "前凉", "continent": "亚洲" }
+      {
+        "title": "敦煌莫高窟开凿",
+        "description": "沙门乐僔在河西走廊的敦煌鸣沙山东麓开凿了第一个石窟。他见三危山上金光如千佛闪耀，遂在此开窟造像。此后历经千年不断扩建，形成了举世闻名的莫高窟。",
+        "latitude": 40.04,
+        "longitude": 94.8,
+        "category": "宗教",
+        "region": "前凉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "瓦伦斯即位东帝",
+        "description": "瓦伦提尼安一世任命其弟瓦伦斯为东部皇帝。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 367,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋废帝司马奕", "era": "太和六年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋废帝司马奕",
+        "era": "太和六年"
+      }
     ],
     "events": [
-      { "title": "前秦苻坚兄弟叛乱", "description": "前秦宗室成员苻柳、苻双、苻廋、苻武等联合起兵反叛苻坚。苻坚在王猛的辅佐下从容应对，分路讨伐各路叛军。王猛用兵如神，先后平定四路叛乱，苻坚的统治更加巩固。", "latitude": 34.300, "longitude": 108.900, "category": "军事", "region": "前秦", "continent": "亚洲" }
+      {
+        "title": "前秦苻坚兄弟叛乱",
+        "description": "前秦宗室成员苻柳、苻双、苻廋、苻武等联合起兵反叛苻坚。苻坚在王猛的辅佐下从容应对，分路讨伐各路叛军。王猛用兵如神，先后平定四路叛乱，苻坚的统治更加巩固。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "军事",
+        "region": "前秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "瓦伦提尼安一世在西部",
+        "description": "瓦伦提尼安在高卢和不列颠巩固边防。",
+        "latitude": 49.0,
+        "longitude": 2.0,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 368,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋废帝司马奕", "era": "太和七年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋废帝司马奕",
+        "era": "太和七年"
+      }
     ],
     "events": [
-      { "title": "前秦王猛改革全面推行", "description": "王猛在前秦推行全面的社会改革：实行法治、整顿吏治、发展农业、兴办教育、尊崇儒学。他还改革兵制，将氐族部落兵纳入国家军队体系。前秦国力空前强盛，为统一北方奠定了坚实基础。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "前秦", "continent": "亚洲" }
+      {
+        "title": "前秦王猛改革全面推行",
+        "description": "王猛在前秦推行全面的社会改革：实行法治、整顿吏治、发展农业、兴办教育、尊崇儒学。他还改革兵制，将氐族部落兵纳入国家军队体系。前秦国力空前强盛，为统一北方奠定了坚实基础。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "前秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "不列颠蛮族入侵",
+        "description": "皮克特人和斯科特人入侵不列颠。",
+        "latitude": 54.0,
+        "longitude": -3.0,
+        "category": "军事",
+        "region": "皮克特人",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 369,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋废帝司马奕", "era": "太和八年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋废帝司马奕",
+        "era": "太和八年"
+      }
     ],
     "events": [
-      { "title": "桓温第三次北伐——枋头之败", "description": "桓温亲率步骑五万大军北伐前燕。他进军至枋头（今河南浚县），距离邺城仅数十里。前燕慕容垂率军迎战，切断晋军粮道。桓温粮尽被迫退军，慕容垂率八千骑兵追击，晋军大败，死伤三万余人。桓温的声望遭受重创。", "latitude": 35.600, "longitude": 114.500, "category": "军事", "region": "东晋", "continent": "亚洲" },
-      { "title": "前燕慕容垂被迫投奔前秦", "description": "枋头之战后，前燕名将慕容垂功高震主，遭到太傅慕容评的排挤和陷害。慕容垂被迫抛妻弃子，投奔前秦苻坚。苻坚大喜过望，任命慕容垂为冠军将军。慕容垂的离开严重削弱了前燕的实力。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "前秦", "continent": "亚洲" }
+      {
+        "title": "桓温第三次北伐——枋头之败",
+        "description": "桓温亲率步骑五万大军北伐前燕。他进军至枋头（今河南浚县），距离邺城仅数十里。前燕慕容垂率军迎战，切断晋军粮道。桓温粮尽被迫退军，慕容垂率八千骑兵追击，晋军大败，死伤三万余人。桓温的声望遭受重创。",
+        "latitude": 35.6,
+        "longitude": 114.5,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "前燕慕容垂被迫投奔前秦",
+        "description": "枋头之战后，前燕名将慕容垂功高震主，遭到太傅慕容评的排挤和陷害。慕容垂被迫抛妻弃子，投奔前秦苻坚。苻坚大喜过望，任命慕容垂为冠军将军。慕容垂的离开严重削弱了前燕的实力。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "前秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马收复不列颠",
+        "description": "狄奥多西伯爵收复不列颠行省。",
+        "latitude": 52.0,
+        "longitude": -1.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 370,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋废帝司马奕", "era": "太和九年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋废帝司马奕",
+        "era": "太和九年"
+      }
     ],
     "events": [
-      { "title": "前秦灭前燕统一北方", "description": "前秦王猛率六万大军东征前燕。王猛用兵如神，先攻占壶关，再克晋阳，最后在潞川（今山西浊漳河）与三十万燕军决战。燕军主帅慕容评贪财怕死，大败。王猛攻入邺城，前燕灭亡。前秦统一了北方大部。", "latitude": 36.300, "longitude": 114.500, "category": "军事", "region": "前秦", "continent": "亚洲" },
-      { "title": "慕容暐被俘，前燕灭亡", "description": "前燕末帝慕容暐在邺城被俘后投降苻坚。前燕立国三十四年而亡。苻坚厚待慕容暐及其宗室，封其为新兴侯。但苻坚对前燕降臣过于宽厚，为日后之乱埋下隐患。", "latitude": 36.300, "longitude": 114.500, "category": "政治", "region": "前秦", "continent": "亚洲" },
-      { "title": "耶路撒冷圣殿被毁", "description": "罗马皇帝君士坦提乌斯二世对犹太教采取严厉政策，耶路撒冷的第二圣殿遗址进一步被破坏。罗马帝国东部在君士坦提乌斯二世的统治下保持相对稳定。", "latitude": 31.780, "longitude": 35.220, "category": "宗教", "region": "罗马帝国", "continent": "亚洲" }
+      {
+        "title": "前秦灭前燕统一北方",
+        "description": "前秦王猛率六万大军东征前燕。王猛用兵如神，先攻占壶关，再克晋阳，最后在潞川（今山西浊漳河）与三十万燕军决战。燕军主帅慕容评贪财怕死，大败。王猛攻入邺城，前燕灭亡。前秦统一了北方大部。",
+        "latitude": 36.3,
+        "longitude": 114.5,
+        "category": "军事",
+        "region": "前秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "慕容暐被俘，前燕灭亡",
+        "description": "前燕末帝慕容暐在邺城被俘后投降苻坚。前燕立国三十四年而亡。苻坚厚待慕容暐及其宗室，封其为新兴侯。但苻坚对前燕降臣过于宽厚，为日后之乱埋下隐患。",
+        "latitude": 36.3,
+        "longitude": 114.5,
+        "category": "政治",
+        "region": "前秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "耶路撒冷圣殿被毁",
+        "description": "罗马皇帝君士坦提乌斯二世对犹太教采取严厉政策，耶路撒冷的第二圣殿遗址进一步被破坏。罗马帝国东部在君士坦提乌斯二世的统治下保持相对稳定。",
+        "latitude": 31.78,
+        "longitude": 35.22,
+        "category": "宗教",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "匈奴西迁进入东欧",
+        "description": "匈奴人从中亚向西进入伏尔加河流域。",
+        "latitude": 50.0,
+        "longitude": 48.0,
+        "category": "社会",
+        "region": "匈奴",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 371,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋简文帝司马昱", "era": "咸安元年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋简文帝司马昱",
+        "era": "咸安元年"
+      }
     ],
     "events": [
-      { "title": "桓温废司马奕立司马昱", "description": "桓温为树立权威，以司马奕阳痿无生育能力、其子非亲生为借口，逼褚太后废黜司马奕为东海王。桓温迎立会稽王司马昱为帝，是为晋简文帝。桓温权势达到顶峰，朝中无人敢违抗其意志。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "桓温废司马奕立司马昱",
+        "description": "桓温为树立权威，以司马奕阳痿无生育能力、其子非亲生为借口，逼褚太后废黜司马奕为东海王。桓温迎立会稽王司马昱为帝，是为晋简文帝。桓温权势达到顶峰，朝中无人敢违抗其意志。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "亚美尼亚问题激化",
+        "description": "罗马与萨珊争夺亚美尼亚控制权。",
+        "latitude": 40.0,
+        "longitude": 44.0,
+        "category": "外交",
+        "region": "拜占庭帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 372,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋简文帝司马昱", "era": "咸安二年" },
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "宁康元年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋简文帝司马昱",
+        "era": "咸安二年"
+      },
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "宁康元年"
+      }
     ],
     "events": [
-      { "title": "晋简文帝去世，晋孝武帝继位", "description": "晋简文帝司马昱在位仅八个月即病逝，终年五十三岁。十岁的太子司马曜继位，是为晋孝武帝。桓温原指望简文帝会禅让给自己，没想到简文帝临终前遗诏令桓温辅政、效仿诸葛亮。桓温大失所望。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" },
-      { "title": "谢安出山辅政", "description": "谢安在桓温权势滔天之际被朝廷征召为侍中。谢安是陈郡谢氏的代表人物，早年隐居东山、纵情山水。他出山后以卓越的政治智慧斡旋于桓温和朝廷之间，逐渐成为东晋政坛的核心人物。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "晋简文帝去世，晋孝武帝继位",
+        "description": "晋简文帝司马昱在位仅八个月即病逝，终年五十三岁。十岁的太子司马曜继位，是为晋孝武帝。桓温原指望简文帝会禅让给自己，没想到简文帝临终前遗诏令桓温辅政、效仿诸葛亮。桓温大失所望。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "谢安出山辅政",
+        "description": "谢安在桓温权势滔天之际被朝廷征召为侍中。谢安是陈郡谢氏的代表人物，早年隐居东山、纵情山水。他出山后以卓越的政治智慧斡旋于桓温和朝廷之间，逐渐成为东晋政坛的核心人物。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "前秦苻坚崛起",
+        "description": "苻坚即位前秦，在王猛辅佐下国势强盛。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "前秦",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 373,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "宁康二年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "宁康二年"
+      }
     ],
     "events": [
-      { "title": "桓温病逝，谢安执政", "description": "桓温病逝于姑孰，终年六十二岁。桓温临终前让弟弟桓冲接管军队，遗言让儿子桓玄袭爵。桓温的死使东晋摆脱了最大的政治威胁。谢安和桓冲联手稳定朝政，东晋进入谢安执政时期。", "latitude": 31.600, "longitude": 118.400, "category": "政治", "region": "东晋", "continent": "亚洲" },
-      { "title": "桓冲主动让权", "description": "桓温之弟桓冲接掌桓氏兵权后主动让出扬州，自请出镇京口（今江苏镇江）。桓冲以大局为重，与谢安建立良好的合作关系。东晋出现了少有的内部团结局面。", "latitude": 32.200, "longitude": 119.400, "category": "政治", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "桓温病逝，谢安执政",
+        "description": "桓温病逝于姑孰，终年六十二岁。桓温临终前让弟弟桓冲接管军队，遗言让儿子桓玄袭爵。桓温的死使东晋摆脱了最大的政治威胁。谢安和桓冲联手稳定朝政，东晋进入谢安执政时期。",
+        "latitude": 31.6,
+        "longitude": 118.4,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "桓冲主动让权",
+        "description": "桓温之弟桓冲接掌桓氏兵权后主动让出扬州，自请出镇京口（今江苏镇江）。桓冲以大局为重，与谢安建立良好的合作关系。东晋出现了少有的内部团结局面。",
+        "latitude": 32.2,
+        "longitude": 119.4,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "瓦伦斯迫害异教徒",
+        "description": "瓦伦斯迫害反对阿里乌斯派的人。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "宗教",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 374,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "宁康三年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "宁康三年"
+      }
     ],
     "events": [
-      { "title": "谢安东山再起辅政", "description": "谢安被任命为尚书仆射、领吏部，全面主持东晋朝政。谢安为政宽和、知人善任。他改革税制、减轻徭役、与民休息。东晋政治出现少有的清明局面。谢安还举荐了谢玄、刘牢之等人才。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" },
-      { "title": "瓦伦提尼安一世去世", "description": "罗马帝国西罗马皇帝瓦伦提尼安一世在布达佩斯附近因中风去世。他在位期间成功抵御了日耳曼部落的入侵，并任命其子格拉提安为共治皇帝。帝国西部由其子格拉提安和瓦伦提尼安二世继承。", "latitude": 47.500, "longitude": 19.000, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "谢安东山再起辅政",
+        "description": "谢安被任命为尚书仆射、领吏部，全面主持东晋朝政。谢安为政宽和、知人善任。他改革税制、减轻徭役、与民休息。东晋政治出现少有的清明局面。谢安还举荐了谢玄、刘牢之等人才。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "瓦伦提尼安一世去世",
+        "description": "罗马帝国西罗马皇帝瓦伦提尼安一世在布达佩斯附近因中风去世。他在位期间成功抵御了日耳曼部落的入侵，并任命其子格拉提安为共治皇帝。帝国西部由其子格拉提安和瓦伦提尼安二世继承。",
+        "latitude": 47.5,
+        "longitude": 19.0,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "格拉提安在西部即位",
+        "description": "瓦伦提尼安一世之子格拉提安被立为西部皇帝。",
+        "latitude": 49.0,
+        "longitude": 2.0,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 375,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "太元元年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "太元元年"
+      }
     ],
     "events": [
-      { "title": "前秦王猛病逝", "description": "前秦丞相王猛病逝于长安，终年五十一岁。王猛临终前劝谏苻坚：'善作者未必善成，善始者未必善终。'他提醒苻坚不可轻视东晋、要提防前燕慕容氏降臣。苻坚痛哭流涕如丧手足。王猛之死是前秦由盛转衰的转折点。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "前秦", "continent": "亚洲" },
-      { "title": "萨珊波斯沙普尔二世去世", "description": "萨珊波斯国王沙普尔二世去世，在位七十年。他是波斯历史上在位最长的君主，击退了罗马帝国和北方游牧民族的多次入侵。沙普尔二世确立了琐罗亚斯德教为国教，迫害基督教徒。其子阿尔达希尔二世继位。", "latitude": 29.600, "longitude": 52.500, "category": "政治", "region": "萨珊波斯", "continent": "亚洲" }
+      {
+        "title": "前秦王猛病逝",
+        "description": "前秦丞相王猛病逝于长安，终年五十一岁。王猛临终前劝谏苻坚：'善作者未必善成，善始者未必善终。'他提醒苻坚不可轻视东晋、要提防前燕慕容氏降臣。苻坚痛哭流涕如丧手足。王猛之死是前秦由盛转衰的转折点。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "前秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "萨珊波斯沙普尔二世去世",
+        "description": "萨珊波斯国王沙普尔二世去世，在位七十年。他是波斯历史上在位最长的君主，击退了罗马帝国和北方游牧民族的多次入侵。沙普尔二世确立了琐罗亚斯德教为国教，迫害基督教徒。其子阿尔达希尔二世继位。",
+        "latitude": 29.6,
+        "longitude": 52.5,
+        "category": "政治",
+        "region": "萨珊波斯",
+        "continent": "亚洲"
+      },
+      {
+        "title": "嚈哒人进入中亚",
+        "description": "嚈哒人（白匈奴）在中亚阿姆河流域建立政权。",
+        "latitude": 38.0,
+        "longitude": 65.0,
+        "category": "政治",
+        "region": "嚈哒",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 376,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "太元二年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "太元二年"
+      }
     ],
     "events": [
-      { "title": "前秦灭前凉统一北方", "description": "前秦苻坚派苟苌、毛盛等率十三万大军西征前凉。张天锡投降，前凉灭亡。接着苻坚又派苻洛率军灭代国，拓跋什翼犍被俘。前秦完全统一了中国北方。苻坚成为十六国时期第一位统一北方的君主。", "latitude": 34.300, "longitude": 108.900, "category": "军事", "region": "前秦", "continent": "亚洲" },
-      { "title": "西哥特人渡多瑙河进入罗马", "description": "数万西哥特人在匈奴人的逼迫下，在首领弗里提格伦的率领下抵达多瑙河畔，请求罗马皇帝瓦伦斯允许他们进入帝国避难。瓦伦斯同意他们渡河，但罗马官员的腐败和虐待引起了哥特人的强烈不满。", "latitude": 44.000, "longitude": 26.000, "category": "社会", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "前秦灭前凉统一北方",
+        "description": "前秦苻坚派苟苌、毛盛等率十三万大军西征前凉。张天锡投降，前凉灭亡。接着苻坚又派苻洛率军灭代国，拓跋什翼犍被俘。前秦完全统一了中国北方。苻坚成为十六国时期第一位统一北方的君主。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "军事",
+        "region": "前秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "西哥特人渡多瑙河进入罗马",
+        "description": "数万西哥特人在匈奴人的逼迫下，在首领弗里提格伦的率领下抵达多瑙河畔，请求罗马皇帝瓦伦斯允许他们进入帝国避难。瓦伦斯同意他们渡河，但罗马官员的腐败和虐待引起了哥特人的强烈不满。",
+        "latitude": 44.0,
+        "longitude": 26.0,
+        "category": "社会",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "哥特人请求进入罗马帝国",
+        "description": "哥特人受匈奴压力请求渡过多瑙河避难。",
+        "latitude": 44.0,
+        "longitude": 27.0,
+        "category": "社会",
+        "region": "哥特人",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 377,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "太元三年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "太元三年"
+      }
     ],
     "events": [
-      { "title": "谢玄组建北府兵", "description": "谢安任命其侄谢玄为兖州刺史、广陵相，负责组建新军。谢玄在京口（今江苏镇江）招募北方流民中的勇士，以刘牢之为参军。这支军队的士兵均为北方流亡南下的子弟，勇猛善战、以收复中原为志。因京口又称北府，故称北府兵。", "latitude": 32.200, "longitude": 119.400, "category": "军事", "region": "东晋", "continent": "亚洲" },
-      { "title": "前秦苻坚大举南征准备", "description": "苻坚在王猛去世后逐渐放松了对内政的治理，开始筹划南征东晋以实现天下一统。他下令在全国征兵、建造战船、储备粮草。苻坚动员了全国的兵力，准备发动一场规模空前的南征。", "latitude": 34.300, "longitude": 108.900, "category": "军事", "region": "前秦", "continent": "亚洲" },
-      { "title": "西哥特人起义", "description": "罗马官员对西哥特人的残酷压迫引发了大起义。西哥特人在弗里提格伦的领导下攻占了马尔基安堡。罗马皇帝瓦伦斯派军镇压，但哥特人得到了东哥特人和阿兰人的支援，起义迅速蔓延至整个巴尔干半岛。", "latitude": 42.000, "longitude": 25.000, "category": "军事", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "谢玄组建北府兵",
+        "description": "谢安任命其侄谢玄为兖州刺史、广陵相，负责组建新军。谢玄在京口（今江苏镇江）招募北方流民中的勇士，以刘牢之为参军。这支军队的士兵均为北方流亡南下的子弟，勇猛善战、以收复中原为志。因京口又称北府，故称北府兵。",
+        "latitude": 32.2,
+        "longitude": 119.4,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "前秦苻坚大举南征准备",
+        "description": "苻坚在王猛去世后逐渐放松了对内政的治理，开始筹划南征东晋以实现天下一统。他下令在全国征兵、建造战船、储备粮草。苻坚动员了全国的兵力，准备发动一场规模空前的南征。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "军事",
+        "region": "前秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "西哥特人起义",
+        "description": "罗马官员对西哥特人的残酷压迫引发了大起义。西哥特人在弗里提格伦的领导下攻占了马尔基安堡。罗马皇帝瓦伦斯派军镇压，但哥特人得到了东哥特人和阿兰人的支援，起义迅速蔓延至整个巴尔干半岛。",
+        "latitude": 42.0,
+        "longitude": 25.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "哥特人定居色雷斯",
+        "description": "罗马安置哥特人在多瑙河以南。",
+        "latitude": 42.0,
+        "longitude": 26.0,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 378,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "太元四年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "太元四年"
+      }
     ],
     "events": [
-      { "title": "前秦攻占襄阳", "description": "苻坚派苻丕率军围攻东晋重镇襄阳。襄阳守将朱序坚守数月，其母韩夫人率女兵修筑新城墙协助防守。但朱序部将李伯护叛变开城投降，襄阳陷落。朱序被俘后投降前秦。", "latitude": 32.000, "longitude": 112.200, "category": "军事", "region": "前秦", "continent": "亚洲" },
-      { "title": "阿德里安堡战役——罗马惨败", "description": "东罗马皇帝瓦伦斯亲率大军在阿德里安堡（今土耳其埃迪尔内）与西哥特人决战。罗马军队因组织混乱被弗里提格伦指挥的哥特骑兵包抄。罗马四万精锐全军覆没，瓦伦斯阵亡。这是罗马帝国继坎尼战役后最惨重的军事失败。", "latitude": 41.700, "longitude": 26.600, "category": "军事", "region": "罗马帝国", "continent": "欧洲" },
-      { "title": "狄奥多西大帝崛起", "description": "阿德里安堡惨败后，西罗马皇帝格拉提安任命狄奥多西为东罗马皇帝，负责收拾残局。狄奥多西（后称狄奥多西大帝）是西班牙裔罗马贵族，军事才能卓越。他立即着手重建东罗马军队。", "latitude": 41.010, "longitude": 28.980, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "前秦攻占襄阳",
+        "description": "苻坚派苻丕率军围攻东晋重镇襄阳。襄阳守将朱序坚守数月，其母韩夫人率女兵修筑新城墙协助防守。但朱序部将李伯护叛变开城投降，襄阳陷落。朱序被俘后投降前秦。",
+        "latitude": 32.0,
+        "longitude": 112.2,
+        "category": "军事",
+        "region": "前秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿德里安堡战役——罗马惨败",
+        "description": "东罗马皇帝瓦伦斯亲率大军在阿德里安堡（今土耳其埃迪尔内）与西哥特人决战。罗马军队因组织混乱被弗里提格伦指挥的哥特骑兵包抄。罗马四万精锐全军覆没，瓦伦斯阵亡。这是罗马帝国继坎尼战役后最惨重的军事失败。",
+        "latitude": 41.7,
+        "longitude": 26.6,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "狄奥多西大帝崛起",
+        "description": "阿德里安堡惨败后，西罗马皇帝格拉提安任命狄奥多西为东罗马皇帝，负责收拾残局。狄奥多西（后称狄奥多西大帝）是西班牙裔罗马贵族，军事才能卓越。他立即着手重建东罗马军队。",
+        "latitude": 41.01,
+        "longitude": 28.98,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "特奥蒂瓦坎影响玛雅地区",
+        "description": "特奥蒂瓦坎军队远征进入玛雅低地地区。",
+        "latitude": 17.2,
+        "longitude": -89.6,
+        "category": "军事",
+        "region": "特奥蒂瓦坎",
+        "continent": "北美洲"
+      }
     ]
   },
   {
     "year": 379,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "太元五年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "太元五年"
+      }
     ],
     "events": [
-      { "title": "前秦继续南侵", "description": "苻坚在攻占襄阳后继续向东晋的淮北和巴蜀地区发动进攻。前秦军队攻占了彭城（今徐州）、魏兴（今陕西安康）等地。东晋的防线节节后退，建康朝廷大为恐慌。", "latitude": 34.300, "longitude": 108.900, "category": "军事", "region": "前秦", "continent": "亚洲" },
-      { "title": "狄奥多西稳定东罗马", "description": "狄奥多西大帝在君士坦丁堡即位后，通过灵活的外交手段和军事行动逐步稳定了东罗马的局势。他与西哥特人达成停火协议，为重建军队争取了宝贵的时间。", "latitude": 41.010, "longitude": 28.980, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "前秦继续南侵",
+        "description": "苻坚在攻占襄阳后继续向东晋的淮北和巴蜀地区发动进攻。前秦军队攻占了彭城（今徐州）、魏兴（今陕西安康）等地。东晋的防线节节后退，建康朝廷大为恐慌。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "军事",
+        "region": "前秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "狄奥多西稳定东罗马",
+        "description": "狄奥多西大帝在君士坦丁堡即位后，通过灵活的外交手段和军事行动逐步稳定了东罗马的局势。他与西哥特人达成停火协议，为重建军队争取了宝贵的时间。",
+        "latitude": 41.01,
+        "longitude": 28.98,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "狄奥多西一世即位东帝",
+        "description": "狄奥多西被格拉提安任命为东部皇帝。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 380,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "太元六年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "太元六年"
+      }
     ],
     "events": [
-      { "title": "东晋北府兵初显锋芒", "description": "谢玄率领北府兵在淮阴（今江苏淮安）击败了前秦的进攻部队。北府兵在刘牢之、何谦等将领的指挥下，首战告捷。谢玄加紧训练军队，北府兵的战斗力不断提升。", "latitude": 33.600, "longitude": 119.000, "category": "军事", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "东晋北府兵初显锋芒",
+        "description": "谢玄率领北府兵在淮阴（今江苏淮安）击败了前秦的进攻部队。北府兵在刘牢之、何谦等将领的指挥下，首战告捷。谢玄加紧训练军队，北府兵的战斗力不断提升。",
+        "latitude": 33.6,
+        "longitude": 119.0,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "撒母陀罗笈多南征",
+        "description": "笈多皇帝撒母陀罗笈多远征南印度。",
+        "latitude": 25.0,
+        "longitude": 82.0,
+        "category": "军事",
+        "region": "笈多帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "狄奥多西颁布基督教国教令",
+        "description": "狄奥多西一世颁布敕令立基督教为国教。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "宗教",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "基督教朝圣传统",
+        "description": "朝圣。",
+        "latitude": 31.8,
+        "longitude": 35.2,
+        "category": "宗教",
+        "region": "拜占庭帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 381,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "太元七年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "太元七年"
+      }
     ],
     "events": [
-      { "title": "苻坚全面备战南征", "description": "苻坚在长安召开御前会议，正式宣布南征东晋的计划。大臣左仆射权翼、太子苻宏、阳平公苻融等多数人反对。苻融以'王猛临终遗言'劝谏苻坚不可伐晋。但苻坚自恃百万大军，执意南征。", "latitude": 34.300, "longitude": 108.900, "category": "军事", "region": "前秦", "continent": "亚洲" },
-      { "title": "狄奥多西颁布帖撒罗尼迦敕令", "description": "东罗马皇帝狄奥多西一世与西罗马皇帝格拉提安联合颁布帖撒罗尼迦敕令，宣布基督教（尼西亚派）为罗马帝国国教。其他宗教派别被视为异端，异教神庙被关闭。基督教在罗马帝国取得了绝对主导地位。", "latitude": 40.600, "longitude": 22.900, "category": "宗教", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "苻坚全面备战南征",
+        "description": "苻坚在长安召开御前会议，正式宣布南征东晋的计划。大臣左仆射权翼、太子苻宏、阳平公苻融等多数人反对。苻融以'王猛临终遗言'劝谏苻坚不可伐晋。但苻坚自恃百万大军，执意南征。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "军事",
+        "region": "前秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "狄奥多西颁布帖撒罗尼迦敕令",
+        "description": "东罗马皇帝狄奥多西一世与西罗马皇帝格拉提安联合颁布帖撒罗尼迦敕令，宣布基督教（尼西亚派）为罗马帝国国教。其他宗教派别被视为异端，异教神庙被关闭。基督教在罗马帝国取得了绝对主导地位。",
+        "latitude": 40.6,
+        "longitude": 22.9,
+        "category": "宗教",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "君士坦丁堡大公会议",
+        "description": "君士坦丁堡大公会议确认尼西亚信经。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "宗教",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 382,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "太元八年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "太元八年"
+      }
     ],
     "events": [
-      { "title": "苻坚坚持南征决策", "description": "苻坚排除朝中多数大臣的反对意见，决意大举南征。他说'今有众百万，资仗如山'，声称投鞭于江就足以断流。苻坚命苻融率二十五万为前锋，自己率主力六十七万从长安出发。全军号称百万。", "latitude": 34.300, "longitude": 108.900, "category": "军事", "region": "前秦", "continent": "亚洲" },
-      { "title": "谢安镇定自若", "description": "前秦百万大军南征的消息传到建康，朝野震动。执掌朝政的谢安却镇定自若，命谢玄率北府兵八万迎战。谢玄临行前请示军略，谢安只说'已别有旨'。谢安在众人面前照常下棋、游山玩水，展现了超凡的镇定。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" },
-      { "title": "罗马与西哥特人缔结和约", "description": "狄奥多西大帝与西哥特人达成和平协议。西哥特人作为'同盟者'定居在巴尔干半岛北部的行省，为罗马军队提供兵源。这是罗马首次允许蛮族部落以自治方式定居帝国境内。", "latitude": 42.000, "longitude": 25.000, "category": "外交", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "苻坚坚持南征决策",
+        "description": "苻坚排除朝中多数大臣的反对意见，决意大举南征。他说'今有众百万，资仗如山'，声称投鞭于江就足以断流。苻坚命苻融率二十五万为前锋，自己率主力六十七万从长安出发。全军号称百万。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "军事",
+        "region": "前秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "谢安镇定自若",
+        "description": "前秦百万大军南征的消息传到建康，朝野震动。执掌朝政的谢安却镇定自若，命谢玄率北府兵八万迎战。谢玄临行前请示军略，谢安只说'已别有旨'。谢安在众人面前照常下棋、游山玩水，展现了超凡的镇定。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马与西哥特人缔结和约",
+        "description": "狄奥多西大帝与西哥特人达成和平协议。西哥特人作为'同盟者'定居在巴尔干半岛北部的行省，为罗马军队提供兵源。这是罗马首次允许蛮族部落以自治方式定居帝国境内。",
+        "latitude": 42.0,
+        "longitude": 25.0,
+        "category": "外交",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 383,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "太元九年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "太元九年"
+      }
     ],
     "events": [
-      { "title": "淝水之战——谢玄大破苻坚", "description": "前秦百万大军与东晋八万北府兵在淝水（今安徽寿县附近）对峙。谢玄派使者要求前秦军后撤以便渡河决战。苻坚同意撤军，但前秦军一退不可止。朱序在前秦阵中大喊'秦军败了'，前秦军阵脚大乱。东晋军趁势渡水冲锋，北府兵如虎入羊群。前秦大军崩溃，自相践踏，死伤无数。苻坚身中流矢、单骑北逃。", "latitude": 32.500, "longitude": 116.500, "category": "军事", "region": "东晋", "continent": "亚洲" },
-      { "title": "苻坚败逃回长安", "description": "苻坚在淝水惨败后收拾残部逃回长安。百万大军只剩下十余万人。苻坚羞愧难当，在长安哭祭阵亡将士。淝水之战是历史上著名的以少胜多的战役，它彻底粉碎了前秦统一天下的野心。", "latitude": 34.300, "longitude": 108.900, "category": "军事", "region": "前秦", "continent": "亚洲" },
-      { "title": "谢安闻捷报镇定如常", "description": "淝水大捷的捷报送到建康时，谢安正与客人下棋。他看完捷报后随手放在床上，面无表情地继续下棋。客人问前方战况，谢安淡淡地说'小儿辈遂已破贼'。送走客人后谢安欣喜若狂，过门槛时把木屐的齿都碰断了。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "淝水之战——谢玄大破苻坚",
+        "description": "前秦百万大军与东晋八万北府兵在淝水（今安徽寿县附近）对峙。谢玄派使者要求前秦军后撤以便渡河决战。苻坚同意撤军，但前秦军一退不可止。朱序在前秦阵中大喊'秦军败了'，前秦军阵脚大乱。东晋军趁势渡水冲锋，北府兵如虎入羊群。前秦大军崩溃，自相践踏，死伤无数。苻坚身中流矢、单骑北逃。",
+        "latitude": 32.5,
+        "longitude": 116.5,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "苻坚败逃回长安",
+        "description": "苻坚在淝水惨败后收拾残部逃回长安。百万大军只剩下十余万人。苻坚羞愧难当，在长安哭祭阵亡将士。淝水之战是历史上著名的以少胜多的战役，它彻底粉碎了前秦统一天下的野心。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "军事",
+        "region": "前秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "谢安闻捷报镇定如常",
+        "description": "淝水大捷的捷报送到建康时，谢安正与客人下棋。他看完捷报后随手放在床上，面无表情地继续下棋。客人问前方战况，谢安淡淡地说'小儿辈遂已破贼'。送走客人后谢安欣喜若狂，过门槛时把木屐的齿都碰断了。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "格拉提安被刺",
+        "description": "格拉提安在高卢被叛军杀害。",
+        "latitude": 49.0,
+        "longitude": 4.0,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 384,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "太元十年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "太元十年"
+      }
     ],
     "events": [
-      { "title": "慕容垂叛前秦建立后燕", "description": "前秦名将慕容垂（前燕宗室）趁苻坚惨败之机，以回邺城祭扫祖墓为名脱离前秦。慕容垂在荥阳自称燕王，建立后燕政权。他率军攻打邺城，前秦在河北的统治土崩瓦解。", "latitude": 36.300, "longitude": 114.500, "category": "政治", "region": "后燕", "continent": "亚洲" },
-      { "title": "姚苌叛前秦建立后秦", "description": "羌族首领姚苌在渭北起兵反叛前秦，自称秦王、改元白雀，建立后秦政权。姚苌原是苻坚麾下将领，趁前秦大败之际在关中起事。后秦的建立使前秦在关中腹地也失去了控制。", "latitude": 34.500, "longitude": 109.000, "category": "政治", "region": "后秦", "continent": "亚洲" },
-      { "title": "慕容泓建立西燕", "description": "前燕宗室慕容泓在关东起兵反秦，自称济北王，建立西燕政权。慕容泓率军向西进攻长安。不久慕容泓被部下所杀，其弟慕容冲继位。西燕军队直逼长安城下。前秦四面楚歌。", "latitude": 34.500, "longitude": 110.000, "category": "政治", "region": "西燕", "continent": "亚洲" }
+      {
+        "title": "慕容垂叛前秦建立后燕",
+        "description": "前秦名将慕容垂（前燕宗室）趁苻坚惨败之机，以回邺城祭扫祖墓为名脱离前秦。慕容垂在荥阳自称燕王，建立后燕政权。他率军攻打邺城，前秦在河北的统治土崩瓦解。",
+        "latitude": 36.3,
+        "longitude": 114.5,
+        "category": "政治",
+        "region": "后燕",
+        "continent": "亚洲"
+      },
+      {
+        "title": "马格努斯·马克西穆斯称帝西帝",
+        "description": "马克西穆斯在不列颠被拥立为帝。",
+        "latitude": 51.5,
+        "longitude": -0.5,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 385,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "太元十一年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "太元十一年"
+      }
     ],
     "events": [
-      { "title": "苻坚被姚苌缢杀", "description": "前秦皇帝苻坚被后秦姚苌包围在长安。苻坚留下太子苻宏守长安，自己率数百骑出逃五将山（今陕西岐山）。姚苌派兵擒获苻坚，在佛寺中将苻坚缢死。苻坚终年四十八岁。一代雄主落得如此凄惨下场。", "latitude": 34.500, "longitude": 107.500, "category": "政治", "region": "后秦", "continent": "亚洲" },
-      { "title": "乞伏国仁建立西秦", "description": "鲜卑乞伏部首领乞伏国仁在陇西自称大单于，建立西秦政权。西秦占据了陇西地区。前秦政权已分崩离析，北方重新陷入分裂。", "latitude": 35.500, "longitude": 104.000, "category": "政治", "region": "西秦", "continent": "亚洲" },
-      { "title": "拓跋珪重建代国", "description": "前秦灭亡代国后，代国宗室拓跋珪在牛川（今内蒙古锡拉木林河）召集旧部，重建代国。不久改国号为魏，史称北魏。拓跋珪年仅十五岁，但才智过人，北魏从此开始崛起。", "latitude": 41.000, "longitude": 112.000, "category": "政治", "region": "北魏", "continent": "亚洲" }
+      {
+        "title": "苻坚被姚苌缢杀",
+        "description": "前秦皇帝苻坚被后秦姚苌包围在长安。苻坚留下太子苻宏守长安，自己率数百骑出逃五将山（今陕西岐山）。姚苌派兵擒获苻坚，在佛寺中将苻坚缢死。苻坚终年四十八岁。一代雄主落得如此凄惨下场。",
+        "latitude": 34.5,
+        "longitude": 107.5,
+        "category": "政治",
+        "region": "后秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "乞伏国仁建立西秦",
+        "description": "鲜卑乞伏部首领乞伏国仁在陇西自称大单于，建立西秦政权。西秦占据了陇西地区。前秦政权已分崩离析，北方重新陷入分裂。",
+        "latitude": 35.5,
+        "longitude": 104.0,
+        "category": "政治",
+        "region": "西秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "拓跋珪重建代国",
+        "description": "前秦灭亡代国后，代国宗室拓跋珪在牛川（今内蒙古锡拉木林河）召集旧部，重建代国。不久改国号为魏，史称北魏。拓跋珪年仅十五岁，但才智过人，北魏从此开始崛起。",
+        "latitude": 41.0,
+        "longitude": 112.0,
+        "category": "政治",
+        "region": "北魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "狄奥多西加强东正教",
+        "description": "狄奥多西打击异端和异教。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "宗教",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 386,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "太元十二年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "太元十二年"
+      }
     ],
     "events": [
-      { "title": "拓跋珪改称魏王", "description": "拓跋珪在盛乐（今内蒙古和林格尔）正式改称魏王，改元登国。北魏建立了一套游牧与农耕并重的政治制度。拓跋珪重用汉族士人张衮、许谦等，学习中原制度。北魏的国势逐渐壮大。", "latitude": 40.400, "longitude": 111.800, "category": "政治", "region": "北魏", "continent": "亚洲" },
-      { "title": "吕光建立后凉", "description": "前秦大将吕光远征西域后返回，在姑臧（今甘肃武威）建立后凉政权。吕光原是苻坚部将，曾攻占西域三十余国。他得知苻坚已死，便在凉州自立为王。后凉是十六国时期最后一个统一凉州的政权。", "latitude": 37.900, "longitude": 102.600, "category": "政治", "region": "后凉", "continent": "亚洲" }
+      {
+        "title": "拓跋珪改称魏王",
+        "description": "拓跋珪在盛乐（今内蒙古和林格尔）正式改称魏王，改元登国。北魏建立了一套游牧与农耕并重的政治制度。拓跋珪重用汉族士人张衮、许谦等，学习中原制度。北魏的国势逐渐壮大。",
+        "latitude": 40.4,
+        "longitude": 111.8,
+        "category": "政治",
+        "region": "北魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "吕光建立后凉",
+        "description": "前秦大将吕光远征西域后返回，在姑臧（今甘肃武威）建立后凉政权。吕光原是苻坚部将，曾攻占西域三十余国。他得知苻坚已死，便在凉州自立为王。后凉是十六国时期最后一个统一凉州的政权。",
+        "latitude": 37.9,
+        "longitude": 102.6,
+        "category": "政治",
+        "region": "后凉",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 387,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "太元十三年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "太元十三年"
+      }
     ],
     "events": [
-      { "title": "后燕慕容垂巩固北方", "description": "后燕慕容垂在攻克邺城后定都中山（今河北定州），进一步巩固了后燕在北方的统治。后燕成为淝水之战后北方最强大的政权之一。", "latitude": 38.500, "longitude": 114.900, "category": "政治", "region": "后燕", "continent": "亚洲" }
+      {
+        "title": "后燕慕容垂巩固北方",
+        "description": "后燕慕容垂在攻克邺城后定都中山（今河北定州），进一步巩固了后燕在北方的统治。后燕成为淝水之战后北方最强大的政权之一。",
+        "latitude": 38.5,
+        "longitude": 114.9,
+        "category": "政治",
+        "region": "后燕",
+        "continent": "亚洲"
+      },
+      {
+        "title": "狄奥多西击败马克西穆斯",
+        "description": "狄奥多西在意大利击败西方篡位者。",
+        "latitude": 45.5,
+        "longitude": 12.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 388,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "太元十四年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "太元十四年"
+      }
     ],
     "events": [
-      { "title": "后凉吕光称王", "description": "后凉吕光在姑臧自称天王，改元麟嘉。他建立了一套完整的官僚体系，后凉政权逐步巩固。但吕光晚年多病，后凉内部宗室争斗加剧。", "latitude": 37.900, "longitude": 102.600, "category": "政治", "region": "后凉", "continent": "亚洲" }
+      {
+        "title": "后凉吕光称王",
+        "description": "后凉吕光在姑臧自称天王，改元麟嘉。他建立了一套完整的官僚体系，后凉政权逐步巩固。但吕光晚年多病，后凉内部宗室争斗加剧。",
+        "latitude": 37.9,
+        "longitude": 102.6,
+        "category": "政治",
+        "region": "后凉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "统一帝国短暂恢复",
+        "description": "狄奥多西暂时统一罗马帝国。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 389,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "太元十五年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "太元十五年"
+      }
     ],
     "events": [
-      { "title": "北魏拓跋珪击破匈奴刘库仁", "description": "北魏王拓跋珪率军击破匈奴独孤部刘库仁和刘卫辰部，占领了河套地区。北魏的领土和实力大幅扩张。拓跋珪的军事才能开始显露。", "latitude": 40.500, "longitude": 110.000, "category": "军事", "region": "北魏", "continent": "亚洲" }
+      {
+        "title": "北魏拓跋珪击破匈奴刘库仁",
+        "description": "北魏王拓跋珪率军击破匈奴独孤部刘库仁和刘卫辰部，占领了河套地区。北魏的领土和实力大幅扩张。拓跋珪的军事才能开始显露。",
+        "latitude": 40.5,
+        "longitude": 110.0,
+        "category": "军事",
+        "region": "北魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "亚历山大城塞拉皮斯神庙被毁",
+        "description": "基督徒摧毁亚历山大城的异教神庙。",
+        "latitude": 31.2,
+        "longitude": 29.9,
+        "category": "宗教",
+        "region": "拜占庭帝国",
+        "continent": "非洲"
+      }
     ]
   },
   {
     "year": 390,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "太元十六年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "太元十六年"
+      }
     ],
     "events": [
-      { "title": "东晋会稽王司马道子专权", "description": "淝水之战后谢安为避猜忌出镇广陵，不久病逝。晋孝武帝之弟会稽王司马道子执政。司马道子昏庸无能、宠信尼姑和僧侣，朝政腐败。孝武帝与司马道子兄弟之间也产生了矛盾。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "东晋会稽王司马道子专权",
+        "description": "淝水之战后谢安为避猜忌出镇广陵，不久病逝。晋孝武帝之弟会稽王司马道子执政。司马道子昏庸无能、宠信尼姑和僧侣，朝政腐败。孝武帝与司马道子兄弟之间也产生了矛盾。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "帖撒罗尼迦屠杀",
+        "description": "狄奥多西报复性屠杀帖撒罗尼迦民众。",
+        "latitude": 40.6,
+        "longitude": 22.9,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 391,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "太元十七年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "太元十七年"
+      }
     ],
     "events": [
-      { "title": "北魏大破铁弗匈奴", "description": "北魏拓跋珪在河套地区大破铁弗匈奴部刘卫辰。刘卫辰被部下所杀，其子刘勃勃（赫连勃勃）逃往后秦。北魏缴获了刘卫辰的无数马匹和辎重，实力大增。", "latitude": 40.000, "longitude": 108.000, "category": "军事", "region": "北魏", "continent": "亚洲" },
-      { "title": "后秦姚兴继位", "description": "后秦皇帝姚苌病逝，太子姚兴继位。姚兴是十六国后期杰出的君主，他提倡儒学、推崇佛教、轻徭薄赋。后秦在姚兴的治理下达到鼎盛。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "后秦", "continent": "亚洲" }
+      {
+        "title": "北魏大破铁弗匈奴",
+        "description": "北魏拓跋珪在河套地区大破铁弗匈奴部刘卫辰。刘卫辰被部下所杀，其子刘勃勃（赫连勃勃）逃往后秦。北魏缴获了刘卫辰的无数马匹和辎重，实力大增。",
+        "latitude": 40.0,
+        "longitude": 108.0,
+        "category": "军事",
+        "region": "北魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "后秦姚兴继位",
+        "description": "后秦皇帝姚苌病逝，太子姚兴继位。姚兴是十六国后期杰出的君主，他提倡儒学、推崇佛教、轻徭薄赋。后秦在姚兴的治理下达到鼎盛。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "后秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "狄奥多西全面禁止异教",
+        "description": "狄奥多西全面禁止罗马传统宗教。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "宗教",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 392,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "太元十八年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "太元十八年"
+      }
     ],
     "events": [
-      { "title": "后慕容垂灭翟魏", "description": "后燕慕容垂率军攻灭翟魏政权。翟魏是丁零人翟氏在河南建立的短暂政权。后燕统一了中原大部地区，成为此时北方最强大的国家。", "latitude": 35.000, "longitude": 114.000, "category": "军事", "region": "后燕", "continent": "亚洲" }
+      {
+        "title": "后慕容垂灭翟魏",
+        "description": "后燕慕容垂率军攻灭翟魏政权。翟魏是丁零人翟氏在河南建立的短暂政权。后燕统一了中原大部地区，成为此时北方最强大的国家。",
+        "latitude": 35.0,
+        "longitude": 114.0,
+        "category": "军事",
+        "region": "后燕",
+        "continent": "亚洲"
+      },
+      {
+        "title": "尤金尼乌斯称帝西帝",
+        "description": "尤金尼乌斯在西部恢复异教传统。",
+        "latitude": 49.0,
+        "longitude": 2.0,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 393,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "太元十九年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "太元十九年"
+      }
     ],
     "events": [
-      { "title": "后燕慕容垂灭西燕", "description": "后燕慕容垂率军攻伐西燕。西燕慕容永率军迎战，被后燕击败。后燕攻入西燕都城长子（今山西长子），杀慕容永。西燕灭亡。后燕统一了河北和山西大部。", "latitude": 36.100, "longitude": 112.800, "category": "军事", "region": "后燕", "continent": "亚洲" },
-      { "title": "狄奥多西一世最后统一罗马", "description": "西罗马皇帝瓦伦提尼安二世被法兰克人阿波加斯特斯杀害。阿波加斯特斯拥立欧根尼乌斯为西罗马皇帝。东罗马皇帝狄奥多西一世率军西征，在冷河战役（今斯洛文尼亚境内）击败欧根尼乌斯。狄奥多西一世最后一次统一了罗马帝国。", "latitude": 46.000, "longitude": 15.000, "category": "军事", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "后燕慕容垂灭西燕",
+        "description": "后燕慕容垂率军攻伐西燕。西燕慕容永率军迎战，被后燕击败。后燕攻入西燕都城长子（今山西长子），杀慕容永。西燕灭亡。后燕统一了河北和山西大部。",
+        "latitude": 36.1,
+        "longitude": 112.8,
+        "category": "军事",
+        "region": "后燕",
+        "continent": "亚洲"
+      },
+      {
+        "title": "狄奥多西一世最后统一罗马",
+        "description": "西罗马皇帝瓦伦提尼安二世被法兰克人阿波加斯特斯杀害。阿波加斯特斯拥立欧根尼乌斯为西罗马皇帝。东罗马皇帝狄奥多西一世率军西征，在冷河战役（今斯洛文尼亚境内）击败欧根尼乌斯。狄奥多西一世最后一次统一了罗马帝国。",
+        "latitude": 46.0,
+        "longitude": 15.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "最后奥运会",
+        "description": "狄奥多西废除古代奥林匹克运动会。",
+        "latitude": 37.6,
+        "longitude": 21.6,
+        "category": "文化",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 394,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "太元二十年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "太元二十年"
+      }
     ],
     "events": [
-      { "title": "吕光在后凉杀死大臣", "description": "后凉天王吕光日益残暴，听信谗言杀害了多名大臣。后凉内部宗室和大臣之间的争斗加剧，国力开始衰落。", "latitude": 37.900, "longitude": 102.600, "category": "政治", "region": "后凉", "continent": "亚洲" },
-      { "title": "后秦姚兴攻占洛阳", "description": "后秦皇帝姚兴派大军攻占洛阳。姚兴在洛阳推行文教政策、招揽人才。后秦的疆域发展到了顶峰，占据了关中、河南和陇西广大地区。", "latitude": 34.682, "longitude": 112.470, "category": "军事", "region": "后秦", "continent": "亚洲" },
-      { "title": "狄奥多西大帝去世，帝国永久分裂", "description": "罗马皇帝狄奥多西一世在米兰病逝，终年四十九岁。临终前他将帝国分给两个儿子：长子阿卡狄乌斯统治东罗马帝国（首都君士坦丁堡），幼子霍诺里乌斯统治西罗马帝国（首都米兰）。罗马帝国由此永久分裂为东西两部分。", "latitude": 45.500, "longitude": 9.200, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "吕光在后凉杀死大臣",
+        "description": "后凉天王吕光日益残暴，听信谗言杀害了多名大臣。后凉内部宗室和大臣之间的争斗加剧，国力开始衰落。",
+        "latitude": 37.9,
+        "longitude": 102.6,
+        "category": "政治",
+        "region": "后凉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "后秦姚兴攻占洛阳",
+        "description": "后秦皇帝姚兴派大军攻占洛阳。姚兴在洛阳推行文教政策、招揽人才。后秦的疆域发展到了顶峰，占据了关中、河南和陇西广大地区。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "军事",
+        "region": "后秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "狄奥多西大帝去世，帝国永久分裂",
+        "description": "罗马皇帝狄奥多西一世在米兰病逝，终年四十九岁。临终前他将帝国分给两个儿子：长子阿卡狄乌斯统治东罗马帝国（首都君士坦丁堡），幼子霍诺里乌斯统治西罗马帝国（首都米兰）。罗马帝国由此永久分裂为东西两部分。",
+        "latitude": 45.5,
+        "longitude": 9.2,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "狄奥多西击败尤金尼乌斯",
+        "description": "狄奥多西在冷河战役统一帝国。",
+        "latitude": 46.0,
+        "longitude": 14.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 395,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋孝武帝司马曜", "era": "太元二十一年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋孝武帝司马曜",
+        "era": "太元二十一年"
+      }
     ],
     "events": [
-      { "title": "晋孝武帝被张贵人杀死", "description": "晋孝武帝司马曜酒后对宠妃张贵人开玩笑说'你年纪大了要废了你'。张贵人信以为真，趁孝武帝醉酒熟睡之际，用被子将其闷死。一代皇帝竟死得如此荒唐。太子司马德宗继位，是为晋安帝。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "东晋", "continent": "亚洲" },
-      { "title": "后燕参合陂之战惨败于北魏", "description": "后燕太子慕容宝率军征伐北魏。北魏拓跋珪在参合陂（今内蒙古凉城）设伏，趁后燕军渡河时发起突袭。后燕大军几乎全军覆没，慕容宝仅率少数随从逃回。数万后燕俘虏被坑杀。此役后燕由盛转衰。", "latitude": 40.500, "longitude": 112.500, "category": "军事", "region": "北魏", "continent": "亚洲" },
-      { "title": "阿拉里克入侵希腊", "description": "西哥特人首领阿拉里克在狄奥多西大帝去世后撕毁和约，率军入侵希腊。西哥特军队攻占了雅典、科林斯和斯巴达等名城，虽未大规模破坏但劫掠了大量财富。东罗马帝国对此无能为力。", "latitude": 38.000, "longitude": 23.700, "category": "军事", "region": "东罗马帝国", "continent": "欧洲" }
+      {
+        "title": "晋孝武帝被张贵人杀死",
+        "description": "晋孝武帝司马曜酒后对宠妃张贵人开玩笑说'你年纪大了要废了你'。张贵人信以为真，趁孝武帝醉酒熟睡之际，用被子将其闷死。一代皇帝竟死得如此荒唐。太子司马德宗继位，是为晋安帝。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "后燕参合陂之战惨败于北魏",
+        "description": "后燕太子慕容宝率军征伐北魏。北魏拓跋珪在参合陂（今内蒙古凉城）设伏，趁后燕军渡河时发起突袭。后燕大军几乎全军覆没，慕容宝仅率少数随从逃回。数万后燕俘虏被坑杀。此役后燕由盛转衰。",
+        "latitude": 40.5,
+        "longitude": 112.5,
+        "category": "军事",
+        "region": "北魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿拉里克入侵希腊",
+        "description": "西哥特人首领阿拉里克在狄奥多西大帝去世后撕毁和约，率军入侵希腊。西哥特军队攻占了雅典、科林斯和斯巴达等名城，虽未大规模破坏但劫掠了大量财富。东罗马帝国对此无能为力。",
+        "latitude": 38.0,
+        "longitude": 23.7,
+        "category": "军事",
+        "region": "东罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "罗马帝国永久分裂",
+        "description": "狄奥多西去世帝国分给两子阿卡迪乌斯和霍诺留。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 396,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋安帝司马德宗", "era": "隆安元年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "隆安元年"
+      }
     ],
     "events": [
-      { "title": "北魏拓跋珪称帝", "description": "拓跋珪在盛乐正式即皇帝位，改元皇始，是为北魏道武帝。他大规模推行汉化改革，建立朝廷官制，将部落兵制与国家军队相结合。北魏开始从一个部落联盟向封建王朝转变。", "latitude": 40.400, "longitude": 111.800, "category": "政治", "region": "北魏", "continent": "亚洲" },
-      { "title": "后燕慕容垂病逝", "description": "后燕皇帝慕容垂在参合陂惨败后亲征北魏，虽攻下平城但因病重退兵，病逝于归途。其子慕容宝继位。后燕在慕容宝的统治下日益衰落。", "latitude": 38.500, "longitude": 114.900, "category": "政治", "region": "后燕", "continent": "亚洲" },
-      { "title": "斯提利科击败阿拉里克", "description": "西罗马帝国统帅斯提利科率军在希腊击败了阿拉里克率领的西哥特人。斯提利科是汪达尔裔罗马将领，是西罗马帝国后期的支柱。他迫使阿拉里克退出希腊，暂时稳定了巴尔干局势。", "latitude": 38.000, "longitude": 22.000, "category": "军事", "region": "西罗马帝国", "continent": "欧洲" }
+      {
+        "title": "北魏拓跋珪称帝",
+        "description": "拓跋珪在盛乐正式即皇帝位，改元皇始，是为北魏道武帝。他大规模推行汉化改革，建立朝廷官制，将部落兵制与国家军队相结合。北魏开始从一个部落联盟向封建王朝转变。",
+        "latitude": 40.4,
+        "longitude": 111.8,
+        "category": "政治",
+        "region": "北魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "后燕慕容垂病逝",
+        "description": "后燕皇帝慕容垂在参合陂惨败后亲征北魏，虽攻下平城但因病重退兵，病逝于归途。其子慕容宝继位。后燕在慕容宝的统治下日益衰落。",
+        "latitude": 38.5,
+        "longitude": 114.9,
+        "category": "政治",
+        "region": "后燕",
+        "continent": "亚洲"
+      },
+      {
+        "title": "斯提利科击败阿拉里克",
+        "description": "西罗马帝国统帅斯提利科率军在希腊击败了阿拉里克率领的西哥特人。斯提利科是汪达尔裔罗马将领，是西罗马帝国后期的支柱。他迫使阿拉里克退出希腊，暂时稳定了巴尔干局势。",
+        "latitude": 38.0,
+        "longitude": 22.0,
+        "category": "军事",
+        "region": "西罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "阿拉里克入侵希腊",
+        "description": "西哥特人阿拉里克劫掠希腊。",
+        "latitude": 38.0,
+        "longitude": 23.0,
+        "category": "军事",
+        "region": "西哥特人",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 397,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋安帝司马德宗", "era": "隆安二年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "隆安二年"
+      }
     ],
     "events": [
-      { "title": "秃发乌孤建立南凉", "description": "鲜卑秃发部首领秃发乌孤在廉川堡（今青海民和）称王，建立南凉政权。秃发部与北魏拓跋部同源，因鲜卑语中'秃发'即'拓跋'的音转。南凉占据了河西走廊东部。", "latitude": 36.300, "longitude": 102.800, "category": "政治", "region": "南凉", "continent": "亚洲" },
-      { "title": "段业建立北凉", "description": "后凉沮渠蒙逊（匈奴裔）和沮渠男成联合推举段业为主，在张掖建立北凉政权。北凉占据了河西走廊中部。后凉在秃发部和沮渠部的夹击下日趋衰落。", "latitude": 38.900, "longitude": 100.500, "category": "政治", "region": "北凉", "continent": "亚洲" }
+      {
+        "title": "秃发乌孤建立南凉",
+        "description": "鲜卑秃发部首领秃发乌孤在廉川堡（今青海民和）称王，建立南凉政权。秃发部与北魏拓跋部同源，因鲜卑语中'秃发'即'拓跋'的音转。南凉占据了河西走廊东部。",
+        "latitude": 36.3,
+        "longitude": 102.8,
+        "category": "政治",
+        "region": "南凉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "段业建立北凉",
+        "description": "后凉沮渠蒙逊（匈奴裔）和沮渠男成联合推举段业为主，在张掖建立北凉政权。北凉占据了河西走廊中部。后凉在秃发部和沮渠部的夹击下日趋衰落。",
+        "latitude": 38.9,
+        "longitude": 100.5,
+        "category": "政治",
+        "region": "北凉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "斯提里科在北非",
+        "description": "罗马统帅斯提里科在北非与西哥特人周旋。",
+        "latitude": 36.0,
+        "longitude": 8.0,
+        "category": "军事",
+        "region": "西罗马帝国",
+        "continent": "非洲"
+      }
     ]
   },
   {
     "year": 398,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋安帝司马德宗", "era": "隆安三年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "隆安三年"
+      }
     ],
     "events": [
-      { "title": "慕容德建立南燕", "description": "后燕宗室慕容德在滑台（今河南滑县）称王，建立南燕政权。后燕在参合坡惨败后分裂为南北两部，慕容德率部南下建立了南燕。南燕后来迁都广固（今山东青州）。", "latitude": 35.500, "longitude": 114.500, "category": "政治", "region": "南燕", "continent": "亚洲" },
-      { "title": "北魏正式迁都平城", "description": "北魏道武帝拓跋珪正式将都城从盛乐迁至平城（今山西大同）。平城地处农耕和游牧的交界地带，便于统御四方。拓跋珪在平城大规模营建宫室、宗庙和社稷。北魏开始在中原站稳脚跟。", "latitude": 40.100, "longitude": 113.300, "category": "政治", "region": "北魏", "continent": "亚洲" },
-      { "title": "孙恩起义爆发", "description": "五斗米道首领孙恩在海上起兵反晋。孙恩是孙泰之侄，孙泰因密谋造反被东晋朝廷杀害。孙恩逃入海岛，率百余信徒登陆攻陷会稽（今浙江绍兴），杀内史王凝之。江南八郡纷纷响应，义军迅速发展到数十万人。", "latitude": 30.000, "longitude": 120.600, "category": "军事", "region": "东晋", "continent": "亚洲" }
+      {
+        "title": "慕容德建立南燕",
+        "description": "后燕宗室慕容德在滑台（今河南滑县）称王，建立南燕政权。后燕在参合坡惨败后分裂为南北两部，慕容德率部南下建立了南燕。南燕后来迁都广固（今山东青州）。",
+        "latitude": 35.5,
+        "longitude": 114.5,
+        "category": "政治",
+        "region": "南燕",
+        "continent": "亚洲"
+      },
+      {
+        "title": "北魏正式迁都平城",
+        "description": "北魏道武帝拓跋珪正式将都城从盛乐迁至平城（今山西大同）。平城地处农耕和游牧的交界地带，便于统御四方。拓跋珪在平城大规模营建宫室、宗庙和社稷。北魏开始在中原站稳脚跟。",
+        "latitude": 40.1,
+        "longitude": 113.3,
+        "category": "政治",
+        "region": "北魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "孙恩起义爆发",
+        "description": "五斗米道首领孙恩在海上起兵反晋。孙恩是孙泰之侄，孙泰因密谋造反被东晋朝廷杀害。孙恩逃入海岛，率百余信徒登陆攻陷会稽（今浙江绍兴），杀内史王凝之。江南八郡纷纷响应，义军迅速发展到数十万人。",
+        "latitude": 30.0,
+        "longitude": 120.6,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦丁堡普世牧首权力上升",
+        "description": "君士坦丁堡牧首地位仅次于罗马教皇。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "宗教",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 399,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋安帝司马德宗", "era": "隆安四年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "隆安四年"
+      }
     ],
     "events": [
-      { "title": "孙恩攻占会稽逼近建康", "description": "孙恩率义军攻占了会稽、吴郡、吴兴、义兴等江南八郡。东晋朝廷震动，派谢琰、刘牢之率北府兵前往镇压。刘牢之的参军刘裕（后来的宋武帝）在征讨孙恩的战斗中初露锋芒。", "latitude": 30.000, "longitude": 120.600, "category": "军事", "region": "东晋", "continent": "亚洲" },
-      { "title": "法显西行求法", "description": "东晋高僧法显从长安出发，踏上西行天竺（印度）求取佛法的万里征程。法显已经六十多岁，与慧景、道整等五人结伴而行。他穿越河西走廊、翻越葱岭（帕米尔高原），前往佛教圣地天竺。", "latitude": 34.300, "longitude": 108.900, "category": "宗教", "region": "东晋", "continent": "亚洲" },
-      { "title": "鸠摩罗什入长安译经", "description": "后秦皇帝姚兴派兵攻伐后凉，将西域高僧鸠摩罗什迎至长安。姚兴拜鸠摩罗什为国师，在长安逍遥园设立译场。鸠摩罗什率领僧众翻译佛经，译出了《金刚经》《妙法莲华经》《大智度论》等重要经典，对佛教在中国的传播产生了深远影响。", "latitude": 34.300, "longitude": 108.900, "category": "宗教", "region": "后秦", "continent": "亚洲" }
+      {
+        "title": "孙恩攻占会稽逼近建康",
+        "description": "孙恩率义军攻占了会稽、吴郡、吴兴、义兴等江南八郡。东晋朝廷震动，派谢琰、刘牢之率北府兵前往镇压。刘牢之的参军刘裕（后来的宋武帝）在征讨孙恩的战斗中初露锋芒。",
+        "latitude": 30.0,
+        "longitude": 120.6,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "法显西行求法",
+        "description": "东晋高僧法显从长安出发，踏上西行天竺（印度）求取佛法的万里征程。法显已经六十多岁，与慧景、道整等五人结伴而行。他穿越河西走廊、翻越葱岭（帕米尔高原），前往佛教圣地天竺。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "宗教",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "鸠摩罗什入长安译经",
+        "description": "后秦皇帝姚兴派兵攻伐后凉，将西域高僧鸠摩罗什迎至长安。姚兴拜鸠摩罗什为国师，在长安逍遥园设立译场。鸠摩罗什率领僧众翻译佛经，译出了《金刚经》《妙法莲华经》《大智度论》等重要经典，对佛教在中国的传播产生了深远影响。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "宗教",
+        "region": "后秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "北非多纳图派争议",
+        "description": "北非基督教多纳图派与正统派冲突加剧。",
+        "latitude": 36.0,
+        "longitude": 7.0,
+        "category": "宗教",
+        "region": "西罗马帝国",
+        "continent": "非洲"
+      }
     ]
   },
   {
     "year": 400,
     "dynasties": [
-      { "dynastyId": "dongjin", "name": "东晋", "ruler": "晋安帝司马德宗", "era": "隆安五年" }
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "隆安五年"
+      }
     ],
     "events": [
-      { "title": "李暠建立西凉", "description": "北凉敦煌太守李暠在敦煌（今甘肃敦煌）自称凉公，建立西凉政权。李暠是西汉名将李广之后，在河西走廊西部建立了割据政权。他推崇文教、善待百姓、发展农业，西凉一度成为乱世中的文化中心。", "latitude": 40.140, "longitude": 94.600, "category": "政治", "region": "西凉", "continent": "亚洲" },
-      { "title": "孙恩被刘裕击败入海", "description": "刘裕在北府兵中率军追击孙恩，在句章（今浙江余姚）和海盐等地多次击败义军。孙恩损失惨重，被迫撤回海岛。刘裕因战功被升为下邳太守，开始在东晋政坛崭露头角。", "latitude": 30.000, "longitude": 121.000, "category": "军事", "region": "东晋", "continent": "亚洲" },
-      { "title": "盖纳斯叛乱", "description": "东罗马帝国哥特裔将领盖纳斯发动叛乱，率军攻入君士坦丁堡。东罗马皇帝阿卡狄乌斯被迫与盖纳斯谈判，任命其为东罗马军队统帅。但不久后盖纳斯被东罗马军队击败并斩杀。", "latitude": 41.010, "longitude": 28.980, "category": "军事", "region": "东罗马帝国", "continent": "欧洲" }
+      {
+        "title": "李暠建立西凉",
+        "description": "北凉敦煌太守李暠在敦煌（今甘肃敦煌）自称凉公，建立西凉政权。李暠是西汉名将李广之后，在河西走廊西部建立了割据政权。他推崇文教、善待百姓、发展农业，西凉一度成为乱世中的文化中心。",
+        "latitude": 40.14,
+        "longitude": 94.6,
+        "category": "政治",
+        "region": "西凉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "孙恩被刘裕击败入海",
+        "description": "刘裕在北府兵中率军追击孙恩，在句章（今浙江余姚）和海盐等地多次击败义军。孙恩损失惨重，被迫撤回海岛。刘裕因战功被升为下邳太守，开始在东晋政坛崭露头角。",
+        "latitude": 30.0,
+        "longitude": 121.0,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "盖纳斯叛乱",
+        "description": "东罗马帝国哥特裔将领盖纳斯发动叛乱，率军攻入君士坦丁堡。东罗马皇帝阿卡狄乌斯被迫与盖纳斯谈判，任命其为东罗马军队统帅。但不久后盖纳斯被东罗马军队击败并斩杀。",
+        "latitude": 41.01,
+        "longitude": 28.98,
+        "category": "军事",
+        "region": "东罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   }
 ]

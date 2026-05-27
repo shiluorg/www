@@ -1,537 +1,3588 @@
 [
   {
-    "year": 1202,
+    "year": 1200,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋宁宗赵扩", "era": "嘉泰二年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金章宗完颜璟", "era": "泰和二年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
     ],
     "events": [
-      { "title": "第四次十字军东征", "description": "教皇英诺森三世发动第四次十字军东征。十字军在威尼斯总督的诱导下改变进攻方向，不去埃及而转攻君士坦丁堡，最终攻陷并洗劫了这座基督教城市。", "latitude": 41.0, "longitude": 28.9, "category": "军事", "region": "拜占庭", "continent": "欧洲" }
+      {
+        "title": "奇琴伊察衰落",
+        "description": "尤卡坦半岛玛雅城市奇琴伊察政治中心转移。",
+        "latitude": 20.7,
+        "longitude": -88.0,
+        "category": "政治",
+        "region": "玛雅",
+        "continent": "北美洲"
+      },
+      {
+        "title": "蒙古西征",
+        "description": "蒙古铁骑横扫欧亚建立庞大帝国。",
+        "latitude": 47.0,
+        "longitude": 107.0,
+        "category": "军事",
+        "region": "蒙古帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "日本镰仓武士文化",
+        "description": "日本武士阶层文化和禅宗佛教发展。",
+        "latitude": 35.0,
+        "longitude": 139.0,
+        "category": "文化",
+        "region": "日本",
+        "continent": "亚洲"
+      },
+      {
+        "title": "突厥人在印度建立政权",
+        "description": "德里苏丹国在北印度建立伊斯兰政权。",
+        "latitude": 28.6,
+        "longitude": 77.2,
+        "category": "政治",
+        "region": "德里苏丹国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "东南亚泰人迁徙",
+        "description": "泰人从云南向湄南河流域迁徙。",
+        "latitude": 18.0,
+        "longitude": 100.0,
+        "category": "社会",
+        "region": "东南亚",
+        "continent": "亚洲"
+      },
+      {
+        "title": "南宋经济文化繁荣",
+        "description": "南宋临安杭州是当时世界最大城市之一。",
+        "latitude": 30.3,
+        "longitude": 120.2,
+        "category": "经济",
+        "region": "南宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲罗曼建筑发展",
+        "description": "欧洲各地罗曼式修道院和教堂建设。",
+        "latitude": 47.0,
+        "longitude": 3.0,
+        "category": "文化",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "埃及马穆鲁克统治",
+        "description": "马穆鲁克取代阿尤布在埃及和叙利亚统治。",
+        "latitude": 30.0,
+        "longitude": 31.0,
+        "category": "政治",
+        "region": "马穆鲁克",
+        "continent": "非洲"
+      }
+    ]
+  },
+  {
+    "year": 1201,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "波罗的海十字军",
+        "description": "德意志骑士团开始在波罗的海沿岸对异教徒进行十字军征服。",
+        "latitude": 57.0,
+        "longitude": 24.0,
+        "category": "军事",
+        "region": "条顿骑士团",
+        "continent": "欧洲"
+      },
+      {
+        "title": "越南陈朝抗击蒙古",
+        "description": "越南陈朝三次成功抵抗蒙古入侵，保卫独立。",
+        "latitude": 21.0,
+        "longitude": 106.0,
+        "category": "军事",
+        "region": "越南",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲经院哲学繁荣",
+        "description": "托马斯·阿奎那等神学家建立经院哲学体系。",
+        "latitude": 48.0,
+        "longitude": 2.0,
+        "category": "文化",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "教皇英诺森三世号召十字军",
+        "description": "英诺森三世布道。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "教皇国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "巴黎大学兴盛",
+        "description": "学术中心。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "教育",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "中国南宋理学",
+        "description": "朱熹。",
+        "latitude": 34.0,
+        "longitude": 118.0,
+        "category": "哲学",
+        "region": "南宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1202,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "第四次十字军东征",
+        "description": "教皇英诺森三世发动第四次十字军东征。十字军在威尼斯总督的诱导下改变进攻方向，不去埃及而转攻君士坦丁堡，最终攻陷并洗劫了这座基督教城市。",
+        "latitude": 41.0,
+        "longitude": 28.9,
+        "category": "军事",
+        "region": "拜占庭",
+        "continent": "欧洲"
+      },
+      {
+        "title": "蒙古帝国扩张",
+        "description": "蒙古铁骑横扫欧亚大陆，建立世界史上最大帝国。",
+        "latitude": 47.0,
+        "longitude": 107.0,
+        "category": "军事",
+        "region": "蒙古帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "中亚帖木儿帝国前身",
+        "description": "中亚在蒙古统治后逐渐恢复。",
+        "latitude": 40.0,
+        "longitude": 66.0,
+        "category": "政治",
+        "region": "中亚",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1203,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "第四次十字军攻占君士坦丁堡",
+        "description": "第四次十字军攻陷君士坦丁堡，建立拉丁帝国。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "军事",
+        "region": "十字军",
+        "continent": "欧洲"
+      },
+      {
+        "title": "马可·波罗时代",
+        "description": "马可·波罗等欧洲旅行家往来于欧亚大陆。",
+        "latitude": 45.4,
+        "longitude": 12.3,
+        "category": "文化",
+        "region": "欧洲",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1204,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋宁宗赵扩", "era": "嘉泰四年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金章宗完颜璟", "era": "泰和四年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰四年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和四年"
+      }
     ],
     "events": [
-      { "title": "十字军攻陷君士坦丁堡", "description": "第四次十字军攻陷拜占庭帝国首都君士坦丁堡，纵火焚烧三天三夜，掳走无数珍宝。十字军在此建立拉丁帝国，拜占庭帝国分裂流亡。此事件加深了东西方基督教会的裂痕。", "latitude": 41.0, "longitude": 28.9, "category": "军事", "region": "拜占庭", "continent": "欧洲" }
+      {
+        "title": "十字军攻陷君士坦丁堡",
+        "description": "第四次十字军攻陷拜占庭帝国首都君士坦丁堡，纵火焚烧三天三夜，掳走无数珍宝。十字军在此建立拉丁帝国，拜占庭帝国分裂流亡。此事件加深了东西方基督教会的裂痕。",
+        "latitude": 41.0,
+        "longitude": 28.9,
+        "category": "军事",
+        "region": "拜占庭",
+        "continent": "欧洲"
+      },
+      {
+        "title": "元朝商业繁荣",
+        "description": "元朝建立后亚欧大陆贸易畅通。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "经济",
+        "region": "元",
+        "continent": "亚洲"
+      },
+      {
+        "title": "越南陈朝制度建设",
+        "description": "陈朝在越南完善科举和行政体系。",
+        "latitude": 21.0,
+        "longitude": 106.0,
+        "category": "政治",
+        "region": "越南",
+        "continent": "亚洲"
+      },
+      {
+        "title": "拉丁帝国建立",
+        "description": "鲍德温称帝。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拉丁帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1205,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "拉丁帝国建立",
+        "description": "佛兰德伯爵鲍德温加冕为拉丁帝国皇帝。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拉丁帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "欧洲哥特式建筑",
+        "description": "巴黎圣母院、沙特尔和科隆大教堂等哥特式建筑兴建。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "文化",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "十字军在希腊",
+        "description": "拉丁帝国。",
+        "latitude": 38.0,
+        "longitude": 23.0,
+        "category": "政治",
+        "region": "拉丁帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "欧洲眼科医学",
+        "description": "眼镜。",
+        "latitude": 48.0,
+        "longitude": 2.0,
+        "category": "医学",
+        "region": "意大利",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1206,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋宁宗赵扩", "era": "开禧二年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金章宗完颜璟", "era": "泰和六年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "开禧二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和六年"
+      }
     ],
     "events": [
-      { "title": "铁木真统一蒙古", "description": "铁木真在斡难河源召开忽里勒台大会，被推举为成吉思汗，建立大蒙古国。成吉思汗颁布《大扎撒》，建立千户制、怯薛军等制度，蒙古帝国由此崛起。", "latitude": 48.0, "longitude": 108.0, "category": "政治", "region": "蒙古", "continent": "亚洲" },
-      { "title": "开禧北伐", "description": "南宋宰相韩侂胄发动北伐，意图收复中原。宋军初期取得小胜，但因准备不足和将领无能，很快被金军击败。金军反攻进入淮南，南宋被迫求和。", "latitude": 31.5, "longitude": 117.0, "category": "军事", "region": "南宋", "continent": "亚洲" }
+      {
+        "title": "铁木真统一蒙古",
+        "description": "铁木真在斡难河源召开忽里勒台大会，被推举为成吉思汗，建立大蒙古国。成吉思汗颁布《大扎撒》，建立千户制、怯薛军等制度，蒙古帝国由此崛起。",
+        "latitude": 48.0,
+        "longitude": 108.0,
+        "category": "政治",
+        "region": "蒙古",
+        "continent": "亚洲"
+      },
+      {
+        "title": "开禧北伐",
+        "description": "南宋宰相韩侂胄发动北伐，意图收复中原。宋军初期取得小胜，但因准备不足和将领无能，很快被金军击败。金军反攻进入淮南，南宋被迫求和。",
+        "latitude": 31.5,
+        "longitude": 117.0,
+        "category": "军事",
+        "region": "南宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "非洲埃塞俄比亚扎格维王朝",
+        "description": "埃塞俄比亚扎格维王朝统治，拉利贝拉岩石教堂开凿。",
+        "latitude": 12.0,
+        "longitude": 39.0,
+        "category": "文化",
+        "region": "埃塞俄比亚",
+        "continent": "非洲"
+      },
+      {
+        "title": "铁木真称成吉思汗",
+        "description": "蒙古帝国创立。",
+        "latitude": 48.0,
+        "longitude": 108.0,
+        "category": "政治",
+        "region": "蒙古帝国",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1207,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "成吉思汗统一蒙古各部",
+        "description": "铁木真在斡难河源被推举为成吉思汗，建立蒙古帝国。",
+        "latitude": 48.0,
+        "longitude": 108.0,
+        "category": "政治",
+        "region": "蒙古帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲封建王权强化",
+        "description": "英法等国中央集权王权逐步增强。",
+        "latitude": 48.0,
+        "longitude": 2.0,
+        "category": "政治",
+        "region": "欧洲",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1208,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋宁宗赵扩", "era": "嘉定元年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金章宗完颜璟", "era": "泰和八年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉定元年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和八年"
+      }
     ],
     "events": [
-      { "title": "嘉定和议", "description": "南宋与金国签订嘉定和议：南宋将岁币增至银绢各三十万，另付金军犒军银三百万两，并斩杀韩侂胄将其首级送往金国。这是南宋最为屈辱的和约之一。", "latitude": 30.3, "longitude": 120.2, "category": "外交", "region": "南宋", "continent": "亚洲" }
+      {
+        "title": "嘉定和议",
+        "description": "南宋与金国签订嘉定和议：南宋将岁币增至银绢各三十万，另付金军犒军银三百万两，并斩杀韩侂胄将其首级送往金国。这是南宋最为屈辱的和约之一。",
+        "latitude": 30.3,
+        "longitude": 120.2,
+        "category": "外交",
+        "region": "南宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿尔比十字军",
+        "description": "法国南部征异端。",
+        "latitude": 43.5,
+        "longitude": 2.0,
+        "category": "军事",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1209,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋宁宗赵扩", "era": "嘉定二年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金卫绍王完颜永济", "era": "大安元年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉定二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金卫绍王完颜永济",
+        "era": "大安元年"
+      }
     ],
     "events": [
-      { "title": "成吉思汗征伐西夏", "description": "成吉思汗率蒙古军首次进攻西夏，围攻西夏首都中兴府（今银川）。西夏襄宗纳女请和，蒙古退兵。西夏被迫臣服蒙古，成为蒙古西征的协助力量。", "latitude": 38.5, "longitude": 106.3, "category": "军事", "region": "蒙古", "continent": "亚洲" }
+      {
+        "title": "成吉思汗征伐西夏",
+        "description": "成吉思汗率蒙古军首次进攻西夏，围攻西夏首都中兴府（今银川）。西夏襄宗纳女请和，蒙古退兵。西夏被迫臣服蒙古，成为蒙古西征的协助力量。",
+        "latitude": 38.5,
+        "longitude": 106.3,
+        "category": "军事",
+        "region": "蒙古",
+        "continent": "亚洲"
+      },
+      {
+        "title": "剑桥大学始",
+        "description": "剑桥形成。",
+        "latitude": 52.2,
+        "longitude": 0.1,
+        "category": "文化",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1210,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "圣方济各会成立",
+        "description": "阿西西的方济各创立方济各托钵修会。",
+        "latitude": 43.1,
+        "longitude": 12.6,
+        "category": "宗教",
+        "region": "教皇国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "剑桥大学成立",
+        "description": "剑桥大学开始形成。",
+        "latitude": 52.2,
+        "longitude": 0.1,
+        "category": "文化",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "伊杜米斯成为德里苏丹",
+        "description": "伊杜米斯巩固德里苏丹国统治。",
+        "latitude": 28.6,
+        "longitude": 77.2,
+        "category": "政治",
+        "region": "德里苏丹国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "商业革命在意大利",
+        "description": "银行。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "金融",
+        "region": "意大利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "蒙古文字创制",
+        "description": "回鹘蒙文。",
+        "latitude": 47.0,
+        "longitude": 107.0,
+        "category": "文字",
+        "region": "蒙古帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1211,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋宁宗赵扩", "era": "嘉定四年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金卫绍王完颜永济", "era": "大安三年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉定四年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金卫绍王完颜永济",
+        "era": "大安三年"
+      }
     ],
     "events": [
-      { "title": "野狐岭之战", "description": "成吉思汗率蒙古军在野狐岭（今河北万全）与金国主力四十万大军决战。蒙古军以少胜多，大破金军，金国精锐几乎全军覆没。此战是蒙金战争的关键转折点。", "latitude": 40.9, "longitude": 114.7, "category": "军事", "region": "蒙古", "continent": "亚洲" }
+      {
+        "title": "野狐岭之战",
+        "description": "成吉思汗率蒙古军在野狐岭（今河北万全）与金国主力四十万大军决战。蒙古军以少胜多，大破金军，金国精锐几乎全军覆没。此战是蒙金战争的关键转折点。",
+        "latitude": 40.9,
+        "longitude": 114.7,
+        "category": "军事",
+        "region": "蒙古",
+        "continent": "亚洲"
+      },
+      {
+        "title": "蒙古攻金",
+        "description": "成吉思汗攻金。",
+        "latitude": 42.0,
+        "longitude": 115.0,
+        "category": "军事",
+        "region": "蒙古帝国",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1212,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "儿童十字军",
+        "description": "法国和德国出现儿童十字军运动，大量儿童前往圣地。",
+        "latitude": 47.0,
+        "longitude": 2.0,
+        "category": "宗教",
+        "region": "十字军",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1213,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "教皇英诺森三世号召第五次十字军",
+        "description": "教皇英诺森三世发布诏令号召发动第五次十字军东征。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "教皇国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "蒙古破居庸关",
+        "description": "金中都告急。",
+        "latitude": 40.0,
+        "longitude": 116.0,
+        "category": "军事",
+        "region": "蒙古帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1214,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋宁宗赵扩", "era": "嘉定七年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金宣宗完颜珣", "era": "贞祐二年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉定七年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金宣宗完颜珣",
+        "era": "贞祐二年"
+      }
     ],
     "events": [
-      { "title": "金宣宗南迁汴京", "description": "面对蒙古军的强大攻势，金宣宗放弃中都燕京，迁都汴京（开封）。此举导致金国北方州县人心涣散，蒙古军轻松占领中都，金国疆域大幅缩水。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "金", "continent": "亚洲" }
+      {
+        "title": "金宣宗南迁汴京",
+        "description": "面对蒙古军的强大攻势，金宣宗放弃中都燕京，迁都汴京（开封）。此举导致金国北方州县人心涣散，蒙古军轻松占领中都，金国疆域大幅缩水。",
+        "latitude": 34.8,
+        "longitude": 114.3,
+        "category": "政治",
+        "region": "金",
+        "continent": "亚洲"
+      },
+      {
+        "title": "金迁都汴京",
+        "description": "金迁开封。",
+        "latitude": 34.8,
+        "longitude": 114.3,
+        "category": "政治",
+        "region": "金",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1215,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋宁宗赵扩", "era": "嘉定八年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金宣宗完颜珣", "era": "贞祐三年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉定八年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金宣宗完颜珣",
+        "era": "贞祐三年"
+      }
     ],
     "events": [
-      { "title": "蒙古攻占金中都", "description": "蒙古军攻陷金国中都燕京，焚毁宫室，掠夺大量人口和财富。金国北方统治彻底崩溃，蒙古势力深入中原腹地。", "latitude": 39.9, "longitude": 116.4, "category": "军事", "region": "蒙古", "continent": "亚洲" },
-      { "title": "《大宪章》签署", "description": "英格兰国王约翰在兰尼米德被迫与贵族代表签署《大宪章》，确立了法律高于王权、贵族权利不受侵犯等原则。大宪章被视为英国立宪政治的基石，影响深远。", "latitude": 51.4, "longitude": -0.5, "category": "政治", "region": "英格兰", "continent": "欧洲" }
+      {
+        "title": "蒙古攻占金中都",
+        "description": "蒙古军攻陷金国中都燕京，焚毁宫室，掠夺大量人口和财富。金国北方统治彻底崩溃，蒙古势力深入中原腹地。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "军事",
+        "region": "蒙古",
+        "continent": "亚洲"
+      },
+      {
+        "title": "《大宪章》签署",
+        "description": "英格兰国王约翰在兰尼米德被迫与贵族代表签署《大宪章》，确立了法律高于王权、贵族权利不受侵犯等原则。大宪章被视为英国立宪政治的基石，影响深远。",
+        "latitude": 51.4,
+        "longitude": -0.5,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1216,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "英格兰路易王子入侵",
+        "description": "法国路易王子应英格兰贵族邀请入侵英格兰。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "军事",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "教皇洪诺留三世",
+        "description": "新教皇。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "教皇国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1217,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋宁宗赵扩", "era": "嘉定十年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金宣宗完颜珣", "era": "贞祐五年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉定十年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金宣宗完颜珣",
+        "era": "贞祐五年"
+      }
     ],
     "events": [
-      { "title": "成吉思汗西征开始", "description": "成吉思汗以花剌子模杀害蒙古商队和使臣为由，亲率二十万大军西征。蒙古军势如破竹，先后攻占讹答剌、布哈拉、撒马尔罕等中亚名城，花剌子模王国灭亡。", "latitude": 39.7, "longitude": 66.0, "category": "军事", "region": "蒙古", "continent": "亚洲" }
+      {
+        "title": "成吉思汗西征开始",
+        "description": "成吉思汗以花剌子模杀害蒙古商队和使臣为由，亲率二十万大军西征。蒙古军势如破竹，先后攻占讹答剌、布哈拉、撒马尔罕等中亚名城，花剌子模王国灭亡。",
+        "latitude": 39.7,
+        "longitude": 66.0,
+        "category": "军事",
+        "region": "蒙古",
+        "continent": "亚洲"
+      },
+      {
+        "title": "第五次十字军",
+        "description": "十字军攻埃及。",
+        "latitude": 31.5,
+        "longitude": 31.0,
+        "category": "军事",
+        "region": "十字军",
+        "continent": "非洲"
+      }
+    ]
+  },
+  {
+    "year": 1218,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "蒙古灭西辽",
+        "description": "屈出律亡。",
+        "latitude": 42.0,
+        "longitude": 78.0,
+        "category": "军事",
+        "region": "蒙古帝国",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1219,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "第五次十字军进攻埃及",
+        "description": "第五次十字军进攻埃及达米埃塔。",
+        "latitude": 31.4,
+        "longitude": 31.8,
+        "category": "军事",
+        "region": "十字军",
+        "continent": "非洲"
+      },
+      {
+        "title": "蒙古攻花剌子模",
+        "description": "中亚大战。",
+        "latitude": 41.0,
+        "longitude": 60.0,
+        "category": "军事",
+        "region": "蒙古帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1220,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋宁宗赵扩", "era": "嘉定十三年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金宣宗完颜珣", "era": "兴定四年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉定十三年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金宣宗完颜珣",
+        "era": "兴定四年"
+      }
     ],
     "events": [
-      { "title": "蒙古攻占撒马尔罕", "description": "成吉思汗攻克花剌子模首都撒马尔罕，城中数万守军和居民被杀。花剌子模苏丹摩诃末逃亡至里海小岛病死，其子札兰丁继续抵抗。蒙古军随后攻占玉龙杰赤等城。", "latitude": 39.6, "longitude": 66.9, "category": "军事", "region": "蒙古", "continent": "亚洲" },
-      { "title": "巴黎大学正式成立", "description": "法国国王腓力二世正式承认巴黎大学的合法地位。巴黎大学由圣母院学校发展而来，后成为欧洲中世纪最著名的学术中心之一，吸引托马斯·阿奎那等大师执教。", "latitude": 48.9, "longitude": 2.3, "category": "文化", "region": "法兰西", "continent": "欧洲" }
+      {
+        "title": "蒙古攻占撒马尔罕",
+        "description": "成吉思汗攻克花剌子模首都撒马尔罕，城中数万守军和居民被杀。花剌子模苏丹摩诃末逃亡至里海小岛病死，其子札兰丁继续抵抗。蒙古军随后攻占玉龙杰赤等城。",
+        "latitude": 39.6,
+        "longitude": 66.9,
+        "category": "军事",
+        "region": "蒙古",
+        "continent": "亚洲"
+      },
+      {
+        "title": "巴黎大学正式成立",
+        "description": "法国国王腓力二世正式承认巴黎大学的合法地位。巴黎大学由圣母院学校发展而来，后成为欧洲中世纪最著名的学术中心之一，吸引托马斯·阿奎那等大师执教。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "文化",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "瑞典与诺夫哥罗德战争",
+        "description": "瑞典与诺夫哥罗德争夺芬兰湾。",
+        "latitude": 60.0,
+        "longitude": 25.0,
+        "category": "军事",
+        "region": "瑞典",
+        "continent": "欧洲"
+      },
+      {
+        "title": "素可泰王国建立",
+        "description": "泰人在湄南河流域建立素可泰王国。",
+        "latitude": 17.0,
+        "longitude": 99.8,
+        "category": "政治",
+        "region": "素可泰",
+        "continent": "亚洲"
+      },
+      {
+        "title": "蒙古帝国驿站",
+        "description": "站赤。",
+        "latitude": 47.0,
+        "longitude": 107.0,
+        "category": "交通",
+        "region": "蒙古帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲风车技术",
+        "description": "风车。",
+        "latitude": 52.0,
+        "longitude": 5.0,
+        "category": "科技",
+        "region": "尼德兰",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1221,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋宁宗赵扩", "era": "嘉定十四年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金宣宗完颜珣", "era": "兴定五年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉定十四年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金宣宗完颜珣",
+        "era": "兴定五年"
+      }
     ],
     "events": [
-      { "title": "印度河战役", "description": "成吉思汗在印度河畔击败花剌子模王子札兰丁的军队。札兰丁跃马跳入印度河逃走。蒙古军追击至印度北部，因气候炎热、道路难行而止步。", "latitude": 34.0, "longitude": 72.0, "category": "军事", "region": "蒙古", "continent": "亚洲" }
+      {
+        "title": "印度河战役",
+        "description": "成吉思汗在印度河畔击败花剌子模王子札兰丁的军队。札兰丁跃马跳入印度河逃走。蒙古军追击至印度北部，因气候炎热、道路难行而止步。",
+        "latitude": 34.0,
+        "longitude": 72.0,
+        "category": "军事",
+        "region": "蒙古",
+        "continent": "亚洲"
+      },
+      {
+        "title": "蒙古灭花剌子模",
+        "description": "摩诃末亡。",
+        "latitude": 40.0,
+        "longitude": 58.0,
+        "category": "军事",
+        "region": "蒙古帝国",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1222,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "匈牙利安德烈二世颁布金玺诏书",
+        "description": "匈牙利国王安德烈二世颁布金玺诏书，确认贵族特权。",
+        "latitude": 47.5,
+        "longitude": 19.0,
+        "category": "政治",
+        "region": "匈牙利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "蒙古征俄罗斯",
+        "description": "蒙古入基辅。",
+        "latitude": 50.5,
+        "longitude": 30.5,
+        "category": "军事",
+        "region": "蒙古帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1223,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋宁宗赵扩", "era": "嘉定十六年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金宣宗完颜珣", "era": "元光二年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉定十六年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金宣宗完颜珣",
+        "era": "元光二年"
+      }
     ],
     "events": [
-      { "title": "蒙古军首次入侵俄罗斯", "description": "蒙古将领哲别、速不台率军在迦勒迦河战役中大败基辅罗斯联军，杀六位王公和约七万士兵。蒙古军在劫掠克里米亚后东返，这是蒙古首次进入东欧。", "latitude": 47.0, "longitude": 37.5, "category": "军事", "region": "蒙古", "continent": "欧洲" }
+      {
+        "title": "蒙古军首次入侵俄罗斯",
+        "description": "蒙古将领哲别、速不台率军在迦勒迦河战役中大败基辅罗斯联军，杀六位王公和约七万士兵。蒙古军在劫掠克里米亚后东返，这是蒙古首次进入东欧。",
+        "latitude": 47.0,
+        "longitude": 37.5,
+        "category": "军事",
+        "region": "蒙古",
+        "continent": "欧洲"
+      },
+      {
+        "title": "迦勒迦河战役",
+        "description": "蒙古胜罗斯。",
+        "latitude": 47.0,
+        "longitude": 37.0,
+        "category": "军事",
+        "region": "蒙古帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1224,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "那不勒斯腓特烈大学成立",
+        "description": "神圣罗马帝国皇帝腓特烈二世在那不勒斯创办大学。",
+        "latitude": 40.9,
+        "longitude": 14.3,
+        "category": "文化",
+        "region": "西西里王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "成吉思汗东归",
+        "description": "成吉思汗回。",
+        "latitude": 47.0,
+        "longitude": 107.0,
+        "category": "政治",
+        "region": "蒙古帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1225,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋宁宗赵扩", "era": "嘉定十八年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金宣宗完颜珣", "era": "正大二年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉定十八年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金宣宗完颜珣",
+        "era": "正大二年"
+      }
     ],
     "events": [
-      { "title": "成吉思汗返回蒙古", "description": "成吉思汗结束历时七年的西征返回蒙古草原。蒙古帝国的版图已从中国北部延伸至里海和印度河流域，成为人类历史上疆域最辽阔的帝国之一。", "latitude": 48.0, "longitude": 108.0, "category": "军事", "region": "蒙古", "continent": "亚洲" }
+      {
+        "title": "成吉思汗返回蒙古",
+        "description": "成吉思汗结束历时七年的西征返回蒙古草原。蒙古帝国的版图已从中国北部延伸至里海和印度河流域，成为人类历史上疆域最辽阔的帝国之一。",
+        "latitude": 48.0,
+        "longitude": 108.0,
+        "category": "军事",
+        "region": "蒙古",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲大学蓬勃发展",
+        "description": "牛津、剑桥、巴黎大学获得特许状。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "文化",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "蒙古灭西夏",
+        "description": "西夏亡。",
+        "latitude": 38.0,
+        "longitude": 106.0,
+        "category": "军事",
+        "region": "蒙古帝国",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1226,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "条顿骑士团征服普鲁士",
+        "description": "条顿骑士团应波兰公爵邀请开始在普鲁士地区征服异教徒。",
+        "latitude": 54.0,
+        "longitude": 20.0,
+        "category": "军事",
+        "region": "条顿骑士团",
+        "continent": "欧洲"
+      },
+      {
+        "title": "金末帝完颜守绪",
+        "description": "金逃蔡州。",
+        "latitude": 34.0,
+        "longitude": 114.0,
+        "category": "政治",
+        "region": "金",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1227,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋宁宗赵扩", "era": "宝庆三年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金哀宗完颜守绪", "era": "正大四年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "宝庆三年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金哀宗完颜守绪",
+        "era": "正大四年"
+      }
     ],
     "events": [
-      { "title": "成吉思汗逝世", "description": "成吉思汗在征伐西夏途中病逝于六盘山，终年六十六岁。临终前留下灭金联宋的遗嘱。其子拖雷监国，后由窝阔台继承大汗之位。西夏随即投降被灭。", "latitude": 35.5, "longitude": 106.2, "category": "政治", "region": "蒙古", "continent": "亚洲" },
-      { "title": "西夏灭亡", "description": "蒙古军按照成吉思汗遗命，在成吉思汗死后将西夏末帝斩杀，西夏灭亡。立国189年的西夏王国彻底覆灭，其文明成果和文字在后世失传。", "latitude": 38.5, "longitude": 106.3, "category": "军事", "region": "蒙古", "continent": "亚洲" }
+      {
+        "title": "成吉思汗逝世",
+        "description": "成吉思汗在征伐西夏途中病逝于六盘山，终年六十六岁。临终前留下灭金联宋的遗嘱。其子拖雷监国，后由窝阔台继承大汗之位。西夏随即投降被灭。",
+        "latitude": 35.5,
+        "longitude": 106.2,
+        "category": "政治",
+        "region": "蒙古",
+        "continent": "亚洲"
+      },
+      {
+        "title": "西夏灭亡",
+        "description": "蒙古军按照成吉思汗遗命，在成吉思汗死后将西夏末帝斩杀，西夏灭亡。立国189年的西夏王国彻底覆灭，其文明成果和文字在后世失传。",
+        "latitude": 38.5,
+        "longitude": 106.3,
+        "category": "军事",
+        "region": "蒙古",
+        "continent": "亚洲"
+      },
+      {
+        "title": "蒙古攻金开封",
+        "description": "金大乱。",
+        "latitude": 34.8,
+        "longitude": 114.3,
+        "category": "军事",
+        "region": "蒙古帝国",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1228,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "腓特烈二世第六次十字军",
+        "description": "神圣罗马帝国皇帝腓特烈二世率领第六次十字军东征。",
+        "latitude": 37.0,
+        "longitude": 15.0,
+        "category": "军事",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1229,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋理宗赵昀", "era": "绍定二年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金哀宗完颜守绪", "era": "正大六年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋理宗赵昀",
+        "era": "绍定二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金哀宗完颜守绪",
+        "era": "正大六年"
+      }
     ],
     "events": [
-      { "title": "窝阔台即位大汗", "description": "成吉思汗第三子窝阔台在忽里勒台大会上被推举为大蒙古国第二位大汗。窝阔台在位期间灭金、建立驿站系统、修建和林都城，蒙古帝国继续扩张。", "latitude": 47.2, "longitude": 102.5, "category": "政治", "region": "蒙古", "continent": "亚洲" }
+      {
+        "title": "窝阔台即位大汗",
+        "description": "成吉思汗第三子窝阔台在忽里勒台大会上被推举为大蒙古国第二位大汗。窝阔台在位期间灭金、建立驿站系统、修建和林都城，蒙古帝国继续扩张。",
+        "latitude": 47.2,
+        "longitude": 102.5,
+        "category": "政治",
+        "region": "蒙古",
+        "continent": "亚洲"
+      },
+      {
+        "title": "十字军得耶路撒冷",
+        "description": "耶路撒冷归。",
+        "latitude": 31.8,
+        "longitude": 35.2,
+        "category": "军事",
+        "region": "神圣罗马帝国",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1230,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "条顿骑士团与波兰结盟",
+        "description": "条顿骑士团与波兰的马佐维亚公国结盟。",
+        "latitude": 53.0,
+        "longitude": 20.0,
+        "category": "外交",
+        "region": "条顿骑士团",
+        "continent": "欧洲"
+      },
+      {
+        "title": "拔都西征准备",
+        "description": "速不台。",
+        "latitude": 47.0,
+        "longitude": 107.0,
+        "category": "军事",
+        "region": "蒙古帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲城市自治运动",
+        "description": "公社运动。",
+        "latitude": 50.0,
+        "longitude": 7.0,
+        "category": "社会",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "苏菲派诗歌",
+        "description": "鲁米。",
+        "latitude": 36.0,
+        "longitude": 50.0,
+        "category": "文学",
+        "region": "波斯",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1231,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋理宗赵昀", "era": "绍定四年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金哀宗完颜守绪", "era": "正大八年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋理宗赵昀",
+        "era": "绍定四年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金哀宗完颜守绪",
+        "era": "正大八年"
+      }
     ],
     "events": [
-      { "title": "三峰山之战", "description": "窝阔台命拖雷率蒙古军四万在三峰山（今河南禹州）与金军十五万决战。天降大雪，金军冻伤无数，蒙古军大获全胜，金国精锐尽失。", "latitude": 34.1, "longitude": 113.4, "category": "军事", "region": "蒙古", "continent": "亚洲" }
+      {
+        "title": "三峰山之战",
+        "description": "窝阔台命拖雷率蒙古军四万在三峰山（今河南禹州）与金军十五万决战。天降大雪，金军冻伤无数，蒙古军大获全胜，金国精锐尽失。",
+        "latitude": 34.1,
+        "longitude": 113.4,
+        "category": "军事",
+        "region": "蒙古",
+        "continent": "亚洲"
+      },
+      {
+        "title": "窝阔台攻金",
+        "description": "三路攻金。",
+        "latitude": 35.0,
+        "longitude": 114.0,
+        "category": "军事",
+        "region": "蒙古帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1232,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋理宗赵昀", "era": "绍定五年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金哀宗完颜守绪", "era": "天兴元年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋理宗赵昀",
+        "era": "绍定五年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金哀宗完颜守绪",
+        "era": "天兴元年"
+      }
     ],
     "events": [
-      { "title": "蒙古军围攻汴京", "description": "蒙古军围攻金国都城汴京，金哀宗逃离汴京前往归德、蔡州。汴京城内发生大疫，五十日内死亡数十万人。金国灭亡进入倒计时。", "latitude": 34.8, "longitude": 114.3, "category": "军事", "region": "蒙古", "continent": "亚洲" }
+      {
+        "title": "蒙古军围攻汴京",
+        "description": "蒙古军围攻金国都城汴京，金哀宗逃离汴京前往归德、蔡州。汴京城内发生大疫，五十日内死亡数十万人。金国灭亡进入倒计时。",
+        "latitude": 34.8,
+        "longitude": 114.3,
+        "category": "军事",
+        "region": "蒙古",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1233,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "教皇格列高利九世设立宗教裁判所",
+        "description": "教皇格列高利九世正式设立宗教裁判所。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "教皇国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1234,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋理宗赵昀", "era": "端平元年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金哀宗完颜守绪", "era": "天兴三年" },
-      { "dynastyId": "yuan", "name": "蒙古", "ruler": "蒙古窝阔台汗", "era": "窝阔台汗六年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋理宗赵昀",
+        "era": "端平元年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金哀宗完颜守绪",
+        "era": "天兴三年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "蒙古",
+        "ruler": "蒙古窝阔台汗",
+        "era": "窝阔台汗六年"
+      }
     ],
     "events": [
-      { "title": "金朝灭亡", "description": "宋蒙联军攻破蔡州（今河南汝南），金哀宗自缢身亡，立国119年的金朝灭亡。金末帝完颜承麟在位不到一日即战死，成为历史上在位最短的皇帝之一。", "latitude": 33.0, "longitude": 114.4, "category": "军事", "region": "蒙古", "continent": "亚洲" }
+      {
+        "title": "金朝灭亡",
+        "description": "宋蒙联军攻破蔡州（今河南汝南），金哀宗自缢身亡，立国119年的金朝灭亡。金末帝完颜承麟在位不到一日即战死，成为历史上在位最短的皇帝之一。",
+        "latitude": 33.0,
+        "longitude": 114.4,
+        "category": "军事",
+        "region": "蒙古",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1235,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋理宗赵昀", "era": "端平二年" },
-      { "dynastyId": "yuan", "name": "蒙古", "ruler": "蒙古窝阔台汗", "era": "窝阔台汗七年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋理宗赵昀",
+        "era": "端平二年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "蒙古",
+        "ruler": "蒙古窝阔台汗",
+        "era": "窝阔台汗七年"
+      }
     ],
     "events": [
-      { "title": "蒙古第二次西征（长子西征）", "description": "窝阔台发动第二次西征（长子西征），由术赤之子拔都为统帅，率五十万大军西征欧洲。蒙古军先后征服钦察、伏尔加保加利亚等地，直逼东欧腹地。", "latitude": 55.8, "longitude": 49.1, "category": "军事", "region": "蒙古", "continent": "欧洲" },
-      { "title": "蒙古攻宋开始", "description": "窝阔台以南宋“端平入洛”破坏盟约为由，派皇子阔端、阔出率军分路攻宋。蒙古军攻入四川、襄阳等地，宋蒙全面战争爆发，持续四十余年。", "latitude": 30.6, "longitude": 104.1, "category": "军事", "region": "蒙古", "continent": "亚洲" }
+      {
+        "title": "蒙古第二次西征（长子西征）",
+        "description": "窝阔台发动第二次西征（长子西征），由术赤之子拔都为统帅，率五十万大军西征欧洲。蒙古军先后征服钦察、伏尔加保加利亚等地，直逼东欧腹地。",
+        "latitude": 55.8,
+        "longitude": 49.1,
+        "category": "军事",
+        "region": "蒙古",
+        "continent": "欧洲"
+      },
+      {
+        "title": "蒙古攻宋开始",
+        "description": "窝阔台以南宋“端平入洛”破坏盟约为由，派皇子阔端、阔出率军分路攻宋。蒙古军攻入四川、襄阳等地，宋蒙全面战争爆发，持续四十余年。",
+        "latitude": 30.6,
+        "longitude": 104.1,
+        "category": "军事",
+        "region": "蒙古",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1236,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋理宗赵昀", "era": "端平三年" },
-      { "dynastyId": "yuan", "name": "蒙古", "ruler": "蒙古窝阔台汗", "era": "窝阔台汗八年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋理宗赵昀",
+        "era": "端平三年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "蒙古",
+        "ruler": "蒙古窝阔台汗",
+        "era": "窝阔台汗八年"
+      }
     ],
     "events": [
-      { "title": "蒙古军攻陷基辅", "description": "拔都率蒙古西征军攻陷基辅罗斯首都基辅，城中居民几乎被屠戮殆尽。基辅罗斯公国从此衰落，东欧政治格局被彻底改变。", "latitude": 50.4, "longitude": 30.5, "category": "军事", "region": "蒙古", "continent": "欧洲" }
+      {
+        "title": "蒙古军攻陷基辅",
+        "description": "拔都率蒙古西征军攻陷基辅罗斯首都基辅，城中居民几乎被屠戮殆尽。基辅罗斯公国从此衰落，东欧政治格局被彻底改变。",
+        "latitude": 50.4,
+        "longitude": 30.5,
+        "category": "军事",
+        "region": "蒙古",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1237,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "蒙古入侵波兰和匈牙利",
+        "description": "蒙古拔都率军侵入波兰和匈牙利，在利格尼茨战役击败波兰联军。",
+        "latitude": 51.0,
+        "longitude": 17.0,
+        "category": "军事",
+        "region": "蒙古帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1238,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": []
+  },
+  {
+    "year": 1239,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "蒙古入侵叙利亚",
+        "description": "蒙古军队入侵叙利亚，逼近大马士革。",
+        "latitude": 35.0,
+        "longitude": 37.0,
+        "category": "军事",
+        "region": "蒙古帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1240,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋理宗赵昀", "era": "嘉熙四年" },
-      { "dynastyId": "yuan", "name": "蒙古", "ruler": "蒙古窝阔台汗", "era": "窝阔台汗十二年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋理宗赵昀",
+        "era": "嘉熙四年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "蒙古",
+        "ruler": "蒙古窝阔台汗",
+        "era": "窝阔台汗十二年"
+      }
     ],
     "events": [
-      { "title": "蒙古军攻陷基辅", "description": "拔都的蒙古西征军攻占基辅，基辅罗斯诸公国相继臣服。蒙古军在波兰、匈牙利等地继续西进，震动整个欧洲。", "latitude": 50.4, "longitude": 30.5, "category": "军事", "region": "蒙古", "continent": "欧洲" }
+      {
+        "title": "蒙古入侵基辅罗斯",
+        "description": "蒙古拔都攻陷基辅。",
+        "latitude": 50.5,
+        "longitude": 30.5,
+        "category": "军事",
+        "region": "蒙古帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "天主教会大学兴起",
+        "description": "大学。",
+        "latitude": 48.0,
+        "longitude": 2.0,
+        "category": "教育",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "欧洲火药传入",
+        "description": "火药武器。",
+        "latitude": 50.0,
+        "longitude": 10.0,
+        "category": "军事科技",
+        "region": "欧洲",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1241,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋理宗赵昀", "era": "淳祐元年" },
-      { "dynastyId": "yuan", "name": "蒙古", "ruler": "蒙古窝阔台汗", "era": "窝阔台汗十三年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋理宗赵昀",
+        "era": "淳祐元年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "蒙古",
+        "ruler": "蒙古窝阔台汗",
+        "era": "窝阔台汗十三年"
+      }
     ],
     "events": [
-      { "title": "莱格尼察战役", "description": "蒙古军在西里西亚的莱格尼察击败波兰-德意志联军，西里西亚公爵亨利二世阵亡。蒙古军横扫匈牙利，攻陷佩斯城，欧洲基督教世界陷入恐慌。", "latitude": 51.2, "longitude": 16.2, "category": "军事", "region": "蒙古", "continent": "欧洲" },
-      { "title": "窝阔台驾崩", "description": "蒙古大汗窝阔台因酗酒暴卒。拔都闻讯后率西征军东返争夺汗位，蒙古第二次西征就此结束。欧洲免于被完全征服的命运。", "latitude": 47.2, "longitude": 102.5, "category": "政治", "region": "蒙古", "continent": "亚洲" }
+      {
+        "title": "莱格尼察战役",
+        "description": "蒙古军在西里西亚的莱格尼察击败波兰-德意志联军，西里西亚公爵亨利二世阵亡。蒙古军横扫匈牙利，攻陷佩斯城，欧洲基督教世界陷入恐慌。",
+        "latitude": 51.2,
+        "longitude": 16.2,
+        "category": "军事",
+        "region": "蒙古",
+        "continent": "欧洲"
+      },
+      {
+        "title": "窝阔台驾崩",
+        "description": "蒙古大汗窝阔台因酗酒暴卒。拔都闻讯后率西征军东返争夺汗位，蒙古第二次西征就此结束。欧洲免于被完全征服的命运。",
+        "latitude": 47.2,
+        "longitude": 102.5,
+        "category": "政治",
+        "region": "蒙古",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1242,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "冰湖之战",
+        "description": "诺夫哥罗德公爵亚历山大·涅夫斯基在楚德湖冰面上击败条顿骑士团。",
+        "latitude": 58.5,
+        "longitude": 27.5,
+        "category": "军事",
+        "region": "诺夫哥罗德",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1243,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋理宗赵昀", "era": "淳祐三年" },
-      { "dynastyId": "yuan", "name": "蒙古", "ruler": "蒙古乃马真后摄政", "era": "乃马真后摄政二年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋理宗赵昀",
+        "era": "淳祐三年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "蒙古",
+        "ruler": "蒙古乃马真后摄政",
+        "era": "乃马真后摄政二年"
+      }
     ],
     "events": [
-      { "title": "科塞达战役", "description": "蒙古军在科塞达战役中击败塞尔柱突厥的罗姆苏丹国军队，塞尔柱突厥从此沦为蒙古藩属。蒙古势力深入小亚细亚，对拜占庭形成直接威胁。", "latitude": 39.9, "longitude": 33.0, "category": "军事", "region": "蒙古", "continent": "亚洲" }
+      {
+        "title": "科塞达战役",
+        "description": "蒙古军在科塞达战役中击败塞尔柱突厥的罗姆苏丹国军队，塞尔柱突厥从此沦为蒙古藩属。蒙古势力深入小亚细亚，对拜占庭形成直接威胁。",
+        "latitude": 39.9,
+        "longitude": 33.0,
+        "category": "军事",
+        "region": "蒙古",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1244,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "耶路撒冷再次被穆斯林攻占",
+        "description": "花剌子模骑兵攻占耶路撒冷，引发第七次十字军。",
+        "latitude": 31.8,
+        "longitude": 35.2,
+        "category": "军事",
+        "region": "阿尤布王朝",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1245,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "教皇英诺森四世召开里昂大公会议",
+        "description": "教皇英诺森四世在里昂召开大公会议，宣布罢黜腓特烈二世。",
+        "latitude": 45.8,
+        "longitude": 4.8,
+        "category": "宗教",
+        "region": "教皇国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1246,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋理宗赵昀", "era": "淳祐六年" },
-      { "dynastyId": "yuan", "name": "蒙古", "ruler": "蒙古贵由汗", "era": "贵由汗元年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋理宗赵昀",
+        "era": "淳祐六年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "蒙古",
+        "ruler": "蒙古贵由汗",
+        "era": "贵由汗元年"
+      }
     ],
     "events": [
-      { "title": "贵由继承大汗之位", "description": "窝阔台长子贵由在忽里勒台大会上被推举为蒙古大汗。教皇英诺森四世派遣使者柏朗嘉宾出使蒙古，试图劝说蒙古停止西征，但遭到贵由汗的拒绝。", "latitude": 47.2, "longitude": 102.5, "category": "政治", "region": "蒙古", "continent": "亚洲" }
+      {
+        "title": "贵由继承大汗之位",
+        "description": "窝阔台长子贵由在忽里勒台大会上被推举为蒙古大汗。教皇英诺森四世派遣使者柏朗嘉宾出使蒙古，试图劝说蒙古停止西征，但遭到贵由汗的拒绝。",
+        "latitude": 47.2,
+        "longitude": 102.5,
+        "category": "政治",
+        "region": "蒙古",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1247,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "神圣罗马帝国王位中断",
+        "description": "神圣罗马帝国在霍亨斯陶芬王朝后期出现王位空缺的大空位时期。",
+        "latitude": 50.0,
+        "longitude": 9.0,
+        "category": "政治",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1248,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋理宗赵昀", "era": "淳祐八年" },
-      { "dynastyId": "yuan", "name": "蒙古", "ruler": "蒙古贵由汗", "era": "贵由汗三年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋理宗赵昀",
+        "era": "淳祐八年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "蒙古",
+        "ruler": "蒙古贵由汗",
+        "era": "贵由汗三年"
+      }
     ],
     "events": [
-      { "title": "贵由汗驾崩", "description": "蒙古大汗贵由在西征拔都途中驾崩，死因成谜。其妻海迷失后摄政，蒙古帝国陷入动荡期。拔都成为蒙古诸王中最有实力的宗王之一。", "latitude": 45.0, "longitude": 80.0, "category": "政治", "region": "蒙古", "continent": "亚洲" }
+      {
+        "title": "贵由汗驾崩",
+        "description": "蒙古大汗贵由在西征拔都途中驾崩，死因成谜。其妻海迷失后摄政，蒙古帝国陷入动荡期。拔都成为蒙古诸王中最有实力的宗王之一。",
+        "latitude": 45.0,
+        "longitude": 80.0,
+        "category": "政治",
+        "region": "蒙古",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1249,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋理宗赵昀", "era": "淳祐九年" },
-      { "dynastyId": "yuan", "name": "蒙古", "ruler": "蒙古海迷失后摄政", "era": "海迷失后摄政元年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋理宗赵昀",
+        "era": "淳祐九年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "蒙古",
+        "ruler": "蒙古海迷失后摄政",
+        "era": "海迷失后摄政元年"
+      }
     ],
     "events": [
-      { "title": "路易九世被俘", "description": "法王路易九世（圣路易）发动第七次十字军东征，进攻埃及。法军在曼苏拉战役中惨败，路易九世被俘，后以重金赎回。此次失败标志着十字军运动走向衰落。", "latitude": 30.1, "longitude": 31.3, "category": "军事", "region": "法兰西", "continent": "非洲" }
+      {
+        "title": "路易九世被俘",
+        "description": "法王路易九世（圣路易）发动第七次十字军东征，进攻埃及。法军在曼苏拉战役中惨败，路易九世被俘，后以重金赎回。此次失败标志着十字军运动走向衰落。",
+        "latitude": 30.1,
+        "longitude": 31.3,
+        "category": "军事",
+        "region": "法兰西",
+        "continent": "非洲"
+      }
     ]
   },
   {
     "year": 1250,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋理宗赵昀", "era": "淳祐十年" },
-      { "dynastyId": "yuan", "name": "蒙古", "ruler": "蒙古海迷失后摄政", "era": "海迷失后摄政二年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋理宗赵昀",
+        "era": "淳祐十年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "蒙古",
+        "ruler": "蒙古海迷失后摄政",
+        "era": "海迷失后摄政二年"
+      }
     ],
     "events": [
-      { "title": "马穆鲁克王朝建立", "description": "埃及马穆鲁克（奴隶骑兵）发动政变，推翻阿尤布王朝，建立马穆鲁克苏丹国。马穆鲁克王朝以开罗为中心，此后数百年成功抵御蒙古西侵和十字军，成为中东强权。", "latitude": 30.0, "longitude": 31.2, "category": "政治", "region": "埃及", "continent": "非洲" }
+      {
+        "title": "马穆鲁克王朝建立",
+        "description": "埃及马穆鲁克（奴隶骑兵）发动政变，推翻阿尤布王朝，建立马穆鲁克苏丹国。马穆鲁克王朝以开罗为中心，此后数百年成功抵御蒙古西侵和十字军，成为中东强权。",
+        "latitude": 30.0,
+        "longitude": 31.2,
+        "category": "政治",
+        "region": "埃及",
+        "continent": "非洲"
+      },
+      {
+        "title": "马里帝国兴起",
+        "description": "松迪亚塔建立马里帝国，西非进入繁荣时代。",
+        "latitude": 14.0,
+        "longitude": -4.0,
+        "category": "政治",
+        "region": "马里帝国",
+        "continent": "非洲"
+      },
+      {
+        "title": "满者伯夷王国兴起",
+        "description": "爪哇的满者伯夷王国建立。",
+        "latitude": -7.3,
+        "longitude": 112.8,
+        "category": "政治",
+        "region": "满者伯夷",
+        "continent": "亚洲"
+      },
+      {
+        "title": "玛雅潘联盟建立",
+        "description": "玛雅潘成为尤卡坦北部新的政治中心。",
+        "latitude": 20.6,
+        "longitude": -89.6,
+        "category": "政治",
+        "region": "玛雅",
+        "continent": "北美洲"
+      },
+      {
+        "title": "波利尼西亚人定居夏威夷",
+        "description": "波利尼西亚人跨越太平洋到达夏威夷群岛。",
+        "latitude": 20.0,
+        "longitude": -156.0,
+        "category": "科技",
+        "region": "波利尼西亚",
+        "continent": "大洋洲"
+      },
+      {
+        "title": "哲学经院哲学",
+        "description": "阿奎那。",
+        "latitude": 48.0,
+        "longitude": 2.0,
+        "category": "哲学",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "日本禅宗文化",
+        "description": "禅。",
+        "latitude": 35.0,
+        "longitude": 136.0,
+        "category": "宗教",
+        "region": "日本",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1251,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋理宗赵昀", "era": "淳祐十一年" },
-      { "dynastyId": "yuan", "name": "蒙古", "ruler": "蒙古蒙哥汗", "era": "蒙哥汗元年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋理宗赵昀",
+        "era": "淳祐十一年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "蒙古",
+        "ruler": "蒙古蒙哥汗",
+        "era": "蒙哥汗元年"
+      }
     ],
     "events": [
-      { "title": "蒙哥即位大汗", "description": "拖雷长子蒙哥在拔都的支持下被推举为蒙古大汗。蒙哥即位后大力整顿朝政，处死海迷失后等政敌，并发动第三次西征和全面灭宋战争。", "latitude": 47.2, "longitude": 102.5, "category": "政治", "region": "蒙古", "continent": "亚洲" }
+      {
+        "title": "蒙哥即位大汗",
+        "description": "拖雷长子蒙哥在拔都的支持下被推举为蒙古大汗。蒙哥即位后大力整顿朝政，处死海迷失后等政敌，并发动第三次西征和全面灭宋战争。",
+        "latitude": 47.2,
+        "longitude": 102.5,
+        "category": "政治",
+        "region": "蒙古",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1252,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋理宗赵昀", "era": "淳祐十二年" },
-      { "dynastyId": "yuan", "name": "蒙古", "ruler": "蒙古蒙哥汗", "era": "蒙哥汗二年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋理宗赵昀",
+        "era": "淳祐十二年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "蒙古",
+        "ruler": "蒙古蒙哥汗",
+        "era": "蒙哥汗二年"
+      }
     ],
     "events": [
-      { "title": "蒙古第三次西征开始", "description": "蒙哥汗命弟旭烈兀率军发动第三次西征。旭烈兀率十余万大军西进，目标直指波斯、阿拉伯和叙利亚地区。此次西征最终导致阿拔斯哈里发灭亡。", "latitude": 35.7, "longitude": 51.4, "category": "军事", "region": "蒙古", "continent": "亚洲" }
+      {
+        "title": "蒙古第三次西征开始",
+        "description": "蒙哥汗命弟旭烈兀率军发动第三次西征。旭烈兀率十余万大军西进，目标直指波斯、阿拉伯和叙利亚地区。此次西征最终导致阿拔斯哈里发灭亡。",
+        "latitude": 35.7,
+        "longitude": 51.4,
+        "category": "军事",
+        "region": "蒙古",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1253,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋理宗赵昀", "era": "宝祐元年" },
-      { "dynastyId": "yuan", "name": "蒙古", "ruler": "蒙古蒙哥汗", "era": "蒙哥汗三年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋理宗赵昀",
+        "era": "宝祐元年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "蒙古",
+        "ruler": "蒙古蒙哥汗",
+        "era": "蒙哥汗三年"
+      }
     ],
     "events": [
-      { "title": "蒙古灭大理国", "description": "蒙哥汗命忽必烈率军远征大理国（今云南）。忽必烈采用“斡腹”战术，从甘肃经四川西部迂回至云南，灭掉大理国。南宋西南防线被突破，陷入两面夹击。", "latitude": 25.6, "longitude": 100.2, "category": "军事", "region": "蒙古", "continent": "亚洲" }
+      {
+        "title": "蒙古灭大理国",
+        "description": "蒙哥汗命忽必烈率军远征大理国（今云南）。忽必烈采用“斡腹”战术，从甘肃经四川西部迂回至云南，灭掉大理国。南宋西南防线被突破，陷入两面夹击。",
+        "latitude": 25.6,
+        "longitude": 100.2,
+        "category": "军事",
+        "region": "蒙古",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1254,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "神圣罗马帝国大空位时期",
+        "description": "威廉伯爵去世，大空位时期正式开始。",
+        "latitude": 50.0,
+        "longitude": 9.0,
+        "category": "政治",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1255,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "威尼斯与热那亚战争",
+        "description": "威尼斯和热那亚两大海上共和国为争夺贸易爆发战争。",
+        "latitude": 44.0,
+        "longitude": 10.0,
+        "category": "军事",
+        "region": "威尼斯共和国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1256,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋理宗赵昀", "era": "宝祐四年" },
-      { "dynastyId": "yuan", "name": "蒙古", "ruler": "蒙古蒙哥汗", "era": "蒙哥汗六年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋理宗赵昀",
+        "era": "宝祐四年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "蒙古",
+        "ruler": "蒙古蒙哥汗",
+        "era": "蒙哥汗六年"
+      }
     ],
     "events": [
-      { "title": "旭烈兀灭阿萨辛派", "description": "旭烈兀率蒙古军攻陷波斯阿拉穆特堡，消灭了著名的伊斯兰阿萨辛派（刺客派）。蒙古军随后继续向西进发，目标直指巴格达的阿拔斯哈里发。", "latitude": 36.5, "longitude": 50.5, "category": "军事", "region": "蒙古", "continent": "亚洲" }
+      {
+        "title": "旭烈兀灭阿萨辛派",
+        "description": "旭烈兀率蒙古军攻陷波斯阿拉穆特堡，消灭了著名的伊斯兰阿萨辛派（刺客派）。蒙古军随后继续向西进发，目标直指巴格达的阿拔斯哈里发。",
+        "latitude": 36.5,
+        "longitude": 50.5,
+        "category": "军事",
+        "region": "蒙古",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1257,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "剑桥大学获特许状",
+        "description": "剑桥大学获得亨利三世颁发的皇家特许状。",
+        "latitude": 52.2,
+        "longitude": 0.1,
+        "category": "文化",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1258,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋理宗赵昀", "era": "宝祐六年" },
-      { "dynastyId": "yuan", "name": "蒙古", "ruler": "蒙古蒙哥汗", "era": "蒙哥汗八年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋理宗赵昀",
+        "era": "宝祐六年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "蒙古",
+        "ruler": "蒙古蒙哥汗",
+        "era": "蒙哥汗八年"
+      }
     ],
     "events": [
-      { "title": "巴格达陷落", "description": "旭烈兀率蒙古军攻陷巴格达，阿拔斯王朝第三十七任哈里发穆斯台绥木被杀，立国五百余年的阿拔斯王朝灭亡。城中数十万居民被屠，智慧宫等无数珍贵典籍被焚毁，伊斯兰文明遭受重创。", "latitude": 33.3, "longitude": 44.4, "category": "军事", "region": "蒙古", "continent": "亚洲" }
+      {
+        "title": "巴格达陷落",
+        "description": "旭烈兀率蒙古军攻陷巴格达，阿拔斯王朝第三十七任哈里发穆斯台绥木被杀，立国五百余年的阿拔斯王朝灭亡。城中数十万居民被屠，智慧宫等无数珍贵典籍被焚毁，伊斯兰文明遭受重创。",
+        "latitude": 33.3,
+        "longitude": 44.4,
+        "category": "军事",
+        "region": "蒙古",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1259,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋理宗赵昀", "era": "开庆元年" },
-      { "dynastyId": "yuan", "name": "蒙古", "ruler": "蒙古蒙哥汗", "era": "蒙哥汗九年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋理宗赵昀",
+        "era": "开庆元年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "蒙古",
+        "ruler": "蒙古蒙哥汗",
+        "era": "蒙哥汗九年"
+      }
     ],
     "events": [
-      { "title": "蒙哥汗驾崩钓鱼城", "description": "蒙哥汗亲率大军进攻南宋四川，在钓鱼城（今重庆合川）遭到南宋守将王坚的顽强抵抗。蒙哥汗在攻城时被炮石击中负伤，不久死于军中。蒙古军被迫撤退。", "latitude": 30.0, "longitude": 106.3, "category": "军事", "region": "蒙古", "continent": "亚洲" }
+      {
+        "title": "蒙哥汗驾崩钓鱼城",
+        "description": "蒙哥汗亲率大军进攻南宋四川，在钓鱼城（今重庆合川）遭到南宋守将王坚的顽强抵抗。蒙哥汗在攻城时被炮石击中负伤，不久死于军中。蒙古军被迫撤退。",
+        "latitude": 30.0,
+        "longitude": 106.3,
+        "category": "军事",
+        "region": "蒙古",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1260,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋理宗赵昀", "era": "景定元年" },
-      { "dynastyId": "yuan", "name": "蒙古", "ruler": "元世祖忽必烈", "era": "中统元年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋理宗赵昀",
+        "era": "景定元年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "蒙古",
+        "ruler": "元世祖忽必烈",
+        "era": "中统元年"
+      }
     ],
     "events": [
-      { "title": "忽必烈即位与阿里不哥之战", "description": "忽必烈在开平（今内蒙古多伦）抢先召开忽里勒台大会，即蒙古大汗位。其弟阿里不哥在和林也宣布即汗位，蒙古帝国由此爆发持续四年的内战。", "latitude": 42.2, "longitude": 116.2, "category": "政治", "region": "蒙古", "continent": "亚洲" },
-      { "title": "艾因贾鲁战役", "description": "马穆鲁克苏丹忽都斯在艾因贾鲁（今巴勒斯坦）大败蒙古西征军，俘虏并处死蒙古将领怯的不花。这是蒙古军在中东的首次重大失败，阻止了蒙古继续向非洲和地中海扩张。", "latitude": 32.5, "longitude": 35.3, "category": "军事", "region": "埃及", "continent": "亚洲" }
+      {
+        "title": "忽必烈即位与阿里不哥之战",
+        "description": "忽必烈在开平（今内蒙古多伦）抢先召开忽里勒台大会，即蒙古大汗位。其弟阿里不哥在和林也宣布即汗位，蒙古帝国由此爆发持续四年的内战。",
+        "latitude": 42.2,
+        "longitude": 116.2,
+        "category": "政治",
+        "region": "蒙古",
+        "continent": "亚洲"
+      },
+      {
+        "title": "艾因贾鲁战役",
+        "description": "马穆鲁克苏丹忽都斯在艾因贾鲁（今巴勒斯坦）大败蒙古西征军，俘虏并处死蒙古将领怯的不花。这是蒙古军在中东的首次重大失败，阻止了蒙古继续向非洲和地中海扩张。",
+        "latitude": 32.5,
+        "longitude": 35.3,
+        "category": "军事",
+        "region": "埃及",
+        "continent": "亚洲"
+      },
+      {
+        "title": "元朝建立行省制度",
+        "description": "元朝在全国设立行省制度。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "元",
+        "continent": "亚洲"
+      },
+      {
+        "title": "元朝纸钞",
+        "description": "中统宝钞。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "金融",
+        "region": "元",
+        "continent": "亚洲"
+      },
+      {
+        "title": "马可波罗出行",
+        "description": "威尼斯商人。",
+        "latitude": 45.4,
+        "longitude": 12.3,
+        "category": "旅行",
+        "region": "威尼斯共和国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1261,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋理宗赵昀", "era": "景定二年" },
-      { "dynastyId": "yuan", "name": "蒙古", "ruler": "元世祖忽必烈", "era": "中统二年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋理宗赵昀",
+        "era": "景定二年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "蒙古",
+        "ruler": "元世祖忽必烈",
+        "era": "中统二年"
+      }
     ],
     "events": [
-      { "title": "拜占庭复国", "description": "尼西亚帝国皇帝米海尔八世帕里奥洛戈斯收复君士坦丁堡，推翻拉丁帝国，重建拜占庭帝国（帕里奥洛戈斯王朝）。但复国后的拜占庭已大不如前，国土大为缩水。", "latitude": 41.0, "longitude": 28.9, "category": "政治", "region": "拜占庭", "continent": "欧洲" }
+      {
+        "title": "拜占庭复国",
+        "description": "尼西亚帝国皇帝米海尔八世帕里奥洛戈斯收复君士坦丁堡，推翻拉丁帝国，重建拜占庭帝国（帕里奥洛戈斯王朝）。但复国后的拜占庭已大不如前，国土大为缩水。",
+        "latitude": 41.0,
+        "longitude": 28.9,
+        "category": "政治",
+        "region": "拜占庭",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1262,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "挪威控制冰岛（约）",
+        "description": "挪威国王与冰岛签订旧约，冰岛承认挪威宗主权。",
+        "latitude": 64.0,
+        "longitude": -19.0,
+        "category": "政治",
+        "region": "冰岛",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1263,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "威尼斯马可·波罗出发",
+        "description": "马可·波罗随父亲和叔叔从威尼斯出发前往东方。",
+        "latitude": 45.4,
+        "longitude": 12.3,
+        "category": "文化",
+        "region": "威尼斯共和国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1264,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋理宗赵昀", "era": "景定五年" },
-      { "dynastyId": "yuan", "name": "蒙古", "ruler": "元世祖忽必烈", "era": "至元元年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋理宗赵昀",
+        "era": "景定五年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "蒙古",
+        "ruler": "元世祖忽必烈",
+        "era": "至元元年"
+      }
     ],
     "events": [
-      { "title": "忽必烈战胜阿里不哥", "description": "阿里不哥向忽必烈投降，蒙古帝国持续四年的内战结束。忽必烈巩固了大汗之位，但四大汗国自此事实独立，蒙古帝国走向分裂。", "latitude": 42.2, "longitude": 116.2, "category": "政治", "region": "蒙古", "continent": "亚洲" },
-      { "title": "英国议会创立", "description": "英格兰贵族西门·德·蒙福尔战胜国王亨利三世后，召集“西门议会”，首次邀请各郡骑士和各市镇市民代表参加。这是英国历史上第一次有平民代表参与的议会。", "latitude": 51.5, "longitude": -0.1, "category": "政治", "region": "英格兰", "continent": "欧洲" }
+      {
+        "title": "忽必烈战胜阿里不哥",
+        "description": "阿里不哥向忽必烈投降，蒙古帝国持续四年的内战结束。忽必烈巩固了大汗之位，但四大汗国自此事实独立，蒙古帝国走向分裂。",
+        "latitude": 42.2,
+        "longitude": 116.2,
+        "category": "政治",
+        "region": "蒙古",
+        "continent": "亚洲"
+      },
+      {
+        "title": "英国议会创立",
+        "description": "英格兰贵族西门·德·蒙福尔战胜国王亨利三世后，召集“西门议会”，首次邀请各郡骑士和各市镇市民代表参加。这是英国历史上第一次有平民代表参与的议会。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1265,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋度宗赵禥", "era": "咸淳元年" },
-      { "dynastyId": "yuan", "name": "蒙古", "ruler": "元世祖忽必烈", "era": "至元二年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋度宗赵禥",
+        "era": "咸淳元年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "蒙古",
+        "ruler": "元世祖忽必烈",
+        "era": "至元二年"
+      }
     ],
     "events": [
-      { "title": "但丁诞生", "description": "意大利诗人但丁·阿利吉耶里在佛罗伦萨出生。但丁后来创作《神曲》，以史诗形式描绘地狱、炼狱和天堂，成为意大利文学和文艺复兴的先驱。", "latitude": 43.8, "longitude": 11.3, "category": "文化", "region": "意大利", "continent": "欧洲" }
+      {
+        "title": "但丁诞生",
+        "description": "意大利诗人但丁·阿利吉耶里在佛罗伦萨出生。但丁后来创作《神曲》，以史诗形式描绘地狱、炼狱和天堂，成为意大利文学和文艺复兴的先驱。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "文化",
+        "region": "意大利",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1266,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "安茹的查理征服西西里",
+        "description": "安茹的查理在西西里建立安茹王朝统治。",
+        "latitude": 41.0,
+        "longitude": 14.0,
+        "category": "政治",
+        "region": "那不勒斯王国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1267,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "英格兰牛津议会",
+        "description": "英格兰亨利三世与贵族在牛津达成改革协议。",
+        "latitude": 51.8,
+        "longitude": -1.3,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "罗吉尔·培根科学研究",
+        "description": "英国修士罗吉尔·培根倡导实验科学方法。",
+        "latitude": 51.8,
+        "longitude": -1.3,
+        "category": "科技",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1268,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋度宗赵禥", "era": "咸淳四年" },
-      { "dynastyId": "yuan", "name": "蒙古", "ruler": "元世祖忽必烈", "era": "至元五年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋度宗赵禥",
+        "era": "咸淳四年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "蒙古",
+        "ruler": "元世祖忽必烈",
+        "era": "至元五年"
+      }
     ],
     "events": [
-      { "title": "襄樊之战开始", "description": "蒙古军开始围攻南宋战略要地襄阳和樊城。忽必烈采用围城打援战术，在汉水上筑堡封锁。襄阳守将吕文德、吕文焕率军民顽强抵抗，守城长达六年。", "latitude": 32.0, "longitude": 112.2, "category": "军事", "region": "蒙古", "continent": "亚洲" }
+      {
+        "title": "襄樊之战开始",
+        "description": "蒙古军开始围攻南宋战略要地襄阳和樊城。忽必烈采用围城打援战术，在汉水上筑堡封锁。襄阳守将吕文德、吕文焕率军民顽强抵抗，守城长达六年。",
+        "latitude": 32.0,
+        "longitude": 112.2,
+        "category": "军事",
+        "region": "蒙古",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1269,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "蒙古与伊儿汗国",
+        "description": "蒙古帝国的伊儿汗国与金帐汗国发生战争。",
+        "latitude": 40.0,
+        "longitude": 50.0,
+        "category": "军事",
+        "region": "蒙古帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1270,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋度宗赵禥", "era": "咸淳六年" },
-      { "dynastyId": "yuan", "name": "蒙古", "ruler": "元世祖忽必烈", "era": "至元七年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋度宗赵禥",
+        "era": "咸淳六年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "蒙古",
+        "ruler": "元世祖忽必烈",
+        "era": "至元七年"
+      }
     ],
     "events": [
-      { "title": "第八次十字军东征", "description": "法王路易九世发动第八次十字军东征，目标是突尼斯。十字军在突尼斯登陆后遭遇瘟疫，路易九世本人染疫身亡，十字军随即瓦解。路易九世后被封为圣徒。", "latitude": 36.8, "longitude": 10.2, "category": "军事", "region": "法兰西", "continent": "非洲" }
+      {
+        "title": "第八次十字军东征",
+        "description": "法王路易九世发动第八次十字军东征，目标是突尼斯。十字军在突尼斯登陆后遭遇瘟疫，路易九世本人染疫身亡，十字军随即瓦解。路易九世后被封为圣徒。",
+        "latitude": 36.8,
+        "longitude": 10.2,
+        "category": "军事",
+        "region": "法兰西",
+        "continent": "非洲"
+      },
+      {
+        "title": "所罗门王朝在埃塞俄比亚建立",
+        "description": "耶库诺·阿姆拉克建立所罗门王朝。",
+        "latitude": 12.0,
+        "longitude": 39.0,
+        "category": "政治",
+        "region": "埃塞俄比亚",
+        "continent": "非洲"
+      },
+      {
+        "title": "马可波罗旅华",
+        "description": "东方见闻。",
+        "latitude": 45.4,
+        "longitude": 12.3,
+        "category": "旅行",
+        "region": "意大利",
+        "continent": "亚洲"
+      },
+      {
+        "title": "中国戏曲兴起",
+        "description": "杂剧。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "戏曲",
+        "region": "元",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1271,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋度宗赵禥", "era": "咸淳七年" },
-      { "dynastyId": "yuan", "name": "元", "ruler": "元世祖忽必烈", "era": "至元八年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋度宗赵禥",
+        "era": "咸淳七年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元世祖忽必烈",
+        "era": "至元八年"
+      }
     ],
     "events": [
-      { "title": "元朝建立", "description": "忽必烈取《易经》“大哉乾元”之意，正式将国号改为“大元”，是为元朝，忽必烈即元世祖。元朝定都大都（今北京），成为中国历史上第一个由少数民族建立的统一王朝。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "元", "continent": "亚洲" },
-      { "title": "马可·波罗启程东行", "description": "威尼斯商人尼科洛·波罗和马费奥·波罗兄弟携少年马可·波罗从威尼斯出发，前往东方。他们经地中海、两河流域、伊朗高原，最终到达元朝大都。", "latitude": 45.4, "longitude": 12.3, "category": "外交", "region": "威尼斯", "continent": "欧洲" }
+      {
+        "title": "元朝建立",
+        "description": "忽必烈取《易经》“大哉乾元”之意，正式将国号改为“大元”，是为元朝，忽必烈即元世祖。元朝定都大都（今北京），成为中国历史上第一个由少数民族建立的统一王朝。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "元",
+        "continent": "亚洲"
+      },
+      {
+        "title": "马可·波罗启程东行",
+        "description": "威尼斯商人尼科洛·波罗和马费奥·波罗兄弟携少年马可·波罗从威尼斯出发，前往东方。他们经地中海、两河流域、伊朗高原，最终到达元朝大都。",
+        "latitude": 45.4,
+        "longitude": 12.3,
+        "category": "外交",
+        "region": "威尼斯",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1272,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "英格兰爱德华一世即位",
+        "description": "爱德华一世加冕为英格兰国王。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1273,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋度宗赵禥", "era": "咸淳九年" },
-      { "dynastyId": "yuan", "name": "元", "ruler": "元世祖忽必烈", "era": "至元十年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋度宗赵禥",
+        "era": "咸淳九年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元世祖忽必烈",
+        "era": "至元十年"
+      }
     ],
     "events": [
-      { "title": "襄樊失陷", "description": "元军采用回回炮（配重式抛石机）猛轰樊城，城墙崩塌，樊城陷落。襄阳守将吕文焕在孤立无援的情况下投降元朝。襄樊之战结束，南宋门户大开。", "latitude": 32.0, "longitude": 112.2, "category": "军事", "region": "元", "continent": "亚洲" }
+      {
+        "title": "襄樊失陷",
+        "description": "元军采用回回炮（配重式抛石机）猛轰樊城，城墙崩塌，樊城陷落。襄阳守将吕文焕在孤立无援的情况下投降元朝。襄樊之战结束，南宋门户大开。",
+        "latitude": 32.0,
+        "longitude": 112.2,
+        "category": "军事",
+        "region": "元",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1274,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋度宗赵禥", "era": "咸淳十年" },
-      { "dynastyId": "yuan", "name": "元", "ruler": "元世祖忽必烈", "era": "至元十一年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋度宗赵禥",
+        "era": "咸淳十年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元世祖忽必烈",
+        "era": "至元十一年"
+      }
     ],
     "events": [
-      { "title": "元日战争（文永之役）", "description": "忽必烈派遣三万二千元军和九百艘战船东征日本。元军在九州博多湾登陆，遭到日本武士的顽强抵抗。当晚遭遇台风（神风），元军损失惨重，被迫撤退。", "latitude": 33.6, "longitude": 130.4, "category": "军事", "region": "元", "continent": "亚洲" }
+      {
+        "title": "元日战争（文永之役）",
+        "description": "忽必烈派遣三万二千元军和九百艘战船东征日本。元军在九州博多湾登陆，遭到日本武士的顽强抵抗。当晚遭遇台风（神风），元军损失惨重，被迫撤退。",
+        "latitude": 33.6,
+        "longitude": 130.4,
+        "category": "军事",
+        "region": "元",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1275,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋恭帝赵㬎", "era": "德祐元年" },
-      { "dynastyId": "yuan", "name": "元", "ruler": "元世祖忽必烈", "era": "至元十二年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋恭帝赵㬎",
+        "era": "德祐元年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元世祖忽必烈",
+        "era": "至元十二年"
+      }
     ],
     "events": [
-      { "title": "丁家洲之战", "description": "元军统帅伯颜在丁家洲（今安徽铜陵）大败南宋丞相贾似道率领的十三万宋军。宋军主力溃散，贾似道被贬谪处死。元军长驱直入，临安危在旦夕。", "latitude": 30.9, "longitude": 117.8, "category": "军事", "region": "元", "continent": "亚洲" },
-      { "title": "马可·波罗到达元大都", "description": "马可·波罗一行历时三年半抵达元朝大都，受到元世祖忽必烈的接见。马可·波罗在中国游历十七年，曾在元朝为官，游历中国各地，后著《马可·波罗游记》。", "latitude": 39.9, "longitude": 116.4, "category": "外交", "region": "元", "continent": "亚洲" }
+      {
+        "title": "丁家洲之战",
+        "description": "元军统帅伯颜在丁家洲（今安徽铜陵）大败南宋丞相贾似道率领的十三万宋军。宋军主力溃散，贾似道被贬谪处死。元军长驱直入，临安危在旦夕。",
+        "latitude": 30.9,
+        "longitude": 117.8,
+        "category": "军事",
+        "region": "元",
+        "continent": "亚洲"
+      },
+      {
+        "title": "马可·波罗到达元大都",
+        "description": "马可·波罗一行历时三年半抵达元朝大都，受到元世祖忽必烈的接见。马可·波罗在中国游历十七年，曾在元朝为官，游历中国各地，后著《马可·波罗游记》。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "外交",
+        "region": "元",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1276,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋恭帝赵㬎", "era": "德祐二年" },
-      { "dynastyId": "yuan", "name": "元", "ruler": "元世祖忽必烈", "era": "至元十三年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋恭帝赵㬎",
+        "era": "德祐二年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元世祖忽必烈",
+        "era": "至元十三年"
+      }
     ],
     "events": [
-      { "title": "临安陷落", "description": "元军兵临临安城下，南宋谢太皇太后携五岁幼帝宋恭帝出降。南宋朝廷正式向元朝投降，临安城被元军接管。文天祥、张世杰、陆秀夫等拥立益王赵昰继续抵抗。", "latitude": 30.3, "longitude": 120.2, "category": "军事", "region": "元", "continent": "亚洲" },
-      { "title": "文天祥被俘", "description": "文天祥在江西组织义军抗元，兵败后撤退至广东。文天祥在五坡岭（今广东海丰）被元军俘虏，元军劝降，文天祥写下《过零丁洋》以明志。", "latitude": 23.0, "longitude": 115.3, "category": "军事", "region": "南宋", "continent": "亚洲" }
+      {
+        "title": "临安陷落",
+        "description": "元军兵临临安城下，南宋谢太皇太后携五岁幼帝宋恭帝出降。南宋朝廷正式向元朝投降，临安城被元军接管。文天祥、张世杰、陆秀夫等拥立益王赵昰继续抵抗。",
+        "latitude": 30.3,
+        "longitude": 120.2,
+        "category": "军事",
+        "region": "元",
+        "continent": "亚洲"
+      },
+      {
+        "title": "文天祥被俘",
+        "description": "文天祥在江西组织义军抗元，兵败后撤退至广东。文天祥在五坡岭（今广东海丰）被元军俘虏，元军劝降，文天祥写下《过零丁洋》以明志。",
+        "latitude": 23.0,
+        "longitude": 115.3,
+        "category": "军事",
+        "region": "南宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1277,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "蒙古入侵缅甸",
+        "description": "元朝军队入侵缅甸蒲甘王朝。",
+        "latitude": 22.0,
+        "longitude": 96.0,
+        "category": "军事",
+        "region": "元",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1278,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "南宋崖山覆灭",
+        "description": "元军在崖山海战击败南宋残余舰队，陆秀夫负帝昺投海。",
+        "latitude": 22.0,
+        "longitude": 113.5,
+        "category": "军事",
+        "region": "元",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1279,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋帝昺赵昺", "era": "祥兴二年" },
-      { "dynastyId": "yuan", "name": "元", "ruler": "元世祖忽必烈", "era": "至元十六年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋帝昺赵昺",
+        "era": "祥兴二年"
+      },
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元世祖忽必烈",
+        "era": "至元十六年"
+      }
     ],
     "events": [
-      { "title": "崖山海战与南宋灭亡", "description": "元将张弘范率水军在崖山（今广东江门）与南宋最后一支军队决战。宋军大败，陆秀夫背负八岁幼帝赵昺跳海殉国，十余万军民追随跳海。立国152年的南宋灭亡。", "latitude": 22.3, "longitude": 113.0, "category": "军事", "region": "元", "continent": "亚洲" },
-      { "title": "文天祥就义", "description": "文天祥被元军押解至大都，元世祖忽必烈亲自劝降，许以高官厚禄。文天祥坚贞不屈，在柴市口英勇就义，留下“人生自古谁无死，留取丹心照汗青”的千古绝唱。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "元", "continent": "亚洲" }
+      {
+        "title": "崖山海战与南宋灭亡",
+        "description": "元将张弘范率水军在崖山（今广东江门）与南宋最后一支军队决战。宋军大败，陆秀夫背负八岁幼帝赵昺跳海殉国，十余万军民追随跳海。立国152年的南宋灭亡。",
+        "latitude": 22.3,
+        "longitude": 113.0,
+        "category": "军事",
+        "region": "元",
+        "continent": "亚洲"
+      },
+      {
+        "title": "文天祥就义",
+        "description": "文天祥被元军押解至大都，元世祖忽必烈亲自劝降，许以高官厚禄。文天祥坚贞不屈，在柴市口英勇就义，留下“人生自古谁无死，留取丹心照汗青”的千古绝唱。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "元",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1280,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "元朝统一中国",
+        "description": "忽必烈统一全中国，元朝成为横跨欧亚的大帝国。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "元",
+        "continent": "亚洲"
+      },
+      {
+        "title": "元朝修筑大都",
+        "description": "元朝在燕京基础上修筑大都城。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "元",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲海港发展",
+        "description": "汉萨。",
+        "latitude": 54.0,
+        "longitude": 12.0,
+        "category": "经济",
+        "region": "汉萨同盟",
+        "continent": "欧洲"
+      },
+      {
+        "title": "欧洲毛纺织业",
+        "description": "呢绒。",
+        "latitude": 51.0,
+        "longitude": 4.0,
+        "category": "工业",
+        "region": "尼德兰",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1281,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元世祖忽必烈", "era": "至元十八年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元世祖忽必烈",
+        "era": "至元十八年"
+      }
     ],
     "events": [
-      { "title": "弘安之役", "description": "忽必烈第二次东征日本，出动十四万大军和四千四百艘战船。元军在博多湾登陆后再次遭遇猛烈台风（神风），大部分船只沉没，元军损失惨重，远征失败。", "latitude": 33.6, "longitude": 130.4, "category": "军事", "region": "元", "continent": "亚洲" }
+      {
+        "title": "弘安之役",
+        "description": "忽必烈第二次东征日本，出动十四万大军和四千四百艘战船。元军在博多湾登陆后再次遭遇猛烈台风（神风），大部分船只沉没，元军损失惨重，远征失败。",
+        "latitude": 33.6,
+        "longitude": 130.4,
+        "category": "军事",
+        "region": "元",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1282,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "西西里晚祷事件",
+        "description": "西西里岛爆发反抗法国安茹王朝的起义。",
+        "latitude": 38.1,
+        "longitude": 13.4,
+        "category": "社会",
+        "region": "西西里",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1283,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "爱德华一世征服威尔士",
+        "description": "英格兰国王爱德华一世征服威尔士。",
+        "latitude": 53.0,
+        "longitude": -3.0,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1284,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元世祖忽必烈", "era": "至元二十一年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元世祖忽必烈",
+        "era": "至元二十一年"
+      }
     ],
     "events": [
-      { "title": "元朝征讨安南", "description": "元世祖忽必烈派军征讨安南（今越南），元军一度攻占安南都城升龙（今河内）。但安南陈朝军队采用游击战术，元军因水土不服和补给困难最终撤退。", "latitude": 21.0, "longitude": 105.8, "category": "军事", "region": "元", "continent": "亚洲" }
+      {
+        "title": "元朝征讨安南",
+        "description": "元世祖忽必烈派军征讨安南（今越南），元军一度攻占安南都城升龙（今河内）。但安南陈朝军队采用游击战术，元军因水土不服和补给困难最终撤退。",
+        "latitude": 21.0,
+        "longitude": 105.8,
+        "category": "军事",
+        "region": "元",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1285,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元世祖忽必烈", "era": "至元二十二年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元世祖忽必烈",
+        "era": "至元二十二年"
+      }
     ],
     "events": [
-      { "title": "元朝再次征讨安南", "description": "元朝太子镇南王脱欢率军再次征讨安南。元军虽再次占领升龙，但安南军民坚壁清野、不断袭扰，元军粮尽撤退，途中大败，死伤惨重。", "latitude": 21.0, "longitude": 105.8, "category": "军事", "region": "元", "continent": "亚洲" }
+      {
+        "title": "元朝再次征讨安南",
+        "description": "元朝太子镇南王脱欢率军再次征讨安南。元军虽再次占领升龙，但安南军民坚壁清野、不断袭扰，元军粮尽撤退，途中大败，死伤惨重。",
+        "latitude": 21.0,
+        "longitude": 105.8,
+        "category": "军事",
+        "region": "元",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1286,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "苏格兰亚历山大三世去世",
+        "description": "苏格兰国王亚历山大三世去世，苏格兰王位继承危机。",
+        "latitude": 56.0,
+        "longitude": -3.0,
+        "category": "政治",
+        "region": "苏格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1287,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "蒙古入侵越南",
+        "description": "元朝军队第三次入侵越南陈朝，仍被击退。",
+        "latitude": 21.0,
+        "longitude": 106.0,
+        "category": "军事",
+        "region": "元",
+        "continent": "亚洲"
+      },
+      {
+        "title": "蒲甘王朝灭亡",
+        "description": "元朝入侵导致蒲甘王朝灭亡。",
+        "latitude": 21.2,
+        "longitude": 94.9,
+        "category": "军事",
+        "region": "蒲甘王朝",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1288,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "白藤江之战",
+        "description": "越南陈朝名将陈兴道在白藤江击败元朝水军。",
+        "latitude": 20.8,
+        "longitude": 106.8,
+        "category": "军事",
+        "region": "越南陈朝",
+        "continent": "亚洲"
+      },
+      {
+        "title": "越南陈朝抗元胜利",
+        "description": "越南在白藤江击败元朝军队。",
+        "latitude": 20.8,
+        "longitude": 106.8,
+        "category": "军事",
+        "region": "越南",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1289,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "十字军最后据点陷落",
+        "description": "马穆鲁克攻占十字军在叙利亚的最后据点。",
+        "latitude": 34.0,
+        "longitude": 36.0,
+        "category": "军事",
+        "region": "马穆鲁克",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1290,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "犹太人在英格兰被驱逐",
+        "description": "英格兰国王爱德华一世签署法令驱逐英格兰境内所有犹太人。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "大津巴布韦城繁荣",
+        "description": "大津巴布韦成为东南非最大城市和贸易中心。",
+        "latitude": -20.3,
+        "longitude": 30.9,
+        "category": "文化",
+        "region": "大津巴布韦",
+        "continent": "非洲"
+      },
+      {
+        "title": "普韦布洛文化兴盛",
+        "description": "北美西南部普韦布洛人在悬崖建造石头村。",
+        "latitude": 37.0,
+        "longitude": -108.0,
+        "category": "文化",
+        "region": "普韦布洛",
+        "continent": "北美洲"
+      },
+      {
+        "title": "静修派在拜占庭",
+        "description": "静修。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "宗教",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1291,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元世祖忽必烈", "era": "至元二十八年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元世祖忽必烈",
+        "era": "至元二十八年"
+      }
     ],
     "events": [
-      { "title": "阿克陷落与十字军时代终结", "description": "马穆鲁克苏丹阿什拉夫·哈利勒攻陷十字军在东方最后的据点阿克城。耶路撒冷王国灭亡，历时近两百年的十字军东征时代宣告终结。", "latitude": 32.9, "longitude": 35.1, "category": "军事", "region": "埃及", "continent": "亚洲" }
+      {
+        "title": "阿克陷落与十字军时代终结",
+        "description": "马穆鲁克苏丹阿什拉夫·哈利勒攻陷十字军在东方最后的据点阿克城。耶路撒冷王国灭亡，历时近两百年的十字军东征时代宣告终结。",
+        "latitude": 32.9,
+        "longitude": 35.1,
+        "category": "军事",
+        "region": "埃及",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1292,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "苏格兰王位竞争",
+        "description": "苏格兰王位继承问题引发英格兰干涉。",
+        "latitude": 56.0,
+        "longitude": -3.0,
+        "category": "政治",
+        "region": "苏格兰",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1293,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元世祖忽必烈", "era": "至元三十年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元世祖忽必烈",
+        "era": "至元三十年"
+      }
     ],
     "events": [
-      { "title": "元朝远征爪哇", "description": "元世祖忽必烈派史弼、高兴率两万大军远征爪哇（今印度尼西亚）。元军与爪哇信诃沙里国王子韦查耶联手击败敌国，但韦查耶随后反戈突袭元军，元军被迫撤退。", "latitude": -6.2, "longitude": 106.8, "category": "军事", "region": "元", "continent": "亚洲" }
+      {
+        "title": "元朝远征爪哇",
+        "description": "元世祖忽必烈派史弼、高兴率两万大军远征爪哇（今印度尼西亚）。元军与爪哇信诃沙里国王子韦查耶联手击败敌国，但韦查耶随后反戈突袭元军，元军被迫撤退。",
+        "latitude": -6.2,
+        "longitude": 106.8,
+        "category": "军事",
+        "region": "元",
+        "continent": "亚洲"
+      },
+      {
+        "title": "满者伯夷建国",
+        "description": "维闍耶建立满者伯夷帝国。",
+        "latitude": -7.3,
+        "longitude": 112.8,
+        "category": "政治",
+        "region": "满者伯夷",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1294,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元世祖忽必烈", "era": "至元三十一年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元世祖忽必烈",
+        "era": "至元三十一年"
+      }
     ],
     "events": [
-      { "title": "元世祖忽必烈驾崩", "description": "元世祖忽必烈在大都病逝，享年七十九岁。忽必烈建立了元朝，统一了中国，是蒙古帝国最杰出的统治者之一。其孙铁穆耳即位，是为元成宗。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "元", "continent": "亚洲" }
+      {
+        "title": "元世祖忽必烈驾崩",
+        "description": "元世祖忽必烈在大都病逝，享年七十九岁。忽必烈建立了元朝，统一了中国，是蒙古帝国最杰出的统治者之一。其孙铁穆耳即位，是为元成宗。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "元",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1295,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元成宗铁穆耳", "era": "元贞元年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "元贞元年"
+      }
     ],
     "events": [
-      { "title": "马可·波罗返回威尼斯", "description": "马可·波罗在离开中国二十四年后返回威尼斯，带回了大量东方珍宝和见闻。他在热那亚的监狱中口述东方见闻，由鲁斯蒂谦执笔写成《马可·波罗游记》。", "latitude": 45.4, "longitude": 12.3, "category": "文化", "region": "威尼斯", "continent": "欧洲" }
+      {
+        "title": "马可·波罗返回威尼斯",
+        "description": "马可·波罗在离开中国二十四年后返回威尼斯，带回了大量东方珍宝和见闻。他在热那亚的监狱中口述东方见闻，由鲁斯蒂谦执笔写成《马可·波罗游记》。",
+        "latitude": 45.4,
+        "longitude": 12.3,
+        "category": "文化",
+        "region": "威尼斯",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1296,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "苏格兰独立战争开始",
+        "description": "威廉·华莱士在苏格兰领导反抗英格兰的独立战争。",
+        "latitude": 56.0,
+        "longitude": -3.0,
+        "category": "军事",
+        "region": "苏格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "阿拉乌德丁统治德里",
+        "description": "阿拉乌德丁·卡尔吉改革行政，击败蒙古入侵。",
+        "latitude": 28.6,
+        "longitude": 77.2,
+        "category": "政治",
+        "region": "德里苏丹国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1297,
     "dynasties": [
-      { "dynastyId": "yuan", "name": "元", "ruler": "元成宗铁穆耳", "era": "大德元年" }
+      {
+        "dynastyId": "yuan",
+        "name": "元",
+        "ruler": "元成宗铁穆耳",
+        "era": "大德元年"
+      }
     ],
     "events": [
-      { "title": "威廉·华莱士起义", "description": "苏格兰民族英雄威廉·华莱士在斯特灵桥战役中大败英格兰军队，领导苏格兰人反抗英格兰的统治。华莱士的起义是苏格兰独立战争的重要篇章。", "latitude": 56.1, "longitude": -3.9, "category": "军事", "region": "苏格兰", "continent": "欧洲" }
+      {
+        "title": "威廉·华莱士起义",
+        "description": "苏格兰民族英雄威廉·华莱士在斯特灵桥战役中大败英格兰军队，领导苏格兰人反抗英格兰的统治。华莱士的起义是苏格兰独立战争的重要篇章。",
+        "latitude": 56.1,
+        "longitude": -3.9,
+        "category": "军事",
+        "region": "苏格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1298,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "福尔柯克战役",
+        "description": "英格兰爱德华一世在福尔柯克击败威廉·华莱士。",
+        "latitude": 56.0,
+        "longitude": -3.7,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1299,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "奥斯曼帝国建立",
+        "description": "奥斯曼一世在小亚细亚宣布独立，建立奥斯曼帝国。",
+        "latitude": 40.0,
+        "longitude": 30.0,
+        "category": "政治",
+        "region": "奥斯曼帝国",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1300,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "嘉泰二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "泰和二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "欧洲中世纪医学发展",
+        "description": "意大利萨莱诺医学院成为欧洲医学中心。",
+        "latitude": 40.7,
+        "longitude": 14.8,
+        "category": "科技",
+        "region": "意大利",
+        "continent": "欧洲"
+      }
     ]
   }
 ]

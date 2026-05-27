@@ -42,6 +42,24 @@
         "category": "军事",
         "region": "西罗马帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "西罗马帝国灭亡",
+        "description": "日耳曼部落攻陷罗马城，西罗马帝国于476年正式灭亡。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "军事",
+        "region": "西罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "中国田园诗人陶渊明",
+        "description": "陶渊明创作。",
+        "latitude": 29.5,
+        "longitude": 116.0,
+        "category": "文学",
+        "region": "东晋",
+        "continent": "亚洲"
       }
     ]
   },
@@ -82,6 +100,51 @@
         "category": "军事",
         "region": "西罗马帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "基督教修道制度发展",
+        "description": "圣帕科米乌和圣本笃建立基督教修道制度。",
+        "latitude": 40.0,
+        "longitude": 14.0,
+        "category": "宗教",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "拜占庭帝国行省管理",
+        "description": "拜占庭帝国调整东方行省行政区划。",
+        "latitude": 38.0,
+        "longitude": 28.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "西罗马帝国迁都拉文纳",
+        "description": "霍诺留将西罗马首都迁至拉文纳。",
+        "latitude": 44.4,
+        "longitude": 12.2,
+        "category": "政治",
+        "region": "西罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "欧洲蛮族法典编纂",
+        "description": "西哥特勃艮第等蛮族王国编纂法典。",
+        "latitude": 45.0,
+        "longitude": 4.0,
+        "category": "政治",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "爱尔兰修道院文化",
+        "description": "爱尔兰僧侣在修道院保存拉丁和希腊文化。",
+        "latitude": 53.0,
+        "longitude": -7.0,
+        "category": "文化",
+        "region": "爱尔兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -104,6 +167,24 @@
         "category": "政治",
         "region": "桓楚",
         "continent": "亚洲"
+      },
+      {
+        "title": "斯提里科在意大利获胜",
+        "description": "斯提里科在波伦提亚击败阿拉里克。",
+        "latitude": 45.0,
+        "longitude": 9.0,
+        "category": "军事",
+        "region": "西罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "斯提里科击败阿拉里克",
+        "description": "罗马统帅斯提里科在波伦提亚击败西哥特人。",
+        "latitude": 45.0,
+        "longitude": 9.0,
+        "category": "军事",
+        "region": "西罗马帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -134,6 +215,24 @@
         "longitude": 114.8,
         "category": "军事",
         "region": "桓楚",
+        "continent": "亚洲"
+      },
+      {
+        "title": "匈奴人入侵欧洲",
+        "description": "阿提拉率领匈奴人入侵欧洲，被罗马和日耳曼联军在沙隆战役击败。",
+        "latitude": 49.0,
+        "longitude": 4.0,
+        "category": "军事",
+        "region": "匈奴",
+        "continent": "欧洲"
+      },
+      {
+        "title": "中国南北朝佛教艺术",
+        "description": "南北朝时期中国佛教石窑和寺庙艺术繁荣。",
+        "latitude": 36.0,
+        "longitude": 112.0,
+        "category": "文化",
+        "region": "中国",
         "continent": "亚洲"
       }
     ]
@@ -166,6 +265,24 @@
         "category": "政治",
         "region": "西蜀",
         "continent": "亚洲"
+      },
+      {
+        "title": "阿提拉入侵",
+        "description": "匈奴王阿提拉在欧洲大陆纵横驰骋。",
+        "latitude": 48.0,
+        "longitude": 18.0,
+        "category": "军事",
+        "region": "匈奴",
+        "continent": "欧洲"
+      },
+      {
+        "title": "东罗马帝国边疆防御",
+        "description": "拜占庭帝在多瑙河和幼发拉底河防御边境。",
+        "latitude": 42.0,
+        "longitude": 27.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -197,6 +314,24 @@
         "category": "军事",
         "region": "西罗马帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "高卢罗马文化衰落",
+        "description": "高卢地区罗马行政管理逐步瓦解。",
+        "latitude": 47.0,
+        "longitude": 3.0,
+        "category": "政治",
+        "region": "高卢",
+        "continent": "欧洲"
+      },
+      {
+        "title": "非洲汪达尔王国行政",
+        "description": "汪达尔王国在北非建立行政体系。",
+        "latitude": 36.0,
+        "longitude": 9.0,
+        "category": "政治",
+        "region": "汪达尔王国",
+        "continent": "非洲"
       }
     ]
   },
@@ -228,6 +363,24 @@
         "category": "政治",
         "region": "西罗马帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "罗马撤出不列颠",
+        "description": "西罗马帝国驻军全部撤离不列颠。",
+        "latitude": 52.0,
+        "longitude": -1.0,
+        "category": "政治",
+        "region": "西罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "罗马不列颠总督称帝",
+        "description": "罗马不列颠驻军拥立君士坦丁三世为帝。",
+        "latitude": 51.5,
+        "longitude": -0.5,
+        "category": "政治",
+        "region": "西罗马帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -256,6 +409,15 @@
         "description": "西罗马皇帝霍诺里乌斯听信谗言，以通敌叛国罪名将统帅斯提利科处死。斯提利科是西罗马最后的杰出统帅，曾多次击败哥特人和汪达尔人。他的死使西罗马帝国失去了最有力的保护者。",
         "latitude": 41.893,
         "longitude": 12.485,
+        "category": "政治",
+        "region": "西罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "斯提里科被处死",
+        "description": "西罗马统帅斯提里科被霍诺留处死。",
+        "latitude": 44.4,
+        "longitude": 12.2,
         "category": "政治",
         "region": "西罗马帝国",
         "continent": "欧洲"
@@ -330,6 +492,24 @@
         "category": "军事",
         "region": "西罗马帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "法显赴印度取经",
+        "description": "中国僧人法显旅行印度，著《佛国记》。",
+        "latitude": 25.0,
+        "longitude": 82.0,
+        "category": "宗教",
+        "region": "中国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马水道建设",
+        "description": "供水系统。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "工程",
+        "region": "西罗马帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -361,6 +541,24 @@
         "category": "政治",
         "region": "西哥特人",
         "continent": "欧洲"
+      },
+      {
+        "title": "西哥特人进入高卢",
+        "description": "西哥特人在高卢西南部建立王国。",
+        "latitude": 44.0,
+        "longitude": 0.5,
+        "category": "政治",
+        "region": "西哥特王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "西哥特人在高卢建国",
+        "description": "西哥特人在高卢西南部建立王国。",
+        "latitude": 44.0,
+        "longitude": 0.5,
+        "category": "政治",
+        "region": "西哥特王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -389,6 +587,15 @@
         "description": "西哥特人在阿陶尔夫的率领下进入高卢南部，以图卢兹为中心建立定居地。阿陶尔夫娶了西罗马皇帝霍诺里乌斯的妹妹加拉·普拉西提阿为妻，与罗马帝国建立了联姻关系。",
         "latitude": 43.6,
         "longitude": 1.4,
+        "category": "政治",
+        "region": "西哥特王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "西哥特人定居阿基坦",
+        "description": "西哥特人在阿基坦地区建立定居点。",
+        "latitude": 44.5,
+        "longitude": 0.5,
         "category": "政治",
         "region": "西哥特王国",
         "continent": "欧洲"
@@ -432,6 +639,15 @@
         "category": "宗教",
         "region": "西罗马帝国",
         "continent": "非洲"
+      },
+      {
+        "title": "君士坦丁堡城墙扩建",
+        "description": "君士坦丁堡修建狄奥多西城墙。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "科技",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -454,6 +670,15 @@
         "category": "宗教",
         "region": "东晋",
         "continent": "亚洲"
+      },
+      {
+        "title": "汪达尔人占北非",
+        "description": "汪达尔人渡海进入北非。",
+        "latitude": 36.0,
+        "longitude": 5.0,
+        "category": "军事",
+        "region": "汪达尔人",
+        "continent": "非洲"
       }
     ]
   },
@@ -485,6 +710,24 @@
         "category": "军事",
         "region": "西哥特王国",
         "continent": "欧洲"
+      },
+      {
+        "title": "西哥特人攻陷罗马",
+        "description": "西哥特人攻陷罗马城。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "军事",
+        "region": "西哥特王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "汪达尔人占领北非",
+        "description": "汪达尔人在盖萨里克率领下征服北非。",
+        "latitude": 36.5,
+        "longitude": 7.5,
+        "category": "军事",
+        "region": "汪达尔王国",
+        "continent": "非洲"
       }
     ]
   },
@@ -516,6 +759,24 @@
         "category": "军事",
         "region": "东晋",
         "continent": "亚洲"
+      },
+      {
+        "title": "汪达尔建国",
+        "description": "盖萨里克建立汪达尔王国。",
+        "latitude": 36.9,
+        "longitude": 7.8,
+        "category": "政治",
+        "region": "汪达尔王国",
+        "continent": "非洲"
+      },
+      {
+        "title": "西哥特人离开意大利",
+        "description": "西哥特人离开意大利前往高卢。",
+        "latitude": 42.0,
+        "longitude": 12.0,
+        "category": "军事",
+        "region": "西哥特王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -547,6 +808,24 @@
         "category": "政治",
         "region": "东晋",
         "continent": "亚洲"
+      },
+      {
+        "title": "西哥特人离开意大利",
+        "description": "西哥特人离开意大利前往高卢。",
+        "latitude": 42.0,
+        "longitude": 12.0,
+        "category": "军事",
+        "region": "西哥特王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "汪达尔王国定都希波",
+        "description": "盖萨里克定都希波雷吉乌斯。",
+        "latitude": 36.9,
+        "longitude": 7.8,
+        "category": "政治",
+        "region": "汪达尔王国",
+        "continent": "非洲"
       }
     ]
   },
@@ -578,6 +857,24 @@
         "category": "政治",
         "region": "东晋",
         "continent": "亚洲"
+      },
+      {
+        "title": "高卢罗马元老院残余",
+        "description": "罗马在高卢的统治基础逐渐瓦解。",
+        "latitude": 46.0,
+        "longitude": 2.0,
+        "category": "政治",
+        "region": "西罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "西哥特王国巩固",
+        "description": "西哥特人在高卢西南部建立稳定统治。",
+        "latitude": 44.0,
+        "longitude": 0.5,
+        "category": "政治",
+        "region": "西哥特王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -600,6 +897,24 @@
         "category": "政治",
         "region": "东晋",
         "continent": "亚洲"
+      },
+      {
+        "title": "西哥特王国巩固",
+        "description": "西哥特人在高卢西南建立稳定王国。",
+        "latitude": 44.0,
+        "longitude": 0.5,
+        "category": "政治",
+        "region": "西哥特王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "汪达尔舰队组建",
+        "description": "汪达尔人建造舰队准备海上扩张。",
+        "latitude": 36.9,
+        "longitude": 10.5,
+        "category": "军事",
+        "region": "汪达尔王国",
+        "continent": "非洲"
       }
     ]
   },
@@ -630,6 +945,42 @@
         "longitude": 118.74,
         "category": "政治",
         "region": "南朝宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "中国南北朝佛教兴盛",
+        "description": "南北朝时期佛教在中国各地广泛传播，大量建造石窟和寺庙。",
+        "latitude": 34.0,
+        "longitude": 110.0,
+        "category": "宗教",
+        "region": "南北朝",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汪达尔人劫掠西西里",
+        "description": "汪达尔舰队袭击西西里海岸。",
+        "latitude": 37.5,
+        "longitude": 13.5,
+        "category": "军事",
+        "region": "汪达尔王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "刘宋建立",
+        "description": "刘裕篡晋建立南朝宋。",
+        "latitude": 32.1,
+        "longitude": 118.8,
+        "category": "政治",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "印度数学贡献",
+        "description": "零概念。",
+        "latitude": 22.0,
+        "longitude": 78.0,
+        "category": "数学",
+        "region": "笈多帝国",
         "continent": "亚洲"
       }
     ]
@@ -662,6 +1013,24 @@
         "category": "政治",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "东罗马与萨珊边境",
+        "description": "拜占庭与萨珊在亚美尼亚对峙。",
+        "latitude": 40.0,
+        "longitude": 44.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "不列颠罗马驻军撤离完毕",
+        "description": "罗马对不列颠的统治正式终结。",
+        "latitude": 52.0,
+        "longitude": -1.0,
+        "category": "政治",
+        "region": "不列颠",
+        "continent": "欧洲"
       }
     ]
   },
@@ -698,6 +1067,24 @@
         "longitude": 113.3,
         "category": "政治",
         "region": "北魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "刘裕篡晋建宋",
+        "description": "刘裕篡东晋建立刘宋南朝。",
+        "latitude": 32.1,
+        "longitude": 118.8,
+        "category": "政治",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "东罗马与萨珊和约",
+        "description": "拜占庭与萨珊波斯签订和平条约。",
+        "latitude": 35.0,
+        "longitude": 42.0,
+        "category": "外交",
+        "region": "拜占庭帝国",
         "continent": "亚洲"
       }
     ]
@@ -736,6 +1123,24 @@
         "category": "军事",
         "region": "北魏",
         "continent": "亚洲"
+      },
+      {
+        "title": "匈奴人入侵色雷斯",
+        "description": "阿提拉叔父鲁吉拉率匈奴人攻击色雷斯。",
+        "latitude": 42.0,
+        "longitude": 26.0,
+        "category": "军事",
+        "region": "匈奴",
+        "continent": "欧洲"
+      },
+      {
+        "title": "三国时期考古遗址",
+        "description": "中国南北朝时期墓葬和佛教造像大量出现。",
+        "latitude": 34.0,
+        "longitude": 112.0,
+        "category": "文化",
+        "region": "中国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -767,6 +1172,24 @@
         "category": "军事",
         "region": "北魏",
         "continent": "亚洲"
+      },
+      {
+        "title": "刘宋与北魏对峙",
+        "description": "刘宋与北魏形成南北对峙局面。",
+        "latitude": 35.0,
+        "longitude": 115.0,
+        "category": "政治",
+        "region": "中国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "北魏灭北凉统一北方",
+        "description": "北魏太武帝拓跋焘统一中国北方。",
+        "latitude": 38.0,
+        "longitude": 115.0,
+        "category": "军事",
+        "region": "北魏",
+        "continent": "亚洲"
       }
     ]
   },
@@ -789,6 +1212,24 @@
         "category": "文化",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "狄奥多西二世在东方",
+        "description": "狄奥多西二世修建君士坦丁堡城墙。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "狄奥多西城墙竣工",
+        "description": "君士坦丁堡狄奥多西城墙建成。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "科技",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -811,6 +1252,15 @@
         "category": "军事",
         "region": "北魏",
         "continent": "亚洲"
+      },
+      {
+        "title": "基督教聂斯托利派争议",
+        "description": "君士坦丁堡牧首聂斯托利与亚历山大城主教西里尔争论。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "宗教",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -842,6 +1292,24 @@
         "category": "政治",
         "region": "柔然",
         "continent": "亚洲"
+      },
+      {
+        "title": "北非汪达尔扩张",
+        "description": "汪达尔人在北非扩张领土。",
+        "latitude": 36.5,
+        "longitude": 7.0,
+        "category": "军事",
+        "region": "汪达尔王国",
+        "continent": "非洲"
+      },
+      {
+        "title": "汪达尔人占领迦太基",
+        "description": "盖萨里克攻陷北非重镇迦太基。",
+        "latitude": 36.9,
+        "longitude": 10.3,
+        "category": "军事",
+        "region": "汪达尔王国",
+        "continent": "非洲"
       }
     ]
   },
@@ -864,6 +1332,24 @@
         "category": "经济",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "以弗所大公会议",
+        "description": "第三次普世大公会议在以弗所召开。",
+        "latitude": 37.9,
+        "longitude": 27.3,
+        "category": "宗教",
+        "region": "拜占庭帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汪达尔王国定都迦太基",
+        "description": "汪达尔将首都迁至迦太基。",
+        "latitude": 36.9,
+        "longitude": 10.3,
+        "category": "政治",
+        "region": "汪达尔王国",
+        "continent": "非洲"
       }
     ]
   },
@@ -895,6 +1381,15 @@
         "category": "政治",
         "region": "汪达尔王国",
         "continent": "欧洲"
+      },
+      {
+        "title": "汪达尔舰队地中海称霸",
+        "description": "汪达尔人建造强大舰队控制地中海。",
+        "latitude": 36.9,
+        "longitude": 10.5,
+        "category": "军事",
+        "region": "汪达尔王国",
+        "continent": "非洲"
       }
     ]
   },
@@ -926,6 +1421,15 @@
         "category": "宗教",
         "region": "西罗马帝国",
         "continent": "非洲"
+      },
+      {
+        "title": "爱尔兰修道院抄经",
+        "description": "凯尔特。",
+        "latitude": 53.0,
+        "longitude": -7.0,
+        "category": "文化",
+        "region": "爱尔兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -941,13 +1445,13 @@
     ],
     "events": [
       {
-        "title": "以弗所大公会议",
-        "description": "东罗马皇帝狄奥多西二世在以弗所召开第三次大公会议。会议主要讨论了聂斯脱利派关于基督二位二性论的教义争议，最终将聂斯脱利派定为异端。会议产生了严重的教义分歧。",
-        "latitude": 37.94,
-        "longitude": 27.34,
-        "category": "宗教",
-        "region": "东罗马帝国",
-        "continent": "欧洲"
+        "title": "汪达尔人攻陷希波",
+        "description": "汪达尔人攻占北非城市希波。",
+        "latitude": 36.9,
+        "longitude": 7.8,
+        "category": "军事",
+        "region": "汪达尔王国",
+        "continent": "非洲"
       }
     ]
   },
@@ -970,6 +1474,24 @@
         "category": "军事",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "不列颠罗马化终结",
+        "description": "不列颠进入盎格鲁-撒克逊人入侵时期。",
+        "latitude": 52.0,
+        "longitude": -1.0,
+        "category": "政治",
+        "region": "不列颠",
+        "continent": "欧洲"
+      },
+      {
+        "title": "匈奴人进犯东罗马",
+        "description": "阿提拉率匈奴入侵东罗马帝国。",
+        "latitude": 42.0,
+        "longitude": 26.0,
+        "category": "军事",
+        "region": "匈奴",
+        "continent": "欧洲"
       }
     ]
   },
@@ -992,6 +1514,24 @@
         "category": "文化",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "阿提拉联合鲁吉拉统治",
+        "description": "阿提拉与其兄布列达联合统治匈奴帝国。",
+        "latitude": 47.0,
+        "longitude": 19.0,
+        "category": "政治",
+        "region": "匈奴",
+        "continent": "欧洲"
+      },
+      {
+        "title": "东罗马向匈奴纳贡",
+        "description": "狄奥多西二世被迫与阿提拉和约纳贡。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "外交",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1014,6 +1554,24 @@
         "category": "军事",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "南宋与北魏战争",
+        "description": "刘宋与北魏在河南地区激战。",
+        "latitude": 35.0,
+        "longitude": 114.0,
+        "category": "军事",
+        "region": "中国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "匈奴帝国统一",
+        "description": "阿提拉杀其兄布列达统一匈奴各部。",
+        "latitude": 47.0,
+        "longitude": 20.0,
+        "category": "政治",
+        "region": "匈奴",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1036,6 +1594,24 @@
         "category": "军事",
         "region": "北魏",
         "continent": "亚洲"
+      },
+      {
+        "title": "汪达尔舰队地中海劫掠",
+        "description": "汪达尔人建造舰队在地中海活动。",
+        "latitude": 36.9,
+        "longitude": 10.5,
+        "category": "军事",
+        "region": "汪达尔王国",
+        "continent": "非洲"
+      },
+      {
+        "title": "东罗马法典编纂",
+        "description": "狄奥多西二世颁布《狄奥多西法典》。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1067,6 +1643,24 @@
         "category": "军事",
         "region": "汪达尔王国",
         "continent": "非洲"
+      },
+      {
+        "title": "勃艮第人定居",
+        "description": "勃艮第人在罗讷河地区建立王国。",
+        "latitude": 46.0,
+        "longitude": 5.0,
+        "category": "政治",
+        "region": "勃艮第王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "阿提拉入侵巴尔干",
+        "description": "匈奴大军横扫巴尔干半岛大部。",
+        "latitude": 43.0,
+        "longitude": 25.0,
+        "category": "军事",
+        "region": "匈奴",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1089,6 +1683,24 @@
         "category": "文化",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "盖萨里克与西罗马和约（约）",
+        "description": "汪达尔与西罗马帝国签订和约。",
+        "latitude": 36.9,
+        "longitude": 7.8,
+        "category": "外交",
+        "region": "汪达尔王国",
+        "continent": "非洲"
+      },
+      {
+        "title": "阿提拉攻势受挫",
+        "description": "东罗马军在多瑙河击退匈奴进攻。",
+        "latitude": 44.0,
+        "longitude": 27.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1111,6 +1723,24 @@
         "category": "政治",
         "region": "北凉",
         "continent": "亚洲"
+      },
+      {
+        "title": "狄奥多西法典颁布",
+        "description": "狄奥多西二世颁布整理罗马法的《狄奥多西法典》。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "阿提拉进兵希腊",
+        "description": "匈奴军队劫掠希腊北部。",
+        "latitude": 40.0,
+        "longitude": 22.5,
+        "category": "军事",
+        "region": "匈奴",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1135,12 +1765,21 @@
         "continent": "亚洲"
       },
       {
-        "title": "狄奥多西法典颁布",
-        "description": "东罗马皇帝狄奥多西二世颁布了《狄奥多西法典》。这部法典汇集了自君士坦丁大帝以来一百多年的法律敕令，共十六卷。它是罗马法的里程碑式汇编，对后世的查士丁尼法典产生了重要影响。",
-        "latitude": 41.01,
-        "longitude": 28.98,
+        "title": "汪达尔攻陷迦太基",
+        "description": "汪达尔王国攻占迦太基城。",
+        "latitude": 36.9,
+        "longitude": 10.3,
+        "category": "军事",
+        "region": "汪达尔王国",
+        "continent": "非洲"
+      },
+      {
+        "title": "匈奴威震欧洲",
+        "description": "阿提拉建立横跨多瑙河的匈奴帝国。",
+        "latitude": 47.0,
+        "longitude": 20.0,
         "category": "政治",
-        "region": "东罗马帝国",
+        "region": "匈奴",
         "continent": "欧洲"
       }
     ]
@@ -1164,6 +1803,33 @@
         "category": "社会",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "汪达尔王国定都迦太基",
+        "description": "盖萨里克定都迦太基，建立汪达尔海上帝国。",
+        "latitude": 36.9,
+        "longitude": 10.3,
+        "category": "政治",
+        "region": "汪达尔王国",
+        "continent": "非洲"
+      },
+      {
+        "title": "汪达尔夺西西里",
+        "description": "汪达尔舰队袭击西西里海岸。",
+        "latitude": 37.5,
+        "longitude": 13.5,
+        "category": "军事",
+        "region": "汪达尔王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "北非拉丁文学",
+        "description": "晚期拉丁。",
+        "latitude": 36.5,
+        "longitude": 9.0,
+        "category": "文学",
+        "region": "汪达尔王国",
+        "continent": "非洲"
       }
     ]
   },
@@ -1186,6 +1852,24 @@
         "category": "军事",
         "region": "北魏",
         "continent": "亚洲"
+      },
+      {
+        "title": "匈奴人进攻东罗马",
+        "description": "阿提拉率领匈奴人渡过多瑙河入侵东罗马。",
+        "latitude": 44.0,
+        "longitude": 27.0,
+        "category": "军事",
+        "region": "匈奴",
+        "continent": "欧洲"
+      },
+      {
+        "title": "东罗马与匈奴战争再起",
+        "description": "东罗马拒绝纳贡阿提拉再攻。",
+        "latitude": 42.0,
+        "longitude": 26.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1208,6 +1892,15 @@
         "category": "军事",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "东罗马向匈奴纳贡（约）",
+        "description": "狄奥多西二世与阿提拉和约，每年纳贡。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "外交",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1230,6 +1923,24 @@
         "category": "军事",
         "region": "北魏",
         "continent": "亚洲"
+      },
+      {
+        "title": "阿提拉征服巴尔干",
+        "description": "阿提拉率匈奴军队横扫巴尔干。",
+        "latitude": 43.0,
+        "longitude": 25.0,
+        "category": "军事",
+        "region": "匈奴",
+        "continent": "欧洲"
+      },
+      {
+        "title": "匈奴统治东欧",
+        "description": "阿提拉控制东欧大部落联盟。",
+        "latitude": 47.0,
+        "longitude": 20.0,
+        "category": "政治",
+        "region": "匈奴",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1251,6 +1962,24 @@
         "longitude": 118.74,
         "category": "军事",
         "region": "南朝宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "匈奴帝国鼎盛",
+        "description": "阿提拉在匈牙利平原建立匈奴帝国中心。",
+        "latitude": 47.0,
+        "longitude": 20.0,
+        "category": "政治",
+        "region": "匈奴",
+        "continent": "欧洲"
+      },
+      {
+        "title": "东罗马遣使波斯",
+        "description": "拜占庭与萨珊波斯就边境问题谈判。",
+        "latitude": 35.0,
+        "longitude": 42.0,
+        "category": "外交",
+        "region": "拜占庭帝国",
         "continent": "亚洲"
       }
     ]
@@ -1283,6 +2012,24 @@
         "category": "政治",
         "region": "匈奴帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "布列达去世阿提拉独统",
+        "description": "阿提拉杀其兄布列达成为匈奴唯一统治者。",
+        "latitude": 47.0,
+        "longitude": 20.0,
+        "category": "政治",
+        "region": "匈奴",
+        "continent": "欧洲"
+      },
+      {
+        "title": "盎格鲁-撒克逊人入不列颠",
+        "description": "日耳曼部落大规模渡海进入不列颠。",
+        "latitude": 52.0,
+        "longitude": 0.0,
+        "category": "社会",
+        "region": "盎格鲁-撒克逊",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1305,6 +2052,24 @@
         "category": "宗教",
         "region": "北魏",
         "continent": "亚洲"
+      },
+      {
+        "title": "盎格鲁-撒克逊人进入不列颠",
+        "description": "日耳曼部落大量渡海进入不列颠。",
+        "latitude": 52.0,
+        "longitude": 0.0,
+        "category": "社会",
+        "region": "盎格鲁-撒克逊",
+        "continent": "欧洲"
+      },
+      {
+        "title": "阿提拉与西罗马冲突",
+        "description": "阿提拉以西罗马藏匿匈奴逃亡者为由宣战。",
+        "latitude": 44.0,
+        "longitude": 26.0,
+        "category": "军事",
+        "region": "匈奴",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1326,6 +2091,24 @@
         "longitude": 25.0,
         "category": "军事",
         "region": "东罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "匈奴再侵东罗马",
+        "description": "阿提拉攻入东罗马帝国腹地。",
+        "latitude": 42.0,
+        "longitude": 25.0,
+        "category": "军事",
+        "region": "匈奴",
+        "continent": "欧洲"
+      },
+      {
+        "title": "阿提拉进攻高卢",
+        "description": "阿提拉率大军侵入高卢。",
+        "latitude": 49.0,
+        "longitude": 4.0,
+        "category": "军事",
+        "region": "匈奴",
         "continent": "欧洲"
       }
     ]
@@ -1349,6 +2132,15 @@
         "category": "外交",
         "region": "东罗马帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "东罗马遣使匈奴",
+        "description": "东罗马使团访问阿提拉王庭。",
+        "latitude": 47.0,
+        "longitude": 20.0,
+        "category": "外交",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1370,6 +2162,24 @@
         "longitude": -1.0,
         "category": "社会",
         "region": "不列颠",
+        "continent": "欧洲"
+      },
+      {
+        "title": "北魏统一北方",
+        "description": "北魏太武帝拓跋焘统一中国北方。",
+        "latitude": 38.0,
+        "longitude": 114.0,
+        "category": "政治",
+        "region": "北魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿提拉入侵北意大利",
+        "description": "匈奴军队劫掠意大利北部城市。",
+        "latitude": 45.0,
+        "longitude": 11.0,
+        "category": "军事",
+        "region": "匈奴",
         "continent": "欧洲"
       }
     ]
@@ -1402,6 +2212,33 @@
         "category": "军事",
         "region": "北魏",
         "continent": "亚洲"
+      },
+      {
+        "title": "马基亚诺拒绝纳贡",
+        "description": "东罗马皇帝马基亚诺拒绝向匈奴纳贡。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "阿提拉突然去世",
+        "description": "阿提拉在新婚之夜暴亡，匈奴帝国瓦解。",
+        "latitude": 47.0,
+        "longitude": 20.0,
+        "category": "政治",
+        "region": "匈奴",
+        "continent": "欧洲"
+      },
+      {
+        "title": "不列颠凯尔特教会",
+        "description": "凯尔特。",
+        "latitude": 53.0,
+        "longitude": -4.0,
+        "category": "宗教",
+        "region": "不列颠",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1442,6 +2279,15 @@
         "category": "宗教",
         "region": "东罗马帝国",
         "continent": "亚洲"
+      },
+      {
+        "title": "匈奴部众离散",
+        "description": "阿提拉死后匈奴各部落纷纷脱离。",
+        "latitude": 47.0,
+        "longitude": 20.0,
+        "category": "社会",
+        "region": "匈奴",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1473,6 +2319,15 @@
         "category": "军事",
         "region": "匈奴帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "阿提拉诸子争位",
+        "description": "阿提拉的儿子们瓜分帝国。",
+        "latitude": 47.0,
+        "longitude": 20.0,
+        "category": "政治",
+        "region": "匈奴",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1495,6 +2350,24 @@
         "category": "政治",
         "region": "匈奴帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "阿提拉暴死",
+        "description": "阿提拉新婚之夜突然死亡匈奴帝国瓦解。",
+        "latitude": 47.0,
+        "longitude": 20.0,
+        "category": "政治",
+        "region": "匈奴",
+        "continent": "欧洲"
+      },
+      {
+        "title": "刘宋与北魏交战",
+        "description": "南朝宋与北朝魏在河南交战。",
+        "latitude": 35.0,
+        "longitude": 115.0,
+        "category": "军事",
+        "region": "刘宋",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1526,6 +2399,24 @@
         "category": "政治",
         "region": "匈奴帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "匈奴部落离散",
+        "description": "阿提拉死后匈奴各部纷纷独立。",
+        "latitude": 47.0,
+        "longitude": 20.0,
+        "category": "社会",
+        "region": "匈奴",
+        "continent": "欧洲"
+      },
+      {
+        "title": "汪达尔国王盖萨里克去世",
+        "description": "汪达尔开国君主盖萨里克去世。",
+        "latitude": 36.9,
+        "longitude": 10.3,
+        "category": "政治",
+        "region": "汪达尔王国",
+        "continent": "非洲"
       }
     ]
   },
@@ -1566,6 +2457,24 @@
         "category": "军事",
         "region": "西罗马帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "嚈哒人入侵印度",
+        "description": "嚈哒人（白匈奴）从西北入侵印度。",
+        "latitude": 30.0,
+        "longitude": 72.0,
+        "category": "军事",
+        "region": "嚈哒",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汪达尔后继统治",
+        "description": "汪达尔王国继续统治北非。",
+        "latitude": 36.9,
+        "longitude": 10.3,
+        "category": "政治",
+        "region": "汪达尔王国",
+        "continent": "非洲"
       }
     ]
   },
@@ -1588,6 +2497,24 @@
         "category": "政治",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "西哥特人扩张",
+        "description": "西哥特王国在高卢和西班牙扩张。",
+        "latitude": 43.0,
+        "longitude": -1.0,
+        "category": "军事",
+        "region": "西哥特王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "西罗马名存实亡",
+        "description": "西罗马仅控意大利半岛局部。",
+        "latitude": 42.0,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "西罗马帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1610,6 +2537,15 @@
         "category": "政治",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "东罗马利奥一世即位",
+        "description": "利奥一世成为拜占庭皇帝。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1632,6 +2568,24 @@
         "category": "宗教",
         "region": "北魏",
         "continent": "亚洲"
+      },
+      {
+        "title": "汪达尔袭击希腊海岸",
+        "description": "汪达尔舰队在伯罗奔尼撒半岛沿岸劫掠。",
+        "latitude": 37.5,
+        "longitude": 22.0,
+        "category": "军事",
+        "region": "汪达尔王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "东罗马海军建设",
+        "description": "利奥一世大规模建造拜占庭海军。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1654,6 +2608,24 @@
         "category": "军事",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "东罗马重建海军",
+        "description": "利奥一世大规模建设拜占庭海军。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "东罗马远征汪达尔",
+        "description": "拜占庭远征北非汪达尔王国。",
+        "latitude": 36.9,
+        "longitude": 10.3,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "非洲"
       }
     ]
   },
@@ -1685,6 +2657,33 @@
         "category": "文化",
         "region": "北魏",
         "continent": "亚洲"
+      },
+      {
+        "title": "汪达尔与东罗马和谈",
+        "description": "汪达尔王国与拜占庭暂时休战。",
+        "latitude": 36.9,
+        "longitude": 10.3,
+        "category": "外交",
+        "region": "汪达尔王国",
+        "continent": "非洲"
+      },
+      {
+        "title": "罗马被汪达尔洗劫",
+        "description": "汪达尔舰队攻掠罗马城。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "军事",
+        "region": "汪达尔王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "琵琶传入中国",
+        "description": "西域乐器。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "音乐",
+        "region": "中国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1707,6 +2706,15 @@
         "category": "政治",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "西哥特王国扩张",
+        "description": "西哥特人在西班牙扩张领土。",
+        "latitude": 40.0,
+        "longitude": -3.0,
+        "category": "军事",
+        "region": "西哥特王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1729,6 +2737,24 @@
         "category": "科技",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "东罗马国库改革",
+        "description": "利奥一世改革税收充实国库。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "经济",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法兰克人兴起",
+        "description": "法兰克人在克洛维带领下统一。",
+        "latitude": 50.0,
+        "longitude": 4.0,
+        "category": "政治",
+        "region": "法兰克王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1751,6 +2777,24 @@
         "category": "政治",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "萨珊波斯边境冲突",
+        "description": "拜占庭与萨珊在叙利亚边境冲突。",
+        "latitude": 36.0,
+        "longitude": 38.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "意大利蛮族王国林立",
+        "description": "西罗马灭亡后意大利多国并立。",
+        "latitude": 43.0,
+        "longitude": 12.0,
+        "category": "政治",
+        "region": "意大利",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1779,6 +2823,24 @@
         "category": "政治",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "汪达尔人献祭",
+        "description": "汪达尔王国与东罗马和平协议。",
+        "latitude": 36.9,
+        "longitude": 10.3,
+        "category": "外交",
+        "region": "汪达尔王国",
+        "continent": "非洲"
+      },
+      {
+        "title": "奥多亚塞统治意大利",
+        "description": "奥多亚塞成为意大利统治者。",
+        "latitude": 42.0,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "意大利",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1801,6 +2863,24 @@
         "category": "政治",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "汪达尔与东罗马和约（约）",
+        "description": "汪达尔王国与拜占庭签订正式和约。",
+        "latitude": 36.9,
+        "longitude": 10.3,
+        "category": "外交",
+        "region": "拜占庭帝国",
+        "continent": "非洲"
+      },
+      {
+        "title": "东哥特人进入意大利",
+        "description": "狄奥多里克率东哥特人进入意大利。",
+        "latitude": 45.5,
+        "longitude": 10.0,
+        "category": "军事",
+        "region": "东哥特王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1832,6 +2912,24 @@
         "category": "军事",
         "region": "北魏",
         "continent": "亚洲"
+      },
+      {
+        "title": "利奥一世军事改革",
+        "description": "利奥一世减少日耳曼雇佣军依赖。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "狄奥多里克统一意大利",
+        "description": "东哥特王狄奥多里克控制意大利。",
+        "latitude": 42.0,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "东哥特王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1854,6 +2952,24 @@
         "category": "政治",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "东罗马北伐汪达尔准备",
+        "description": "拜占庭大规模筹备远征汪达尔。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "狄奥多里克杀奥多亚塞",
+        "description": "东哥特王狄奥多里克诱杀奥多亚塞。",
+        "latitude": 44.4,
+        "longitude": 12.2,
+        "category": "政治",
+        "region": "东哥特王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1876,6 +2992,24 @@
         "category": "军事",
         "region": "北魏",
         "continent": "亚洲"
+      },
+      {
+        "title": "拜占庭远征汪达尔失败",
+        "description": "拜占庭庞大远征舰队在地中海被汪达尔击败。",
+        "latitude": 36.9,
+        "longitude": 10.3,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "非洲"
+      },
+      {
+        "title": "东罗马芝诺逝世",
+        "description": "拜占庭皇帝芝诺去世。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1898,6 +3032,24 @@
         "category": "军事",
         "region": "北魏",
         "continent": "亚洲"
+      },
+      {
+        "title": "欧洲蛮族王国形成",
+        "description": "西罗马帝国领土上各蛮族王国逐渐成形。",
+        "latitude": 46.0,
+        "longitude": 3.0,
+        "category": "政治",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "阿纳斯塔修斯改革",
+        "description": "拜占庭皇帝阿纳斯塔修斯改革币制。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "经济",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1920,6 +3072,33 @@
         "category": "政治",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "西哥特人与法兰克人冲突",
+        "description": "西哥特人与新兴的法兰克人在高卢北部对峙。",
+        "latitude": 47.0,
+        "longitude": 2.0,
+        "category": "军事",
+        "region": "西哥特王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "东哥特王国开明统治",
+        "description": "狄奥多里克在拉文纳推行文化繁荣。",
+        "latitude": 44.4,
+        "longitude": 12.2,
+        "category": "政治",
+        "region": "东哥特王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "东欧斯拉夫早期文化",
+        "description": "斯拉夫。",
+        "latitude": 50.0,
+        "longitude": 30.0,
+        "category": "文化",
+        "region": "斯拉夫人",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1948,6 +3127,24 @@
         "category": "政治",
         "region": "北魏",
         "continent": "亚洲"
+      },
+      {
+        "title": "东罗马与哥特人",
+        "description": "东罗马帝国与哥特人在巴尔干作战。",
+        "latitude": 42.0,
+        "longitude": 24.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "克洛维统一法兰克",
+        "description": "克洛维击败西格里乌斯统一法兰克。",
+        "latitude": 49.0,
+        "longitude": 3.0,
+        "category": "军事",
+        "region": "法兰克王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1976,6 +3173,24 @@
         "category": "政治",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "东罗马芝诺登基",
+        "description": "芝诺成为东罗马皇帝。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法兰克王国建都巴黎",
+        "description": "克洛维定都巴黎。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰克王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1998,6 +3213,24 @@
         "category": "军事",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "意大利罗马军队残余",
+        "description": "西罗马帝国仅控制意大利半岛。",
+        "latitude": 42.0,
+        "longitude": 12.0,
+        "category": "政治",
+        "region": "西罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "克洛维接受基督教",
+        "description": "法兰克国王克洛维在兰斯受洗。",
+        "latitude": 49.3,
+        "longitude": 4.0,
+        "category": "宗教",
+        "region": "法兰克王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2020,6 +3253,24 @@
         "category": "政治",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "利奥二世和芝诺共治",
+        "description": "年幼的利奥二世与芝诺共治东罗马。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "克洛维征服阿勒曼尼人",
+        "description": "法兰克军击败阿勒曼尼人。",
+        "latitude": 48.0,
+        "longitude": 7.5,
+        "category": "军事",
+        "region": "法兰克王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2042,6 +3293,15 @@
         "category": "政治",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "汪达尔王朝终结",
+        "description": "汪达尔王国被拜占庭征服。",
+        "latitude": 36.9,
+        "longitude": 10.5,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "非洲"
       }
     ]
   },
@@ -2095,6 +3355,24 @@
         "category": "军事",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "汪达尔国王盖萨里克去世",
+        "description": "汪达尔王国创建者盖萨里克去世。",
+        "latitude": 36.9,
+        "longitude": 10.3,
+        "category": "政治",
+        "region": "汪达尔王国",
+        "continent": "非洲"
+      },
+      {
+        "title": "东哥特王国统治",
+        "description": "东哥特统治意大利时期文化发展。",
+        "latitude": 42.0,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "东哥特王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2117,6 +3395,24 @@
         "category": "军事",
         "region": "南朝宋",
         "continent": "亚洲"
+      },
+      {
+        "title": "法兰克人统一",
+        "description": "法兰克人在克洛维带领下开始统一各部落。",
+        "latitude": 50.0,
+        "longitude": 4.0,
+        "category": "政治",
+        "region": "法兰克王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法兰克王国扩张",
+        "description": "克洛维征服高卢东部。",
+        "latitude": 48.0,
+        "longitude": 7.0,
+        "category": "军事",
+        "region": "法兰克王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2148,6 +3444,24 @@
         "category": "政治",
         "region": "南齐",
         "continent": "亚洲"
+      },
+      {
+        "title": "高卢罗马教会独立发展",
+        "description": "高卢基督教会在西罗马灭亡后独立发展。",
+        "latitude": 47.0,
+        "longitude": 3.0,
+        "category": "宗教",
+        "region": "法兰克王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "拜占庭与波斯边境战争",
+        "description": "拜占庭帝国与萨珊波斯在亚美尼亚交战。",
+        "latitude": 40.0,
+        "longitude": 44.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2169,6 +3483,33 @@
         "longitude": 116.8,
         "category": "军事",
         "region": "南齐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦丁堡学术",
+        "description": "君士坦丁堡大学复兴希腊罗马学术。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "文化",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法兰克王国编撰萨利克法典",
+        "description": "法兰克人编纂习惯法典。",
+        "latitude": 49.0,
+        "longitude": 3.0,
+        "category": "政治",
+        "region": "法兰克王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "阿拉伯半岛游牧生活",
+        "description": "贝都因。",
+        "latitude": 24.0,
+        "longitude": 45.0,
+        "category": "社会",
+        "region": "阿拉伯半岛",
         "continent": "亚洲"
       }
     ]
@@ -2192,6 +3533,24 @@
         "category": "军事",
         "region": "南齐",
         "continent": "亚洲"
+      },
+      {
+        "title": "克洛维成为法兰克人领袖",
+        "description": "克洛维继承父亲成为萨利安法兰克人领袖。",
+        "latitude": 50.0,
+        "longitude": 4.0,
+        "category": "政治",
+        "region": "法兰克王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "克洛维去世",
+        "description": "法兰克王国建立者克洛维去世。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰克王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2220,6 +3579,24 @@
         "category": "政治",
         "region": "南齐",
         "continent": "亚洲"
+      },
+      {
+        "title": "东哥特人入意大利",
+        "description": "东哥特人在狄奥多里克率领下进入意大利。",
+        "latitude": 45.0,
+        "longitude": 12.0,
+        "category": "军事",
+        "region": "东哥特王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法兰克王国分裂",
+        "description": "克洛维四子瓜分法兰克领土。",
+        "latitude": 49.0,
+        "longitude": 3.0,
+        "category": "政治",
+        "region": "法兰克王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2242,6 +3619,24 @@
         "category": "经济",
         "region": "南齐",
         "continent": "亚洲"
+      },
+      {
+        "title": "欧洲农业技术发展",
+        "description": "欧洲轮作制和三田制开始推广。",
+        "latitude": 49.0,
+        "longitude": 3.0,
+        "category": "科技",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "东哥特与拜占庭关系",
+        "description": "狄奥多里克与东罗马皇帝芝诺保持同盟。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "外交",
+        "region": "东哥特王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2270,6 +3665,24 @@
         "category": "政治",
         "region": "北魏",
         "continent": "亚洲"
+      },
+      {
+        "title": "拜占庭与波斯战争",
+        "description": "拜占庭与萨珊波斯在美索不达米亚交战。",
+        "latitude": 35.0,
+        "longitude": 42.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "拜占庭阿纳斯塔修斯巩固边防",
+        "description": "拜占庭加强多瑙河和幼发拉底河防线。",
+        "latitude": 42.0,
+        "longitude": 26.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2307,6 +3720,15 @@
         "category": "军事",
         "region": "南齐",
         "continent": "亚洲"
+      },
+      {
+        "title": "高卢罗马贵族融入",
+        "description": "高卢罗马贵族与法兰克人融合。",
+        "latitude": 47.0,
+        "longitude": 3.0,
+        "category": "社会",
+        "region": "法兰克王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2326,6 +3748,24 @@
         "description": "年仅十五岁的克洛维一世继承其父希尔德里克一世成为萨利安法兰克人的首领。克洛维是墨洛温王朝的奠基人，他将从高卢北部开始扩张，最终建立强大的法兰克王国。",
         "latitude": 50.0,
         "longitude": 4.0,
+        "category": "政治",
+        "region": "法兰克王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "克洛维击败罗马残余",
+        "description": "克洛维在高卢击败罗马残将西格里乌斯。",
+        "latitude": 49.0,
+        "longitude": 3.0,
+        "category": "军事",
+        "region": "法兰克王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法兰克式统治确立",
+        "description": "法兰克王国逐渐确立封建制度。",
+        "latitude": 49.0,
+        "longitude": 3.0,
         "category": "政治",
         "region": "法兰克王国",
         "continent": "欧洲"
@@ -2351,6 +3791,24 @@
         "category": "军事",
         "region": "南齐",
         "continent": "亚洲"
+      },
+      {
+        "title": "苏瓦松战役",
+        "description": "克洛维在高卢苏瓦松之战奠定霸权。",
+        "latitude": 49.3,
+        "longitude": 3.3,
+        "category": "军事",
+        "region": "法兰克王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "意大利东哥特繁荣",
+        "description": "东哥特统治时期意大利城市复苏。",
+        "latitude": 42.0,
+        "longitude": 12.5,
+        "category": "经济",
+        "region": "东哥特王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2373,6 +3831,24 @@
         "category": "文化",
         "region": "南齐",
         "continent": "亚洲"
+      },
+      {
+        "title": "北非文化发展",
+        "description": "北非在汪达尔统治下拉丁文化持续。",
+        "latitude": 36.5,
+        "longitude": 9.0,
+        "category": "文化",
+        "region": "汪达尔王国",
+        "continent": "非洲"
+      },
+      {
+        "title": "勃艮第人与法兰克人冲突",
+        "description": "勃艮第王国与法兰克人在罗讷河流域冲突。",
+        "latitude": 46.5,
+        "longitude": 5.0,
+        "category": "军事",
+        "region": "勃艮第王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2394,6 +3870,24 @@
         "longitude": 118.74,
         "category": "文化",
         "region": "南齐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "东哥特人控制意大利",
+        "description": "狄奥多里克率东哥特人进入意大利北部。",
+        "latitude": 45.5,
+        "longitude": 10.0,
+        "category": "军事",
+        "region": "东哥特王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "拜占庭与萨珊和约",
+        "description": "阿纳斯塔修斯与萨珊波斯和约。",
+        "latitude": 35.0,
+        "longitude": 42.0,
+        "category": "外交",
+        "region": "拜占庭帝国",
         "continent": "亚洲"
       }
     ]
@@ -2423,6 +3917,33 @@
         "category": "政治",
         "region": "北魏",
         "continent": "亚洲"
+      },
+      {
+        "title": "东哥特与东罗马协议",
+        "description": "芝诺皇帝与狄奥多里克达成协议。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "外交",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "东哥特与法兰克联盟",
+        "description": "东哥特与法兰克联姻结盟。",
+        "latitude": 45.0,
+        "longitude": 10.0,
+        "category": "外交",
+        "region": "东哥特王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "印度草药学",
+        "description": "阿育吠陀。",
+        "latitude": 22.0,
+        "longitude": 78.0,
+        "category": "医学",
+        "region": "古印度",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2451,6 +3972,15 @@
         "category": "政治",
         "region": "北魏",
         "continent": "亚洲"
+      },
+      {
+        "title": "阿纳斯塔修斯一世即位",
+        "description": "阿纳斯塔修斯成为东罗马皇帝。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2482,6 +4012,24 @@
         "category": "政治",
         "region": "北魏",
         "continent": "亚洲"
+      },
+      {
+        "title": "东哥特统一意大利",
+        "description": "狄奥多里克基本统一意大利半岛。",
+        "latitude": 42.0,
+        "longitude": 12.5,
+        "category": "军事",
+        "region": "东哥特王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "西哥特王国改宗天主教",
+        "description": "西哥特国王雷卡雷德率臣民改宗。",
+        "latitude": 40.0,
+        "longitude": -3.0,
+        "category": "宗教",
+        "region": "西哥特王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2519,6 +4067,24 @@
         "category": "政治",
         "region": "南齐",
         "continent": "亚洲"
+      },
+      {
+        "title": "狄奥多里克杀奥多亚塞",
+        "description": "东哥特王狄奥多里克诱杀奥多亚塞统一意大利。",
+        "latitude": 44.4,
+        "longitude": 12.2,
+        "category": "政治",
+        "region": "东哥特王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "意大利教会影响力扩大",
+        "description": "罗马主教（教皇）在西欧权威上升。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "教皇国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2556,6 +4122,24 @@
         "category": "政治",
         "region": "南齐",
         "continent": "亚洲"
+      },
+      {
+        "title": "东罗马货币改革",
+        "description": "阿纳斯塔修斯改革拜占庭币制。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "经济",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法兰克王国文化发展",
+        "description": "高卢拉丁文化和法兰克融合。",
+        "latitude": 49.0,
+        "longitude": 3.0,
+        "category": "文化",
+        "region": "法兰克王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2593,6 +4177,24 @@
         "category": "文化",
         "region": "北魏",
         "continent": "亚洲"
+      },
+      {
+        "title": "东哥特王国内政",
+        "description": "狄奥多里克在拉文纳推行开明统治。",
+        "latitude": 44.4,
+        "longitude": 12.2,
+        "category": "政治",
+        "region": "东哥特王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "拜占庭经济恢复",
+        "description": "阿纳斯塔修斯改革后拜占庭经济好转。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "经济",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2639,6 +4241,24 @@
         "category": "军事",
         "region": "法兰克王国",
         "continent": "欧洲"
+      },
+      {
+        "title": "克洛维皈依基督教",
+        "description": "法兰克国王克洛维在兰斯受洗入基督教。",
+        "latitude": 49.3,
+        "longitude": 4.0,
+        "category": "宗教",
+        "region": "法兰克王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "佛洛狄奥多里克去世",
+        "description": "东哥特国王狄奥多里克去世。",
+        "latitude": 44.4,
+        "longitude": 12.2,
+        "category": "政治",
+        "region": "东哥特王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2667,6 +4287,24 @@
         "category": "军事",
         "region": "北魏",
         "continent": "亚洲"
+      },
+      {
+        "title": "法兰克王国扩张",
+        "description": "克洛维征服高卢东部阿勒曼尼人地区。",
+        "latitude": 48.0,
+        "longitude": 7.0,
+        "category": "军事",
+        "region": "法兰克王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "东哥特后继王位之争",
+        "description": "狄奥多里克去世后东哥特陷入内乱。",
+        "latitude": 42.0,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "东哥特王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2704,6 +4342,24 @@
         "category": "军事",
         "region": "南齐",
         "continent": "亚洲"
+      },
+      {
+        "title": "东罗马边境防御",
+        "description": "阿纳斯塔修斯加强多瑙河防线。",
+        "latitude": 43.0,
+        "longitude": 27.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法兰克第二王国",
+        "description": "克洛塔尔统一法兰克。",
+        "latitude": 49.0,
+        "longitude": 3.0,
+        "category": "政治",
+        "region": "法兰克王国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2741,6 +4397,24 @@
         "category": "军事",
         "region": "南齐",
         "continent": "亚洲"
+      },
+      {
+        "title": "印度笈多帝国晚期",
+        "description": "笈多帝国在嚈哒人打击下日益衰落。",
+        "latitude": 25.0,
+        "longitude": 82.0,
+        "category": "政治",
+        "region": "笈多帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "拜占庭大瘟疫前夜",
+        "description": "拜占庭各地出现灾害前兆。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "社会",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2772,15 +4446,6 @@
         "category": "政治",
         "region": "南齐",
         "continent": "亚洲"
-      },
-      {
-        "title": "克洛维皈依基督教",
-        "description": "法兰克国王克洛维一世在兰斯大主教雷米吉乌斯的主持下接受了正统基督教的洗礼。三千名法兰克战士随同受洗。克洛维成为第一位皈依正统基督教的日耳曼国王，获得了高卢罗马教会和高卢罗马人的支持。",
-        "latitude": 49.2,
-        "longitude": 4.0,
-        "category": "宗教",
-        "region": "法兰克王国",
-        "continent": "欧洲"
       }
     ]
   }

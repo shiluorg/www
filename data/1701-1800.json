@@ -18,6 +18,154 @@
         "category": "军事",
         "region": "西班牙",
         "continent": "欧洲"
+      },
+      {
+        "title": "俄国彼得大帝改革",
+        "description": "俄国在彼得大帝和叶卡捷琳娜大帝治理下成为欧洲强国。",
+        "latitude": 55.8,
+        "longitude": 37.6,
+        "category": "政治",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法国大革命影响",
+        "description": "法国革命思想在欧洲和美洲传播。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "清朝修撰四库全书",
+        "description": "清朝编纂四库全书整理典籍。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "文化",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
+        "title": "太平洋探索",
+        "description": "库克等欧洲航海家探索太平洋群岛。",
+        "latitude": -20.0,
+        "longitude": -160.0,
+        "category": "科技",
+        "region": "欧洲",
+        "continent": "大洋洲"
+      },
+      {
+        "title": "列强全球殖民竞争",
+        "description": "英法西荷在全球范围争夺殖民地。",
+        "latitude": 20.0,
+        "longitude": -20.0,
+        "category": "政治",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "美洲殖民经济发展",
+        "description": "美洲殖民地种植园矿业经济发展。",
+        "latitude": 20.0,
+        "longitude": -70.0,
+        "category": "经济",
+        "region": "美洲",
+        "continent": "北美洲"
+      },
+      {
+        "title": "英王威廉三世去世",
+        "description": "威廉三世坠马去世安妮女王继位。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "荷兰与英国盟约",
+        "description": "海牙盟约抗法。",
+        "latitude": 52.1,
+        "longitude": 4.3,
+        "category": "外交",
+        "region": "尼德兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1702,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "清朝康乾盛世",
+        "description": "清朝康熙、雍正、乾隆三朝统治，中国进入繁荣时期。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲启蒙运动传播",
+        "description": "启蒙思想在欧洲各国广泛传播。",
+        "latitude": 48.0,
+        "longitude": 2.0,
+        "category": "文化",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "日本文化经济繁荣",
+        "description": "江户时期日本城市商业文化繁荣。",
+        "latitude": 35.7,
+        "longitude": 139.7,
+        "category": "文化",
+        "region": "日本",
+        "continent": "亚洲"
+      },
+      {
+        "title": "英国占领梅诺卡岛",
+        "description": "英国海军占领地中海梅诺卡岛。",
+        "latitude": 40.0,
+        "longitude": 4.0,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英国西班牙海战",
+        "description": "英西海战。",
+        "latitude": 40.0,
+        "longitude": -3.0,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "安妮女王即位",
+        "description": "安妮女王成英王。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英西加的斯海战",
+        "description": "英荷攻西班牙。",
+        "latitude": 36.5,
+        "longitude": -6.3,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -39,6 +187,33 @@
         "longitude": 30.3,
         "category": "政治",
         "region": "俄罗斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法国大革命",
+        "description": "法国大革命爆发，推翻封建专制制度。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "葡萄牙加入反法同盟",
+        "description": "葡萄牙签约。",
+        "latitude": 38.7,
+        "longitude": -9.1,
+        "category": "外交",
+        "region": "葡萄牙",
+        "continent": "欧洲"
+      },
+      {
+        "title": "萨伏伊加入反法同盟",
+        "description": "萨伏伊转向。",
+        "latitude": 45.1,
+        "longitude": 7.5,
+        "category": "外交",
+        "region": "萨伏伊",
         "continent": "欧洲"
       }
     ]
@@ -62,6 +237,60 @@
         "category": "军事",
         "region": "巴伐利亚",
         "continent": "欧洲"
+      },
+      {
+        "title": "工业革命前夜",
+        "description": "英国纺织业技术进步，为工业革命奠定基础。",
+        "latitude": 52.0,
+        "longitude": -2.0,
+        "category": "科技",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "非洲部落王国发展",
+        "description": "阿散蒂达荷美等非洲王国扩张。",
+        "latitude": 7.0,
+        "longitude": -2.0,
+        "category": "政治",
+        "region": "西非",
+        "continent": "非洲"
+      },
+      {
+        "title": "欧洲重商主义",
+        "description": "欧洲各国推行重商主义经济政策。",
+        "latitude": 50.0,
+        "longitude": 8.0,
+        "category": "经济",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "印度帝国邦国林立",
+        "description": "莫卧儿帝国衰弱后各地方邦国独立。",
+        "latitude": 25.0,
+        "longitude": 80.0,
+        "category": "政治",
+        "region": "印度",
+        "continent": "亚洲"
+      },
+      {
+        "title": "英国占直布罗陀",
+        "description": "英占直布罗陀。",
+        "latitude": 36.1,
+        "longitude": -5.4,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "奥地利王子欧根亲王",
+        "description": "欧根战功。",
+        "latitude": 48.2,
+        "longitude": 16.4,
+        "category": "军事",
+        "region": "奥地利",
+        "continent": "欧洲"
       }
     ]
   },
@@ -84,6 +313,127 @@
         "category": "政治",
         "region": "清",
         "continent": "亚洲"
+      },
+      {
+        "title": "美国独立与建国",
+        "description": "北美十三州独立，美国建国并确立共和制度。",
+        "latitude": 38.9,
+        "longitude": -77.0,
+        "category": "政治",
+        "region": "美国",
+        "continent": "北美洲"
+      },
+      {
+        "title": "俄国向西扩张",
+        "description": "俄罗斯帝国在欧洲和亚洲扩张领土。",
+        "latitude": 55.8,
+        "longitude": 37.6,
+        "category": "政治",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "美洲种植园经济",
+        "description": "美洲殖民地甘蔗烟草棉花种植园经济繁荣。",
+        "latitude": 30.0,
+        "longitude": -85.0,
+        "category": "经济",
+        "region": "美洲",
+        "continent": "北美洲"
+      },
+      {
+        "title": "非洲王国贸易",
+        "description": "西非中非各王国与欧洲人的贸易。",
+        "latitude": 6.0,
+        "longitude": 2.0,
+        "category": "经济",
+        "region": "非洲",
+        "continent": "非洲"
+      },
+      {
+        "title": "清朝修撰古今图书集成",
+        "description": "康熙下令编纂古今图书集成。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "文化",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
+        "title": "清朝查禁私钱",
+        "description": "康乾。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "经济",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
+        "title": "维也纳宫廷繁荣",
+        "description": "约瑟夫一世。",
+        "latitude": 48.2,
+        "longitude": 16.4,
+        "category": "文化",
+        "region": "奥地利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "西班牙王位战在意大利",
+        "description": "意大利战役。",
+        "latitude": 45.0,
+        "longitude": 10.0,
+        "category": "军事",
+        "region": "西班牙",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1706,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "本杰明·富兰克林出生",
+        "description": "美国开国元勋富兰克林出生。",
+        "latitude": 39.9,
+        "longitude": -75.2,
+        "category": "文化",
+        "region": "英属北美",
+        "continent": "北美洲"
+      },
+      {
+        "title": "康熙帝平定西藏",
+        "description": "清定西藏。",
+        "latitude": 30.0,
+        "longitude": 90.0,
+        "category": "军事",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
+        "title": "拉米伊战役",
+        "description": "马尔伯勒胜。",
+        "latitude": 50.6,
+        "longitude": 5.5,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "都灵战役",
+        "description": "欧根胜法。",
+        "latitude": 45.1,
+        "longitude": 7.5,
+        "category": "军事",
+        "region": "奥地利",
+        "continent": "欧洲"
       }
     ]
   },
@@ -115,6 +465,91 @@
         "category": "政治",
         "region": "莫卧儿帝国",
         "continent": "亚洲"
+      },
+      {
+        "title": "欧洲启蒙运动",
+        "description": "伏尔泰、卢梭、狄德罗等启蒙思想家批判旧制度。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "文化",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英格兰苏格兰合并为大不列颠",
+        "description": "英格兰与苏格兰正式合并为大不列颠王国。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "联合法案英苏格兰合并",
+        "description": "大不列颠。",
+        "latitude": 55.9,
+        "longitude": -3.2,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "奥法停战",
+        "description": "暂时休战。",
+        "latitude": 48.0,
+        "longitude": 7.0,
+        "category": "外交",
+        "region": "奥地利",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1708,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "法军占领撒丁岛",
+        "description": "西班牙王位继承战中法军占领撒丁。",
+        "latitude": 39.0,
+        "longitude": 9.0,
+        "category": "军事",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "俄罗斯瑞典战争",
+        "description": "彼得与查尔斯。",
+        "latitude": 60.0,
+        "longitude": 30.0,
+        "category": "军事",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "俄瑞战争在芬兰",
+        "description": "俄军入芬兰。",
+        "latitude": 62.0,
+        "longitude": 26.0,
+        "category": "军事",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法国在西班牙攻势",
+        "description": "法西联军。",
+        "latitude": 41.7,
+        "longitude": -2.0,
+        "category": "军事",
+        "region": "法兰西",
+        "continent": "欧洲"
       }
     ]
   },
@@ -136,6 +571,24 @@
         "longitude": 34.5,
         "category": "军事",
         "region": "俄罗斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "瑞典查理十二世逃亡",
+        "description": "查理至土耳其。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "瑞典",
+        "continent": "欧洲"
+      },
+      {
+        "title": "丹麦反瑞典",
+        "description": "丹麦参战。",
+        "latitude": 56.0,
+        "longitude": 10.0,
+        "category": "军事",
+        "region": "丹麦",
         "continent": "欧洲"
       }
     ]
@@ -159,6 +612,73 @@
         "category": "科技",
         "region": "清",
         "continent": "亚洲"
+      },
+      {
+        "title": "康熙帝组织绘制皇舆全览图",
+        "description": "康熙命传教士测绘全国地图。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "科技",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
+        "title": "英国托利党主政",
+        "description": "反战派。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "康熙推行赋税改革",
+        "description": "滋生人丁永不加赋。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "经济",
+        "region": "清",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1711,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "英国南海公司成立",
+        "description": "英国南海公司在南美贸易。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "经济",
+        "region": "英格兰",
+        "continent": "南美洲"
+      },
+      {
+        "title": "西班牙王位战终结",
+        "description": "和平谈判。",
+        "latitude": 52.1,
+        "longitude": 5.1,
+        "category": "外交",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "俄国打通波罗的海",
+        "description": "俄占里加。",
+        "latitude": 56.9,
+        "longitude": 24.1,
+        "category": "军事",
+        "region": "俄罗斯",
+        "continent": "欧洲"
       }
     ]
   },
@@ -180,6 +700,24 @@
         "longitude": -2.0,
         "category": "科技",
         "region": "大不列颠",
+        "continent": "欧洲"
+      },
+      {
+        "title": "康熙帝废除圈地",
+        "description": "停止圈地。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "社会",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
+        "title": "英国南海公司丑闻",
+        "description": "南海泡沫。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "经济",
+        "region": "英格兰",
         "continent": "欧洲"
       }
     ]
@@ -203,6 +741,64 @@
         "category": "外交",
         "region": "荷兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "西班牙王位战和约",
+        "description": "乌得勒支。",
+        "latitude": 52.1,
+        "longitude": 5.1,
+        "category": "外交",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "普鲁士王国",
+        "description": "腓特烈一世。",
+        "latitude": 52.5,
+        "longitude": 13.5,
+        "category": "政治",
+        "region": "普鲁士",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1714,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "乔治一世即英王位",
+        "description": "汉诺威王朝开始。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "巴伐利亚选帝侯",
+        "description": "巴伐利亚。",
+        "latitude": 48.1,
+        "longitude": 11.6,
+        "category": "政治",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英国辉格党执政",
+        "description": "辉格党。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -223,6 +819,113 @@
         "latitude": 48.8,
         "longitude": 2.1,
         "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法国摄政时代",
+        "description": "奥尔良公爵。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "康熙平西藏",
+        "description": "清军入藏。",
+        "latitude": 30.0,
+        "longitude": 90.0,
+        "category": "军事",
+        "region": "清",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1716,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "法国摄政奥尔良公爵掌权",
+        "description": "路易十五幼年由奥尔良公爵摄政。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "詹姆斯党起义",
+        "description": "苏格兰反叛。",
+        "latitude": 57.0,
+        "longitude": -5.0,
+        "category": "军事",
+        "region": "苏格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英国反叛乱法案",
+        "description": "七年期限。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "法律",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "奥斯曼攻希腊",
+        "description": "土军攻。",
+        "latitude": 38.0,
+        "longitude": 22.0,
+        "category": "军事",
+        "region": "奥斯曼帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1717,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "西班牙夺回撒丁岛",
+        "description": "西班牙重新占领撒丁岛。",
+        "latitude": 39.0,
+        "longitude": 9.0,
+        "category": "军事",
+        "region": "西班牙",
+        "continent": "欧洲"
+      },
+      {
+        "title": "反天主教法案",
+        "description": "英国限制。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法国摄政外交",
+        "description": "奥尔良。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "外交",
         "region": "法兰西",
         "continent": "欧洲"
       }
@@ -247,6 +950,3142 @@
         "category": "政治",
         "region": "法属路易斯安那",
         "continent": "北美洲"
+      },
+      {
+        "title": "西班牙王位战终结",
+        "description": "四国同盟。",
+        "latitude": 40.4,
+        "longitude": -3.7,
+        "category": "外交",
+        "region": "西班牙",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英西海战",
+        "description": "拜恩海战。",
+        "latitude": 38.0,
+        "longitude": -2.0,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "奥地利攻土耳其",
+        "description": "奥土战争。",
+        "latitude": 45.0,
+        "longitude": 19.0,
+        "category": "军事",
+        "region": "奥地利",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1719,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "笛福著《鲁滨逊漂流记》",
+        "description": "丹尼尔·笛福出版《鲁滨逊漂流记》。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "文化",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "西班牙佛洛里达",
+        "description": "西占。",
+        "latitude": 30.0,
+        "longitude": -84.0,
+        "category": "军事",
+        "region": "西班牙",
+        "continent": "北美洲"
+      },
+      {
+        "title": "瑞典女王乌尔丽卡",
+        "description": "乌尔丽卡。",
+        "latitude": 59.3,
+        "longitude": 18.1,
+        "category": "政治",
+        "region": "瑞典",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1720,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "南海泡沫破灭",
+        "description": "英国南海公司股价崩溃引发金融危机。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "经济",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "清朝多败准噶尔",
+        "description": "清平西北。",
+        "latitude": 45.0,
+        "longitude": 90.0,
+        "category": "军事",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
+        "title": "南海泡沫崩盘",
+        "description": "英国股灾。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "金融",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法国密西西比泡沫",
+        "description": "约翰劳。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "金融",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1721,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "沃波尔首任英首相",
+        "description": "罗伯特·沃波尔任英国首任首相。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "俄罗斯对外扩张",
+        "description": "尼什塔特和约。",
+        "latitude": 60.0,
+        "longitude": 30.0,
+        "category": "外交",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "瑞典失去波罗的海霸权",
+        "description": "瑞典衰落。",
+        "latitude": 59.3,
+        "longitude": 18.1,
+        "category": "政治",
+        "region": "瑞典",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1722,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "俄皇彼得大帝晚年",
+        "description": "彼得临终。",
+        "latitude": 55.8,
+        "longitude": 37.6,
+        "category": "政治",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "荷兰衰落",
+        "description": "海上马车夫。",
+        "latitude": 52.4,
+        "longitude": 4.9,
+        "category": "经济",
+        "region": "尼德兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1723,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "法国发展重商主义",
+        "description": "法国路易十五推行重商主义经济。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "经济",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "波兰王位继承",
+        "description": "奥古斯特。",
+        "latitude": 52.2,
+        "longitude": 21.0,
+        "category": "政治",
+        "region": "波兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "清朝年羹尧平青海",
+        "description": "雍正年。",
+        "latitude": 36.6,
+        "longitude": 101.8,
+        "category": "军事",
+        "region": "清",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1724,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "康德出生",
+        "description": "德国哲学家伊曼努尔·康德出生。",
+        "latitude": 54.7,
+        "longitude": 20.5,
+        "category": "文化",
+        "region": "普鲁士",
+        "continent": "欧洲"
+      },
+      {
+        "title": "清朝出兵准噶尔",
+        "description": "雍正西征。",
+        "latitude": 43.0,
+        "longitude": 87.0,
+        "category": "军事",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
+        "title": "法国耶稣会巴黎",
+        "description": "耶稣会。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "宗教",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "雍正推行耗羡归公",
+        "description": "财政改革。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "经济",
+        "region": "清",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1725,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "叶卡捷琳娜一世即俄皇位",
+        "description": "彼得大帝之妻继承皇位。",
+        "latitude": 55.8,
+        "longitude": 37.6,
+        "category": "政治",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "西班牙奥地利条约",
+        "description": "维也纳条约。",
+        "latitude": 48.2,
+        "longitude": 16.4,
+        "category": "外交",
+        "region": "西班牙",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1726,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "清朝出兵准噶尔",
+        "description": "雍正帝派兵征讨准噶尔部。",
+        "latitude": 45.0,
+        "longitude": 90.0,
+        "category": "军事",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
+        "title": "伏尔泰在英",
+        "description": "伏尔泰流亡。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "文化",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法国红衣主教弗勒里",
+        "description": "弗勒里。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "清朝军机处设立",
+        "description": "雍正军机。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "清",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1727,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "牛顿去世",
+        "description": "艾萨克·牛顿在伦敦去世。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "科技",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英王乔治二世即位",
+        "description": "乔治二世。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "俄奥同盟",
+        "description": "维也纳同盟。",
+        "latitude": 55.8,
+        "longitude": 37.6,
+        "category": "外交",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1728,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北京建设圆明园",
+        "description": "清雍正扩建圆明园。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "文化",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
+        "title": "西班牙围直布罗陀",
+        "description": "西围。",
+        "latitude": 36.1,
+        "longitude": -5.4,
+        "category": "军事",
+        "region": "西班牙",
+        "continent": "欧洲"
+      },
+      {
+        "title": "清朝与准噶尔和谈",
+        "description": "雍正和。",
+        "latitude": 43.0,
+        "longitude": 87.0,
+        "category": "外交",
+        "region": "清",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1729,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "南美新格拉纳达副王区设立",
+        "description": "西班牙在南美设新格拉纳达副王区。",
+        "latitude": 4.6,
+        "longitude": -74.1,
+        "category": "政治",
+        "region": "西班牙",
+        "continent": "南美洲"
+      },
+      {
+        "title": "清朝改土归流",
+        "description": "云贵改土。",
+        "latitude": 26.0,
+        "longitude": 105.0,
+        "category": "政治",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
+        "title": "琼斯医生种痘",
+        "description": "天花预防。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "医学",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1730,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "普鲁士王国军事改革",
+        "description": "腓特烈·威廉一世强化普鲁士军力。",
+        "latitude": 52.5,
+        "longitude": 13.0,
+        "category": "军事",
+        "region": "普鲁士",
+        "continent": "欧洲"
+      },
+      {
+        "title": "普鲁士王腓特烈威廉",
+        "description": "士兵王。",
+        "latitude": 52.5,
+        "longitude": 13.0,
+        "category": "政治",
+        "region": "普鲁士",
+        "continent": "欧洲"
+      },
+      {
+        "title": "维也纳条约确认",
+        "description": "奥西。",
+        "latitude": 48.2,
+        "longitude": 16.4,
+        "category": "外交",
+        "region": "奥地利",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1731,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "欧洲各国重商主义",
+        "description": "欧洲列强普遍推行重商主义。",
+        "latitude": 50.0,
+        "longitude": 8.0,
+        "category": "经济",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "欧洲音乐巴洛克",
+        "description": "巴赫。",
+        "latitude": 51.5,
+        "longitude": 10.0,
+        "category": "音乐",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "欧洲商业公司法",
+        "description": "股份公司。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "商业",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "清廷禁天主教",
+        "description": "雍正禁教。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "宗教",
+        "region": "清",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1732,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "华盛顿出生",
+        "description": "美国国父乔治·华盛顿出生。",
+        "latitude": 38.1,
+        "longitude": -77.0,
+        "category": "政治",
+        "region": "英属北美",
+        "continent": "北美洲"
+      },
+      {
+        "title": "北美殖民地富兰克林",
+        "description": "费城。",
+        "latitude": 39.9,
+        "longitude": -75.2,
+        "category": "文化",
+        "region": "英属北美",
+        "continent": "北美洲"
+      },
+      {
+        "title": "伏尔泰著哲学通信",
+        "description": "英伦通信。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "哲学",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1733,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "波兰王位继承战争",
+        "description": "欧洲列强围绕波兰王位战争。",
+        "latitude": 52.0,
+        "longitude": 20.0,
+        "category": "军事",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英国殖民地制糖",
+        "description": "西印度。",
+        "latitude": 20.0,
+        "longitude": -75.0,
+        "category": "经济",
+        "region": "英格兰",
+        "continent": "北美洲"
+      }
+    ]
+  },
+  {
+    "year": 1734,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "法国洛林地区归属",
+        "description": "法国逐步控制洛林地区。",
+        "latitude": 48.5,
+        "longitude": 6.0,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "俄国波兰王位",
+        "description": "俄佐奥古斯特。",
+        "latitude": 55.8,
+        "longitude": 37.6,
+        "category": "外交",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1735,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "约翰·亚当斯出生",
+        "description": "美国第二任总统亚当斯出生。",
+        "latitude": 42.4,
+        "longitude": -71.0,
+        "category": "政治",
+        "region": "英属北美",
+        "continent": "北美洲"
+      },
+      {
+        "title": "瑞典自然分类学",
+        "description": "林奈。",
+        "latitude": 59.8,
+        "longitude": 17.6,
+        "category": "科学",
+        "region": "瑞典",
+        "continent": "欧洲"
+      },
+      {
+        "title": "欧洲自然哲学",
+        "description": "霍尔巴赫。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "哲学",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "清朝驱逐耶稣会士",
+        "description": "雍禁。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "宗教",
+        "region": "清",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1736,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "俄国与奥斯曼战争",
+        "description": "俄国与奥斯曼争夺黑海出海口。",
+        "latitude": 47.0,
+        "longitude": 35.0,
+        "category": "军事",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "俄土战争",
+        "description": "俄攻克里米亚。",
+        "latitude": 46.0,
+        "longitude": 34.0,
+        "category": "军事",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "波斯纳迪尔沙",
+        "description": "纳迪尔。",
+        "latitude": 35.0,
+        "longitude": 55.0,
+        "category": "政治",
+        "region": "波斯",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1737,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "伏尔泰著《牛顿哲学原理》",
+        "description": "伏尔泰向法国介绍牛顿科学。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "文化",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "奥地利与土耳其战",
+        "description": "奥土。",
+        "latitude": 45.0,
+        "longitude": 19.0,
+        "category": "军事",
+        "region": "奥地利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "西班牙那不勒斯",
+        "description": "波旁。",
+        "latitude": 40.9,
+        "longitude": 14.3,
+        "category": "政治",
+        "region": "西班牙",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1738,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "海上马车夫荷兰衰落",
+        "description": "荷兰在西欧列强中相对衰落。",
+        "latitude": 52.4,
+        "longitude": 4.9,
+        "category": "经济",
+        "region": "尼德兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "维也纳和约",
+        "description": "波兰王位战止。",
+        "latitude": 48.2,
+        "longitude": 16.4,
+        "category": "外交",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "瑞典自然学家林奈",
+        "description": "分类学。",
+        "latitude": 59.8,
+        "longitude": 17.6,
+        "category": "科学",
+        "region": "瑞典",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1739,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "英国与西班牙詹金斯耳朵战争",
+        "description": "英国西班牙为美洲贸易开战。",
+        "latitude": 18.0,
+        "longitude": -77.0,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "北美洲"
+      },
+      {
+        "title": "奥斯曼与俄奥和约",
+        "description": "贝尔格莱德和约。",
+        "latitude": 44.8,
+        "longitude": 20.5,
+        "category": "外交",
+        "region": "奥斯曼帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1740,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "普鲁士腓特烈大帝即位",
+        "description": "腓特烈二世成为普鲁士国王。",
+        "latitude": 52.5,
+        "longitude": 13.0,
+        "category": "政治",
+        "region": "普鲁士",
+        "continent": "欧洲"
+      },
+      {
+        "title": "欧洲农业革命",
+        "description": "轮作。",
+        "latitude": 52.0,
+        "longitude": -1.0,
+        "category": "农业",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "奥地利女继承战争",
+        "description": "玛丽亚特蕾莎。",
+        "latitude": 48.2,
+        "longitude": 16.4,
+        "category": "政治",
+        "region": "奥地利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "普鲁士攻占西里西亚",
+        "description": "腓特烈。",
+        "latitude": 51.0,
+        "longitude": 17.0,
+        "category": "军事",
+        "region": "普鲁士",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1741,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "奥地利王位继承战",
+        "description": "玛丽亚·特蕾莎继承奥地利引发全欧战争。",
+        "latitude": 48.2,
+        "longitude": 16.4,
+        "category": "军事",
+        "region": "奥地利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "西班牙在美洲",
+        "description": "西班牙殖民地。",
+        "latitude": 10.0,
+        "longitude": -70.0,
+        "category": "政治",
+        "region": "西班牙",
+        "continent": "南美洲"
+      },
+      {
+        "title": "法国参战反奥",
+        "description": "法助普鲁士。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "军事",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1742,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "亨德尔《弥赛亚》首演",
+        "description": "亨德尔著名清唱剧在都柏林公演。",
+        "latitude": 53.3,
+        "longitude": -6.3,
+        "category": "文化",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英国首相沃波尔辞职",
+        "description": "沃波尔下台。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "奥地利与普鲁士和约",
+        "description": "布雷斯劳。",
+        "latitude": 51.1,
+        "longitude": 17.0,
+        "category": "外交",
+        "region": "奥地利",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1743,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "法国路易十五参战",
+        "description": "法国加入奥地利王位继承战。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "军事",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英法战争在北美",
+        "description": "肯色兰。",
+        "latitude": 45.0,
+        "longitude": -73.0,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "北美洲"
+      },
+      {
+        "title": "俄罗斯与瑞典战争",
+        "description": "俄胜。",
+        "latitude": 60.0,
+        "longitude": 30.0,
+        "category": "军事",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1744,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "普鲁士占领西里西亚",
+        "description": "普鲁士在西里西亚战争获胜。",
+        "latitude": 51.0,
+        "longitude": 17.0,
+        "category": "军事",
+        "region": "普鲁士",
+        "continent": "欧洲"
+      },
+      {
+        "title": "普鲁士再攻奥地利",
+        "description": "第二次西里西亚。",
+        "latitude": 51.0,
+        "longitude": 17.0,
+        "category": "军事",
+        "region": "普鲁士",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法国企图入侵英国",
+        "description": "法舰队。",
+        "latitude": 50.0,
+        "longitude": -2.0,
+        "category": "军事",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1745,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "詹姆斯党人起义",
+        "description": "查理·爱德华在苏格兰起义。",
+        "latitude": 57.0,
+        "longitude": -5.0,
+        "category": "军事",
+        "region": "苏格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "苏格兰詹姆斯党人起义",
+        "description": "查理王子。",
+        "latitude": 57.0,
+        "longitude": -4.0,
+        "category": "军事",
+        "region": "苏格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "奥地利与萨克森盟",
+        "description": "抗普鲁士。",
+        "latitude": 51.0,
+        "longitude": 13.0,
+        "category": "外交",
+        "region": "奥地利",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1746,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "俄国女皇伊丽莎白即位",
+        "description": "彼得大帝之女伊丽莎白即位。",
+        "latitude": 55.8,
+        "longitude": 37.6,
+        "category": "政治",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英法在印度战争",
+        "description": "卡尔纳提克。",
+        "latitude": 12.0,
+        "longitude": 80.0,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "亚洲"
+      },
+      {
+        "title": "西班牙与葡萄牙殖民地",
+        "description": "南美。",
+        "latitude": -30.0,
+        "longitude": -55.0,
+        "category": "政治",
+        "region": "西班牙",
+        "continent": "南美洲"
+      }
+    ]
+  },
+  {
+    "year": 1747,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "清朝平定大小金川",
+        "description": "乾隆帝平定四川大小金川之乱。",
+        "latitude": 31.0,
+        "longitude": 102.0,
+        "category": "军事",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
+        "title": "法军攻荷兰",
+        "description": "法入尼德兰。",
+        "latitude": 51.5,
+        "longitude": 5.0,
+        "category": "军事",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "波斯阿夫沙尔王朝",
+        "description": "纳迪尔。",
+        "latitude": 35.0,
+        "longitude": 55.0,
+        "category": "政治",
+        "region": "波斯",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1748,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "亚琛和约结束战争",
+        "description": "奥地利王位继承战结束。",
+        "latitude": 50.8,
+        "longitude": 6.1,
+        "category": "外交",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法国启蒙思想家孟德斯鸠",
+        "description": "论法的精神。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "法律",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1749,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "歌德出生",
+        "description": "德国大文豪歌德出生。",
+        "latitude": 50.1,
+        "longitude": 8.7,
+        "category": "文化",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "瑞典贵族宪法",
+        "description": "自由时代。",
+        "latitude": 59.3,
+        "longitude": 18.1,
+        "category": "政治",
+        "region": "瑞典",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英国北美移民",
+        "description": "殖民地。",
+        "latitude": 40.0,
+        "longitude": -75.0,
+        "category": "社会",
+        "region": "英属北美",
+        "continent": "北美洲"
+      }
+    ]
+  },
+  {
+    "year": 1750,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "欧洲启蒙运动高峰",
+        "description": "狄德罗编《百科全书》标志启蒙鼎盛。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "文化",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "百科全书出版",
+        "description": "狄德罗。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "学术",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "葡萄牙庞巴尔改革",
+        "description": "葡萄牙。",
+        "latitude": 38.7,
+        "longitude": -9.1,
+        "category": "政治",
+        "region": "葡萄牙",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法国物理学家实验",
+        "description": "电学。",
+        "latitude": 48.0,
+        "longitude": 2.0,
+        "category": "科学",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1751,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "狄德罗《百科全书》出版",
+        "description": "法国《百科全书》第一卷出版。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "文化",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "普鲁士腓特烈法典",
+        "description": "腓特烈法。",
+        "latitude": 52.5,
+        "longitude": 13.0,
+        "category": "法律",
+        "region": "普鲁士",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1752,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "英属北美殖民发展",
+        "description": "北美十三州人口经济持续增长。",
+        "latitude": 40.0,
+        "longitude": -75.0,
+        "category": "经济",
+        "region": "英属北美",
+        "continent": "北美洲"
+      },
+      {
+        "title": "本杰明富兰克林风筝实验",
+        "description": "富兰克林电。",
+        "latitude": 39.9,
+        "longitude": -75.2,
+        "category": "科学",
+        "region": "英属北美",
+        "continent": "北美洲"
+      },
+      {
+        "title": "英国格雷欣历法改革",
+        "description": "历法。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "历法",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1753,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "英法北美领土冲突",
+        "description": "英法在俄亥俄河谷争夺领土。",
+        "latitude": 40.0,
+        "longitude": -80.0,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "北美洲"
+      },
+      {
+        "title": "大英博物馆成立",
+        "description": "大英博物馆。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "文化",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "瑞典植物分类",
+        "description": "林奈种。",
+        "latitude": 59.8,
+        "longitude": 17.6,
+        "category": "科学",
+        "region": "瑞典",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1754,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "七年战争北美序幕",
+        "description": "华盛顿在俄亥俄地区与法军冲突。",
+        "latitude": 40.0,
+        "longitude": -80.0,
+        "category": "军事",
+        "region": "英属北美",
+        "continent": "北美洲"
+      },
+      {
+        "title": "英法北美之争",
+        "description": "七年战争前。",
+        "latitude": 40.0,
+        "longitude": -80.0,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "北美洲"
+      },
+      {
+        "title": "北美殖民地代表会议",
+        "description": "奥尔巴尼。",
+        "latitude": 42.7,
+        "longitude": -73.8,
+        "category": "政治",
+        "region": "英属北美",
+        "continent": "北美洲"
+      }
+    ]
+  },
+  {
+    "year": 1755,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "里斯本大地震",
+        "description": "葡萄牙里斯本发生强烈地震。",
+        "latitude": 38.7,
+        "longitude": -9.1,
+        "category": "社会",
+        "region": "葡萄牙",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英国公路收费",
+        "description": "收费路。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "交通",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1756,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "七年战争爆发",
+        "description": "英法普奥在全球范围开战。",
+        "latitude": 50.0,
+        "longitude": 10.0,
+        "category": "军事",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "黑太子之战",
+        "description": "印度英法。",
+        "latitude": 12.0,
+        "longitude": 80.0,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1757,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "普拉西战役",
+        "description": "英国东印度公司在印度击败孟加拉。",
+        "latitude": 23.0,
+        "longitude": 88.0,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗斯巴赫战役",
+        "description": "普鲁士胜。",
+        "latitude": 51.3,
+        "longitude": 11.9,
+        "category": "军事",
+        "region": "普鲁士",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1758,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "普鲁士罗斯巴赫战役",
+        "description": "腓特烈大帝在罗斯巴赫击败法军。",
+        "latitude": 51.3,
+        "longitude": 11.9,
+        "category": "军事",
+        "region": "普鲁士",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法国政治理论",
+        "description": "爱尔维修。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "哲学",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1759,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "英国占魁北克",
+        "description": "英军在亚伯拉罕平原击败法军。",
+        "latitude": 46.8,
+        "longitude": -71.2,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "北美洲"
+      },
+      {
+        "title": "亚伯拉罕平原战役",
+        "description": "英取魁北克。",
+        "latitude": 46.8,
+        "longitude": -71.2,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "北美洲"
+      },
+      {
+        "title": "法国启蒙哲人",
+        "description": "狄德罗。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "哲学",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1760,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "英国工业革命开始",
+        "description": "英国纺织业机械化进程加速。",
+        "latitude": 53.0,
+        "longitude": -2.0,
+        "category": "科技",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "乔治三世即英王位",
+        "description": "乔治三世成为英国国王。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英国运河建设",
+        "description": "运河。",
+        "latitude": 53.0,
+        "longitude": -2.0,
+        "category": "工程",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "俄国柏林之占",
+        "description": "俄入柏林。",
+        "latitude": 52.5,
+        "longitude": 13.4,
+        "category": "军事",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1761,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "法国在新法兰西投降",
+        "description": "法国在北美向英军投降。",
+        "latitude": 45.5,
+        "longitude": -73.6,
+        "category": "军事",
+        "region": "法兰西",
+        "continent": "北美洲"
+      },
+      {
+        "title": "英占印度本地治里",
+        "description": "法印失。",
+        "latitude": 12.0,
+        "longitude": 80.0,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "亚洲"
+      },
+      {
+        "title": "西班牙参战七年战争",
+        "description": "西加盟。",
+        "latitude": 40.4,
+        "longitude": -3.7,
+        "category": "军事",
+        "region": "西班牙",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1762,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "俄国叶卡捷琳娜二世即位",
+        "description": "叶卡捷琳娜大帝成为俄国女皇。",
+        "latitude": 55.8,
+        "longitude": 37.6,
+        "category": "政治",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "俄国彼得三世",
+        "description": "彼得三世。",
+        "latitude": 55.8,
+        "longitude": 37.6,
+        "category": "政治",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1763,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "巴黎和约结束七年战争",
+        "description": "法国将加拿大和印度领地割让给英。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "外交",
+        "region": "法兰西",
+        "continent": "北美洲"
+      },
+      {
+        "title": "庞蒂亚克起义",
+        "description": "印第安。",
+        "latitude": 42.0,
+        "longitude": -83.0,
+        "category": "军事",
+        "region": "北美印第安",
+        "continent": "北美洲"
+      }
+    ]
+  },
+  {
+    "year": 1764,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "英国食糖法案",
+        "description": "英国对北美殖民地征糖税。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "经济",
+        "region": "英格兰",
+        "continent": "北美洲"
+      },
+      {
+        "title": "英国糖税法",
+        "description": "殖民地税。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "经济",
+        "region": "英格兰",
+        "continent": "北美洲"
+      },
+      {
+        "title": "瓦特改进蒸汽机",
+        "description": "瓦特。",
+        "latitude": 55.9,
+        "longitude": -4.3,
+        "category": "科技",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1765,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "英国印花税法案",
+        "description": "英国对北美殖民地征印花税激怒殖民者。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "经济",
+        "region": "英格兰",
+        "continent": "北美洲"
+      },
+      {
+        "title": "北美殖民地合法抵制",
+        "description": "反印花税。",
+        "latitude": 40.0,
+        "longitude": -75.0,
+        "category": "社会",
+        "region": "英属北美",
+        "continent": "北美洲"
+      }
+    ]
+  },
+  {
+    "year": 1766,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "英国废除印花税",
+        "description": "英国迫于压力废除印花税法。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "北美洲"
+      },
+      {
+        "title": "唐朝法律西传",
+        "description": "中国法。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "文化",
+        "region": "清",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1767,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "英国汤森法案",
+        "description": "英国对北美征玻璃铅茶等税。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "经济",
+        "region": "英格兰",
+        "continent": "北美洲"
+      },
+      {
+        "title": "菲律宾西班牙总督",
+        "description": "西统。",
+        "latitude": 14.6,
+        "longitude": 121.0,
+        "category": "政治",
+        "region": "西班牙",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1768,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "清朝征缅甸",
+        "description": "乾隆帝派兵征讨缅甸。",
+        "latitude": 22.0,
+        "longitude": 96.0,
+        "category": "军事",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
+        "title": "俄罗斯与土耳其战争",
+        "description": "俄土战。",
+        "latitude": 47.0,
+        "longitude": 35.0,
+        "category": "军事",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英国皇家艺术院",
+        "description": "雷诺兹。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "艺术",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1769,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "拿破仑·波拿巴出生",
+        "description": "未来法国皇帝拿破仑在科西嘉出生。",
+        "latitude": 41.9,
+        "longitude": 8.7,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "詹姆斯瓦特专利",
+        "description": "蒸汽机。",
+        "latitude": 55.9,
+        "longitude": -4.3,
+        "category": "科技",
+        "region": "苏格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1770,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "波士顿屠杀",
+        "description": "英军向波士顿示威群众开枪。",
+        "latitude": 42.4,
+        "longitude": -71.1,
+        "category": "政治",
+        "region": "英属北美",
+        "continent": "北美洲"
+      },
+      {
+        "title": "欧洲人口增长",
+        "description": "人口。",
+        "latitude": 50.0,
+        "longitude": 8.0,
+        "category": "人口",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英诺森三世",
+        "description": "波士顿惨案。",
+        "latitude": 42.4,
+        "longitude": -71.1,
+        "category": "政治",
+        "region": "英属北美",
+        "continent": "北美洲"
+      },
+      {
+        "title": "法国自然博物学",
+        "description": "布丰。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "科学",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1771,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "英国印花税废除",
+        "description": "英政府撤回大部分税收法案。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "俄国征服克里米亚",
+        "description": "俄扩。",
+        "latitude": 45.0,
+        "longitude": 34.0,
+        "category": "军事",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "第一台水力纺机",
+        "description": "阿克莱特。",
+        "latitude": 53.0,
+        "longitude": -1.3,
+        "category": "工业",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1772,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "瑞典古斯塔夫三世改革",
+        "description": "古斯塔夫三世加强王权推行改革。",
+        "latitude": 59.3,
+        "longitude": 18.1,
+        "category": "政治",
+        "region": "瑞典",
+        "continent": "欧洲"
+      },
+      {
+        "title": "波兰第一次瓜分",
+        "description": "俄普奥分。",
+        "latitude": 52.2,
+        "longitude": 21.0,
+        "category": "政治",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1773,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "波士顿倾茶事件",
+        "description": "北美殖民者将英国茶叶倒入海港。",
+        "latitude": 42.4,
+        "longitude": -71.1,
+        "category": "政治",
+        "region": "英属北美",
+        "continent": "北美洲"
+      },
+      {
+        "title": "东印度公司法案",
+        "description": "波士顿茶。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "经济",
+        "region": "英格兰",
+        "continent": "北美洲"
+      },
+      {
+        "title": "俄罗斯普加乔夫起义",
+        "description": "普加乔夫。",
+        "latitude": 53.0,
+        "longitude": 50.0,
+        "category": "社会",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1774,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "不可容忍法案",
+        "description": "英国关闭波士顿港加强管制。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "北美洲"
+      },
+      {
+        "title": "北美大陆会议",
+        "description": "费城。",
+        "latitude": 39.9,
+        "longitude": -75.2,
+        "category": "政治",
+        "region": "美国",
+        "continent": "北美洲"
+      },
+      {
+        "title": "凯勒化学发现",
+        "description": "氧。",
+        "latitude": 52.0,
+        "longitude": -2.0,
+        "category": "科学",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1775,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "美国独立战争开始",
+        "description": "莱克星顿枪声标志独立战争开始。",
+        "latitude": 42.4,
+        "longitude": -71.3,
+        "category": "军事",
+        "region": "美国",
+        "continent": "北美洲"
+      },
+      {
+        "title": "詹姆斯科克太平洋",
+        "description": "库克船长。",
+        "latitude": -20.0,
+        "longitude": -160.0,
+        "category": "探索",
+        "region": "英格兰",
+        "continent": "大洋洲"
+      }
+    ]
+  },
+  {
+    "year": 1776,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "独立宣言发表",
+        "description": "北美十三州宣布独立。",
+        "latitude": 39.9,
+        "longitude": -75.2,
+        "category": "政治",
+        "region": "美国",
+        "continent": "北美洲"
+      },
+      {
+        "title": "美国独立宣言",
+        "description": "独立宣言。",
+        "latitude": 39.9,
+        "longitude": -75.2,
+        "category": "政治",
+        "region": "美国",
+        "continent": "北美洲"
+      },
+      {
+        "title": "亚当斯密国富论",
+        "description": "经济学。",
+        "latitude": 55.9,
+        "longitude": -3.2,
+        "category": "经济",
+        "region": "苏格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1777,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "萨拉托加战役",
+        "description": "美军在萨拉托加大捷鼓舞士气。",
+        "latitude": 42.9,
+        "longitude": -73.6,
+        "category": "军事",
+        "region": "美国",
+        "continent": "北美洲"
+      },
+      {
+        "title": "北极星报",
+        "description": "期刊。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "媒体",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1778,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "法国承认美国独立",
+        "description": "法国签约与美国同盟抗英。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "外交",
+        "region": "法兰西",
+        "continent": "北美洲"
+      },
+      {
+        "title": "法国美国同盟",
+        "description": "法助美。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "外交",
+        "region": "法兰西",
+        "continent": "北美洲"
+      },
+      {
+        "title": "喀山大学",
+        "description": "俄教育。",
+        "latitude": 55.8,
+        "longitude": 49.0,
+        "category": "教育",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1779,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "西班牙参战反英",
+        "description": "西班牙加入北美独立战争抗英。",
+        "latitude": 40.4,
+        "longitude": -3.7,
+        "category": "军事",
+        "region": "西班牙",
+        "continent": "北美洲"
+      },
+      {
+        "title": "英国工业革命棉纺",
+        "description": "纱厂。",
+        "latitude": 53.0,
+        "longitude": -2.0,
+        "category": "工业",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1780,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "俄国武装中立联盟",
+        "description": "叶卡捷琳娜组织武装中立保护航运。",
+        "latitude": 55.8,
+        "longitude": 37.6,
+        "category": "外交",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "欧洲儿童教育变革",
+        "description": "教育。",
+        "latitude": 48.0,
+        "longitude": 2.0,
+        "category": "教育",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "秘鲁印第安起义",
+        "description": "图帕克。",
+        "latitude": -14.0,
+        "longitude": -72.0,
+        "category": "社会",
+        "region": "秘鲁",
+        "continent": "南美洲"
+      }
+    ]
+  },
+  {
+    "year": 1781,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "约克镇战役",
+        "description": "英军主力在约克镇投降。",
+        "latitude": 37.2,
+        "longitude": -76.5,
+        "category": "军事",
+        "region": "美国",
+        "continent": "北美洲"
+      },
+      {
+        "title": "英军约克镇投降",
+        "description": "美胜。",
+        "latitude": 37.2,
+        "longitude": -76.5,
+        "category": "军事",
+        "region": "美国",
+        "continent": "北美洲"
+      },
+      {
+        "title": "星盘发明",
+        "description": "航海仪。",
+        "latitude": 48.0,
+        "longitude": -4.0,
+        "category": "科技",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1782,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "荷兰承认美国独立",
+        "description": "荷兰是美国在欧洲最早承认的列强。",
+        "latitude": 52.4,
+        "longitude": 4.9,
+        "category": "外交",
+        "region": "美国",
+        "continent": "北美洲"
+      },
+      {
+        "title": "暹罗却克里王朝",
+        "description": "拉玛一世。",
+        "latitude": 14.0,
+        "longitude": 100.0,
+        "category": "政治",
+        "region": "暹罗",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1783,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "巴黎和约结束独立战争",
+        "description": "英国承认美国独立。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "外交",
+        "region": "美国",
+        "continent": "北美洲"
+      },
+      {
+        "title": "蒙特哥费尔热气球",
+        "description": "飞行。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "科技",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1784,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "美国联邦条例",
+        "description": "美国在邦联时期逐步建立制度。",
+        "latitude": 38.9,
+        "longitude": -77.0,
+        "category": "政治",
+        "region": "美国",
+        "continent": "北美洲"
+      },
+      {
+        "title": "英国水力纺纱机",
+        "description": "克朗普顿。",
+        "latitude": 53.5,
+        "longitude": -2.2,
+        "category": "工业",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "北美西北领地",
+        "description": "美国扩张。",
+        "latitude": 40.0,
+        "longitude": -85.0,
+        "category": "政治",
+        "region": "美国",
+        "continent": "北美洲"
+      }
+    ]
+  },
+  {
+    "year": 1785,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "俄国设黑海舰队",
+        "description": "俄国在黑海建设海军基地。",
+        "latitude": 44.6,
+        "longitude": 33.5,
+        "category": "军事",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英国铁桥",
+        "description": "第一铁桥。",
+        "latitude": 52.6,
+        "longitude": -2.5,
+        "category": "工程",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "美国土地法令",
+        "description": "西部。",
+        "latitude": 38.9,
+        "longitude": -77.0,
+        "category": "法律",
+        "region": "美国",
+        "continent": "北美洲"
+      }
+    ]
+  },
+  {
+    "year": 1786,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "谢司起义",
+        "description": "马萨诸塞州农民起义抗税。",
+        "latitude": 42.4,
+        "longitude": -72.5,
+        "category": "社会",
+        "region": "美国",
+        "continent": "北美洲"
+      },
+      {
+        "title": "普鲁士腓特烈大帝去世",
+        "description": "腓特烈死。",
+        "latitude": 52.5,
+        "longitude": 13.0,
+        "category": "政治",
+        "region": "普鲁士",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1787,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "美国制宪会议",
+        "description": "美国各州代表在费城制定宪法。",
+        "latitude": 39.9,
+        "longitude": -75.2,
+        "category": "政治",
+        "region": "美国",
+        "continent": "北美洲"
+      },
+      {
+        "title": "美国宪法制定",
+        "description": "费城会议。",
+        "latitude": 39.9,
+        "longitude": -75.2,
+        "category": "法律",
+        "region": "美国",
+        "continent": "北美洲"
+      },
+      {
+        "title": "法国巴黎高等法院",
+        "description": "革命前。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1788,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "英国在澳洲流放罪犯",
+        "description": "英国首批罪犯流放悉尼。",
+        "latitude": -33.9,
+        "longitude": 151.2,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "大洋洲"
+      },
+      {
+        "title": "英国殖民澳洲",
+        "description": "悉尼流放。",
+        "latitude": -33.9,
+        "longitude": 151.2,
+        "category": "殖民",
+        "region": "英格兰",
+        "continent": "大洋洲"
+      },
+      {
+        "title": "法国财政危机",
+        "description": "革命前夕。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "经济",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1789,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "法国大革命爆发",
+        "description": "巴黎人民攻陷巴士底狱。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "美国联邦政府成立",
+        "description": "华盛顿就职。",
+        "latitude": 40.7,
+        "longitude": -74.0,
+        "category": "政治",
+        "region": "美国",
+        "continent": "北美洲"
+      },
+      {
+        "title": "法国三级会议",
+        "description": "革命起点。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1790,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "华盛顿就任首任美总统",
+        "description": "乔治·华盛顿就任第一任总统。",
+        "latitude": 40.7,
+        "longitude": -74.0,
+        "category": "政治",
+        "region": "美国",
+        "continent": "北美洲"
+      },
+      {
+        "title": "欧洲浪漫主义",
+        "description": "浪漫。",
+        "latitude": 48.0,
+        "longitude": 2.0,
+        "category": "文学",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "华盛顿特区建",
+        "description": "首都。",
+        "latitude": 38.9,
+        "longitude": -77.0,
+        "category": "政治",
+        "region": "美国",
+        "continent": "北美洲"
+      },
+      {
+        "title": "法国国民议会改革",
+        "description": "废封建。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1791,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "法国宪法颁布",
+        "description": "法国颁布君主立宪制宪法。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法国1791宪法",
+        "description": "君主立宪。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "法律",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "莫扎特去世",
+        "description": "安魂曲。",
+        "latitude": 52.0,
+        "longitude": 0.0,
+        "category": "音乐",
+        "region": "奥地利",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1792,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "法国共和元年",
+        "description": "法国废除君主制建立共和国。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法国第一共和国",
+        "description": "共和元年。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "美国政党形成",
+        "description": "民主共和。",
+        "latitude": 38.9,
+        "longitude": -77.0,
+        "category": "政治",
+        "region": "美国",
+        "continent": "北美洲"
+      }
+    ]
+  },
+  {
+    "year": 1793,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "法王路易十六被处死",
+        "description": "法国国王被送上断头台。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "路易十六上断头台",
+        "description": "法王死。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英国第一次反法联盟",
+        "description": "反法。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "外交",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1794,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "法国热月政变",
+        "description": "罗伯斯庇尔被推翻大恐怖结束。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "威士忌叛乱",
+        "description": "美国税。",
+        "latitude": 40.0,
+        "longitude": -80.0,
+        "category": "社会",
+        "region": "美国",
+        "continent": "北美洲"
+      }
+    ]
+  },
+  {
+    "year": 1795,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "法国督政成立",
+        "description": "法国督政开始统治。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "波兰第三次瓜分",
+        "description": "波兰亡。",
+        "latitude": 52.2,
+        "longitude": 21.0,
+        "category": "政治",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1796,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "拿破仑任意大利方面军司令",
+        "description": "拿破仑·波拿巴首次领军。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "军事",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英国詹纳种牛痘",
+        "description": "疫苗。",
+        "latitude": 52.0,
+        "longitude": -2.0,
+        "category": "医学",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1797,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "法国坎波福尔米奥和约",
+        "description": "拿破仑打败奥地利签订和约。",
+        "latitude": 45.5,
+        "longitude": 12.0,
+        "category": "外交",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英国海军纳尔逊",
+        "description": "纳尔逊。",
+        "latitude": 48.0,
+        "longitude": -5.0,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1798,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "拿破仑远征埃及",
+        "description": "拿破仑率军远征埃及。",
+        "latitude": 30.0,
+        "longitude": 31.0,
+        "category": "军事",
+        "region": "法兰西",
+        "continent": "非洲"
+      },
+      {
+        "title": "法国远征埃及",
+        "description": "拿破仑埃及。",
+        "latitude": 30.0,
+        "longitude": 31.0,
+        "category": "军事",
+        "region": "法兰西",
+        "continent": "非洲"
+      },
+      {
+        "title": "英国所得税",
+        "description": "战争税。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "金融",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1799,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "拿破仑发动雾月政变",
+        "description": "拿破仑推翻执政掌握法国权力。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "罗斯塔石碑发现",
+        "description": "象形文字。",
+        "latitude": 31.2,
+        "longitude": 29.9,
+        "category": "考古",
+        "region": "法兰西",
+        "continent": "非洲"
+      }
+    ]
+  },
+  {
+    "year": 1800,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "清朝白莲教起义",
+        "description": "清朝中期白莲教大规模起义。",
+        "latitude": 32.0,
+        "longitude": 110.0,
+        "category": "社会",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲城市化",
+        "description": "城市。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "社会",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "意大利伏打电堆",
+        "description": "电池。",
+        "latitude": 45.0,
+        "longitude": 9.0,
+        "category": "科技",
+        "region": "意大利",
+        "continent": "欧洲"
       }
     ]
   }

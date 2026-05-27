@@ -1,513 +1,3901 @@
 [
   {
-    "year": 1101,
+    "year": 1100,
     "dynasties": [
-      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋徽宗赵佶", "era": "崇宁元年" },
-      { "dynastyId": "liao", "name": "辽", "ruler": "辽天祚帝耶律延禧", "era": "乾统元年" },
-      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏崇宗李乾顺", "era": "贞观元年" }
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
     ],
     "events": [
-      { "title": "宋徽宗即位", "description": "宋哲宗逝世，其弟赵佶即位，是为宋徽宗。徽宗酷爱艺术与道教，在位期间推动书画艺术发展，但也宠信蔡京等奸臣，埋下北宋灭亡的祸根。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "北宋", "continent": "亚洲" }
+      {
+        "title": "卡霍基亚极盛（约）",
+        "description": "卡霍基亚城市人口达到约4万人，为北美最大城市。",
+        "latitude": 38.7,
+        "longitude": -90.1,
+        "category": "文化",
+        "region": "密西西比",
+        "continent": "北美洲"
+      },
+      {
+        "title": "宋朝理学家教育活动",
+        "description": "程颐朱熹等理学家创办书院讲学。",
+        "latitude": 34.0,
+        "longitude": 116.0,
+        "category": "文化",
+        "region": "南宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "十字军东征持续",
+        "description": "欧洲各国多次组织十字军征讨圣地。",
+        "latitude": 35.0,
+        "longitude": 35.0,
+        "category": "军事",
+        "region": "十字军",
+        "continent": "亚洲"
+      },
+      {
+        "title": "金朝政治制度建设",
+        "description": "金朝汉化程度加深完善官僚制度。",
+        "latitude": 40.0,
+        "longitude": 116.0,
+        "category": "政治",
+        "region": "金",
+        "continent": "亚洲"
+      },
+      {
+        "title": "印度教在南印度兴起",
+        "description": "朱罗等南印度王国建设大型印度教神庙。",
+        "latitude": 10.8,
+        "longitude": 79.1,
+        "category": "宗教",
+        "region": "朱罗帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "伊斯兰哲学发展",
+        "description": "安萨里等伊斯兰哲学家整合哲学与信仰。",
+        "latitude": 33.3,
+        "longitude": 44.4,
+        "category": "文化",
+        "region": "伊斯兰世界",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲骑士制度",
+        "description": "欧洲骑士制度和骑士文化进入全盛。",
+        "latitude": 48.0,
+        "longitude": 3.0,
+        "category": "文化",
+        "region": "欧洲",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1101,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "宋徽宗即位",
+        "description": "宋哲宗逝世，其弟赵佶即位，是为宋徽宗。徽宗酷爱艺术与道教，在位期间推动书画艺术发展，但也宠信蔡京等奸臣，埋下北宋灭亡的祸根。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "北宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "宋朝海外贸易",
+        "description": "宋朝通过泉州广州等港口发展海外贸易。",
+        "latitude": 24.0,
+        "longitude": 118.0,
+        "category": "经济",
+        "region": "南宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "辽宋边境平静",
+        "description": "宋辽百年和平。",
+        "latitude": 39.5,
+        "longitude": 116.0,
+        "category": "外交",
+        "region": "北宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "宋朝城镇发展",
+        "description": "市民生活。",
+        "latitude": 34.8,
+        "longitude": 114.3,
+        "category": "社会",
+        "region": "北宋",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1102,
     "dynasties": [
-      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋徽宗赵佶", "era": "崇宁元年" }
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      }
     ],
     "events": [
-      { "title": "蔡京拜相", "description": "宋徽宗任命蔡京为宰相，蔡京推行新法，实则结党营私、打击异己。设立“元祐党人碑”，将司马光、苏轼等120人列为奸党。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "北宋", "continent": "亚洲" }
+      {
+        "title": "蔡京拜相",
+        "description": "宋徽宗任命蔡京为宰相，蔡京推行新法，实则结党营私、打击异己。设立“元祐党人碑”，将司马光、苏轼等120人列为奸党。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "北宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "宋朝理学发展",
+        "description": "程朱理学在北宋和南宋时期兴盛，成为官方哲学。",
+        "latitude": 34.0,
+        "longitude": 116.0,
+        "category": "文化",
+        "region": "宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "宋朝市舶司贸易",
+        "description": "宋朝在广州泉州设市舶司管理海外贸易。",
+        "latitude": 23.0,
+        "longitude": 120.0,
+        "category": "经济",
+        "region": "南宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲哥特式建筑发展",
+        "description": "法国和德国各地兴建哥特式大教堂。",
+        "latitude": 48.0,
+        "longitude": 2.0,
+        "category": "文化",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "日本北面武士兴起",
+        "description": "平氏源氏。",
+        "latitude": 35.0,
+        "longitude": 136.0,
+        "category": "政治",
+        "region": "日本",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1103,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "日本白河上皇院政",
+        "description": "日本白河上皇实行院政统治，太上天皇掌握实权。",
+        "latitude": 35.0,
+        "longitude": 136.0,
+        "category": "政治",
+        "region": "日本",
+        "continent": "亚洲"
+      },
+      {
+        "title": "十字军东征影响",
+        "description": "十字军东征促进东西方文化交流和贸易往来。",
+        "latitude": 34.0,
+        "longitude": 36.0,
+        "category": "文化",
+        "region": "十字军",
+        "continent": "亚洲"
+      },
+      {
+        "title": "哲罗姆翻译运动",
+        "description": "中欧。",
+        "latitude": 49.0,
+        "longitude": 15.0,
+        "category": "文化",
+        "region": "波西米亚",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1104,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "威尼斯圣马可大教堂重建",
+        "description": "威尼斯共和国开始重建圣马可大教堂。",
+        "latitude": 45.4,
+        "longitude": 12.3,
+        "category": "文化",
+        "region": "威尼斯共和国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "欧洲中世纪大学兴起",
+        "description": "博洛尼亚、巴黎、牛津等大学成为欧洲学术中心。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "文化",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "中世纪欧洲城市自治",
+        "description": "欧洲城市从领主手中获得自治权。",
+        "latitude": 50.0,
+        "longitude": 7.0,
+        "category": "政治",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "西非马里帝国兴起",
+        "description": "曼丁戈人在西非马里地区建立帝国。",
+        "latitude": 14.0,
+        "longitude": -4.0,
+        "category": "政治",
+        "region": "马里帝国",
+        "continent": "非洲"
+      },
+      {
+        "title": "高丽王朝武人政权",
+        "description": "高丽武臣政变建立武人统治。",
+        "latitude": 37.6,
+        "longitude": 127.0,
+        "category": "政治",
+        "region": "高丽",
+        "continent": "亚洲"
+      },
+      {
+        "title": "威尼斯商业帝国",
+        "description": "威尼斯称雄。",
+        "latitude": 45.4,
+        "longitude": 12.3,
+        "category": "经济",
+        "region": "威尼斯共和国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1105,
     "dynasties": [
-      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋徽宗赵佶", "era": "崇宁四年" }
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁四年"
+      }
     ],
     "events": [
-      { "title": "花石纲之始", "description": "宋徽宗命蔡京在苏州设应奉局，搜罗奇花异石运往汴京，称“花石纲”。此役劳民伤财，百姓苦不堪言，成为方腊起义的导火索。", "latitude": 31.3, "longitude": 120.6, "category": "社会", "region": "北宋", "continent": "亚洲" }
+      {
+        "title": "花石纲之始",
+        "description": "宋徽宗命蔡京在苏州设应奉局，搜罗奇花异石运往汴京，称“花石纲”。此役劳民伤财，百姓苦不堪言，成为方腊起义的导火索。",
+        "latitude": 31.3,
+        "longitude": 120.6,
+        "category": "社会",
+        "region": "北宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "日本武士阶层崛起",
+        "description": "平源合战和镰仓幕府建立，武士阶层掌握日本政权。",
+        "latitude": 35.0,
+        "longitude": 136.0,
+        "category": "政治",
+        "region": "日本",
+        "continent": "亚洲"
+      },
+      {
+        "title": "宋徽宗崇道",
+        "description": "徽宗信道教。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "宗教",
+        "region": "北宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "宋徽宗画院",
+        "description": "院画兴盛。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "艺术",
+        "region": "北宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1106,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "亨利一世统一英格兰",
+        "description": "英格兰国王亨利一世在坦什布赖战役中击败诺曼底公爵罗贝尔二世，统一诺曼底和英格兰。",
+        "latitude": 49.0,
+        "longitude": -1.0,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "罗马式建筑兴盛",
+        "description": "欧洲各地修建罗马式教堂和修道院。",
+        "latitude": 46.0,
+        "longitude": 5.0,
+        "category": "文化",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "西非黄金贸易",
+        "description": "西非黄金通过撒哈拉商路运往北非。",
+        "latitude": 22.0,
+        "longitude": 2.0,
+        "category": "经济",
+        "region": "非洲",
+        "continent": "非洲"
+      }
+    ]
+  },
+  {
+    "year": 1107,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "宋朝与西夏边境冲突",
+        "description": "北宋与西夏在边境地区发生军事冲突。",
+        "latitude": 38.0,
+        "longitude": 106.0,
+        "category": "军事",
+        "region": "北宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "拜占庭科穆宁王朝复兴",
+        "description": "拜占庭帝国在科穆宁王朝统治下复兴。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "耶路撒冷十字军王国",
+        "description": "十字军巩固。",
+        "latitude": 31.8,
+        "longitude": 35.2,
+        "category": "政治",
+        "region": "耶路撒冷王国",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1108,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "法兰西路易六世即位",
+        "description": "路易六世成为法兰西国王，加强王室权威。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "西非加纳-马里贸易",
+        "description": "西非黄金-盐贸易网络繁荣，加纳和马里帝国相继兴起。",
+        "latitude": 15.0,
+        "longitude": -5.0,
+        "category": "经济",
+        "region": "西非",
+        "continent": "非洲"
+      }
+    ]
+  },
+  {
+    "year": 1109,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "波兰波列斯瓦夫三世即位",
+        "description": "波列斯瓦夫三世成为波兰大公。",
+        "latitude": 52.0,
+        "longitude": 20.0,
+        "category": "政治",
+        "region": "波兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "托莱多翻译中心",
+        "description": "欧洲知识。",
+        "latitude": 39.9,
+        "longitude": -4.0,
+        "category": "文化",
+        "region": "西班牙",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1110,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "挪威十字军远征",
+        "description": "挪威国王西居尔一世率领十字军前往圣地耶路撒冷。",
+        "latitude": 60.0,
+        "longitude": 10.0,
+        "category": "军事",
+        "region": "挪威",
+        "continent": "欧洲"
+      },
+      {
+        "title": "马耳他骑士团前身",
+        "description": "医院骑士。",
+        "latitude": 31.8,
+        "longitude": 35.2,
+        "category": "宗教",
+        "region": "耶路撒冷王国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "指南针用于航海",
+        "description": "航海技术。",
+        "latitude": 23.0,
+        "longitude": 117.0,
+        "category": "航海",
+        "region": "北宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1111,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "神圣罗马帝国亨利五世与教皇冲突",
+        "description": "神圣罗马帝国皇帝亨利五世与教皇帕斯卡尔二世发生主教叙任权之争。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1112,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "葡萄牙伯爵亨利去世",
+        "description": "葡萄牙伯爵亨利去世，其子阿方索一世继续为葡萄牙独立而战。",
+        "latitude": 40.0,
+        "longitude": -8.0,
+        "category": "政治",
+        "region": "葡萄牙",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法国阿尔比派",
+        "description": "异端兴起。",
+        "latitude": 44.0,
+        "longitude": 2.0,
+        "category": "宗教",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1113,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "耶路撒冷圣约翰医院骑士团成立（约）",
+        "description": "罗马教皇正式承认耶路撒冷的圣约翰医院骑士团。",
+        "latitude": 31.8,
+        "longitude": 35.2,
+        "category": "宗教",
+        "region": "十字军国家",
+        "continent": "亚洲"
+      },
+      {
+        "title": "吴哥窟动工",
+        "description": "苏利耶跋摩二世下令建造吴哥窟神庙。",
+        "latitude": 13.4,
+        "longitude": 103.9,
+        "category": "文化",
+        "region": "吴哥王朝",
+        "continent": "亚洲"
+      },
+      {
+        "title": "吴哥窟始建",
+        "description": "苏利耶跋摩建。",
+        "latitude": 13.4,
+        "longitude": 103.9,
+        "category": "文化",
+        "region": "吴哥王朝",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1114,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "女真部落统一",
+        "description": "女真首领完颜阿骨打统一女真各部，准备反抗辽国统治。",
+        "latitude": 45.0,
+        "longitude": 128.0,
+        "category": "政治",
+        "region": "金",
+        "continent": "亚洲"
+      },
+      {
+        "title": "女真完颜阿骨打起兵",
+        "description": "反辽建金。",
+        "latitude": 45.0,
+        "longitude": 128.0,
+        "category": "军事",
+        "region": "金",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1115,
     "dynasties": [
-      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋徽宗赵佶", "era": "政和五年" },
-      { "dynastyId": "liao", "name": "辽", "ruler": "辽天祚帝耶律延禧", "era": "天庆五年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金太祖完颜阿骨打", "era": "收国元年" },
-      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏崇宗李乾顺", "era": "雍宁二年" }
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "政和五年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "天庆五年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金太祖完颜阿骨打",
+        "era": "收国元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "雍宁二年"
+      }
     ],
     "events": [
-      { "title": "金朝建立", "description": "女真族首领完颜阿骨打统一女真各部，在会宁府（今黑龙江哈尔滨）称帝建国，国号大金。金朝建立后迅速崛起，成为辽国的心腹大患。", "latitude": 45.5, "longitude": 126.9, "category": "政治", "region": "金", "continent": "亚洲" },
-      { "title": "护步答冈之战", "description": "金太祖完颜阿骨打率军两万在护步答冈大败辽天祚帝亲征的七十万大军，辽国精锐尽失，从此一蹶不振。此战确立了金国的霸主地位。", "latitude": 44.0, "longitude": 124.0, "category": "军事", "region": "金", "continent": "亚洲" }
+      {
+        "title": "金朝建立",
+        "description": "女真族首领完颜阿骨打统一女真各部，在会宁府（今黑龙江哈尔滨）称帝建国，国号大金。金朝建立后迅速崛起，成为辽国的心腹大患。",
+        "latitude": 45.5,
+        "longitude": 126.9,
+        "category": "政治",
+        "region": "金",
+        "continent": "亚洲"
+      },
+      {
+        "title": "护步答冈之战",
+        "description": "金太祖完颜阿骨打率军两万在护步答冈大败辽天祚帝亲征的七十万大军，辽国精锐尽失，从此一蹶不振。此战确立了金国的霸主地位。",
+        "latitude": 44.0,
+        "longitude": 124.0,
+        "category": "军事",
+        "region": "金",
+        "continent": "亚洲"
+      },
+      {
+        "title": "金国建立",
+        "description": "阿骨打称帝。",
+        "latitude": 45.0,
+        "longitude": 128.0,
+        "category": "政治",
+        "region": "金",
+        "continent": "亚洲"
+      },
+      {
+        "title": "女性作家李清照",
+        "description": "易安居士。",
+        "latitude": 34.8,
+        "longitude": 114.3,
+        "category": "文学",
+        "region": "南宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1116,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北欧埃里克王在行动",
+        "description": "丹麦国王埃里克一世前往圣地朝圣。",
+        "latitude": 55.0,
+        "longitude": 10.0,
+        "category": "宗教",
+        "region": "丹麦",
+        "continent": "欧洲"
+      },
+      {
+        "title": "波罗的海十字军",
+        "description": "骑士团。",
+        "latitude": 56.0,
+        "longitude": 24.0,
+        "category": "军事",
+        "region": "条顿骑士团",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1117,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "意大利博洛尼亚大学成立",
+        "description": "世界上最早的大学博洛尼亚大学开始形成。",
+        "latitude": 44.5,
+        "longitude": 11.3,
+        "category": "文化",
+        "region": "意大利",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1118,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "圣殿骑士团成立",
+        "description": "法国贵族于格·德·帕扬在耶路撒冷建立圣殿骑士团，保护朝圣者。",
+        "latitude": 31.8,
+        "longitude": 35.2,
+        "category": "宗教",
+        "region": "十字军国家",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1119,
     "dynasties": [
-      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋徽宗赵佶", "era": "宣和元年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金太祖完颜阿骨打", "era": "天辅三年" }
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "宣和元年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金太祖完颜阿骨打",
+        "era": "天辅三年"
+      }
     ],
     "events": [
-      { "title": "方腊起义", "description": "方腊在睦州青溪（今浙江淳安）利用摩尼教发动起义，自称圣公，年号永乐。起义军迅速占领六州五十二县，震动东南，北宋朝廷派童贯率十五万大军镇压。", "latitude": 29.6, "longitude": 119.0, "category": "军事", "region": "北宋", "continent": "亚洲" }
+      {
+        "title": "方腊起义",
+        "description": "方腊在睦州青溪（今浙江淳安）利用摩尼教发动起义，自称圣公，年号永乐。起义军迅速占领六州五十二县，震动东南，北宋朝廷派童贯率十五万大军镇压。",
+        "latitude": 29.6,
+        "longitude": 119.0,
+        "category": "军事",
+        "region": "北宋",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1120,
     "dynasties": [
-      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋徽宗赵佶", "era": "宣和二年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金太祖完颜阿骨打", "era": "天辅四年" }
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "宣和二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金太祖完颜阿骨打",
+        "era": "天辅四年"
+      }
     ],
     "events": [
-      { "title": "海上之盟", "description": "北宋与金国通过海上使者签订盟约，约定两国联合夹击辽国。北宋负责攻取辽国燕云十六州，金国负责攻取辽中京大定府。此盟约为北宋灭亡埋下伏笔。", "latitude": 39.9, "longitude": 116.4, "category": "外交", "region": "北宋", "continent": "亚洲" }
+      {
+        "title": "海上之盟",
+        "description": "北宋与金国通过海上使者签订盟约，约定两国联合夹击辽国。北宋负责攻取辽国燕云十六州，金国负责攻取辽中京大定府。此盟约为北宋灭亡埋下伏笔。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "外交",
+        "region": "北宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "指南针用于航海",
+        "description": "中国指南针技术应用于航海，经阿拉伯传入欧洲。",
+        "latitude": 34.0,
+        "longitude": 120.0,
+        "category": "科技",
+        "region": "北宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "宋朝书院教育",
+        "description": "书院兴盛。",
+        "latitude": 34.0,
+        "longitude": 116.0,
+        "category": "教育",
+        "region": "南宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1121,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "宋朝方腊起义被镇压",
+        "description": "北宋末年的方腊起义被童贯率领的宋军镇压。",
+        "latitude": 30.0,
+        "longitude": 119.0,
+        "category": "社会",
+        "region": "北宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "宋联金灭辽",
+        "description": "宋金攻辽。",
+        "latitude": 40.0,
+        "longitude": 120.0,
+        "category": "外交",
+        "region": "北宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1122,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "神圣罗马帝国与教皇签订沃尔姆斯宗教协定",
+        "description": "教皇卡利克斯特二世与神圣罗马帝国皇帝亨利五世签订沃尔姆斯宗教协定，主教叙任权之争暂告段落。",
+        "latitude": 49.6,
+        "longitude": 8.4,
+        "category": "政治",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1123,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "金灭辽",
+        "description": "金国在完颜阿骨打率领下攻灭辽国。",
+        "latitude": 43.5,
+        "longitude": 122.0,
+        "category": "军事",
+        "region": "金",
+        "continent": "亚洲"
+      },
+      {
+        "title": "宋金战争爆发",
+        "description": "金攻宋。",
+        "latitude": 38.0,
+        "longitude": 115.0,
+        "category": "军事",
+        "region": "金",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1124,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "大卫四世统一格鲁吉亚",
+        "description": "格鲁吉亚国王大卫四世击败塞尔柱突厥人，统一格鲁吉亚。",
+        "latitude": 42.0,
+        "longitude": 44.0,
+        "category": "军事",
+        "region": "格鲁吉亚",
+        "continent": "亚洲"
+      },
+      {
+        "title": "金攻开封",
+        "description": "围开封。",
+        "latitude": 34.8,
+        "longitude": 114.3,
+        "category": "军事",
+        "region": "金",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1125,
     "dynasties": [
-      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋徽宗赵佶", "era": "宣和七年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金太宗完颜吴乞买", "era": "天会三年" }
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "宣和七年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金太宗完颜吴乞买",
+        "era": "天会三年"
+      }
     ],
     "events": [
-      { "title": "辽国灭亡", "description": "金军在完颜娄室率领下擒获辽天祚帝，立国209年的辽朝灭亡。辽朝宗室耶律大石率部西迁，后建立西辽。金国遂成为北方最强势力，随即南下攻宋。", "latitude": 42.3, "longitude": 123.0, "category": "军事", "region": "金", "continent": "亚洲" },
-      { "title": "金兵第一次南侵", "description": "金太宗以北宋破坏盟约为借口，命完颜宗望、完颜宗翰分两路大举南侵。宋徽宗惊慌失措，匆忙传位给太子赵桓，是为宋钦宗。", "latitude": 34.3, "longitude": 108.9, "category": "军事", "region": "北宋", "continent": "亚洲" }
+      {
+        "title": "辽国灭亡",
+        "description": "金军在完颜娄室率领下擒获辽天祚帝，立国209年的辽朝灭亡。辽朝宗室耶律大石率部西迁，后建立西辽。金国遂成为北方最强势力，随即南下攻宋。",
+        "latitude": 42.3,
+        "longitude": 123.0,
+        "category": "军事",
+        "region": "金",
+        "continent": "亚洲"
+      },
+      {
+        "title": "金兵第一次南侵",
+        "description": "金太宗以北宋破坏盟约为借口，命完颜宗望、完颜宗翰分两路大举南侵。宋徽宗惊慌失措，匆忙传位给太子赵桓，是为宋钦宗。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "军事",
+        "region": "北宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "曷萨拉王朝在印度南部分立",
+        "description": "曷萨拉王朝在德干高原南部建立。",
+        "latitude": 13.0,
+        "longitude": 77.0,
+        "category": "政治",
+        "region": "曷萨拉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "靖康之耻",
+        "description": "宋徽钦被掳。",
+        "latitude": 34.8,
+        "longitude": 114.3,
+        "category": "军事",
+        "region": "金",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1126,
     "dynasties": [
-      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋钦宗赵桓", "era": "靖康元年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金太宗完颜吴乞买", "era": "天会四年" }
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋钦宗赵桓",
+        "era": "靖康元年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金太宗完颜吴乞买",
+        "era": "天会四年"
+      }
     ],
     "events": [
-      { "title": "靖康之变开始", "description": "金军兵临汴京城下，宋钦宗被迫割让太原、中山、河间三镇并赔款求和。同年秋金军再次南侵，北宋各路勤王军溃败，汴京告急。", "latitude": 34.8, "longitude": 114.3, "category": "军事", "region": "北宋", "continent": "亚洲" },
-      { "title": "李纲保卫汴京", "description": "尚书右丞李纲临危受命，组织汴京军民顽强抵抗金军进攻。李纲亲自督战，多次击退金兵。但因朝廷主和派得势，李纲不久被罢免贬谪。", "latitude": 34.8, "longitude": 114.3, "category": "军事", "region": "北宋", "continent": "亚洲" }
+      {
+        "title": "靖康之变开始",
+        "description": "金军兵临汴京城下，宋钦宗被迫割让太原、中山、河间三镇并赔款求和。同年秋金军再次南侵，北宋各路勤王军溃败，汴京告急。",
+        "latitude": 34.8,
+        "longitude": 114.3,
+        "category": "军事",
+        "region": "北宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "李纲保卫汴京",
+        "description": "尚书右丞李纲临危受命，组织汴京军民顽强抵抗金军进攻。李纲亲自督战，多次击退金兵。但因朝廷主和派得势，李纲不久被罢免贬谪。",
+        "latitude": 34.8,
+        "longitude": 114.3,
+        "category": "军事",
+        "region": "北宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "宋室南迁",
+        "description": "赵构建南宋。",
+        "latitude": 32.0,
+        "longitude": 119.0,
+        "category": "政治",
+        "region": "南宋",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1127,
     "dynasties": [
-      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋钦宗赵桓", "era": "靖康二年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金太宗完颜吴乞买", "era": "天会五年" },
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋高宗赵构", "era": "建炎元年" }
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋钦宗赵桓",
+        "era": "靖康二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金太宗完颜吴乞买",
+        "era": "天会五年"
+      },
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋高宗赵构",
+        "era": "建炎元年"
+      }
     ],
     "events": [
-      { "title": "靖康之变", "description": "金军攻破汴京，掳走宋徽宗、宋钦宗二帝及皇室、大臣、工匠等一万余人北去，并掠走大量珍宝典籍。立国167年的北宋灭亡，史称靖康之耻。", "latitude": 34.8, "longitude": 114.3, "category": "军事", "region": "北宋", "continent": "亚洲" },
-      { "title": "南宋建立", "description": "宋徽宗第九子康王赵构在南京应天府（今河南商丘）即位，是为宋高宗，改元建炎。南宋由此建立，后定都临安（今杭州），据有秦岭淮河以南的半壁江山。", "latitude": 34.4, "longitude": 115.6, "category": "政治", "region": "南宋", "continent": "亚洲" }
+      {
+        "title": "靖康之变",
+        "description": "金军攻破汴京，掳走宋徽宗、宋钦宗二帝及皇室、大臣、工匠等一万余人北去，并掠走大量珍宝典籍。立国167年的北宋灭亡，史称靖康之耻。",
+        "latitude": 34.8,
+        "longitude": 114.3,
+        "category": "军事",
+        "region": "北宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "南宋建立",
+        "description": "宋徽宗第九子康王赵构在南京应天府（今河南商丘）即位，是为宋高宗，改元建炎。南宋由此建立，后定都临安（今杭州），据有秦岭淮河以南的半壁江山。",
+        "latitude": 34.4,
+        "longitude": 115.6,
+        "category": "政治",
+        "region": "南宋",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1128,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋高宗赵构", "era": "建炎二年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金太宗完颜吴乞买", "era": "天会六年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋高宗赵构",
+        "era": "建炎二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金太宗完颜吴乞买",
+        "era": "天会六年"
+      }
     ],
     "events": [
-      { "title": "金军继续南侵", "description": "金军分路南下追击宋高宗，先后攻陷徐州、扬州等地。宋高宗从扬州仓皇渡江南逃，金军一路烧杀抢掠，南宋朝廷风雨飘摇。", "latitude": 32.4, "longitude": 119.4, "category": "军事", "region": "南宋", "continent": "亚洲" }
+      {
+        "title": "金军继续南侵",
+        "description": "金军分路南下追击宋高宗，先后攻陷徐州、扬州等地。宋高宗从扬州仓皇渡江南逃，金军一路烧杀抢掠，南宋朝廷风雨飘摇。",
+        "latitude": 32.4,
+        "longitude": 119.4,
+        "category": "军事",
+        "region": "南宋",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1129,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋高宗赵构", "era": "建炎三年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金太宗完颜吴乞买", "era": "天会七年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋高宗赵构",
+        "era": "建炎三年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金太宗完颜吴乞买",
+        "era": "天会七年"
+      }
     ],
     "events": [
-      { "title": "苗刘兵变", "description": "扈从统制苗傅、刘正彦在杭州发动兵变，逼迫宋高宗退位，立其三岁皇子赵旉为帝。宰相张浚、韩世忠等起兵勤王平定叛乱，高宗复位。", "latitude": 30.3, "longitude": 120.2, "category": "军事", "region": "南宋", "continent": "亚洲" },
-      { "title": "宋高宗逃亡海上", "description": "金军统帅完颜宗弼（兀术）率军渡长江，攻陷建康府。宋高宗被迫乘船逃亡海上，漂泊于温州、台州沿海，金军水师追击三百余里未获。", "latitude": 28.0, "longitude": 121.0, "category": "军事", "region": "南宋", "continent": "亚洲" }
+      {
+        "title": "苗刘兵变",
+        "description": "扈从统制苗傅、刘正彦在杭州发动兵变，逼迫宋高宗退位，立其三岁皇子赵旉为帝。宰相张浚、韩世忠等起兵勤王平定叛乱，高宗复位。",
+        "latitude": 30.3,
+        "longitude": 120.2,
+        "category": "军事",
+        "region": "南宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "宋高宗逃亡海上",
+        "description": "金军统帅完颜宗弼（兀术）率军渡长江，攻陷建康府。宋高宗被迫乘船逃亡海上，漂泊于温州、台州沿海，金军水师追击三百余里未获。",
+        "latitude": 28.0,
+        "longitude": 121.0,
+        "category": "军事",
+        "region": "南宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "宋苗傅刘正彦兵变",
+        "description": "南宋内乱。",
+        "latitude": 30.3,
+        "longitude": 120.2,
+        "category": "政治",
+        "region": "南宋",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1130,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋高宗赵构", "era": "建炎四年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金太宗完颜吴乞买", "era": "天会八年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋高宗赵构",
+        "era": "建炎四年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金太宗完颜吴乞买",
+        "era": "天会八年"
+      }
     ],
     "events": [
-      { "title": "黄天荡之战", "description": "韩世忠率八千宋军在镇江黄天荡阻击金兀术十万大军，其妻梁红玉亲自击鼓助战。宋军以少胜多，围困金军四十八天，虽最终因汉奸献策未能全歼，但极大鼓舞了南宋军民士气。", "latitude": 32.2, "longitude": 119.5, "category": "军事", "region": "南宋", "continent": "亚洲" },
-      { "title": "富平之战", "description": "南宋川陕宣抚使张浚集合五路宋军共十八万人在富平（今陕西富平）与金军决战。因指挥失误和将领不和，宋军大败，陕西五路几乎尽失，南宋从此丧失战略进攻能力。", "latitude": 34.8, "longitude": 109.2, "category": "军事", "region": "南宋", "continent": "亚洲" }
+      {
+        "title": "黄天荡之战",
+        "description": "韩世忠率八千宋军在镇江黄天荡阻击金兀术十万大军，其妻梁红玉亲自击鼓助战。宋军以少胜多，围困金军四十八天，虽最终因汉奸献策未能全歼，但极大鼓舞了南宋军民士气。",
+        "latitude": 32.2,
+        "longitude": 119.5,
+        "category": "军事",
+        "region": "南宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "富平之战",
+        "description": "南宋川陕宣抚使张浚集合五路宋军共十八万人在富平（今陕西富平）与金军决战。因指挥失误和将领不和，宋军大败，陕西五路几乎尽失，南宋从此丧失战略进攻能力。",
+        "latitude": 34.8,
+        "longitude": 109.2,
+        "category": "军事",
+        "region": "南宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "金朝建立",
+        "description": "完颜阿骨打建立金朝。",
+        "latitude": 45.0,
+        "longitude": 127.0,
+        "category": "政治",
+        "region": "金",
+        "continent": "亚洲"
+      },
+      {
+        "title": "大津巴布韦开始建造",
+        "description": "绍纳人在东南非开始建造大津巴布韦石头城。",
+        "latitude": -20.3,
+        "longitude": 30.9,
+        "category": "文化",
+        "region": "大津巴布韦",
+        "continent": "非洲"
+      },
+      {
+        "title": "钟相杨幺起义",
+        "description": "洞庭湖起义。",
+        "latitude": 29.0,
+        "longitude": 112.0,
+        "category": "社会",
+        "region": "南宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "热那亚商业共和国",
+        "description": "热那亚。",
+        "latitude": 44.4,
+        "longitude": 8.9,
+        "category": "经济",
+        "region": "热那亚共和国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1131,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "宋朝与金朝边境冲突",
+        "description": "宋金边境局势紧张，双方在山西和河北地区对峙。",
+        "latitude": 38.0,
+        "longitude": 114.0,
+        "category": "军事",
+        "region": "南宋",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1132,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋高宗赵构", "era": "绍兴二年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金太宗完颜吴乞买", "era": "天会十年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋高宗赵构",
+        "era": "绍兴二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金太宗完颜吴乞买",
+        "era": "天会十年"
+      }
     ],
     "events": [
-      { "title": "南宋定都临安", "description": "宋高宗返回杭州，改杭州为临安府，正式定为南宋行在（临时首都）。此后南宋以临安为中心，开始了长达百余年的偏安统治。", "latitude": 30.3, "longitude": 120.2, "category": "政治", "region": "南宋", "continent": "亚洲" }
+      {
+        "title": "南宋定都临安",
+        "description": "宋高宗返回杭州，改杭州为临安府，正式定为南宋行在（临时首都）。此后南宋以临安为中心，开始了长达百余年的偏安统治。",
+        "latitude": 30.3,
+        "longitude": 120.2,
+        "category": "政治",
+        "region": "南宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1133,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "安条克公国与拜占庭冲突（约）",
+        "description": "拜占庭皇帝约翰二世·科穆宁攻打叙利亚的安条克公国。",
+        "latitude": 36.2,
+        "longitude": 36.8,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1134,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋高宗赵构", "era": "绍兴四年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金太宗完颜吴乞买", "era": "天会十二年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋高宗赵构",
+        "era": "绍兴四年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金太宗完颜吴乞买",
+        "era": "天会十二年"
+      }
     ],
     "events": [
-      { "title": "岳飞收复襄阳", "description": "岳飞率军自鄂州（今武昌）出发，连续收复襄阳、郢州、随州、邓州、唐州、信阳等六郡。这是南宋首次大规模反攻，岳飞因功被擢升为清远军节度使。", "latitude": 32.0, "longitude": 112.2, "category": "军事", "region": "南宋", "continent": "亚洲" }
+      {
+        "title": "岳飞收复襄阳",
+        "description": "岳飞率军自鄂州（今武昌）出发，连续收复襄阳、郢州、随州、邓州、唐州、信阳等六郡。这是南宋首次大规模反攻，岳飞因功被擢升为清远军节度使。",
+        "latitude": 32.0,
+        "longitude": 112.2,
+        "category": "军事",
+        "region": "南宋",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1135,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋高宗赵构", "era": "绍兴五年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金太宗完颜吴乞买", "era": "天会十三年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋高宗赵构",
+        "era": "绍兴五年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金太宗完颜吴乞买",
+        "era": "天会十三年"
+      }
     ],
     "events": [
-      { "title": "岳飞镇压杨幺起义", "description": "南宋名将岳飞奉命镇压洞庭湖地区的杨幺农民起义军。岳飞采用政治招安与军事围剿相结合的策略，迅速平定起义，收编了大量起义军精锐充实抗金力量。", "latitude": 29.4, "longitude": 112.5, "category": "军事", "region": "南宋", "continent": "亚洲" }
+      {
+        "title": "岳飞镇压杨幺起义",
+        "description": "南宋名将岳飞奉命镇压洞庭湖地区的杨幺农民起义军。岳飞采用政治招安与军事围剿相结合的策略，迅速平定起义，收编了大量起义军精锐充实抗金力量。",
+        "latitude": 29.4,
+        "longitude": 112.5,
+        "category": "军事",
+        "region": "南宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲翻译运动",
+        "description": "西班牙托莱多翻译中心将阿拉伯科学著作传入欧洲。",
+        "latitude": 39.9,
+        "longitude": -4.0,
+        "category": "文化",
+        "region": "欧洲",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1136,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "威尔士欧文大帝统治",
+        "description": "威尔士圭内斯王国欧文大帝在位，威尔士文化繁荣。",
+        "latitude": 53.0,
+        "longitude": -4.0,
+        "category": "政治",
+        "region": "威尔士",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1137,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "路易七世成为法兰西国王",
+        "description": "法兰西国王路易六世去世，路易七世即位。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1138,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "神圣罗马帝国霍亨斯陶芬王朝开始",
+        "description": "康拉德三世当选为德意志国王，霍亨斯陶芬王朝开始统治神圣罗马帝国。",
+        "latitude": 50.0,
+        "longitude": 9.0,
+        "category": "政治",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1139,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋高宗赵构", "era": "绍兴九年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金熙宗完颜亶", "era": "天眷二年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋高宗赵构",
+        "era": "绍兴九年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金熙宗完颜亶",
+        "era": "天眷二年"
+      }
     ],
     "events": [
-      { "title": "完颜昌被诛杀", "description": "金国主战派完颜宗弼发动政变，以谋反罪处死主和派完颜昌（挞懒）。金国对宋政策由议和转为强硬，重新开始备战南侵。", "latitude": 41.8, "longitude": 123.4, "category": "政治", "region": "金", "continent": "亚洲" }
+      {
+        "title": "完颜昌被诛杀",
+        "description": "金国主战派完颜宗弼发动政变，以谋反罪处死主和派完颜昌（挞懒）。金国对宋政策由议和转为强硬，重新开始备战南侵。",
+        "latitude": 41.8,
+        "longitude": 123.4,
+        "category": "政治",
+        "region": "金",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1140,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋高宗赵构", "era": "绍兴十年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金熙宗完颜亶", "era": "天眷三年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋高宗赵构",
+        "era": "绍兴十年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金熙宗完颜亶",
+        "era": "天眷三年"
+      }
     ],
     "events": [
-      { "title": "郾城大捷", "description": "岳飞率军在郾城（今河南漯河）与金兀术主力决战。岳家军以少胜多，大破金军“拐子马”重装骑兵，金兀术哀叹“撼山易，撼岳家军难”。岳飞乘胜进军朱仙镇，距汴京仅四十五里。", "latitude": 33.6, "longitude": 114.0, "category": "军事", "region": "南宋", "continent": "亚洲" },
-      { "title": "十二道金牌召回岳飞", "description": "宋高宗和秦桧担心岳飞功高盖主、迎回钦宗威胁帝位，一日内连发十二道金牌强令岳飞退兵。岳飞悲愤长叹“十年之功，毁于一旦”，被迫班师回朝。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "南宋", "continent": "亚洲" }
+      {
+        "title": "郾城大捷",
+        "description": "岳飞率军在郾城（今河南漯河）与金兀术主力决战。岳家军以少胜多，大破金军“拐子马”重装骑兵，金兀术哀叹“撼山易，撼岳家军难”。岳飞乘胜进军朱仙镇，距汴京仅四十五里。",
+        "latitude": 33.6,
+        "longitude": 114.0,
+        "category": "军事",
+        "region": "南宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "十二道金牌召回岳飞",
+        "description": "宋高宗和秦桧担心岳飞功高盖主、迎回钦宗威胁帝位，一日内连发十二道金牌强令岳飞退兵。岳飞悲愤长叹“十年之功，毁于一旦”，被迫班师回朝。",
+        "latitude": 34.8,
+        "longitude": 114.3,
+        "category": "政治",
+        "region": "南宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲哥特式建筑",
+        "description": "哥特式。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "建筑",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1141,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋高宗赵构", "era": "绍兴十一年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金熙宗完颜亶", "era": "皇统元年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋高宗赵构",
+        "era": "绍兴十一年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金熙宗完颜亶",
+        "era": "皇统元年"
+      }
     ],
     "events": [
-      { "title": "绍兴和议", "description": "南宋与金国签订和约：南宋向金称臣，每年进贡银二十五万两、绢二十五万匹；金国归还河南、陕西部分地区；双方以淮河至大散关为界。南宋取得二十年和平。", "latitude": 30.3, "longitude": 120.2, "category": "外交", "region": "南宋", "continent": "亚洲" }
+      {
+        "title": "绍兴和议",
+        "description": "南宋与金国签订和约：南宋向金称臣，每年进贡银二十五万两、绢二十五万匹；金国归还河南、陕西部分地区；双方以淮河至大散关为界。南宋取得二十年和平。",
+        "latitude": 30.3,
+        "longitude": 120.2,
+        "category": "外交",
+        "region": "南宋",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1142,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋高宗赵构", "era": "绍兴十二年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金熙宗完颜亶", "era": "皇统二年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋高宗赵构",
+        "era": "绍兴十二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金熙宗完颜亶",
+        "era": "皇统二年"
+      }
     ],
     "events": [
-      { "title": "岳飞被害", "description": "岳飞被秦桧以“莫须有”（也许有）的罪名在临安大理寺风波亭被毒杀，其子岳云、部将张宪同时遇害。岳飞年仅三十九岁，成为中华民族忠义精神的象征。", "latitude": 30.3, "longitude": 120.2, "category": "政治", "region": "南宋", "continent": "亚洲" }
+      {
+        "title": "岳飞被害",
+        "description": "岳飞被秦桧以“莫须有”（也许有）的罪名在临安大理寺风波亭被毒杀，其子岳云、部将张宪同时遇害。岳飞年仅三十九岁，成为中华民族忠义精神的象征。",
+        "latitude": 30.3,
+        "longitude": 120.2,
+        "category": "政治",
+        "region": "南宋",
+        "continent": "亚洲"
+      }
     ]
   },
   {
-    "year": 1147,
+    "year": 1143,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋高宗赵构", "era": "绍兴十七年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金熙宗完颜亶", "era": "皇统七年" }
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
     ],
     "events": [
-      { "title": "西辽称霸中亚", "description": "耶律大石率领辽朝残部西迁中亚后，建立西辽帝国（喀喇契丹）。1141年西辽在卡特万战役中大败塞尔柱突厥联军，到1147年已完全控制中亚地区，成为中亚霸主。", "latitude": 42.9, "longitude": 74.6, "category": "军事", "region": "西辽", "continent": "亚洲" }
-    ]
-  },
-  {
-    "year": 1149,
-    "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋高宗赵构", "era": "绍兴十九年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金海陵王完颜亮", "era": "皇统九年" }
-    ],
-    "events": [
-      { "title": "完颜亮弑君篡位", "description": "金国宗室完颜亮发动宫廷政变，杀死金熙宗完颜亶后自立为帝，是为金海陵王。完颜亮野心勃勃，立志灭宋统一天下，大力推行汉化改革。", "latitude": 41.8, "longitude": 123.4, "category": "政治", "region": "金", "continent": "亚洲" }
-    ]
-  },
-  {
-    "year": 1151,
-    "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋高宗赵构", "era": "绍兴二十一年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金海陵王完颜亮", "era": "天德三年" }
-    ],
-    "events": [
-      { "title": "完颜亮迁都燕京", "description": "金海陵王完颜亮下令将金国都城从上京会宁府迁至燕京（今北京），改称中都大兴府。此举极大促进了金国的汉化进程和北方地区的经济文化发展。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "金", "continent": "亚洲" }
-    ]
-  },
-  {
-    "year": 1153,
-    "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋高宗赵构", "era": "绍兴二十三年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金海陵王完颜亮", "era": "贞元元年" }
-    ],
-    "events": [
-      { "title": "金中都建成", "description": "金国正式将都城迁至燕京，改称中都。中都城依照北宋汴京规制修建，规模宏大，周长约37里，设十三座城门，成为此后元明清三代都城北京的基础。", "latitude": 39.9, "longitude": 116.4, "category": "社会", "region": "金", "continent": "亚洲" }
-    ]
-  },
-  {
-    "year": 1154,
-    "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋高宗赵构", "era": "绍兴二十四年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金海陵王完颜亮", "era": "贞元二年" }
-    ],
-    "events": [
-      { "title": "完颜亮铸造正隆通宝", "description": "金海陵王完颜亮下令铸造正隆通宝，这是金朝首次发行自己的金属货币。此举标志着金国经济的进一步汉化和商品经济的发展。", "latitude": 39.9, "longitude": 116.4, "category": "经济", "region": "金", "continent": "亚洲" }
-    ]
-  },
-  {
-    "year": 1161,
-    "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋高宗赵构", "era": "绍兴三十一年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金海陵王完颜亮", "era": "正隆六年" },
-      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏仁宗李仁孝", "era": "天盛十三年" }
-    ],
-    "events": [
-      { "title": "采石之战", "description": "金海陵王完颜亮率六十万大军南侵，在采石矶（今安徽马鞍山）被南宋文臣虞允文组织的一万八千宋军击败。完颜亮在瓜洲被部将缢杀，金军北撤。此战挽救了南宋灭亡危机。", "latitude": 31.7, "longitude": 118.4, "category": "军事", "region": "南宋", "continent": "亚洲" },
-      { "title": "东京辽阳府政变", "description": "金国宗室完颜雍在辽阳府发动政变称帝，是为金世宗。金世宗即位后立即发布诏书，宣布废黜完颜亮，金国南北两帝并立局面形成。", "latitude": 41.3, "longitude": 123.2, "category": "政治", "region": "金", "continent": "亚洲" }
-    ]
-  },
-  {
-    "year": 1162,
-    "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋高宗赵构", "era": "绍兴三十二年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金世宗完颜雍", "era": "大定二年" }
-    ],
-    "events": [
-      { "title": "宋高宗禅位", "description": "宋高宗赵构在位三十五年后，以“倦勤”为由禅位于太子赵昚，是为宋孝宗。宋孝宗是南宋最有作为的皇帝，即位后立即为岳飞平反昭雪，起用主战派大臣。", "latitude": 30.3, "longitude": 120.2, "category": "政治", "region": "南宋", "continent": "亚洲" }
-    ]
-  },
-  {
-    "year": 1163,
-    "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋孝宗赵昚", "era": "隆兴元年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金世宗完颜雍", "era": "大定三年" }
-    ],
-    "events": [
-      { "title": "隆兴北伐（符离之溃）", "description": "宋孝宗命张浚主持北伐，宋军初期收复灵壁、虹县等地。但由于将领李显忠与邵宏渊不和，金军反攻时宋军在符离集（今安徽宿州）全军溃败，北伐功败垂成。", "latitude": 33.6, "longitude": 117.0, "category": "军事", "region": "南宋", "continent": "亚洲" }
-    ]
-  },
-  {
-    "year": 1164,
-    "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋孝宗赵昚", "era": "隆兴二年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金世宗完颜雍", "era": "大定四年" }
-    ],
-    "events": [
-      { "title": "隆兴和议", "description": "南宋与金国签订隆兴和议：南宋不再向金称臣，改为叔侄关系；岁贡改为岁币，由银绢各二十五万减至各二十万。双方维持原有边界，宋金进入四十年和平期。", "latitude": 30.3, "longitude": 120.2, "category": "外交", "region": "南宋", "continent": "亚洲" }
-    ]
-  },
-  {
-    "year": 1170,
-    "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋孝宗赵昚", "era": "乾道六年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金世宗完颜雍", "era": "大定十年" }
-    ],
-    "events": [
-      { "title": "范成大出使金国", "description": "南宋大臣范成大奉命出使金国，请求金世宗归还北宋皇室陵寝所在之地并改变受书礼仪。范成大在金廷慷慨陈词，虽未能达成全部使命，但其气节赢得金人敬重。", "latitude": 39.9, "longitude": 116.4, "category": "外交", "region": "南宋", "continent": "亚洲" }
-    ]
-  },
-  {
-    "year": 1172,
-    "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋孝宗赵昚", "era": "乾道八年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金世宗完颜雍", "era": "大定十二年" }
-    ],
-    "events": [
-      { "title": "金国发行交钞", "description": "金世宗下令印制发行纸币“交钞”，与铜钱并行流通。金国交钞分为大钞（一贯至十贯）和小钞（一百文至七百文），是中国历史上最早广泛使用的纸币之一。", "latitude": 39.9, "longitude": 116.4, "category": "经济", "region": "金", "continent": "亚洲" }
-    ]
-  },
-  {
-    "year": 1174,
-    "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋孝宗赵昚", "era": "淳熙元年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金世宗完颜雍", "era": "大定十四年" }
-    ],
-    "events": [
-      { "title": "南宋理学兴盛", "description": "朱熹完成《论语集注》和《孟子集注》，标志着程朱理学体系的成熟。朱熹在武夷山、白鹿洞书院等地讲学，理学逐渐成为南宋主流思想。", "latitude": 27.6, "longitude": 117.9, "category": "文化", "region": "南宋", "continent": "亚洲" }
-    ]
-  },
-  {
-    "year": 1175,
-    "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋孝宗赵昚", "era": "淳熙二年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金世宗完颜雍", "era": "大定十五年" }
-    ],
-    "events": [
-      { "title": "鹅湖之会", "description": "吕祖谦邀朱熹与陆九渊兄弟在信州鹅湖寺（今江西铅山）举行学术辩论。朱熹主张“道问学”——即物穷理，陆九渊主张“尊德性”——发明本心，史称“鹅湖之会”。", "latitude": 28.3, "longitude": 117.7, "category": "文化", "region": "南宋", "continent": "亚洲" }
-    ]
-  },
-  {
-    "year": 1187,
-    "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋孝宗赵昚", "era": "淳熙十四年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金世宗完颜雍", "era": "大定二十七年" }
-    ],
-    "events": [
-      { "title": "宋高宗赵构逝世", "description": "太上皇宋高宗赵构在临安德寿宫去世，享年八十一岁。赵构是南宋开国皇帝，在位三十六年，禅位后做太上皇二十五年，是宋代最长寿的皇帝。", "latitude": 30.3, "longitude": 120.2, "category": "政治", "region": "南宋", "continent": "亚洲" }
-    ]
-  },
-  {
-    "year": 1189,
-    "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋光宗赵惇", "era": "绍熙元年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金章宗完颜璟", "era": "大定二十九年" }
-    ],
-    "events": [
-      { "title": "宋孝宗禅位", "description": "宋孝宗赵昚为高宗守丧三年后，以“倦于万机”为由禅位于太子赵惇，是为宋光宗。宋孝宗是南宋最有作为的皇帝，史称“乾淳之治”。", "latitude": 30.3, "longitude": 120.2, "category": "政治", "region": "南宋", "continent": "亚洲" }
-    ]
-  },
-  {
-    "year": 1194,
-    "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋宁宗赵扩", "era": "庆元元年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金章宗完颜璟", "era": "明昌五年" }
-    ],
-    "events": [
-      { "title": "赵汝愚拥立宋宁宗", "description": "宗室赵汝愚与外戚韩侂胄联合发动宫廷政变，逼退患精神疾病的宋光宗，拥立其子赵扩为帝，是为宋宁宗。赵汝愚任宰相，韩侂胄任枢密使，开启庆元党禁。", "latitude": 30.3, "longitude": 120.2, "category": "政治", "region": "南宋", "continent": "亚洲" }
-    ]
-  },
-  {
-    "year": 1195,
-    "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋宁宗赵扩", "era": "庆元元年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金章宗完颜璟", "era": "明昌六年" }
-    ],
-    "events": [
-      { "title": "庆元党禁", "description": "韩侂胄为打击政敌赵汝愚和朱熹等道学家，将理学定性为“伪学”，列出“伪学逆党”名单五十九人，禁止其入仕为官。朱熹等理学家受到残酷迫害。", "latitude": 30.3, "longitude": 120.2, "category": "政治", "region": "南宋", "continent": "亚洲" }
-    ]
-  },
-  {
-    "year": 1119,
-    "dynasties": [
-      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋徽宗赵佶", "era": "宣和元年" }
-    ],
-    "events": [
-      { "title": "圣殿骑士团成立", "description": "法国贵族于格·德·帕英在耶路撒冷创立圣殿骑士团，最初只有九名骑士。骑士团以保护朝圣者为使命，后来发展成为欧洲最强大的军事修会之一。", "latitude": 31.8, "longitude": 35.2, "category": "宗教", "region": "中东", "continent": "亚洲" }
+      {
+        "title": "拜占庭约翰二世去世（约）",
+        "description": "拜占庭皇帝约翰二世·科穆宁去世，其子曼努埃尔一世继位。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1144,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋高宗赵构", "era": "绍兴十四年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金熙宗完颜亶", "era": "皇统四年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋高宗赵构",
+        "era": "绍兴十四年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金熙宗完颜亶",
+        "era": "皇统四年"
+      }
     ],
     "events": [
-      { "title": "埃德萨伯国陷落", "description": "塞尔柱突厥军队在赞吉率领下攻克十字军建立的埃德萨伯国（今土耳其乌尔法）。此事件震动了欧洲基督教世界，直接引发了第二次十字军东征。", "latitude": 37.1, "longitude": 38.8, "category": "军事", "region": "中东", "continent": "亚洲" }
+      {
+        "title": "埃德萨伯国陷落",
+        "description": "塞尔柱突厥军队在赞吉率领下攻克十字军建立的埃德萨伯国（今土耳其乌尔法）。此事件震动了欧洲基督教世界，直接引发了第二次十字军东征。",
+        "latitude": 37.1,
+        "longitude": 38.8,
+        "category": "军事",
+        "region": "中东",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1145,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "教皇尤金三世号召第二次十字军",
+        "description": "教皇尤金三世发布教宗诏书，号召发动第二次十字军东征。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "教皇国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1146,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "圣贝尔纳多布道十字军",
+        "description": "圣贝尔纳多·德·克莱尔沃在维兹莱布道，法王路易七世和德王康拉德三世响应十字军号召。",
+        "latitude": 47.5,
+        "longitude": 3.5,
+        "category": "宗教",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1147,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋高宗赵构", "era": "绍兴十七年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金熙宗完颜亶", "era": "皇统七年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋高宗赵构",
+        "era": "绍兴十七年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金熙宗完颜亶",
+        "era": "皇统七年"
+      }
     ],
     "events": [
-      { "title": "第二次十字军东征", "description": "在圣伯尔纳铎的号召下，法王路易七世和德意志国王康拉德三世率领欧洲联军发动第二次十字军东征。行军途中损失惨重，最终在大马士革战役中惨败而归。", "latitude": 48.9, "longitude": 2.3, "category": "军事", "region": "西欧", "continent": "欧洲" }
+      {
+        "title": "西辽称霸中亚",
+        "description": "耶律大石率领辽朝残部西迁中亚后，建立西辽帝国（喀喇契丹）。1141年西辽在卡特万战役中大败塞尔柱突厥联军，到1147年已完全控制中亚地区，成为中亚霸主。",
+        "latitude": 42.9,
+        "longitude": 74.6,
+        "category": "军事",
+        "region": "西辽",
+        "continent": "亚洲"
+      },
+      {
+        "title": "第二次十字军东征",
+        "description": "在圣伯尔纳铎的号召下，法王路易七世和德意志国王康拉德三世率领欧洲联军发动第二次十字军东征。行军途中损失惨重，最终在大马士革战役中惨败而归。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "军事",
+        "region": "西欧",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1148,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "第二次十字军围攻大马士革失败",
+        "description": "第二次十字军在大马士革围攻战中失败，十字军士气低落。",
+        "latitude": 33.5,
+        "longitude": 36.3,
+        "category": "军事",
+        "region": "十字军",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1149,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋高宗赵构",
+        "era": "绍兴十九年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金海陵王完颜亮",
+        "era": "皇统九年"
+      }
+    ],
+    "events": [
+      {
+        "title": "完颜亮弑君篡位",
+        "description": "金国宗室完颜亮发动宫廷政变，杀死金熙宗完颜亶后自立为帝，是为金海陵王。完颜亮野心勃勃，立志灭宋统一天下，大力推行汉化改革。",
+        "latitude": 41.8,
+        "longitude": 123.4,
+        "category": "政治",
+        "region": "金",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1150,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "巴黎大学兴起",
+        "description": "巴黎大学的早期学术机构在巴黎圣母院附近逐步形成。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "文化",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "阿尔摩哈德帝国取代穆拉比特王朝",
+        "description": "阿尔摩哈德人在北非建立帝国。",
+        "latitude": 30.0,
+        "longitude": -8.0,
+        "category": "政治",
+        "region": "阿尔摩哈德",
+        "continent": "非洲"
+      },
+      {
+        "title": "吴哥窟竣工",
+        "description": "吴哥窟全部完工，成为世界上最大的宗教建筑。",
+        "latitude": 13.4,
+        "longitude": 103.9,
+        "category": "文化",
+        "region": "吴哥王朝",
+        "continent": "亚洲"
+      },
+      {
+        "title": "奇穆王国在秘鲁兴起",
+        "description": "奇穆人在秘鲁北部沿海建立昌昌城。",
+        "latitude": -8.1,
+        "longitude": -79.0,
+        "category": "文化",
+        "region": "奇穆",
+        "continent": "南美洲"
+      },
+      {
+        "title": "宋朝火器发展",
+        "description": "突火枪。",
+        "latitude": 34.8,
+        "longitude": 114.3,
+        "category": "军事科技",
+        "region": "南宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1151,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋高宗赵构",
+        "era": "绍兴二十一年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金海陵王完颜亮",
+        "era": "天德三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "完颜亮迁都燕京",
+        "description": "金海陵王完颜亮下令将金国都城从上京会宁府迁至燕京（今北京），改称中都大兴府。此举极大促进了金国的汉化进程和北方地区的经济文化发展。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "金",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1152,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "腓特烈一世成为德意志国王",
+        "description": "腓特烈一世（巴巴罗萨）当选为德意志国王。",
+        "latitude": 50.0,
+        "longitude": 9.0,
+        "category": "政治",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1153,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋高宗赵构",
+        "era": "绍兴二十三年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金海陵王完颜亮",
+        "era": "贞元元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "金中都建成",
+        "description": "金国正式将都城迁至燕京，改称中都。中都城依照北宋汴京规制修建，规模宏大，周长约37里，设十三座城门，成为此后元明清三代都城北京的基础。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "社会",
+        "region": "金",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1154,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋高宗赵构", "era": "绍兴二十四年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金海陵王完颜亮", "era": "贞元二年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋高宗赵构",
+        "era": "绍兴二十四年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金海陵王完颜亮",
+        "era": "贞元二年"
+      }
     ],
     "events": [
-      { "title": "亨利二世继承英格兰王位", "description": "亨利二世继承英格兰王位，创立金雀花王朝。他是欧洲中世纪最强大的君主之一，统治英格兰和法兰西大部地区，推行司法改革，奠定了英国普通法体系的基础。", "latitude": 51.5, "longitude": -0.1, "category": "政治", "region": "英格兰", "continent": "欧洲" }
+      {
+        "title": "完颜亮铸造正隆通宝",
+        "description": "金海陵王完颜亮下令铸造正隆通宝，这是金朝首次发行自己的金属货币。此举标志着金国经济的进一步汉化和商品经济的发展。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "经济",
+        "region": "金",
+        "continent": "亚洲"
+      },
+      {
+        "title": "亨利二世继承英格兰王位",
+        "description": "亨利二世继承英格兰王位，创立金雀花王朝。他是欧洲中世纪最强大的君主之一，统治英格兰和法兰西大部地区，推行司法改革，奠定了英国普通法体系的基础。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1155,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "腓特烈一世加冕为神圣罗马帝国皇帝",
+        "description": "腓特烈一世在罗马由教皇加冕为神圣罗马帝国皇帝。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1156,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "日本平治之乱",
+        "description": "日本平清盛取得平治之乱胜利，平氏政权控制日本朝政。",
+        "latitude": 35.0,
+        "longitude": 136.0,
+        "category": "军事",
+        "region": "日本",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1157,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "拜占庭与匈牙利战争",
+        "description": "拜占庭帝国曼努埃尔一世与匈牙利王国在巴尔干半岛交战。",
+        "latitude": 44.0,
+        "longitude": 20.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1158,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "神圣罗马帝国进攻米兰",
+        "description": "腓特烈一世率军围攻意大利伦巴第同盟城市米兰。",
+        "latitude": 45.5,
+        "longitude": 9.2,
+        "category": "军事",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1159,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "教皇亚历山大三世当选",
+        "description": "教皇亚历山大三世当选，与神圣罗马帝国皇帝腓特烈一世冲突。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "教皇国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1160,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "宋朝纸币交子流通",
+        "description": "宋朝发行的纸币交子在中国各地广泛流通。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "经济",
+        "region": "南宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "朱熹理学体系形成",
+        "description": "朱熹集宋代理学之大成。",
+        "latitude": 34.0,
+        "longitude": 118.0,
+        "category": "文化",
+        "region": "南宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "印度教在南印兴盛",
+        "description": "朱罗神庙。",
+        "latitude": 10.8,
+        "longitude": 79.1,
+        "category": "宗教",
+        "region": "朱罗帝国",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1161,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋高宗赵构",
+        "era": "绍兴三十一年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金海陵王完颜亮",
+        "era": "正隆六年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏仁宗李仁孝",
+        "era": "天盛十三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "采石之战",
+        "description": "金海陵王完颜亮率六十万大军南侵，在采石矶（今安徽马鞍山）被南宋文臣虞允文组织的一万八千宋军击败。完颜亮在瓜洲被部将缢杀，金军北撤。此战挽救了南宋灭亡危机。",
+        "latitude": 31.7,
+        "longitude": 118.4,
+        "category": "军事",
+        "region": "南宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "东京辽阳府政变",
+        "description": "金国宗室完颜雍在辽阳府发动政变称帝，是为金世宗。金世宗即位后立即发布诏书，宣布废黜完颜亮，金国南北两帝并立局面形成。",
+        "latitude": 41.3,
+        "longitude": 123.2,
+        "category": "政治",
+        "region": "金",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1162,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋高宗赵构",
+        "era": "绍兴三十二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金世宗完颜雍",
+        "era": "大定二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "宋高宗禅位",
+        "description": "宋高宗赵构在位三十五年后，以“倦勤”为由禅位于太子赵昚，是为宋孝宗。宋孝宗是南宋最有作为的皇帝，即位后立即为岳飞平反昭雪，起用主战派大臣。",
+        "latitude": 30.3,
+        "longitude": 120.2,
+        "category": "政治",
+        "region": "南宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1163,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋孝宗赵昚",
+        "era": "隆兴元年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金世宗完颜雍",
+        "era": "大定三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "隆兴北伐（符离之溃）",
+        "description": "宋孝宗命张浚主持北伐，宋军初期收复灵壁、虹县等地。但由于将领李显忠与邵宏渊不和，金军反攻时宋军在符离集（今安徽宿州）全军溃败，北伐功败垂成。",
+        "latitude": 33.6,
+        "longitude": 117.0,
+        "category": "军事",
+        "region": "南宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1164,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋孝宗赵昚",
+        "era": "隆兴二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金世宗完颜雍",
+        "era": "大定四年"
+      }
+    ],
+    "events": [
+      {
+        "title": "隆兴和议",
+        "description": "南宋与金国签订隆兴和议：南宋不再向金称臣，改为叔侄关系；岁贡改为岁币，由银绢各二十五万减至各二十万。双方维持原有边界，宋金进入四十年和平期。",
+        "latitude": 30.3,
+        "longitude": 120.2,
+        "category": "外交",
+        "region": "南宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1165,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "巴巴罗萨帝国会议",
+        "description": "腓特烈一世在美因茨举行盛大帝国会议，展示帝国权威。",
+        "latitude": 50.0,
+        "longitude": 8.3,
+        "category": "政治",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1166,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "亨利二世司法改革",
+        "description": "英格兰国王亨利二世推行司法改革，扩大王室法庭管辖权。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1167,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "伦巴第同盟成立",
+        "description": "意大利北部城市米兰、维罗纳等组成伦巴第同盟，对抗神圣罗马帝国。",
+        "latitude": 45.5,
+        "longitude": 9.2,
+        "category": "政治",
+        "region": "意大利",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1168,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "牛津大学早期形成",
+        "description": "英格兰学者在牛津开始形成学术团体，牛津大学萌芽。",
+        "latitude": 51.8,
+        "longitude": -1.3,
+        "category": "文化",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1169,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "诺曼人入侵爱尔兰",
+        "description": "盎格鲁-诺曼贵族理查德·德·克莱尔等人率军入侵爱尔兰。",
+        "latitude": 53.0,
+        "longitude": -7.0,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1170,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋孝宗赵昚", "era": "乾道六年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金世宗完颜雍", "era": "大定十年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋孝宗赵昚",
+        "era": "乾道六年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金世宗完颜雍",
+        "era": "大定十年"
+      }
     ],
     "events": [
-      { "title": "托马斯·贝克特遇刺", "description": "英格兰国王亨利二世与坎特伯雷大主教托马斯·贝克特因教权与王权之争矛盾激化。四名骑士听信亨利二世的怨言，在坎特伯雷大教堂将贝克特刺杀，震惊欧洲。", "latitude": 51.3, "longitude": 1.1, "category": "宗教", "region": "英格兰", "continent": "欧洲" }
+      {
+        "title": "范成大出使金国",
+        "description": "南宋大臣范成大奉命出使金国，请求金世宗归还北宋皇室陵寝所在之地并改变受书礼仪。范成大在金廷慷慨陈词，虽未能达成全部使命，但其气节赢得金人敬重。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "外交",
+        "region": "南宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "托马斯·贝克特遇刺",
+        "description": "英格兰国王亨利二世与坎特伯雷大主教托马斯·贝克特因教权与王权之争矛盾激化。四名骑士听信亨利二世的怨言，在坎特伯雷大教堂将贝克特刺杀，震惊欧洲。",
+        "latitude": 51.3,
+        "longitude": 1.1,
+        "category": "宗教",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "欧洲中古拉丁文学",
+        "description": "拉丁。",
+        "latitude": 48.0,
+        "longitude": 2.0,
+        "category": "文学",
+        "region": "欧洲",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1171,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋孝宗赵昚", "era": "乾道七年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金世宗完颜雍", "era": "大定十一年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋孝宗赵昚",
+        "era": "乾道七年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金世宗完颜雍",
+        "era": "大定十一年"
+      }
     ],
     "events": [
-      { "title": "萨拉丁推翻法蒂玛王朝", "description": "萨拉丁在埃及推翻什叶派的法蒂玛王朝，重新在埃及确立逊尼派伊斯兰教地位。萨拉丁随后被阿拔斯王朝哈里发任命为埃及苏丹，建立了阿尤布王朝。", "latitude": 30.0, "longitude": 31.2, "category": "政治", "region": "埃及", "continent": "非洲" }
+      {
+        "title": "萨拉丁推翻法蒂玛王朝",
+        "description": "萨拉丁在埃及推翻什叶派的法蒂玛王朝，重新在埃及确立逊尼派伊斯兰教地位。萨拉丁随后被阿拔斯王朝哈里发任命为埃及苏丹，建立了阿尤布王朝。",
+        "latitude": 30.0,
+        "longitude": 31.2,
+        "category": "政治",
+        "region": "埃及",
+        "continent": "非洲"
+      }
+    ]
+  },
+  {
+    "year": 1172,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋孝宗赵昚",
+        "era": "乾道八年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金世宗完颜雍",
+        "era": "大定十二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "金国发行交钞",
+        "description": "金世宗下令印制发行纸币“交钞”，与铜钱并行流通。金国交钞分为大钞（一贯至十贯）和小钞（一百文至七百文），是中国历史上最早广泛使用的纸币之一。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "经济",
+        "region": "金",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1173,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "亨利二世诸子叛乱",
+        "description": "亨利二世之子与埃莉诺王后在法兰西发动叛乱。",
+        "latitude": 47.5,
+        "longitude": 1.0,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1174,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋孝宗赵昚",
+        "era": "淳熙元年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金世宗完颜雍",
+        "era": "大定十四年"
+      }
+    ],
+    "events": [
+      {
+        "title": "南宋理学兴盛",
+        "description": "朱熹完成《论语集注》和《孟子集注》，标志着程朱理学体系的成熟。朱熹在武夷山、白鹿洞书院等地讲学，理学逐渐成为南宋主流思想。",
+        "latitude": 27.6,
+        "longitude": 117.9,
+        "category": "文化",
+        "region": "南宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1175,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋孝宗赵昚",
+        "era": "淳熙二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金世宗完颜雍",
+        "era": "大定十五年"
+      }
+    ],
+    "events": [
+      {
+        "title": "鹅湖之会",
+        "description": "吕祖谦邀朱熹与陆九渊兄弟在信州鹅湖寺（今江西铅山）举行学术辩论。朱熹主张“道问学”——即物穷理，陆九渊主张“尊德性”——发明本心，史称“鹅湖之会”。",
+        "latitude": 28.3,
+        "longitude": 117.7,
+        "category": "文化",
+        "region": "南宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "高丽武臣政变",
+        "description": "高丽武将郑仲夫发动政变掌握政权。",
+        "latitude": 37.6,
+        "longitude": 127.0,
+        "category": "政治",
+        "region": "高丽",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1176,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "莱尼亚诺战役",
+        "description": "伦巴第同盟在莱尼亚诺击败神圣罗马帝国皇帝腓特烈一世。",
+        "latitude": 45.5,
+        "longitude": 9.4,
+        "category": "军事",
+        "region": "伦巴第同盟",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1177,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "威尼斯和约",
+        "description": "教皇亚历山大三世与腓特烈一世签订威尼斯和约，结束双方长期冲突。",
+        "latitude": 45.4,
+        "longitude": 12.3,
+        "category": "政治",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "占婆入侵吴哥",
+        "description": "占婆舰队沿湄公河攻入吴哥城。",
+        "latitude": 13.4,
+        "longitude": 103.9,
+        "category": "军事",
+        "region": "占婆",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1178,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "南宋与金保持和议（约）",
+        "description": "南宋与金朝在隆兴和议后维持约四十年的和平。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "外交",
+        "region": "南宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1179,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "第三次拉特兰大公会议",
+        "description": "教皇亚历山大三世在罗马召开第三次拉特兰大公会议。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "教皇国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1180,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "腓力二世成为法兰西国王",
+        "description": "腓力二世（奥古斯都）加冕为法兰西国王。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1181,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "日本源平合战开始",
+        "description": "日本源氏和平氏两大武士集团爆发大规模战争。",
+        "latitude": 35.0,
+        "longitude": 136.0,
+        "category": "军事",
+        "region": "日本",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阇耶跋摩七世即位",
+        "description": "阇耶跋摩七世驱逐占婆人，兴建吴哥通王城。",
+        "latitude": 13.4,
+        "longitude": 103.9,
+        "category": "政治",
+        "region": "吴哥王朝",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1182,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "萨拉丁统治埃及",
+        "description": "萨拉丁在埃及巩固阿尤布王朝统治，准备收复耶路撒冷。",
+        "latitude": 30.0,
+        "longitude": 31.0,
+        "category": "政治",
+        "region": "阿尤布王朝",
+        "continent": "非洲"
+      }
+    ]
+  },
+  {
+    "year": 1183,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "康斯坦茨和约",
+        "description": "神圣罗马帝国与伦巴第同盟签订康斯坦茨和约，承认同盟城市自治权。",
+        "latitude": 47.7,
+        "longitude": 9.2,
+        "category": "政治",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1184,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "日本源义仲崛起",
+        "description": "源义仲在源平合战中崛起，率军进攻京都。",
+        "latitude": 35.0,
+        "longitude": 136.0,
+        "category": "军事",
+        "region": "日本",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1185,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋孝宗赵昚", "era": "淳熙十二年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金世宗完颜雍", "era": "大定二十五年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋孝宗赵昚",
+        "era": "淳熙十二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金世宗完颜雍",
+        "era": "大定二十五年"
+      }
     ],
     "events": [
-      { "title": "源平合战终结", "description": "源义经在坛之浦之战中击败平氏军队，平家一族覆灭。源赖朝随后建立镰仓幕府，被天皇任命为征夷大将军，日本由此进入幕府时代。", "latitude": 35.3, "longitude": 139.6, "category": "军事", "region": "日本", "continent": "亚洲" }
+      {
+        "title": "源平合战终结",
+        "description": "源义经在坛之浦之战中击败平氏军队，平家一族覆灭。源赖朝随后建立镰仓幕府，被天皇任命为征夷大将军，日本由此进入幕府时代。",
+        "latitude": 35.3,
+        "longitude": 139.6,
+        "category": "军事",
+        "region": "日本",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1186,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "拜占庭第二次保加利亚帝国兴起",
+        "description": "保加利亚人在彼得和伊凡·阿森领导下反抗拜占庭统治。",
+        "latitude": 42.7,
+        "longitude": 25.0,
+        "category": "政治",
+        "region": "保加利亚",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1187,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋孝宗赵昚", "era": "淳熙十四年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金世宗完颜雍", "era": "大定二十七年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋孝宗赵昚",
+        "era": "淳熙十四年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金世宗完颜雍",
+        "era": "大定二十七年"
+      }
     ],
     "events": [
-      { "title": "哈丁战役与萨拉丁收复耶路撒冷", "description": "萨拉丁在哈丁战役中大败十字军主力，俘虏耶路撒冷国王居伊·德·吕西尼昂。随后萨拉丁兵不血刃收复耶路撒冷，十字军王国仅剩少数沿海据点。", "latitude": 32.7, "longitude": 35.3, "category": "军事", "region": "中东", "continent": "亚洲" }
+      {
+        "title": "宋高宗赵构逝世",
+        "description": "太上皇宋高宗赵构在临安德寿宫去世，享年八十一岁。赵构是南宋开国皇帝，在位三十六年，禅位后做太上皇二十五年，是宋代最长寿的皇帝。",
+        "latitude": 30.3,
+        "longitude": 120.2,
+        "category": "政治",
+        "region": "南宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "哈丁战役与萨拉丁收复耶路撒冷",
+        "description": "萨拉丁在哈丁战役中大败十字军主力，俘虏耶路撒冷国王居伊·德·吕西尼昂。随后萨拉丁兵不血刃收复耶路撒冷，十字军王国仅剩少数沿海据点。",
+        "latitude": 32.7,
+        "longitude": 35.3,
+        "category": "军事",
+        "region": "中东",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1188,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "第三次十字军准备",
+        "description": "在耶路撒冷陷落后英格兰亨利二世和法兰西腓力二世准备发动十字军。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "军事",
+        "region": "十字军",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1189,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋光宗赵惇", "era": "绍熙元年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金章宗完颜璟", "era": "大定二十九年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋光宗赵惇",
+        "era": "绍熙元年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "大定二十九年"
+      }
     ],
     "events": [
-      { "title": "第三次十字军东征", "description": "神圣罗马帝国皇帝腓特烈一世、英格兰国王狮心王理查一世和法王腓力二世联合发动第三次十字军东征，旨在收复被萨拉丁夺回的耶路撒冷。", "latitude": 48.9, "longitude": 2.3, "category": "军事", "region": "西欧", "continent": "欧洲" }
+      {
+        "title": "宋孝宗禅位",
+        "description": "宋孝宗赵昚为高宗守丧三年后，以“倦于万机”为由禅位于太子赵惇，是为宋光宗。宋孝宗是南宋最有作为的皇帝，史称“乾淳之治”。",
+        "latitude": 30.3,
+        "longitude": 120.2,
+        "category": "政治",
+        "region": "南宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "第三次十字军东征",
+        "description": "神圣罗马帝国皇帝腓特烈一世、英格兰国王狮心王理查一世和法王腓力二世联合发动第三次十字军东征，旨在收复被萨拉丁夺回的耶路撒冷。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "军事",
+        "region": "西欧",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1190,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋光宗赵惇", "era": "绍熙元年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金章宗完颜璟", "era": "明昌元年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋光宗赵惇",
+        "era": "绍熙元年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "明昌元年"
+      }
     ],
     "events": [
-      { "title": "腓特烈一世坠河身亡", "description": "神圣罗马帝国皇帝红胡子腓特烈一世在第三次十字军东征途中，于小亚细亚萨列法河坠河溺水而亡。其军队随即瓦解，德意志参战力量就此退出东征。", "latitude": 37.0, "longitude": 36.0, "category": "军事", "region": "中东", "continent": "亚洲" }
+      {
+        "title": "腓特烈一世坠河身亡",
+        "description": "神圣罗马帝国皇帝红胡子腓特烈一世在第三次十字军东征途中，于小亚细亚萨列法河坠河溺水而亡。其军队随即瓦解，德意志参战力量就此退出东征。",
+        "latitude": 37.0,
+        "longitude": 36.0,
+        "category": "军事",
+        "region": "中东",
+        "continent": "亚洲"
+      },
+      {
+        "title": "源赖朝开创镰仓幕府",
+        "description": "源赖朝在镰仓建立幕府统治。",
+        "latitude": 35.3,
+        "longitude": 139.5,
+        "category": "政治",
+        "region": "日本",
+        "continent": "亚洲"
+      },
+      {
+        "title": "穆斯林在德里建立苏丹国",
+        "description": "古尔王朝占领德里，建立德里苏丹国。",
+        "latitude": 28.6,
+        "longitude": 77.2,
+        "category": "政治",
+        "region": "德里苏丹国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1191,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋光宗赵惇", "era": "绍熙二年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金章宗完颜璟", "era": "明昌二年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋光宗赵惇",
+        "era": "绍熙二年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "明昌二年"
+      }
     ],
     "events": [
-      { "title": "狮心王理查攻克阿卡", "description": "英王理查一世在第三次十字军东征中率军攻占阿卡城，并处决了三千名穆斯林战俘。理查以其卓越的军事才能和残暴著称，萨拉丁对此深感震惊。", "latitude": 32.9, "longitude": 35.1, "category": "军事", "region": "中东", "continent": "亚洲" }
+      {
+        "title": "狮心王理查攻克阿卡",
+        "description": "英王理查一世在第三次十字军东征中率军攻占阿卡城，并处决了三千名穆斯林战俘。理查以其卓越的军事才能和残暴著称，萨拉丁对此深感震惊。",
+        "latitude": 32.9,
+        "longitude": 35.1,
+        "category": "军事",
+        "region": "中东",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1192,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋光宗赵惇", "era": "绍熙三年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金章宗完颜璟", "era": "明昌三年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋光宗赵惇",
+        "era": "绍熙三年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "明昌三年"
+      }
     ],
     "events": [
-      { "title": "理查与萨拉丁签订和约", "description": "狮心王理查与萨拉丁签订《雅法和约》，规定十字军保留沿海城塞，穆斯林控制耶路撒冷，但允许基督徒朝圣者自由进入耶路撒冷。第三次十字军东征结束。", "latitude": 32.0, "longitude": 34.8, "category": "外交", "region": "中东", "continent": "亚洲" },
-      { "title": "源赖朝就任征夷大将军", "description": "日本源赖朝被后白河法皇任命为征夷大将军，在镰仓正式建立幕府统治。镰仓幕府的建立标志着日本从贵族政治时代进入武士政治时代。", "latitude": 35.3, "longitude": 139.5, "category": "政治", "region": "日本", "continent": "亚洲" }
+      {
+        "title": "理查与萨拉丁签订和约",
+        "description": "狮心王理查与萨拉丁签订《雅法和约》，规定十字军保留沿海城塞，穆斯林控制耶路撒冷，但允许基督徒朝圣者自由进入耶路撒冷。第三次十字军东征结束。",
+        "latitude": 32.0,
+        "longitude": 34.8,
+        "category": "外交",
+        "region": "中东",
+        "continent": "亚洲"
+      },
+      {
+        "title": "源赖朝就任征夷大将军",
+        "description": "日本源赖朝被后白河法皇任命为征夷大将军，在镰仓正式建立幕府统治。镰仓幕府的建立标志着日本从贵族政治时代进入武士政治时代。",
+        "latitude": 35.3,
+        "longitude": 139.5,
+        "category": "政治",
+        "region": "日本",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 1193,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋光宗赵惇", "era": "绍熙四年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金章宗完颜璟", "era": "明昌四年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋光宗赵惇",
+        "era": "绍熙四年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "明昌四年"
+      }
     ],
     "events": [
-      { "title": "萨拉丁逝世", "description": "一代枭雄萨拉丁在大马士革病逝，享年五十五或五十六岁。萨拉丁因收复耶路撒冷、抗击十字军的功绩被西方和伊斯兰世界共同尊崇，其骑士精神广受赞誉。", "latitude": 33.5, "longitude": 36.3, "category": "政治", "region": "中东", "continent": "亚洲" }
+      {
+        "title": "萨拉丁逝世",
+        "description": "一代枭雄萨拉丁在大马士革病逝，享年五十五或五十六岁。萨拉丁因收复耶路撒冷、抗击十字军的功绩被西方和伊斯兰世界共同尊崇，其骑士精神广受赞誉。",
+        "latitude": 33.5,
+        "longitude": 36.3,
+        "category": "政治",
+        "region": "中东",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1194,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "庆元元年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "明昌五年"
+      }
+    ],
+    "events": [
+      {
+        "title": "赵汝愚拥立宋宁宗",
+        "description": "宗室赵汝愚与外戚韩侂胄联合发动宫廷政变，逼退患精神疾病的宋光宗，拥立其子赵扩为帝，是为宋宁宗。赵汝愚任宰相，韩侂胄任枢密使，开启庆元党禁。",
+        "latitude": 30.3,
+        "longitude": 120.2,
+        "category": "政治",
+        "region": "南宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1195,
+    "dynasties": [
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "庆元元年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "明昌六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "庆元党禁",
+        "description": "韩侂胄为打击政敌赵汝愚和朱熹等道学家，将理学定性为“伪学”，列出“伪学逆党”名单五十九人，禁止其入仕为官。朱熹等理学家受到残酷迫害。",
+        "latitude": 30.3,
+        "longitude": 120.2,
+        "category": "政治",
+        "region": "南宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1196,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "神圣罗马帝国亨利六世去世",
+        "description": "神圣罗马帝国皇帝亨利六世去世，帝国陷入王位争夺。",
+        "latitude": 50.0,
+        "longitude": 9.0,
+        "category": "政治",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1197,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "阿莫里加冕耶路撒冷国王",
+        "description": "塞浦路斯的阿莫里加冕为耶路撒冷拉丁国王。",
+        "latitude": 31.8,
+        "longitude": 35.2,
+        "category": "政治",
+        "region": "耶路撒冷王国",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1198,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "教皇英诺森三世即位",
+        "description": "英诺森三世当选为教皇，教皇权力在中世纪达到顶峰。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "教皇国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 1199,
     "dynasties": [
-      { "dynastyId": "nansong", "name": "南宋", "ruler": "宋宁宗赵扩", "era": "庆元五年" },
-      { "dynastyId": "jin", "name": "金", "ruler": "金章宗完颜璟", "era": "承安四年" }
+      {
+        "dynastyId": "nansong",
+        "name": "南宋",
+        "ruler": "宋宁宗赵扩",
+        "era": "庆元五年"
+      },
+      {
+        "dynastyId": "jin",
+        "name": "金",
+        "ruler": "金章宗完颜璟",
+        "era": "承安四年"
+      }
     ],
     "events": [
-      { "title": "约翰继承英格兰王位", "description": "英王理查一世去世，其弟约翰继承英格兰王位。约翰在位期间与法王腓力二世交战丢失诺曼底，与教皇英诺森三世冲突被处绝罚，最终被迫签署大宪章。", "latitude": 51.5, "longitude": -0.1, "category": "政治", "region": "英格兰", "continent": "欧洲" }
+      {
+        "title": "约翰继承英格兰王位",
+        "description": "英王理查一世去世，其弟约翰继承英格兰王位。约翰在位期间与法王腓力二世交战丢失诺曼底，与教皇英诺森三世冲突被处绝罚，最终被迫签署大宪章。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1200,
+    "dynasties": [
+      {
+        "dynastyId": "beisong",
+        "name": "北宋",
+        "ruler": "宋徽宗赵佶",
+        "era": "崇宁元年"
+      },
+      {
+        "dynastyId": "liao",
+        "name": "辽",
+        "ruler": "辽天祚帝耶律延禧",
+        "era": "乾统元年"
+      },
+      {
+        "dynastyId": "xixia",
+        "name": "西夏",
+        "ruler": "夏崇宗李乾顺",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "巴黎大学正式获特许状",
+        "description": "法兰西国王腓力二世向巴黎大学颁发特许状，确认其学术特权。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "文化",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
     ]
   }
 ]

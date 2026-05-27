@@ -18,6 +18,24 @@
         "category": "文化",
         "region": "明",
         "continent": "亚洲"
+      },
+      {
+        "title": "荷兰东印度公司获特许状",
+        "description": "荷兰东印度公司获国会特许状。",
+        "latitude": 52.4,
+        "longitude": 4.9,
+        "category": "经济",
+        "region": "尼德兰",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲芭蕾起源",
+        "description": "芭蕾。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "舞蹈",
+        "region": "法兰西",
+        "continent": "欧洲"
       }
     ]
   },
@@ -39,6 +57,51 @@
         "longitude": 4.9,
         "category": "经济",
         "region": "荷兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "荷兰黄金时代",
+        "description": "荷兰共和国商业贸易和艺术繁荣，东印度公司全球贸易。",
+        "latitude": 52.4,
+        "longitude": 4.9,
+        "category": "经济",
+        "region": "尼德兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "清朝制度巩固",
+        "description": "清朝在中原逐步确立统治制度。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
+        "title": "清朝初定中原",
+        "description": "清朝逐步确定对中原的统治。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
+        "title": "印度莫卧儿建筑",
+        "description": "泰姬陵等莫卧儿帝国建筑艺术杰作。",
+        "latitude": 27.0,
+        "longitude": 78.0,
+        "category": "文化",
+        "region": "莫卧儿帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲国际关系博弈",
+        "description": "欧陆各国展开复杂外交军事博弈。",
+        "latitude": 50.0,
+        "longitude": 8.0,
+        "category": "政治",
+        "region": "欧洲",
         "continent": "欧洲"
       }
     ]
@@ -68,6 +131,69 @@
         "description": "德川家康在关原之战获胜后，于江户开设幕府，开启江户时代，日本进入长达260余年的幕府统治时期。",
         "latitude": 35.7,
         "longitude": 139.8,
+        "category": "政治",
+        "region": "日本",
+        "continent": "亚洲"
+      },
+      {
+        "title": "明朝灭亡与清军入关",
+        "description": "李自成攻占北京，明朝灭亡，清军入关建立清朝。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲科学革命发展",
+        "description": "伽利略笛卡尔牛顿等推动科学进步。",
+        "latitude": 52.0,
+        "longitude": 5.0,
+        "category": "科技",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "非洲奴隶贸易",
+        "description": "欧洲列强大规模从事跨大西洋奴隶贸易。",
+        "latitude": 6.0,
+        "longitude": -3.0,
+        "category": "社会",
+        "region": "西非",
+        "continent": "非洲"
+      },
+      {
+        "title": "法国绝对君主制",
+        "description": "路易十四在法国强化绝对君主制。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      },
+      {
+        "title": "北美殖民发展",
+        "description": "英国在北美东海岸建立殖民地。",
+        "latitude": 38.0,
+        "longitude": -78.0,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "北美洲"
+      },
+      {
+        "title": "非洲王国政治变迁",
+        "description": "非洲各王国政治发展变迁。",
+        "latitude": -10.0,
+        "longitude": 25.0,
+        "category": "政治",
+        "region": "非洲",
+        "continent": "非洲"
+      },
+      {
+        "title": "德川家康开江户幕府",
+        "description": "德川家康关原之战后建立幕府。",
+        "latitude": 35.7,
+        "longitude": 139.7,
         "category": "政治",
         "region": "日本",
         "continent": "亚洲"
@@ -102,6 +228,42 @@
         "category": "外交",
         "region": "英格兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "日本江户时代开始",
+        "description": "德川家康结束战国时代，建立江户幕府。",
+        "latitude": 35.7,
+        "longitude": 139.7,
+        "category": "政治",
+        "region": "日本",
+        "continent": "亚洲"
+      },
+      {
+        "title": "荷兰东印度公司",
+        "description": "荷兰东印度公司控制亚洲贸易网络。",
+        "latitude": 52.4,
+        "longitude": 4.9,
+        "category": "经济",
+        "region": "尼德兰",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲殖民美洲",
+        "description": "欧洲列强在北美和加勒比建立殖民地。",
+        "latitude": 20.0,
+        "longitude": -70.0,
+        "category": "政治",
+        "region": "欧洲",
+        "continent": "北美洲"
+      },
+      {
+        "title": "英西伦敦和约",
+        "description": "英格兰与西班牙签订和平条约。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "外交",
+        "region": "英格兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -124,6 +286,51 @@
         "category": "外交",
         "region": "莫卧儿帝国",
         "continent": "亚洲"
+      },
+      {
+        "title": "欧洲三十年战争（约）",
+        "description": "欧洲宗教战争导致德意志人口大量减少，威斯特伐利亚和约确立现代国际体系。",
+        "latitude": 50.0,
+        "longitude": 10.0,
+        "category": "军事",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "日本锁国体制形成",
+        "description": "德川幕府逐步建立锁国体制。",
+        "latitude": 35.7,
+        "longitude": 139.7,
+        "category": "政治",
+        "region": "日本",
+        "continent": "亚洲"
+      },
+      {
+        "title": "科学社团成立",
+        "description": "伦敦皇家学会巴黎科学院等科学社团成立。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "科技",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "全球贸易网络形成",
+        "description": "欧亚美洲贸易网络联通。",
+        "latitude": 10.0,
+        "longitude": -10.0,
+        "category": "经济",
+        "region": "全球",
+        "continent": "欧洲"
+      },
+      {
+        "title": "塞万提斯著《堂吉诃德》",
+        "description": "《堂吉诃德》第一部出版。",
+        "latitude": 40.4,
+        "longitude": -3.7,
+        "category": "文化",
+        "region": "西班牙",
+        "continent": "欧洲"
       }
     ]
   },
@@ -177,6 +384,15 @@
         "category": "政治",
         "region": "英属北美",
         "continent": "北美洲"
+      },
+      {
+        "title": "英国资产阶级革命",
+        "description": "英国内战和光荣革命确立议会主权。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -199,6 +415,33 @@
         "category": "科技",
         "region": "荷兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "科学革命",
+        "description": "伽利略、牛顿、开普勒等推动天文学和物理学革命。",
+        "latitude": 48.0,
+        "longitude": 8.0,
+        "category": "科技",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "印度莫卧儿帝国鼎盛",
+        "description": "阿克巴和沙贾汗时期莫卧儿帝国黄金时代。",
+        "latitude": 28.6,
+        "longitude": 77.2,
+        "category": "政治",
+        "region": "莫卧儿帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "法建魁北克城",
+        "description": "法国在加拿大建魁北克城。",
+        "latitude": 46.8,
+        "longitude": -71.2,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "北美洲"
       }
     ]
   },
@@ -230,6 +473,15 @@
         "category": "外交",
         "region": "荷兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "荷发现曼哈顿岛",
+        "description": "哈德逊发现曼哈顿岛。",
+        "latitude": 40.7,
+        "longitude": -74.0,
+        "category": "科技",
+        "region": "尼德兰",
+        "continent": "北美洲"
       }
     ]
   },
@@ -251,6 +503,24 @@
         "longitude": 11.2,
         "category": "科技",
         "region": "佛罗伦萨",
+        "continent": "欧洲"
+      },
+      {
+        "title": "伽利略发现木星卫星",
+        "description": "伽利略用自制望远镜发现木星四大卫星。",
+        "latitude": 43.8,
+        "longitude": 11.3,
+        "category": "科技",
+        "region": "意大利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "中国茶叶传入欧洲",
+        "description": "茶叶。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "饮食",
+        "region": "英格兰",
         "continent": "欧洲"
       }
     ]
@@ -314,6 +584,15 @@
         "category": "外交",
         "region": "莫卧儿帝国",
         "continent": "亚洲"
+      },
+      {
+        "title": "荷兰在曼哈顿建贸易站",
+        "description": "荷兰在曼哈顿设皮毛贸易站。",
+        "latitude": 40.7,
+        "longitude": -74.0,
+        "category": "经济",
+        "region": "尼德兰",
+        "continent": "北美洲"
       }
     ]
   },
@@ -367,6 +646,15 @@
         "category": "科技",
         "region": "苏格兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "荷兰攻占马六甲尝试",
+        "description": "荷葡在东南亚争夺马六甲。",
+        "latitude": 2.2,
+        "longitude": 102.2,
+        "category": "军事",
+        "region": "尼德兰",
+        "continent": "亚洲"
       }
     ]
   },
@@ -393,6 +681,15 @@
       {
         "title": "大阪夏之阵与丰臣灭亡",
         "description": "德川家康发动大阪夏之阵，攻破大阪城，丰臣秀赖自杀，丰臣氏彻底灭亡。德川幕府统一天下，再无对手。",
+        "latitude": 34.7,
+        "longitude": 135.5,
+        "category": "军事",
+        "region": "日本",
+        "continent": "亚洲"
+      },
+      {
+        "title": "德川家康灭丰臣氏",
+        "description": "德川家康大阪之战灭丰臣氏。",
         "latitude": 34.7,
         "longitude": 135.5,
         "category": "军事",
@@ -429,6 +726,15 @@
         "category": "宗教",
         "region": "教皇国",
         "continent": "欧洲"
+      },
+      {
+        "title": "莎士比亚去世",
+        "description": "英国大文豪莎士比亚在家乡去世。",
+        "latitude": 52.2,
+        "longitude": -1.7,
+        "category": "文化",
+        "region": "英格兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -459,6 +765,15 @@
         "longitude": -3.4,
         "category": "科技",
         "region": "苏格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "烟草在欧洲流行",
+        "description": "烟草从美洲传入后风靡欧洲。",
+        "latitude": 50.0,
+        "longitude": 5.0,
+        "category": "经济",
+        "region": "欧洲",
         "continent": "欧洲"
       }
     ]
@@ -513,6 +828,15 @@
         "category": "社会",
         "region": "英属北美",
         "continent": "北美洲"
+      },
+      {
+        "title": "荷引黑人奴隶到北美",
+        "description": "荷兰船将首批黑人奴隶带到弗吉尼亚。",
+        "latitude": 37.2,
+        "longitude": -76.8,
+        "category": "社会",
+        "region": "尼德兰",
+        "continent": "北美洲"
       }
     ]
   },
@@ -543,6 +867,24 @@
         "longitude": 14.4,
         "category": "军事",
         "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "五月花号到新大陆",
+        "description": "清教徒乘五月花号到普利茅斯。",
+        "latitude": 42.0,
+        "longitude": -70.7,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "北美洲"
+      },
+      {
+        "title": "欧洲咖啡文化",
+        "description": "咖啡馆。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "饮食",
+        "region": "法兰西",
         "continent": "欧洲"
       }
     ]
@@ -615,6 +957,15 @@
         "category": "社会",
         "region": "英属北美",
         "continent": "北美洲"
+      },
+      {
+        "title": "葡萄牙受西班牙压制",
+        "description": "伊比利亚联盟下葡萄牙受压制。",
+        "latitude": 38.7,
+        "longitude": -9.1,
+        "category": "政治",
+        "region": "西班牙",
+        "continent": "欧洲"
       }
     ]
   },
@@ -646,6 +997,15 @@
         "category": "社会",
         "region": "荷兰东印度公司",
         "continent": "亚洲"
+      },
+      {
+        "title": "荷在安汶岛杀英商",
+        "description": "荷兰在安汶处决英国商人。",
+        "latitude": -3.5,
+        "longitude": 128.0,
+        "category": "军事",
+        "region": "尼德兰",
+        "continent": "亚洲"
       }
     ]
   },
@@ -667,6 +1027,15 @@
         "longitude": 120.2,
         "category": "政治",
         "region": "明",
+        "continent": "亚洲"
+      },
+      {
+        "title": "荷兰据台湾",
+        "description": "荷兰占台湾建热兰遮城。",
+        "latitude": 23.0,
+        "longitude": 120.0,
+        "category": "军事",
+        "region": "尼德兰",
         "continent": "亚洲"
       }
     ]
@@ -708,6 +1077,15 @@
         "category": "政治",
         "region": "英格兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "英詹姆斯一世去世",
+        "description": "查理一世继承英格兰王位。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -730,6 +1108,15 @@
         "category": "军事",
         "region": "明",
         "continent": "亚洲"
+      },
+      {
+        "title": "黎塞留任法首相",
+        "description": "黎塞留任法国首相强化王权。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
       }
     ]
   },
@@ -783,6 +1170,15 @@
         "category": "科技",
         "region": "英格兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "明朝东林党冤案",
+        "description": "明朝阉党迫害东林党人。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
       }
     ]
   },
@@ -836,6 +1232,24 @@
         "category": "军事",
         "region": "瑞典",
         "continent": "欧洲"
+      },
+      {
+        "title": "清教徒大移民北美",
+        "description": "英国清教徒大规模移民北美。",
+        "latitude": 42.4,
+        "longitude": -71.0,
+        "category": "社会",
+        "region": "英格兰",
+        "continent": "北美洲"
+      },
+      {
+        "title": "印度泰姬陵建造",
+        "description": "泰姬陵。",
+        "latitude": 27.2,
+        "longitude": 78.0,
+        "category": "建筑",
+        "region": "莫卧儿帝国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -867,6 +1281,15 @@
         "category": "社会",
         "region": "明",
         "continent": "亚洲"
+      },
+      {
+        "title": "马格德堡被毁",
+        "description": "天主教军攻陷马格德堡大肆屠杀。",
+        "latitude": 52.1,
+        "longitude": 11.6,
+        "category": "军事",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -898,6 +1321,15 @@
         "category": "科技",
         "region": "佛罗伦萨",
         "continent": "欧洲"
+      },
+      {
+        "title": "瑞典国王吕岑阵亡",
+        "description": "古斯塔夫二世·阿道夫在吕岑战死。",
+        "latitude": 51.2,
+        "longitude": 12.1,
+        "category": "军事",
+        "region": "瑞典",
+        "continent": "欧洲"
       }
     ]
   },
@@ -920,6 +1352,15 @@
         "category": "宗教",
         "region": "教皇国",
         "continent": "欧洲"
+      },
+      {
+        "title": "徐光启去世",
+        "description": "明科学家徐光启编《崇祯历书》。",
+        "latitude": 31.2,
+        "longitude": 121.5,
+        "category": "科技",
+        "region": "明",
+        "continent": "亚洲"
       }
     ]
   },
@@ -951,6 +1392,15 @@
         "category": "军事",
         "region": "明",
         "continent": "亚洲"
+      },
+      {
+        "title": "法加入三十年战争",
+        "description": "法国公开加入三十年战争抗哈布斯堡。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "军事",
+        "region": "法兰西",
+        "continent": "欧洲"
       }
     ]
   },
@@ -982,6 +1432,15 @@
         "category": "文化",
         "region": "法兰西",
         "continent": "欧洲"
+      },
+      {
+        "title": "荷垄断香料贸易",
+        "description": "荷兰东印度公司垄断肉豆蔻丁香。",
+        "latitude": -3.0,
+        "longitude": 127.0,
+        "category": "经济",
+        "region": "尼德兰",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1035,6 +1494,15 @@
         "category": "文化",
         "region": "法兰西",
         "continent": "欧洲"
+      },
+      {
+        "title": "日本岛原之乱",
+        "description": "日本天主教徒起义被镇压。",
+        "latitude": 32.8,
+        "longitude": 130.4,
+        "category": "社会",
+        "region": "日本",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1075,6 +1543,15 @@
         "category": "科技",
         "region": "佛罗伦萨",
         "continent": "欧洲"
+      },
+      {
+        "title": "荷截西班牙银船",
+        "description": "荷兰在加勒比截获西班牙银船。",
+        "latitude": 18.0,
+        "longitude": -76.0,
+        "category": "军事",
+        "region": "尼德兰",
+        "continent": "北美洲"
       }
     ]
   },
@@ -1106,6 +1583,15 @@
         "category": "军事",
         "region": "荷兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "苏格兰人抗英国教",
+        "description": "苏格兰民众反对查理一世宗教政策。",
+        "latitude": 55.9,
+        "longitude": -3.2,
+        "category": "军事",
+        "region": "苏格兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1128,6 +1614,24 @@
         "category": "政治",
         "region": "英格兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "葡萄牙恢复独立",
+        "description": "葡萄牙光复独立。",
+        "latitude": 38.7,
+        "longitude": -9.1,
+        "category": "政治",
+        "region": "葡萄牙",
+        "continent": "欧洲"
+      },
+      {
+        "title": "美洲可可巧克力",
+        "description": "巧克力。",
+        "latitude": 19.4,
+        "longitude": -99.1,
+        "category": "饮食",
+        "region": "西班牙",
+        "continent": "北美洲"
       }
     ]
   },
@@ -1150,6 +1654,15 @@
         "category": "军事",
         "region": "明",
         "continent": "亚洲"
+      },
+      {
+        "title": "爱尔兰天主教起义",
+        "description": "爱尔兰天主教贵族反新教殖民。",
+        "latitude": 53.5,
+        "longitude": -7.0,
+        "category": "军事",
+        "region": "爱尔兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1181,6 +1694,15 @@
         "category": "军事",
         "region": "明",
         "continent": "亚洲"
+      },
+      {
+        "title": "英国内战开始",
+        "description": "英王查理一世与议会间内战爆发。",
+        "latitude": 52.0,
+        "longitude": -2.0,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1203,6 +1725,15 @@
         "category": "政治",
         "region": "明",
         "continent": "亚洲"
+      },
+      {
+        "title": "路易十四登基",
+        "description": "太阳王路易十四年幼登位。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1289,6 +1820,15 @@
         "category": "军事",
         "region": "大顺",
         "continent": "亚洲"
+      },
+      {
+        "title": "英纳斯比战役",
+        "description": "克伦威尔纳斯比大败王党军。",
+        "latitude": 52.5,
+        "longitude": -1.0,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1320,6 +1860,15 @@
         "category": "文化",
         "region": "神圣罗马帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "清推行剃发令",
+        "description": "清强制汉人剃发易服引发反抗。",
+        "latitude": 32.0,
+        "longitude": 119.0,
+        "category": "政治",
+        "region": "清",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1342,6 +1891,15 @@
         "category": "军事",
         "region": "大西",
         "continent": "亚洲"
+      },
+      {
+        "title": "荷兰占好望角",
+        "description": "荷兰在非洲南端建补给站。",
+        "latitude": -33.9,
+        "longitude": 18.5,
+        "category": "政治",
+        "region": "尼德兰",
+        "continent": "非洲"
       }
     ]
   },
@@ -1417,6 +1975,33 @@
         "category": "文化",
         "region": "瑞典",
         "continent": "欧洲"
+      },
+      {
+        "title": "黄金海岸奴隶堡垒建造",
+        "description": "欧洲列强在黄金海岸建造堡垒从事奴隶贸易。",
+        "latitude": 5.0,
+        "longitude": -1.0,
+        "category": "社会",
+        "region": "黄金海岸",
+        "continent": "非洲"
+      },
+      {
+        "title": "新英格兰殖民自治",
+        "description": "北美清教徒殖民地建立自治。",
+        "latitude": 42.4,
+        "longitude": -71.0,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "北美洲"
+      },
+      {
+        "title": "欧洲巴洛克音乐",
+        "description": "巴洛克。",
+        "latitude": 48.0,
+        "longitude": 2.0,
+        "category": "音乐",
+        "region": "欧洲",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1448,6 +2033,15 @@
         "category": "军事",
         "region": "清",
         "continent": "亚洲"
+      },
+      {
+        "title": "英国航海法",
+        "description": "英国通过航海法限制荷兰航运。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "经济",
+        "region": "英格兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1470,6 +2064,15 @@
         "category": "政治",
         "region": "荷兰",
         "continent": "非洲"
+      },
+      {
+        "title": "第一次英荷战争",
+        "description": "英荷在英吉利海峡交战。",
+        "latitude": 52.0,
+        "longitude": 2.0,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1523,6 +2126,15 @@
         "category": "外交",
         "region": "英格兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "俄国保护乌克兰",
+        "description": "赫梅利尼茨基寻求俄国保护。",
+        "latitude": 50.0,
+        "longitude": 30.0,
+        "category": "政治",
+        "region": "俄罗斯",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1554,6 +2166,15 @@
         "category": "军事",
         "region": "波兰-立陶宛联邦",
         "continent": "欧洲"
+      },
+      {
+        "title": "英国夺牙买加",
+        "description": "英国从西班牙夺牙买加。",
+        "latitude": 18.0,
+        "longitude": -77.0,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "北美洲"
       }
     ]
   },
@@ -1576,6 +2197,15 @@
         "category": "军事",
         "region": "荷兰",
         "continent": "亚洲"
+      },
+      {
+        "title": "荷兰发现新西兰海岸",
+        "description": "塔斯曼环绕新西兰航行。",
+        "latitude": -42.0,
+        "longitude": 173.0,
+        "category": "科技",
+        "region": "尼德兰",
+        "continent": "大洋洲"
       }
     ]
   },
@@ -1607,6 +2237,15 @@
         "category": "科技",
         "region": "荷兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "英国在印度设商馆",
+        "description": "东印度公司在加尔各答设商馆。",
+        "latitude": 22.5,
+        "longitude": 88.0,
+        "category": "经济",
+        "region": "英格兰",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1647,6 +2286,15 @@
         "category": "政治",
         "region": "莫卧儿帝国",
         "continent": "亚洲"
+      },
+      {
+        "title": "奥朗则布篡位",
+        "description": "奥朗则布篡夺莫卧儿帝位囚禁沙贾汗。",
+        "latitude": 28.6,
+        "longitude": 77.2,
+        "category": "政治",
+        "region": "莫卧儿帝国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1678,6 +2326,15 @@
         "category": "军事",
         "region": "明郑",
         "continent": "亚洲"
+      },
+      {
+        "title": "法西比利牛斯和约",
+        "description": "法西两国签订和约。",
+        "latitude": 43.0,
+        "longitude": -1.0,
+        "category": "外交",
+        "region": "法兰西",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1709,6 +2366,15 @@
         "category": "科技",
         "region": "英格兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "中国盆景艺术",
+        "description": "盆景。",
+        "latitude": 30.0,
+        "longitude": 120.0,
+        "category": "园林",
+        "region": "清",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1771,6 +2437,15 @@
         "category": "政治",
         "region": "明郑",
         "continent": "亚洲"
+      },
+      {
+        "title": "清灭南明",
+        "description": "清军攻占昆明南明亡。",
+        "latitude": 25.0,
+        "longitude": 102.7,
+        "category": "军事",
+        "region": "清",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1802,6 +2477,15 @@
         "category": "军事",
         "region": "奥斯曼帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "法设加拿大主权委员会",
+        "description": "新法兰西设主权委员会。",
+        "latitude": 46.8,
+        "longitude": -71.2,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "北美洲"
       }
     ]
   },
@@ -1844,6 +2528,15 @@
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "社会",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "牛顿发现万有引力",
+        "description": "牛顿在居家中开始研究重力。",
+        "latitude": 52.2,
+        "longitude": 0.1,
+        "category": "科技",
         "region": "英格兰",
         "continent": "欧洲"
       }
@@ -1890,6 +2583,15 @@
         "category": "政治",
         "region": "清",
         "continent": "亚洲"
+      },
+      {
+        "title": "俄国波兰瓜分乌克兰（约）",
+        "description": "安德鲁索沃和约瓜分第聂伯河乌克兰。",
+        "latitude": 55.0,
+        "longitude": 36.0,
+        "category": "外交",
+        "region": "俄罗斯",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1921,6 +2623,15 @@
         "category": "外交",
         "region": "英格兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "西承认葡独立",
+        "description": "西班牙承认葡萄牙恢复独立。",
+        "latitude": 38.7,
+        "longitude": -9.1,
+        "category": "政治",
+        "region": "西班牙",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1943,6 +2654,15 @@
         "category": "政治",
         "region": "清",
         "continent": "亚洲"
+      },
+      {
+        "title": "奥斯曼夺克里特",
+        "description": "奥斯曼攻占威尼斯控克里特。",
+        "latitude": 35.0,
+        "longitude": 25.0,
+        "category": "军事",
+        "region": "奥斯曼帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1972,6 +2692,24 @@
         "latitude": 51.1,
         "longitude": 1.3,
         "category": "外交",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "东非斯瓦希里城邦繁荣",
+        "description": "蒙巴萨、桑给巴尔等城邦在印度洋贸易中繁荣。",
+        "latitude": -4.0,
+        "longitude": 39.5,
+        "category": "经济",
+        "region": "斯瓦希里",
+        "continent": "非洲"
+      },
+      {
+        "title": "欧洲报纸兴起",
+        "description": "新闻。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "媒体",
         "region": "英格兰",
         "continent": "欧洲"
       }
@@ -2005,6 +2743,15 @@
         "category": "科技",
         "region": "神圣罗马帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "法军事改革",
+        "description": "路易十四和卢瓦改革法国陆军。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "军事",
+        "region": "法兰西",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2026,6 +2773,15 @@
         "longitude": -1.3,
         "category": "科技",
         "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法侵荷兰",
+        "description": "路易十四率军入侵荷兰。",
+        "latitude": 52.0,
+        "longitude": 5.0,
+        "category": "军事",
+        "region": "法兰西",
         "continent": "欧洲"
       }
     ]
@@ -2049,6 +2805,15 @@
         "category": "军事",
         "region": "清",
         "continent": "亚洲"
+      },
+      {
+        "title": "荷兰决堤阻法军",
+        "description": "荷兰掘海堤水淹国土阻法军。",
+        "latitude": 52.0,
+        "longitude": 5.0,
+        "category": "军事",
+        "region": "尼德兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2080,6 +2845,15 @@
         "category": "政治",
         "region": "马拉塔帝国",
         "continent": "亚洲"
+      },
+      {
+        "title": "第三次英荷战争结束",
+        "description": "英荷战争以和约结束。",
+        "latitude": 52.0,
+        "longitude": 2.0,
+        "category": "外交",
+        "region": "英格兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2102,6 +2876,15 @@
         "category": "科技",
         "region": "英格兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "新英格兰印第安战争",
+        "description": "菲利普王战争在新英格兰爆发。",
+        "latitude": 42.0,
+        "longitude": -70.0,
+        "category": "军事",
+        "region": "北美印第安",
+        "continent": "北美洲"
       }
     ]
   },
@@ -2123,6 +2906,15 @@
         "longitude": 16.4,
         "category": "军事",
         "region": "波兰-立陶宛联邦",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法军卡塞勒战役",
+        "description": "法国在卡塞勒击败西班牙荷兰联军。",
+        "latitude": 50.8,
+        "longitude": 2.5,
+        "category": "军事",
+        "region": "法兰西",
         "continent": "欧洲"
       }
     ]
@@ -2155,6 +2947,15 @@
         "category": "文化",
         "region": "荷兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "荷英联合反法",
+        "description": "荷兰威廉三世联英抗法。",
+        "latitude": 52.0,
+        "longitude": 4.0,
+        "category": "外交",
+        "region": "尼德兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2186,6 +2987,15 @@
         "category": "文化",
         "region": "英格兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "尼姆维根和约",
+        "description": "法与荷西签和约结束法荷战争。",
+        "latitude": 51.8,
+        "longitude": 5.9,
+        "category": "外交",
+        "region": "法兰西",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2214,6 +3024,15 @@
         "description": "清军攻占岳州、常德、长沙等战略要地，吴军节节败退，三藩之乱的平叛胜利在望。",
         "latitude": 29.4,
         "longitude": 113.1,
+        "category": "军事",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
+        "title": "清平三藩",
+        "description": "清军攻占昆明吴氏亡。",
+        "latitude": 25.0,
+        "longitude": 102.7,
         "category": "军事",
         "region": "清",
         "continent": "亚洲"
@@ -2248,6 +3067,24 @@
         "category": "社会",
         "region": "新西班牙",
         "continent": "北美洲"
+      },
+      {
+        "title": "印度马拉塔人壮大",
+        "description": "希瓦吉建马拉塔帝国抗莫卧儿。",
+        "latitude": 18.0,
+        "longitude": 73.0,
+        "category": "政治",
+        "region": "马拉塔帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "法国时尚产业",
+        "description": "时装。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "时尚",
+        "region": "法兰西",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2270,6 +3107,15 @@
         "category": "军事",
         "region": "清",
         "continent": "亚洲"
+      },
+      {
+        "title": "德意志地区恢复",
+        "description": "三十年战争后德意志缓慢恢复。",
+        "latitude": 52.0,
+        "longitude": 10.0,
+        "category": "经济",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2291,6 +3137,15 @@
         "longitude": 37.6,
         "category": "社会",
         "region": "俄罗斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法宫廷迁凡尔赛",
+        "description": "路易十四迁宫廷至凡尔赛。",
+        "latitude": 48.8,
+        "longitude": 2.1,
+        "category": "政治",
+        "region": "法兰西",
         "continent": "欧洲"
       }
     ]
@@ -2345,6 +3200,15 @@
         "category": "政治",
         "region": "清",
         "continent": "亚洲"
+      },
+      {
+        "title": "神圣同盟成立",
+        "description": "教皇促成正教国家组神圣同盟。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "教皇国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2367,6 +3231,15 @@
         "category": "军事",
         "region": "清",
         "continent": "亚洲"
+      },
+      {
+        "title": "废除南特敕令",
+        "description": "路易十四废除南特敕令胡格诺流亡。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "宗教",
+        "region": "法兰西",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2397,6 +3270,15 @@
         "longitude": 10.9,
         "category": "外交",
         "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "神圣同盟反攻",
+        "description": "神圣同盟军在匈牙利败奥斯曼。",
+        "latitude": 47.5,
+        "longitude": 19.0,
+        "category": "军事",
+        "region": "神圣同盟",
         "continent": "欧洲"
       }
     ]
@@ -2473,6 +3355,15 @@
         "category": "政治",
         "region": "英格兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "英权利法案",
+        "description": "国会通过权利法案立君主立宪。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2495,6 +3386,24 @@
         "category": "军事",
         "region": "清",
         "continent": "亚洲"
+      },
+      {
+        "title": "博因河战役",
+        "description": "威廉三世在爱尔兰败詹姆斯二世。",
+        "latitude": 53.7,
+        "longitude": -6.5,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "欧洲海上保险",
+        "description": "保险。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "金融",
+        "region": "英格兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2526,6 +3435,15 @@
         "category": "军事",
         "region": "爱尔兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "法在加拿大设新据点",
+        "description": "法在五大湖区设新殖民据点。",
+        "latitude": 46.5,
+        "longitude": -78.0,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "北美洲"
       }
     ]
   },
@@ -2578,6 +3496,15 @@
         "longitude": -0.1,
         "category": "文化",
         "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "概率论创立",
+        "description": "帕斯卡和费马创概率论。",
+        "latitude": 48.0,
+        "longitude": 2.0,
+        "category": "科技",
+        "region": "法兰西",
         "continent": "欧洲"
       }
     ]
@@ -2641,6 +3568,15 @@
         "category": "军事",
         "region": "俄罗斯",
         "continent": "欧洲"
+      },
+      {
+        "title": "彼得大帝改革",
+        "description": "彼得一世推行西化改革。",
+        "latitude": 55.8,
+        "longitude": 37.6,
+        "category": "政治",
+        "region": "俄罗斯",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2660,6 +3596,15 @@
         "description": "康熙帝再次亲征噶尔丹，清军在昭莫多（今蒙古乌兰巴托附近）大败准噶尔军，噶尔丹主力被歼灭。",
         "latitude": 47.9,
         "longitude": 106.9,
+        "category": "军事",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
+        "title": "康熙征噶尔丹",
+        "description": "康熙亲征准噶尔噶尔丹。",
+        "latitude": 45.0,
+        "longitude": 110.0,
         "category": "军事",
         "region": "清",
         "continent": "亚洲"
@@ -2685,6 +3630,15 @@
         "category": "军事",
         "region": "清",
         "continent": "亚洲"
+      },
+      {
+        "title": "俄征服堪察加",
+        "description": "俄国探险队征服堪察加半岛。",
+        "latitude": 56.0,
+        "longitude": 160.0,
+        "category": "军事",
+        "region": "俄罗斯",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2704,6 +3658,15 @@
         "description": "沙皇彼得大帝结束西欧考察返回俄国，开始全面推行西化改革，涉及军事、行政、教育、科技等领域，俄国加速现代化。",
         "latitude": 55.8,
         "longitude": 37.6,
+        "category": "政治",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "彼得大帝访西欧",
+        "description": "彼得一世微服访问西欧考察。",
+        "latitude": 52.0,
+        "longitude": 5.0,
         "category": "政治",
         "region": "俄罗斯",
         "continent": "欧洲"

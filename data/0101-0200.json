@@ -2,1055 +2,4364 @@
   {
     "year": 101,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉和帝刘肇", "era": "永元十三年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉和帝刘肇",
+        "era": "永元十三年"
+      }
     ],
     "events": [
-      { "title": "班超平定焉耆之战", "description": "西域都护班超调发龟兹、鄯善等八国联军七万余人征讨焉耆，在尉犁率军截断焉耆王广的退路，斩首五千余级，俘虏一万五千人。西域五十余国至此全部归附东汉。", "latitude": 42.060, "longitude": 86.570, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "班超派甘英出使大秦", "description": "班超派遣部将甘英出使大秦（罗马帝国），甘英率使团自西域出发，途经安息（帕提亚）到达条支（波斯湾），欲渡海赴大秦。安息商人以海路险恶劝止，甘英最终折返，未能抵达罗马。", "latitude": 41.700, "longitude": 82.900, "category": "外交", "region": "东汉", "continent": "亚洲" },
-      { "title": "图拉真第二次达契亚战争", "description": "罗马皇帝图拉真发动第二次达契亚战争，率十二个军团渡过结冰的多瑙河。达契亚国王德凯巴鲁斯率军拼死抵抗，但终不敌罗马军团。罗马军队攻占达契亚首都萨尔米泽杰图萨。", "latitude": 45.500, "longitude": 23.000, "category": "军事", "region": "罗马帝国", "continent": "欧洲" },
-      { "title": "罗马征服达契亚全境", "description": "图拉真率罗马军团彻底征服达契亚全境（今罗马尼亚一带）。达契亚国王德凯巴鲁斯兵败自杀，首级被送往罗马。图拉真在此设立达契亚行省，大量罗马移民迁入，达契亚逐渐罗马化。", "latitude": 46.000, "longitude": 24.000, "category": "军事", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "班超平定焉耆之战",
+        "description": "西域都护班超调发龟兹、鄯善等八国联军七万余人征讨焉耆，在尉犁率军截断焉耆王广的退路，斩首五千余级，俘虏一万五千人。西域五十余国至此全部归附东汉。",
+        "latitude": 42.06,
+        "longitude": 86.57,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "班超派甘英出使大秦",
+        "description": "班超派遣部将甘英出使大秦（罗马帝国），甘英率使团自西域出发，途经安息（帕提亚）到达条支（波斯湾），欲渡海赴大秦。安息商人以海路险恶劝止，甘英最终折返，未能抵达罗马。",
+        "latitude": 41.7,
+        "longitude": 82.9,
+        "category": "外交",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "图拉真第二次达契亚战争",
+        "description": "罗马皇帝图拉真发动第二次达契亚战争，率十二个军团渡过结冰的多瑙河。达契亚国王德凯巴鲁斯率军拼死抵抗，但终不敌罗马军团。罗马军队攻占达契亚首都萨尔米泽杰图萨。",
+        "latitude": 45.5,
+        "longitude": 23.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "罗马征服达契亚全境",
+        "description": "图拉真率罗马军团彻底征服达契亚全境（今罗马尼亚一带）。达契亚国王德凯巴鲁斯兵败自杀，首级被送往罗马。图拉真在此设立达契亚行省，大量罗马移民迁入，达契亚逐渐罗马化。",
+        "latitude": 46.0,
+        "longitude": 24.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 102,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉和帝刘肇", "era": "永元十四年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉和帝刘肇",
+        "era": "永元十四年"
+      }
     ],
     "events": [
-      { "title": "班超返回洛阳病逝", "description": "年逾七旬的班超从西域回到洛阳，九月病逝，享年七十一岁。汉和帝追赠射声校尉，葬于北邙山。班超投笔从戎，率三十六人平定西域五十余国，任西域都护三十一年，功勋卓著。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "任尚继任西域都护", "description": "任尚被任命为西域都护接替班超。班超临别告诫任尚宜'荡佚简易，宽小过，总大纲'，任尚不以为然，后因治理严苛导致西域诸国不满，为日后西域叛乱埋下隐患。", "latitude": 41.700, "longitude": 82.900, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "图拉真凯旋回罗马", "description": "罗马皇帝图拉真在征服达契亚后返回罗马，举行了盛大的凯旋式，庆典持续一百二十三天。图拉真用缴获的达契亚战利品在罗马广场兴建图拉真纪功柱，铭刻达契亚战争场景。", "latitude": 41.893, "longitude": 12.485, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "班超返回洛阳病逝",
+        "description": "年逾七旬的班超从西域回到洛阳，九月病逝，享年七十一岁。汉和帝追赠射声校尉，葬于北邙山。班超投笔从戎，率三十六人平定西域五十余国，任西域都护三十一年，功勋卓著。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "图拉真凯旋回罗马",
+        "description": "罗马皇帝图拉真在征服达契亚后返回罗马，举行了盛大的凯旋式，庆典持续一百二十三天。图拉真用缴获的达契亚战利品在罗马广场兴建图拉真纪功柱，铭刻达契亚战争场景。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "东汉太学兴盛",
+        "description": "洛阳太学学生数量达到数万人，经学研究繁荣。",
+        "latitude": 34.7,
+        "longitude": 112.5,
+        "category": "文化",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马行省商贸发展",
+        "description": "罗马帝国内部贸易持续繁荣，行省专业化生产发展。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "经济",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "汉朝边境互市",
+        "description": "汉朝在边境与匈奴设立互市场所。",
+        "latitude": 40.0,
+        "longitude": 110.0,
+        "category": "经济",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "埃及亚历山大图书馆活动",
+        "description": "亚历山大城的学者整理和研究古典文献。",
+        "latitude": 31.2,
+        "longitude": 29.9,
+        "category": "文化",
+        "region": "埃及",
+        "continent": "非洲"
+      },
+      {
+        "title": "帕提亚与罗马对峙",
+        "description": "帕提亚帝国与罗马在亚美尼亚持续对立。",
+        "latitude": 40.0,
+        "longitude": 44.0,
+        "category": "政治",
+        "region": "帕提亚帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉朝边疆屯田",
+        "description": "汉朝在西北边疆推行屯田巩固边防。",
+        "latitude": 38.0,
+        "longitude": 105.0,
+        "category": "经济",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "贵霜帝国艺术",
+        "description": "犍陀罗佛教艺术融合希腊和印度风格。",
+        "latitude": 34.0,
+        "longitude": 72.0,
+        "category": "文化",
+        "region": "贵霜帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 103,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉和帝刘肇", "era": "永元十五年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉和帝刘肇",
+        "era": "永元十五年"
+      }
     ],
     "events": [
-      { "title": "汉和帝南巡荆州", "description": "汉和帝刘肇南巡至荆州、南阳等地，考察地方吏治民生。他沿途接见地方官员和耆老，减免部分赋税，并考察各地狱讼冤案。此次南巡促进了朝廷对南方地区的重视。", "latitude": 32.010, "longitude": 112.120, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "罗马扩建图拉真广场", "description": "图拉真皇帝在罗马城大兴土木，继续扩建图拉真广场。广场占地广阔，设有巴西利卡、图书馆和商贸市场。广场中央矗立图拉真骑马铜像，成为罗马帝国鼎盛时期的标志性建筑群。", "latitude": 41.896, "longitude": 12.484, "category": "文化", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "汉和帝南巡荆州",
+        "description": "汉和帝刘肇南巡至荆州、南阳等地，考察地方吏治民生。他沿途接见地方官员和耆老，减免部分赋税，并考察各地狱讼冤案。此次南巡促进了朝廷对南方地区的重视。",
+        "latitude": 32.01,
+        "longitude": 112.12,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马扩建图拉真广场",
+        "description": "图拉真皇帝在罗马城大兴土木，继续扩建图拉真广场。广场占地广阔，设有巴西利卡、图书馆和商贸市场。广场中央矗立图拉真骑马铜像，成为罗马帝国鼎盛时期的标志性建筑群。",
+        "latitude": 41.896,
+        "longitude": 12.484,
+        "category": "文化",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "图拉真改革元老院",
+        "description": "图拉真吸纳各行省精英进入元老院。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 104,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉和帝刘肇", "era": "永元十六年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉和帝刘肇",
+        "era": "永元十六年"
+      }
     ],
     "events": [
-      { "title": "东汉边疆少数民族归附", "description": "辽东太守耿夔招降高句丽、濊貊等东北少数民族部落，朝廷在辽东地区增设属国。乌桓、鲜卑等部也相继遣使朝贡，东汉东北边疆呈现短暂和平。", "latitude": 41.800, "longitude": 123.400, "category": "外交", "region": "东汉", "continent": "亚洲" },
-      { "title": "图拉真大力兴建公共工程", "description": "图拉真继续在意大利和各行省大兴土木，修建道路、桥梁、水道和港口。他在意大利修建了新的输水道，解决了罗马城的水源问题，又在西班牙修建了大量桥梁和公路。", "latitude": 41.893, "longitude": 12.485, "category": "科技", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "东汉边疆少数民族归附",
+        "description": "辽东太守耿夔招降高句丽、濊貊等东北少数民族部落，朝廷在辽东地区增设属国。乌桓、鲜卑等部也相继遣使朝贡，东汉东北边疆呈现短暂和平。",
+        "latitude": 41.8,
+        "longitude": 123.4,
+        "category": "外交",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "图拉真大力兴建公共工程",
+        "description": "图拉真继续在意大利和各行省大兴土木，修建道路、桥梁、水道和港口。他在意大利修建了新的输水道，解决了罗马城的水源问题，又在西班牙修建了大量桥梁和公路。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "科技",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "印度孔雀王朝哲学发展",
+        "description": "印度佛教和耆那教哲学持续发展。",
+        "latitude": 22.0,
+        "longitude": 78.0,
+        "category": "文化",
+        "region": "古印度",
+        "continent": "亚洲"
+      },
+      {
+        "title": "北欧日耳曼部落发展",
+        "description": "日耳曼部落社会制度日趋完善。",
+        "latitude": 54.0,
+        "longitude": 10.0,
+        "category": "社会",
+        "region": "日耳曼",
+        "continent": "欧洲"
+      },
+      {
+        "title": "罗马官制改革",
+        "description": "图拉真改革罗马金融和行政体系。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "罗马水利工程",
+        "description": "罗马工程师设计和建造大量引水渠。",
+        "latitude": 42.0,
+        "longitude": 12.5,
+        "category": "科技",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 105,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉和帝刘肇", "era": "永元十七年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉和帝刘肇",
+        "era": "永元十七年"
+      }
     ],
     "events": [
-      { "title": "蔡伦改进造纸术", "description": "尚方令蔡伦总结前人造纸经验，用树皮、麻头、破布和渔网为原料制造植物纤维纸。这种纸质地轻便、造价低廉、书写流畅，被称为'蔡侯纸'。造纸术的改进对人类文明传播产生了革命性影响。", "latitude": 34.300, "longitude": 108.860, "category": "科技", "region": "东汉", "continent": "亚洲" },
-      { "title": "汉和帝驾崩，殇帝继位", "description": "汉和帝刘肇病逝于章德前殿，在位十七年，年仅二十七岁。少子刘隆即位，年仅出生百余日，是为汉殇帝。邓太后临朝称制，开启了东汉外戚与宦官交替专权的局面。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "图拉真设立阿拉伯行省", "description": "罗马皇帝图拉真吞并纳巴泰王国，将其改设为阿拉伯行省（Arabia Petraea），首都设于佩特拉。此举使罗马帝国控制红海与叙利亚之间的重要商路，进一步加强了罗马在东方的贸易地位。", "latitude": 30.300, "longitude": 35.500, "category": "军事", "region": "罗马帝国", "continent": "亚洲" }
+      {
+        "title": "蔡伦改进造纸术",
+        "description": "尚方令蔡伦总结前人造纸经验，用树皮、麻头、破布和渔网为原料制造植物纤维纸。这种纸质地轻便、造价低廉、书写流畅，被称为'蔡侯纸'。造纸术的改进对人类文明传播产生了革命性影响。",
+        "latitude": 34.3,
+        "longitude": 108.86,
+        "category": "科技",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉和帝驾崩，殇帝继位",
+        "description": "汉和帝刘肇病逝于章德前殿，在位十七年，年仅二十七岁。少子刘隆即位，年仅出生百余日，是为汉殇帝。邓太后临朝称制，开启了东汉外戚与宦官交替专权的局面。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "图拉真设立阿拉伯行省",
+        "description": "罗马皇帝图拉真吞并纳巴泰王国，将其改设为阿拉伯行省（Arabia Petraea），首都设于佩特拉。此举使罗马帝国控制红海与叙利亚之间的重要商路，进一步加强了罗马在东方的贸易地位。",
+        "latitude": 30.3,
+        "longitude": 35.5,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马法学家活动",
+        "description": "罗马法学家盖尤斯等在这一时期撰写法学著作。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "文化",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "丝绸之路中转贸易",
+        "description": "丝绸之路上的撒马尔罕等城市中转贸易繁荣。",
+        "latitude": 39.7,
+        "longitude": 66.9,
+        "category": "经济",
+        "region": "中亚",
+        "continent": "亚洲"
+      },
+      {
+        "title": "基督教在安条克发展",
+        "description": "基督教在叙利亚安条克城发展壮大。",
+        "latitude": 36.2,
+        "longitude": 36.8,
+        "category": "宗教",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马征服达契亚",
+        "description": "图拉真第二次达契亚战争彻底征服达契亚。",
+        "latitude": 46.0,
+        "longitude": 24.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "基督教早期教父著作",
+        "description": "早期基督教教父捍卫和阐述基督教信仰。",
+        "latitude": 38.0,
+        "longitude": 27.0,
+        "category": "宗教",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "帕提亚与汉朝贸易",
+        "description": "帕提亚帝国从中转丝绸贸易获利。",
+        "latitude": 35.0,
+        "longitude": 44.0,
+        "category": "经济",
+        "region": "帕提亚帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 106,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉殇帝刘隆", "era": "延平元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉殇帝刘隆",
+        "era": "延平元年"
+      }
     ],
     "events": [
-      { "title": "汉殇帝夭折，安帝继位", "description": "八月，年仅两岁的汉殇帝刘隆夭折于崇德前殿。邓太后与兄长邓骘密商后，迎立清河王刘庆之子、十三岁的刘祜为帝，是为汉安帝。邓太后继续临朝称制。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "罢西域都护及屯田", "description": "因西域诸国叛乱加剧，东汉朝廷下令撤销西域都护及伊吾庐屯田。西域各国重新被匈奴控制，东汉在西域的数十年经营再次中断。这是东汉对外战略的重大收缩。", "latitude": 41.700, "longitude": 82.900, "category": "政治", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "汉殇帝夭折，安帝继位",
+        "description": "八月，年仅两岁的汉殇帝刘隆夭折于崇德前殿。邓太后与兄长邓骘密商后，迎立清河王刘庆之子、十三岁的刘祜为帝，是为汉安帝。邓太后继续临朝称制。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罢西域都护及屯田",
+        "description": "因西域诸国叛乱加剧，东汉朝廷下令撤销西域都护及伊吾庐屯田。西域各国重新被匈奴控制，东汉在西域的数十年经营再次中断。这是东汉对外战略的重大收缩。",
+        "latitude": 41.7,
+        "longitude": 82.9,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 107,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉安帝刘祜", "era": "永初元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉安帝刘祜",
+        "era": "永初元年"
+      }
     ],
     "events": [
-      { "title": "邓骘任大将军辅政", "description": "邓太后之兄邓骘被任命为大将军，掌控朝政大权。邓骘辅政期间礼贤下士，征召名士杨震等人入朝为官，朝政一度稳定。但外戚专权的格局正式形成。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "羌人起义爆发", "description": "东汉征发羌人远征西域，羌人因不满官吏压迫在安定郡发动大规模起义。起义迅速蔓延至陇西、金城等郡，羌人攻占城邑、击杀地方官，东汉征调大军镇压，但数年未能平息。", "latitude": 35.600, "longitude": 105.600, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "图拉真发动帕提亚战争", "description": "罗马皇帝图拉真以亚美尼亚王位争端为由，率大军东征帕提亚。罗马军团攻占亚美尼亚首都阿尔塔沙特，废黜亲帕提亚的国王，将亚美尼亚并入罗马版图设为行省。", "latitude": 40.180, "longitude": 44.510, "category": "军事", "region": "罗马帝国", "continent": "亚洲" }
+      {
+        "title": "邓骘任大将军辅政",
+        "description": "邓太后之兄邓骘被任命为大将军，掌控朝政大权。邓骘辅政期间礼贤下士，征召名士杨震等人入朝为官，朝政一度稳定。但外戚专权的格局正式形成。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "羌人起义爆发",
+        "description": "东汉征发羌人远征西域，羌人因不满官吏压迫在安定郡发动大规模起义。起义迅速蔓延至陇西、金城等郡，羌人攻占城邑、击杀地方官，东汉征调大军镇压，但数年未能平息。",
+        "latitude": 35.6,
+        "longitude": 105.6,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "图拉真发动帕提亚战争",
+        "description": "罗马皇帝图拉真以亚美尼亚王位争端为由，率大军东征帕提亚。罗马军团攻占亚美尼亚首都阿尔塔沙特，废黜亲帕提亚的国王，将亚美尼亚并入罗马版图设为行省。",
+        "latitude": 40.18,
+        "longitude": 44.51,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马帝国各行省城市建设",
+        "description": "罗马帝国各行省城市持续发展，修建剧场、浴场等公共建筑。",
+        "latitude": 38.0,
+        "longitude": 25.0,
+        "category": "文化",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "汉朝经学兴盛",
+        "description": "东汉经学家贾逵、马融等注释儒家经典。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "文化",
+        "region": "东汉",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 108,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉安帝刘祜", "era": "永初二年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉安帝刘祜",
+        "era": "永初二年"
+      }
     ],
     "events": [
-      { "title": "羌人起义愈演愈烈", "description": "羌人起义在凉州各地蔓延，先零羌首领滇零在北地郡自称天子，招集各部落攻占军政要地。东汉派车骑将军邓骘率五万大军征讨，在平襄被羌人击败，损失惨重。", "latitude": 35.500, "longitude": 105.000, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "图拉真攻占巴比伦", "description": "罗马皇帝图拉真率军攻占美索不达米亚重镇巴比伦，开启帕提亚战争第二阶段。图拉真继续沿底格里斯河南下，兵锋直指帕提亚首都泰西封，罗马军队势如破竹。", "latitude": 32.540, "longitude": 44.420, "category": "军事", "region": "罗马帝国", "continent": "亚洲" }
+      {
+        "title": "羌人起义愈演愈烈",
+        "description": "羌人起义在凉州各地蔓延，先零羌首领滇零在北地郡自称天子，招集各部落攻占军政要地。东汉派车骑将军邓骘率五万大军征讨，在平襄被羌人击败，损失惨重。",
+        "latitude": 35.5,
+        "longitude": 105.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "图拉真攻占巴比伦",
+        "description": "罗马皇帝图拉真率军攻占美索不达米亚重镇巴比伦，开启帕提亚战争第二阶段。图拉真继续沿底格里斯河南下，兵锋直指帕提亚首都泰西封，罗马军队势如破竹。",
+        "latitude": 32.54,
+        "longitude": 44.42,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "塔西佗著《历史》",
+        "description": "塔西佗撰写《历史》记述弗拉维王朝。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "文化",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 109,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉安帝刘祜", "era": "永初三年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉安帝刘祜",
+        "era": "永初三年"
+      }
     ],
     "events": [
-      { "title": "东汉调兵镇压羌人起义", "description": "羌人起义持续蔓延，东汉朝廷征发京师及边境各郡兵力全力征讨。为了筹措军费，朝廷下令提高盐价、增加赋税。百姓负担加重，天下骚动不安。", "latitude": 34.682, "longitude": 112.470, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "高句丽与东汉边境冲突", "description": "高句丽太祖王高宫率军攻掠辽东郡及玄菟郡，杀害汉朝边民。东汉辽东太守率兵迎击，双方各有胜负。高句丽从此成为东汉东北边境的重要威胁。", "latitude": 41.800, "longitude": 124.000, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "图拉真攻陷泰西封", "description": "罗马皇帝图拉真率军攻陷帕提亚首都泰西封。他进入帕提亚王宫，夺得帕提亚王座，宣布在美索不达米亚设立行省。图拉真兵锋抵达波斯湾，成为第一位也是唯一一位抵达波斯湾的罗马皇帝。", "latitude": 33.090, "longitude": 44.580, "category": "军事", "region": "罗马帝国", "continent": "亚洲" }
+      {
+        "title": "东汉调兵镇压羌人起义",
+        "description": "羌人起义持续蔓延，东汉朝廷征发京师及边境各郡兵力全力征讨。为了筹措军费，朝廷下令提高盐价、增加赋税。百姓负担加重，天下骚动不安。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "高句丽与东汉边境冲突",
+        "description": "高句丽太祖王高宫率军攻掠辽东郡及玄菟郡，杀害汉朝边民。东汉辽东太守率兵迎击，双方各有胜负。高句丽从此成为东汉东北边境的重要威胁。",
+        "latitude": 41.8,
+        "longitude": 124.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "图拉真攻陷泰西封",
+        "description": "罗马皇帝图拉真率军攻陷帕提亚首都泰西封。他进入帕提亚王宫，夺得帕提亚王座，宣布在美索不达米亚设立行省。图拉真兵锋抵达波斯湾，成为第一位也是唯一一位抵达波斯湾的罗马皇帝。",
+        "latitude": 33.09,
+        "longitude": 44.58,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "小普林尼著书信集",
+        "description": "小普林尼出版书信集记录当时社会生活。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "文化",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 110,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉安帝刘祜", "era": "永初四年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉安帝刘祜",
+        "era": "永初四年"
+      }
     ],
     "events": [
-      { "title": "东汉朝廷议弃凉州", "description": "因羌人起义持续不断，军费开支浩大，邓骘主张放弃凉州，集中力量保卫关中。郎中虞诩力排众议，指出放弃凉州将危及三辅，最终朝廷采纳虞诩之议继续固守凉州。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "虞诩巩固凉州防御", "description": "虞诩被任命为朝歌长后升任武都太守，率兵增援武都。他以增灶计迷惑羌军，又发动民众修筑营垒、加强防守，成功遏制了羌人在武都地区的攻势。", "latitude": 33.400, "longitude": 105.000, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "帕提亚各地爆发反罗马起义", "description": "图拉真占领美索不达米亚后，帕提亚各地爆发大规模反罗马起义。犹太人、阿拉伯人及帕提亚贵族纷纷起兵反抗罗马统治。图拉真被迫分兵镇压，面临后院起火的不利局面。", "latitude": 33.090, "longitude": 44.580, "category": "军事", "region": "罗马帝国", "continent": "亚洲" }
+      {
+        "title": "东汉朝廷议弃凉州",
+        "description": "因羌人起义持续不断，军费开支浩大，邓骘主张放弃凉州，集中力量保卫关中。郎中虞诩力排众议，指出放弃凉州将危及三辅，最终朝廷采纳虞诩之议继续固守凉州。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "虞诩巩固凉州防御",
+        "description": "虞诩被任命为朝歌长后升任武都太守，率兵增援武都。他以增灶计迷惑羌军，又发动民众修筑营垒、加强防守，成功遏制了羌人在武都地区的攻势。",
+        "latitude": 33.4,
+        "longitude": 105.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "帕提亚各地爆发反罗马起义",
+        "description": "图拉真占领美索不达米亚后，帕提亚各地爆发大规模反罗马起义。犹太人、阿拉伯人及帕提亚贵族纷纷起兵反抗罗马统治。图拉真被迫分兵镇压，面临后院起火的不利局面。",
+        "latitude": 33.09,
+        "longitude": 44.58,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "丝绸之路贸易繁荣",
+        "description": "东汉与罗马帝国之间的丝绸之路贸易达到鼎盛。",
+        "latitude": 40.0,
+        "longitude": 75.0,
+        "category": "经济",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "贵霜帝国佛教艺术",
+        "description": "犍陀罗佛教艺术在贵霜帝国繁荣。",
+        "latitude": 34.0,
+        "longitude": 72.0,
+        "category": "文化",
+        "region": "贵霜帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 111,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉安帝刘祜", "era": "永初五年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉安帝刘祜",
+        "era": "永初五年"
+      }
     ],
     "events": [
-      { "title": "羌人攻入关中三辅", "description": "羌人起义军攻入关中地区，进逼长安。东汉朝廷震动，急调京师卫戍部队防守长安。羌人因缺乏攻坚能力，在关中抢掠后退回凉州，但汉朝统治中心受到严重威胁。", "latitude": 34.300, "longitude": 108.860, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "东汉移边郡百姓入内地", "description": "为躲避羌人侵扰，东汉朝廷下令将陇西、安定、北地、上郡等边郡的汉族百姓迁徙至三辅等内地安置。大量百姓背井离乡，流离失所，饥民遍地，引发严重的社会问题。", "latitude": 34.500, "longitude": 107.500, "category": "社会", "region": "东汉", "continent": "亚洲" },
-      { "title": "图拉真扶植帕提亚傀儡王", "description": "面对帕提亚各地的反抗，罗马皇帝图拉真在泰西封扶植帕提亚王子帕尔塔马西里斯为傀儡国王，试图以'以帕治帕'的策略稳定美索不达米亚。但此举未能平息帕提亚人的反抗。", "latitude": 33.090, "longitude": 44.580, "category": "政治", "region": "罗马帝国", "continent": "亚洲" }
+      {
+        "title": "羌人攻入关中三辅",
+        "description": "羌人起义军攻入关中地区，进逼长安。东汉朝廷震动，急调京师卫戍部队防守长安。羌人因缺乏攻坚能力，在关中抢掠后退回凉州，但汉朝统治中心受到严重威胁。",
+        "latitude": 34.3,
+        "longitude": 108.86,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "东汉移边郡百姓入内地",
+        "description": "为躲避羌人侵扰，东汉朝廷下令将陇西、安定、北地、上郡等边郡的汉族百姓迁徙至三辅等内地安置。大量百姓背井离乡，流离失所，饥民遍地，引发严重的社会问题。",
+        "latitude": 34.5,
+        "longitude": 107.5,
+        "category": "社会",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "图拉真扶植帕提亚傀儡王",
+        "description": "面对帕提亚各地的反抗，罗马皇帝图拉真在泰西封扶植帕提亚王子帕尔塔马西里斯为傀儡国王，试图以'以帕治帕'的策略稳定美索不达米亚。但此举未能平息帕提亚人的反抗。",
+        "latitude": 33.09,
+        "longitude": 44.58,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "图拉真与帕提亚战争爆发",
+        "description": "图拉真入侵帕提亚帝国，攻占亚美尼亚。",
+        "latitude": 40.0,
+        "longitude": 44.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 112,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉安帝刘祜", "era": "永初六年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉安帝刘祜",
+        "era": "永初六年"
+      }
     ],
     "events": [
-      { "title": "滇零去世，羌军内部分裂", "description": "先零羌首领滇零病逝，其子零昌继位。零昌年幼，由狼莫辅政。羌人各部落之间因权力继承产生矛盾，凝聚力下降，为东汉提供了逆转战局的契机。", "latitude": 35.500, "longitude": 105.000, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "图拉真撤军返回罗马", "description": "图拉真因帕提亚地区反抗加剧及健康恶化，被迫从美索不达米亚撤军。这是罗马帝国在东方扩张的顶点，此后罗马开始转攻为守。图拉真返回途中在小亚细亚病重。", "latitude": 36.500, "longitude": 36.000, "category": "军事", "region": "罗马帝国", "continent": "亚洲" }
+      {
+        "title": "滇零去世，羌军内部分裂",
+        "description": "先零羌首领滇零病逝，其子零昌继位。零昌年幼，由狼莫辅政。羌人各部落之间因权力继承产生矛盾，凝聚力下降，为东汉提供了逆转战局的契机。",
+        "latitude": 35.5,
+        "longitude": 105.0,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "图拉真撤军返回罗马",
+        "description": "图拉真因帕提亚地区反抗加剧及健康恶化，被迫从美索不达米亚撤军。这是罗马帝国在东方扩张的顶点，此后罗马开始转攻为守。图拉真返回途中在小亚细亚病重。",
+        "latitude": 36.5,
+        "longitude": 36.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 113,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉安帝刘祜", "era": "永初七年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉安帝刘祜",
+        "era": "永初七年"
+      }
     ],
     "events": [
-      { "title": "东汉朝廷整顿财政", "description": "因连年征讨羌人耗费大量军费，东汉财政空虚。朝廷下令裁减官员俸禄、缩减宫廷开支、出售官爵以筹集经费。同时恢复盐铁专卖，加强对工商业的管控以增加收入。", "latitude": 34.682, "longitude": 112.470, "category": "经济", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "东汉朝廷整顿财政",
+        "description": "因连年征讨羌人耗费大量军费，东汉财政空虚。朝廷下令裁减官员俸禄、缩减宫廷开支、出售官爵以筹集经费。同时恢复盐铁专卖，加强对工商业的管控以增加收入。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "经济",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马攻占巴比伦",
+        "description": "图拉真攻陷巴比伦和泰西封。",
+        "latitude": 33.0,
+        "longitude": 44.5,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 114,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉安帝刘祜", "era": "元初元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉安帝刘祜",
+        "era": "元初元年"
+      }
     ],
     "events": [
-      { "title": "东汉改元元初", "description": "汉安帝改年号为'元初'，大赦天下。邓太后进一步巩固权力，擢升其兄邓阊为城门校尉，邓氏家族五人封侯，权势达到顶峰。外戚专权体制进一步加强。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "帕提亚复国征战", "description": "在罗马军队撤出后，帕提亚贵族奥斯罗埃斯率军攻入泰西封，驱逐了图拉真扶植的傀儡国王帕尔塔马西里斯。奥斯罗埃斯重新统一帕提亚东部地区，帕提亚帝国恢复独立。", "latitude": 33.090, "longitude": 44.580, "category": "军事", "region": "安息帝国", "continent": "亚洲" }
+      {
+        "title": "东汉改元元初",
+        "description": "汉安帝改年号为'元初'，大赦天下。邓太后进一步巩固权力，擢升其兄邓阊为城门校尉，邓氏家族五人封侯，权势达到顶峰。外戚专权体制进一步加强。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "帕提亚复国征战",
+        "description": "在罗马军队撤出后，帕提亚贵族奥斯罗埃斯率军攻入泰西封，驱逐了图拉真扶植的傀儡国王帕尔塔马西里斯。奥斯罗埃斯重新统一帕提亚东部地区，帕提亚帝国恢复独立。",
+        "latitude": 33.09,
+        "longitude": 44.58,
+        "category": "军事",
+        "region": "安息帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "亚美尼亚成为罗马行省",
+        "description": "图拉真将亚美尼亚正式设为罗马行省。",
+        "latitude": 40.0,
+        "longitude": 44.0,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 115,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉安帝刘祜", "era": "元初二年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉安帝刘祜",
+        "era": "元初二年"
+      }
     ],
     "events": [
-      { "title": "东汉在河西走廊大败羌军", "description": "东汉将领马贤率军在河西走廊大败先零羌主力，斩杀数千人。羌军残部退往青海湖一带。东汉军队逐步收复凉州各郡，羌人起义的势头被有效遏制。", "latitude": 36.600, "longitude": 104.200, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "哈德良就任罗马皇帝", "description": "图拉真病逝于小亚细亚，临终前收养哈德良为养子并指定为继承人。哈德良在安条克得知消息后正式就任罗马皇帝。他立即改变图拉真的扩张政策，决定从美索不达米亚撤军，巩固现有边境。", "latitude": 36.200, "longitude": 36.200, "category": "政治", "region": "罗马帝国", "continent": "亚洲" }
+      {
+        "title": "东汉在河西走廊大败羌军",
+        "description": "东汉将领马贤率军在河西走廊大败先零羌主力，斩杀数千人。羌军残部退往青海湖一带。东汉军队逐步收复凉州各郡，羌人起义的势头被有效遏制。",
+        "latitude": 36.6,
+        "longitude": 104.2,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "哈德良就任罗马皇帝",
+        "description": "图拉真病逝于小亚细亚，临终前收养哈德良为养子并指定为继承人。哈德良在安条克得知消息后正式就任罗马皇帝。他立即改变图拉真的扩张政策，决定从美索不达米亚撤军，巩固现有边境。",
+        "latitude": 36.2,
+        "longitude": 36.2,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 116,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉安帝刘祜", "era": "元初三年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉安帝刘祜",
+        "era": "元初三年"
+      }
     ],
     "events": [
-      { "title": "东汉大破先零羌残余势力", "description": "护羌校尉庞参率军追击先零羌残部，在安定郡大败狼莫所部羌军，斩首万余级。持续九年的羌人大起义基本被平定，东汉西北边境恢复平静，但国力已大为损耗。", "latitude": 35.600, "longitude": 105.600, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "哈德良放弃美索不达米亚", "description": "罗马皇帝哈德良下令罗马军队全面撤出美索不达米亚、亚美尼亚和亚述，放弃图拉真在东方的全部新征服领土。他以幼发拉底河为帝国东方天然边界，推行和平稳定的战略方针。", "latitude": 35.500, "longitude": 40.000, "category": "政治", "region": "罗马帝国", "continent": "亚洲" }
+      {
+        "title": "东汉大破先零羌残余势力",
+        "description": "护羌校尉庞参率军追击先零羌残部，在安定郡大败狼莫所部羌军，斩首万余级。持续九年的羌人大起义基本被平定，东汉西北边境恢复平静，但国力已大为损耗。",
+        "latitude": 35.6,
+        "longitude": 105.6,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "哈德良放弃美索不达米亚",
+        "description": "罗马皇帝哈德良下令罗马军队全面撤出美索不达米亚、亚美尼亚和亚述，放弃图拉真在东方的全部新征服领土。他以幼发拉底河为帝国东方天然边界，推行和平稳定的战略方针。",
+        "latitude": 35.5,
+        "longitude": 40.0,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "巴比伦犹太人起义",
+        "description": "美索不达米亚犹太人趁罗马撤退起义。",
+        "latitude": 33.0,
+        "longitude": 44.5,
+        "category": "军事",
+        "region": "犹太",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 117,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉安帝刘祜", "era": "元初四年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉安帝刘祜",
+        "era": "元初四年"
+      }
     ],
     "events": [
-      { "title": "鲜卑部落崛起", "description": "鲜卑首领燕荔阳率部归附东汉，汉安帝封其为鲜卑王。鲜卑逐渐统一蒙古高原东部各部落，开始取代匈奴成为北方草原的新兴势力，为日后鲜卑入主中原埋下伏笔。", "latitude": 43.000, "longitude": 118.000, "category": "政治", "region": "鲜卑", "continent": "亚洲" },
-      { "title": "哈德良巡视不列颠行省", "description": "罗马皇帝哈德良巡视不列颠行省（今英国），视察北部边境。他发现不列颠北部蛮族（苏格兰皮克特人）经常南侵，决定在英格兰北部修建一道横跨全岛的防御长城。", "latitude": 51.500, "longitude": -0.100, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "鲜卑部落崛起",
+        "description": "鲜卑首领燕荔阳率部归附东汉，汉安帝封其为鲜卑王。鲜卑逐渐统一蒙古高原东部各部落，开始取代匈奴成为北方草原的新兴势力，为日后鲜卑入主中原埋下伏笔。",
+        "latitude": 43.0,
+        "longitude": 118.0,
+        "category": "政治",
+        "region": "鲜卑",
+        "continent": "亚洲"
+      },
+      {
+        "title": "哈德良巡视不列颠行省",
+        "description": "罗马皇帝哈德良巡视不列颠行省（今英国），视察北部边境。他发现不列颠北部蛮族（苏格兰皮克特人）经常南侵，决定在英格兰北部修建一道横跨全岛的防御长城。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 118,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉安帝刘祜", "era": "元初五年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉安帝刘祜",
+        "era": "元初五年"
+      }
     ],
     "events": [
-      { "title": "张衡担任太史令", "description": "张衡被东汉朝廷任命为太史令，主管天文历法、候望气象、阴阳卜筮等事务。张衡利用这一职务之便在洛阳灵台潜心研究天文历算，为其在天文学上的卓越成就奠定基础。", "latitude": 34.682, "longitude": 112.470, "category": "科技", "region": "东汉", "continent": "亚洲" },
-      { "title": "哈德良长城始建", "description": "罗马皇帝哈德良巡视不列颠后下令在英格兰北部修建防御长城。哈德良长城西起索尔韦湾，东至泰恩河畔，全长约一百一十七公里，设有堡垒、塔楼和驻军营房，成为罗马帝国最北端的边界防线。", "latitude": 54.990, "longitude": -2.600, "category": "军事", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "张衡担任太史令",
+        "description": "张衡被东汉朝廷任命为太史令，主管天文历法、候望气象、阴阳卜筮等事务。张衡利用这一职务之便在洛阳灵台潜心研究天文历算，为其在天文学上的卓越成就奠定基础。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "科技",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "哈德良长城始建",
+        "description": "罗马皇帝哈德良巡视不列颠后下令在英格兰北部修建防御长城。哈德良长城西起索尔韦湾，东至泰恩河畔，全长约一百一十七公里，设有堡垒、塔楼和驻军营房，成为罗马帝国最北端的边界防线。",
+        "latitude": 54.99,
+        "longitude": -2.6,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "哈德良放弃东方领土",
+        "description": "哈德良收缩帝国东部边界至幼发拉底河。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 119,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉安帝刘祜", "era": "元初六年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉安帝刘祜",
+        "era": "元初六年"
+      }
     ],
     "events": [
-      { "title": "邓太后兴办官学教育", "description": "邓太后下诏在洛阳开办官学，征召皇室子孙及功臣子弟入学。又为皇室子女聘请名师教授经书，推广儒家教育。邓太后本人亦精通经史，常参与经学讨论。", "latitude": 34.682, "longitude": 112.470, "category": "文化", "region": "东汉", "continent": "亚洲" },
-      { "title": "哈德良巡视高卢与日耳曼", "description": "罗马皇帝哈德良在完成不列颠巡视后前往高卢和日耳曼行省，在莱茵河和多瑙河边境视察军团驻地。他下令在日耳曼边境修建木质栅栏防线，以增强边境防御能力。", "latitude": 50.350, "longitude": 7.600, "category": "军事", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "邓太后兴办官学教育",
+        "description": "邓太后下诏在洛阳开办官学，征召皇室子孙及功臣子弟入学。又为皇室子女聘请名师教授经书，推广儒家教育。邓太后本人亦精通经史，常参与经学讨论。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "文化",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "哈德良巡视高卢与日耳曼",
+        "description": "罗马皇帝哈德良在完成不列颠巡视后前往高卢和日耳曼行省，在莱茵河和多瑙河边境视察军团驻地。他下令在日耳曼边境修建木质栅栏防线，以增强边境防御能力。",
+        "latitude": 50.35,
+        "longitude": 7.6,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "不列颠北部防线",
+        "description": "哈德良在不列颠北部建造防御设施。",
+        "latitude": 55.0,
+        "longitude": -2.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 120,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉安帝刘祜", "era": "永宁元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉安帝刘祜",
+        "era": "永宁元年"
+      }
     ],
     "events": [
-      { "title": "汉安帝改元永宁", "description": "汉安帝改元'永宁'，大赦天下。邓太后在经历了长期临朝后渐感身体不支，开始考虑还政于安帝。但邓氏家族已盘根错节，安帝与邓太后之间权力矛盾日益加深。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "西南夷掸国王朝贡", "description": "西南夷掸国（今缅甸一带）国王雍由调派遣使者至洛阳朝贡，献上乐队和幻术师。汉安帝封雍由调为'汉大都尉'，并赐予印绶。这是中国与东南亚地区官方往来的重要记载。", "latitude": 21.900, "longitude": 95.900, "category": "外交", "region": "东汉", "continent": "亚洲" },
-      { "title": "哈德良巡视希腊", "description": "罗马皇帝哈德良巡视希腊，对古希腊文化表现出极大热情。他在雅典参加了厄琉息斯秘仪，参观雅典卫城，资助雅典的水利工程和建筑项目，并推动雅典的文化复兴运动。", "latitude": 37.970, "longitude": 23.720, "category": "文化", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "汉安帝改元永宁",
+        "description": "汉安帝改元'永宁'，大赦天下。邓太后在经历了长期临朝后渐感身体不支，开始考虑还政于安帝。但邓氏家族已盘根错节，安帝与邓太后之间权力矛盾日益加深。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "西南夷掸国王朝贡",
+        "description": "西南夷掸国（今缅甸一带）国王雍由调派遣使者至洛阳朝贡，献上乐队和幻术师。汉安帝封雍由调为'汉大都尉'，并赐予印绶。这是中国与东南亚地区官方往来的重要记载。",
+        "latitude": 21.9,
+        "longitude": 95.9,
+        "category": "外交",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "哈德良巡视希腊",
+        "description": "罗马皇帝哈德良巡视希腊，对古希腊文化表现出极大热情。他在雅典参加了厄琉息斯秘仪，参观雅典卫城，资助雅典的水利工程和建筑项目，并推动雅典的文化复兴运动。",
+        "latitude": 37.97,
+        "longitude": 23.72,
+        "category": "文化",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 121,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉安帝刘祜", "era": "建光元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉安帝刘祜",
+        "era": "建光元年"
+      }
     ],
     "events": [
-      { "title": "邓太后驾崩，汉安帝亲政", "description": "邓太后病逝，汉安帝开始亲政。安帝痛恨邓氏外戚长期专权，立即下令清算邓氏家族，邓骘等邓氏子弟被免官削爵或逼死。邓氏外戚势力被彻底铲除。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "宦官与乳母王圣掌权", "description": "汉安帝亲政后，重用乳母王圣、宦官李闰和江京等人。这些人把持朝政、安插亲信、排斥异己。朝政从此由外戚专权转入宦官弄权阶段，东汉政治进一步腐化。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "杨震因直谏被贬自杀", "description": "太尉杨震因多次上书直谏弹劾宦官及其党羽，触怒汉安帝。安帝下诏将杨震免官遣归乡里，杨震行至洛阳城西夕阳亭时饮鸩自杀，留下'清白吏子孙'的千古名言。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "邓太后驾崩，汉安帝亲政",
+        "description": "邓太后病逝，汉安帝开始亲政。安帝痛恨邓氏外戚长期专权，立即下令清算邓氏家族，邓骘等邓氏子弟被免官削爵或逼死。邓氏外戚势力被彻底铲除。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "宦官与乳母王圣掌权",
+        "description": "汉安帝亲政后，重用乳母王圣、宦官李闰和江京等人。这些人把持朝政、安插亲信、排斥异己。朝政从此由外戚专权转入宦官弄权阶段，东汉政治进一步腐化。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "杨震因直谏被贬自杀",
+        "description": "太尉杨震因多次上书直谏弹劾宦官及其党羽，触怒汉安帝。安帝下诏将杨震免官遣归乡里，杨震行至洛阳城西夕阳亭时饮鸩自杀，留下'清白吏子孙'的千古名言。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "哈德良视察不列颠",
+        "description": "哈德良巡视不列颠，下令修建哈德良长城。",
+        "latitude": 55.0,
+        "longitude": -2.0,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 122,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉安帝刘祜", "era": "延光元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉安帝刘祜",
+        "era": "延光元年"
+      }
     ],
     "events": [
-      { "title": "汉安帝改元延光", "description": "汉安帝改年号'延光'，大赦天下。宦官继续把持朝政，卖官鬻爵成风。朝中正直之士或被排挤或遭迫害，东汉官场腐败日益严重，社会矛盾日趋尖锐。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "哈德良巡视埃及", "description": "罗马皇帝哈德良巡视埃及行省，前往亚历山大港参观庞培柱和法罗斯灯塔。哈德良在尼罗河上航行游览，参观底比斯和卢克索的古迹，还下令重建了一座被毁的图书馆。", "latitude": 30.050, "longitude": 31.240, "category": "政治", "region": "罗马帝国", "continent": "非洲" }
+      {
+        "title": "汉安帝改元延光",
+        "description": "汉安帝改年号'延光'，大赦天下。宦官继续把持朝政，卖官鬻爵成风。朝中正直之士或被排挤或遭迫害，东汉官场腐败日益严重，社会矛盾日趋尖锐。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "哈德良巡视埃及",
+        "description": "罗马皇帝哈德良巡视埃及行省，前往亚历山大港参观庞培柱和法罗斯灯塔。哈德良在尼罗河上航行游览，参观底比斯和卢克索的古迹，还下令重建了一座被毁的图书馆。",
+        "latitude": 30.05,
+        "longitude": 31.24,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "非洲"
+      }
     ]
   },
   {
     "year": 123,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉安帝刘祜", "era": "延光二年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉安帝刘祜",
+        "era": "延光二年"
+      }
     ],
     "events": [
-      { "title": "东汉复通西域", "description": "敦煌太守张珰上书朝廷建议重新经营西域，班超之子班勇被任命为西域长史，率兵五百人出屯柳中。班勇以抚绥策略重新招抚西域各国，东汉势力再次进入西域。", "latitude": 42.700, "longitude": 89.500, "category": "外交", "region": "东汉", "continent": "亚洲" },
-      { "title": "鲜卑连年入寇", "description": "鲜卑首领燕荔阳去世后，鲜卑各部不再受约束，连年入侵东汉辽东、代郡和上谷等地。东汉边军屡战不利，北方边境再度紧张。鲜卑取代匈奴成为北方最强势力。", "latitude": 41.000, "longitude": 115.000, "category": "军事", "region": "鲜卑", "continent": "亚洲" }
+      {
+        "title": "东汉复通西域",
+        "description": "敦煌太守张珰上书朝廷建议重新经营西域，班超之子班勇被任命为西域长史，率兵五百人出屯柳中。班勇以抚绥策略重新招抚西域各国，东汉势力再次进入西域。",
+        "latitude": 42.7,
+        "longitude": 89.5,
+        "category": "外交",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "鲜卑连年入寇",
+        "description": "鲜卑首领燕荔阳去世后，鲜卑各部不再受约束，连年入侵东汉辽东、代郡和上谷等地。东汉边军屡战不利，北方边境再度紧张。鲜卑取代匈奴成为北方最强势力。",
+        "latitude": 41.0,
+        "longitude": 115.0,
+        "category": "军事",
+        "region": "鲜卑",
+        "continent": "亚洲"
+      },
+      {
+        "title": "日耳曼防线加固",
+        "description": "罗马在多瑙河上游加固边境。",
+        "latitude": 50.0,
+        "longitude": 10.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 124,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉安帝刘祜", "era": "延光三年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉安帝刘祜",
+        "era": "延光三年"
+      }
     ],
     "events": [
-      { "title": "汉安帝废太子刘保", "description": "汉安帝听信乳母王圣和宦官谗言，废黜太子刘保为济阴王。朝中大臣多不敢言，唯有太仆来历等人极力劝谏。太子被废引起朝野震动，为日后顺帝时期的政局动荡埋下伏笔。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "班勇经营西域成效显著", "description": "西域长史班勇以柳中为根据地，招抚车师前部、鄯善、疏勒等国归附东汉。班勇在车师前部率兵击败北匈奴伊蠡王，收复车师后部，东汉在西域的威望逐渐恢复。", "latitude": 42.700, "longitude": 89.500, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "哈德良巡视小亚细亚", "description": "罗马皇帝哈德良巡视小亚细亚各行省，在士麦那、以弗所和特洛伊等地停留。他资助了当地许多建筑项目，包括修建神庙、剧场和输水道，推广希腊文化。", "latitude": 38.400, "longitude": 27.200, "category": "政治", "region": "罗马帝国", "continent": "亚洲" }
+      {
+        "title": "汉安帝废太子刘保",
+        "description": "汉安帝听信乳母王圣和宦官谗言，废黜太子刘保为济阴王。朝中大臣多不敢言，唯有太仆来历等人极力劝谏。太子被废引起朝野震动，为日后顺帝时期的政局动荡埋下伏笔。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "班勇经营西域成效显著",
+        "description": "西域长史班勇以柳中为根据地，招抚车师前部、鄯善、疏勒等国归附东汉。班勇在车师前部率兵击败北匈奴伊蠡王，收复车师后部，东汉在西域的威望逐渐恢复。",
+        "latitude": 42.7,
+        "longitude": 89.5,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "哈德良巡视小亚细亚",
+        "description": "罗马皇帝哈德良巡视小亚细亚各行省，在士麦那、以弗所和特洛伊等地停留。他资助了当地许多建筑项目，包括修建神庙、剧场和输水道，推广希腊文化。",
+        "latitude": 38.4,
+        "longitude": 27.2,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "希腊文化复兴",
+        "description": "哈德良在雅典赞助希腊文化和艺术。",
+        "latitude": 38.0,
+        "longitude": 23.7,
+        "category": "文化",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 125,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉安帝刘祜", "era": "延光四年" },
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉顺帝刘保", "era": "永建元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉安帝刘祜",
+        "era": "延光四年"
+      },
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉顺帝刘保",
+        "era": "永建元年"
+      }
     ],
     "events": [
-      { "title": "汉安帝南巡途中驾崩", "description": "汉安帝刘祜在南巡途中于叶城（今河南叶县）患病驾崩，终年三十二岁。皇后阎氏与宦官江京、阎显密不发丧，迅速返回洛阳后才公布死讯，阎氏开始策划拥立新帝。", "latitude": 33.500, "longitude": 113.300, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "阎太后立北乡侯刘懿", "description": "阎太后与兄长阎显合谋，废黜原太子刘保的继承权，迎立汉章帝之孙北乡侯刘懿为帝。阎氏家族把持朝政，大肆排斥异己，阎氏外戚势力迅速膨胀。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "宦官孙程等发动宫廷政变", "description": "北乡侯刘懿即位二百余日即病逝。宦官孙程、王康等十九人合谋，在宫中发动政变杀死江京等人，迎立被废的济阴王刘保为帝，是为汉顺帝。阎显等外戚被诛杀，阎太后被软禁。孙程等十九人同日封侯，宦官势力空前膨胀。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "汉安帝南巡途中驾崩",
+        "description": "汉安帝刘祜在南巡途中于叶城（今河南叶县）患病驾崩，终年三十二岁。皇后阎氏与宦官江京、阎显密不发丧，迅速返回洛阳后才公布死讯，阎氏开始策划拥立新帝。",
+        "latitude": 33.5,
+        "longitude": 113.3,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阎太后立北乡侯刘懿",
+        "description": "阎太后与兄长阎显合谋，废黜原太子刘保的继承权，迎立汉章帝之孙北乡侯刘懿为帝。阎氏家族把持朝政，大肆排斥异己，阎氏外戚势力迅速膨胀。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "宦官孙程等发动宫廷政变",
+        "description": "北乡侯刘懿即位二百余日即病逝。宦官孙程、王康等十九人合谋，在宫中发动政变杀死江京等人，迎立被废的济阴王刘保为帝，是为汉顺帝。阎显等外戚被诛杀，阎太后被软禁。孙程等十九人同日封侯，宦官势力空前膨胀。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 126,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉顺帝刘保", "era": "永建元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉顺帝刘保",
+        "era": "永建元年"
+      }
     ],
     "events": [
-      { "title": "汉顺帝清算阎氏余党", "description": "汉顺帝刘保亲政后下诏彻底清算阎氏外戚势力，将阎显及其党羽全部处死或流放。顺帝封赏孙程等拥立功臣，十九位宦官同日封侯，史称'十九侯'。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "班勇大破北匈奴", "description": "西域长史班勇率西域诸国联军大举进攻北匈奴，在车师后部地区大破北匈奴呼延王军。班勇乘胜追击，收复天山以北的大片领土，北匈奴被迫向西远遁。", "latitude": 43.500, "longitude": 88.000, "category": "军事", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "汉顺帝清算阎氏余党",
+        "description": "汉顺帝刘保亲政后下诏彻底清算阎氏外戚势力，将阎显及其党羽全部处死或流放。顺帝封赏孙程等拥立功臣，十九位宦官同日封侯，史称'十九侯'。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "班勇大破北匈奴",
+        "description": "西域长史班勇率西域诸国联军大举进攻北匈奴，在车师后部地区大破北匈奴呼延王军。班勇乘胜追击，收复天山以北的大片领土，北匈奴被迫向西远遁。",
+        "latitude": 43.5,
+        "longitude": 88.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "哈德良在罗马建造陵墓",
+        "description": "哈德良开始建造自己的陵墓（现圣天使堡）。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "文化",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 127,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉顺帝刘保", "era": "永建二年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉顺帝刘保",
+        "era": "永建二年"
+      }
     ],
     "events": [
-      { "title": "班勇招降西域诸国", "description": "西域长史班勇继续招抚西域诸国，焉耆、龟兹、疏勒、于阗等十七国先后归附东汉。班勇在各国王城设立汉朝官署，恢复东汉对西域的宗主权。", "latitude": 41.700, "longitude": 82.900, "category": "外交", "region": "东汉", "continent": "亚洲" },
-      { "title": "汉顺帝整肃吏治", "description": "汉顺帝下诏要求各地推举贤良方正之士，又派侍中、尚书等官员到各地巡视吏治、考察民情。朝廷试图以此整顿腐败官场，但宦官势力已成尾大不掉之势。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "哈德良返回罗马", "description": "罗马皇帝哈德良结束长达七年的帝国巡视，返回罗马城。他亲自监督万神殿的重建工程，这座宏伟建筑以其巨大的穹顶成为罗马建筑史上的杰作。", "latitude": 41.893, "longitude": 12.485, "category": "文化", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "班勇招降西域诸国",
+        "description": "西域长史班勇继续招抚西域诸国，焉耆、龟兹、疏勒、于阗等十七国先后归附东汉。班勇在各国王城设立汉朝官署，恢复东汉对西域的宗主权。",
+        "latitude": 41.7,
+        "longitude": 82.9,
+        "category": "外交",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉顺帝整肃吏治",
+        "description": "汉顺帝下诏要求各地推举贤良方正之士，又派侍中、尚书等官员到各地巡视吏治、考察民情。朝廷试图以此整顿腐败官场，但宦官势力已成尾大不掉之势。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "哈德良返回罗马",
+        "description": "罗马皇帝哈德良结束长达七年的帝国巡视，返回罗马城。他亲自监督万神殿的重建工程，这座宏伟建筑以其巨大的穹顶成为罗马建筑史上的杰作。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "文化",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "罗马法律体系精进",
+        "description": "哈德良委托整理《永久敕令》规范法律。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 128,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉顺帝刘保", "era": "永建三年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉顺帝刘保",
+        "era": "永建三年"
+      }
     ],
     "events": [
-      { "title": "洛阳地震频发", "description": "本年洛阳及周边地区多次发生地震，朝廷下令开仓赈灾、减免赋税。汉顺帝下诏要求百官上书言事，检讨朝政得失。张衡时任太史令，正致力于研究地震监测技术。", "latitude": 34.682, "longitude": 112.470, "category": "社会", "region": "东汉", "continent": "亚洲" },
-      { "title": "哈德良重建万神殿", "description": "罗马皇帝哈德良主持重建的万神殿正式建成。新万神殿采用圆形穹顶结构，穹顶直径达四十三米，顶部开有直径为八点九米的圆形天窗。这座建筑被誉为罗马建筑史上的巅峰之作。", "latitude": 41.899, "longitude": 12.477, "category": "文化", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "洛阳地震频发",
+        "description": "本年洛阳及周边地区多次发生地震，朝廷下令开仓赈灾、减免赋税。汉顺帝下诏要求百官上书言事，检讨朝政得失。张衡时任太史令，正致力于研究地震监测技术。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "社会",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "哈德良重建万神殿",
+        "description": "罗马皇帝哈德良主持重建的万神殿正式建成。新万神殿采用圆形穹顶结构，穹顶直径达四十三米，顶部开有直径为八点九米的圆形天窗。这座建筑被誉为罗马建筑史上的巅峰之作。",
+        "latitude": 41.899,
+        "longitude": 12.477,
+        "category": "文化",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "哈德良视察非洲行省",
+        "description": "哈德良巡视北非罗马行省。",
+        "latitude": 36.0,
+        "longitude": 8.0,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "非洲"
+      }
     ]
   },
   {
     "year": 129,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉顺帝刘保", "era": "永建四年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉顺帝刘保",
+        "era": "永建四年"
+      }
     ],
     "events": [
-      { "title": "东汉恢复凉州建制", "description": "汉顺帝下诏正式恢复凉州各郡的地方行政建制，将此前因羌乱内迁的郡县迁回原址。朝廷拨款重建城池、开垦荒地、安置流民，凉州地区逐步恢复生机。", "latitude": 36.600, "longitude": 104.200, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "贵霜帝国与东汉通使", "description": "贵霜帝国（大月氏）国王韦苏提婆一世派遣使者经西域抵达洛阳，与东汉建立正式外交关系。汉顺帝设宴款待贵霜使者，并以礼回赠丝绸和漆器。", "latitude": 34.682, "longitude": 112.470, "category": "外交", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "东汉恢复凉州建制",
+        "description": "汉顺帝下诏正式恢复凉州各郡的地方行政建制，将此前因羌乱内迁的郡县迁回原址。朝廷拨款重建城池、开垦荒地、安置流民，凉州地区逐步恢复生机。",
+        "latitude": 36.6,
+        "longitude": 104.2,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "贵霜帝国与东汉通使",
+        "description": "贵霜帝国（大月氏）国王韦苏提婆一世派遣使者经西域抵达洛阳，与东汉建立正式外交关系。汉顺帝设宴款待贵霜使者，并以礼回赠丝绸和漆器。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "外交",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "哈德良在埃及视察",
+        "description": "哈德良巡视埃及亚历山大城。",
+        "latitude": 31.2,
+        "longitude": 29.9,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "非洲"
+      }
     ]
   },
   {
     "year": 130,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉顺帝刘保", "era": "永建五年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉顺帝刘保",
+        "era": "永建五年"
+      }
     ],
     "events": [
-      { "title": "张衡绘制地动仪原理草图", "description": "太史令张衡经过长期的天文观测和地震记录研究，开始设计一种能够远距离感知地震方向的仪器。他利用精密的机械原理和铜铸工艺，着手制造人类历史上第一台地震监测仪器。", "latitude": 34.682, "longitude": 112.470, "category": "科技", "region": "东汉", "continent": "亚洲" },
-      { "title": "哈德良巡视北非", "description": "罗马皇帝哈德良巡视北非行省，视察位于现今阿尔及利亚的第三奥古斯塔军团驻地。他在北非推动了大量农业和水利工程，鼓励行省城市化发展。", "latitude": 36.700, "longitude": 3.200, "category": "政治", "region": "罗马帝国", "continent": "非洲" }
+      {
+        "title": "张衡绘制地动仪原理草图",
+        "description": "太史令张衡经过长期的天文观测和地震记录研究，开始设计一种能够远距离感知地震方向的仪器。他利用精密的机械原理和铜铸工艺，着手制造人类历史上第一台地震监测仪器。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "科技",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "哈德良巡视北非",
+        "description": "罗马皇帝哈德良巡视北非行省，视察位于现今阿尔及利亚的第三奥古斯塔军团驻地。他在北非推动了大量农业和水利工程，鼓励行省城市化发展。",
+        "latitude": 36.7,
+        "longitude": 3.2,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "非洲"
+      },
+      {
+        "title": "安提诺乌斯溺亡",
+        "description": "哈德良宠臣安提诺乌斯在尼罗河溺亡。",
+        "latitude": 27.0,
+        "longitude": 33.0,
+        "category": "社会",
+        "region": "罗马帝国",
+        "continent": "非洲"
+      }
     ]
   },
   {
     "year": 131,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉顺帝刘保", "era": "永建六年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉顺帝刘保",
+        "era": "永建六年"
+      }
     ],
     "events": [
-      { "title": "东汉扩建太学", "description": "汉顺帝下诏大规模扩建洛阳太学，新建校舍二百四十间、一千八百五十室。太学生人数猛增至三万人，洛阳太学成为当时世界上最庞大的高等学府和学术中心。", "latitude": 34.682, "longitude": 112.470, "category": "文化", "region": "东汉", "continent": "亚洲" },
-      { "title": "张衡造浑天仪", "description": "太史令张衡铸造成功新型浑天仪，以水力驱动自动运转。浑天仪以铜铸成球体，上刻日月星辰、二十八宿和赤道黄道，通过齿轮与漏壶联动，能够演示天体运行状况，精准模拟天文现象。", "latitude": 34.682, "longitude": 112.470, "category": "科技", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "东汉扩建太学",
+        "description": "汉顺帝下诏大规模扩建洛阳太学，新建校舍二百四十间、一千八百五十室。太学生人数猛增至三万人，洛阳太学成为当时世界上最庞大的高等学府和学术中心。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "文化",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "张衡造浑天仪",
+        "description": "太史令张衡铸造成功新型浑天仪，以水力驱动自动运转。浑天仪以铜铸成球体，上刻日月星辰、二十八宿和赤道黄道，通过齿轮与漏壶联动，能够演示天体运行状况，精准模拟天文现象。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "科技",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "哈德良在比提尼亚",
+        "description": "哈德良巡视小亚细亚行省。",
+        "latitude": 40.0,
+        "longitude": 30.0,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 132,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉顺帝刘保", "era": "阳嘉元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉顺帝刘保",
+        "era": "阳嘉元年"
+      }
     ],
     "events": [
-      { "title": "张衡发明地动仪", "description": "太史令张衡在洛阳研制成功世界上第一台地震监测仪器——地动仪。仪器以精铜铸造，外形如酒樽，中有立柱连接八个方向的龙首铜球。某方向发生地震时对应方向龙口吐珠落入蟾蜍口中，可准确指示地震方位。", "latitude": 34.682, "longitude": 112.470, "category": "科技", "region": "东汉", "continent": "亚洲" },
-      { "title": "汉顺帝改革察举制度", "description": "尚书令左雄上书建议改革察举制度，汉顺帝采纳其建议，规定举孝廉者年龄须满四十岁，且需经过严格的考试选拔方能授官。这一改革打破了门阀世族对选官制度的垄断。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "犹太战争爆发——巴尔·科赫巴起义", "description": "罗马皇帝哈德良禁止犹太人举行割礼和在耶路撒冷建立圣殿，引发犹太人大规模起义。西蒙·巴尔·科赫巴被拥立为'弥赛亚'（救世主），率领犹太人攻占耶路撒冷，宣布犹太国独立。", "latitude": 31.768, "longitude": 35.214, "category": "军事", "region": "罗马帝国", "continent": "亚洲" }
+      {
+        "title": "张衡发明地动仪",
+        "description": "太史令张衡在洛阳研制成功世界上第一台地震监测仪器——地动仪。仪器以精铜铸造，外形如酒樽，中有立柱连接八个方向的龙首铜球。某方向发生地震时对应方向龙口吐珠落入蟾蜍口中，可准确指示地震方位。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "科技",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉顺帝改革察举制度",
+        "description": "尚书令左雄上书建议改革察举制度，汉顺帝采纳其建议，规定举孝廉者年龄须满四十岁，且需经过严格的考试选拔方能授官。这一改革打破了门阀世族对选官制度的垄断。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "犹太战争爆发——巴尔·科赫巴起义",
+        "description": "罗马皇帝哈德良禁止犹太人举行割礼和在耶路撒冷建立圣殿，引发犹太人大规模起义。西蒙·巴尔·科赫巴被拥立为'弥赛亚'（救世主），率领犹太人攻占耶路撒冷，宣布犹太国独立。",
+        "latitude": 31.768,
+        "longitude": 35.214,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 133,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉顺帝刘保", "era": "阳嘉二年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉顺帝刘保",
+        "era": "阳嘉二年"
+      }
     ],
     "events": [
-      { "title": "地动仪测试成功", "description": "地动仪安装后不久，仪器西域方向的龙首突然吐珠。数日后驿站快马送来陇西郡地震报告，证实地动仪准确测出了千里之外的地震。朝野上下对张衡的地动仪惊叹不已。", "latitude": 34.682, "longitude": 112.470, "category": "科技", "region": "东汉", "continent": "亚洲" },
-      { "title": "哈德良镇压犹太起义", "description": "罗马皇帝哈德良派遣大将尤利乌斯·塞维鲁率大军镇压犹太起义。罗马军队采取围困战术逐个攻克犹太城镇，战斗极其惨烈，数十万犹太人被杀，城镇被毁。", "latitude": 31.768, "longitude": 35.214, "category": "军事", "region": "罗马帝国", "continent": "亚洲" }
+      {
+        "title": "地动仪测试成功",
+        "description": "地动仪安装后不久，仪器西域方向的龙首突然吐珠。数日后驿站快马送来陇西郡地震报告，证实地动仪准确测出了千里之外的地震。朝野上下对张衡的地动仪惊叹不已。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "科技",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "哈德良镇压犹太起义",
+        "description": "罗马皇帝哈德良派遣大将尤利乌斯·塞维鲁率大军镇压犹太起义。罗马军队采取围困战术逐个攻克犹太城镇，战斗极其惨烈，数十万犹太人被杀，城镇被毁。",
+        "latitude": 31.768,
+        "longitude": 35.214,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马战利品神庙",
+        "description": "哈德良建造罗马神庙和万神殿。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "文化",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 134,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉顺帝刘保", "era": "阳嘉三年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉顺帝刘保",
+        "era": "阳嘉三年"
+      }
     ],
     "events": [
-      { "title": "东汉后宫仪制改革", "description": "汉顺帝改革后宫制度，立梁妠为皇后。梁皇后为名门之后，知书达理，但梁氏家族由此进入权力核心。梁皇后的父亲梁商被任命为执金吾，梁氏外戚势力开始萌发。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "巴尔·科赫巴起义失败", "description": "犹太起义军最后的堡垒贝塔尔城被罗马军队攻陷，巴尔·科赫巴战死。罗马军队在全犹太地区进行大规模清剿，约五十八万犹太人被杀。哈德良彻底铲平耶路撒冷，在原址上建立罗马城市埃利亚·卡皮托利纳，禁止犹太人进入。", "latitude": 31.768, "longitude": 35.214, "category": "军事", "region": "罗马帝国", "continent": "亚洲" }
+      {
+        "title": "东汉后宫仪制改革",
+        "description": "汉顺帝改革后宫制度，立梁妠为皇后。梁皇后为名门之后，知书达理，但梁氏家族由此进入权力核心。梁皇后的父亲梁商被任命为执金吾，梁氏外戚势力开始萌发。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "巴尔·科赫巴起义失败",
+        "description": "犹太起义军最后的堡垒贝塔尔城被罗马军队攻陷，巴尔·科赫巴战死。罗马军队在全犹太地区进行大规模清剿，约五十八万犹太人被杀。哈德良彻底铲平耶路撒冷，在原址上建立罗马城市埃利亚·卡皮托利纳，禁止犹太人进入。",
+        "latitude": 31.768,
+        "longitude": 35.214,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "犹太遗址罗马化",
+        "description": "哈德良在耶路撒冷废墟上建造埃利亚卡皮托利纳。",
+        "latitude": 31.8,
+        "longitude": 35.2,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 135,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉顺帝刘保", "era": "阳嘉四年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉顺帝刘保",
+        "era": "阳嘉四年"
+      }
     ],
     "events": [
-      { "title": "梁商出任大将军", "description": "梁皇后的父亲梁商被任命为大将军，总揽朝政。梁商为人谦逊、礼贤下士，提拔了一批名士贤臣。他在位期间朝政较为清明，但梁氏外戚专权的格局已基本形成。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "张衡上疏请求禁绝图谶", "description": "张衡上书汉顺帝，痛陈谶纬之学虚妄荒诞、败坏学术。他主张禁绝图谶、恢复正统儒学。张衡的理性精神在东汉迷信盛行的时代显得尤为珍贵，但他的建议未被采纳。", "latitude": 34.682, "longitude": 112.470, "category": "文化", "region": "东汉", "continent": "亚洲" },
-      { "title": "哈德良健康恶化", "description": "罗马皇帝哈德良健康状况持续恶化，身患水肿等多种疾病。他在罗马城外的蒂沃利别墅中休养，处理帝国日常政务之余越来越多地思考继承人和身后之事。", "latitude": 41.893, "longitude": 12.485, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "梁商出任大将军",
+        "description": "梁皇后的父亲梁商被任命为大将军，总揽朝政。梁商为人谦逊、礼贤下士，提拔了一批名士贤臣。他在位期间朝政较为清明，但梁氏外戚专权的格局已基本形成。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "张衡上疏请求禁绝图谶",
+        "description": "张衡上书汉顺帝，痛陈谶纬之学虚妄荒诞、败坏学术。他主张禁绝图谶、恢复正统儒学。张衡的理性精神在东汉迷信盛行的时代显得尤为珍贵，但他的建议未被采纳。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "文化",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "哈德良健康恶化",
+        "description": "罗马皇帝哈德良健康状况持续恶化，身患水肿等多种疾病。他在罗马城外的蒂沃利别墅中休养，处理帝国日常政务之余越来越多地思考继承人和身后之事。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 136,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉顺帝刘保", "era": "永和元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉顺帝刘保",
+        "era": "永和元年"
+      }
     ],
     "events": [
-      { "title": "汉顺帝改元永和", "description": "汉顺帝改年号'永和'，大赦天下。梁商继续执掌朝政，但在朝中地位日益受到宦官的挑战。朝中形成外戚与宦官两大势力相互牵制的局面。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "张衡告老还乡著书立说", "description": "张衡因宦官当道、朝政昏暗而心灰意冷，上书请求辞去太史令之职。汉顺帝不准其辞官，改任其为河间相。张衡在河间任上仍致力于天文历算和文学创作。", "latitude": 38.440, "longitude": 116.100, "category": "文化", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "汉顺帝改元永和",
+        "description": "汉顺帝改年号'永和'，大赦天下。梁商继续执掌朝政，但在朝中地位日益受到宦官的挑战。朝中形成外戚与宦官两大势力相互牵制的局面。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "张衡告老还乡著书立说",
+        "description": "张衡因宦官当道、朝政昏暗而心灰意冷，上书请求辞去太史令之职。汉顺帝不准其辞官，改任其为河间相。张衡在河间任上仍致力于天文历算和文学创作。",
+        "latitude": 38.44,
+        "longitude": 116.1,
+        "category": "文化",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马边境内移",
+        "description": "哈德良在不列颠和多瑙河巩固边境。",
+        "latitude": 51.0,
+        "longitude": -2.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 137,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉顺帝刘保", "era": "永和二年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉顺帝刘保",
+        "era": "永和二年"
+      }
     ],
     "events": [
-      { "title": "东汉与南匈奴联合征讨鲜卑", "description": "南匈奴首领吾斯、车纽等联合乌桓、羌胡部落反叛东汉。东汉朝廷派遣张耽率军平叛，在雁门关大破吾斯军。南匈奴叛乱对东汉北部边防造成了严重冲击。", "latitude": 39.500, "longitude": 112.300, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "安东尼努斯·庇护就任罗马皇帝", "description": "罗马皇帝哈德良病逝，临终前指定安东尼努斯·庇护为继承人。安东尼努斯时年五十一岁，就任后立即为哈德良举行神化仪式，获元老院授予'庇护'（虔诚者）尊号。", "latitude": 41.893, "longitude": 12.485, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "东汉与南匈奴联合征讨鲜卑",
+        "description": "南匈奴首领吾斯、车纽等联合乌桓、羌胡部落反叛东汉。东汉朝廷派遣张耽率军平叛，在雁门关大破吾斯军。南匈奴叛乱对东汉北部边防造成了严重冲击。",
+        "latitude": 39.5,
+        "longitude": 112.3,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "安东尼努斯·庇护就任罗马皇帝",
+        "description": "罗马皇帝哈德良病逝，临终前指定安东尼努斯·庇护为继承人。安东尼努斯时年五十一岁，就任后立即为哈德良举行神化仪式，获元老院授予'庇护'（虔诚者）尊号。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "哈德良健康状况恶化",
+        "description": "哈德良疾病缠身，指定安东尼为继承人。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 138,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉顺帝刘保", "era": "永和三年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉顺帝刘保",
+        "era": "永和三年"
+      }
     ],
     "events": [
-      { "title": "南匈奴叛乱持续", "description": "南匈奴左部句龙王吾斯等继续举兵叛乱，联合乌桓部众攻打东汉并州、朔方等地。东汉派遣度辽将军马续率军征讨，双方互有胜负，边境陷入长期拉锯战。", "latitude": 40.000, "longitude": 111.000, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "张衡临终作《归田赋》", "description": "张衡在河间相任上病重，临终前写下《归田赋》，表达对官场黑暗的厌倦和对田园生活的向往。张衡不久后去世，终年六十二岁。他被后世尊为科圣，在文学、天文、数学、机械等领域均有卓越贡献。", "latitude": 38.440, "longitude": 116.100, "category": "文化", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "南匈奴叛乱持续",
+        "description": "南匈奴左部句龙王吾斯等继续举兵叛乱，联合乌桓部众攻打东汉并州、朔方等地。东汉派遣度辽将军马续率军征讨，双方互有胜负，边境陷入长期拉锯战。",
+        "latitude": 40.0,
+        "longitude": 111.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "张衡临终作《归田赋》",
+        "description": "张衡在河间相任上病重，临终前写下《归田赋》，表达对官场黑暗的厌倦和对田园生活的向往。张衡不久后去世，终年六十二岁。他被后世尊为科圣，在文学、天文、数学、机械等领域均有卓越贡献。",
+        "latitude": 38.44,
+        "longitude": 116.1,
+        "category": "文化",
+        "region": "东汉",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 139,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉顺帝刘保", "era": "永和四年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉顺帝刘保",
+        "era": "永和四年"
+      }
     ],
     "events": [
-      { "title": "东汉对羌作战失利", "description": "东汉将领马贤率军讨伐羌人，在射姑山被羌军击败。马贤及其两个儿子战死沙场，东汉军队伤亡惨重。羌人乘机攻掠陇西、汉阳等地，西北边境形势再度恶化。", "latitude": 35.000, "longitude": 104.500, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "罗马修复哈德良长城", "description": "罗马皇帝安东尼努斯·庇护在哈德良长城以北一百六十公里处新修一道防御工事——安东尼长城。同时下令加强不列颠行省的防御力量，防止北方皮克特人南侵。", "latitude": 55.900, "longitude": -4.000, "category": "军事", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "东汉对羌作战失利",
+        "description": "东汉将领马贤率军讨伐羌人，在射姑山被羌军击败。马贤及其两个儿子战死沙场，东汉军队伤亡惨重。羌人乘机攻掠陇西、汉阳等地，西北边境形势再度恶化。",
+        "latitude": 35.0,
+        "longitude": 104.5,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马修复哈德良长城",
+        "description": "罗马皇帝安东尼努斯·庇护在哈德良长城以北一百六十公里处新修一道防御工事——安东尼长城。同时下令加强不列颠行省的防御力量，防止北方皮克特人南侵。",
+        "latitude": 55.9,
+        "longitude": -4.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "安东尼庇护大兴土木",
+        "description": "安东尼庇护在罗马建造神庙和公共建筑。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "文化",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 140,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉顺帝刘保", "era": "永和五年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉顺帝刘保",
+        "era": "永和五年"
+      }
     ],
     "events": [
-      { "title": "南匈奴叛乱扩大", "description": "南匈奴句龙吾斯与车纽等拥立句龙王为单于，攻掠并州、西河、朔方等郡。东汉征调十万大军分路进剿，但诸将各自为战未能形成合力，叛乱持续蔓延。", "latitude": 40.000, "longitude": 111.000, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "东汉灾荒频发", "description": "本年京师及各地发生严重水旱灾害，洛阳大雨成灾，冀州、徐州等地的蝗灾肆虐。灾民大量饿死或流亡。朝廷的赈灾措施杯水车薪，各地已有小规模农民起义爆发。", "latitude": 36.000, "longitude": 115.000, "category": "社会", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "南匈奴叛乱扩大",
+        "description": "南匈奴句龙吾斯与车纽等拥立句龙王为单于，攻掠并州、西河、朔方等郡。东汉征调十万大军分路进剿，但诸将各自为战未能形成合力，叛乱持续蔓延。",
+        "latitude": 40.0,
+        "longitude": 111.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "东汉灾荒频发",
+        "description": "本年京师及各地发生严重水旱灾害，洛阳大雨成灾，冀州、徐州等地的蝗灾肆虐。灾民大量饿死或流亡。朝廷的赈灾措施杯水车薪，各地已有小规模农民起义爆发。",
+        "latitude": 36.0,
+        "longitude": 115.0,
+        "category": "社会",
+        "region": "东汉",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 141,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉顺帝刘保", "era": "永和六年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉顺帝刘保",
+        "era": "永和六年"
+      }
     ],
     "events": [
-      { "title": "东汉平定南匈奴之乱", "description": "东汉中郎将张耽率军在通天山（今山西石楼一带）大破南匈奴叛军，斩杀句龙吾斯，招降数万部众。持续数年的南匈奴之乱基本被平定，边境暂时恢复安定。", "latitude": 37.500, "longitude": 111.000, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "梁商去世，梁冀继任", "description": "大将军梁商病逝，其子梁冀继任大将军。梁冀为人残暴骄横，与乃父梁商的谦逊截然不同。他一上任就大肆安插亲信、排除异己，开启了东汉历史上最腐败的外戚统治。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "东汉平定南匈奴之乱",
+        "description": "东汉中郎将张耽率军在通天山（今山西石楼一带）大破南匈奴叛军，斩杀句龙吾斯，招降数万部众。持续数年的南匈奴之乱基本被平定，边境暂时恢复安定。",
+        "latitude": 37.5,
+        "longitude": 111.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "梁商去世，梁冀继任",
+        "description": "大将军梁商病逝，其子梁冀继任大将军。梁冀为人残暴骄横，与乃父梁商的谦逊截然不同。他一上任就大肆安插亲信、排除异己，开启了东汉历史上最腐败的外戚统治。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马帝国边疆稳定",
+        "description": "安东尼庇护统治时期罗马边境总体和平。",
+        "latitude": 50.0,
+        "longitude": 9.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 142,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉顺帝刘保", "era": "汉安元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉顺帝刘保",
+        "era": "汉安元年"
+      }
     ],
     "events": [
-      { "title": "汉顺帝改元汉安", "description": "汉顺帝改元'汉安'，大赦天下。汉顺帝派遣杜乔、周举、张纲等八名使者分巡天下州郡，考察吏治。张纲出巡至洛阳都亭时慨然叹曰：'豺狼当路，安问狐狸！'遂上书弹劾大将军梁冀。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "张纲弹劾梁冀震动朝野", "description": "张纲上书历数大将军梁冀十五条大罪，指出梁冀是'天威所不赦、大辟所宜加'的首恶。奏疏送达后京城震动，但汉顺帝因惧怕梁冀势力不敢将其治罪，仅召张纲入宫安慰了事。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "汉顺帝改元汉安",
+        "description": "汉顺帝改元'汉安'，大赦天下。汉顺帝派遣杜乔、周举、张纲等八名使者分巡天下州郡，考察吏治。张纲出巡至洛阳都亭时慨然叹曰：'豺狼当路，安问狐狸！'遂上书弹劾大将军梁冀。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "张纲弹劾梁冀震动朝野",
+        "description": "张纲上书历数大将军梁冀十五条大罪，指出梁冀是'天威所不赦、大辟所宜加'的首恶。奏疏送达后京城震动，但汉顺帝因惧怕梁冀势力不敢将其治罪，仅召张纲入宫安慰了事。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 143,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉顺帝刘保", "era": "汉安二年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉顺帝刘保",
+        "era": "汉安二年"
+      }
     ],
     "events": [
-      { "title": "张纲出任广陵太守招降义军", "description": "朝廷为安抚民众，任命张纲为广陵太守。广陵的农民起义军首领张婴听闻张纲前来，率数万部众出城归降。张纲以诚相待，解散起义军，安置流民、发展农业，广陵恢复太平。", "latitude": 32.400, "longitude": 119.500, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "贵霜帝国进入鼎盛时期", "description": "贵霜帝国国王韦苏提婆一世在位期间，帝国疆域从中亚延伸至北印度，首都富楼沙（今白沙瓦）成为佛教和艺术中心。犍陀罗艺术在贵霜的赞助下达到极盛，大量希腊化佛像被创作出来。", "latitude": 34.000, "longitude": 72.000, "category": "文化", "region": "贵霜", "continent": "亚洲" }
+      {
+        "title": "张纲出任广陵太守招降义军",
+        "description": "朝廷为安抚民众，任命张纲为广陵太守。广陵的农民起义军首领张婴听闻张纲前来，率数万部众出城归降。张纲以诚相待，解散起义军，安置流民、发展农业，广陵恢复太平。",
+        "latitude": 32.4,
+        "longitude": 119.5,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "贵霜帝国进入鼎盛时期",
+        "description": "贵霜帝国国王韦苏提婆一世在位期间，帝国疆域从中亚延伸至北印度，首都富楼沙（今白沙瓦）成为佛教和艺术中心。犍陀罗艺术在贵霜的赞助下达到极盛，大量希腊化佛像被创作出来。",
+        "latitude": 34.0,
+        "longitude": 72.0,
+        "category": "文化",
+        "region": "贵霜",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马法律进步",
+        "description": "法学家盖尤斯著《法学阶梯》。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "文化",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 144,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉顺帝刘保", "era": "建康元年" },
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉冲帝刘炳", "era": "建康元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉顺帝刘保",
+        "era": "建康元年"
+      },
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉冲帝刘炳",
+        "era": "建康元年"
+      }
     ],
     "events": [
-      { "title": "汉顺帝驾崩，冲帝继位", "description": "汉顺帝刘保病逝于玉堂前殿，在位十九年，终年三十岁。年仅两岁的太子刘炳即位，是为汉冲帝。梁皇后被尊为太后临朝称制，梁冀以大将军身份总揽朝政，权力达到顶峰。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "九江徐凤、马勉起义", "description": "九江郡（今安徽寿县一带）爆发徐凤、马勉领导的农民起义。徐凤自称'无上将军'，马勉称皇帝，在当涂山筑营称帝，建年号、置百官。梁冀派兵镇压，起义军被击败。", "latitude": 32.500, "longitude": 116.800, "category": "军事", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "汉顺帝驾崩，冲帝继位",
+        "description": "汉顺帝刘保病逝于玉堂前殿，在位十九年，终年三十岁。年仅两岁的太子刘炳即位，是为汉冲帝。梁皇后被尊为太后临朝称制，梁冀以大将军身份总揽朝政，权力达到顶峰。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "九江徐凤、马勉起义",
+        "description": "九江郡（今安徽寿县一带）爆发徐凤、马勉领导的农民起义。徐凤自称'无上将军'，马勉称皇帝，在当涂山筑营称帝，建年号、置百官。梁冀派兵镇压，起义军被击败。",
+        "latitude": 32.5,
+        "longitude": 116.8,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "不列颠长城竣工",
+        "description": "安东尼长城在苏格兰建成。",
+        "latitude": 56.0,
+        "longitude": -4.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 145,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉冲帝刘炳", "era": "永熹元年" },
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉质帝刘缵", "era": "本初元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉冲帝刘炳",
+        "era": "永熹元年"
+      },
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉质帝刘缵",
+        "era": "本初元年"
+      }
     ],
     "events": [
-      { "title": "汉冲帝夭折，质帝继位", "description": "年仅三岁的汉冲帝刘炳病逝于玉堂前殿。梁太后与梁冀密谋，迎立勃海孝王刘鸿之子、八岁的刘缵为帝，是为汉质帝。梁太后继续临朝，梁冀独揽大权。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "各地农民起义此起彼伏", "description": "因天灾频发、官府盘剥，扬州、徐州等地接连爆发农民起义。起义军攻占县城，焚烧官署，斩杀贪官污吏。梁冀以强硬手段镇压，但起义的根源未除，社会动荡愈演愈烈。", "latitude": 33.000, "longitude": 118.000, "category": "军事", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "汉冲帝夭折，质帝继位",
+        "description": "年仅三岁的汉冲帝刘炳病逝于玉堂前殿。梁太后与梁冀密谋，迎立勃海孝王刘鸿之子、八岁的刘缵为帝，是为汉质帝。梁太后继续临朝，梁冀独揽大权。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "各地农民起义此起彼伏",
+        "description": "因天灾频发、官府盘剥，扬州、徐州等地接连爆发农民起义。起义军攻占县城，焚烧官署，斩杀贪官污吏。梁冀以强硬手段镇压，但起义的根源未除，社会动荡愈演愈烈。",
+        "latitude": 33.0,
+        "longitude": 118.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 146,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉质帝刘缵", "era": "本初元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉质帝刘缵",
+        "era": "本初元年"
+      }
     ],
     "events": [
-      { "title": "汉质帝被梁冀毒杀", "description": "九岁的汉质帝刘缵因在朝堂上当着群臣的面指着梁冀说'此跋扈将军也'，引起梁冀忌恨。梁冀指使内侍在煮饼中下毒，质帝食用后毒发身亡。梁冀随即另立新君。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "梁冀迎立桓帝", "description": "梁冀与梁太后合议，迎立蠡吾侯刘志为帝，是为汉桓帝，时年十五岁。梁太后仍以皇太后身份临朝听政，梁冀继续控制朝政。梁氏家族权势如日中天，一门前后七人封侯。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "太学生清议运动初现", "description": "在洛阳太学中，三万余太学生不满梁冀专权，以郭泰、贾彪为首品评朝政、臧否人物。太学生清议运动形成了强大的舆论压力，开创了东汉末年士人干预政治的独特传统。", "latitude": 34.682, "longitude": 112.470, "category": "文化", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "汉质帝被梁冀毒杀",
+        "description": "九岁的汉质帝刘缵因在朝堂上当着群臣的面指着梁冀说'此跋扈将军也'，引起梁冀忌恨。梁冀指使内侍在煮饼中下毒，质帝食用后毒发身亡。梁冀随即另立新君。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "梁冀迎立桓帝",
+        "description": "梁冀与梁太后合议，迎立蠡吾侯刘志为帝，是为汉桓帝，时年十五岁。梁太后仍以皇太后身份临朝听政，梁冀继续控制朝政。梁氏家族权势如日中天，一门前后七人封侯。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "太学生清议运动初现",
+        "description": "在洛阳太学中，三万余太学生不满梁冀专权，以郭泰、贾彪为首品评朝政、臧否人物。太学生清议运动形成了强大的舆论压力，开创了东汉末年士人干预政治的独特传统。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "文化",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "帕提亚与罗马贸易",
+        "description": "帕提亚帝国作为商人中介促进东西方贸易。",
+        "latitude": 35.0,
+        "longitude": 44.0,
+        "category": "经济",
+        "region": "帕提亚帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 147,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉桓帝刘志", "era": "建和元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉桓帝刘志",
+        "era": "建和元年"
+      }
     ],
     "events": [
-      { "title": "汉桓帝立梁女莹为皇后", "description": "梁冀为巩固外戚地位，迫使汉桓帝立其妹梁女莹为皇后。梁女莹入宫后骄奢淫逸、嫉妒成性，不许桓帝亲近其他妃嫔。梁氏通过外戚和皇后双重关系把持后宫。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "李固、杜乔被梁冀害死", "description": "前太尉李固和太尉杜乔因反对梁冀立桓帝，被梁冀罗织罪名下狱。李固在狱中不屈而死，杜乔也在狱中被杀。二人被暴尸于洛阳城北，朝野震惊，天下士人莫不痛心。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "佛教传入中原的明确记载", "description": "本年有明确史书记载，汉桓帝在洛阳宫中建造佛教寺院、举行佛教仪式。桓帝在濯龙宫中祭祀浮屠（佛陀）和老子，这是中国最高统治者公开信仰佛教的最早记录。", "latitude": 34.682, "longitude": 112.470, "category": "宗教", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "汉桓帝立梁女莹为皇后",
+        "description": "梁冀为巩固外戚地位，迫使汉桓帝立其妹梁女莹为皇后。梁女莹入宫后骄奢淫逸、嫉妒成性，不许桓帝亲近其他妃嫔。梁氏通过外戚和皇后双重关系把持后宫。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "李固、杜乔被梁冀害死",
+        "description": "前太尉李固和太尉杜乔因反对梁冀立桓帝，被梁冀罗织罪名下狱。李固在狱中不屈而死，杜乔也在狱中被杀。二人被暴尸于洛阳城北，朝野震惊，天下士人莫不痛心。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "佛教传入中原的明确记载",
+        "description": "本年有明确史书记载，汉桓帝在洛阳宫中建造佛教寺院、举行佛教仪式。桓帝在濯龙宫中祭祀浮屠（佛陀）和老子，这是中国最高统治者公开信仰佛教的最早记录。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "宗教",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "基督教文献增多",
+        "description": "早期基督教教父撰写护教文献。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 148,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉桓帝刘志", "era": "建和二年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉桓帝刘志",
+        "era": "建和二年"
+      }
     ],
     "events": [
-      { "title": "安息高僧安世高来华译经", "description": "安息（帕提亚）太子安世高出家为僧后辗转来到洛阳，开始翻译佛经。安世高精通汉语，在洛阳译出《安般守意经》《阴持入经》等三十余部佛经，成为中国佛教史上第一位大规模翻译佛经的西域僧侣。", "latitude": 34.682, "longitude": 112.470, "category": "宗教", "region": "东汉", "continent": "亚洲" },
-      { "title": "梁冀扩建府邸极尽奢华", "description": "大将军梁冀在洛阳大兴土木，扩建府邸园林。其府邸仿照皇宫规制，林苑绵延数十里，搜罗天下奇珍异宝。又在洛阳城西修建兔苑，方圆数十里，禁止百姓入内。", "latitude": 34.682, "longitude": 112.470, "category": "社会", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "安息高僧安世高来华译经",
+        "description": "安息（帕提亚）太子安世高出家为僧后辗转来到洛阳，开始翻译佛经。安世高精通汉语，在洛阳译出《安般守意经》《阴持入经》等三十余部佛经，成为中国佛教史上第一位大规模翻译佛经的西域僧侣。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "宗教",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "梁冀扩建府邸极尽奢华",
+        "description": "大将军梁冀在洛阳大兴土木，扩建府邸园林。其府邸仿照皇宫规制，林苑绵延数十里，搜罗天下奇珍异宝。又在洛阳城西修建兔苑，方圆数十里，禁止百姓入内。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "社会",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马庆祝建城900年",
+        "description": "罗马举行盛大建城九百年庆典。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "文化",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 149,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉桓帝刘志", "era": "建和三年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉桓帝刘志",
+        "era": "建和三年"
+      }
     ],
     "events": [
-      { "title": "汉桓帝改元和平", "description": "汉桓帝改元'和平'，大赦天下。梁太后还政于桓帝，但桓帝畏于梁冀权势，朝政仍由梁冀专断。梁冀的专横跋扈达到极致，百官升迁须先到梁府谢恩。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "安世高在洛阳译经传播佛教", "description": "安世高在洛阳继续翻译佛经，重点传播小乘佛教的禅数学说。他培养了一批汉地僧侣弟子，推动佛教在中国的本土化传播。安世高后在江南游化，对佛教在南方传播贡献巨大。", "latitude": 34.682, "longitude": 112.470, "category": "宗教", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "汉桓帝改元和平",
+        "description": "汉桓帝改元'和平'，大赦天下。梁太后还政于桓帝，但桓帝畏于梁冀权势，朝政仍由梁冀专断。梁冀的专横跋扈达到极致，百官升迁须先到梁府谢恩。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "安世高在洛阳译经传播佛教",
+        "description": "安世高在洛阳继续翻译佛经，重点传播小乘佛教的禅数学说。他培养了一批汉地僧侣弟子，推动佛教在中国的本土化传播。安世高后在江南游化，对佛教在南方传播贡献巨大。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "宗教",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "希腊医学罗马传播",
+        "description": "希腊医学知识在罗马帝国广泛传播。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "科技",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 150,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉桓帝刘志", "era": "和平元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉桓帝刘志",
+        "era": "和平元年"
+      }
     ],
     "events": [
-      { "title": "梁太后去世", "description": "梁太后病逝。汉桓帝开始尝试摆脱梁冀的控制，但梁冀仍牢牢掌握军政大权。梁皇后在后宫亦骄纵跋扈，桓帝敢怒不敢言。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "马融注解儒家经典", "description": "东汉著名经学家马融在洛阳讲授儒家经典，他的教学规模宏大，学生常常上千人。马融为《孝经》《论语》《诗》《易》《尚书》等作注，推动了东汉经学的发展。", "latitude": 34.682, "longitude": 112.470, "category": "文化", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "梁太后去世",
+        "description": "梁太后病逝。汉桓帝开始尝试摆脱梁冀的控制，但梁冀仍牢牢掌握军政大权。梁皇后在后宫亦骄纵跋扈，桓帝敢怒不敢言。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "马融注解儒家经典",
+        "description": "东汉著名经学家马融在洛阳讲授儒家经典，他的教学规模宏大，学生常常上千人。马融为《孝经》《论语》《诗》《易》《尚书》等作注，推动了东汉经学的发展。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "文化",
+        "region": "东汉",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 151,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉桓帝刘志", "era": "元嘉元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉桓帝刘志",
+        "era": "元嘉元年"
+      }
     ],
     "events": [
-      { "title": "汉桓帝改元元嘉", "description": "汉桓帝改元'元嘉'。梁冀此时已权倾朝野，百官莫敢不从。梁冀的庄园、金银、奴婢不可胜数，富可敌国。他还在洛阳周围强占民田，百姓怨声载道。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "崔瑗作《座右铭》", "description": "东汉书法家崔瑗创作《座右铭》，以铭文形式表达处世哲学和道德准则。崔瑗擅长草书，与张芝齐名，在书法史上有重要地位。", "latitude": 34.682, "longitude": 112.470, "category": "文化", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "汉桓帝改元元嘉",
+        "description": "汉桓帝改元'元嘉'。梁冀此时已权倾朝野，百官莫敢不从。梁冀的庄园、金银、奴婢不可胜数，富可敌国。他还在洛阳周围强占民田，百姓怨声载道。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "崔瑗作《座右铭》",
+        "description": "东汉书法家崔瑗创作《座右铭》，以铭文形式表达处世哲学和道德准则。崔瑗擅长草书，与张芝齐名，在书法史上有重要地位。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "文化",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "帕提亚收复美索不达米亚",
+        "description": "帕提亚在沃洛吉斯三世统治下巩固西部。",
+        "latitude": 33.0,
+        "longitude": 44.5,
+        "category": "政治",
+        "region": "帕提亚帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 152,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉桓帝刘志", "era": "元嘉二年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉桓帝刘志",
+        "era": "元嘉二年"
+      }
     ],
     "events": [
-      { "title": "朱穆上疏弹劾梁冀", "description": "侍御史朱穆上书汉桓帝，痛斥梁冀专权跋扈、祸国殃民，建议罢免梁冀的大将军之职。桓帝不敢得罪梁冀，对朱穆的奏疏不予理睬。梁冀闻讯后欲加害朱穆，因朝臣力保方才作罢。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "贵霜帝国与罗马互派使者", "description": "贵霜帝国国王遣使经中亚至罗马帝国，与安东尼努斯·庇护皇帝建立了联系。两大帝国之间通过中亚商路保持了一定程度的贸易往来，丝绸和香料贸易繁荣。", "latitude": 34.000, "longitude": 72.000, "category": "外交", "region": "贵霜", "continent": "亚洲" }
+      {
+        "title": "朱穆上疏弹劾梁冀",
+        "description": "侍御史朱穆上书汉桓帝，痛斥梁冀专权跋扈、祸国殃民，建议罢免梁冀的大将军之职。桓帝不敢得罪梁冀，对朱穆的奏疏不予理睬。梁冀闻讯后欲加害朱穆，因朝臣力保方才作罢。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "贵霜帝国与罗马互派使者",
+        "description": "贵霜帝国国王遣使经中亚至罗马帝国，与安东尼努斯·庇护皇帝建立了联系。两大帝国之间通过中亚商路保持了一定程度的贸易往来，丝绸和香料贸易繁荣。",
+        "latitude": 34.0,
+        "longitude": 72.0,
+        "category": "外交",
+        "region": "贵霜",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马外交使节至中国",
+        "description": "罗马使团经海路到达中国日南郡。",
+        "latitude": 16.0,
+        "longitude": 108.0,
+        "category": "外交",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 153,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉桓帝刘志", "era": "永兴元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉桓帝刘志",
+        "era": "永兴元年"
+      }
     ],
     "events": [
-      { "title": "黄河泛滥成灾", "description": "黄河在冀州、兖州一带决口泛滥，数十万百姓受灾，大量农田和村庄被淹。朝廷派遣官员赈灾，但因梁冀当政腐败，救灾物资多被克扣，灾民饿殍遍野。", "latitude": 35.500, "longitude": 116.000, "category": "社会", "region": "东汉", "continent": "亚洲" },
-      { "title": "汉桓帝下诏举荐贤才", "description": "汉桓帝下诏令三公九卿和州牧郡守举荐贤良方正之士和至孝之人。但在梁冀操纵下，所举之人多为梁冀亲信，真正有才之士反被排斥。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "黄河泛滥成灾",
+        "description": "黄河在冀州、兖州一带决口泛滥，数十万百姓受灾，大量农田和村庄被淹。朝廷派遣官员赈灾，但因梁冀当政腐败，救灾物资多被克扣，灾民饿殍遍野。",
+        "latitude": 35.5,
+        "longitude": 116.0,
+        "category": "社会",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉桓帝下诏举荐贤才",
+        "description": "汉桓帝下诏令三公九卿和州牧郡守举荐贤良方正之士和至孝之人。但在梁冀操纵下，所举之人多为梁冀亲信，真正有才之士反被排斥。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉朝经学大师郑玄诞生",
+        "description": "东汉经学集大成者郑玄出生。",
+        "latitude": 34.0,
+        "longitude": 120.0,
+        "category": "文化",
+        "region": "东汉",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 154,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉桓帝刘志", "era": "永兴二年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉桓帝刘志",
+        "era": "永兴二年"
+      }
     ],
     "events": [
-      { "title": "太学生清议运动高涨", "description": "洛阳太学生三万余人以郭泰、贾彪、李膺等人为核心，发起声势浩大的清议运动。太学生品评朝政、抨击权贵，称梁冀为'跋扈将军'，对外戚专权形成强大舆论压力。", "latitude": 34.682, "longitude": 112.470, "category": "文化", "region": "东汉", "continent": "亚洲" },
-      { "title": "泰山琅琊起义", "description": "泰山郡和琅琊郡爆发公孙举、东郭窦领导的农民起义，起义军达三万余人。起义军攻占青州、徐州、兖州三州交界地带的县城，东汉朝廷派兵镇压。", "latitude": 36.000, "longitude": 118.000, "category": "军事", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "太学生清议运动高涨",
+        "description": "洛阳太学生三万余人以郭泰、贾彪、李膺等人为核心，发起声势浩大的清议运动。太学生品评朝政、抨击权贵，称梁冀为'跋扈将军'，对外戚专权形成强大舆论压力。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "文化",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "泰山琅琊起义",
+        "description": "泰山郡和琅琊郡爆发公孙举、东郭窦领导的农民起义，起义军达三万余人。起义军攻占青州、徐州、兖州三州交界地带的县城，东汉朝廷派兵镇压。",
+        "latitude": 36.0,
+        "longitude": 118.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马基督教家庭教会",
+        "description": "基督徒在罗马各地秘密进行家庭聚会。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 155,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉桓帝刘志", "era": "永寿元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉桓帝刘志",
+        "era": "永寿元年"
+      }
     ],
     "events": [
-      { "title": "汉桓帝改元永寿", "description": "汉桓帝改元'永寿'。时年梁皇后去世，桓帝开始暗中联合宦官谋划铲除梁冀势力。桓帝表面上仍对梁冀恭敬有加，暗地里却与亲信宦官单超等人密谋行动。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "鲜卑檀石槐统一草原", "description": "鲜卑杰出首领檀石槐在高柳北弹汗山建立王庭，统一鲜卑各部，建立了强大的部落联盟。檀石槐仿效匈奴制度，将鲜卑分为东、中、西三部，各置大人统领。鲜卑从此成为北方草原最强大的势力。", "latitude": 41.500, "longitude": 115.000, "category": "政治", "region": "鲜卑", "continent": "亚洲" },
-      { "title": "安东尼努斯·庇护去世", "description": "罗马皇帝安东尼努斯·庇护病逝，在位二十三年。他在位期间罗马帝国和平繁荣，边境安定。安东尼努斯临终前指定养子马可·奥勒留为继承人，开创了罗马帝国由贤能者继承的传统。", "latitude": 41.893, "longitude": 12.485, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "汉桓帝改元永寿",
+        "description": "汉桓帝改元'永寿'。时年梁皇后去世，桓帝开始暗中联合宦官谋划铲除梁冀势力。桓帝表面上仍对梁冀恭敬有加，暗地里却与亲信宦官单超等人密谋行动。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "鲜卑檀石槐统一草原",
+        "description": "鲜卑杰出首领檀石槐在高柳北弹汗山建立王庭，统一鲜卑各部，建立了强大的部落联盟。檀石槐仿效匈奴制度，将鲜卑分为东、中、西三部，各置大人统领。鲜卑从此成为北方草原最强大的势力。",
+        "latitude": 41.5,
+        "longitude": 115.0,
+        "category": "政治",
+        "region": "鲜卑",
+        "continent": "亚洲"
+      },
+      {
+        "title": "安东尼努斯·庇护去世",
+        "description": "罗马皇帝安东尼努斯·庇护病逝，在位二十三年。他在位期间罗马帝国和平繁荣，边境安定。安东尼努斯临终前指定养子马可·奥勒留为继承人，开创了罗马帝国由贤能者继承的传统。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 156,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉桓帝刘志", "era": "永寿二年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉桓帝刘志",
+        "era": "永寿二年"
+      }
     ],
     "events": [
-      { "title": "鲜卑大举入侵东汉", "description": "鲜卑首领檀石槐率骑兵三四万人入侵东汉云中郡（今内蒙古托克托一带）。东汉度辽将军李膺率兵迎战，击退鲜卑军队。此后鲜卑连年入寇，东汉北部边境全线告急。", "latitude": 40.500, "longitude": 111.000, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "马可·奥勒留就任罗马皇帝", "description": "马可·奥勒留正式就任罗马皇帝。他是著名的斯多葛派哲学家，在继位后立即擢升弟弟路奇乌斯·维鲁斯为共治皇帝，这是罗马帝国首次出现两位皇帝共治的局面。", "latitude": 41.893, "longitude": 12.485, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "鲜卑大举入侵东汉",
+        "description": "鲜卑首领檀石槐率骑兵三四万人入侵东汉云中郡（今内蒙古托克托一带）。东汉度辽将军李膺率兵迎战，击退鲜卑军队。此后鲜卑连年入寇，东汉北部边境全线告急。",
+        "latitude": 40.5,
+        "longitude": 111.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "马可·奥勒留就任罗马皇帝",
+        "description": "马可·奥勒留正式就任罗马皇帝。他是著名的斯多葛派哲学家，在继位后立即擢升弟弟路奇乌斯·维鲁斯为共治皇帝，这是罗马帝国首次出现两位皇帝共治的局面。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "叙利亚基督教传播",
+        "description": "基督教在叙利亚和美索不达米亚传播。",
+        "latitude": 36.0,
+        "longitude": 37.0,
+        "category": "宗教",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 157,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉桓帝刘志", "era": "永寿三年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉桓帝刘志",
+        "era": "永寿三年"
+      }
     ],
     "events": [
-      { "title": "长沙、零陵起义", "description": "长沙郡和零陵郡爆发大规模的武陵蛮和农民联合起义。起义军焚烧官府、攻杀官吏，势力扩展到桂阳、苍梧等郡。东汉朝廷派遣度尚率兵镇压。", "latitude": 27.500, "longitude": 111.500, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "罗马—帕提亚亚美尼亚争端", "description": "帕提亚国王沃洛吉斯四世出兵入侵亚美尼亚，废黜亲罗马的亚美尼亚国王，扶植自己的儿子为亚美尼亚王。罗马皇帝马可·奥勒留决定以战争回应，大规模东征准备开始。", "latitude": 40.180, "longitude": 44.510, "category": "外交", "region": "罗马帝国", "continent": "亚洲" }
+      {
+        "title": "长沙、零陵起义",
+        "description": "长沙郡和零陵郡爆发大规模的武陵蛮和农民联合起义。起义军焚烧官府、攻杀官吏，势力扩展到桂阳、苍梧等郡。东汉朝廷派遣度尚率兵镇压。",
+        "latitude": 27.5,
+        "longitude": 111.5,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马—帕提亚亚美尼亚争端",
+        "description": "帕提亚国王沃洛吉斯四世出兵入侵亚美尼亚，废黜亲罗马的亚美尼亚国王，扶植自己的儿子为亚美尼亚王。罗马皇帝马可·奥勒留决定以战争回应，大规模东征准备开始。",
+        "latitude": 40.18,
+        "longitude": 44.51,
+        "category": "外交",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马基督教护教运动",
+        "description": "查士丁等早期教父撰写基督教辩护著作。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "宗教",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 158,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉桓帝刘志", "era": "延熹元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉桓帝刘志",
+        "era": "延熹元年"
+      }
     ],
     "events": [
-      { "title": "汉桓帝与宦官密谋铲除梁冀", "description": "汉桓帝刘志借上厕所之机，与亲信宦官唐衡密谋除掉梁冀。桓帝咬破唐衡的手指以血为盟，约定共同铲除梁冀势力。这是东汉皇帝与宦官联合对抗外戚的关键事件。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "罗马皇帝马可·奥勒留与维鲁斯共同执政", "description": "罗马帝国进入马可·奥勒留与路奇乌斯·维鲁斯共治时期。维鲁斯被派往东方指挥针对帕提亚的军事行动，奥勒留留守罗马处理内政。这是罗马分权治理的早期尝试。", "latitude": 41.893, "longitude": 12.485, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "汉桓帝与宦官密谋铲除梁冀",
+        "description": "汉桓帝刘志借上厕所之机，与亲信宦官唐衡密谋除掉梁冀。桓帝咬破唐衡的手指以血为盟，约定共同铲除梁冀势力。这是东汉皇帝与宦官联合对抗外戚的关键事件。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马皇帝马可·奥勒留与维鲁斯共同执政",
+        "description": "罗马帝国进入马可·奥勒留与路奇乌斯·维鲁斯共治时期。维鲁斯被派往东方指挥针对帕提亚的军事行动，奥勒留留守罗马处理内政。这是罗马分权治理的早期尝试。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "高卢罗马化加速",
+        "description": "罗马文化在高卢各省更深入传播。",
+        "latitude": 47.0,
+        "longitude": 3.0,
+        "category": "文化",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 159,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉桓帝刘志", "era": "延熹二年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉桓帝刘志",
+        "era": "延熹二年"
+      }
     ],
     "events": [
-      { "title": "汉桓帝诛灭梁冀", "description": "汉桓帝在宦官单超、徐璜、具瑗、左悺、唐衡五人的协助下，发动宫廷政变。桓帝派尚书令尹勋持节率军包围梁冀府邸，梁冀与妻子孙寿被迫自杀。梁氏外戚势力被连根拔除，凡梁氏子弟、党羽皆被处死或罢免。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "五名宦官同日封侯", "description": "汉桓帝论功行赏，将协助铲除梁冀的五名宦官单超、徐璜、具瑗、左悺、唐衡同日封为列侯，史称'五侯'。单超被任命为车骑将军，开宦官掌军权之先河。东汉政治从此进入宦官专权时代。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "罗马发动帕提亚战争", "description": "罗马皇帝维鲁斯在安条克集结大军，正式发动对帕提亚的战争。罗马军团在卡莱（今土耳其哈兰附近）击败帕提亚军队后乘胜东进，攻入美索不达米亚。", "latitude": 36.500, "longitude": 39.000, "category": "军事", "region": "罗马帝国", "continent": "亚洲" }
+      {
+        "title": "汉桓帝诛灭梁冀",
+        "description": "汉桓帝在宦官单超、徐璜、具瑗、左悺、唐衡五人的协助下，发动宫廷政变。桓帝派尚书令尹勋持节率军包围梁冀府邸，梁冀与妻子孙寿被迫自杀。梁氏外戚势力被连根拔除，凡梁氏子弟、党羽皆被处死或罢免。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "五名宦官同日封侯",
+        "description": "汉桓帝论功行赏，将协助铲除梁冀的五名宦官单超、徐璜、具瑗、左悺、唐衡同日封为列侯，史称'五侯'。单超被任命为车骑将军，开宦官掌军权之先河。东汉政治从此进入宦官专权时代。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马发动帕提亚战争",
+        "description": "罗马皇帝维鲁斯在安条克集结大军，正式发动对帕提亚的战争。罗马军团在卡莱（今土耳其哈兰附近）击败帕提亚军队后乘胜东进，攻入美索不达米亚。",
+        "latitude": 36.5,
+        "longitude": 39.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "非洲行省农业繁荣",
+        "description": "罗马非洲行省粮食产量达到高峰。",
+        "latitude": 36.0,
+        "longitude": 9.0,
+        "category": "经济",
+        "region": "罗马帝国",
+        "continent": "非洲"
+      }
     ]
   },
   {
     "year": 160,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉桓帝刘志", "era": "延熹三年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉桓帝刘志",
+        "era": "延熹三年"
+      }
     ],
     "events": [
-      { "title": "五侯把持朝政", "description": "铲除梁冀后，五侯权势日盛。他们竞相奢侈，强占民田，大肆贪污受贿。单超死后，其他四侯更加骄横跋扈，时人称'左回天、具独坐、徐卧虎、唐雨堕'。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "罗马攻占杜拉-欧罗普斯", "description": "罗马军队在帕提亚战争中攻占幼发拉底河畔的战略重镇杜拉-欧罗普斯。这座希腊化城市是丝绸之路上东西方贸易的重要节点，罗马控制此地大大增强了在东方的商业影响力。", "latitude": 34.750, "longitude": 40.730, "category": "军事", "region": "罗马帝国", "continent": "亚洲" }
+      {
+        "title": "五侯把持朝政",
+        "description": "铲除梁冀后，五侯权势日盛。他们竞相奢侈，强占民田，大肆贪污受贿。单超死后，其他四侯更加骄横跋扈，时人称'左回天、具独坐、徐卧虎、唐雨堕'。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马攻占杜拉-欧罗普斯",
+        "description": "罗马军队在帕提亚战争中攻占幼发拉底河畔的战略重镇杜拉-欧罗普斯。这座希腊化城市是丝绸之路上东西方贸易的重要节点，罗马控制此地大大增强了在东方的商业影响力。",
+        "latitude": 34.75,
+        "longitude": 40.73,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马剧场文化",
+        "description": "罗马各地建造和修复剧院和斗兽场。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "文化",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 161,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉桓帝刘志", "era": "延熹四年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉桓帝刘志",
+        "era": "延熹四年"
+      }
     ],
     "events": [
-      { "title": "宦官专权导致吏治腐败", "description": "五侯及其党羽把持朝廷和地方官职，公然卖官鬻爵。地方官员为搜刮钱财贿赂宦官，对百姓横征暴敛。百姓不堪其苦，多地爆发小规模农民起义。朝廷权威急剧下降。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "罗马—帕提亚战争结束", "description": "罗马军队攻陷帕提亚首都泰西封，焚毁塞琉西亚城。帕提亚国王沃洛吉斯四世求和，罗马取得了重大胜利。但因军队中爆发瘟疫，罗马被迫撤军，未能巩固战果。", "latitude": 33.090, "longitude": 44.580, "category": "军事", "region": "罗马帝国", "continent": "亚洲" },
-      { "title": "安东尼瘟疫爆发", "description": "从东方前线返回的罗马军队带回致命的传染病，瘟疫在罗马帝国全境爆发。疫病症状包括高烧、皮疹和腹泻，每天有数千人死亡。这场瘟疫持续十余年，被称为'安东尼瘟疫'，极大削弱了罗马的国力。", "latitude": 41.893, "longitude": 12.485, "category": "社会", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "宦官专权导致吏治腐败",
+        "description": "五侯及其党羽把持朝廷和地方官职，公然卖官鬻爵。地方官员为搜刮钱财贿赂宦官，对百姓横征暴敛。百姓不堪其苦，多地爆发小规模农民起义。朝廷权威急剧下降。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马—帕提亚战争结束",
+        "description": "罗马军队攻陷帕提亚首都泰西封，焚毁塞琉西亚城。帕提亚国王沃洛吉斯四世求和，罗马取得了重大胜利。但因军队中爆发瘟疫，罗马被迫撤军，未能巩固战果。",
+        "latitude": 33.09,
+        "longitude": 44.58,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "安东尼瘟疫爆发",
+        "description": "从东方前线返回的罗马军队带回致命的传染病，瘟疫在罗马帝国全境爆发。疫病症状包括高烧、皮疹和腹泻，每天有数千人死亡。这场瘟疫持续十余年，被称为'安东尼瘟疫'，极大削弱了罗马的国力。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "社会",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 162,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉桓帝刘志", "era": "延熹五年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉桓帝刘志",
+        "era": "延熹五年"
+      }
     ],
     "events": [
-      { "title": "长沙零陵蛮夷再叛", "description": "长沙、零陵、苍梧等地的武陵蛮再度大规模反叛。度尚被任命为荆州刺史，率军征讨。他采取智取策略，先以逸待劳麻痹敌军，然后发动突袭大破蛮军。", "latitude": 27.500, "longitude": 111.500, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "李膺任司隶校尉整肃纲纪", "description": "李膺被任命为司隶校尉，负责京师洛阳的治安和监察。他执法严明、不畏权贵，严厉打击宦官及其党羽的违法行为。宦官们畏惧李膺的威名，不敢在洛阳城中为非作歹。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "长沙零陵蛮夷再叛",
+        "description": "长沙、零陵、苍梧等地的武陵蛮再度大规模反叛。度尚被任命为荆州刺史，率军征讨。他采取智取策略，先以逸待劳麻痹敌军，然后发动突袭大破蛮军。",
+        "latitude": 27.5,
+        "longitude": 111.5,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "李膺任司隶校尉整肃纲纪",
+        "description": "李膺被任命为司隶校尉，负责京师洛阳的治安和监察。他执法严明、不畏权贵，严厉打击宦官及其党羽的违法行为。宦官们畏惧李膺的威名，不敢在洛阳城中为非作歹。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "帕提亚入侵亚美尼亚",
+        "description": "帕提亚人扶植亲帕提亚的亚美尼亚王。",
+        "latitude": 40.0,
+        "longitude": 44.0,
+        "category": "军事",
+        "region": "帕提亚帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 163,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉桓帝刘志", "era": "延熹六年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉桓帝刘志",
+        "era": "延熹六年"
+      }
     ],
     "events": [
-      { "title": "汉桓帝打击宦官势力", "description": "汉桓帝在铲除梁冀后逐渐意识到宦官专权同样危害朝政，开始着手限制五侯的权力。他陆续免去左悺、具瑗等人的官职，没收其家产。桓帝试图在宦官和外戚之间建立平衡。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "朱穆著《崇厚论》", "description": "朱穆撰写了《崇厚论》和《绝交论》，反思东汉末年的世风日下和道德沦丧。他提倡敦厚朴实的社会风气，批评士大夫的虚伪和浮华，对当时的社会思潮产生了一定影响。", "latitude": 34.682, "longitude": 112.470, "category": "文化", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "汉桓帝打击宦官势力",
+        "description": "汉桓帝在铲除梁冀后逐渐意识到宦官专权同样危害朝政，开始着手限制五侯的权力。他陆续免去左悺、具瑗等人的官职，没收其家产。桓帝试图在宦官和外戚之间建立平衡。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "朱穆著《崇厚论》",
+        "description": "朱穆撰写了《崇厚论》和《绝交论》，反思东汉末年的世风日下和道德沦丧。他提倡敦厚朴实的社会风气，批评士大夫的虚伪和浮华，对当时的社会思潮产生了一定影响。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "文化",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马东方战役准备",
+        "description": "马可·奥勒留派维鲁斯东方备战。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 164,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉桓帝刘志", "era": "延熹七年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉桓帝刘志",
+        "era": "延熹七年"
+      }
     ],
     "events": [
-      { "title": "汉桓帝南巡", "description": "汉桓帝南巡至章陵、云梦等地，考察荆州、扬州的吏治民情。他沿途减免了一些苛捐杂税，惩处了一批贪官污吏。但此次南巡耗费巨大，并未从根本上解决问题。", "latitude": 32.000, "longitude": 112.500, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "马可·奥勒留撰写《沉思录》", "description": "罗马皇帝马可·奥勒留在征战途中开始撰写哲学著作《沉思录》。这部以希腊文书写的作品记录了其对斯多葛哲学的思考和人生感悟，成为西方哲学史上的经典之作。", "latitude": 41.893, "longitude": 12.485, "category": "文化", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "汉桓帝南巡",
+        "description": "汉桓帝南巡至章陵、云梦等地，考察荆州、扬州的吏治民情。他沿途减免了一些苛捐杂税，惩处了一批贪官污吏。但此次南巡耗费巨大，并未从根本上解决问题。",
+        "latitude": 32.0,
+        "longitude": 112.5,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "马可·奥勒留撰写《沉思录》",
+        "description": "罗马皇帝马可·奥勒留在征战途中开始撰写哲学著作《沉思录》。这部以希腊文书写的作品记录了其对斯多葛哲学的思考和人生感悟，成为西方哲学史上的经典之作。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "文化",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "罗马攻占亚美尼亚",
+        "description": "罗马将军斯塔提乌斯·普里斯库斯攻占亚美尼亚。",
+        "latitude": 40.0,
+        "longitude": 44.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 165,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉桓帝刘志", "era": "延熹八年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉桓帝刘志",
+        "era": "延熹八年"
+      }
     ],
     "events": [
-      { "title": "第一次党锢之祸前夕", "description": "李膺等士人领袖继续猛烈抨击宦官。河南尹张成之子杀人，李膺不顾赦令将其处死。宦官党羽趁机诬告李膺等人'养太学游士、交结诸郡生徒，共为部党，诽讪朝廷'。汉桓帝下令逮捕党人。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "罗马帝国日耳曼边境危机", "description": "日耳曼部落中的马科曼尼人、夸迪人等大规模越过多瑙河，侵入罗马帝国的潘诺尼亚和诺里库姆行省。马可·奥勒留被迫率军北上迎战，开始长达十余年的马科曼尼战争。", "latitude": 47.500, "longitude": 18.000, "category": "军事", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "第一次党锢之祸前夕",
+        "description": "李膺等士人领袖继续猛烈抨击宦官。河南尹张成之子杀人，李膺不顾赦令将其处死。宦官党羽趁机诬告李膺等人'养太学游士、交结诸郡生徒，共为部党，诽讪朝廷'。汉桓帝下令逮捕党人。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马帝国日耳曼边境危机",
+        "description": "日耳曼部落中的马科曼尼人、夸迪人等大规模越过多瑙河，侵入罗马帝国的潘诺尼亚和诺里库姆行省。马可·奥勒留被迫率军北上迎战，开始长达十余年的马科曼尼战争。",
+        "latitude": 47.5,
+        "longitude": 18.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 166,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉桓帝刘志", "era": "延熹九年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉桓帝刘志",
+        "era": "延熹九年"
+      }
     ],
     "events": [
-      { "title": "第一次党锢之祸爆发", "description": "汉桓帝下诏大规模逮捕党人，李膺、杜密、陈寔、范滂等二百余名士大夫和太学生领袖被捕入狱。这是东汉历史上第一次大规模迫害士人的政治事件，标志着东汉政治危机的全面爆发。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "罗马使者首次抵达中国", "description": "罗马帝国（大秦）皇帝安东尼努斯·庇护（或马可·奥勒留）派遣使者从海路经日南郡（今越南中部）抵达东汉，向汉桓帝进献象牙、犀角、玳瑁等物。这是中国与罗马帝国之间的第一次直接官方接触。", "latitude": 34.682, "longitude": 112.470, "category": "外交", "region": "东汉", "continent": "亚洲" },
-      { "title": "马可·奥勒留大败马科曼尼人", "description": "罗马皇帝马可·奥勒留在多瑙河前线亲率罗马军团与马科曼尼人决战，在卡农图姆（今奥地利境内）大败日耳曼联军。但罗马军队因瘟疫蔓延而无力乘胜追击。", "latitude": 48.000, "longitude": 16.500, "category": "军事", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "第一次党锢之祸爆发",
+        "description": "汉桓帝下诏大规模逮捕党人，李膺、杜密、陈寔、范滂等二百余名士大夫和太学生领袖被捕入狱。这是东汉历史上第一次大规模迫害士人的政治事件，标志着东汉政治危机的全面爆发。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马使者首次抵达中国",
+        "description": "罗马帝国（大秦）皇帝安东尼努斯·庇护（或马可·奥勒留）派遣使者从海路经日南郡（今越南中部）抵达东汉，向汉桓帝进献象牙、犀角、玳瑁等物。这是中国与罗马帝国之间的第一次直接官方接触。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "外交",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "马可·奥勒留大败马科曼尼人",
+        "description": "罗马皇帝马可·奥勒留在多瑙河前线亲率罗马军团与马科曼尼人决战，在卡农图姆（今奥地利境内）大败日耳曼联军。但罗马军队因瘟疫蔓延而无力乘胜追击。",
+        "latitude": 48.0,
+        "longitude": 16.5,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "罗马使团经海路到达中国",
+        "description": "安东尼·庇护时期的罗马使团到达中国。",
+        "latitude": 16.0,
+        "longitude": 108.0,
+        "category": "外交",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 167,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉桓帝刘志", "era": "永康元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉桓帝刘志",
+        "era": "永康元年"
+      }
     ],
     "events": [
-      { "title": "汉桓帝赦免党人", "description": "汉桓帝在皇后窦氏之父窦武的劝说下，下诏赦免党人，将李膺等二百余人释放但禁锢终身，不得为官。第一次党锢之祸至此平息，但士人与宦官的矛盾更加激化。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "汉桓帝驾崩", "description": "汉桓帝刘志病逝于德阳前殿，在位二十一年，终年三十六岁。桓帝无子嗣，窦皇后与窦武迎立河间王刘开之孙、解读亭侯刘宏为帝，是为汉灵帝。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "窦武辅政、陈蕃主事", "description": "窦武被任命为大将军、封闻喜侯，陈蕃被任命为太傅。二人都是党人同情者，掌权后立即征用名士、整肃朝纲。他们计划逐步铲除宦官势力，恢复士人政治格局。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "汉桓帝赦免党人",
+        "description": "汉桓帝在皇后窦氏之父窦武的劝说下，下诏赦免党人，将李膺等二百余人释放但禁锢终身，不得为官。第一次党锢之祸至此平息，但士人与宦官的矛盾更加激化。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉桓帝驾崩",
+        "description": "汉桓帝刘志病逝于德阳前殿，在位二十一年，终年三十六岁。桓帝无子嗣，窦皇后与窦武迎立河间王刘开之孙、解读亭侯刘宏为帝，是为汉灵帝。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "窦武辅政、陈蕃主事",
+        "description": "窦武被任命为大将军、封闻喜侯，陈蕃被任命为太傅。二人都是党人同情者，掌权后立即征用名士、整肃朝纲。他们计划逐步铲除宦官势力，恢复士人政治格局。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "日耳曼部落越过多瑙河",
+        "description": "马科曼尼人越过多瑙河入侵罗马领土。",
+        "latitude": 48.0,
+        "longitude": 16.0,
+        "category": "军事",
+        "region": "日耳曼",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 168,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉灵帝刘宏", "era": "建宁元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉灵帝刘宏",
+        "era": "建宁元年"
+      }
     ],
     "events": [
-      { "title": "窦武、陈蕃谋诛宦官失败", "description": "大将军窦武与太傅陈蕃密谋铲除宦官曹节、王甫等。事机泄露，宦官曹节、王甫等先发制人，劫持汉灵帝和窦太后，假传圣旨发兵攻打窦武。窦武兵败自杀，陈蕃被捕杀害。窦武、陈蕃的家族被灭门。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "曹节等宦官掌权", "description": "曹节、王甫等宦官在诛杀窦武、陈蕃后完全控制朝政。他们大封党羽，六名宦官同日封侯。宦官集团掌握了从中央到地方的几乎所有重要职位，东汉政治进入最黑暗的宦官专权时期。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "马可·奥勒留继续日耳曼战争", "description": "罗马皇帝马可·奥勒留在经历短暂休整后再次发起对马科曼尼人和夸迪人的战争。他采取'以蛮制蛮'策略，招募日耳曼部落进入罗马军队，同时允许部分日耳曼人在帝国边境定居。", "latitude": 48.000, "longitude": 16.500, "category": "军事", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "窦武、陈蕃谋诛宦官失败",
+        "description": "大将军窦武与太傅陈蕃密谋铲除宦官曹节、王甫等。事机泄露，宦官曹节、王甫等先发制人，劫持汉灵帝和窦太后，假传圣旨发兵攻打窦武。窦武兵败自杀，陈蕃被捕杀害。窦武、陈蕃的家族被灭门。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "曹节等宦官掌权",
+        "description": "曹节、王甫等宦官在诛杀窦武、陈蕃后完全控制朝政。他们大封党羽，六名宦官同日封侯。宦官集团掌握了从中央到地方的几乎所有重要职位，东汉政治进入最黑暗的宦官专权时期。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "马可·奥勒留继续日耳曼战争",
+        "description": "罗马皇帝马可·奥勒留在经历短暂休整后再次发起对马科曼尼人和夸迪人的战争。他采取'以蛮制蛮'策略，招募日耳曼部落进入罗马军队，同时允许部分日耳曼人在帝国边境定居。",
+        "latitude": 48.0,
+        "longitude": 16.5,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "马可·奥勒留北方征战",
+        "description": "马可·奥勒留出征多瑙河前线。",
+        "latitude": 48.0,
+        "longitude": 16.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 169,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉灵帝刘宏", "era": "建宁二年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉灵帝刘宏",
+        "era": "建宁二年"
+      }
     ],
     "events": [
-      { "title": "第二次党锢之祸", "description": "宦官曹节、王甫等以'部党'罪名诬告李膺、杜密、范滂等党人领袖。汉灵帝下诏在全国范围内大肆抓捕党人，李膺主动投狱受刑而死，杜密、范滂等百余人被处死，受株连者达六七百人。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "禁锢党人门生故吏", "description": "朝廷下诏将党人的门生、故吏、父子兄弟全部免官禁锢，妻女被流放边疆。党人的亲属及门生故吏凡在官者一律罢免，永不录用。这是东汉对士人最残酷的一次政治清洗。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "马可·奥勒留与日耳曼部落订立和约", "description": "罗马皇帝马可·奥勒留与马科曼尼人和夸迪人订立和约，日耳曼部落承诺不越过多瑙河，并允许罗马在部落中招募士兵。数千名日耳曼战士被编入罗马辅助部队。", "latitude": 47.500, "longitude": 18.000, "category": "外交", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "第二次党锢之祸",
+        "description": "宦官曹节、王甫等以'部党'罪名诬告李膺、杜密、范滂等党人领袖。汉灵帝下诏在全国范围内大肆抓捕党人，李膺主动投狱受刑而死，杜密、范滂等百余人被处死，受株连者达六七百人。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "禁锢党人门生故吏",
+        "description": "朝廷下诏将党人的门生、故吏、父子兄弟全部免官禁锢，妻女被流放边疆。党人的亲属及门生故吏凡在官者一律罢免，永不录用。这是东汉对士人最残酷的一次政治清洗。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "马可·奥勒留与日耳曼部落订立和约",
+        "description": "罗马皇帝马可·奥勒留与马科曼尼人和夸迪人订立和约，日耳曼部落承诺不越过多瑙河，并允许罗马在部落中招募士兵。数千名日耳曼战士被编入罗马辅助部队。",
+        "latitude": 47.5,
+        "longitude": 18.0,
+        "category": "外交",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 170,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉灵帝刘宏", "era": "建宁三年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉灵帝刘宏",
+        "era": "建宁三年"
+      }
     ],
     "events": [
-      { "title": "宦官权势滔天", "description": "曹节、王甫等宦官权倾朝野，生活极度奢侈。他们大肆修建府邸，搜刮民脂民膏。曹节领尚书令，掌握朝廷机要，王甫任中常侍兼黄门令，控制禁军。朝中正直之士多被排挤。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "段颎平定西羌", "description": "东汉名将段颎率军对西羌发动总攻，在凡亭山、射虎谷等地的战役中大破羌军。段颎前后历经一百八十余战，斩首近四万级，最终彻底平定了持续数十年的羌人起义。西羌问题暂时解决。", "latitude": 35.000, "longitude": 104.500, "category": "军事", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "宦官权势滔天",
+        "description": "曹节、王甫等宦官权倾朝野，生活极度奢侈。他们大肆修建府邸，搜刮民脂民膏。曹节领尚书令，掌握朝廷机要，王甫任中常侍兼黄门令，控制禁军。朝中正直之士多被排挤。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "段颎平定西羌",
+        "description": "东汉名将段颎率军对西羌发动总攻，在凡亭山、射虎谷等地的战役中大破羌军。段颎前后历经一百八十余战，斩首近四万级，最终彻底平定了持续数十年的羌人起义。西羌问题暂时解决。",
+        "latitude": 35.0,
+        "longitude": 104.5,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "潘诺尼亚罗马防线",
+        "description": "罗马在多瑙河一线加固防御工事。",
+        "latitude": 47.0,
+        "longitude": 19.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 171,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉灵帝刘宏", "era": "建宁四年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉灵帝刘宏",
+        "era": "建宁四年"
+      }
     ],
     "events": [
-      { "title": "汉灵帝行冠礼大赦天下", "description": "汉灵帝刘宏年满十四岁，在洛阳举行加冠礼，大赦天下。虽然名义上已成年，但朝政仍被宦官曹节、王甫等人把持。汉灵帝对宦官极为宠信，称'张常侍是我父，赵常侍是我母'。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "皇后宋氏被废", "description": "汉灵帝的宋皇后因被宦官王甫诬陷使用巫蛊之术诅咒皇帝，被废黜后位，打入冷宫。宋皇后在忧惧中去世，宋氏家族被诛连，朝中无人敢为其申冤。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "汉灵帝行冠礼大赦天下",
+        "description": "汉灵帝刘宏年满十四岁，在洛阳举行加冠礼，大赦天下。虽然名义上已成年，但朝政仍被宦官曹节、王甫等人把持。汉灵帝对宦官极为宠信，称'张常侍是我父，赵常侍是我母'。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "皇后宋氏被废",
+        "description": "汉灵帝的宋皇后因被宦官王甫诬陷使用巫蛊之术诅咒皇帝，被废黜后位，打入冷宫。宋皇后在忧惧中去世，宋氏家族被诛连，朝中无人敢为其申冤。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "日耳曼部落被击退",
+        "description": "罗马军队在多瑙河击退马科曼尼人。",
+        "latitude": 48.0,
+        "longitude": 16.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 172,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉灵帝刘宏", "era": "熹平元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉灵帝刘宏",
+        "era": "熹平元年"
+      }
     ],
     "events": [
-      { "title": "汉灵帝改元熹平", "description": "汉灵帝改元'熹平'。窦太后去世，宦官曹节等意图不按皇后礼仪安葬窦太后。太尉李咸、廷尉陈球等据理力争，最终窦太后得以与汉桓帝合葬。这是士人在党锢后的一次有限胜利。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "鲜卑扰边愈演愈烈", "description": "鲜卑首领檀石槐率骑兵大举入侵东汉并州、凉州等地，杀掠吏民无数。东汉朝廷派遣护匈奴中郎将张奂率军征讨，但军队畏惧鲜卑骑兵的战斗力，不敢深入追击。", "latitude": 38.000, "longitude": 112.000, "category": "军事", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "汉灵帝改元熹平",
+        "description": "汉灵帝改元'熹平'。窦太后去世，宦官曹节等意图不按皇后礼仪安葬窦太后。太尉李咸、廷尉陈球等据理力争，最终窦太后得以与汉桓帝合葬。这是士人在党锢后的一次有限胜利。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "鲜卑扰边愈演愈烈",
+        "description": "鲜卑首领檀石槐率骑兵大举入侵东汉并州、凉州等地，杀掠吏民无数。东汉朝廷派遣护匈奴中郎将张奂率军征讨，但军队畏惧鲜卑骑兵的战斗力，不敢深入追击。",
+        "latitude": 38.0,
+        "longitude": 112.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 173,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉灵帝刘宏", "era": "熹平二年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉灵帝刘宏",
+        "era": "熹平二年"
+      }
     ],
     "events": [
-      { "title": "洛阳地震", "description": "本年京师洛阳发生地震，波及周边郡县。朝廷下令开仓赈灾。同时天空出现日食，被视为上天示警。汉灵帝下诏令百官上书言事，但宦官控制朝政，无人敢直言。", "latitude": 34.682, "longitude": 112.470, "category": "社会", "region": "东汉", "continent": "亚洲" },
-      { "title": "马可·奥勒留发动对夸迪人战争", "description": "罗马皇帝马可·奥勒留再次发动对多瑙河以北夸迪人的大规模军事行动。罗马军团在冰冻的多瑙河上建立浮桥，深入夸迪人领地。此次战争罗马取得重大战果，迫使夸迪人臣服。", "latitude": 47.000, "longitude": 19.000, "category": "军事", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "洛阳地震",
+        "description": "本年京师洛阳发生地震，波及周边郡县。朝廷下令开仓赈灾。同时天空出现日食，被视为上天示警。汉灵帝下诏令百官上书言事，但宦官控制朝政，无人敢直言。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "社会",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "马可·奥勒留发动对夸迪人战争",
+        "description": "罗马皇帝马可·奥勒留再次发动对多瑙河以北夸迪人的大规模军事行动。罗马军团在冰冻的多瑙河上建立浮桥，深入夸迪人领地。此次战争罗马取得重大战果，迫使夸迪人臣服。",
+        "latitude": 47.0,
+        "longitude": 19.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "罗马对萨马提亚人作战",
+        "description": "罗马在潘诺尼亚和萨尔马提亚人作战。",
+        "latitude": 47.0,
+        "longitude": 20.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 174,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉灵帝刘宏", "era": "熹平三年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉灵帝刘宏",
+        "era": "熹平三年"
+      }
     ],
     "events": [
-      { "title": "段颎出任太尉", "description": "东汉名将段颎因军功被任命为太尉。但段颎为保官位不惜阿附宦官，与士人集团关系紧张。段颎的起落反映了东汉后期武将、宦官和士人之间错综复杂的政治关系。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "鲜卑檀石槐去世", "description": "鲜卑首领檀石槐去世，其子和连继位。檀石槐建立了强大的鲜卑部落联盟，在他死后各部逐渐分裂。和连缺乏其父的才能和威望，鲜卑联盟迅速瓦解。", "latitude": 41.500, "longitude": 115.000, "category": "政治", "region": "鲜卑", "continent": "亚洲" },
-      { "title": "马可·奥勒留之子康茂德擢升", "description": "马可·奥勒留擢升其子康茂德为罗马军队的共同指挥官，并授予其'凯撒'称号，明确其为皇位继承人。这种世袭继承的做法打破了五贤帝的养子继承传统。", "latitude": 41.893, "longitude": 12.485, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "段颎出任太尉",
+        "description": "东汉名将段颎因军功被任命为太尉。但段颎为保官位不惜阿附宦官，与士人集团关系紧张。段颎的起落反映了东汉后期武将、宦官和士人之间错综复杂的政治关系。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "鲜卑檀石槐去世",
+        "description": "鲜卑首领檀石槐去世，其子和连继位。檀石槐建立了强大的鲜卑部落联盟，在他死后各部逐渐分裂。和连缺乏其父的才能和威望，鲜卑联盟迅速瓦解。",
+        "latitude": 41.5,
+        "longitude": 115.0,
+        "category": "政治",
+        "region": "鲜卑",
+        "continent": "亚洲"
+      },
+      {
+        "title": "马可·奥勒留之子康茂德擢升",
+        "description": "马可·奥勒留擢升其子康茂德为罗马军队的共同指挥官，并授予其'凯撒'称号，明确其为皇位继承人。这种世袭继承的做法打破了五贤帝的养子继承传统。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "多瑙河防线巩固",
+        "description": "马可·奥勒留完成多瑙河前线部署。",
+        "latitude": 48.0,
+        "longitude": 17.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 175,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉灵帝刘宏", "era": "熹平四年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉灵帝刘宏",
+        "era": "熹平四年"
+      }
     ],
     "events": [
-      { "title": "熹平石经刻立", "description": "汉灵帝诏令蔡邕等学者正定儒家六经文字，将《周易》《尚书》《鲁诗》《仪礼》《春秋》《公羊传》《论语》七种经典刊刻于石碑之上。石碑共四十六块，立于洛阳太学门外，成为天下学子校勘经书的官方标准版本。", "latitude": 34.682, "longitude": 112.470, "category": "文化", "region": "东汉", "continent": "亚洲" },
-      { "title": "马可·奥勒留巡游东方", "description": "罗马皇帝马可·奥勒留在结束日耳曼战事后巡游东方各行省，访问了雅典、以弗所、安条克和亚历山大港等地。他在雅典设立了四所哲学讲席，分别教授柏拉图、亚里士多德、芝诺和伊壁鸠鲁的学说。", "latitude": 37.970, "longitude": 23.720, "category": "文化", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "熹平石经刻立",
+        "description": "汉灵帝诏令蔡邕等学者正定儒家六经文字，将《周易》《尚书》《鲁诗》《仪礼》《春秋》《公羊传》《论语》七种经典刊刻于石碑之上。石碑共四十六块，立于洛阳太学门外，成为天下学子校勘经书的官方标准版本。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "文化",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "马可·奥勒留巡游东方",
+        "description": "罗马皇帝马可·奥勒留在结束日耳曼战事后巡游东方各行省，访问了雅典、以弗所、安条克和亚历山大港等地。他在雅典设立了四所哲学讲席，分别教授柏拉图、亚里士多德、芝诺和伊壁鸠鲁的学说。",
+        "latitude": 37.97,
+        "longitude": 23.72,
+        "category": "文化",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 176,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉灵帝刘宏", "era": "熹平五年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉灵帝刘宏",
+        "era": "熹平五年"
+      }
     ],
     "events": [
-      { "title": "蔡邕上书抨击宦官", "description": "蔡邕上书汉灵帝，揭露宦官及其亲属的贪腐行径和专权乱政。奏疏上达后，宦官曹节等人极为愤怒，指使人诬告蔡邕。蔡邕被下狱论死，后减等流放朔方。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "鲜卑连年入寇幽州", "description": "鲜卑和连率部连年入侵东汉幽州边境，渔阳、上谷、代郡等地屡遭劫掠。汉灵帝任命刘虞为幽州刺史，刘虞采取怀柔政策以安抚鲜卑，边境局势稍有缓和。", "latitude": 40.500, "longitude": 116.000, "category": "军事", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "蔡邕上书抨击宦官",
+        "description": "蔡邕上书汉灵帝，揭露宦官及其亲属的贪腐行径和专权乱政。奏疏上达后，宦官曹节等人极为愤怒，指使人诬告蔡邕。蔡邕被下狱论死，后减等流放朔方。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "鲜卑连年入寇幽州",
+        "description": "鲜卑和连率部连年入侵东汉幽州边境，渔阳、上谷、代郡等地屡遭劫掠。汉灵帝任命刘虞为幽州刺史，刘虞采取怀柔政策以安抚鲜卑，边境局势稍有缓和。",
+        "latitude": 40.5,
+        "longitude": 116.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "日耳曼边区设立",
+        "description": "罗马在多瑙河北岸设立缓冲区。",
+        "latitude": 48.0,
+        "longitude": 18.0,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 177,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉灵帝刘宏", "era": "熹平六年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉灵帝刘宏",
+        "era": "熹平六年"
+      }
     ],
     "events": [
-      { "title": "东汉远征鲜卑大败", "description": "汉灵帝派护乌桓校尉夏育率三路大军远征鲜卑。鲜卑首领和连率军迎战，东汉军队孤军深入，在塞外遭遇惨败，十之七八的将士战死。这次失败沉重打击了东汉的军事实力。", "latitude": 42.000, "longitude": 117.000, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "蔡邕在流放地撰写碑文", "description": "蔡邕被流放至朔方期间，仍然笔耕不辍。他为各地撰写碑文和铭文，其文章辞藻典雅、书法精妙，深受时人推崇。蔡邕在文学和书法方面的造诣对后世产生了深远影响。", "latitude": 40.500, "longitude": 108.000, "category": "文化", "region": "东汉", "continent": "亚洲" },
-      { "title": "马科曼尼战争结束", "description": "罗马皇帝马可·奥勒留与日耳曼各部落缔结最终和约。罗马将部分日耳曼部落安置在帝国内的空旷地区，作为边境的军事缓冲区。持续十余年的马科曼尼战争至此结束。", "latitude": 47.500, "longitude": 18.000, "category": "军事", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "东汉远征鲜卑大败",
+        "description": "汉灵帝派护乌桓校尉夏育率三路大军远征鲜卑。鲜卑首领和连率军迎战，东汉军队孤军深入，在塞外遭遇惨败，十之七八的将士战死。这次失败沉重打击了东汉的军事实力。",
+        "latitude": 42.0,
+        "longitude": 117.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "蔡邕在流放地撰写碑文",
+        "description": "蔡邕被流放至朔方期间，仍然笔耕不辍。他为各地撰写碑文和铭文，其文章辞藻典雅、书法精妙，深受时人推崇。蔡邕在文学和书法方面的造诣对后世产生了深远影响。",
+        "latitude": 40.5,
+        "longitude": 108.0,
+        "category": "文化",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "马科曼尼战争结束",
+        "description": "罗马皇帝马可·奥勒留与日耳曼各部落缔结最终和约。罗马将部分日耳曼部落安置在帝国内的空旷地区，作为边境的军事缓冲区。持续十余年的马科曼尼战争至此结束。",
+        "latitude": 47.5,
+        "longitude": 18.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "基督教里昂迫害事件",
+        "description": "高卢里昂发生大规模基督徒迫害。",
+        "latitude": 45.8,
+        "longitude": 4.8,
+        "category": "宗教",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 178,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉灵帝刘宏", "era": "光和元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉灵帝刘宏",
+        "era": "光和元年"
+      }
     ],
     "events": [
-      { "title": "汉灵帝设西邸卖官鬻爵", "description": "汉灵帝在洛阳西邸公开设立官职交易所，明码标价出卖官爵。三公级官职定价一千万钱，九卿级五百万钱，郡守级二千万至四百万钱不等。二千石官员定价二千万，四百石官员定价四百万。允许先赊欠到任后加倍偿还。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "宦官曹节、王甫等操纵朝政", "description": "曹节、王甫等宦官利用卖官鬻爵之机大肆敛财，权势达到顶峰。他们互相勾结、排除异己，朝中正直之士几乎被清洗殆尽。宦官及其亲属控制了从中央到地方的全部重要职位。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "汉灵帝设西邸卖官鬻爵",
+        "description": "汉灵帝在洛阳西邸公开设立官职交易所，明码标价出卖官爵。三公级官职定价一千万钱，九卿级五百万钱，郡守级二千万至四百万钱不等。二千石官员定价二千万，四百石官员定价四百万。允许先赊欠到任后加倍偿还。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "宦官曹节、王甫等操纵朝政",
+        "description": "曹节、王甫等宦官利用卖官鬻爵之机大肆敛财，权势达到顶峰。他们互相勾结、排除异己，朝中正直之士几乎被清洗殆尽。宦官及其亲属控制了从中央到地方的全部重要职位。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "马可·奥勒留著《沉思录》",
+        "description": "马可·奥勒留完成哲学著作《沉思录》。",
+        "latitude": 43.0,
+        "longitude": 17.0,
+        "category": "文化",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 179,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉灵帝刘宏", "era": "光和二年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉灵帝刘宏",
+        "era": "光和二年"
+      }
     ],
     "events": [
-      { "title": "王甫被诛，宦官内斗", "description": "宦官集团内部发生分裂，曹节、王甫等权宦之间的内斗逐步激化。最终王甫被弹劾下狱处死，其党羽被清除。但曹节继续掌权，宦官专权的局面并未改变。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "天灾频发，民变四起", "description": "本年洛阳及周边地区连遭风灾、雹灾和地震，庄稼绝收，百姓流离失所。各地小规模农民起义此起彼伏，但尚未形成全国性的叛乱。东汉政权的基础正在加速瓦解。", "latitude": 34.682, "longitude": 112.470, "category": "社会", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "王甫被诛，宦官内斗",
+        "description": "宦官集团内部发生分裂，曹节、王甫等权宦之间的内斗逐步激化。最终王甫被弹劾下狱处死，其党羽被清除。但曹节继续掌权，宦官专权的局面并未改变。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "天灾频发，民变四起",
+        "description": "本年洛阳及周边地区连遭风灾、雹灾和地震，庄稼绝收，百姓流离失所。各地小规模农民起义此起彼伏，但尚未形成全国性的叛乱。东汉政权的基础正在加速瓦解。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "社会",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马公共卫生进步",
+        "description": "罗马帝国改善城市供水和公共卫生设施。",
+        "latitude": 42.0,
+        "longitude": 12.5,
+        "category": "科技",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 180,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉灵帝刘宏", "era": "光和三年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉灵帝刘宏",
+        "era": "光和三年"
+      }
     ],
     "events": [
-      { "title": "汉灵帝立何皇后", "description": "汉灵帝立何氏为皇后。何皇后出身屠户家庭，其兄何进因此被任命为侍中，后升为大将军。何氏外戚势力的崛起为日后何进与十常侍的权力斗争埋下伏笔。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "马可·奥勒留驾崩", "description": "罗马皇帝马可·奥勒留在多瑙河前线维也纳附近的军营中病逝，终年五十九岁。他在位十九年，经历了战争和瘟疫的双重考验。他的去世标志着罗马五贤帝时代的终结。", "latitude": 48.200, "longitude": 16.370, "category": "政治", "region": "罗马帝国", "continent": "欧洲" },
-      { "title": "康茂德继任罗马皇帝", "description": "马可·奥勒留之子康茂德继任罗马皇帝，时年十九岁。康茂德与贤帝们截然不同，他不理朝政、沉迷享乐，酷爱角斗士比赛，经常亲自下场参与角斗。罗马帝国开始走向混乱。", "latitude": 41.893, "longitude": 12.485, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "汉灵帝立何皇后",
+        "description": "汉灵帝立何氏为皇后。何皇后出身屠户家庭，其兄何进因此被任命为侍中，后升为大将军。何氏外戚势力的崛起为日后何进与十常侍的权力斗争埋下伏笔。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "马可·奥勒留驾崩",
+        "description": "罗马皇帝马可·奥勒留在多瑙河前线维也纳附近的军营中病逝，终年五十九岁。他在位十九年，经历了战争和瘟疫的双重考验。他的去世标志着罗马五贤帝时代的终结。",
+        "latitude": 48.2,
+        "longitude": 16.37,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "康茂德继任罗马皇帝",
+        "description": "马可·奥勒留之子康茂德继任罗马皇帝，时年十九岁。康茂德与贤帝们截然不同，他不理朝政、沉迷享乐，酷爱角斗士比赛，经常亲自下场参与角斗。罗马帝国开始走向混乱。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 181,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉灵帝刘宏", "era": "光和四年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉灵帝刘宏",
+        "era": "光和四年"
+      }
     ],
     "events": [
-      { "title": "张角创立太平道", "description": "巨鹿人张角创立太平道，自称'大贤良师'，以符水咒语为人治病。他派遣弟子八人分赴四方传道，十余年间信徒达数十万人，遍布青、徐、幽、冀、荆、扬、兖、豫八州，为日后的黄巾起义奠定组织基础。", "latitude": 37.200, "longitude": 115.000, "category": "宗教", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "张角创立太平道",
+        "description": "巨鹿人张角创立太平道，自称'大贤良师'，以符水咒语为人治病。他派遣弟子八人分赴四方传道，十余年间信徒达数十万人，遍布青、徐、幽、冀、荆、扬、兖、豫八州，为日后的黄巾起义奠定组织基础。",
+        "latitude": 37.2,
+        "longitude": 115.0,
+        "category": "宗教",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "不列颠北部罗马要塞",
+        "description": "罗马在不列颠北部设立新防线。",
+        "latitude": 55.0,
+        "longitude": -3.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 182,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉灵帝刘宏", "era": "光和五年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉灵帝刘宏",
+        "era": "光和五年"
+      }
     ],
     "events": [
-      { "title": "张角分置三十六方", "description": "张角将太平道信徒分为三十六方，大方万余人，小方六七千人，各立首领。他以'苍天已死，黄天当立，岁在甲子，天下大吉'为口号，秘密约定次年三月五日起义。", "latitude": 37.200, "longitude": 115.000, "category": "宗教", "region": "东汉", "continent": "亚洲" },
-      { "title": "康茂德残暴统治加剧", "description": "罗马皇帝康茂德的统治愈发残暴和荒诞。他自称'赫拉克勒斯之子'，要求元老院和民众以神祇之礼崇拜他。一场大火烧毁了大半个罗马城，康茂德竟声称要用活人祭祀来禳灾。", "latitude": 41.893, "longitude": 12.485, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "张角分置三十六方",
+        "description": "张角将太平道信徒分为三十六方，大方万余人，小方六七千人，各立首领。他以'苍天已死，黄天当立，岁在甲子，天下大吉'为口号，秘密约定次年三月五日起义。",
+        "latitude": 37.2,
+        "longitude": 115.0,
+        "category": "宗教",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "康茂德残暴统治加剧",
+        "description": "罗马皇帝康茂德的统治愈发残暴和荒诞。他自称'赫拉克勒斯之子'，要求元老院和民众以神祇之礼崇拜他。一场大火烧毁了大半个罗马城，康茂德竟声称要用活人祭祀来禳灾。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "罗马帝国官僚体系膨胀",
+        "description": "康茂德时期官制腐败加剧。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 183,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉灵帝刘宏", "era": "光和六年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉灵帝刘宏",
+        "era": "光和六年"
+      }
     ],
     "events": [
-      { "title": "黄巾起义即将爆发", "description": "张角的弟子唐周向朝廷告密，张角被迫提前发动起义。洛阳城内的起义内应马元义被车裂处死。朝廷下令搜捕张角，张角星夜传告各方，以'苍天已死，黄天当立'为号令发动全面起义。", "latitude": 37.200, "longitude": 115.000, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "康茂德遇刺未遂", "description": "罗马皇帝康茂德之姐露西拉策划暗杀康茂德，但刺客被卫兵擒获。露西拉被流放后处死，康茂德变得更加多疑残暴，大规模处决元老院成员和朝中大臣。", "latitude": 41.893, "longitude": 12.485, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "黄巾起义即将爆发",
+        "description": "张角的弟子唐周向朝廷告密，张角被迫提前发动起义。洛阳城内的起义内应马元义被车裂处死。朝廷下令搜捕张角，张角星夜传告各方，以'苍天已死，黄天当立'为号令发动全面起义。",
+        "latitude": 37.2,
+        "longitude": 115.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "康茂德遇刺未遂",
+        "description": "罗马皇帝康茂德之姐露西拉策划暗杀康茂德，但刺客被卫兵擒获。露西拉被流放后处死，康茂德变得更加多疑残暴，大规模处决元老院成员和朝中大臣。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "罗马斗兽场表演",
+        "description": "康茂德在斗兽场亲自参战。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "社会",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 184,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉灵帝刘宏", "era": "中平元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉灵帝刘宏",
+        "era": "中平元年"
+      }
     ],
     "events": [
-      { "title": "黄巾大起义爆发", "description": "张角自称'天公将军'，其弟张宝称'地公将军'、张梁称'人公将军'，率数十万信徒在巨鹿举兵起义。起义军头戴黄巾为标志，焚烧官府、攻占城邑、诛杀官吏。天下响应，京师震动。", "latitude": 37.200, "longitude": 115.000, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "东汉解除党锢共御黄巾", "description": "面对黄巾军的猛烈攻势，汉灵帝采纳皇甫嵩的建议，下诏大赦天下党人。被禁锢多年的李膺、杜密等人的子弟得以重新启用。朝廷征发四方精兵，以何进为大将军、皇甫嵩为左中郎将统兵镇压。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "皇甫嵩、朱儁大破黄巾军", "description": "皇甫嵩、朱儁和曹操率东汉军队在颍川、南阳等地大破黄巾军。皇甫嵩用火攻战术大破波才部黄巾军，斩首数万。朱儁攻破南阳，斩杀黄巾将领张曼成。黄巾起义主力在九个月内被镇压。", "latitude": 33.800, "longitude": 113.500, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "张角病逝，黄巾军瓦解", "description": "张角在巨鹿病逝，其弟张梁、张宝相继战死。黄巾军主力被消灭后，残余势力分散各地继续活动，但已无力威胁东汉中央政权。然而，东汉朝廷因镇压起义而赋予地方刺史兵权和行政权，为军阀割据埋下伏笔。", "latitude": 37.200, "longitude": 115.000, "category": "军事", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "黄巾大起义爆发",
+        "description": "张角自称'天公将军'，其弟张宝称'地公将军'、张梁称'人公将军'，率数十万信徒在巨鹿举兵起义。起义军头戴黄巾为标志，焚烧官府、攻占城邑、诛杀官吏。天下响应，京师震动。",
+        "latitude": 37.2,
+        "longitude": 115.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "东汉解除党锢共御黄巾",
+        "description": "面对黄巾军的猛烈攻势，汉灵帝采纳皇甫嵩的建议，下诏大赦天下党人。被禁锢多年的李膺、杜密等人的子弟得以重新启用。朝廷征发四方精兵，以何进为大将军、皇甫嵩为左中郎将统兵镇压。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "皇甫嵩、朱儁大破黄巾军",
+        "description": "皇甫嵩、朱儁和曹操率东汉军队在颍川、南阳等地大破黄巾军。皇甫嵩用火攻战术大破波才部黄巾军，斩首数万。朱儁攻破南阳，斩杀黄巾将领张曼成。黄巾起义主力在九个月内被镇压。",
+        "latitude": 33.8,
+        "longitude": 113.5,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "张角病逝，黄巾军瓦解",
+        "description": "张角在巨鹿病逝，其弟张梁、张宝相继战死。黄巾军主力被消灭后，残余势力分散各地继续活动，但已无力威胁东汉中央政权。然而，东汉朝廷因镇压起义而赋予地方刺史兵权和行政权，为军阀割据埋下伏笔。",
+        "latitude": 37.2,
+        "longitude": 115.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 185,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉灵帝刘宏", "era": "中平二年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉灵帝刘宏",
+        "era": "中平二年"
+      }
     ],
     "events": [
-      { "title": "凉州边章、韩遂叛乱", "description": "凉州督军从事边章与韩遂联合羌人发动叛乱，攻占金城（今兰州）等郡。边章、韩遂率军东进攻打长安，凉州刺史耿鄙战死。东汉朝廷任命皇甫嵩率军征讨。", "latitude": 36.000, "longitude": 103.500, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "黑山军起义", "description": "在黄巾余部影响下，冀州太行山一带爆发了以张牛角、褚飞燕（后改张燕）为领袖的农民起义。各部义军聚集在黑山（今河南鹤壁），形成强大的黑山军，人数达百万之众。", "latitude": 35.800, "longitude": 114.000, "category": "军事", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "凉州边章、韩遂叛乱",
+        "description": "凉州督军从事边章与韩遂联合羌人发动叛乱，攻占金城（今兰州）等郡。边章、韩遂率军东进攻打长安，凉州刺史耿鄙战死。东汉朝廷任命皇甫嵩率军征讨。",
+        "latitude": 36.0,
+        "longitude": 103.5,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "黑山军起义",
+        "description": "在黄巾余部影响下，冀州太行山一带爆发了以张牛角、褚飞燕（后改张燕）为领袖的农民起义。各部义军聚集在黑山（今河南鹤壁），形成强大的黑山军，人数达百万之众。",
+        "latitude": 35.8,
+        "longitude": 114.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马政府财政困难",
+        "description": "康茂德挥霍导致国库枯竭。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "经济",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 186,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉灵帝刘宏", "era": "中平三年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉灵帝刘宏",
+        "era": "中平三年"
+      }
     ],
     "events": [
-      { "title": "韩遂杀边章独揽凉州兵权", "description": "凉州叛军首领韩遂杀死边章，吞并其部众，成为凉州叛军的最高统帅。韩遂拥兵十余万，控制凉州大部分地区，与东汉朝廷形成长期军事对峙的局面。", "latitude": 36.000, "longitude": 103.500, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "汉灵帝修建毕圭苑", "description": "汉灵帝在洛阳西园修建毕圭苑和灵昆苑，两苑广袤数十里，内有珍禽异兽、奇花异木。他还在西园开设'狗监'和'驴肆'，后宫养狗戴冠系绶，宫中养驴驾车取乐。", "latitude": 34.682, "longitude": 112.470, "category": "社会", "region": "东汉", "continent": "亚洲" },
-      { "title": "罗马帝国北疆再度告急", "description": "罗马皇帝康茂德统治时期，帝国北疆的多瑙河边境再度遭到日耳曼部落的侵扰。康茂德抛弃了马可·奥勒留的防御策略，通过向日耳曼部落支付大量黄金换取和平。", "latitude": 47.500, "longitude": 18.000, "category": "军事", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "韩遂杀边章独揽凉州兵权",
+        "description": "凉州叛军首领韩遂杀死边章，吞并其部众，成为凉州叛军的最高统帅。韩遂拥兵十余万，控制凉州大部分地区，与东汉朝廷形成长期军事对峙的局面。",
+        "latitude": 36.0,
+        "longitude": 103.5,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉灵帝修建毕圭苑",
+        "description": "汉灵帝在洛阳西园修建毕圭苑和灵昆苑，两苑广袤数十里，内有珍禽异兽、奇花异木。他还在西园开设'狗监'和'驴肆'，后宫养狗戴冠系绶，宫中养驴驾车取乐。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "社会",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马帝国北疆再度告急",
+        "description": "罗马皇帝康茂德统治时期，帝国北疆的多瑙河边境再度遭到日耳曼部落的侵扰。康茂德抛弃了马可·奥勒留的防御策略，通过向日耳曼部落支付大量黄金换取和平。",
+        "latitude": 47.5,
+        "longitude": 18.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "不列颠罗马驻军叛变",
+        "description": "不列颠罗马驻军因欠饷哗变。",
+        "latitude": 52.0,
+        "longitude": -1.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 187,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉灵帝刘宏", "era": "中平四年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉灵帝刘宏",
+        "era": "中平四年"
+      }
     ],
     "events": [
-      { "title": "张纯、张举在幽州叛乱", "description": "中山相张纯与前太山太守张举在幽州联合乌桓部落发动叛乱。张举自称天子，张纯自称弥天将军、安定王，率军攻掠蓟城、广阳等郡。东汉派刘虞率军征讨。", "latitude": 40.000, "longitude": 116.500, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "曹操任济南相", "description": "曹操被朝廷任命为济南相。他在济南相任上整顿吏治，罢免了八名贪赃枉法的县长，又禁绝淫祀、打击豪强。曹操的雷厉风行令济南官场震动，但也为其招致了地方势力的怨恨。", "latitude": 36.700, "longitude": 117.000, "category": "政治", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "张纯、张举在幽州叛乱",
+        "description": "中山相张纯与前太山太守张举在幽州联合乌桓部落发动叛乱。张举自称天子，张纯自称弥天将军、安定王，率军攻掠蓟城、广阳等郡。东汉派刘虞率军征讨。",
+        "latitude": 40.0,
+        "longitude": 116.5,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "曹操任济南相",
+        "description": "曹操被朝廷任命为济南相。他在济南相任上整顿吏治，罢免了八名贪赃枉法的县长，又禁绝淫祀、打击豪强。曹操的雷厉风行令济南官场震动，但也为其招致了地方势力的怨恨。",
+        "latitude": 36.7,
+        "longitude": 117.0,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马政变阴谋",
+        "description": "元老院密谋刺杀康茂德未遂。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 188,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉灵帝刘宏", "era": "中平五年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉灵帝刘宏",
+        "era": "中平五年"
+      }
     ],
     "events": [
-      { "title": "东汉改刺史为州牧", "description": "太常刘焉上书建议改刺史为州牧，赋予地方行政、军事和财政大权。汉灵帝采纳此建议，以刘焉为益州牧、刘表为荆州牧、黄琬为豫州牧。此举使地方长官权力急剧膨胀，为汉末军阀割据奠定了制度基础。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "西园八校尉设立", "description": "汉灵帝为加强中央军力，在西园组建新军，设立西园八校尉。宦官蹇硕被任命为上军校尉为元帅，袁绍为中军校尉，曹操为典军校尉。从此宦官掌握了中央禁军的指挥权。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "黄巾余部郭太在河东起义", "description": "黄巾军余部郭太在白波谷（今山西襄汾）重新起义，号'白波军'。白波军迅速发展到十余万人，攻占太原、河东等郡，切断了洛阳与并州的联系，对京师构成直接威胁。", "latitude": 35.900, "longitude": 111.400, "category": "军事", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "东汉改刺史为州牧",
+        "description": "太常刘焉上书建议改刺史为州牧，赋予地方行政、军事和财政大权。汉灵帝采纳此建议，以刘焉为益州牧、刘表为荆州牧、黄琬为豫州牧。此举使地方长官权力急剧膨胀，为汉末军阀割据奠定了制度基础。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "西园八校尉设立",
+        "description": "汉灵帝为加强中央军力，在西园组建新军，设立西园八校尉。宦官蹇硕被任命为上军校尉为元帅，袁绍为中军校尉，曹操为典军校尉。从此宦官掌握了中央禁军的指挥权。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "黄巾余部郭太在河东起义",
+        "description": "黄巾军余部郭太在白波谷（今山西襄汾）重新起义，号'白波军'。白波军迅速发展到十余万人，攻占太原、河东等郡，切断了洛阳与并州的联系，对京师构成直接威胁。",
+        "latitude": 35.9,
+        "longitude": 111.4,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "非洲罗马城市发展",
+        "description": "北非罗马城市提姆加德等繁荣发展。",
+        "latitude": 35.5,
+        "longitude": 6.5,
+        "category": "文化",
+        "region": "罗马帝国",
+        "continent": "非洲"
+      }
     ]
   },
   {
     "year": 189,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉灵帝刘宏", "era": "中平六年" },
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉少帝刘辩", "era": "光熹元年" },
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉献帝刘协", "era": "永汉元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉灵帝刘宏",
+        "era": "中平六年"
+      },
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉少帝刘辩",
+        "era": "光熹元年"
+      },
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉献帝刘协",
+        "era": "永汉元年"
+      }
     ],
     "events": [
-      { "title": "汉灵帝驾崩，少帝继位", "description": "汉灵帝刘宏病逝于嘉德殿，在位二十二年，终年三十四岁。何皇后之子、十七岁的刘辩继位，是为汉少帝。何太后临朝称制，大将军何进与太傅袁隗辅政。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "何进谋诛宦官事败身亡", "description": "大将军何进与袁绍密谋铲除宦官。何进采纳袁绍建议征召凉州董卓率军入京以胁迫何太后。宦官张让等十常侍得知消息后先发制人，在宫中伏杀何进。袁绍、袁术率军攻入皇宫，诛杀宦官两千余人。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "董卓入京乱政", "description": "并州牧董卓率凉州军进入洛阳，吞并何进和丁原的部众。董卓以武力控制朝政，废黜汉少帝刘辩为弘农王，改立其弟陈留王刘协为帝，是为汉献帝。董卓自封为相国，权倾朝野。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "康茂德被刺杀身亡", "description": "罗马皇帝康茂德在洗澡时被其情妇玛尔西娅和宫廷总管共同策划的阴谋所杀。康茂德在位十二年，荒淫无度、残暴不仁，其统治终结了三世纪危机的前奏。元老院宣布将其记录全部抹除（Damnatio Memoriae）。", "latitude": 41.893, "longitude": 12.485, "category": "政治", "region": "罗马帝国", "continent": "欧洲" },
-      { "title": "佩蒂纳克斯继任罗马皇帝", "description": "元老院拥立年迈的元老佩蒂纳克斯为罗马皇帝。佩蒂纳克斯试图整顿朝纲、打击腐败，恢复元老院权威，但遭到近卫军的敌视。他在位仅三个月即被近卫军杀害。", "latitude": 41.893, "longitude": 12.485, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "汉灵帝驾崩，少帝继位",
+        "description": "汉灵帝刘宏病逝于嘉德殿，在位二十二年，终年三十四岁。何皇后之子、十七岁的刘辩继位，是为汉少帝。何太后临朝称制，大将军何进与太傅袁隗辅政。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "何进谋诛宦官事败身亡",
+        "description": "大将军何进与袁绍密谋铲除宦官。何进采纳袁绍建议征召凉州董卓率军入京以胁迫何太后。宦官张让等十常侍得知消息后先发制人，在宫中伏杀何进。袁绍、袁术率军攻入皇宫，诛杀宦官两千余人。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "董卓入京乱政",
+        "description": "并州牧董卓率凉州军进入洛阳，吞并何进和丁原的部众。董卓以武力控制朝政，废黜汉少帝刘辩为弘农王，改立其弟陈留王刘协为帝，是为汉献帝。董卓自封为相国，权倾朝野。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "康茂德被刺杀身亡",
+        "description": "罗马皇帝康茂德在洗澡时被其情妇玛尔西娅和宫廷总管共同策划的阴谋所杀。康茂德在位十二年，荒淫无度、残暴不仁，其统治终结了三世纪危机的前奏。元老院宣布将其记录全部抹除（Damnatio Memoriae）。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "佩蒂纳克斯继任罗马皇帝",
+        "description": "元老院拥立年迈的元老佩蒂纳克斯为罗马皇帝。佩蒂纳克斯试图整顿朝纲、打击腐败，恢复元老院权威，但遭到近卫军的敌视。他在位仅三个月即被近卫军杀害。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "埃及基督教早期发展",
+        "description": "基督教在埃及亚历山大城传播。",
+        "latitude": 31.2,
+        "longitude": 29.9,
+        "category": "宗教",
+        "region": "罗马帝国",
+        "continent": "非洲"
+      }
     ]
   },
   {
     "year": 190,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉献帝刘协", "era": "初平元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉献帝刘协",
+        "era": "初平元年"
+      }
     ],
     "events": [
-      { "title": "关东诸侯举兵讨董", "description": "勃海太守袁绍联合东郡太守桥瑁、兖州刺史刘岱、豫州刺史孔伷、长沙太守孙坚等关东州郡同时起兵，推举袁绍为盟主，组成联军讨伐董卓。联军总兵力达十余万人。", "latitude": 35.000, "longitude": 114.500, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "董卓逼献帝迁都长安", "description": "为躲避关东联军的锋芒，董卓强行挟持汉献帝和洛阳百万百姓迁都长安。临行前董卓下令焚烧洛阳宫殿、庙宇和民居，挖掘帝王陵墓抢夺珍宝。洛阳城被大火焚烧数日，化为废墟。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "孙坚攻入洛阳得传国玉玺", "description": "孙坚率军攻入洛阳，在宫中一口枯井中发现了传国玉玺。孙坚私藏玉玺返回鲁阳，从此与袁绍结怨。传国玉玺的发现象征着天命所归，成为各路军阀争夺的焦点。", "latitude": 34.682, "longitude": 112.470, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "袁绍谋取冀州", "description": "袁绍利用联军盟主的身份，设计夺取了冀州牧韩馥的地盘。韩馥被迫将冀州让给袁绍，袁绍以邺城为据点，迅速成为黄河以北最强大的势力。", "latitude": 36.000, "longitude": 114.500, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "罗马进入三世纪危机元年", "description": "公元193年成为罗马历史上的'五帝之年'。在佩蒂纳克斯被杀后，近卫军公然将皇位拍卖给出价最高的元老尤利安努斯。潘诺尼亚军团拥立塞普蒂米乌斯·塞维鲁为帝，塞维鲁率军攻入罗马夺位。", "latitude": 41.893, "longitude": 12.485, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "关东诸侯举兵讨董",
+        "description": "勃海太守袁绍联合东郡太守桥瑁、兖州刺史刘岱、豫州刺史孔伷、长沙太守孙坚等关东州郡同时起兵，推举袁绍为盟主，组成联军讨伐董卓。联军总兵力达十余万人。",
+        "latitude": 35.0,
+        "longitude": 114.5,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "董卓逼献帝迁都长安",
+        "description": "为躲避关东联军的锋芒，董卓强行挟持汉献帝和洛阳百万百姓迁都长安。临行前董卓下令焚烧洛阳宫殿、庙宇和民居，挖掘帝王陵墓抢夺珍宝。洛阳城被大火焚烧数日，化为废墟。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "孙坚攻入洛阳得传国玉玺",
+        "description": "孙坚率军攻入洛阳，在宫中一口枯井中发现了传国玉玺。孙坚私藏玉玺返回鲁阳，从此与袁绍结怨。传国玉玺的发现象征着天命所归，成为各路军阀争夺的焦点。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "袁绍谋取冀州",
+        "description": "袁绍利用联军盟主的身份，设计夺取了冀州牧韩馥的地盘。韩馥被迫将冀州让给袁绍，袁绍以邺城为据点，迅速成为黄河以北最强大的势力。",
+        "latitude": 36.0,
+        "longitude": 114.5,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马进入三世纪危机元年",
+        "description": "公元193年成为罗马历史上的'五帝之年'。在佩蒂纳克斯被杀后，近卫军公然将皇位拍卖给出价最高的元老尤利安努斯。潘诺尼亚军团拥立塞普蒂米乌斯·塞维鲁为帝，塞维鲁率军攻入罗马夺位。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "汉朝羌人起义",
+        "description": "东汉在西北镇压羌人起义耗费大量国力。",
+        "latitude": 36.0,
+        "longitude": 104.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 191,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉献帝刘协", "era": "初平二年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉献帝刘协",
+        "era": "初平二年"
+      }
     ],
     "events": [
-      { "title": "袁绍与袁术兄弟反目", "description": "袁绍与袁术因争夺地盘和政治野心产生严重矛盾。袁术联合公孙瓒对抗袁绍，袁绍联合刘表牵制袁术。袁氏兄弟同室操戈，加速了关东联军的瓦解。", "latitude": 35.000, "longitude": 114.500, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "曹操收编青州黄巾", "description": "曹操在兖州东郡大破青州黄巾军，收降降卒三十余万，男女百余万口。他从中选拔精锐组建'青州兵'，成为曹操逐鹿中原的核心军事力量。曹操控制了兖州，开始建立自己的根据地。", "latitude": 35.500, "longitude": 115.500, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "公孙瓒大败刘虞占据幽州", "description": "公孙瓒率军攻击幽州牧刘虞，刘虞兵败被杀。公孙瓒占据了幽州全境，成为北方最强大的军阀之一。他与袁绍在河北地区展开长期争霸战。", "latitude": 40.000, "longitude": 116.500, "category": "军事", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "袁绍与袁术兄弟反目",
+        "description": "袁绍与袁术因争夺地盘和政治野心产生严重矛盾。袁术联合公孙瓒对抗袁绍，袁绍联合刘表牵制袁术。袁氏兄弟同室操戈，加速了关东联军的瓦解。",
+        "latitude": 35.0,
+        "longitude": 114.5,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "曹操收编青州黄巾",
+        "description": "曹操在兖州东郡大破青州黄巾军，收降降卒三十余万，男女百余万口。他从中选拔精锐组建'青州兵'，成为曹操逐鹿中原的核心军事力量。曹操控制了兖州，开始建立自己的根据地。",
+        "latitude": 35.5,
+        "longitude": 115.5,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "公孙瓒大败刘虞占据幽州",
+        "description": "公孙瓒率军攻击幽州牧刘虞，刘虞兵败被杀。公孙瓒占据了幽州全境，成为北方最强大的军阀之一。他与袁绍在河北地区展开长期争霸战。",
+        "latitude": 40.0,
+        "longitude": 116.5,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马元老院谋反",
+        "description": "元老院秘密策划推翻康茂德。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 192,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉献帝刘协", "era": "初平三年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉献帝刘协",
+        "era": "初平三年"
+      }
     ],
     "events": [
-      { "title": "王允设计诛杀董卓", "description": "司徒王允利用董卓与义子吕布之间的矛盾，设计说服吕布杀死董卓。吕布在未央殿前刺杀董卓，董卓当场毙命。长安城中百姓欢呼雀跃，王允总揽朝政。", "latitude": 34.320, "longitude": 108.860, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "李傕、郭汜反攻长安", "description": "董卓部将李傕、郭汜等以西凉军旧部为号召，率军反攻长安。吕布战败出逃，李傕、郭汜攻入长安杀害王允，控制了朝政。李傕自封为大将军，郭汜为车骑将军，关中陷入更大混乱。", "latitude": 34.320, "longitude": 108.860, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "曹操在兖州击败黄巾余部", "description": "曹操在兖州连续击败黄巾余部，收降大量降卒。他在兖州广招贤才，荀彧、程昱、郭嘉等人先后投奔曹操。曹操的势力在中原地区迅速壮大。", "latitude": 35.500, "longitude": 115.500, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "塞维鲁巩固罗马皇位", "description": "罗马皇帝塞普蒂米乌斯·塞维鲁击败了西方的竞争者克洛狄乌斯·阿尔比努斯，巩固了自己的皇位。塞维鲁是北非出身的罗马皇帝，他重用行省贵族，改革军队和行政体系，建立了塞维鲁王朝。", "latitude": 41.893, "longitude": 12.485, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "王允设计诛杀董卓",
+        "description": "司徒王允利用董卓与义子吕布之间的矛盾，设计说服吕布杀死董卓。吕布在未央殿前刺杀董卓，董卓当场毙命。长安城中百姓欢呼雀跃，王允总揽朝政。",
+        "latitude": 34.32,
+        "longitude": 108.86,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "李傕、郭汜反攻长安",
+        "description": "董卓部将李傕、郭汜等以西凉军旧部为号召，率军反攻长安。吕布战败出逃，李傕、郭汜攻入长安杀害王允，控制了朝政。李傕自封为大将军，郭汜为车骑将军，关中陷入更大混乱。",
+        "latitude": 34.32,
+        "longitude": 108.86,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "曹操在兖州击败黄巾余部",
+        "description": "曹操在兖州连续击败黄巾余部，收降大量降卒。他在兖州广招贤才，荀彧、程昱、郭嘉等人先后投奔曹操。曹操的势力在中原地区迅速壮大。",
+        "latitude": 35.5,
+        "longitude": 115.5,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "塞维鲁巩固罗马皇位",
+        "description": "罗马皇帝塞普蒂米乌斯·塞维鲁击败了西方的竞争者克洛狄乌斯·阿尔比努斯，巩固了自己的皇位。塞维鲁是北非出身的罗马皇帝，他重用行省贵族，改革军队和行政体系，建立了塞维鲁王朝。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 193,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉献帝刘协", "era": "初平四年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉献帝刘协",
+        "era": "初平四年"
+      }
     ],
     "events": [
-      { "title": "曹操攻徐州大屠杀", "description": "曹操以报父仇为名，率军攻入徐州牧陶谦的领地。曹操在徐州进行了惨无人道的大屠杀，'凡杀男女数十万人，鸡犬无余，泗水为之不流'。这一暴行成为曹操一生的污点。", "latitude": 34.500, "longitude": 117.500, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "长安发生严重饥荒", "description": "李傕、郭汜等人在长安互相攻杀，关中地区陷入无政府状态。长安城中粮价飞涨，百姓易子而食，饿殍遍地。朝廷仓廪空虚，百官饿死或逃散者不计其数。", "latitude": 34.320, "longitude": 108.860, "category": "社会", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "曹操攻徐州大屠杀",
+        "description": "曹操以报父仇为名，率军攻入徐州牧陶谦的领地。曹操在徐州进行了惨无人道的大屠杀，'凡杀男女数十万人，鸡犬无余，泗水为之不流'。这一暴行成为曹操一生的污点。",
+        "latitude": 34.5,
+        "longitude": 117.5,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "长安发生严重饥荒",
+        "description": "李傕、郭汜等人在长安互相攻杀，关中地区陷入无政府状态。长安城中粮价飞涨，百姓易子而食，饿殍遍地。朝廷仓廪空虚，百官饿死或逃散者不计其数。",
+        "latitude": 34.32,
+        "longitude": 108.86,
+        "category": "社会",
+        "region": "东汉",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 194,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉献帝刘协", "era": "兴平元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉献帝刘协",
+        "era": "兴平元年"
+      }
     ],
     "events": [
-      { "title": "刘备援徐州初展锋芒", "description": "徐州牧陶谦向青州刺史田楷求救，田楷与刘备率军前往救援徐州。刘备仅有兵千余人，陶谦增拨四千兵给刘备。刘备遂脱离田楷归附陶谦，被表为豫州刺史，屯驻小沛。", "latitude": 34.500, "longitude": 117.000, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "三辅大旱，蝗灾肆虐", "description": "关中大旱，蝗虫成灾，谷价暴涨至五十万钱一斛。长安城中出现了人吃人的惨剧。李傕、郭汜互相攻伐，加剧了关中地区的苦难。汉献帝下诏开仓赈灾，但杯水车薪。", "latitude": 34.320, "longitude": 108.860, "category": "社会", "region": "东汉", "continent": "亚洲" },
-      { "title": "陶谦病逝，刘备领徐州", "description": "徐州牧陶谦病重，临终前将徐州托付给刘备。刘备在陈登、孔融等人的支持下接管徐州，自领徐州牧。刘备首次拥有了一块稳固的根据地，开始了政治上的独立发展。", "latitude": 34.000, "longitude": 117.000, "category": "政治", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "刘备援徐州初展锋芒",
+        "description": "徐州牧陶谦向青州刺史田楷求救，田楷与刘备率军前往救援徐州。刘备仅有兵千余人，陶谦增拨四千兵给刘备。刘备遂脱离田楷归附陶谦，被表为豫州刺史，屯驻小沛。",
+        "latitude": 34.5,
+        "longitude": 117.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "三辅大旱，蝗灾肆虐",
+        "description": "关中大旱，蝗虫成灾，谷价暴涨至五十万钱一斛。长安城中出现了人吃人的惨剧。李傕、郭汜互相攻伐，加剧了关中地区的苦难。汉献帝下诏开仓赈灾，但杯水车薪。",
+        "latitude": 34.32,
+        "longitude": 108.86,
+        "category": "社会",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "陶谦病逝，刘备领徐州",
+        "description": "徐州牧陶谦病重，临终前将徐州托付给刘备。刘备在陈登、孔融等人的支持下接管徐州，自领徐州牧。刘备首次拥有了一块稳固的根据地，开始了政治上的独立发展。",
+        "latitude": 34.0,
+        "longitude": 117.0,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "潘诺尼亚军团拥护塞维鲁",
+        "description": "潘诺尼亚军团拥立塞普蒂米乌斯·塞维鲁为帝。",
+        "latitude": 47.0,
+        "longitude": 19.0,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 195,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉献帝刘协", "era": "兴平二年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉献帝刘协",
+        "era": "兴平二年"
+      }
     ],
     "events": [
-      { "title": "李傕郭汜内讧，献帝东逃", "description": "李傕与郭汜在长安城中公开火并，互相攻打数月。汉献帝在董昭等大臣的保护下趁机逃出长安，一路东行向洛阳方向逃亡。天子流亡标志着东汉中央权威的彻底崩溃。", "latitude": 34.500, "longitude": 110.000, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "吕布趁虚袭击兖州", "description": "曹操东征徐州期间，吕布趁虚攻占兖州大部。曹操回师与吕布在濮阳展开激战，双方相持百余日。最终因蝗灾缺粮各自罢兵，曹操虽未收复全部失地但保住了兖州基本盘。", "latitude": 35.700, "longitude": 115.000, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "孙策在江东崭露头角", "description": "孙坚之子孙策率部曲千余人渡江东下，在江东地区招兵买马。孙策以周瑜、张昭等人为辅，迅速攻占曲阿、吴郡等地，在江东建立了自己的势力基础。", "latitude": 32.000, "longitude": 120.500, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "塞维鲁击败东方竞争者", "description": "罗马皇帝塞普蒂米乌斯·塞维鲁在东方击败了竞争者佩森尼乌斯·尼格尔，统一了帝国东部。塞维鲁对支持尼格尔的安条克等城市进行严厉惩罚，巩固了对东方的控制。", "latitude": 36.200, "longitude": 36.200, "category": "军事", "region": "罗马帝国", "continent": "亚洲" }
+      {
+        "title": "李傕郭汜内讧，献帝东逃",
+        "description": "李傕与郭汜在长安城中公开火并，互相攻打数月。汉献帝在董昭等大臣的保护下趁机逃出长安，一路东行向洛阳方向逃亡。天子流亡标志着东汉中央权威的彻底崩溃。",
+        "latitude": 34.5,
+        "longitude": 110.0,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "吕布趁虚袭击兖州",
+        "description": "曹操东征徐州期间，吕布趁虚攻占兖州大部。曹操回师与吕布在濮阳展开激战，双方相持百余日。最终因蝗灾缺粮各自罢兵，曹操虽未收复全部失地但保住了兖州基本盘。",
+        "latitude": 35.7,
+        "longitude": 115.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "孙策在江东崭露头角",
+        "description": "孙坚之子孙策率部曲千余人渡江东下，在江东地区招兵买马。孙策以周瑜、张昭等人为辅，迅速攻占曲阿、吴郡等地，在江东建立了自己的势力基础。",
+        "latitude": 32.0,
+        "longitude": 120.5,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "塞维鲁击败东方竞争者",
+        "description": "罗马皇帝塞普蒂米乌斯·塞维鲁在东方击败了竞争者佩森尼乌斯·尼格尔，统一了帝国东部。塞维鲁对支持尼格尔的安条克等城市进行严厉惩罚，巩固了对东方的控制。",
+        "latitude": 36.2,
+        "longitude": 36.2,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "塞维鲁击败佩西尼乌斯·尼格尔",
+        "description": "塞维鲁在伊苏斯击败叙利亚总督尼格尔。",
+        "latitude": 36.5,
+        "longitude": 36.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 196,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉献帝刘协", "era": "建安元年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉献帝刘协",
+        "era": "建安元年"
+      }
     ],
     "events": [
-      { "title": "曹操迎汉献帝迁都许昌", "description": "曹操采纳荀彧的建议，亲率大军至洛阳将汉献帝迎接到许昌（今河南许昌）。献帝封曹操为大将军、武平侯。曹操从此挟天子以令诸侯，在政治上取得了压倒性的优势地位。", "latitude": 34.000, "longitude": 113.800, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "曹操在许昌屯田", "description": "曹操接受枣祗的建议，在许昌附近实行屯田制度。招募流民耕种官田，用官牛者缴纳六成收获，不用官牛者缴纳一半。屯田制为曹操提供了稳定的军粮供应，极大增强了经济实力。", "latitude": 34.000, "longitude": 113.800, "category": "经济", "region": "东汉", "continent": "亚洲" },
-      { "title": "刘备被吕布偷袭失徐州", "description": "刘备在徐州与袁术作战期间，吕布趁机偷袭下邳，俘获了刘备的妻儿。刘备腹背受敌，兵败后进退失据，被迫向吕布求和。吕布归还刘备妻儿，让刘备屯驻小沛。", "latitude": 34.500, "longitude": 117.500, "category": "军事", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "曹操迎汉献帝迁都许昌",
+        "description": "曹操采纳荀彧的建议，亲率大军至洛阳将汉献帝迎接到许昌（今河南许昌）。献帝封曹操为大将军、武平侯。曹操从此挟天子以令诸侯，在政治上取得了压倒性的优势地位。",
+        "latitude": 34.0,
+        "longitude": 113.8,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "曹操在许昌屯田",
+        "description": "曹操接受枣祗的建议，在许昌附近实行屯田制度。招募流民耕种官田，用官牛者缴纳六成收获，不用官牛者缴纳一半。屯田制为曹操提供了稳定的军粮供应，极大增强了经济实力。",
+        "latitude": 34.0,
+        "longitude": 113.8,
+        "category": "经济",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "刘备被吕布偷袭失徐州",
+        "description": "刘备在徐州与袁术作战期间，吕布趁机偷袭下邳，俘获了刘备的妻儿。刘备腹背受敌，兵败后进退失据，被迫向吕布求和。吕布归还刘备妻儿，让刘备屯驻小沛。",
+        "latitude": 34.5,
+        "longitude": 117.5,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 197,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉献帝刘协", "era": "建安二年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉献帝刘协",
+        "era": "建安二年"
+      }
     ],
     "events": [
-      { "title": "袁术称帝", "description": "袁术在寿春（今安徽寿县）自称天子，建号仲家，置公卿百官。袁术称帝后荒淫奢侈，横征暴敛，导致境内百姓困苦、部众离心。曹操、刘备等纷纷起兵讨伐。", "latitude": 32.500, "longitude": 116.800, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "曹操讨伐张绣", "description": "曹操率军征讨南阳张绣，张绣投降。后因曹操纳张绣之叔张济的遗孀为妾，张绣感到耻辱而复叛，突袭曹军。曹操长子曹昂、侄子曹安民和大将典韦战死，曹操本人受伤狼狈逃脱。", "latitude": 33.000, "longitude": 112.500, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "塞维鲁远征不列颠", "description": "罗马皇帝塞普蒂米乌斯·塞维鲁率军远征不列颠行省，讨伐北方皮克特人的叛乱。他修复了哈德良长城，并在不列颠北部建立了军事据点，巩固了罗马在不列颠的统治。", "latitude": 55.000, "longitude": -3.000, "category": "军事", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "袁术称帝",
+        "description": "袁术在寿春（今安徽寿县）自称天子，建号仲家，置公卿百官。袁术称帝后荒淫奢侈，横征暴敛，导致境内百姓困苦、部众离心。曹操、刘备等纷纷起兵讨伐。",
+        "latitude": 32.5,
+        "longitude": 116.8,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "曹操讨伐张绣",
+        "description": "曹操率军征讨南阳张绣，张绣投降。后因曹操纳张绣之叔张济的遗孀为妾，张绣感到耻辱而复叛，突袭曹军。曹操长子曹昂、侄子曹安民和大将典韦战死，曹操本人受伤狼狈逃脱。",
+        "latitude": 33.0,
+        "longitude": 112.5,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "塞维鲁远征不列颠",
+        "description": "罗马皇帝塞普蒂米乌斯·塞维鲁率军远征不列颠行省，讨伐北方皮克特人的叛乱。他修复了哈德良长城，并在不列颠北部建立了军事据点，巩固了罗马在不列颠的统治。",
+        "latitude": 55.0,
+        "longitude": -3.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "塞维鲁击败阿尔比努斯",
+        "description": "塞维鲁在高卢击败不列颠总督阿尔比努斯。",
+        "latitude": 46.0,
+        "longitude": 5.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   },
   {
     "year": 198,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉献帝刘协", "era": "建安三年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉献帝刘协",
+        "era": "建安三年"
+      }
     ],
     "events": [
-      { "title": "曹操消灭吕布", "description": "曹操联合刘备、孙策等势力围攻吕布于下邳。吕布军心涣散，部将侯成、宋宪等绑缚吕布投降。曹操下令缢杀吕布于白门楼下，并诛杀陈宫、高顺等吕布部将。徐州全境落入曹操之手。", "latitude": 34.500, "longitude": 117.500, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "孙策统一江东", "description": "孙策在周瑜、张昭等人的辅佐下继续扫平江东各地割据势力。他先后击败严白虎、王朗等势力，占领会稽、丹阳、吴郡、豫章等地。孙策军纪严明，深得江东百姓拥戴。", "latitude": 32.000, "longitude": 120.500, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "罗马皇帝塞维鲁病逝", "description": "罗马皇帝塞普蒂米乌斯·塞维鲁在不列颠的约克病逝，终年六十五岁。他临终前嘱咐两个儿子卡拉卡拉和盖塔'团结一致、善待士兵、漠视其他人'。塞维鲁是罗马三世纪危机中一位强有力的统治者。", "latitude": 53.960, "longitude": -1.080, "category": "政治", "region": "罗马帝国", "continent": "欧洲" },
-      { "title": "卡拉卡拉继位并杀害盖塔", "description": "塞维鲁之子卡拉卡拉和盖塔共同继位，但两人矛盾极深。卡拉卡拉在母亲面前将盖塔刺杀于怀中，随后处决了盖塔的支持者约两万人。卡拉卡拉独掌大权，以残暴著称。", "latitude": 41.893, "longitude": 12.485, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "曹操消灭吕布",
+        "description": "曹操联合刘备、孙策等势力围攻吕布于下邳。吕布军心涣散，部将侯成、宋宪等绑缚吕布投降。曹操下令缢杀吕布于白门楼下，并诛杀陈宫、高顺等吕布部将。徐州全境落入曹操之手。",
+        "latitude": 34.5,
+        "longitude": 117.5,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "孙策统一江东",
+        "description": "孙策在周瑜、张昭等人的辅佐下继续扫平江东各地割据势力。他先后击败严白虎、王朗等势力，占领会稽、丹阳、吴郡、豫章等地。孙策军纪严明，深得江东百姓拥戴。",
+        "latitude": 32.0,
+        "longitude": 120.5,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马皇帝塞维鲁病逝",
+        "description": "罗马皇帝塞普蒂米乌斯·塞维鲁在不列颠的约克病逝，终年六十五岁。他临终前嘱咐两个儿子卡拉卡拉和盖塔'团结一致、善待士兵、漠视其他人'。塞维鲁是罗马三世纪危机中一位强有力的统治者。",
+        "latitude": 53.96,
+        "longitude": -1.08,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "卡拉卡拉继位并杀害盖塔",
+        "description": "塞维鲁之子卡拉卡拉和盖塔共同继位，但两人矛盾极深。卡拉卡拉在母亲面前将盖塔刺杀于怀中，随后处决了盖塔的支持者约两万人。卡拉卡拉独掌大权，以残暴著称。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "塞维鲁攻占泰西封",
+        "description": "塞维鲁攻陷帕提亚首都泰西封。",
+        "latitude": 33.0,
+        "longitude": 44.5,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 199,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉献帝刘协", "era": "建安四年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉献帝刘协",
+        "era": "建安四年"
+      }
     ],
     "events": [
-      { "title": "袁绍消灭公孙瓒统一河北", "description": "袁绍率大军围攻易京，公孙瓒兵败自焚而死。袁绍占领幽州全境，加上已有的冀、青、并三州，坐拥黄河以北四州之地，拥兵数十万，成为当时天下最强大的割据势力。", "latitude": 39.000, "longitude": 116.000, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "曹操与袁绍决战前夕", "description": "袁绍消灭公孙瓒后，曹操乘机消灭吕布、收服张绣、控制徐州和豫州。天下大势呈现曹操与袁绍南北对峙的局面。双方都在积极备战，招募兵马、囤积粮草，官渡之战已不可避免。", "latitude": 35.000, "longitude": 114.500, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "刘备再失徐州投奔袁绍", "description": "刘备与曹操在徐州发生冲突，刘备袭击杀死了曹操的徐州刺史车胄。曹操率军东征，刘备大败，妻儿被俘。刘备被迫北投袁绍，暂居邺城以图东山再起。", "latitude": 34.500, "longitude": 117.000, "category": "军事", "region": "东汉", "continent": "亚洲" }
+      {
+        "title": "袁绍消灭公孙瓒统一河北",
+        "description": "袁绍率大军围攻易京，公孙瓒兵败自焚而死。袁绍占领幽州全境，加上已有的冀、青、并三州，坐拥黄河以北四州之地，拥兵数十万，成为当时天下最强大的割据势力。",
+        "latitude": 39.0,
+        "longitude": 116.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "曹操与袁绍决战前夕",
+        "description": "袁绍消灭公孙瓒后，曹操乘机消灭吕布、收服张绣、控制徐州和豫州。天下大势呈现曹操与袁绍南北对峙的局面。双方都在积极备战，招募兵马、囤积粮草，官渡之战已不可避免。",
+        "latitude": 35.0,
+        "longitude": 114.5,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "刘备再失徐州投奔袁绍",
+        "description": "刘备与曹操在徐州发生冲突，刘备袭击杀死了曹操的徐州刺史车胄。曹操率军东征，刘备大败，妻儿被俘。刘备被迫北投袁绍，暂居邺城以图东山再起。",
+        "latitude": 34.5,
+        "longitude": 117.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉朝太医华佗活动",
+        "description": "东汉名医华佗在外科和针灸方面达到很高成就。",
+        "latitude": 34.0,
+        "longitude": 115.0,
+        "category": "科技",
+        "region": "东汉",
+        "continent": "亚洲"
+      }
     ]
   },
   {
     "year": 200,
     "dynasties": [
-      { "dynastyId": "donghan", "name": "东汉", "ruler": "汉献帝刘协", "era": "建安五年" }
+      {
+        "dynastyId": "donghan",
+        "name": "东汉",
+        "ruler": "汉献帝刘协",
+        "era": "建安五年"
+      }
     ],
     "events": [
-      { "title": "官渡之战——曹操大破袁绍", "description": "曹操与袁绍在官渡（今河南中牟）展开决战。袁绍拥兵十万，曹操仅有两万。曹操采纳许攸的计策，率精骑五千夜袭乌巢，火烧袁军粮草辎重。袁绍军心崩溃，全军大败，仅带八百骑逃回河北。", "latitude": 34.800, "longitude": 114.000, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "孙策遇刺身亡，孙权继位", "description": "江东小霸王孙策在丹徒山狩猎时被许贡门客刺杀，重伤不治而亡，年仅二十六岁。其弟孙权继领江东基业，在张昭、周瑜等人的辅佐下稳定江东局势。曹操表孙权为讨虏将军、会稽太守。", "latitude": 32.000, "longitude": 119.500, "category": "政治", "region": "东汉", "continent": "亚洲" },
-      { "title": "刘备在汝南招兵买马", "description": "刘备在官渡之战期间以联络汝南黄巾余部刘辟等为名，脱离袁绍南下汝南。他在汝南招兵买马，聚合了数千人的队伍，并与荆州刘表取得联系，为日后三顾茅庐请诸葛亮埋下伏笔。", "latitude": 33.000, "longitude": 114.000, "category": "军事", "region": "东汉", "continent": "亚洲" },
-      { "title": "关羽挂印封金千里寻兄", "description": "关羽在下邳被曹操俘虏后受封汉寿亭侯。但他始终心系刘备，得知刘备下落后勤加辞别曹操，曹操避而不见。关羽遂挂印封金，留书一封，护送刘备两位夫人千里投奔。关羽的忠义精神被后世传颂。", "latitude": 34.000, "longitude": 113.800, "category": "文化", "region": "东汉", "continent": "亚洲" },
-      { "title": "卡拉卡拉颁布安东尼努斯敕令", "description": "罗马皇帝卡拉卡拉颁布《安东尼努斯敕令》，授予帝国境内所有自由民以罗马公民权。此举扩大了帝国的税基，增加了国库收入，但也使罗马公民身份失去了传统特权地位。", "latitude": 41.893, "longitude": 12.485, "category": "政治", "region": "罗马帝国", "continent": "欧洲" }
+      {
+        "title": "官渡之战——曹操大破袁绍",
+        "description": "曹操与袁绍在官渡（今河南中牟）展开决战。袁绍拥兵十万，曹操仅有两万。曹操采纳许攸的计策，率精骑五千夜袭乌巢，火烧袁军粮草辎重。袁绍军心崩溃，全军大败，仅带八百骑逃回河北。",
+        "latitude": 34.8,
+        "longitude": 114.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "孙策遇刺身亡，孙权继位",
+        "description": "江东小霸王孙策在丹徒山狩猎时被许贡门客刺杀，重伤不治而亡，年仅二十六岁。其弟孙权继领江东基业，在张昭、周瑜等人的辅佐下稳定江东局势。曹操表孙权为讨虏将军、会稽太守。",
+        "latitude": 32.0,
+        "longitude": 119.5,
+        "category": "政治",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "刘备在汝南招兵买马",
+        "description": "刘备在官渡之战期间以联络汝南黄巾余部刘辟等为名，脱离袁绍南下汝南。他在汝南招兵买马，聚合了数千人的队伍，并与荆州刘表取得联系，为日后三顾茅庐请诸葛亮埋下伏笔。",
+        "latitude": 33.0,
+        "longitude": 114.0,
+        "category": "军事",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "关羽挂印封金千里寻兄",
+        "description": "关羽在下邳被曹操俘虏后受封汉寿亭侯。但他始终心系刘备，得知刘备下落后勤加辞别曹操，曹操避而不见。关羽遂挂印封金，留书一封，护送刘备两位夫人千里投奔。关羽的忠义精神被后世传颂。",
+        "latitude": 34.0,
+        "longitude": 113.8,
+        "category": "文化",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "卡拉卡拉颁布安东尼努斯敕令",
+        "description": "罗马皇帝卡拉卡拉颁布《安东尼努斯敕令》，授予帝国境内所有自由民以罗马公民权。此举扩大了帝国的税基，增加了国库收入，但也使罗马公民身份失去了传统特权地位。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      }
     ]
   }
 ]
