@@ -134,11 +134,7 @@ html, body {
 #calendar-timeline-container {
   position: relative;
   height: var(--calendar-timeline-height);
-  cursor: grab;
-}
-
-#calendar-timeline-container:active {
-  cursor: grabbing;
+  cursor: pointer;
 }
 
 #calendar-canvas {
@@ -633,12 +629,16 @@ kbd {
     padding: 0 var(--spacing-sm);
   }
 
+  #shortcut-btn {
+    display: none;
+  }
+
   #site-title {
-    font-size: 16px;
+    font-size: 13px;
   }
 
   #rule-quote {
-    font-size: 13px;
+    font-size: 11px;
   }
 
   #calendar-timeline-container {
