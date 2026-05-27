@@ -423,6 +423,23 @@ html, body {
   max-width: 200px;
 }
 
+@media (max-width: 374px) {
+  .mob-nav-btn {
+    font-size: 10px;
+    height: 22px;
+  }
+
+  #mob-year-display {
+    font-size: 11px;
+    padding: 2px 2px;
+  }
+
+  #mobile-year-nav {
+    padding: 2px 2px;
+    gap: 2px;
+  }
+}
+
 #copyright {
   flex-shrink: 0;
   height: var(--copyright-height);
@@ -433,6 +450,10 @@ html, body {
   border-top: 1px solid var(--color-border);
   font-size: 10px;
   color: var(--color-text-muted);
+}
+
+#mobile-year-nav {
+  display: none;
 }
 
 #loading-overlay {
@@ -601,24 +622,88 @@ kbd {
 
 @media (max-width: 767px) {
   :root {
-    --dynasty-row-height: 12px;
-    --dynasty-timeline-height: 20px;
+    --dynasty-row-height: 16px;
+    --dynasty-timeline-height: 28px;
     --calendar-timeline-height: 30px;
     --event-list-height: 100px;
-    --header-height: 28px;
+    --header-height: 34px;
   }
 
   #header {
-    padding: 0 var(--spacing-xs);
+    padding: 0 var(--spacing-sm);
   }
 
   #site-title {
+    font-size: 16px;
+  }
+
+  #rule-quote {
     font-size: 13px;
   }
 
   #calendar-timeline-container {
     -webkit-tap-highlight-color: transparent;
     touch-action: manipulation;
+  }
+
+  #mobile-year-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    padding: 4px 4px;
+    background: var(--color-surface);
+    border-bottom: 1px solid var(--color-border);
+    flex-shrink: 0;
+    width: 100%;
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+    user-select: none;
+  }
+
+  .mob-nav-btn {
+    flex: 1;
+    height: 26px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    color: var(--color-text);
+    font-size: 12px;
+    cursor: pointer;
+    min-width: 0;
+    line-height: 1;
+    padding: 0 2px;
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+  }
+
+  .mob-nav-btn:active {
+    background: var(--color-accent);
+    color: #fff;
+    border-color: var(--color-accent);
+  }
+
+  #mob-year-display {
+    flex: 3;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--color-accent);
+    padding: 4px 2px;
+    cursor: pointer;
+    border-radius: var(--radius-sm);
+    min-width: 0;
+    line-height: 1.2;
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+    user-select: none;
+  }
+
+  #mob-year-display:active {
+    background: rgba(88, 166, 255, 0.1);
   }
 
   #event-detail-panel {
@@ -662,6 +747,22 @@ kbd {
     --dynasty-row-height: 14px;
     --dynasty-timeline-height: 24px;
     --calendar-timeline-height: 24px;
+  }
+
+  .event-continent-group {
+    flex: 1 1 240px;
+    min-width: 200px;
+  }
+}
+
+@media (min-width: 1600px) {
+  :root {
+    --event-list-height: 180px;
+  }
+
+  .event-continent-group {
+    flex: 1 1 280px;
+    min-width: 240px;
   }
 }
 

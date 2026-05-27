@@ -10,7 +10,11 @@ const App = (() => {
     pixelsPerYear: 1.5,
     eventsCache: {},
     markers: [],
-    activeMarker: null
+    activeMarker: null,
+    contentYears: [],
+    contentYearIndex: {},
+    viewStartIdx: 0,
+    pixelsPerContentYear: 1.5
   }
 
   const dom = {}
@@ -50,6 +54,8 @@ const App = (() => {
     dom.calendarTooltip = document.getElementById('calendar-tooltip')
     dom.dynastyContainer = document.getElementById('dynasty-timeline-container')
     dom.calendarContainer = document.getElementById('calendar-timeline-container')
+    dom.mobYearNav = document.getElementById('mobile-year-nav')
+    dom.mobYearDisplay = document.getElementById('mob-year-display')
   }
 
   const dynasties = [
@@ -72,7 +78,6 @@ const App = (() => {
     { id: 'wudai', name: '五代十国', start: 907, end: 960, color: '#ab8b5a' },
     { id: 'liao', name: '辽', start: 907, end: 1125, color: '#8b6b4a' },
     { id: 'beisong', name: '北宋', start: 960, end: 1127, color: '#5b9e5b' },
-    { id: 'xixia', name: '西夏', start: 1038, end: 1227, color: '#b8956e' },
     { id: 'jin', name: '金', start: 1115, end: 1234, color: '#7a9cc6' },
     { id: 'nansong', name: '南宋', start: 1127, end: 1279, color: '#6db36d' },
     { id: 'yuan', name: '元', start: 1271, end: 1368, color: '#4a7c8c' },
@@ -97,12 +102,58 @@ const App = (() => {
     }
   }
 
+  function updateMobileYearDisplay(year) {
+    if (dom.mobYearDisplay) {
+      dom.mobYearDisplay.textContent = formatYear(year)
+    }
+  }
+
   function yearToX(year, canvasWidth) {
-    return ((year - YEAR_MIN) / YEAR_RANGE) * canvasWidth
+    const adjusted = year <= 0 ? year : year - 1
+    return ((adjusted - YEAR_MIN) / YEAR_RANGE) * canvasWidth
   }
 
   function xToYear(x, canvasWidth) {
-    return Math.round(YEAR_MIN + (x / canvasWidth) * YEAR_RANGE)
+    const raw = YEAR_MIN + (x / canvasWidth) * YEAR_RANGE
+    const adjusted = raw <= 0 ? raw : raw + 1
+    const rounded = Math.round(adjusted)
+    return rounded === 0 ? -1 : rounded
+  }
+
+  function getContentIndex(year) {
+    return state.contentYearIndex[year]
+  }
+
+  function contentIdxToYear(idx) {
+    return state.contentYears[idx]
+  }
+
+  function contentIdxToX(idx, drawW) {
+    const total = state.contentYears.length
+    if (total < 2) return 0
+    return (idx / (total - 1)) * drawW
+  }
+
+  function xToContentIdx(x, drawW) {
+    const total = state.contentYears.length
+    if (total < 2) return 0
+    const idx = Math.round((x / drawW) * (total - 1))
+    return Math.max(0, Math.min(total - 1, idx))
+  }
+
+  function findNearestContentYear(year) {
+    const years = state.contentYears
+    if (!years.length) return year
+    let lo = 0, hi = years.length - 1
+    while (lo < hi) {
+      const mid = (lo + hi) >>> 1
+      if (years[mid] < year) lo = mid + 1
+      else hi = mid
+    }
+    if (lo === 0) return years[0]
+    const prev = years[lo - 1]
+    const curr = years[lo]
+    return (year - prev) <= (curr - year) ? prev : curr
   }
 
   const DataLoader = {
@@ -176,10 +227,20 @@ const App = (() => {
 
       const sorted = [...dynasties].sort((a, b) => a.start - b.start)
 
-      sorted.forEach(d => {
-        const x1 = yearToX(d.start, drawW) + paddingX
-        const x2 = yearToX(d.end, drawW) + paddingX
-        const width = Math.max(x2 - x1, 3)
+      const weights = sorted.map(d => {
+        let count = 0
+        for (const y of state.contentYears) {
+          if (y >= d.start && y <= d.end) count++
+        }
+        return { d, weight: Math.max(count, 1) }
+      })
+      const totalWeight = weights.reduce((s, w) => s + w.weight, 0)
+
+      let xOffset = paddingX
+      weights.forEach(({ d, weight }) => {
+        const width = Math.max((weight / totalWeight) * drawW, 8)
+        const x1 = xOffset
+        const x2 = xOffset + width
 
         const isActive = state.selectedDynasty === d.id
         const isCurrent = state.currentYear >= d.start && state.currentYear <= d.end
@@ -197,10 +258,10 @@ const App = (() => {
 
         ctx.beginPath()
         ctx.moveTo(x1 + radius, barY)
-        ctx.lineTo(x1 + width - radius, barY)
-        ctx.quadraticCurveTo(x1 + width, barY, x1 + width, barY + radius)
-        ctx.lineTo(x1 + width, barY + barH - radius)
-        ctx.quadraticCurveTo(x1 + width, barY + barH, x1 + width - radius, barY + barH)
+        ctx.lineTo(x2 - radius, barY)
+        ctx.quadraticCurveTo(x2, barY, x2, barY + radius)
+        ctx.lineTo(x2, barY + barH - radius)
+        ctx.quadraticCurveTo(x2, barY + barH, x2 - radius, barY + barH)
         ctx.lineTo(x1 + radius, barY + barH)
         ctx.quadraticCurveTo(x1, barY + barH, x1, barY + barH - radius)
         ctx.lineTo(x1, barY + radius)
@@ -216,17 +277,23 @@ const App = (() => {
           ctx.textBaseline = 'middle'
           ctx.fillText(d.name, x1 + width / 2, barY + barH / 2)
         }
+
+        xOffset = x2
       })
 
-      const cursorX = yearToX(state.currentYear, drawW) + paddingX
-      ctx.strokeStyle = '#fff'
-      ctx.lineWidth = 1
-      ctx.setLineDash([3, 3])
-      ctx.beginPath()
-      ctx.moveTo(cursorX, 0)
-      ctx.lineTo(cursorX, h)
-      ctx.stroke()
-      ctx.setLineDash([])
+      const curIdx = getContentIndex(state.currentYear)
+      if (curIdx !== undefined && state.contentYears.length > 1) {
+        const frac = curIdx / (state.contentYears.length - 1)
+        const cursorX = frac * drawW + paddingX
+        ctx.strokeStyle = '#fff'
+        ctx.lineWidth = 1
+        ctx.setLineDash([3, 3])
+        ctx.beginPath()
+        ctx.moveTo(cursorX, 0)
+        ctx.lineTo(cursorX, h)
+        ctx.stroke()
+        ctx.setLineDash([])
+      }
     },
 
     getDynastyAt(x, y) {
@@ -237,12 +304,21 @@ const App = (() => {
       const paddingX = 8
       const rx = x - rect.left
 
-      const year = xToYear(rx - paddingX, drawW)
-
-      for (const d of dynasties) {
-        if (year >= d.start && year <= d.end && y >= rect.top && y <= rect.bottom) {
-          return d
+      const sorted = [...dynasties].sort((a, b) => a.start - b.start)
+      const weights = sorted.map(d => {
+        let count = 0
+        for (const y of state.contentYears) {
+          if (y >= d.start && y <= d.end) count++
         }
+        return { d, weight: Math.max(count, 1) }
+      })
+      const totalWeight = weights.reduce((s, w) => s + w.weight, 0)
+
+      let xOff = paddingX
+      for (const { d, weight } of weights) {
+        const wd = Math.max((weight / totalWeight) * drawW, 8)
+        if (rx >= xOff && rx <= xOff + wd) return d
+        xOff += wd
       }
       return null
     },
@@ -295,10 +371,18 @@ const App = (() => {
       dom.calendarCtx.setTransform(dpr, 0, 0, dpr, 0, 0)
 
       const drawW = rect.width - 16
-      const fitPixelsPerYear = drawW / YEAR_RANGE
-      state.pixelsPerYear = Math.min(1.8, fitPixelsPerYear)
-      if (fitPixelsPerYear >= 0.8) {
-        state.viewStartYear = YEAR_MIN
+      const total = state.contentYears.length
+      if (total > 1) {
+        state.pixelsPerContentYear = Math.min(1.8, drawW / total)
+        if (state.pixelsPerContentYear >= 0.8) {
+          state.viewStartIdx = 0
+        }
+      } else {
+        const fitPixelsPerYear = drawW / YEAR_RANGE
+        state.pixelsPerYear = Math.min(1.8, fitPixelsPerYear)
+        if (fitPixelsPerYear >= 0.8) {
+          state.viewStartYear = YEAR_MIN
+        }
       }
       this.draw()
     },
@@ -313,10 +397,115 @@ const App = (() => {
       const paddingX = 8
       const drawW = w - paddingX * 2
       const tickTop = h * 0.1
-      const smallTickH = h * 0.25
-      const mediumTickH = h * 0.45
-      const largeTickH = h * 0.65
+      const tickH = h * 0.45
 
+      const years = state.contentYears
+      const total = years.length
+      if (total < 2) {
+        this.drawLinear(ctx, w, h, paddingX, drawW, tickTop, tickH)
+        return
+      }
+
+      const ppcy = state.pixelsPerContentYear
+      const startIdx = Math.max(0, Math.floor(state.viewStartIdx))
+      const visibleCount = Math.ceil(drawW / ppcy) + 2
+      const endIdx = Math.min(total - 1, startIdx + visibleCount)
+
+      ctx.strokeStyle = '#30363d'
+      ctx.lineWidth = 1
+      ctx.beginPath()
+      ctx.moveTo(paddingX, tickTop)
+      ctx.lineTo(w - paddingX, tickTop)
+      ctx.stroke()
+
+      if (state.selectedDynasty) {
+        const d = dynasties.find(d => d.id === state.selectedDynasty)
+        if (d) {
+          const sIdx = getContentIndex(d.start)
+          const eIdx = getContentIndex(d.end)
+          if (sIdx !== undefined && eIdx !== undefined) {
+            const dx1 = (sIdx - state.viewStartIdx) * ppcy + paddingX
+            const dx2 = (eIdx - state.viewStartIdx) * ppcy + paddingX
+            ctx.fillStyle = 'rgba(255, 165, 87, 0.12)'
+            ctx.fillRect(dx1, 0, dx2 - dx1, h)
+            ctx.strokeStyle = 'rgba(255, 165, 87, 0.5)'
+            ctx.lineWidth = 1
+            ctx.setLineDash([6, 3])
+            ctx.beginPath()
+            ctx.moveTo(dx1, tickTop)
+            ctx.lineTo(dx1, tickTop + h * 0.8)
+            ctx.moveTo(dx2, tickTop)
+            ctx.lineTo(dx2, tickTop + h * 0.8)
+            ctx.stroke()
+            ctx.setLineDash([])
+          }
+        }
+      }
+
+      for (let i = startIdx; i <= endIdx; i++) {
+        const y = years[i]
+        const x = (i - state.viewStartIdx) * ppcy + paddingX
+        if (x < -20 || x > w + 20) continue
+
+        const isCurrent = y === state.currentYear
+        const isHover = y === this.hoverYear
+        const isCentury = y % 100 === 0
+        const isDecade = y % 10 === 0
+
+        if (isCurrent) {
+          ctx.fillStyle = 'rgba(88, 166, 255, 0.15)'
+          ctx.fillRect(x - 2, 0, 4, h)
+        }
+
+        if (isCentury) {
+          ctx.strokeStyle = '#8b949e'
+          ctx.lineWidth = 1.5
+          ctx.beginPath()
+          ctx.moveTo(x, tickTop)
+          ctx.lineTo(x, tickTop + tickH * 1.44)
+          ctx.stroke()
+        } else if (isDecade) {
+          ctx.strokeStyle = '#484f58'
+          ctx.lineWidth = 1
+          ctx.beginPath()
+          ctx.moveTo(x, tickTop)
+          ctx.lineTo(x, tickTop + tickH)
+          ctx.stroke()
+        } else {
+          ctx.strokeStyle = isCurrent || isHover ? '#8b949e' : '#30363d'
+          ctx.lineWidth = isCurrent || isHover ? 1.5 : 0.5
+          ctx.beginPath()
+          ctx.moveTo(x, tickTop)
+          ctx.lineTo(x, tickTop + tickH * 0.56)
+          ctx.stroke()
+        }
+
+        if (isCurrent || isHover) {
+          ctx.fillStyle = isCurrent ? '#58a6ff' : '#f0883e'
+          ctx.beginPath()
+          ctx.arc(x, tickTop + h * 0.5, 4, 0, Math.PI * 2)
+          ctx.fill()
+          ctx.strokeStyle = '#fff'
+          ctx.lineWidth = 1.5
+          ctx.stroke()
+        }
+      }
+
+      const curIdx = getContentIndex(state.currentYear)
+      if (curIdx !== undefined) {
+        const cursorX = (curIdx - state.viewStartIdx) * ppcy + paddingX
+        ctx.strokeStyle = 'rgba(88, 166, 255, 0.3)'
+        ctx.lineWidth = 1
+        ctx.setLineDash([2, 4])
+        ctx.beginPath()
+        ctx.moveTo(cursorX, 0)
+        ctx.lineTo(cursorX, h)
+        ctx.stroke()
+        ctx.setLineDash([])
+      }
+    },
+
+    drawLinear(ctx, w, h, paddingX, drawW, tickTop, tickH) {
       const startYear = Math.floor(state.viewStartYear / 10) * 10
       const endYear = Math.ceil((state.viewStartYear + YEAR_RANGE / state.pixelsPerYear) / 10) * 10
 
@@ -348,6 +537,7 @@ const App = (() => {
       }
 
       for (let y = startYear; y <= endYear; y++) {
+        if (y === 0) continue
         const x = yearToX(y, drawW) - yearToX(state.viewStartYear, drawW) + paddingX
         if (x < -20 || x > w + 20) continue
 
@@ -366,21 +556,21 @@ const App = (() => {
           ctx.lineWidth = 1.5
           ctx.beginPath()
           ctx.moveTo(x, tickTop)
-          ctx.lineTo(x, tickTop + largeTickH)
+          ctx.lineTo(x, tickTop + tickH * 1.44)
           ctx.stroke()
         } else if (isDecade) {
           ctx.strokeStyle = '#484f58'
           ctx.lineWidth = 1
           ctx.beginPath()
           ctx.moveTo(x, tickTop)
-          ctx.lineTo(x, tickTop + mediumTickH)
+          ctx.lineTo(x, tickTop + tickH)
           ctx.stroke()
         } else {
           ctx.strokeStyle = '#30363d'
           ctx.lineWidth = 0.5
           ctx.beginPath()
           ctx.moveTo(x, tickTop)
-          ctx.lineTo(x, tickTop + smallTickH)
+          ctx.lineTo(x, tickTop + tickH * 0.56)
           ctx.stroke()
         }
 
@@ -402,6 +592,11 @@ const App = (() => {
       const drawW = w - 16
       const paddingX = 8
       const rx = x - rect.left
+      if (state.contentYears.length > 1) {
+        const ppcy = state.pixelsPerContentYear
+        const idx = Math.round((rx - paddingX) / ppcy + state.viewStartIdx)
+        return contentIdxToYear(Math.max(0, Math.min(state.contentYears.length - 1, idx)))
+      }
       return xToYear(rx - paddingX + yearToX(state.viewStartYear, drawW), drawW)
     },
 
@@ -440,15 +635,20 @@ const App = (() => {
 
     handleWheel(e) {
       e.preventDefault()
-      const delta = e.deltaY > 0 ? 10 : -10
-      state.viewStartYear = Math.max(YEAR_MIN, Math.min(YEAR_MAX - YEAR_RANGE / state.pixelsPerYear, state.viewStartYear + delta))
+      if (state.contentYears.length > 1) {
+        const delta = e.deltaY > 0 ? 5 : -5
+        state.viewStartIdx = Math.max(0, Math.min(state.contentYears.length - 1, state.viewStartIdx + delta))
+      } else {
+        const delta = e.deltaY > 0 ? 10 : -10
+        state.viewStartYear = Math.max(YEAR_MIN, Math.min(YEAR_MAX - YEAR_RANGE / state.pixelsPerYear, state.viewStartYear + delta))
+      }
       this.draw()
     },
 
     handleMouseDown(e) {
       this.dragging = true
       this.dragStartX = e.clientX
-      this.dragStartView = state.viewStartYear
+      this.dragStartView = state.contentYears.length > 1 ? state.viewStartIdx : state.viewStartYear
       dom.calendarContainer.style.cursor = 'grabbing'
     },
 
@@ -459,9 +659,16 @@ const App = (() => {
       }
       const rect = dom.calendarCanvas.getBoundingClientRect()
       const drawW = rect.width - 16
-      const deltaX = this.dragStartX - e.clientX
-      const deltaYears = (deltaX / drawW) * YEAR_RANGE
-      state.viewStartYear = Math.max(YEAR_MIN, Math.min(YEAR_MAX - YEAR_RANGE / state.pixelsPerYear, this.dragStartView + deltaYears))
+      if (state.contentYears.length > 1) {
+        const ppcy = state.pixelsPerContentYear
+        const deltaX = this.dragStartX - e.clientX
+        const deltaIdx = Math.round(deltaX / ppcy)
+        state.viewStartIdx = Math.max(0, Math.min(state.contentYears.length - 1, this.dragStartView + deltaIdx))
+      } else {
+        const deltaX = this.dragStartX - e.clientX
+        const deltaYears = (deltaX / drawW) * YEAR_RANGE
+        state.viewStartYear = Math.max(YEAR_MIN, Math.min(YEAR_MAX - YEAR_RANGE / state.pixelsPerYear, this.dragStartView + deltaYears))
+      }
       this.draw()
     },
 
@@ -471,30 +678,64 @@ const App = (() => {
     },
 
     scrollToYear(year) {
-      const rect = dom.calendarCanvas.getBoundingClientRect()
-      const drawW = rect.width - 16
-      state.viewStartYear = year - (YEAR_RANGE / state.pixelsPerYear) / 2
-      state.viewStartYear = Math.max(YEAR_MIN, Math.min(YEAR_MAX - YEAR_RANGE / state.pixelsPerYear, state.viewStartYear))
+      if (state.contentYears.length > 1) {
+        const idx = getContentIndex(year)
+        if (idx === undefined) return
+        const total = state.contentYears.length
+        const rect = dom.calendarCanvas.getBoundingClientRect()
+        const drawW = rect.width - 16
+        const ppcy = state.pixelsPerContentYear
+        const visibleCount = drawW / ppcy
+        state.viewStartIdx = Math.max(0, Math.min(total - visibleCount, idx - visibleCount / 2))
+      } else {
+        const rect = dom.calendarCanvas.getBoundingClientRect()
+        const drawW = rect.width - 16
+        state.viewStartYear = year - (YEAR_RANGE / state.pixelsPerYear) / 2
+        state.viewStartYear = Math.max(YEAR_MIN, Math.min(YEAR_MAX - YEAR_RANGE / state.pixelsPerYear, state.viewStartYear))
+      }
     },
 
     animateScrollToYear(targetYear) {
-      const startView = state.viewStartYear
-      const targetView = targetYear - (YEAR_RANGE / state.pixelsPerYear) / 2
-      const clampedTarget = Math.max(YEAR_MIN, Math.min(YEAR_MAX - YEAR_RANGE / state.pixelsPerYear, targetView))
       const duration = 500
       const startTime = performance.now()
 
-      const animate = (now) => {
-        const elapsed = now - startTime
-        const progress = Math.min(elapsed / duration, 1)
-        const eased = 1 - Math.pow(1 - progress, 3)
-        state.viewStartYear = startView + (clampedTarget - startView) * eased
-        this.draw()
-        if (progress < 1) {
-          requestAnimationFrame(animate)
+      if (state.contentYears.length > 1) {
+        const idx = getContentIndex(targetYear)
+        if (idx === undefined) return
+        const startView = state.viewStartIdx
+        const total = state.contentYears.length
+        const rect = dom.calendarCanvas.getBoundingClientRect()
+        const drawW = rect.width - 16
+        const ppcy = state.pixelsPerContentYear
+        const visibleCount = drawW / ppcy
+        const targetView = Math.max(0, Math.min(total - visibleCount, idx - visibleCount / 2))
+
+        const animate = (now) => {
+          const elapsed = now - startTime
+          const progress = Math.min(elapsed / duration, 1)
+          const eased = 1 - Math.pow(1 - progress, 3)
+          state.viewStartIdx = startView + (targetView - startView) * eased
+          this.draw()
+          if (progress < 1) requestAnimationFrame(animate)
         }
+        requestAnimationFrame(animate)
+      } else {
+        const startView = state.viewStartYear
+        const rect = dom.calendarCanvas.getBoundingClientRect()
+        const drawW = rect.width - 16
+        const targetView = targetYear - (YEAR_RANGE / state.pixelsPerYear) / 2
+        const clampedTarget = Math.max(YEAR_MIN, Math.min(YEAR_MAX - YEAR_RANGE / state.pixelsPerYear, targetView))
+
+        const animate = (now) => {
+          const elapsed = now - startTime
+          const progress = Math.min(elapsed / duration, 1)
+          const eased = 1 - Math.pow(1 - progress, 3)
+          state.viewStartYear = startView + (clampedTarget - startView) * eased
+          this.draw()
+          if (progress < 1) requestAnimationFrame(animate)
+        }
+        requestAnimationFrame(animate)
       }
-      requestAnimationFrame(animate)
     }
   }
 
@@ -717,6 +958,7 @@ const App = (() => {
     try {
       const yearData = await DataLoader.getYearData(year)
       updateRuleDisplay(year, yearData)
+      updateMobileYearDisplay(year)
       MapView.showEvents(yearData.events)
       EventPanel.showEvents(year, yearData)
     } catch (err) {
@@ -742,21 +984,47 @@ const App = (() => {
     dom.calendarContainer.addEventListener('mouseup', () => CalendarTimeline.handleMouseUp())
     window.addEventListener('mouseup', () => CalendarTimeline.handleMouseUp())
 
+    let lastTouchUpdateTime = 0
+    let lastTouchYear = null
+    const TOUCH_THROTTLE = 120
+
     dom.calendarContainer.addEventListener('touchstart', e => {
       if (e.touches.length === 1) {
         CalendarTimeline.dragging = true
         CalendarTimeline.dragStartX = e.touches[0].clientX
-        CalendarTimeline.dragStartView = state.viewStartYear
+        CalendarTimeline.dragStartView = state.contentYears.length > 1 ? state.viewStartIdx : state.viewStartYear
+        lastTouchUpdateTime = Date.now()
+        lastTouchYear = state.currentYear
       }
     })
     dom.calendarContainer.addEventListener('touchmove', e => {
       if (!CalendarTimeline.dragging || e.touches.length !== 1) return
       const rect = dom.calendarCanvas.getBoundingClientRect()
-      const drawW = rect.width - 16
-      const deltaX = CalendarTimeline.dragStartX - e.touches[0].clientX
-      const deltaYears = (deltaX / drawW) * YEAR_RANGE
-      state.viewStartYear = Math.max(YEAR_MIN, Math.min(YEAR_MAX - YEAR_RANGE / state.pixelsPerYear, CalendarTimeline.dragStartView + deltaYears))
+      if (state.contentYears.length > 1) {
+        const ppcy = state.pixelsPerContentYear
+        const deltaX = CalendarTimeline.dragStartX - e.touches[0].clientX
+        const deltaIdx = Math.round(deltaX / ppcy)
+        state.viewStartIdx = Math.max(0, Math.min(state.contentYears.length - 1, CalendarTimeline.dragStartView + deltaIdx))
+      } else {
+        const drawW = rect.width - 16
+        const deltaX = CalendarTimeline.dragStartX - e.touches[0].clientX
+        const deltaYears = (deltaX / drawW) * YEAR_RANGE
+        state.viewStartYear = Math.max(YEAR_MIN, Math.min(YEAR_MAX - YEAR_RANGE / state.pixelsPerYear, CalendarTimeline.dragStartView + deltaYears))
+      }
       CalendarTimeline.draw()
+
+      const now = Date.now()
+      if (now - lastTouchUpdateTime < TOUCH_THROTTLE) return
+      const touch = e.touches[0]
+      const year = CalendarTimeline.getYearAt(touch.clientX, touch.clientY)
+      if (year >= YEAR_MIN && year <= YEAR_MAX && year !== lastTouchYear) {
+        lastTouchUpdateTime = now
+        lastTouchYear = year
+        state.currentYear = year
+        state.selectedDynasty = null
+        emit('yearChanged', year)
+        DynastyTimeline.draw()
+      }
     })
     dom.calendarContainer.addEventListener('touchend', () => {
       CalendarTimeline.dragging = false
@@ -766,9 +1034,26 @@ const App = (() => {
       const key = e.key
       if (key === 'ArrowLeft' || key === 'ArrowRight') {
         e.preventDefault()
-        const step = e.shiftKey ? 10 : 1
-        const delta = key === 'ArrowRight' ? step : -step
-        const newYear = Math.max(YEAR_MIN, Math.min(YEAR_MAX, state.currentYear + delta))
+        const years = state.contentYears
+        let newYear
+        if (years.length > 1) {
+          const curIdx = getContentIndex(state.currentYear)
+          let newIdx
+          if (e.shiftKey) {
+            const step = key === 'ArrowRight' ? 10 : -10
+            newIdx = (curIdx !== undefined ? curIdx : 0) + step
+          } else {
+            newIdx = curIdx !== undefined ? curIdx + (key === 'ArrowRight' ? 1 : -1) : 0
+          }
+          newIdx = Math.max(0, Math.min(years.length - 1, newIdx))
+          newYear = years[newIdx]
+        } else {
+          const step = e.shiftKey ? 10 : 1
+          const delta = key === 'ArrowRight' ? step : -step
+          newYear = state.currentYear + delta
+          if (newYear === 0) newYear = delta > 0 ? 1 : -1
+          newYear = Math.max(YEAR_MIN, Math.min(YEAR_MAX, newYear))
+        }
         if (newYear !== state.currentYear) {
           state.currentYear = newYear
           state.selectedDynasty = null
@@ -810,14 +1095,58 @@ const App = (() => {
         dom.shortcutPanel.classList.add('hidden')
       }
     })
+
+    dom.mobYearNav.addEventListener('click', e => {
+      const btn = e.target.closest('.mob-nav-btn')
+      if (btn) {
+        const step = parseInt(btn.dataset.step, 10)
+        let newYear
+        const years = state.contentYears
+        if (years.length > 1) {
+          const curIdx = getContentIndex(state.currentYear)
+          const newIdx = Math.max(0, Math.min(years.length - 1, (curIdx !== undefined ? curIdx : 0) + step))
+          newYear = years[newIdx]
+        } else {
+          newYear = state.currentYear + step
+          if (newYear === 0) newYear = step > 0 ? 1 : -1
+          newYear = Math.max(YEAR_MIN, Math.min(YEAR_MAX, newYear))
+        }
+        if (newYear !== state.currentYear) {
+          state.currentYear = newYear
+          state.selectedDynasty = null
+          emit('yearChanged', newYear)
+          CalendarTimeline.draw()
+          DynastyTimeline.draw()
+        }
+        return
+      }
+      if (e.target === dom.mobYearDisplay) {
+        const yearStr = prompt('请输入年份：\n公元前输入负数，公元直接输入数字', state.currentYear)
+        if (yearStr !== null) {
+          const y = parseInt(yearStr, 10)
+          if (!isNaN(y) && y !== 0 && y >= YEAR_MIN && y <= YEAR_MAX) {
+            state.currentYear = y
+            state.selectedDynasty = null
+            emit('yearChanged', y)
+            CalendarTimeline.draw()
+            DynastyTimeline.draw()
+          } else if (y === 0) {
+            showError('公元0年不存在')
+          } else {
+            showError('年份超出范围')
+          }
+        }
+      }
+    })
   }
 
   function setupSubscriptions() {
     on('dynastySelected', dynasty => {
-      state.currentYear = dynasty.start
-      CalendarTimeline.animateScrollToYear(dynasty.start)
+      const targetYear = findNearestContentYear(dynasty.start)
+      state.currentYear = targetYear
+      CalendarTimeline.animateScrollToYear(targetYear)
       CalendarTimeline.draw()
-      loadAndShowEvents(dynasty.start)
+      loadAndShowEvents(targetYear)
     })
 
     on('yearChanged', year => {
@@ -839,8 +1168,31 @@ const App = (() => {
     })
   }
 
+  async function loadContentYearIndex() {
+    try {
+      const resp = await fetch('data/content-years.json')
+      if (resp.ok) {
+        const data = await resp.json()
+        state.contentYears = data.years || []
+        state.contentYearIndex = {}
+        state.contentYears.forEach((y, i) => { state.contentYearIndex[y] = i })
+        if (state.contentYears.length) {
+          state.viewStartIdx = 0
+          const rect = dom.calendarCanvas && dom.calendarCanvas.getBoundingClientRect()
+          if (rect) {
+            const drawW = rect.width - 16
+            state.pixelsPerContentYear = Math.min(1.8, drawW / state.contentYears.length)
+          }
+        }
+      }
+    } catch (e) {
+      console.warn('Failed to load content year index', e)
+    }
+  }
+
   async function init() {
     cacheDom()
+    await loadContentYearIndex()
     setupEventListeners()
     setupSubscriptions()
     MapView.init()
