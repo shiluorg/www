@@ -770,6 +770,73 @@ const App = (() => {
     dom.calendarContainer.addEventListener('mousemove', e => CalendarTimeline.handleMove(e))
     dom.calendarContainer.addEventListener('mouseleave', () => CalendarTimeline.handleLeave())
 
+    let touchYearLast = null
+    let touchDynastyLast = null
+    let touchTime = 0
+    const TICK = 80
+
+    dom.dynastyContainer.addEventListener('touchstart', e => {
+      if (e.touches.length !== 1) return
+      e.preventDefault()
+      const t = e.touches[0]
+      const dynasty = DynastyTimeline.getDynastyAt(t.clientX, t.clientY)
+      if (dynasty) {
+        touchDynastyLast = dynasty.id
+        state.selectedDynasty = dynasty.id
+        emit('dynastySelected', dynasty)
+        DynastyTimeline.draw()
+      }
+    }, { passive: false })
+
+    dom.dynastyContainer.addEventListener('touchmove', e => {
+      if (e.touches.length !== 1) return
+      e.preventDefault()
+      const now = Date.now()
+      if (now - touchTime < TICK) return
+      touchTime = now
+      const t = e.touches[0]
+      const dynasty = DynastyTimeline.getDynastyAt(t.clientX, t.clientY)
+      if (dynasty && dynasty.id !== touchDynastyLast) {
+        touchDynastyLast = dynasty.id
+        state.selectedDynasty = dynasty.id
+        emit('dynastySelected', dynasty)
+        DynastyTimeline.draw()
+      }
+    }, { passive: false })
+
+    dom.calendarContainer.addEventListener('touchstart', e => {
+      if (e.touches.length !== 1) return
+      e.preventDefault()
+      const t = e.touches[0]
+      const year = CalendarTimeline.getYearAt(t.clientX, t.clientY)
+      if (year >= YEAR_MIN && year <= YEAR_MAX) {
+        touchYearLast = year
+        state.currentYear = year
+        state.selectedDynasty = null
+        emit('yearChanged', year)
+        CalendarTimeline.draw()
+        DynastyTimeline.draw()
+      }
+    }, { passive: false })
+
+    dom.calendarContainer.addEventListener('touchmove', e => {
+      if (e.touches.length !== 1) return
+      e.preventDefault()
+      const now = Date.now()
+      if (now - touchTime < TICK) return
+      touchTime = now
+      const t = e.touches[0]
+      const year = CalendarTimeline.getYearAt(t.clientX, t.clientY)
+      if (year >= YEAR_MIN && year <= YEAR_MAX && year !== touchYearLast) {
+        touchYearLast = year
+        state.currentYear = year
+        state.selectedDynasty = null
+        emit('yearChanged', year)
+        CalendarTimeline.draw()
+        DynastyTimeline.draw()
+      }
+    }, { passive: false })
+
     document.addEventListener('keydown', e => {
       const key = e.key
       if (key === 'ArrowLeft' || key === 'ArrowRight') {
