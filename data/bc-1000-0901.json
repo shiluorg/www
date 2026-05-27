@@ -1,0 +1,110 @@
+[
+  {
+    "year": -996,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周昭王姬瑕", "era": "" }
+    ],
+    "events": [
+      { "title": "周康王去世，周昭王即位", "description": "周康王姬钊去世，其子姬瑕即位，是为周昭王。成康之治至此结束，西周开始由盛转衰。", "latitude": 34.7, "longitude": 112.5, "category": "政治", "region": "周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -977,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周昭王姬瑕", "era": "" }
+    ],
+    "events": [
+      { "title": "周昭王南征荆楚", "description": "周昭王第三次南征荆楚，渡汉水时因当地百姓献胶船，船沉于汉水中，昭王及随从溺水而亡，周军丧六师。", "latitude": 30.6, "longitude": 113.8, "category": "军事", "region": "楚", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -976,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周穆王姬满", "era": "" }
+    ],
+    "events": [
+      { "title": "周穆王即位", "description": "周昭王之子姬满即位为周穆王，时年约五十岁。穆王在位期间致力于四方征伐，开拓疆域，是西周最具传奇色彩的君主之一。", "latitude": 34.7, "longitude": 112.5, "category": "政治", "region": "周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -964,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周穆王姬满", "era": "" }
+    ],
+    "events": [
+      { "title": "周穆王西征犬戎", "description": "周穆王率大军西征犬戎，大获全胜，俘获犬戎五王，将部分戎人迁至太原（今甘肃东部），稳定了西部边疆。", "latitude": 35.5, "longitude": 105.5, "category": "军事", "region": "犬戎", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -959,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周穆王姬满", "era": "" }
+    ],
+    "events": [
+      { "title": "周穆王西巡昆仑", "description": "周穆王西巡至昆仑丘，会见西王母，双方互赠礼物。《穆天子传》详细记载了此次西行，涉及今甘肃、青海至中亚的行程。", "latitude": 36.5, "longitude": 96.5, "category": "外交", "region": "西域", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -957,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周穆王姬满", "era": "" }
+    ],
+    "events": [
+      { "title": "所罗门圣殿在耶路撒冷建成", "description": "以色列王国国王所罗门在耶路撒冷建成第一圣殿，历时七年，成为犹太教的宗教中心，存放约柜的至圣所位于圣殿核心。", "latitude": 31.8, "longitude": 35.2, "category": "宗教", "region": "以色列", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -935,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周穆王姬满", "era": "" }
+    ],
+    "events": [
+      { "title": "亚述国王阿淑尔丹二世即位", "description": "阿淑尔丹二世成为亚述国王，开始推行一系列改革，加强中央集权，整顿军队，为后来新亚述帝国的崛起奠定基础。", "latitude": 36.5, "longitude": 43.2, "category": "政治", "region": "亚述", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -925,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周穆王姬满", "era": "" }
+    ],
+    "events": [
+      { "title": "埃及法老舍松契一世远征迦南", "description": "埃及第22王朝法老舍松契一世（即圣经中的示撒）率军远征迦南地区，攻陷耶路撒冷，劫掠圣殿和王宫宝物，削弱了犹大王国。", "latitude": 31.8, "longitude": 35.2, "category": "军事", "region": "埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -922,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周共王姬繄扈", "era": "" }
+    ],
+    "events": [
+      { "title": "周穆王去世，周共王即位", "description": "在位五十五年的周穆王姬满去世，其子姬繄扈即位为周共王。穆王在位期间征伐四方，是西周在位最长的君主之一。", "latitude": 34.7, "longitude": 112.5, "category": "政治", "region": "周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -919,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周共王姬繄扈", "era": "" }
+    ],
+    "events": [
+      { "title": "周共王灭密国", "description": "周共王出游至泾水流域，密国国君康公接待，因献三美女引发争议，共王以密康公违背礼制为由灭密国，扩大周王室直辖领地。", "latitude": 35.0, "longitude": 107.5, "category": "军事", "region": "密", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -911,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周共王姬繄扈", "era": "" }
+    ],
+    "events": [
+      { "title": "亚述国王阿达德尼拉里二世即位", "description": "阿达德尼拉里二世成为亚述国王，标志新亚述帝国时期正式开始。他多次出征阿拉米人，巩固亚述在美索不达米亚北部的霸权。", "latitude": 36.5, "longitude": 43.2, "category": "政治", "region": "亚述", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -900,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周懿王姬囏", "era": "" }
+    ],
+    "events": [
+      { "title": "周共王去世，周懿王即位", "description": "周共王姬繄扈去世，其子姬囏即位为周懿王。共王在位期间国势尚稳，但西周王室的权威已开始受到挑战。", "latitude": 34.7, "longitude": 112.5, "category": "政治", "region": "周", "continent": "亚洲" }
+    ]
+  }
+]

@@ -1,0 +1,1041 @@
+[
+  {
+    "year": 1001,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "咸平四年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和十九年" }
+    ],
+    "events": [
+      { "title": "宋辽战争持续", "description": "契丹军继续南下侵扰北宋边境，宋将杨延昭在威虏军、静戎军等地布防。宋真宗加强河北边防，宋辽边境小规模冲突不断。", "latitude": 39.0, "longitude": 116.0, "category": "军事", "region": "北宋", "continent": "亚洲" },
+      { "title": "马哈茂德成为加兹尼王朝苏丹", "description": "突厥人建立的加兹尼王朝马哈茂德成为苏丹。他在位期间（至1030年）多次远征印度北部，将伊斯兰势力深入南亚次大陆。", "latitude": 31.6, "longitude": 74.3, "category": "军事", "region": "加兹尼王朝", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1002,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "咸平五年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和二十年" }
+    ],
+    "events": [
+      { "title": "李继迁攻陷灵州", "description": "党项李继迁攻陷北宋西北重镇灵州（今宁夏灵武），改称西平府，建都于此。李继迁势力日益壮大，成为北宋西北边患。", "latitude": 38.0, "longitude": 106.3, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1003,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "咸平六年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和二十一年" }
+    ],
+    "events": [
+      { "title": "望都之战宋军失利", "description": "辽将耶律休哥率军攻望都（今河北望都），宋将王继忠战败被俘。王继忠后被辽朝重用，成为日后宋辽谈判的重要中间人。", "latitude": 38.7, "longitude": 115.2, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1004,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "景德元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和二十二年" }
+    ],
+    "events": [
+      { "title": "澶渊之盟", "description": "辽圣宗与萧太后率大军南征，直抵澶州（今河南濮阳），威胁开封。宋真宗在寇准力劝下亲征澶州督战。宋辽最终签订澶渊之盟：宋岁贡辽银十万两、绢二十万匹，约为兄弟之国。", "latitude": 35.7, "longitude": 115.0, "category": "外交", "region": "北宋", "continent": "亚洲" },
+      { "title": "寇准力主真宗亲征", "description": "辽军大举入侵之际，宰相寇准力排众议，坚持请求宋真宗亲征澶州。真宗到达澶州城后宋军士气大振，射杀辽军统帅萧挞凛，促成宋辽和谈。", "latitude": 35.7, "longitude": 115.0, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1005,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "景德二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和二十三年" }
+    ],
+    "events": [
+      { "title": "宋辽和平局面开启", "description": "澶渊之盟后，宋辽在边境正式开放榷场，开展互市贸易。北宋每年向辽交纳岁币，边境得到长期和平。此后百余年间宋辽基本无大战。", "latitude": 35.7, "longitude": 115.0, "category": "经济", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1006,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "景德三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和二十四年" }
+    ],
+    "events": [
+      { "title": "寇准罢相", "description": "宋真宗因不满寇准直言，将其罢相贬往陕州。王钦若等谄臣得势，此后真宗沉迷于封禅祥瑞之事，朝政渐趋腐败。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1007,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "景德四年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和二十五年" }
+    ],
+    "events": [
+      { "title": "真宗伪造天书", "description": "宋真宗在王钦若等人怂恿下，自称梦见神人赐天书。随后在承天门发现所谓“天书”，改元大中祥符。真宗以天书神道设教来掩盖澶渊之盟的屈辱。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1008,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "大中祥符元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和二十六年" }
+    ],
+    "events": [
+      { "title": "宋真宗泰山封禅", "description": "宋真宗在“天书”祥瑞的铺垫下，东封泰山，举行封禅大典。此次封禅耗费巨大，仅扈从队伍就达数万人。封禅后真宗又西祀汾阴。", "latitude": 36.3, "longitude": 117.1, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1009,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "大中祥符二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和二十七年" }
+    ],
+    "events": [
+      { "title": "萧太后去世", "description": "辽朝摄政萧绰（萧太后）病逝，辽圣宗开始亲政。萧太后摄政二十七年，推行汉制改革，使辽朝达到鼎盛。圣宗亲政后延续其政策。", "latitude": 43.7, "longitude": 122.3, "category": "政治", "region": "辽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1010,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "大中祥符三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和二十八年" }
+    ],
+    "events": [
+      { "title": "高丽契丹战争", "description": "辽圣宗亲征高丽，高丽军顽强抵抗。辽军攻陷开京（今开城），高丽王王询逃往罗州。辽军焚掠开京后退兵，高丽重修都城。", "latitude": 37.9, "longitude": 126.5, "category": "军事", "region": "高丽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1011,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "大中祥符四年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和二十九年" }
+    ],
+    "events": [
+      { "title": "高丽向辽称臣", "description": "高丽王王询被迫向辽朝称臣纳贡。高丽在辽宋之间采取务实外交，同时向两国称臣，以维持独立地位。", "latitude": 37.9, "longitude": 126.5, "category": "外交", "region": "高丽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1012,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "大中祥符五年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "开泰元年" }
+    ],
+    "events": [
+      { "title": "辽圣宗改元开泰", "description": "辽圣宗改元开泰。圣宗亲政后继续推行汉化政策，完善科举制度，修订法律。辽朝制度日趋完备，汉化程度加深。", "latitude": 43.7, "longitude": 122.3, "category": "政治", "region": "辽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1013,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "大中祥符六年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "开泰二年" }
+    ],
+    "events": [
+      { "title": "宋真宗崇道", "description": "宋真宗痴迷道教，大修道观，封老子为“太上老君混元上德皇帝”。真宗又命王钦若编修《道藏》，道教在北宋达到极盛。", "latitude": 34.8, "longitude": 114.3, "category": "宗教", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1014,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "大中祥符七年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "开泰三年" }
+    ],
+    "events": [
+      { "title": "真宗朝谒亳州太清宫", "description": "宋真宗率大臣赴亳州（今安徽亳州）太清宫祭祀老子。此次行动耗费巨大，却进一步加剧了北宋的财政危机。", "latitude": 33.9, "longitude": 115.8, "category": "宗教", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1015,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "大中祥符八年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "开泰四年" }
+    ],
+    "events": [
+      { "title": "李德明与宋议和", "description": "党项首领李德明（李继迁之子）与北宋达成和议，宋朝封李德明为西平王，开放边境榷场贸易。党项暂时停止对宋朝的军事行动。", "latitude": 38.0, "longitude": 106.3, "category": "外交", "region": "西夏", "continent": "亚洲" },
+      { "title": "丹麦国王卡努特大帝扩张", "description": "丹麦国王卡努特二世征服英格兰大部地区，建立包括丹麦、英格兰和挪威在内的“北海帝国”。维京时代达到顶峰。", "latitude": 55.7, "longitude": 12.6, "category": "军事", "region": "丹麦", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1016,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "大中祥符九年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "开泰五年" }
+    ],
+    "events": [
+      { "title": "卡努特大帝征服英格兰", "description": "丹麦国王卡努特击败英格兰国王埃德蒙二世，成为全英格兰之王。卡努特建立了一个跨北海的大帝国，这是维京人政治成就的巅峰。", "latitude": 51.5, "longitude": -0.1, "category": "政治", "region": "英格兰", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1017,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "天禧元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "开泰六年" }
+    ],
+    "events": [
+      { "title": "真宗奉天书行大礼", "description": "宋真宗在“天书”崇拜的狂热中，在太庙举行奉天书大礼，将“天书”置于昊天上帝之位前。朝中上下皆知“天书”为伪造，但无人敢言。", "latitude": 34.8, "longitude": 114.3, "category": "宗教", "region": "北宋", "continent": "亚洲" },
+      { "title": "高丽复与宋通使", "description": "高丽通过海路与北宋重新通使，双方恢复官方往来。北宋与高丽的贸易和文化交流再度活跃，海上丝绸之路更加繁忙。", "latitude": 37.9, "longitude": 126.5, "category": "外交", "region": "高丽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1018,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "天禧二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "开泰七年" }
+    ],
+    "events": [
+      { "title": "高丽大破辽军", "description": "辽圣宗再次征伐高丽，派萧排押率十万大军南下。高丽军在龟州（今朝鲜龟城）大破辽军，辽军损失惨重。此后辽不再大规模征高丽。", "latitude": 40.0, "longitude": 125.0, "category": "军事", "region": "高丽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1019,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "天禧三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "开泰八年" }
+    ],
+    "events": [
+      { "title": "寇准复相又罢", "description": "宋真宗再召寇准为相。寇准试图整顿朝纲，但遭丁谓等小人排挤。寇准被贬为雷州司户参军，死于贬所。一代名相郁郁而终。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1020,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "天禧四年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "开泰九年" }
+    ],
+    "events": [
+      { "title": "丁谓专权", "description": "丁谓在寇准被贬后独揽大权，勾结宦官雷允恭，结党营私。真宗已患风疾，政事多由刘皇后与丁谓处理，朝政腐败。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1021,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "天禧五年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "太平元年" }
+    ],
+    "events": [
+      { "title": "辽改元太平", "description": "辽圣宗改元太平。此时辽朝国力达到鼎盛，疆域东临渤海，西至天山，北至蒙古高原，南接北宋。辽成为东亚最强大的政权。", "latitude": 43.7, "longitude": 122.3, "category": "政治", "region": "辽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1022,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "乾兴元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "太平二年" }
+    ],
+    "events": [
+      { "title": "宋真宗驾崩，仁宗即位", "description": "宋真宗赵恒病逝，太子赵祯即位，是为宋仁宗。刘太后垂帘听政。仁宗在位四十二年，是两宋在位时间最长的皇帝。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1023,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "天圣元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "太平三年" }
+    ],
+    "events": [
+      { "title": "交子诞生", "description": "北宋政府设益州交子务，正式发行官交子，这是世界上最早的纸币。交子以铁钱为准备金，分届发行，每届三年。中国在金融史上领先世界。", "latitude": 30.6, "longitude": 104.0, "category": "经济", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1024,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "天圣二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "太平四年" }
+    ],
+    "events": [
+      { "title": "刘太后垂帘听政", "description": "刘太后继续垂帘听政。她虽为女主，但处事公允，善于用人。朝中王曾、吕夷简等贤臣在位，政治较为清明。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1025,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "天圣三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "太平五年" }
+    ],
+    "events": [
+      { "title": "范仲淹任职地方", "description": "范仲淹任泰州西溪盐仓监，开始在地方上崭露头角。他修筑海堤造福当地百姓，被称为“范公堤”。", "latitude": 32.5, "longitude": 120.0, "category": "社会", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1026,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "天圣四年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "太平六年" }
+    ],
+    "events": [
+      { "title": "北宋政局稳定", "description": "刘太后摄政期间，北宋社会经济发展良好。科举制度不断完善，取士人数增加。印刷业发达，文化事业繁荣。", "latitude": 34.8, "longitude": 114.3, "category": "社会", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1027,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "天圣五年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "太平七年" }
+    ],
+    "events": [
+      { "title": "燕肃造指南车", "description": "北宋科学家燕肃重新制造出指南车和记里鼓车。指南车利用差速齿轮原理，无论车辆如何转向，车上木人始终指示南方。", "latitude": 34.8, "longitude": 114.3, "category": "科技", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1029,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "天圣七年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "太平九年" }
+    ],
+    "events": [
+      { "title": "辽朝大延琳起义", "description": "辽东京（今辽阳）将领大延琳因不满辽朝苛政，发动起义，国号兴辽。辽圣宗派兵镇压，起义持续一年多后被平定。", "latitude": 41.3, "longitude": 123.2, "category": "军事", "region": "辽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1031,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "天圣九年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽兴宗耶律宗真", "era": "景福元年" }
+    ],
+    "events": [
+      { "title": "辽圣宗去世，兴宗即位", "description": "辽圣宗耶律隆绪病逝，太子耶律宗真即位，是为辽兴宗。兴宗喜好文学，擅绘画，但生活奢侈，辽朝开始由盛转衰。", "latitude": 43.7, "longitude": 122.3, "category": "政治", "region": "辽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1032,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "明道元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽兴宗耶律宗真", "era": "重熙元年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏景宗李元昊", "era": "显道元年" }
+    ],
+    "events": [
+      { "title": "李元昊继位党项首领", "description": "李德明去世，其子李元昊继位。元昊改姓嵬名氏，改元显道，着手准备建立西夏国。他创制西夏文字，整顿军队，推行党项化改革。", "latitude": 38.3, "longitude": 106.0, "category": "政治", "region": "西夏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1033,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "明道二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽兴宗耶律宗真", "era": "重熙二年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏景宗李元昊", "era": "显道二年" }
+    ],
+    "events": [
+      { "title": "刘太后去世，仁宗亲政", "description": "刘太后病逝，宋仁宗开始亲政。仁宗得知生母为李氏（刘太后曾以己子充李妃之子），追尊生母为章懿太后，但未追究刘太后。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1034,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "景祐元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽兴宗耶律宗真", "era": "重熙三年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏景宗李元昊", "era": "开运元年" }
+    ],
+    "events": [
+      { "title": "李元昊攻占吐蕃领地", "description": "李元昊击败吐蕃唃厮啰部，占领河湟地区（今青海东部）。西夏疆域大幅扩展，势力范围西达玉门关。", "latitude": 36.0, "longitude": 102.0, "category": "军事", "region": "西夏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1036,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "景祐三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽兴宗耶律宗真", "era": "重熙五年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏景宗李元昊", "era": "大庆元年" }
+    ],
+    "events": [
+      { "title": "西夏文字创制颁行", "description": "李元昊命野利仁荣创制西夏文字，成书十二卷，下诏颁行全国。西夏文借鉴汉字笔画结构，形体方正，笔画繁多，约六千余字。", "latitude": 38.3, "longitude": 106.0, "category": "文化", "region": "西夏", "continent": "亚洲" },
+      { "title": "范仲淹批评朝政被贬", "description": "范仲淹因不满宰相吕夷简专权，上《百官图》批评朝政，被贬为饶州知州。范仲淹的直言引起轰动，欧阳修等纷纷上书声援。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1037,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "景祐四年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽兴宗耶律宗真", "era": "重熙六年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏景宗李元昊", "era": "大庆二年" }
+    ],
+    "events": [
+      { "title": "欧阳修著《朋党论》", "description": "欧阳修因声援范仲淹作《朋党论》一文，指出“君子以同道为朋，小人以同利为朋”，为范仲淹辩护。此文成为宋代政治思想史上的名篇。", "latitude": 34.8, "longitude": 114.3, "category": "文化", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1038,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "宝元元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽兴宗耶律宗真", "era": "重熙七年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏景宗李元昊", "era": "天授礼法延祚元年" }
+    ],
+    "events": [
+      { "title": "李元昊称帝，西夏建国", "description": "李元昊在兴庆府（今宁夏银川）正式称帝，建国号大夏，史称西夏。元昊改元天授礼法延祚，定官制、立兵制、制礼仪。宋夏关系骤然紧张。", "latitude": 38.5, "longitude": 106.3, "category": "政治", "region": "西夏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1039,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "宝元二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽兴宗耶律宗真", "era": "重熙八年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏景宗李元昊", "era": "天授礼法延祚二年" }
+    ],
+    "events": [
+      { "title": "宋夏断绝关系", "description": "李元昊遣使向宋朝上表请求承认其皇帝称号。宋仁宗大怒，下诏削去李元昊赐姓官爵，悬赏捉拿元昊。宋夏边境冲突一触即发。", "latitude": 34.8, "longitude": 114.3, "category": "外交", "region": "北宋", "continent": "亚洲" },
+      { "title": "北宋备战西夏", "description": "宋仁宗下令在陕西路整军备战，任命夏竦、范雍等为陕西经略安抚使。北宋在西北边境大量增兵，军费开支猛增。", "latitude": 34.3, "longitude": 108.9, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1040,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "康定元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽兴宗耶律宗真", "era": "重熙九年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏景宗李元昊", "era": "天授礼法延祚三年" }
+    ],
+    "events": [
+      { "title": "三川口之战，西夏大败宋军", "description": "李元昊率西夏军在三川口（今陕西延安西北）大败宋军。宋将刘平、石元孙被俘。宋仁宗震怒，改任韩琦、范仲淹为陕西经略副使，加强边防。", "latitude": 36.6, "longitude": 109.5, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1041,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "庆历元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽兴宗耶律宗真", "era": "重熙十年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏景宗李元昊", "era": "天授礼法延祚四年" }
+    ],
+    "events": [
+      { "title": "好水川之战，宋军再败", "description": "西夏军在好水川（今宁夏隆德）设伏，宋将任福率军追击中伏，全军覆没，任福战死。西夏两次大胜后，李元昊声威大振。", "latitude": 35.5, "longitude": 106.0, "category": "军事", "region": "北宋", "continent": "亚洲" },
+      { "title": "毕昇发明活字印刷术", "description": "北宋工匠毕昇发明胶泥活字印刷术。他用胶泥刻字，火烧使坚，排版印刷。活字印刷较雕版印刷更为经济高效，是世界印刷史上的革命。", "latitude": 34.8, "longitude": 114.3, "category": "科技", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1042,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "庆历二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽兴宗耶律宗真", "era": "重熙十一年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏景宗李元昊", "era": "天授礼法延祚五年" }
+    ],
+    "events": [
+      { "title": "定川寨之战，宋军惨败", "description": "西夏军在定川寨（今宁夏固原西北）再次大败宋军，宋将葛怀敏战死。西夏军兵临渭州，关中震动。北宋三败于西夏，被迫与西夏议和。", "latitude": 36.0, "longitude": 106.3, "category": "军事", "region": "北宋", "continent": "亚洲" },
+      { "title": "辽朝趁火打劫", "description": "辽兴宗趁宋夏战争期间，派使臣赴北宋要求割让关南十县。北宋被迫增加岁币至银二十万两、绢三十万匹以换取和平。", "latitude": 43.7, "longitude": 122.3, "category": "外交", "region": "辽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1043,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "庆历三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽兴宗耶律宗真", "era": "重熙十二年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏景宗李元昊", "era": "天授礼法延祚六年" }
+    ],
+    "events": [
+      { "title": "庆历新政开始", "description": "宋仁宗任命范仲淹为参知政事，韩琦、富弼等为枢密副使。范仲淹上《答手诏条陈十事》，提出明黜陟、抑侥幸、精贡举等十项改革措施。庆历新政全面展开。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1044,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "庆历四年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽兴宗耶律宗真", "era": "重熙十三年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏景宗李元昊", "era": "天授礼法延祚七年" }
+    ],
+    "events": [
+      { "title": "宋夏和议签订", "description": "北宋与西夏达成和议：西夏取消帝号，对宋称臣；宋朝每年赐西夏银七万两、绢十五万匹、茶三万斤。宋夏战争告一段落。", "latitude": 34.8, "longitude": 114.3, "category": "外交", "region": "北宋", "continent": "亚洲" },
+      { "title": "庆历新政失败", "description": "范仲淹的改革触犯了权贵利益，保守派攻击范仲淹等人结党营私。宋仁宗动摇，范仲淹、韩琦等被迫离职，庆历新政仅持续一年即告失败。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1045,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "庆历五年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽兴宗耶律宗真", "era": "重熙十四年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏景宗李元昊", "era": "天授礼法延祚八年" }
+    ],
+    "events": [
+      { "title": "范仲淹被贬邓州", "description": "庆历新政失败后，范仲淹被贬为邓州知州。在邓州期间创作了千古名篇《岳阳楼记》，“先天下之忧而忧，后天下之乐而乐”成为传世名言。", "latitude": 32.9, "longitude": 112.3, "category": "文化", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1046,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "庆历六年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽兴宗耶律宗真", "era": "重熙十五年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏景宗李元昊", "era": "天授礼法延祚九年" }
+    ],
+    "events": [
+      { "title": "欧阳修撰《五代史》", "description": "欧阳修私修《新五代史》大体完成。该书以春秋笔法记述五代历史，文字简练，史论精妙，后成为二十四史之一。", "latitude": 34.8, "longitude": 114.3, "category": "文化", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1048,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "庆历八年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽兴宗耶律宗真", "era": "重熙十七年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏毅宗李谅祚", "era": "延嗣宁国元年" }
+    ],
+    "events": [
+      { "title": "李元昊被刺杀", "description": "西夏景宗李元昊因夺太子宁令哥之妻，被宁令哥刺杀。元昊死后，幼子李谅祚继位，是为夏毅宗，由其母没藏太后摄政。", "latitude": 38.5, "longitude": 106.3, "category": "政治", "region": "西夏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1049,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "皇祐元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽兴宗耶律宗真", "era": "重熙十八年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏毅宗李谅祚", "era": "天祐垂圣元年" }
+    ],
+    "events": [
+      { "title": "辽征西夏", "description": "辽兴宗乘西夏主少国疑，率军征伐西夏。辽军一度深入西夏腹地，但西夏军采取坚壁清野战术，辽军粮尽退兵。辽夏关系恶化。", "latitude": 38.5, "longitude": 106.3, "category": "军事", "region": "辽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1050,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "皇祐二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽兴宗耶律宗真", "era": "重熙十九年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏毅宗李谅祚", "era": "天祐垂圣二年" }
+    ],
+    "events": [
+      { "title": "加纳帝国鼎盛", "description": "西非加纳帝国在国王图尼卡·马宁统治下达到鼎盛时期。加纳控制着撒哈拉商路的黄金贸易，被誉为“黄金之地”。阿拉伯商人大量涌入。", "latitude": 15.0, "longitude": -12.0, "category": "经济", "region": "加纳帝国", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": 1051,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "皇祐三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽兴宗耶律宗真", "era": "重熙二十年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏毅宗李谅祚", "era": "天祐垂圣三年" }
+    ],
+    "events": [
+      { "title": "侬智高起义", "description": "广源州（今越南高平）首领侬智高起兵反宋，攻占邕州（今广西南宁），称仁惠皇帝。宋仁宗派狄青率军讨伐。", "latitude": 22.8, "longitude": 106.8, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1052,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "皇祐四年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽兴宗耶律宗真", "era": "重熙二十一年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏毅宗李谅祚", "era": "福圣承道元年" }
+    ],
+    "events": [
+      { "title": "范仲淹去世", "description": "北宋名臣范仲淹病逝于徐州，享年六十四岁。范仲淹不仅是杰出的政治家、军事家，也是著名的文学家，“先天下之忧而忧”精神影响深远。", "latitude": 34.3, "longitude": 117.2, "category": "政治", "region": "北宋", "continent": "亚洲" },
+      { "title": "狄青夜袭昆仑关", "description": "宋将狄青在元宵节夜率军奇袭昆仑关，大败侬智高军。侬智高逃往大理，起义被平定。狄青此仗打得干净利落，一举成名。", "latitude": 22.8, "longitude": 108.4, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1053,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "皇祐五年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽兴宗耶律宗真", "era": "重熙二十二年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏毅宗李谅祚", "era": "福圣承道二年" }
+    ],
+    "events": [
+      { "title": "狄青被猜忌", "description": "狄青因战功升任枢密使，引起朝中猜忌。宋代重文轻武，狄青作为武将位列执政，遭文臣排挤，不久即被贬。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1054,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "至和元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "清宁元年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏毅宗李谅祚", "era": "福圣承道三年" }
+    ],
+    "events": [
+      { "title": "基督教大分裂", "description": "罗马教皇利奥九世与君士坦丁堡牧首米海尔一世互相开除教籍，基督教正式分裂为罗马天主教和东正教。东西教会分裂持续至今。", "latitude": 41.9, "longitude": 12.5, "category": "宗教", "region": "欧洲", "continent": "欧洲" },
+      { "title": "辽兴宗去世，道宗即位", "description": "辽兴宗耶律宗真病逝，其子耶律洪基即位，是为辽道宗。道宗初年尚能勤政，但后来沉迷佛教，辽朝进一步衰落。", "latitude": 43.7, "longitude": 122.3, "category": "政治", "region": "辽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1055,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "至和二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "清宁二年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏毅宗李谅祚", "era": "福圣承道四年" }
+    ],
+    "events": [
+      { "title": "包拯任开封知府", "description": "包拯权知开封府，以铁面无私、执法如山著称。他在任期间整顿吏治，为民伸冤，被百姓尊称为“包青天”。包拯成为后世清官的典范。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1056,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "嘉祐元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "清宁三年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏毅宗李谅祚", "era": "福圣承道五年" }
+    ],
+    "events": [
+      { "title": "宋仁宗晚年", "description": "宋仁宗晚年多病，无子嗣。朝臣多次劝立宗室子为皇储，仁宗犹豫不决。后经韩琦、包拯等反复劝谏，才决定立宗室赵宗实为皇子。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1057,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "嘉祐二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "清宁四年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏毅宗李谅祚", "era": "奲都元年" }
+    ],
+    "events": [
+      { "title": "嘉祐二年科举，群星璀璨", "description": "欧阳修主持嘉祐二年科举，破除太学体浮华文风。此科录取的进士中有苏轼、苏辙、曾巩、张载、程颢、程颐等，堪称千年科举最耀眼的一榜。", "latitude": 34.8, "longitude": 114.3, "category": "文化", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1059,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "嘉祐四年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "清宁六年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏毅宗李谅祚", "era": "奲都三年" }
+    ],
+    "events": [
+      { "title": "苏轼中举，名动京师", "description": "苏轼与弟弟苏辙随父苏洵进京应试，苏轼以才华横溢的文章震惊文坛。欧阳修见苏轼文章叹道“吾当避此一人”。苏氏父子名动京师。", "latitude": 34.8, "longitude": 114.3, "category": "文化", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1060,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "嘉祐五年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "清宁七年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏毅宗李谅祚", "era": "奲都四年" }
+    ],
+    "events": [
+      { "title": "《新唐书》修成", "description": "欧阳修、宋祁等历时十七年修成《新唐书》，共二百二十五卷。此书史料丰富，体例严谨，为研究唐代历史的重要典籍。", "latitude": 34.8, "longitude": 114.3, "category": "文化", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1061,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "嘉祐六年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "清宁八年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏毅宗李谅祚", "era": "奲都五年" }
+    ],
+    "events": [
+      { "title": "苏轼制科入三等", "description": "苏轼参加制科考试，入第三等（第一等、第二等为虚设，三等为最高）。这是宋朝制科考试的最好成绩，苏轼声名大振。", "latitude": 34.8, "longitude": 114.3, "category": "文化", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1062,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋仁宗赵祯", "era": "嘉祐七年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "清宁九年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏毅宗李谅祚", "era": "奲都六年" }
+    ],
+    "events": [
+      { "title": "包拯去世", "description": "北宋名臣包拯病逝，享年六十四岁。包拯以刚正不阿、清正廉洁著称，后世将其神化为“包青天”，成为中国古代清官文化的代表人物。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1063,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋英宗赵曙", "era": "嘉祐八年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "清宁十年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏毅宗李谅祚", "era": "拱化元年" }
+    ],
+    "events": [
+      { "title": "宋仁宗驾崩，英宗即位", "description": "宋仁宗赵祯病逝，在位四十二年。其养子赵曙即位，是为宋英宗。英宗即位后因与曹太后不和，引发“濮议”之争，朝政波澜迭起。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1064,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋英宗赵曙", "era": "治平元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "咸雍元年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏毅宗李谅祚", "era": "拱化二年" }
+    ],
+    "events": [
+      { "title": "濮议之争", "description": "宋英宗欲尊其生父赵允让为皇考，曹太后及司马光等主张称皇伯。欧阳修、韩琦支持英宗，引发朝中激烈争论。最终英宗勉强获胜。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1065,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋英宗赵曙", "era": "治平二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "咸雍二年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏毅宗李谅祚", "era": "拱化三年" }
+    ],
+    "events": [
+      { "title": "司马光进《通志》", "description": "司马光向宋英宗进献其编修的《通志》八卷，英宗鼓励其继续编纂。这部著作后来发展为《资治通鉴》，成为中国史学经典。", "latitude": 34.8, "longitude": 114.3, "category": "文化", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1066,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋英宗赵曙", "era": "治平三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "咸雍三年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏毅宗李谅祚", "era": "拱化四年" }
+    ],
+    "events": [
+      { "title": "诺曼征服英格兰", "description": "诺曼底公爵威廉一世（征服者威廉）率军渡过英吉利海峡，在黑斯廷斯战役中击败英格兰国王哈罗德二世。威廉加冕为英格兰国王，诺曼王朝开启。", "latitude": 50.9, "longitude": 0.5, "category": "军事", "region": "英格兰", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1067,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋神宗赵顼", "era": "治平四年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "咸雍四年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏毅宗李谅祚", "era": "拱化五年" }
+    ],
+    "events": [
+      { "title": "宋英宗去世，神宗即位", "description": "宋英宗赵曙病逝，年方二十的太子赵顼即位，是为宋神宗。神宗年轻气盛，锐意改革，决心富国强兵，改变积贫积弱的局面。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" },
+      { "title": "西夏毅宗去世，惠宗即位", "description": "西夏毅宗李谅祚病逝，七岁幼子李秉常即位，是为夏惠宗，由梁太后摄政。西夏政局再次陷入主少国疑的局面。", "latitude": 38.5, "longitude": 106.3, "category": "政治", "region": "西夏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1068,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋神宗赵顼", "era": "熙宁元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "咸雍五年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏惠宗李秉常", "era": "乾道元年" }
+    ],
+    "events": [
+      { "title": "神宗召见王安石", "description": "宋神宗召见王安石，询问治国之道。王安石提出“变风俗，立法度”的改革主张。神宗深以为然，决意启用王安石变法。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1069,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋神宗赵顼", "era": "熙宁二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "咸雍六年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏惠宗李秉常", "era": "乾道二年" }
+    ],
+    "events": [
+      { "title": "王安石变法开始", "description": "宋神宗任命王安石为参知政事，设立制置三司条例司，陆续推行均输法、青苗法、农田水利法、免役法等新法。王安石变法全面展开。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" },
+      { "title": "新法争议激烈", "description": "王安石推行的新法遭到司马光、韩琦、富弼等元老重臣强烈反对。司马光认为“天地所生财货百物，不在民，则在官”，与王安石展开辩论。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1070,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋神宗赵顼", "era": "熙宁三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "咸雍七年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏惠宗李秉常", "era": "乾道三年" }
+    ],
+    "events": [
+      { "title": "王安石拜相", "description": "王安石被任命为同中书门下平章事（宰相），变法进入高潮。新法全面推行，包括青苗法、免役法、市易法、方田均税法等。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1071,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋神宗赵顼", "era": "熙宁四年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "咸雍八年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏惠宗李秉常", "era": "乾道四年" }
+    ],
+    "events": [
+      { "title": "曼齐刻尔特战役", "description": "塞尔柱突厥人在阿尔普·阿尔斯兰率领下，在曼齐刻尔特（今土耳其马拉兹吉尔特）大败拜占庭帝国军队，俘虏皇帝罗曼努斯四世。拜占庭失去小亚细亚大片领土。", "latitude": 38.8, "longitude": 42.5, "category": "军事", "region": "拜占庭帝国", "continent": "亚洲" },
+      { "title": "苏轼外放杭州", "description": "苏轼因上书批评王安石变法，被贬为杭州通判。在杭州期间，苏轼游览西湖，创作了大量脍炙人口的诗篇。", "latitude": 30.3, "longitude": 120.2, "category": "文化", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1072,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋神宗赵顼", "era": "熙宁五年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "咸雍九年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏惠宗李秉常", "era": "乾道五年" }
+    ],
+    "events": [
+      { "title": "王安石推行市易法", "description": "北宋设立市易务，由官方控制商业贸易，平抑物价。市易法抑制了富商大贾的盘剥，但也造成政府对商业的过度干预。", "latitude": 34.8, "longitude": 114.3, "category": "经济", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1073,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋神宗赵顼", "era": "熙宁六年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "咸雍十年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏惠宗李秉常", "era": "乾道六年" }
+    ],
+    "events": [
+      { "title": "王韶收复河湟", "description": "宋将王韶在神宗支持下发动熙河之役，收复被吐蕃占据的河湟地区，设熙河路。这是北宋自建国以来少有的军事成功。", "latitude": 35.0, "longitude": 103.0, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1074,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋神宗赵顼", "era": "熙宁七年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "咸雍十一年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏惠宗李秉常", "era": "乾道七年" }
+    ],
+    "events": [
+      { "title": "王安石第一次罢相", "description": "因天旱不雨，反对派借机攻击新法“致天怒”。曹太后、高太后也向神宗哭诉新法之害。王安石被迫辞相，出知江宁府。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1075,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋神宗赵顼", "era": "熙宁八年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "大康元年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏惠宗李秉常", "era": "大安元年" }
+    ],
+    "events": [
+      { "title": "王安石复相", "description": "宋神宗在吕惠卿难以独力驾驭变法的情况下，重新召王安石回京任相。但王安石复相后与吕惠卿产生矛盾，变法集团内部开始分裂。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" },
+      { "title": "宋越熙宁战争", "description": "越南李朝太尉李常杰率十万大军入侵北宋，攻陷邕州（今广西南宁），屠杀数万人。宋神宗派郭逵率军反击，在富良江大败越军，双方议和。", "latitude": 22.8, "longitude": 106.8, "category": "军事", "region": "北宋", "continent": "亚洲" },
+      { "title": "沈括使辽", "description": "北宋科学家沈括奉命出使辽朝，与辽谈判边界问题。沈括据理力争，保存了大量地理资料，后将其编入《梦溪笔谈》。", "latitude": 43.7, "longitude": 122.3, "category": "外交", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1076,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋神宗赵顼", "era": "熙宁九年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "大康二年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏惠宗李秉常", "era": "大安二年" }
+    ],
+    "events": [
+      { "title": "王安石二次罢相，彻底隐退", "description": "王安石因变法陷入困境，加之爱子王雱去世，心灰意冷之下再次辞相。神宗允其退居江宁，此后王安石再未出仕。变法由神宗亲自主持。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1077,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋神宗赵顼", "era": "熙宁十年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "大康三年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏惠宗李秉常", "era": "大安三年" }
+    ],
+    "events": [
+      { "title": "辽道宗诛耶律乙辛", "description": "辽道宗诛杀权臣耶律乙辛。耶律乙辛曾诬陷太子耶律浚，导致太子被杀。道宗晚年醒悟后为太子昭雪，但辽朝已元气大伤。", "latitude": 43.7, "longitude": 122.3, "category": "政治", "region": "辽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1078,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋神宗赵顼", "era": "元丰元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "大康四年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏惠宗李秉常", "era": "大安四年" }
+    ],
+    "events": [
+      { "title": "元丰改制", "description": "宋神宗在王安石退隐后亲自推行元丰改制，简化官制，恢复三省六部职能。神宗希望通过制度改革巩固变法成果。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1079,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋神宗赵顼", "era": "元丰二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "大康五年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏惠宗李秉常", "era": "大安五年" }
+    ],
+    "events": [
+      { "title": "乌台诗案，苏轼被贬", "description": "御史李定等指控苏轼以诗讽刺朝政，苏轼被逮捕下御史台狱。这就是著名的“乌台诗案”。多方营救后苏轼被贬为黄州团练副使。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1080,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋神宗赵顼", "era": "元丰三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "大康六年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏惠宗李秉常", "era": "大安六年" }
+    ],
+    "events": [
+      { "title": "苏轼号东坡居士", "description": "苏轼在黄州（今湖北黄冈）东坡开垦荒地，自号东坡居士。在黄州期间，他创作了《念奴娇·赤壁怀古》、《前赤壁赋》等千古名篇。", "latitude": 30.5, "longitude": 114.9, "category": "文化", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1081,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋神宗赵顼", "era": "元丰四年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "大康七年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏惠宗李秉常", "ea": "大安七年" }
+    ],
+    "events": [
+      { "title": "宋五路伐西夏", "description": "宋神宗趁西夏内乱，发五路大军三十万伐夏。西夏军坚壁清野，宋军在灵州（今宁夏灵武）城下被西夏决黄河水淹，大败退回。", "latitude": 38.0, "longitude": 106.3, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1082,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋神宗赵顼", "era": "元丰五年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "大康八年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏惠宗李秉常", "era": "大安八年" }
+    ],
+    "events": [
+      { "title": "永乐城之战，宋军惨败", "description": "北宋在银州（今陕西米脂）修建永乐城，西夏军倾国来攻，城破宋军二万余人覆没。宋神宗闻讯痛哭，变法事业遭受沉重打击。", "latitude": 37.8, "longitude": 110.2, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1083,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋神宗赵顼", "era": "元丰六年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "大康九年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏惠宗李秉常", "era": "大安九年" }
+    ],
+    "events": [
+      { "title": "神宗晚年消沉", "description": "永乐城惨败后，宋神宗意志消沉，变法热情消退。他常在朝堂上痛哭，感叹“永乐之举，无一不如人意”。不久神宗健康状况恶化。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1084,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋神宗赵顼", "era": "元丰七年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "大康十年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏惠宗李秉常", "era": "大安十年" }
+    ],
+    "events": [
+      { "title": "司马光完成《资治通鉴》", "description": "司马光历时十九年编纂的《资治通鉴》完稿。全书二百九十四卷，上起战国，下至五代，涵盖一千三百六十二年历史。神宗赐名“资治通鉴”。", "latitude": 34.8, "longitude": 114.3, "category": "文化", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1085,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋哲宗赵煦", "era": "元丰八年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "大安元年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏惠宗李秉常", "era": "大安十一年" }
+    ],
+    "events": [
+      { "title": "宋神宗去世，哲宗即位", "description": "宋神宗赵顼病逝，年仅十岁的太子赵煦即位，是为宋哲宗。高太后（宣仁太后）垂帘听政，立即召回司马光等保守派官员。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" },
+      { "title": "元祐更化，废除新法", "description": "高太后起用司马光为相，全面废除王安石新法。青苗法、免役法、市易法等被逐一废除。变法派章惇、吕惠卿等被贬。史称“元祐更化”。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1086,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋哲宗赵煦", "era": "元祐元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "大安二年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏惠宗李秉常", "era": "大安十二年" }
+    ],
+    "events": [
+      { "title": "司马光去世，王安石同殁", "description": "司马光和王国安（实为王安石）在同一年去世。司马光在废除新法后不久病逝。王安石在江宁（今南京）郁郁而终。两位政敌同年离世。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" },
+      { "title": "《资治通鉴》刊行", "description": "司马光去世后，《资治通鉴》在朝廷支持下正式刊行。此书成为中国史学经典，与《史记》并称，对后世影响极其深远。", "latitude": 34.8, "longitude": 114.3, "category": "文化", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1087,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋哲宗赵煦", "era": "元祐二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "大安三年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏惠宗李秉常", "era": "大安十三年" }
+    ],
+    "events": [
+      { "title": "元祐党争", "description": "司马光死后，保守派内部也发生分裂。朔党、洛党、蜀党互相攻击。程颐（洛党）与苏轼（蜀党）矛盾激化，朝政陷入无休止的党争。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1088,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋哲宗赵煦", "era": "元祐三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "大安四年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏惠宗李秉常", "era": "天安礼定元年" }
+    ],
+    "events": [
+      { "title": "苏颂造水运仪象台", "description": "北宋科学家苏颂主持建造水运仪象台，集浑仪、浑象、报时装置于一体。这是世界上最早的天文钟，体现了宋代高度发达的机械制造技术。", "latitude": 34.8, "longitude": 114.3, "category": "科技", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1089,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋哲宗赵煦", "era": "元祐四年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "大安五年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏崇宗李乾顺", "era": "天仪治平元年" }
+    ],
+    "events": [
+      { "title": "苏轼任杭州知州", "description": "苏轼被任命为杭州知州。在杭州期间，他疏浚西湖，修建苏堤，治理水患。苏轼在杭州政绩卓著，深受百姓爱戴。", "latitude": 30.3, "longitude": 120.2, "category": "社会", "region": "北宋", "continent": "亚洲" },
+      { "title": "西夏崇宗幼年即位", "description": "西夏惠宗李秉常去世，三岁幼子李乾顺即位，是为夏崇宗。梁太后继续摄政，西夏内部斗争激烈。", "latitude": 38.5, "longitude": 106.3, "category": "政治", "region": "西夏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1090,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋哲宗赵煦", "era": "元祐五年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "大安六年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏崇宗李乾顺", "era": "天仪治平二年" }
+    ],
+    "events": [
+      { "title": "苏堤建成", "description": "苏轼在杭州疏浚西湖的工程完工，用淤泥筑成一道长堤，堤上遍植桃柳，这就是著名的“苏堤”。苏堤春晓成为西湖十景之一。", "latitude": 30.3, "longitude": 120.2, "category": "社会", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1091,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋哲宗赵煦", "era": "元祐六年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "大安七年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏崇宗李乾顺", "era": "天仪治平三年" }
+    ],
+    "events": [
+      { "title": "哲宗年长，不满太后专权", "description": "宋哲宗年届十六，但高太后仍迟迟不肯归政。哲宗心中不满，但不敢表露。他暗中与变法派联络，准备亲政后恢复新法。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1092,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋哲宗赵煦", "era": "元祐七年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "大安八年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏崇宗李乾顺", "era": "天仪治平四年" }
+    ],
+    "events": [
+      { "title": "高太后驾崩前仍掌权", "description": "高太后病重，仍拒绝将政权交还哲宗。她在临终前安排吕大防、范纯仁等保守派继续执政。但哲宗已决意反击。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1093,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋哲宗赵煦", "era": "元祐八年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "大安九年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏崇宗李乾顺", "era": "天仪治平五年" }
+    ],
+    "events": [
+      { "title": "高太后去世，哲宗亲政", "description": "宣仁太后高氏病逝，宋哲宗开始亲政。哲宗立即召回章惇、曾布等变法派，准备恢复新法，清算元祐党人。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1094,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋哲宗赵煦", "era": "绍圣元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "大安十年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏崇宗李乾顺", "era": "天祐民安元年" }
+    ],
+    "events": [
+      { "title": "哲宗绍圣绍述", "description": "宋哲宗改元绍圣，宣布恢复神宗变法。章惇被任命为宰相，全面恢复新法，打击元祐党人。司马光、吕公著等已死者被迫夺官职。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" },
+      { "title": "苏轼被贬惠州", "description": "苏轼因属元祐党人，被贬至惠州（今广东惠州）。苏轼在惠州虽然生活艰苦，但仍以乐观心态面对，“日啖荔枝三百颗”的佳句即作于此。", "latitude": 23.1, "longitude": 114.4, "category": "文化", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1095,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋哲宗赵煦", "era": "绍圣二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "大安十一年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏崇宗李乾顺", "era": "天祐民安二年" }
+    ],
+    "events": [
+      { "title": "教皇乌尔班二世发动十字军", "description": "教皇乌尔班二世在法国克莱蒙召开宗教会议，号召基督教世界收复圣城耶路撒冷。宣布参加者的罪孽可得赦免，十字军东征开始。", "latitude": 45.8, "longitude": 3.1, "category": "宗教", "region": "欧洲", "continent": "欧洲" },
+      { "title": "沈括完成《梦溪笔谈》", "description": "北宋科学家沈括在润州（今江苏镇江）梦溪园完成《梦溪笔谈》。全书涉及天文、数学、物理、化学、生物、地理、医学等多学科，被誉为“中国科学史上的里程碑”。", "latitude": 32.2, "longitude": 119.5, "category": "科技", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1096,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋哲宗赵煦", "era": "绍圣三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "寿昌二年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏崇宗李乾顺", "era": "天祐民安三年" }
+    ],
+    "events": [
+      { "title": "第一次十字军东征开始", "description": "由隐士彼得等人领导的“平民十字军”首先出发，随后各路贵族十字军陆续东征。由于准备不足和指挥混乱，平民十字军在小亚细亚被塞尔柱人歼灭。", "latitude": 41.0, "longitude": 28.9, "category": "军事", "region": "欧洲", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1097,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋哲宗赵煦", "era": "绍圣四年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "寿昌三年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏崇宗李乾顺", "era": "天祐民安四年" }
+    ],
+    "events": [
+      { "title": "章惇大肆报复元祐党人", "description": "宰相章惇对元祐党人进行大规模政治清算。吕大防、刘挚、范纯仁等被贬岭南。已故的司马光、吕公著等人被追贬夺爵。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" },
+      { "title": "十字军围攻安条克", "description": "第一次十字军主力在布永的戈弗雷率领下围攻安条克（今土耳其安塔基亚）。围城历时八个月，十字军最终通过内应攻陷城池。", "latitude": 36.2, "longitude": 36.2, "category": "军事", "region": "欧洲", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1098,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋哲宗赵煦", "era": "元符元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "寿昌四年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏崇宗李乾顺", "era": "天祐民安五年" }
+    ],
+    "events": [
+      { "title": "宋攻西夏，夺取要地", "description": "宋哲宗派章楶等率军攻西夏，夺取平夏城（今宁夏固原）等要害之地，巩固了西北边防。这是北宋后期少有的军事成果。", "latitude": 36.0, "longitude": 106.3, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1099,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋哲宗赵煦", "era": "元符二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "寿昌五年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏崇宗李乾顺", "era": "永安元年" }
+    ],
+    "events": [
+      { "title": "十字军攻陷耶路撒冷", "description": "第一次十字军攻陷耶路撒冷，对城内穆斯林和犹太人进行了大规模屠杀。随后建立耶路撒冷王国等十字军国家，戈弗雷被选为“圣墓守护者”。", "latitude": 31.8, "longitude": 35.2, "category": "军事", "region": "耶路撒冷王国", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1100,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋徽宗赵佶", "era": "元符三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽道宗耶律洪基", "era": "寿昌六年" },
+      { "dynastyId": "xixia", "name": "西夏", "ruler": "夏崇宗李乾顺", "era": "永安二年" }
+    ],
+    "events": [
+      { "title": "宋哲宗去世，徽宗即位", "description": "宋哲宗赵煦病逝，年仅二十四岁。向太后立哲宗弟端王赵佶为帝，是为宋徽宗。徽宗酷爱书画艺术，但治国无方，北宋即将走向末路。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" },
+      { "title": "向太后摄政，短暂缓和", "description": "向太后垂帘听政，召回部分元祐党人，停止绍圣时期的政治清算。但向太后摄政仅七个月即还政于徽宗。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  }
+]

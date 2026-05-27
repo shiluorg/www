@@ -1,0 +1,175 @@
+[
+  {
+    "year": -1200,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王武丁（后期）", "era": "" }
+    ],
+    "events": [
+      { "title": "商王武丁在位后期，商朝国力鼎盛", "description": "商王武丁是商朝最有作为的君主之一，在位期间商朝国力达到顶峰。武丁任用傅说为相，对内修明政治，对外征伐四方，使商朝疆域空前辽阔。此时商朝已进入晚期。", "latitude": 34.5, "longitude": 114.5, "category": "政治", "region": "中国/商", "continent": "亚洲" },
+      { "title": "拉美西斯二世统治埃及", "description": "古埃及第十九王朝法老拉美西斯二世在位已逾半个世纪，建造了大量宏伟建筑，包括阿布辛贝神庙。埃及新王国此时仍保持强盛，但内部矛盾开始积累。", "latitude": 25.0, "longitude": 32.0, "category": "政治", "region": "古埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1195,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王祖甲", "era": "" }
+    ],
+    "events": [
+      { "title": "商王祖甲改革，商朝由盛转衰", "description": "商王祖甲即位后推行了一系列改革，改革祭祀制度，完善礼制。但商朝内部矛盾日益加剧，诸侯离心，商朝开始由盛转衰。祖甲之后的商王多为守成之君。", "latitude": 34.5, "longitude": 114.5, "category": "政治", "region": "中国/商", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1190,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王廪辛", "era": "" }
+    ],
+    "events": [
+      { "title": "海上民族开始大规模迁徙", "description": "海上民族（Sea Peoples）开始从爱琴海和地中海地区向东南方向大规模迁徙，这支神秘的迁徙群体由多个民族组成，包括腓力斯丁人、舍尔丹人等。他们的迁徙对东地中海沿岸文明造成了巨大冲击。", "latitude": 33.0, "longitude": 35.0, "category": "民族迁徙", "region": "地中海东部", "continent": "亚洲" },
+      { "title": "赫梯帝国受到海上民族冲击", "description": "赫梯帝国（小亚细亚）在海上民族的持续冲击下国力日益衰弱，赫梯文明即将走向终结。赫梯帝国曾是青铜时代近东地区最强大的军事帝国之一。", "latitude": 39.0, "longitude": 34.0, "category": "军事", "region": "小亚细亚", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1184,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王武乙", "era": "" }
+    ],
+    "events": [
+      { "title": "特洛伊战争（传统年代）", "description": "古希腊传统年代推算特洛伊战争发生于本年。厄拉托斯特尼推算特洛伊城陷落于前1184年。根据荷马史诗《伊利亚特》记载，迈锡尼国王阿伽门农率领希腊联军远征小亚细亚的特洛伊城，历时十年最终攻陷该城。特洛伊战争标志着古希腊迈锡尼文明的最后辉煌。", "latitude": 39.95, "longitude": 26.25, "category": "军事", "region": "古希腊/特洛伊", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -1180,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王武乙", "era": "" }
+    ],
+    "events": [
+      { "title": "埃及第二十王朝建立", "description": "塞特纳赫特推翻第十九王朝末代女王塔乌斯雷特，建立第二十王朝。此时埃及面临海上民族入侵的巨大压力，政权更迭频繁，新王国已步入衰落期。", "latitude": 25.7, "longitude": 32.6, "category": "政治", "region": "古埃及", "continent": "非洲" },
+      { "title": "海上民族横扫东地中海", "description": "海上民族持续侵袭东地中海沿岸，赫梯帝国在海上民族和内部叛乱的双重打击下彻底崩溃，赫梯文明就此终结。塞浦路斯、叙利亚沿岸城市也遭到严重破坏。", "latitude": 35.0, "longitude": 34.0, "category": "军事", "region": "地中海东部", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1178,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王武乙", "era": "" }
+    ],
+    "events": [
+      { "title": "拉美西斯三世击败海上民族", "description": "古埃及法老拉美西斯三世在尼罗河三角洲与海上民族展开大规模海陆决战。埃及军队在陆路和水路同时击败入侵者，成功阻止了海上民族对埃及的入侵。这场战役被详细记载于哈布城（Medinet Habu）神庙的浮雕上。埃及虽获胜，但国力已大不如前。", "latitude": 31.0, "longitude": 31.5, "category": "军事", "region": "古埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1175,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王武乙", "era": "" }
+    ],
+    "events": [
+      { "title": "腓力斯丁人定居迦南沿海", "description": "海上民族中的腓力斯丁人（Philistines）在击败后未能攻入埃及，转而定居于迦南地（今巴勒斯坦/以色列）沿海地区。腓力斯丁人建立了五个城邦联盟（加沙、阿什杜德、阿什凯隆、迦特、以革伦），该地区因而得名\"巴勒斯坦\"（Philistia）。", "latitude": 31.5, "longitude": 34.5, "category": "民族迁徙", "region": "迦南", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1160,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王文丁", "era": "" }
+    ],
+    "events": [
+      { "title": "商王文丁杀季历", "description": "商王文丁忌惮周人势力日益强大，将周族首领季历（周文王之父）召至朝歌杀害。季历被杀后，周人与商朝的矛盾进一步激化，其子姬昌（后来的周文王）继位为周族首领。", "latitude": 34.5, "longitude": 114.5, "category": "政治", "region": "中国/商", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1155,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王文丁", "era": "" }
+    ],
+    "events": [
+      { "title": "拉美西斯三世遇刺身亡", "description": "古埃及法老拉美西斯三世在宫廷阴谋中被刺杀（或说死于后宫政变）。他是埃及新王国最后一位有作为的法老，其死后埃及第二十王朝迅速衰落，宫廷内斗加剧，国势日衰。现代CT扫描证实其喉咙被割开。", "latitude": 25.7, "longitude": 32.6, "category": "政治", "region": "古埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1150,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王帝乙", "era": "" }
+    ],
+    "events": [
+      { "title": "迈锡尼文明崩溃，希腊进入黑暗时代", "description": "迈锡尼文明在海上民族入侵、内部动荡及自然灾害的复合因素下全面崩溃。迈锡尼、提林斯、派洛斯等主要宫殿被毁，线形文字B失传，人口锐减，古希腊进入约四百年的黑暗时代（Dark Ages），直至公元前8世纪希腊城邦文明复兴。", "latitude": 37.5, "longitude": 22.5, "category": "文明兴衰", "region": "古希腊", "continent": "欧洲" },
+      { "title": "商王帝乙即位", "description": "商王文丁去世，子帝乙即位。帝乙在位期间，商朝内忧外患日益严重，东夷频繁叛乱，帝乙多次征讨东夷。商朝国力进一步衰落，周人在西方不断壮大。", "latitude": 34.5, "longitude": 114.5, "category": "政治", "region": "中国/商", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1145,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王帝乙", "era": "" }
+    ],
+    "events": [
+      { "title": "亚述国王提格拉特帕拉沙尔一世即位", "description": "提格拉特帕拉沙尔一世（Tiglath-Pileser I）成为亚述国王，在位期间亚述帝国进入新一轮扩张期。他率军西征，征服了阿拉米人，兵锋直抵地中海沿岸，使亚述重新成为近东地区的重要军事强国。", "latitude": 36.5, "longitude": 42.5, "category": "军事", "region": "美索不达米亚/亚述", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1140,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王帝乙", "era": "" }
+    ],
+    "events": [
+      { "title": "亚述帝国扩张至地中海", "description": "提格拉特帕拉沙尔一世率亚述大军西征，征服幼发拉底河中游地区，击败阿拉米人各部落，抵达地中海沿岸。腓尼基城市比布鲁斯、西顿等向亚述纳贡。亚述帝国复兴，成为近东霸主。", "latitude": 35.5, "longitude": 36.0, "category": "军事", "region": "美索不达米亚/腓尼基", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1135,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王帝乙", "era": "" }
+    ],
+    "events": [
+      { "title": "以色列士师参孙（约）", "description": "以色列人进入迦南地后处于士师时期，参孙（Samson）大约在这一时期担任以色列人的士师（军事领袖兼裁判官）。参孙以神力闻名，与非利士人（腓力斯丁人）多次交战，其传奇故事载于《圣经·士师记》。", "latitude": 31.8, "longitude": 34.8, "category": "宗教", "region": "迦南/以色列", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1125,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王帝乙", "era": "" }
+    ],
+    "events": [
+      { "title": "巴比伦尼亚遭到亚述入侵", "description": "提格拉特帕拉沙尔一世南下入侵巴比伦尼亚，攻占巴比伦城，自称\"世界之王\"。亚述帝国势力范围达到鼎盛，但亚述的统治并未持久，不久后阿拉米人的迁徙浪潮开始冲击亚述本土。", "latitude": 32.5, "longitude": 44.5, "category": "军事", "region": "美索不达米亚", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1116,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王帝辛（纣王）", "era": "" },
+      { "dynastyId": "xizhou", "name": "周（诸侯国）", "ruler": "周文王姬昌", "era": "" }
+    ],
+    "events": [
+      { "title": "商纣王帝辛即位", "description": "商王帝乙去世，子帝辛（即商纣王）即位。纣王天资聪颖，勇力过人，能徒手与猛兽搏斗。但他刚愎自用，好酒淫乐，宠幸妲己，残害忠良。他加重赋税，建造鹿台、酒池肉林，引起朝野不满。同时他大力征伐东夷，虽取得军事胜利但消耗了国力。", "latitude": 34.5, "longitude": 114.5, "category": "政治", "region": "中国/商", "continent": "亚洲" },
+      { "title": "周文王姬昌治理周邦", "description": "周族首领姬昌（即后来的周文王）在西方广施仁政，礼贤下士，大量人才投奔周族。周文王访贤于渭水之滨，得姜子牙（吕尚）辅佐。周人势力迅速发展，\"三分天下有其二\"，许多诸侯国归附于周。", "latitude": 34.5, "longitude": 108.0, "category": "政治", "region": "中国/周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1110,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王帝辛（纣王）", "era": "" },
+      { "dynastyId": "xizhou", "name": "周（诸侯国）", "ruler": "周文王姬昌", "era": "" }
+    ],
+    "events": [
+      { "title": "纣王征伐东夷，拓土江淮", "description": "商纣王大举征伐东夷（今山东、江淮一带），多次取得军事胜利，将商朝势力扩展至淮河流域和长江下游地区。但连年征战导致军力疲惫、国库空虚，社会矛盾日益尖锐。", "latitude": 33.5, "longitude": 117.0, "category": "军事", "region": "中国/商", "continent": "亚洲" },
+      { "title": "埃及第二十王朝持续衰落", "description": "拉美西斯五世、六世相继在位，埃及王权日益衰落。法老已无力控制南方底比斯的阿蒙祭司集团，神庙势力坐大。与此同时，利比亚人开始向埃及三角洲地区渗透移民。", "latitude": 25.7, "longitude": 32.6, "category": "政治", "region": "古埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1105,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王帝辛（纣王）", "era": "" },
+      { "dynastyId": "xizhou", "name": "周（诸侯国）", "ruler": "周文王姬昌", "era": "" }
+    ],
+    "events": [
+      { "title": "纣王囚禁周文王于羑里", "description": "商纣王听信崇侯虎的谗言，认为周文王姬昌在西方的势力威胁商朝统治，遂将周文王召至朝歌并囚禁于羑里（今河南汤阴）。周文王在狱中推演八卦，著成《周易》。周臣用美女宝马贿赂纣王，周文王得以释放归国。", "latitude": 35.9, "longitude": 114.3, "category": "政治", "region": "中国/商", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1101,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王帝辛（纣王）", "era": "" },
+      { "dynastyId": "xizhou", "name": "周（诸侯国）", "ruler": "周文王姬昌", "era": "" }
+    ],
+    "events": [
+      { "title": "周文王伐崇侯虎", "description": "周文王获释归国后，率军讨伐曾向纣王进谗言的崇侯虎。攻灭崇国（今陕西西安附近）后，周人迁都于丰（今陕西西安西南），建立丰京，奠定了灭商的基础。周文王在此继续广纳贤才，周族势力进一步壮大。", "latitude": 34.2, "longitude": 108.8, "category": "军事", "region": "中国/周", "continent": "亚洲" },
+      { "title": "以色列人进入士师时期后期", "description": "以色列十二支派在迦南地定居已逾百年，处于士师治理时期。以色列人不断与非利士人及其他迦南部族争战，各支派之间各自为政，尚无统一王国。先知撒母耳（Samuel）大约在这一时期出生。", "latitude": 31.8, "longitude": 34.8, "category": "宗教", "region": "迦南/以色列", "continent": "亚洲" }
+    ]
+  }
+]

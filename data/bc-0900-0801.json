@@ -1,0 +1,156 @@
+[
+  {
+    "year": -892,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周孝王姬辟方", "era": "" }
+    ],
+    "events": [
+      { "title": "周懿王去世，周孝王即位", "description": "周懿王姬囏去世，因其子姬燮软弱，诸侯拥立懿王之叔祖姬辟方即位，是为周孝王。孝王试图重振周王室权威。", "latitude": 34.7, "longitude": 112.5, "category": "政治", "region": "周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -891,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周孝王姬辟方", "era": "" }
+    ],
+    "events": [
+      { "title": "亚述国王图库尔提尼努尔塔二世即位", "description": "图库尔提尼努尔塔二世成为亚述国王，在位期间多次出征，征服阿拉米人部落，为亚述在美索不达米亚的进一步扩张奠定基础。", "latitude": 36.5, "longitude": 43.2, "category": "政治", "region": "亚述", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -886,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周夷王姬燮", "era": "" }
+    ],
+    "events": [
+      { "title": "周孝王去世，周夷王即位", "description": "周孝王姬辟方去世，原太子姬燮在诸侯支持下即位为周夷王。夷王在位期间周王室权威继续衰落，开始出现诸侯不来朝贡的现象。", "latitude": 34.7, "longitude": 112.5, "category": "政治", "region": "周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -883,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周夷王姬燮", "era": "" }
+    ],
+    "events": [
+      { "title": "亚述国王阿淑尔纳西尔帕二世即位", "description": "阿淑尔纳西尔帕二世成为亚述国王，他以残暴著称，大规模征伐两河流域北部和叙利亚地区，将亚述帝国推向强盛。", "latitude": 36.5, "longitude": 43.2, "category": "政治", "region": "亚述", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -880,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周夷王姬燮", "era": "" }
+    ],
+    "events": [
+      { "title": "亚述兴建新都卡拉赫", "description": "阿淑尔纳西尔帕二世在底格里斯河畔的卡拉赫（今尼姆鲁德）兴建新都城，大兴土木建造宏伟宫殿和神庙，浮雕记录其军事征服。", "latitude": 36.1, "longitude": 43.3, "category": "社会", "region": "亚述", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -878,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周厉王姬胡", "era": "" }
+    ],
+    "events": [
+      { "title": "周夷王去世，周厉王即位", "description": "周夷王姬燮去世，其子姬胡即位为周厉王。厉王性格暴虐，好利，重用荣夷公实行专利政策，引发国人强烈不满。", "latitude": 34.7, "longitude": 112.5, "category": "政治", "region": "周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -877,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周厉王姬胡", "era": "" }
+    ],
+    "events": [
+      { "title": "周厉王实行专利政策", "description": "周厉王采纳荣夷公建议，将山林川泽之利收归王室专有，不准平民利用，此即\"专利\"政策。大夫芮良夫劝谏不听，民怨沸腾。", "latitude": 34.7, "longitude": 112.5, "category": "经济", "region": "周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -874,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周厉王姬胡", "era": "" }
+    ],
+    "events": [
+      { "title": "埃及法老奥索尔孔二世即位", "description": "奥索尔孔二世成为埃及第22王朝法老，他在位期间埃及相对稳定，在塔尼斯和布巴斯提斯等地修建扩建神庙。", "latitude": 30.0, "longitude": 31.2, "category": "政治", "region": "埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -853,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周厉王姬胡", "era": "" }
+    ],
+    "events": [
+      { "title": "卡尔卡尔战役", "description": "亚述国王沙尔马那塞尔三世与叙利亚联军在奥龙特斯河畔卡尔卡尔激战。联军包括大马士革、以色列等国，双方均损失惨重，亚述扩张受阻。", "latitude": 35.8, "longitude": 36.5, "category": "军事", "region": "亚述", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -844,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周厉王姬胡", "era": "" }
+    ],
+    "events": [
+      { "title": "周厉王以卫巫监谤", "description": "面对国人批评朝政的言论，周厉王从卫国请来巫师监视百姓，发现有人议论就处死。国人不敢言，道路以目。召公劝谏厉王\"防民之口甚于防川\"。", "latitude": 34.7, "longitude": 112.5, "category": "社会", "region": "周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -841,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周厉王姬胡", "era": "" }
+    ],
+    "events": [
+      { "title": "国人暴动，厉王出奔", "description": "不堪压迫的西周国都镐京国人发动大规模暴动，攻击王宫。周厉王仓皇出奔至彘（今山西霍州）。太子姬靖藏匿于召公家中得免。此为共和行政元年，中国历史从此有确切纪年。", "latitude": 34.4, "longitude": 108.9, "category": "政治", "region": "周", "continent": "亚洲" },
+      { "title": "以色列王耶户政变", "description": "以色列王耶户在耶斯列发动军事政变，弑杀约兰王和犹大王亚哈谢，并屠灭亚哈家族，建立耶户王朝。同年向亚述国王沙尔马那塞尔三世进贡。", "latitude": 32.5, "longitude": 35.3, "category": "政治", "region": "以色列", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -828,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周宣王姬靖", "era": "" }
+    ],
+    "events": [
+      { "title": "共和行政结束，周宣王即位", "description": "周厉王在彘地去世，召公和周公（周定公）共同执政十四年后还政于太子姬靖，是为周宣王。宣王即位后励精图治，史称宣王中兴。", "latitude": 34.4, "longitude": 108.9, "category": "政治", "region": "周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -825,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周宣王姬靖", "era": "" }
+    ],
+    "events": [
+      { "title": "周宣王征伐西北戎狄", "description": "周宣王派秦仲等将领征伐西戎，同时命尹吉甫率军北伐猃狁，取得一系列胜利，暂时稳定了西北边疆，周王室声威有所恢复。", "latitude": 36.0, "longitude": 106.5, "category": "军事", "region": "戎狄", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -823,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周宣王姬靖", "era": "" }
+    ],
+    "events": [
+      { "title": "周宣王征伐淮夷、徐夷", "description": "周宣王亲征东南方的淮夷和徐夷，命召伯虎率军平定江淮地区，讨伐徐国。周军大胜，多国归附，宣王中兴达到鼎盛。", "latitude": 32.0, "longitude": 118.0, "category": "军事", "region": "淮夷", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -814,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周宣王姬靖", "era": "" }
+    ],
+    "events": [
+      { "title": "腓尼基人建立迦太基城", "description": "推罗（提尔）公主狄多率领腓尼基移民在北非海岸建立迦太基城（今突尼斯附近）。迦太基后来发展为地中海西部最强大的海上商业帝国。", "latitude": 36.9, "longitude": 10.3, "category": "社会", "region": "迦太基", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -811,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周宣王姬靖", "era": "" }
+    ],
+    "events": [
+      { "title": "亚述国王阿达德尼拉里三世即位", "description": "阿达德尼拉里三世成为亚述国王，幼年继位，由母后萨穆拉玛特（传说中的塞米拉米斯）摄政。在位期间远征叙利亚和大马士革。", "latitude": 36.5, "longitude": 43.2, "category": "政治", "region": "亚述", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -804,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周宣王姬靖", "era": "" }
+    ],
+    "events": [
+      { "title": "亚述攻陷大马士革", "description": "亚述国王阿达德尼拉里三世率军攻陷大马士革，迫使叙利亚地区诸国向亚述进贡，进一步巩固了亚述在黎凡特地区的霸权地位。", "latitude": 33.5, "longitude": 36.3, "category": "军事", "region": "叙利亚", "continent": "亚洲" }
+    ]
+  }
+]

@@ -1,0 +1,2529 @@
+[
+  {
+    "year": 601,
+    "dynasties": [
+      {
+        "dynastyId": "sui",
+        "name": "隋",
+        "ruler": "隋文帝杨坚",
+        "era": "仁寿元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "隋文帝改元仁寿",
+        "description": "隋文帝杨坚改元仁寿，此时隋朝经过二十年治理，国力强盛，府库充盈，天下户口快速增长，史称开皇之治达到顶峰。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "隋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 602,
+    "dynasties": [
+      {
+        "dynastyId": "sui",
+        "name": "隋",
+        "ruler": "隋文帝杨坚",
+        "era": "仁寿二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "隋平交州叛乱",
+        "description": "隋朝派刘方率军平定交州（今越南北部）李佛子叛乱，隋朝势力延伸至安南地区，加强了对南方边疆的控制。",
+        "latitude": 21.0,
+        "longitude": 105.8,
+        "category": "军事",
+        "region": "隋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 603,
+    "dynasties": [
+      {
+        "dynastyId": "sui",
+        "name": "隋",
+        "ruler": "隋文帝杨坚",
+        "era": "仁寿三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "隋文帝分送舍利，诸州建塔",
+        "description": "隋文帝杨坚笃信佛教，敕令天下三十州同时建舍利塔，诏高僧大德分送佛舍利至各州供奉。仁寿年间前后三次在全国大规模建塔安奉舍利，极大地推动了汉传佛教的兴盛。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "宗教",
+        "region": "隋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "拜占庭内乱，福卡斯篡位",
+        "description": "拜占庭（东罗马）帝国军队在多瑙河前线叛乱，百夫长福卡斯率军攻入君士坦丁堡，皇帝莫里斯及其五子被处死。福卡斯篡位称帝，拜占庭陷入内乱，萨珊波斯趁机大举入侵。",
+        "latitude": 41.0,
+        "longitude": 28.9,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 604,
+    "dynasties": [
+      {
+        "dynastyId": "sui",
+        "name": "隋",
+        "ruler": "隋炀帝杨广",
+        "era": "仁寿四年"
+      }
+    ],
+    "events": [
+      {
+        "title": "隋文帝驾崩，炀帝即位",
+        "description": "隋文帝杨坚病逝，次子杨广即位，是为隋炀帝。杨广随即杀兄杨勇，开始其十四年的统治，大規模兴建东都洛阳。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "隋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 605,
+    "dynasties": [
+      {
+        "dynastyId": "sui",
+        "name": "隋",
+        "ruler": "隋炀帝杨广",
+        "era": "大业元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "隋炀帝改元大业，开凿大运河",
+        "description": "隋炀帝改元大业，征发百万民夫开凿通济渠，连接黄河与淮河。同年又开邗沟，疏浚山阳渎，大运河工程正式启动。",
+        "latitude": 34.6,
+        "longitude": 112.4,
+        "category": "经济",
+        "region": "隋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "营建东都洛阳",
+        "description": "隋炀帝命宇文恺营建东都洛阳，每月役使民夫二百万人，历时十个月建成。洛阳城规模宏大，布局规整，成为隋朝新的政治中心。",
+        "latitude": 34.7,
+        "longitude": 112.5,
+        "category": "社会",
+        "region": "隋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 606,
+    "dynasties": [
+      {
+        "dynastyId": "sui",
+        "name": "隋",
+        "ruler": "隋炀帝杨广",
+        "era": "大业二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "洛阳大陈百戏，炫耀国威",
+        "description": "隋炀帝在洛阳端门外大陈百戏，招待突厥启民可汗及西域诸国使节。表演持续半月之久，戏场绵亘八里，艺人逾三万。又令洛阳商铺装饰一新，胡商可免费食宿，以炫示隋朝富庶。",
+        "latitude": 34.7,
+        "longitude": 112.5,
+        "category": "外交",
+        "region": "隋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "炀帝首游江都",
+        "description": "通济渠、邗沟贯通后，隋炀帝率后妃百官首次乘龙舟巡游江都（今扬州）。龙舟高四十五尺，长二百尺，船队长达二百余里，征发纤夫八万余人，所过州县五百里内皆令献食。",
+        "latitude": 32.4,
+        "longitude": 119.4,
+        "category": "社会",
+        "region": "隋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 607,
+    "dynasties": [
+      {
+        "dynastyId": "sui",
+        "name": "隋",
+        "ruler": "隋炀帝杨广",
+        "era": "大业三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "隋炀帝巡游北塞",
+        "description": "隋炀帝北巡至突厥启民可汗牙帐，炫耀隋朝军威。启民可汗率突厥部落酋长跪迎。隋朝修筑长城，西起榆林，东至紫河。",
+        "latitude": 40.8,
+        "longitude": 111.8,
+        "category": "外交",
+        "region": "隋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "日本遣隋使来华",
+        "description": "日本圣德太子派遣小野妹子为遣隋使，携国书来华。国书称日出处天子致书日没处天子，隋炀帝不悦，但仍遣使回访。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "外交",
+        "region": "隋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 608,
+    "dynasties": [
+      {
+        "dynastyId": "sui",
+        "name": "隋",
+        "ruler": "隋炀帝杨广",
+        "era": "大业四年"
+      }
+    ],
+    "events": [
+      {
+        "title": "永济渠开通",
+        "description": "隋炀帝征发河北百余万民夫开凿永济渠，引沁水南通黄河，北达涿郡（今北京）。大运河全长两千余公里，贯通南北五大水系。",
+        "latitude": 38.0,
+        "longitude": 114.5,
+        "category": "经济",
+        "region": "隋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 609,
+    "dynasties": [
+      {
+        "dynastyId": "sui",
+        "name": "隋",
+        "ruler": "隋炀帝杨广",
+        "era": "大业五年"
+      }
+    ],
+    "events": [
+      {
+        "title": "隋炀帝西征吐谷浑",
+        "description": "隋炀帝亲征吐谷浑，设置西海、河源、鄯善、且末四郡，隋朝疆域扩展至青海湖及西域东部，为中原王朝首次在青海设郡。",
+        "latitude": 36.6,
+        "longitude": 101.8,
+        "category": "军事",
+        "region": "隋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 610,
+    "dynasties": [
+      {
+        "dynastyId": "sui",
+        "name": "隋",
+        "ruler": "隋炀帝杨广",
+        "era": "大业六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "隋炀帝三游江都",
+        "description": "隋炀帝乘龙舟第三次巡游江都（今扬州），船队长达二百余里，征发纤夫八万余人，沿途五百里内州县献食，耗费巨大。",
+        "latitude": 32.4,
+        "longitude": 119.4,
+        "category": "社会",
+        "region": "隋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "洛阳万国博览会",
+        "description": "隋炀帝在洛阳举办盛大国际活动，邀西域诸国使节、商人来访，令洛阳城店铺装饰一新，胡商可免费食宿，以彰显隋朝富庶。",
+        "latitude": 34.7,
+        "longitude": 112.5,
+        "category": "外交",
+        "region": "隋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 611,
+    "dynasties": [
+      {
+        "dynastyId": "sui",
+        "name": "隋",
+        "ruler": "隋炀帝杨广",
+        "era": "大业七年"
+      }
+    ],
+    "events": [
+      {
+        "title": "王薄起义，隋末民变爆发",
+        "description": "邹平人王薄在长白山（今山东章丘）聚众起义，作《无向辽东浪死歌》，反对征伐高句丽的沉重徭役。隋末大规模农民起义由此爆发。",
+        "latitude": 36.7,
+        "longitude": 117.5,
+        "category": "军事",
+        "region": "隋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 612,
+    "dynasties": [
+      {
+        "dynastyId": "sui",
+        "name": "隋",
+        "ruler": "隋炀帝杨广",
+        "era": "大业八年"
+      }
+    ],
+    "events": [
+      {
+        "title": "隋第一次征高句丽惨败",
+        "description": "隋炀帝集兵一百一十三万，民夫两百万，御驾亲征高句丽。辽东城久攻不下，大将宇文述所率九军三十万人渡鸭绿江后几乎全军覆没，仅二千七百人返回。",
+        "latitude": 39.1,
+        "longitude": 125.0,
+        "category": "军事",
+        "region": "隋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 613,
+    "dynasties": [
+      {
+        "dynastyId": "sui",
+        "name": "隋",
+        "ruler": "隋炀帝杨广",
+        "era": "大业九年"
+      }
+    ],
+    "events": [
+      {
+        "title": "隋第二次征高句丽与杨玄感之叛",
+        "description": "隋炀帝再次征伐高句丽，围攻辽东城。后方礼部尚书杨玄感在黎阳起兵反隋，炀帝被迫回师平叛。杨玄感兵败自杀，但隋朝统治已严重动摇。",
+        "latitude": 39.1,
+        "longitude": 125.0,
+        "category": "军事",
+        "region": "隋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 614,
+    "dynasties": [
+      {
+        "dynastyId": "sui",
+        "name": "隋",
+        "ruler": "隋炀帝杨广",
+        "era": "大业十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "隋第三次征高句丽",
+        "description": "隋炀帝第三次征高句丽，高句丽王高元请降，炀帝撤军。但隋朝国力已竭，民变频发，天下已呈瓦解之势。高句丽后来亦未真正臣服。",
+        "latitude": 39.1,
+        "longitude": 125.0,
+        "category": "军事",
+        "region": "隋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 615,
+    "dynasties": [
+      {
+        "dynastyId": "sui",
+        "name": "隋",
+        "ruler": "隋炀帝杨广",
+        "era": "大业十一年"
+      }
+    ],
+    "events": [
+      {
+        "title": "隋炀帝被围雁门",
+        "description": "隋炀帝北巡至雁门（今山西代县），遭突厥始毕可汗十万骑兵围困。炀帝向义成公主求救，始毕可汗退兵。事件暴露隋朝已无力控制北方边防。",
+        "latitude": 39.1,
+        "longitude": 113.0,
+        "category": "军事",
+        "region": "隋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 616,
+    "dynasties": [
+      {
+        "dynastyId": "sui",
+        "name": "隋",
+        "ruler": "隋炀帝杨广",
+        "era": "大业十二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "群雄并起，隋政权濒临崩溃",
+        "description": "瓦岗军李密攻占兴洛仓，开仓赈济，起义军达数十万。窦建德据河北，杜伏威据江淮，刘武周据马邑。隋炀帝避居江都，无心北归。",
+        "latitude": 34.6,
+        "longitude": 112.5,
+        "category": "军事",
+        "region": "隋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 617,
+    "dynasties": [
+      {
+        "dynastyId": "sui",
+        "name": "隋",
+        "ruler": "隋炀帝杨广",
+        "era": "大业十三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "李渊太原起兵",
+        "description": "唐国公李渊在太原起兵，次子李世民劝进。李渊率军三万西进关中，十一月攻入长安，立隋炀帝孙代王杨侑为帝，自任大丞相。",
+        "latitude": 37.9,
+        "longitude": 112.5,
+        "category": "政治",
+        "region": "隋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "瓦岗军占领河南大部",
+        "description": "李密领导瓦岗军攻占河南大部地区，击败隋将王世充，围困洛阳。李密自称魏公，成为各路反隋义军中实力最强大的一支。",
+        "latitude": 34.7,
+        "longitude": 112.5,
+        "category": "军事",
+        "region": "隋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 618,
+    "dynasties": [
+      {
+        "dynastyId": "sui",
+        "name": "隋",
+        "ruler": "隋炀帝杨广",
+        "era": "大业十四年"
+      },
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高祖李渊",
+        "era": "武德元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "隋炀帝被杀，隋朝灭亡",
+        "description": "隋炀帝在江都被宇文化及缢杀，隋朝灭亡。宇文化及立秦王杨浩为傀儡帝，率军北上。隋朝立国三十八年，因暴政和滥用民力而迅速崩溃。",
+        "latitude": 32.4,
+        "longitude": 119.4,
+        "category": "政治",
+        "region": "隋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "唐朝建立",
+        "description": "李渊在长安接受隋恭帝禅让，登基称帝，国号唐，改元武德。立长子李建成为太子，次子李世民为秦王。唐朝开启近三百年统治。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "李密兵败降唐",
+        "description": "李密与王世充在洛阳北邙山决战，瓦岗军大败。李密西走投唐，后又叛唐出走，被唐将盛彦师伏杀。瓦岗军势力瓦解。",
+        "latitude": 34.7,
+        "longitude": 112.5,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 619,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高祖李渊",
+        "era": "武德二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "王世充称帝",
+        "description": "王世充在洛阳废隋皇泰主杨侗，自立为帝，国号郑。同时，窦建德在河北自称夏王，刘武周在山西称帝，天下形成唐、郑、夏三足鼎立之势。",
+        "latitude": 34.7,
+        "longitude": 112.5,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 620,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高祖李渊",
+        "era": "武德三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "李世民平定刘武周",
+        "description": "李世民率唐军东征，在柏壁之战中大败刘武周大将宋金刚，刘武周逃奔突厥。唐军收复山西全境，李世民声望大增。",
+        "latitude": 37.9,
+        "longitude": 112.5,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 621,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高祖李渊",
+        "era": "武德四年"
+      }
+    ],
+    "events": [
+      {
+        "title": "虎牢关之战，一战定天下",
+        "description": "李世民率三千五百精兵在虎牢关阻击窦建德十万大军。窦建德大败被俘。王世充见援军覆灭，开城投降。唐军一举平定河南、河北。",
+        "latitude": 34.8,
+        "longitude": 113.2,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "杜伏威归唐",
+        "description": "江淮义军首领杜伏威在李世民招抚下归降唐朝，被任命为太子太保。唐朝基本统一天下，仅剩梁师都等少数割据势力依附突厥。",
+        "latitude": 32.4,
+        "longitude": 119.4,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 622,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高祖李渊",
+        "era": "武德五年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘黑闼起义",
+        "description": "窦建德旧部刘黑闼在河北起兵反唐，屡败唐军，半年内收复窦建德故地。李世民率军征讨，在洺水之战中击败刘黑闼。",
+        "latitude": 38.9,
+        "longitude": 115.0,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 623,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高祖李渊",
+        "era": "武德六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘黑闼二次起兵被杀",
+        "description": "刘黑闼借突厥兵力卷土重来，再次攻占河北数州。唐太子李建成率军讨伐，采纳魏征建议释放俘虏以收民心。刘黑闼兵败逃至饶州被部属擒杀。",
+        "latitude": 38.9,
+        "longitude": 115.0,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "辅公祏称帝反唐",
+        "description": "江淮义军首领辅公祏在丹阳（今南京）称帝，国号宋，起兵反唐。辅公祏占据江南富庶之地，与唐朝南北对峙。唐高祖命李孝恭、李靖率军讨伐。",
+        "latitude": 32.0,
+        "longitude": 118.8,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 624,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高祖李渊",
+        "era": "武德七年"
+      }
+    ],
+    "events": [
+      {
+        "title": "唐代隋律，颁《武德律》",
+        "description": "唐朝颁布《武德律》，以隋《开皇律》为基础，删繁就简，去苛从宽。唐代法律体系由此奠基，成为后世法律蓝本。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 625,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高祖李渊",
+        "era": "武德八年"
+      }
+    ],
+    "events": [
+      {
+        "title": "突厥颉利可汗大举南侵",
+        "description": "东突厥颉利可汗率十余万骑兵南侵，攻掠朔州、并州等地。唐将张瑾与突厥战于太谷，全军覆没。唐高祖急命李世民出镇蒲州，统率各路兵马抵御突厥。",
+        "latitude": 39.3,
+        "longitude": 112.4,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "赫拉克略收复拜占庭失地",
+        "description": "拜占庭皇帝赫拉克略在击败萨珊波斯后收复了叙利亚、巴勒斯坦等东部失地，将真十字架迎回耶路撒冷。然而持续的战争使拜占庭和波斯两国均精疲力竭，为阿拉伯帝国的崛起创造了条件。",
+        "latitude": 31.8,
+        "longitude": 35.2,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 626,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "武德九年"
+      }
+    ],
+    "events": [
+      {
+        "title": "玄武门之变",
+        "description": "李世民在长安玄武门设伏，射杀太子李建成和齐王李元吉。李渊被迫立李世民为太子，两个月后禅位。李世民即位，是为唐太宗。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "突厥兵临长安，渭水之盟",
+        "description": "东突厥颉利可汗趁唐朝内乱，率二十万骑兵南下直抵渭水便桥。李世民亲率六骑临渭水责问，设疑兵计，与突厥结盟，突厥退兵。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "外交",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 627,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "贞观元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "贞观之治开始",
+        "description": "唐太宗改元贞观，以水能载舟，亦能覆舟为训，虚心纳谏，任用房玄龄、杜如晦等贤相，轻徭薄赋，劝课农桑，开创贞观之治。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 628,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "贞观二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "唐灭梁师都，统一完成",
+        "description": "唐太宗遣大将柴绍率军攻灭依附突厥的梁师都，唐朝最终统一全国。梁师都割据朔方十二年，至此终结。",
+        "latitude": 38.3,
+        "longitude": 109.7,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 629,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "贞观三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "玄奘西行求法",
+        "description": "玄奘法师从长安出发，独自西行前往天竺取经。历经艰险，穿越沙漠雪山，到达印度那烂陀寺。此行历时十七年，行程五万里。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "文化",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 630,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "贞观四年"
+      }
+    ],
+    "events": [
+      {
+        "title": "唐灭东突厥",
+        "description": "李靖率三千骑兵夜袭定襄，大败东突厥。随后与李勣合兵，在阴山一战彻底击溃东突厥。颉利可汗被俘送往长安，东突厥汗国灭亡。北方各族尊唐太宗为天可汗。",
+        "latitude": 43.6,
+        "longitude": 112.0,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 631,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "贞观五年"
+      }
+    ],
+    "events": [
+      {
+        "title": "日本第一次遣唐使",
+        "description": "日本舒明天皇派遣犬上御田锹为大使，率第一批遣唐使团赴唐学习。此后二百余年间，日本共派遣十九次遣唐使团，全面学习唐朝制度文化。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "外交",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 632,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "贞观六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "唐太宗纵囚归家",
+        "description": "唐太宗审查死刑囚犯案卷，心生怜悯，下令放三百九十名死囚回家与亲人团聚，约定次年秋后自行返回受刑。到期之日，所有死囚全部如约而返，无一人逃亡。太宗感其诚信，下诏大赦。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "穆罕默德统一麦地那诸部落",
+        "description": "伊斯兰教先知穆罕默德在麦地那巩固政权，通过盟约和军事行动逐步统一阿拉伯半岛各部落。伊斯兰教势力迅速壮大，为日后阿拉伯帝国崛起奠定基础。同年穆罕默德归真，艾布·伯克尔继任哈里发。",
+        "latitude": 24.5,
+        "longitude": 39.6,
+        "category": "宗教",
+        "region": "阿拉伯",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 633,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "贞观七年"
+      }
+    ],
+    "events": [
+      {
+        "title": "唐太宗命修《氏族志》",
+        "description": "唐太宗命吏部尚书高士廉等修订《氏族志》，以官爵高下重新评定天下姓氏等级，打破魏晋以来门阀士族垄断政治的局面。新制将李唐皇族列为一等，功臣勋贵次之，山东旧族降等。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯帝国统一阿拉伯半岛",
+        "description": "在首任哈里发艾布·伯克尔领导下，阿拉伯各部落叛教者已被平定，阿拉伯半岛基本统一于伊斯兰教旗帜之下。阿拉伯开始向叙利亚和波斯方向扩张，开启了穆斯林征服的时代。",
+        "latitude": 25.0,
+        "longitude": 45.0,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 634,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "贞观八年"
+      }
+    ],
+    "events": [
+      {
+        "title": "松赞干布遣使求婚",
+        "description": "吐蕃赞普松赞干布统一青藏高原后，遣使赴长安向唐朝求亲。唐太宗初未应允，松赞干布遂发兵攻破吐谷浑，兵临松州以示武。",
+        "latitude": 32.6,
+        "longitude": 103.6,
+        "category": "外交",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 635,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "贞观九年"
+      }
+    ],
+    "events": [
+      {
+        "title": "景教传入中国",
+        "description": "叙利亚传教士阿罗本沿丝绸之路到达长安，唐太宗准许其传教。景教（基督教聂斯托利派）正式传入中国，在长安义宁坊建波斯寺。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "宗教",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "唐击破吐谷浑",
+        "description": "李靖、侯君集等率唐军深入青海，大破吐谷浑。可汗慕容伏允自杀，其子慕容顺降唐，吐谷浑成为唐朝藩属。",
+        "latitude": 36.6,
+        "longitude": 101.8,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 636,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "贞观十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "长孙皇后驾崩",
+        "description": "唐太宗长孙皇后病逝。长孙皇后贤德，多次劝谏唐太宗善待忠臣，临终仍劝太宗纳谏任贤。太宗悲痛不已，称不复闻规谏之言。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "唐代二十四功臣画像凌烟阁",
+        "description": "唐太宗命阎立本为长孙无忌、房玄龄、杜如晦、魏徵、李靖等二十四位功臣画像，悬于凌烟阁，以表彰开国功臣。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "文化",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 637,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "贞观十一年"
+      }
+    ],
+    "events": [
+      {
+        "title": "颁行《贞观律》",
+        "description": "房玄龄等修订完成《贞观律》，较隋律减大辟九十二条，减流入徒者七十一条。唐律宽简公正，奠定了中华法系的基石。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 638,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "贞观十二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "松州之战，唐蕃初次交锋",
+        "description": "松赞干布因求婚未允，率吐蕃军攻唐松州（今四川松潘）。唐将侯君集率军反击，大破吐蕃军。松赞干布兵败退兵，再次遣使求婚。",
+        "latitude": 32.6,
+        "longitude": 103.6,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 639,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "贞观十三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "突厥结社率谋刺太宗",
+        "description": "东突厥突利可汗之弟结社率在长安阴谋行刺唐太宗，率旧部突入皇宫。事败后结社率被杀，唐太宗决意将突厥降众迁往漠南，另立阿史那思摩为突厥可汗。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯军攻占耶路撒冷",
+        "description": "阿拉伯帝国第二任哈里发欧麦尔派遣大将阿慕尔·本·阿斯攻占耶路撒冷。耶路撒冷大主教索弗洛尼斯献城投降，欧麦尔亲自进城接受投降，城市未遭大规模破坏。巴勒斯坦全境纳入阿拉伯版图。",
+        "latitude": 31.8,
+        "longitude": 35.2,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 640,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "贞观十四年"
+      }
+    ],
+    "events": [
+      {
+        "title": "唐灭高昌国，设安西都护府",
+        "description": "侯君集率唐军灭高昌国（今新疆吐鲁番），设安西都护府于交河城。唐朝开始在西域建立直接统治，丝绸之路南道重归中原政权控制。",
+        "latitude": 42.9,
+        "longitude": 89.2,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 641,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "贞观十五年"
+      }
+    ],
+    "events": [
+      {
+        "title": "文成公主入藏",
+        "description": "唐太宗许婚，文成公主携带大量典籍、医药、工匠及谷物种子赴吐蕃，与松赞干布成婚。唐蕃和亲促进了汉藏文化交流，佛教传入西藏。",
+        "latitude": 29.7,
+        "longitude": 91.1,
+        "category": "外交",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 642,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "贞观十六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "尼哈万德之战，波斯帝国崩溃",
+        "description": "阿拉伯帝国军队在尼哈万德（今伊朗西部）与萨珊波斯主力决战。波斯军十五万被阿拉伯三万军击溃，波斯帝国最后一支主力覆灭。此战之后波斯帝国名存实亡，阿拉伯人迅速征服整个伊朗高原。",
+        "latitude": 34.2,
+        "longitude": 48.4,
+        "category": "军事",
+        "region": "萨珊波斯",
+        "continent": "亚洲"
+      },
+      {
+        "title": "高句丽渊盖苏文弑君",
+        "description": "高句丽权臣渊盖苏文发动政变，杀害荣留王高建武及百余名大臣，立高建武之侄高藏为宝藏王，自任大莫离支独揽大权。此事后来成为唐太宗征伐高句丽的直接导火索。",
+        "latitude": 39.0,
+        "longitude": 125.8,
+        "category": "政治",
+        "region": "高句丽",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 643,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "贞观十七年"
+      }
+    ],
+    "events": [
+      {
+        "title": "太子李承乾谋反被废",
+        "description": "太子李承乾勾结汉王李元昌、大将侯君集等企图谋反，事泄被废为庶人。齐王李祐在齐州叛乱被杀，事连李承乾。唐太宗痛心之余，在长孙无忌力劝下立晋王李治为新太子。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "魏徵病逝",
+        "description": "一代名臣魏徵病逝，唐太宗亲临恸哭，罢朝五日。太宗感叹：\u201c以铜为镜，可以正衣冠；以史为镜，可以知兴替；以人为镜，可以明得失。\u201d魏徵死后再无如此敢谏之臣。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 644,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "贞观十八年"
+      }
+    ],
+    "events": [
+      {
+        "title": "唐太宗亲征高句丽决策",
+        "description": "唐太宗以高句丽侵犯新罗、不遵臣礼为由，下诏亲征高句丽。命张亮率水军、李勣率陆军分道进击，征发兵士十余万人。",
+        "latitude": 39.1,
+        "longitude": 125.0,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 645,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "贞观十九年"
+      }
+    ],
+    "events": [
+      {
+        "title": "唐太宗征高句丽未竟全功",
+        "description": "唐太宗亲征高句丽，攻克辽东城、白岩城，围安市城三月不下。值冬季来临，粮草不继，被迫撤军。虽未灭高句丽，但唐军斩首四万级，战果颇丰。",
+        "latitude": 39.1,
+        "longitude": 125.0,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "玄奘归国抵达长安",
+        "description": "玄奘法师携六百五十七部梵文佛经回到长安。唐太宗命其住持长安弘福寺，组织译场翻译佛经。玄奘口述《大唐西域记》，记录西域诸国风土人情。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "文化",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 646,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "贞观二十年"
+      },
+      {
+        "dynastyId": "sui",
+        "name": "日本（大化改新）",
+        "ruler": "孝德天皇",
+        "era": "大化二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "日本大化改新",
+        "description": "日本孝德天皇即位，建元大化，在留唐归国学生帮助下推行改革：废部民制，行公地公民制；设八省百官；仿唐均田制施行班田收授法。日本开始全面向唐朝学习。",
+        "latitude": 35.0,
+        "longitude": 135.8,
+        "category": "政治",
+        "region": "日本",
+        "continent": "亚洲"
+      },
+      {
+        "title": "回纥归附唐朝",
+        "description": "回纥首领吐迷度助唐攻灭薛延陀汗国，唐太宗册封吐迷度为怀化大将军、瀚海都督。回纥成为唐朝北方重要盟友，控制漠北草原。",
+        "latitude": 46.0,
+        "longitude": 107.0,
+        "category": "外交",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 647,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "贞观二十一年"
+      }
+    ],
+    "events": [
+      {
+        "title": "唐置燕然都护府",
+        "description": "唐朝在漠北设置燕然都护府，下辖瀚海、金微等六都督府，管辖东突厥故地。唐朝疆域北至贝加尔湖，势力达至顶峰。",
+        "latitude": 46.0,
+        "longitude": 107.0,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 648,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "贞观二十二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "王玄策出使印度",
+        "description": "唐使王玄策出使天竺，适逢中天竺王尸罗逸多去世，国内大乱。王玄策以吐蕃、泥婆罗兵击败叛军，俘阿罗那顺王回长安。王玄策成为传奇外交家。",
+        "latitude": 28.6,
+        "longitude": 77.2,
+        "category": "外交",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 649,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐太宗李世民",
+        "era": "贞观二十三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "唐太宗驾崩，高宗即位",
+        "description": "唐太宗李世民崩于含风殿，享年五十二岁。太子李治即位，是为唐高宗。太宗在位二十三年，开创贞观之治，为唐朝盛世奠基。长孙无忌、褚遂良受遗诏辅政。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 650,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "永徽元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "高宗即位，永徽之治",
+        "description": "唐高宗李治改元永徽。高宗初期延续贞观政策，勤政纳谏，由长孙无忌、褚遂良辅政，社会经济持续发展，史称永徽之治。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 651,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "永徽二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "伊斯兰教正式传入中国",
+        "description": "阿拉伯帝国第三任哈里发奥斯曼遣使赴长安，觐见唐高宗。这是阿拉伯帝国首次正式遣使来华，被认为是伊斯兰教传入中国的标志性事件。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "宗教",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 652,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "永徽三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "唐破贺鲁，西突厥降服",
+        "description": "西突厥首领阿史那贺鲁叛唐，自称沙钵罗可汗。唐将梁建方、契苾何力率军征讨，大破贺鲁军，西突厥诸部纷纷降唐。",
+        "latitude": 43.0,
+        "longitude": 82.0,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 653,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "永徽四年"
+      }
+    ],
+    "events": [
+      {
+        "title": "颁行《唐律疏议》",
+        "description": "长孙无忌等奉诏修撰的《律疏》（即《唐律疏议》）完成，唐高宗诏令颁行天下。全书三十卷，对唐律逐条注释，成为中国古代最完备的法典注释书，影响波及朝鲜、日本、越南等国。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "陈硕真起义",
+        "description": "睦州（今浙江淳安）女子陈硕真率众起义，自称文佳皇帝。这是中国历史上第一个自称皇帝的女性。起义军攻占睦州、桐庐等地，后被唐将崔义玄镇压，陈硕真被杀。",
+        "latitude": 29.6,
+        "longitude": 119.0,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 654,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "永徽五年"
+      }
+    ],
+    "events": [
+      {
+        "title": "武则天再次入宫",
+        "description": "唐高宗在感业寺与已为尼的武则天重逢，王皇后为打击情敌萧淑妃，主动建议高宗召武则天回宫。武则天再度入宫后迅速受宠，被封为昭仪。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 655,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "永徽六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "武则天立为皇后",
+        "description": "唐高宗不顾长孙无忌、褚遂良等元老重臣反对，废王皇后，立武则天为皇后。褚遂良被贬，长孙无忌势力受挫，外戚集团开始失势。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 656,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "显庆元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "高宗改元显庆，武则天参政",
+        "description": "唐高宗改元显庆。武后权势日盛，开始真正参与朝政决策。高宗多病，常令武后代决奏章，自此武后逐步掌握朝中大权，外朝宰相亦多受其节制。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "程咬金征西突厥",
+        "description": "唐高宗命程知节（程咬金）为葱山道行军大总管，率军征讨西突厥阿史那贺鲁残部。唐军深入西域，前军苏定方在鹰娑川击破西突厥军，但因副大总管王文度矫诏节制，未能全功。",
+        "latitude": 44.0,
+        "longitude": 82.0,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 657,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "显庆二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "唐灭西突厥",
+        "description": "唐将苏定方率军西征，在伊犁河谷大破西突厥沙钵罗可汗贺鲁。贺鲁逃往石国被擒送长安。西突厥汗国灭亡，唐朝置昆陵、蒙池二都护府统治西域。",
+        "latitude": 44.0,
+        "longitude": 82.0,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 658,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "显庆三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "安西都护府迁至龟兹",
+        "description": "唐朝将安西都护府从西州迁至龟兹（今新疆库车），下辖龟兹、于阗、疏勒、焉耆四镇，称安西四镇。唐朝势力深入中亚。",
+        "latitude": 41.7,
+        "longitude": 83.0,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 659,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "显庆四年"
+      }
+    ],
+    "events": [
+      {
+        "title": "长孙无忌被贬，高宗集权",
+        "description": "唐高宗在武则天操控下，以谋反罪名将长孙无忌流放黔州，逼令自杀。褚遂良等元老重臣也遭清洗，高宗自此全面掌握朝政大权。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 660,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "显庆五年"
+      }
+    ],
+    "events": [
+      {
+        "title": "苏定方灭百济",
+        "description": "唐高宗应新罗请求，派苏定方率水陆大军十万攻百济。唐军渡海攻破百济都城泗沘（今韩国扶余），百济灭亡。唐朝在百济故地设熊津都督府。",
+        "latitude": 36.3,
+        "longitude": 126.9,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 661,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "龙朔元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "倭马亚王朝建立",
+        "description": "阿拉伯帝国第四任哈里发阿里遇刺身亡，叙利亚总督穆阿维叶即位哈里发，建立倭马亚王朝，定都大马士革。伊斯兰教进入阿拉伯帝国鼎盛时期。",
+        "latitude": 33.5,
+        "longitude": 36.3,
+        "category": "政治",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "唐应新罗之请一同征讨高句丽",
+        "description": "唐高宗应新罗文武王请求，派苏定方等率水陆大军会同新罗军北攻高句丽。唐军围平壤，但因大雪粮尽撤围。朝鲜半岛三国混战进入尾声。",
+        "latitude": 39.0,
+        "longitude": 125.8,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 662,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "龙朔二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "白江口之战前奏",
+        "description": "百济复国军联合倭国（日本）在朝鲜半岛南部与唐新联军交战。唐将刘仁轨率军在熊津江一带屡破倭军和百济叛军，为白江口决战积累优势。",
+        "latitude": 36.3,
+        "longitude": 126.5,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 663,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "龙朔三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "白江口海战",
+        "description": "唐将刘仁轨率水军在白江口（今韩国锦江口）与倭国水军决战。唐军四战皆捷，焚毁倭军战船四百余艘，海水为之变赤。倭军惨败，此后近千年不敢西犯。",
+        "latitude": 36.0,
+        "longitude": 126.7,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 664,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "麟德元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "玄奘圆寂",
+        "description": "玄奘法师在长安玉华寺圆寂，享年六十二岁。玄奘西行取经、翻译佛经七十五部一千三百三十五卷，其《大唐西域记》成为研究古代中亚、印度的重要文献。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "文化",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 665,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "麟德二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "唐与吐蕃初次和谈",
+        "description": "吐蕃论钦陵在吐蕃赞普去世后，遣使赴唐请求和解。唐高宗派使者赴吐蕃商议和平，双方暂时停止边境冲突。唐朝借此调整部署，准备集中力量解决高句丽问题。",
+        "latitude": 29.7,
+        "longitude": 91.1,
+        "category": "外交",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "唐高宗部署伐高句丽",
+        "description": "唐高宗命李勣为辽东道行军大总管，契苾何力、薛仁贵等为副将，大举征调河北、河南诸州兵马粮草，准备发动对高句丽的最后一战。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 666,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "乾封元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "唐高宗泰山封禅",
+        "description": "唐高宗率文武百官赴泰山举行封禅大典，武则天以皇后身份参与亚献。这是历史上首次有女性参与封禅大典，彰显武后权势日盛。",
+        "latitude": 36.3,
+        "longitude": 117.1,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 667,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "乾封二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "李勣攻克高句丽新城",
+        "description": "唐将李勣率大军东进，攻拔高句丽西部重镇新城（今辽宁抚顺），打开了通往辽东腹地的门户。薛仁贵继攻拔扶余城，高句丽西部防线土崩瓦解。",
+        "latitude": 41.8,
+        "longitude": 124.0,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯倭马亚军攻入小亚细亚",
+        "description": "阿拉伯倭马亚王朝军队大举攻入拜占庭小亚细亚地区，兵锋直逼博斯普鲁斯海峡，首次对君士坦丁堡构成直接威胁。拜占庭皇帝君士坦斯二世被迫求和纳贡。",
+        "latitude": 40.8,
+        "longitude": 29.5,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 668,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "总章元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "唐灭高句丽",
+        "description": "唐将李勣、薛仁贵率军攻破高句丽都城平壤，高句丽王高藏投降。立国七百余年的高句丽灭亡。唐朝在平壤设安东都护府，薛仁贵任都护。",
+        "latitude": 39.0,
+        "longitude": 125.8,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "新罗统一朝鲜半岛",
+        "description": "新罗在唐朝帮助下统一朝鲜半岛大同江以南地区。新罗进入统一新罗时代，全面吸收唐朝文化制度，开启朝鲜半岛的繁荣时期。",
+        "latitude": 37.5,
+        "longitude": 127.0,
+        "category": "政治",
+        "region": "新罗",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 669,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "总章二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "唐朝迁移高句丽遗民",
+        "description": "唐朝将高句丽遗民三万余户、数十万人强行迁往江淮以南及山南、京西诸州空旷之地。这是中国历史上大规模的人口迁移之一，旨在瓦解高句丽旧势力，防止复国。",
+        "latitude": 39.0,
+        "longitude": 125.8,
+        "category": "社会",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "吐蕃大举入侵唐朝边境",
+        "description": "吐蕃趁唐朝灭高句丽后兵力疲惫之际，大举入侵吐谷浑故地及唐朝鄯州、廓州等边境诸州。吐蕃论钦陵率军攻占唐朝在西域的多个据点，唐蕃战争全面升级。",
+        "latitude": 36.6,
+        "longitude": 101.8,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 670,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "咸亨元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "大非川之战，唐蕃冲突",
+        "description": "吐蕃大将论钦陵率军攻占安西四镇。薛仁贵率唐军十万西征，在大非川（今青海共和）与吐蕃军决战。唐军因主将不和惨败，薛仁贵被迫议和。安西四镇一度陷落。",
+        "latitude": 36.3,
+        "longitude": 100.6,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 671,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "咸亨二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "唐与吐蕃再启和谈",
+        "description": "大非川惨败后，唐高宗遣使赴吐蕃逻些（拉萨）与论钦陵和谈。吐蕃提出割让吐谷浑故地等苛刻条件，谈判破裂。唐朝开始全面整顿陇右及西域防务。",
+        "latitude": 29.7,
+        "longitude": 91.1,
+        "category": "外交",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "倭马亚王朝东进中亚",
+        "description": "阿拉伯倭马亚王朝将领穆萨·本·齐亚德率军横渡阿姆河，进攻中亚河中地区（粟特诸国）。这是阿拉伯军事力量首次大规模出现在唐朝安西都护府的西部边界附近，两大帝国开始接近。",
+        "latitude": 39.0,
+        "longitude": 67.0,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 672,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "咸亨三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "倭马亚王朝继续扩张",
+        "description": "阿拉伯倭马亚王朝军队攻占北非的突尼斯和阿尔及利亚沿海地区，建立凯鲁万城作为统治北非的中心。阿拉伯帝国疆域持续扩大。",
+        "latitude": 36.8,
+        "longitude": 10.2,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "非洲"
+      }
+    ]
+  },
+  {
+    "year": 673,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "咸亨四年"
+      }
+    ],
+    "events": [
+      {
+        "title": "唐军平定高句丽遗民叛乱",
+        "description": "高句丽旧贵族剑牟岑在辽东及朝鲜半岛北部起兵叛乱，拥立原高句丽王族安舜为王。唐高宗命燕山道总管李谨行率军镇压，大破叛军于瓠卢河（今朝鲜大同江）之西，稳定安东都护府统治。",
+        "latitude": 39.0,
+        "longitude": 125.8,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯帝国围攻君士坦丁堡",
+        "description": "阿拉伯倭马亚王朝哈里发穆阿维叶发动对拜占庭帝国首都君士坦丁堡的第一次大规模围攻。拜占庭守军首次使用秘密武器\u201c希腊火\u201d在海战中焚毁大量阿拉伯战船，阿拉伯海军惨败撤退。",
+        "latitude": 41.0,
+        "longitude": 28.9,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 674,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "上元元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "武则天称天后，二圣临朝",
+        "description": "唐高宗称天皇，武则天称天后，正式出现二圣临朝局面。武则天时常垂帘听政，手握军政大权，群臣奏事皆经由天后裁决。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 675,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "上元二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "高宗欲禅位武后未果",
+        "description": "唐高宗因身体不适，欲禅位于武则天，宰相郝处俊等大臣强烈反对。高宗遂放弃此念，但武则天已实际控制朝政，群臣多依附武后。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 676,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "仪凤元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "唐朝将安东都护府内迁",
+        "description": "唐朝因新罗扩张和唐罗关系紧张，将安东都护府从平壤内迁至辽东。唐朝势力逐步退出朝鲜半岛，新罗控制大同江以南地区。",
+        "latitude": 38.0,
+        "longitude": 124.0,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 677,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "仪凤二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "吐蕃攻占安西四镇",
+        "description": "吐蕃军大举西进，攻占安西四镇中的于阗、疏勒等地。唐朝在西域的统治受到严重挑战，西域诸国纷纷倒向吐蕃。",
+        "latitude": 38.0,
+        "longitude": 80.0,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 678,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "仪凤三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "李敬玄征吐蕃大败",
+        "description": "唐高宗派宰相李敬玄为洮河道行军大总管，率唐军十八万征讨吐蕃。唐军在青海与吐蕃论钦陵军决战，先锋刘审礼战死，唐军大败溃退。李敬玄被迫退守鄯州，吐蕃乘胜攻掠唐朝西北边境诸州。",
+        "latitude": 36.6,
+        "longitude": 101.8,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "百济旧将扶余隆病逝",
+        "description": "原百济太子扶余隆在唐朝任职多年，官至熊津都督、带方郡王。扶余隆去世后，百济遗民复国运动的最后组织力量消散，唐朝在百济故地的统治彻底终结。",
+        "latitude": 36.3,
+        "longitude": 126.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 679,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "调露元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "裴行俭平定突厥叛乱",
+        "description": "东突厥阿史德温傅反唐，拥立颉利可汗后裔阿史那泥熟匐为可汗。裴行俭率唐军三十余万平定突厥叛乱，以计擒获可汗，稳定北方边疆。",
+        "latitude": 42.0,
+        "longitude": 111.0,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "王勃溺水而逝",
+        "description": "初唐四杰之首王勃在探父途中渡海溺水，惊悸而卒，年仅二十七岁。王勃代表作《滕王阁序》为千古名篇，落霞与孤鹜齐飞，秋水共长天一色成绝唱。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "文化",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 680,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "永隆元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "突厥第二汗国建立",
+        "description": "骨咄禄（颉利可汗后裔）在漠北起兵，重建东突厥汗国（突厥第二汗国）。突厥再次成为唐朝北方的严重威胁，连年侵扰唐朝边境。",
+        "latitude": 46.0,
+        "longitude": 107.0,
+        "category": "政治",
+        "region": "突厥",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 681,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "开耀元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "裴行俭再破突厥",
+        "description": "裴行俭率唐军在代州黑山大破突jue阿史那伏念部，擒阿史那伏念、阿史德温傅送长安。突厥余众依附骨咄禄，漠北形势依然严峻。",
+        "latitude": 42.0,
+        "longitude": 111.0,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 682,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐高宗李治",
+        "era": "永淳元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "突厥骨咄禄大举南侵",
+        "description": "突厥骨咄禄可汗率军大举南侵唐朝边境，攻占蔚州（今山西灵丘），杀唐将。唐朝北方边境全面告急，各地告急文书频传长安。",
+        "latitude": 39.0,
+        "longitude": 114.0,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 683,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐中宗李显",
+        "era": "弘道元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "唐高宗驾崩，中宗即位",
+        "description": "唐高宗李治驾崩，太子李显即位，是为唐中宗。高宗遗诏命裴炎辅政，军国大事听天后武则天裁决。武则天以太后身份临朝称制。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 684,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐睿宗李旦",
+        "era": "文明元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "武则天废中宗，立睿宗",
+        "description": "唐中宗李显欲任命岳父韦玄贞为侍中，遭裴炎反对。武则天大怒，废中宗为庐陵王，立豫王李旦为帝，是为唐睿宗。武则天临朝称制，睿宗居别殿不得预政。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "徐敬业扬州起兵",
+        "description": "李勣之孙徐敬业在扬州起兵反武，骆宾王作《讨武曌檄》传遍天下。武则天派李孝逸率三十万大军讨伐，徐敬业兵败被杀。",
+        "latitude": 32.4,
+        "longitude": 119.4,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 685,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐睿宗李旦",
+        "era": "垂拱元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "武则天大兴告密之风",
+        "description": "武则天为打击政敌，大开告密之门。设铜匦于朝堂，鼓励天下人投书告密。重用索元礼、来俊臣等酷吏，制造大量冤狱，李氏宗室和元老大臣纷纷被诛。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 686,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐睿宗李旦",
+        "era": "垂拱二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "武则天兴建明堂",
+        "description": "武则天下令拆除洛阳乾元殿，在原址兴建明堂（万象神宫）。明堂规模宏大，高三层共二百九十四尺，号万象神宫。这是武则天为将来登基称帝所作的礼仪建筑准备，彰显其政治野心。",
+        "latitude": 34.7,
+        "longitude": 112.5,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "新罗遣使赴唐求典籍",
+        "description": "新罗神文王派遣使臣入唐，请赐《礼记》及诸文章典籍。武则天准其所请，赐予大量汉文经典。新罗全面模仿唐朝制度文化，儒学在新罗日益兴盛。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "文化",
+        "region": "新罗",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 687,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐睿宗李旦",
+        "era": "垂拱三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "来俊臣撰《罗织经》",
+        "description": "酷吏来俊臣编纂《罗织经》，专教如何罗织罪名、构陷他人。武则天利用酷吏清洗反对势力，朝中上下人人自危，道路以目。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 688,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐睿宗李旦",
+        "era": "垂拱四年"
+      }
+    ],
+    "events": [
+      {
+        "title": "李氏宗室起兵反武",
+        "description": "唐太宗之子越王李贞、琅琊王李冲父子率先起兵反武，但迅速被平定。武则天借机大肆诛杀李氏宗室诸王，韩王李元嘉等均被逼自杀。",
+        "latitude": 34.0,
+        "longitude": 114.0,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 689,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "唐睿宗李旦",
+        "era": "永昌元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "武则天改革官制",
+        "description": "武则天改革三省六部制度，将门下省和中书省改为鸾台、凤阁等新名，改革御史台为肃政台。同时创武举选拔军事人才，扩大科举取士规模。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 690,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "圣神皇帝武则天",
+        "era": "天授元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "武则天称帝，改国号为周",
+        "description": "武则天废唐睿宗李旦，正式登基称帝，改国号为周，定都洛阳。中国历史上唯一的女皇帝武则天建立武周王朝，开启其长达十五年的统治。",
+        "latitude": 34.7,
+        "longitude": 112.5,
+        "category": "政治",
+        "region": "武周",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 691,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "圣神皇帝武则天",
+        "era": "天授二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "武则天迁都洛阳",
+        "description": "武则天正式定洛阳为神都，将长安的宗庙和朝廷机构全部迁至洛阳。洛阳成为武周王朝的政治中心，城市建设空前发展。",
+        "latitude": 34.7,
+        "longitude": 112.5,
+        "category": "政治",
+        "region": "武周",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 692,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "圣神皇帝武则天",
+        "era": "如意元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "武周收复安西四镇",
+        "description": "武则天派王孝杰率军击败吐蕃，收复安西四镇（龟兹、于阗、疏勒、碎叶）。武周重新确立在西域的统治，中亚各国纷纷遣使朝贡。",
+        "latitude": 41.7,
+        "longitude": 83.0,
+        "category": "军事",
+        "region": "武周",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 693,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "圣神皇帝武则天",
+        "era": "长寿二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "武则天禁屠与佛教鼎盛",
+        "description": "武则天推崇佛教，下令禁止屠杀牲畜和捕鱼虾，大力支持译经和建寺。龙门石窟奉先寺卢舍那大佛即在此时期完成，佛教在武周达到极盛。",
+        "latitude": 34.5,
+        "longitude": 112.5,
+        "category": "宗教",
+        "region": "武周",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 694,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "圣神皇帝武则天",
+        "era": "延载元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "摩尼教传入中国",
+        "description": "波斯摩尼教高僧拂多诞携带摩尼教经典《二宗经》来到武周朝廷，武则天准其在唐朝境内传教。摩尼教（明教）从此传入中国。",
+        "latitude": 34.7,
+        "longitude": 112.5,
+        "category": "宗教",
+        "region": "武周",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 695,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "圣神皇帝武则天",
+        "era": "证圣元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "武则天加尊号天册金轮圣神皇帝",
+        "description": "武则天在洛阳城举行盛大佛教仪式，加尊号为天册金轮圣神皇帝。她自比转轮圣王，将佛教信仰与皇权统治紧密结合。",
+        "latitude": 34.7,
+        "longitude": 112.5,
+        "category": "政治",
+        "region": "武周",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 696,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "圣神皇帝武则天",
+        "era": "万岁通天元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "契丹李尽忠反周",
+        "description": "契丹首领李尽忠、孙万荣在营州（今辽宁朝阳）起兵反周，杀唐将，攻占河北诸州。武则天派兵征讨，大败而归。契丹之乱震动武周北方。",
+        "latitude": 41.6,
+        "longitude": 120.4,
+        "category": "军事",
+        "region": "武周",
+        "continent": "亚洲"
+      },
+      {
+        "title": "后突厥默啜可汗崛起",
+        "description": "后突厥默啜可汗自立，向武周称臣求婚，武则天封其为迁善可汗。默啜借机扩展势力，多次侵扰唐朝边境，后突厥汗国进入鼎盛期。",
+        "latitude": 46.0,
+        "longitude": 107.0,
+        "category": "政治",
+        "region": "突厥",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 697,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "圣神皇帝武则天",
+        "era": "神功元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "武则天诛来俊臣",
+        "description": "武则天迫于众怒，下令诛杀酷吏来俊臣。来俊臣被斩于洛阳街头，仇家争相食其肉。武则天结束恐怖政治，开始调整统治策略。",
+        "latitude": 34.7,
+        "longitude": 112.5,
+        "category": "政治",
+        "region": "武周",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 698,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "圣神皇帝武则天",
+        "era": "圣历元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "武周立李显为太子",
+        "description": "武则天在狄仁杰等大臣力谏下，召还庐陵王李显，立为太子。此举最终决定武周政权将归政于李氏，为后来唐朝复辟奠定基础。",
+        "latitude": 34.7,
+        "longitude": 112.5,
+        "category": "政治",
+        "region": "武周",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 699,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "圣神皇帝武则天",
+        "era": "圣历二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "突厥默啜南侵河北",
+        "description": "后突厥默啜可汗率军大举南侵，攻陷赵州、定州，杀唐将。武则天派狄仁杰率军抵御，默啜掠走河北人口牛羊后北归。",
+        "latitude": 38.0,
+        "longitude": 114.5,
+        "category": "军事",
+        "region": "武周",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 700,
+    "dynasties": [
+      {
+        "dynastyId": "tang",
+        "name": "唐",
+        "ruler": "圣神皇帝武则天",
+        "era": "久视元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "狄仁杰去世",
+        "description": "武周名相狄仁杰病逝。狄仁杰为武则天最信任的宰相，以直言敢谏著称，举荐张柬之等人才，促成李显复立太子。武则天闻讯痛哭：朝堂空矣！",
+        "latitude": 34.7,
+        "longitude": 112.5,
+        "category": "政治",
+        "region": "武周",
+        "continent": "亚洲"
+      }
+    ]
+  }
+]

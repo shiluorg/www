@@ -1,0 +1,202 @@
+[
+  {
+    "year": -800,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周宣王姬靖", "era": "" }
+    ],
+    "events": [
+      { "title": "周宣王中兴晚期", "description": "周宣王在位后期接连对外用兵，虽初期取得一系列胜利，但连年征战消耗国力，诸侯离心，宣王中兴逐渐走向衰落。", "latitude": 34.4, "longitude": 108.9, "category": "政治", "region": "周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -797,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周宣王姬靖", "era": "" }
+    ],
+    "events": [
+      { "title": "周宣王伐太原戎", "description": "周宣王发兵征伐太原地区的戎族部落，此役周军未能取胜，反映出周王室军事实力的下降和西北戎患的加剧。", "latitude": 36.5, "longitude": 108.5, "category": "军事", "region": "戎狄", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -792,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周宣王姬靖", "era": "" }
+    ],
+    "events": [
+      { "title": "周宣王伐条戎、奔戎大败", "description": "周宣王率军征伐条戎和奔戎，周军惨败。此为宣王后期对戎狄作战的又一次失利，周王室在西部的控制力进一步削弱。", "latitude": 36.0, "longitude": 110.0, "category": "军事", "region": "戎狄", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -789,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周宣王姬靖", "era": "" }
+    ],
+    "events": [
+      { "title": "周宣王千亩之战大败", "description": "周宣王征伐姜氏之戎，战于千亩（今山西介休），周军大败，宣王几乎被俘。此后周王室兵力大损，不得不\"料民于太原\"以补充兵源。", "latitude": 37.0, "longitude": 112.0, "category": "军事", "region": "周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -782,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周幽王姬宫涅", "era": "" }
+    ],
+    "events": [
+      { "title": "周宣王去世，周幽王即位", "description": "在位四十六年的周宣王姬靖去世，其子姬宫涅即位为周幽王。幽王昏庸暴虐，宠幸妃子褒姒，荒废朝政，西周即将走向终结。", "latitude": 34.4, "longitude": 108.9, "category": "政治", "region": "周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -780,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周幽王姬宫涅", "era": "" }
+    ],
+    "events": [
+      { "title": "西周泾渭洛三川地震", "description": "周幽王二年，西周都城镐京附近泾水、渭水、洛水流域发生大规模地震，三川皆震，河流枯竭。伯阳父预言周朝将在十年内灭亡。", "latitude": 34.5, "longitude": 109.0, "category": "社会", "region": "周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -779,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周幽王姬宫涅", "era": "" }
+    ],
+    "events": [
+      { "title": "周幽王宠幸褒姒", "description": "褒国进献美女褒姒，周幽王对其极度宠幸，废原王后申后和太子宜臼。为博褒姒一笑，幽王多次点燃烽火台戏弄诸侯。", "latitude": 34.4, "longitude": 108.9, "category": "政治", "region": "周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -776,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周幽王姬宫涅", "era": "" }
+    ],
+    "events": [
+      { "title": "第一届古代奥林匹克运动会", "description": "第一届古代奥运会在希腊奥林匹亚举行，只有一项赛事即场地跑（约192米）。科洛伊波斯成为有记载的首位奥运冠军。此后每四年一届，成为希腊纪年基础。", "latitude": 37.6, "longitude": 21.6, "category": "文化", "region": "希腊", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -771,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周幽王姬宫涅", "era": "" }
+    ],
+    "events": [
+      { "title": "犬戎攻陷镐京，西周灭亡", "description": "申侯联合缯国和犬戎进攻镐京，周幽王点燃烽火求救而诸侯不至。犬戎杀幽王于骊山之下，掳走褒姒，并洗劫镐京。立国275年的西周至此灭亡。", "latitude": 34.4, "longitude": 109.2, "category": "军事", "region": "周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -770,
+    "dynasties": [
+      { "dynastyId": "chunqiu", "name": "春秋", "ruler": "周平王姬宜臼", "era": "" }
+    ],
+    "events": [
+      { "title": "周平王东迁洛邑，东周开始", "description": "在晋文侯、郑武公、秦襄公等诸侯护卫下，周平王宜臼将都城东迁至洛邑（今洛阳），史称东周。此年为春秋时期开端，周王室权威一落千丈。", "latitude": 34.7, "longitude": 112.5, "category": "政治", "region": "周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -753,
+    "dynasties": [
+      { "dynastyId": "chunqiu", "name": "春秋", "ruler": "周平王姬宜臼", "era": "" }
+    ],
+    "events": [
+      { "title": "罗马建城", "description": "据古罗马学者瓦罗推算，罗马城于公元前753年4月21日由罗慕路斯建立。罗慕路斯杀其弟勒莫斯后成为罗马首位国王，此日为罗马纪元开端。", "latitude": 41.9, "longitude": 12.5, "category": "社会", "region": "罗马", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -750,
+    "dynasties": [
+      { "dynastyId": "chunqiu", "name": "春秋", "ruler": "周平王姬宜臼", "era": "" }
+    ],
+    "events": [
+      { "title": "希腊海外殖民浪潮兴起", "description": "希腊城邦开始大规模向地中海和黑海沿岸殖民，建立新的城邦。卡尔基斯、科林斯、米利都等城邦积极参与，殖民运动持续约两个世纪。", "latitude": 38.0, "longitude": 23.7, "category": "社会", "region": "希腊", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -745,
+    "dynasties": [
+      { "dynastyId": "chunqiu", "name": "春秋", "ruler": "周平王姬宜臼", "era": "" }
+    ],
+    "events": [
+      { "title": "亚述提格拉特帕拉沙尔三世即位", "description": "提格拉特帕拉沙尔三世成为亚述国王，推行全面的军事和行政改革，实行常备军制度和行省制，将亚述帝国推向极盛时期。", "latitude": 36.5, "longitude": 43.2, "category": "政治", "region": "亚述", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -734,
+    "dynasties": [
+      { "dynastyId": "chunqiu", "name": "春秋", "ruler": "周平王姬宜臼", "era": "" }
+    ],
+    "events": [
+      { "title": "科林斯建立叙拉古殖民地", "description": "科林斯移民在西西里岛东岸建立叙拉古城邦，由科林斯贵族阿尔基亚斯领导。叙拉古后来成为地中海西部最强大的希腊城邦之一。", "latitude": 37.1, "longitude": 15.3, "category": "社会", "region": "希腊", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -722,
+    "dynasties": [
+      { "dynastyId": "chunqiu", "name": "春秋", "ruler": "周平王姬宜臼", "era": "" }
+    ],
+    "events": [
+      { "title": "鲁隐公元年，《春秋》纪年开始", "description": "鲁隐公姬息姑即位元年，孔子编《春秋》记事自此年开始。这是中国编年史的开端，为后世研究春秋时期历史提供了系统的时间框架。", "latitude": 35.6, "longitude": 117.0, "category": "文化", "region": "鲁", "continent": "亚洲" },
+      { "title": "亚述灭以色列王国", "description": "亚述国王萨尔贡二世攻陷撒马利亚，亚述灭以色列王国（北国），将大批以色列人掳往美索不达米亚和米底，史称以色列十支派失踪。", "latitude": 32.3, "longitude": 35.3, "category": "军事", "region": "以色列", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -720,
+    "dynasties": [
+      { "dynastyId": "chunqiu", "name": "春秋", "ruler": "周桓王姬林", "era": "" }
+    ],
+    "events": [
+      { "title": "周平王去世，周桓王即位", "description": "在位五十年的周平王姬宜臼去世，其孙姬林（太子泄父之子）即位为周桓王。桓王年轻气盛，试图重振周天子权威，与郑国矛盾激化。", "latitude": 34.7, "longitude": 112.5, "category": "政治", "region": "周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -718,
+    "dynasties": [
+      { "dynastyId": "chunqiu", "name": "春秋", "ruler": "周桓王姬林", "era": "" }
+    ],
+    "events": [
+      { "title": "卫国州吁之乱", "description": "卫公子州吁弑其君卫桓公而自立，成为春秋时期第一位弑君篡位者。随后州吁对外发动战争，对内不施仁政，不久被卫国大夫石碏设计杀死。", "latitude": 35.8, "longitude": 114.5, "category": "政治", "region": "卫", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -715,
+    "dynasties": [
+      { "dynastyId": "chunqiu", "name": "春秋", "ruler": "周桓王姬林", "era": "" }
+    ],
+    "events": [
+      { "title": "库什法老皮安基统一埃及", "description": "库什王国（努比亚）法老皮安基率军北上，征服埃及全境，建立埃及第25王朝（努比亚王朝）。这是非洲本土王朝对埃及的首次全面统治。", "latitude": 30.0, "longitude": 31.2, "category": "政治", "region": "埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -707,
+    "dynasties": [
+      { "dynastyId": "chunqiu", "name": "春秋", "ruler": "周桓王姬林", "era": "" }
+    ],
+    "events": [
+      { "title": "繻葛之战，郑国射伤周天子", "description": "周桓王亲率陈、蔡、卫等国联军讨伐郑国，郑庄公在繻葛（今河南长葛）迎战。郑将祝聃一箭射中周桓王肩膀，周军大败，天子威严扫地。", "latitude": 34.2, "longitude": 113.8, "category": "军事", "region": "郑", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -706,
+    "dynasties": [
+      { "dynastyId": "chunqiu", "name": "春秋", "ruler": "周桓王姬林", "era": "" }
+    ],
+    "events": [
+      { "title": "北戎侵齐，郑太子忽救齐", "description": "北戎入侵齐国，齐僖公向诸侯求救。郑太子忽率军救援，大败北戎，俘获戎军主帅。齐僖公欲将女儿嫁予太子忽，被婉言谢绝。", "latitude": 36.8, "longitude": 118.0, "category": "军事", "region": "齐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -705,
+    "dynasties": [
+      { "dynastyId": "chunqiu", "name": "春秋", "ruler": "周桓王姬林", "era": "" }
+    ],
+    "events": [
+      { "title": "亚述国王辛那赫里布即位", "description": "萨尔贡二世战死，其子辛那赫里布即位为亚述国王。他将都城迁至尼尼微，大兴土木建造宏伟宫殿和著名的\"无与伦比的宫殿\"。", "latitude": 36.4, "longitude": 43.2, "category": "政治", "region": "亚述", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -701,
+    "dynasties": [
+      { "dynastyId": "chunqiu", "name": "春秋", "ruler": "周桓王姬林", "era": "" }
+    ],
+    "events": [
+      { "title": "郑庄公去世，诸子争位", "description": "春秋小霸郑庄公姬寤生去世。其子姬忽（郑昭公）即位后，郑国陷入公子突、公子亹等诸子争夺君位的内乱之中，郑国霸业迅速衰落。", "latitude": 34.4, "longitude": 113.7, "category": "政治", "region": "郑", "continent": "亚洲" },
+      { "title": "亚述国王辛那赫里布围攻耶路撒冷", "description": "亚述国王辛那赫里布率军入侵犹大王国，攻破多座城池后围攻耶路撒冷。犹大王希西家向亚述进贡大量金银，耶路撒冷得以保全。", "latitude": 31.8, "longitude": 35.2, "category": "军事", "region": "犹大", "continent": "亚洲" }
+    ]
+  }
+]

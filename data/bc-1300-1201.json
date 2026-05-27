@@ -1,0 +1,91 @@
+[
+  {
+    "year": -1300,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王盘庚", "era": "商晚期" }
+    ],
+    "events": [
+      { "title": "商朝定都于殷", "description": "盘庚迁殷后商朝政治趋于稳定，殷成为此后二百七十余年商朝政治、经济与文化中心，大量甲骨文在此出土。", "latitude": 36.1, "longitude": 114.4, "category": "政治", "region": "商", "continent": "亚洲" },
+      { "title": "迈锡尼人征服克里特", "description": "迈锡尼希腊人大规模入侵克里特岛，摧毁克诺索斯王宫，米诺斯文明最终消亡，爱琴海文明中心转移至希腊本土。", "latitude": 35.3, "longitude": 25.1, "category": "军事", "region": "克里特", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -1290,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王小辛", "era": "商晚期" }
+    ],
+    "events": [
+      { "title": "塞提一世远征叙利亚", "description": "埃及第十九王朝法老塞提一世（拉美西斯一世之子）率军远征叙利亚，试图夺回赫梯控制的卡迭石等地。", "latitude": 34.5, "longitude": 36.9, "category": "军事", "region": "叙利亚", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1279,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王小乙", "era": "商晚期" }
+    ],
+    "events": [
+      { "title": "拉美西斯二世即位", "description": "埃及第十九王朝法老拉美西斯二世登基，在位长达六十六年，大兴土木修建神庙，是古埃及最后一位伟大的法老。", "latitude": 25.7, "longitude": 32.6, "category": "政治", "region": "古埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1274,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王小乙", "era": "商晚期" }
+    ],
+    "events": [
+      { "title": "卡迭石战役", "description": "拉美西斯二世率埃及军队与赫梯国王穆瓦塔利二世在叙利亚奥龙特斯河畔的卡迭石交战，双方均损失惨重，为古代最大规模战车会战之一。", "latitude": 34.6, "longitude": 36.5, "category": "军事", "region": "叙利亚", "continent": "亚洲" },
+      { "title": "拉美西斯二世修建阿布辛贝神庙", "description": "拉美西斯二世在努比亚地区开凿阿布辛贝大神庙，巨像矗立山岩，彰显埃及帝国的强盛与法老的威严。", "latitude": 22.3, "longitude": 31.6, "category": "文化", "region": "努比亚", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1259,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王武丁", "era": "商晚期" }
+    ],
+    "events": [
+      { "title": "埃及赫梯和平条约", "description": "拉美西斯二世与赫梯国王哈图西里三世签订和平条约，约定互不侵犯、共同防御，是历史上首份有记载的国际和平条约。", "latitude": 25.7, "longitude": 32.6, "category": "外交", "region": "古埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1250,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王武丁", "era": "商晚期" }
+    ],
+    "events": [
+      { "title": "武丁即位开创盛世", "description": "商王武丁即位，任用傅说、甘盘等贤臣，励精图治，国力达到鼎盛，史称武丁盛世，商朝进入最强盛时期。", "latitude": 36.1, "longitude": 114.4, "category": "政治", "region": "商", "continent": "亚洲" },
+      { "title": "妇好率军出征", "description": "武丁之妻妇好多次担任统帅率军出征，征伐土方、羌方、巴方等方国，是中国历史上首位有据可查的女将军。", "latitude": 36.1, "longitude": 114.4, "category": "军事", "region": "商", "continent": "亚洲" },
+      { "title": "摩西率以色列人出埃及", "description": "据圣经记载，希伯来领袖摩西带领以色列人逃离埃及奴役，经红海前往西奈山，接受十诫法版，奠定犹太教基础。", "latitude": 29.0, "longitude": 33.0, "category": "宗教", "region": "西奈半岛", "continent": "亚洲" },
+      { "title": "甲骨文大规模使用", "description": "武丁时期甲骨文大量出现，商王室凡事占卜契刻于龟甲牛骨之上，内容涵盖祭祀、征伐、天象、农业等。", "latitude": 36.1, "longitude": 114.4, "category": "文化", "region": "商", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1220,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王武丁", "era": "商晚期" }
+    ],
+    "events": [
+      { "title": "拉美西斯二世建造拉美西姆", "description": "拉美西斯二世在底比斯修建大型祭庙拉美西姆，其巨型雕像和精美浮雕记录了卡迭石战役及法老的丰功伟绩。", "latitude": 25.7, "longitude": 32.6, "category": "文化", "region": "古埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1213,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王武丁/祖庚", "era": "商晚期" }
+    ],
+    "events": [
+      { "title": "拉美西斯二世去世", "description": "在位六十六年的拉美西斯二世去世，享年九十余岁。此后埃及迅速衰落，新王国逐渐走向终结。", "latitude": 25.7, "longitude": 32.6, "category": "政治", "region": "古埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1200,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王祖甲", "era": "商晚期" }
+    ],
+    "events": [
+      { "title": "特洛伊战争", "description": "迈锡尼希腊联军渡海远征小亚细亚的特洛伊城，围城十年最终以木马计攻陷，荷马史诗以此为题材流传后世。", "latitude": 39.9, "longitude": 26.3, "category": "军事", "region": "特洛伊", "continent": "欧洲" },
+      { "title": "海上民族入侵东地中海", "description": "海上民族大规模入侵东地中海地区，赫梯帝国遭重创而崩溃，埃及亦受侵袭，青铜时代文明体系全面瓦解。", "latitude": 32.0, "longitude": 34.0, "category": "军事", "region": "东地中海", "continent": "亚洲" },
+      { "title": "赫梯帝国覆灭", "description": "在海上民族入侵和内部动荡双重打击下，赫梯帝国首都哈图沙被焚毁，赫梯帝国灭亡。", "latitude": 39.9, "longitude": 32.9, "category": "政治", "region": "赫梯", "continent": "亚洲" },
+      { "title": "迈锡尼文明开始衰落", "description": "迈锡尼诸王国在特洛伊战争后元气大伤，宫殿遭破坏，线形文字B失传，希腊进入黑暗时代。", "latitude": 37.7, "longitude": 22.8, "category": "社会", "region": "迈锡尼", "continent": "欧洲" }
+    ]
+  }
+]

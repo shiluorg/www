@@ -1,0 +1,944 @@
+[
+  {
+    "year": 501,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "齐和帝萧宝融", "era": "中兴元年" }
+    ],
+    "events": [
+      { "title": "萧衍攻入建康，东昏侯被杀", "description": "萧衍率大军从襄阳东下攻入建康。齐东昏侯萧宝卷被部下王珍国、张稷等杀害。萧衍以宣德太后名义废萧宝卷为东昏侯，立萧宝融为帝（齐和帝），改元中兴。萧衍自任大司马、录尚书事，掌控大权。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "南齐", "continent": "亚洲" },
+      { "title": "萨珊波斯与东罗马再度交战", "description": "萨珊波斯国王卡瓦德一世率军入侵东罗马帝国的亚美尼亚和美索不达米亚行省。东罗马皇帝阿纳斯塔修斯一世派军迎战。双方在高加索地区和两河流域展开拉锯战，战事持续数年。", "latitude": 37.000, "longitude": 40.000, "category": "军事", "region": "萨珊波斯", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 502,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "天监元年" }
+    ],
+    "events": [
+      { "title": "萧衍代齐称帝建立梁朝", "description": "梁王萧衍接受齐和帝萧宝融禅让，在建康即皇帝位，改元天监，建立梁朝（南梁）。南齐立国二十三年而亡。萧衍是为梁武帝，在位四十八年，是南北朝在位最长的皇帝。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "南梁", "continent": "亚洲" },
+      { "title": "梁武帝推行文治", "description": "梁武帝萧衍即位后推行德政，设置谤木、肺石函以纳谏。他提倡儒学，建立国学，广收寒门子弟入学。萧衍本人博学多才，精通儒道佛三家学说，在位早期政治较为清明。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "南梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 503,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "天监二年" }
+    ],
+    "events": [
+      { "title": "梁与北魏战争爆发", "description": "北魏宣武帝元恪趁梁朝新立，派军大举南征。北魏中山王元英率军攻占义阳（今河南信阳），梁将马仙琕战败。与此同时北魏在寿阳方向也发动进攻。梁魏之间大规模战争由此展开。", "latitude": 32.000, "longitude": 114.000, "category": "军事", "region": "南梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 504,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "天监三年" }
+    ],
+    "events": [
+      { "title": "北魏攻占梁州", "description": "北魏将领邢峦率军攻占梁州（今陕西汉中地区）。梁朝在汉水上游的防线被突破。北魏进一步巩固了对关中和巴蜀边界的控制。梁武帝被迫调整防御策略。", "latitude": 33.000, "longitude": 107.000, "category": "军事", "region": "南梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 505,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "天监四年" }
+    ],
+    "events": [
+      { "title": "梁武帝大举北伐", "description": "梁武帝任命临川王萧宏为都督，率大军北伐北魏。梁军兵力号称百万，器械精良、军容盛大。但萧宏本人怯懦无能，到了前线后逡巡不敢进，各路梁军行动迟缓。", "latitude": 34.000, "longitude": 115.000, "category": "军事", "region": "南梁", "continent": "亚洲" },
+      { "title": "韦睿合肥大捷", "description": "梁将韦睿率军攻打合肥（今安徽合肥），大败北魏守军。韦睿以堰水灌城、强攻并举的战术攻破合肥，俘获北魏大批军资。韦睿是梁朝最杰出的将领之一，此战显示了他的卓越军事才能。", "latitude": 31.800, "longitude": 117.200, "category": "军事", "region": "南梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 506,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "天监五年" }
+    ],
+    "events": [
+      { "title": "钟离之战——梁军大破北魏", "description": "北魏中山王元英率数十万大军围攻梁朝钟离城（今安徽凤阳）。梁将昌义之率三千人坚守。梁武帝派韦睿和曹景宗率军救援。韦睿以火攻和反间计大破北魏军，元英仅以身免。此役梁军歼敌二十余万，是南朝罕见的对北朝大胜。", "latitude": 32.900, "longitude": 117.500, "category": "军事", "region": "南梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 507,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "天监六年" }
+    ],
+    "events": [
+      { "title": "梁魏和谈休战", "description": "钟离之战后北魏元气大伤，无力继续大规模南征。梁魏双方开始边境和谈。两国边境暂时恢复了平静。梁武帝利用这段时间大力发展国内经济和文化。", "latitude": 32.060, "longitude": 118.740, "category": "外交", "region": "南梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 508,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "天监七年" }
+    ],
+    "events": [
+      { "title": "梁武帝制礼作乐", "description": "梁武帝萧衍命大臣修撰五礼（吉凶军宾嘉），制成《梁礼》一千余卷。他还命周舍等人制作雅乐，铸造乐器。梁朝在文化制度上达到了南朝的巅峰。", "latitude": 32.060, "longitude": 118.740, "category": "文化", "region": "南梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 509,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "天监八年" }
+    ],
+    "events": [
+      { "title": "北魏营建洛阳", "description": "北魏宣武帝元恪大力营建洛阳城，修建宫殿、寺庙和街坊。洛阳在孝文帝迁都后迅速发展成为北方最大的都市，人口达数十万。西域各国的商人云集洛阳，市井繁荣。", "latitude": 34.682, "longitude": 112.470, "category": "社会", "region": "北魏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 510,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "天监九年" }
+    ],
+    "events": [
+      { "title": "梁朝经济发展繁荣", "description": "梁武帝在位期间推行与民休息政策，江南经济持续发展。江南地区水利兴修、农业增产，建康成为人口超百万的大都市。纺织业、制瓷业和造船业都达到新的水平。", "latitude": 32.060, "longitude": 118.740, "category": "经济", "region": "南梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 511,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "天监十年" }
+    ],
+    "events": [
+      { "title": "法兰克国王克洛维一世去世", "description": "法兰克王国墨洛温王朝的建立者克洛维一世在巴黎去世，终年约四十五岁。克洛维将法兰克王国分给四个儿子：克洛泰尔一世、希尔德贝特一世、克洛多梅尔和提乌德里克一世。法兰克王国进入诸子分治时期。", "latitude": 48.800, "longitude": 2.300, "category": "政治", "region": "法兰克王国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 512,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "天监十一年" }
+    ],
+    "events": [
+      { "title": "梁武帝推崇儒学", "description": "梁武帝萧衍在建康设立五经馆，以儒家五经教授生徒。每馆设博士一人，学生数百人。考试合格者即授予官职。这一举措打破了士族门阀对教育的垄断。", "latitude": 32.060, "longitude": 118.740, "category": "文化", "region": "南梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 513,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "天监十二年" }
+    ],
+    "events": [
+      { "title": "北魏胡太后开始干政", "description": "北魏宣武帝元恪的妃子胡充华生下皇子元诩。按照北魏子贵母死的旧制，胡氏本应被处死，但宣武帝废除了这一残酷制度。胡氏日后将成为北魏政治中的关键人物。", "latitude": 40.100, "longitude": 113.300, "category": "政治", "region": "北魏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 514,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "天监十三年" }
+    ],
+    "events": [
+      { "title": "梁筑浮山堰", "description": "梁武帝采纳北魏降将王足的建议，在淮河上修筑浮山堰（今安徽五河）。计划以水攻淹灌北魏的寿阳城。梁武帝征发民夫二十万人筑堰，耗费巨大的人力物力。", "latitude": 33.100, "longitude": 117.800, "category": "科技", "region": "南梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 515,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "天监十四年" }
+    ],
+    "events": [
+      { "title": "北魏宣武帝去世，胡太后临朝", "description": "北魏宣武帝元恪病逝，年仅六岁的太子元诩继位，是为孝明帝。胡太后以皇帝生母身份临朝称制。胡太后精明强干但贪图权力，崇信佛教、大修寺院。北魏朝政开始走向混乱。", "latitude": 40.100, "longitude": 113.300, "category": "政治", "region": "北魏", "continent": "亚洲" },
+      { "title": "浮山堰溃决", "description": "梁朝修筑的浮山堰在建成后不久即被洪水冲垮，沿岸十余万民众被洪水冲走。梁武帝耗费数年心血和巨大人力物力的工程化为乌有。寿阳城也没有攻下。", "latitude": 33.100, "longitude": 117.800, "category": "科技", "region": "南梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 516,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "天监十五年" }
+    ],
+    "events": [
+      { "title": "梁武帝大肆崇佛", "description": "梁武帝萧衍下诏宣布佛教为国教，在全国大修寺院。建康城内的同泰寺建成，规模宏大。他还多次到同泰寺举行法会讲经。梁朝境内寺院数量迅速增加，僧侣人数达数十万。", "latitude": 32.060, "longitude": 118.740, "category": "宗教", "region": "南梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 517,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "天监十六年" }
+    ],
+    "events": [
+      { "title": "梁武帝禁断肉食", "description": "梁武帝萧衍笃信佛教，下诏在宗庙祭祀中改用面食代替牲畜牺牲。他本人严格素食，不穿丝绸（因养蚕杀生）。梁武帝成为中国历史上最虔诚的佛教皇帝。", "latitude": 32.060, "longitude": 118.740, "category": "宗教", "region": "南梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 518,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "天监十七年" }
+    ],
+    "events": [
+      { "title": "北魏胡太后毒杀孝明帝", "description": "北魏孝明帝元诩长大后与母亲胡太后争权。胡太后与宠臣郑俨合谋毒死了孝明帝，立年仅三岁的元钊为帝。各地将领对此大为不满，尤其是尔朱荣在并州起兵问罪。", "latitude": 40.100, "longitude": 113.300, "category": "政治", "region": "北魏", "continent": "亚洲" },
+      { "title": "梁武帝首位舍身同泰寺", "description": "梁武帝萧衍在同泰寺举行盛大法会后，第一次舍身入寺为奴。他脱下龙袍穿上僧衣，在寺中生活数日。群臣凑集了亿万钱才将他赎回。梁武帝以此方式为寺院筹集了大量资金。", "latitude": 32.060, "longitude": 118.740, "category": "宗教", "region": "南梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 519,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "天监十八年" }
+    ],
+    "events": [
+      { "title": "尔朱荣起兵攻入洛阳", "description": "北魏并州刺史尔朱荣以胡太后毒死孝明帝为借口，从晋阳（今山西太原）起兵南下攻入洛阳。尔朱荣将胡太后和幼帝元钊投入黄河淹死。他随后在河阴（今洛阳东北）将北魏宗室和朝臣两千余人尽数屠杀，史称河阴之变。", "latitude": 34.700, "longitude": 112.500, "category": "军事", "region": "北魏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 520,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "普通元年" }
+    ],
+    "events": [
+      { "title": "尔朱荣拥立孝庄帝", "description": "尔朱荣在河阴之变后拥立元子攸为帝，是为北魏孝庄帝。尔朱荣自任都督中外诸军事、大将军，掌控北魏朝政。他将自己的女儿嫁给孝庄帝为皇后。尔朱氏势力如日中天。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "北魏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 521,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "普通二年" }
+    ],
+    "events": [
+      { "title": "梁朝与北魏边境贸易恢复", "description": "梁武帝与北魏达成边境贸易协议，在淮河沿线开设互市。南北之间的绢帛、粮食、瓷器等物资交流频繁。边境贸易促进了南北经济的互补。", "latitude": 33.000, "longitude": 115.000, "category": "经济", "region": "南梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 522,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "普通三年" }
+    ],
+    "events": [
+      { "title": "北魏孝庄帝杀尔朱荣", "description": "北魏孝庄帝元子攸不甘心做傀儡皇帝，趁尔朱荣入朝时在殿上伏兵将其杀死。尔朱荣之子尔朱兆闻讯从晋阳起兵攻入洛阳，俘虏并杀害了孝庄帝。北魏陷入更深的混乱。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "北魏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 523,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "普通四年" }
+    ],
+    "events": [
+      { "title": "北魏六镇起义爆发", "description": "北魏北方六镇（沃野、怀朔、武川、抚冥、柔玄、怀荒）的镇民和士兵因不满待遇低劣和镇将压迫，在沃野镇爆发大规模起义。破六韩拔陵杀镇将起义，诸镇纷纷响应。北魏陷入严重危机。", "latitude": 41.000, "longitude": 111.000, "category": "军事", "region": "北魏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 524,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "普通五年" }
+    ],
+    "events": [
+      { "title": "六镇起义扩大", "description": "北魏六镇起义迅速蔓延，破六韩拔陵率义军攻占武川和怀朔二镇。高平镇（今宁夏固原）也爆发了胡琛领导的起义。北魏朝廷派李崇率军镇压，但屡战屡败。", "latitude": 41.000, "longitude": 111.000, "category": "军事", "region": "北魏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 525,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "普通六年" }
+    ],
+    "events": [
+      { "title": "北魏借柔然兵力镇压起义", "description": "北魏朝廷向柔然汗国阿那瓌可汗求援。柔然骑兵从北方攻入六镇地区，配合北魏官军镇压起义。破六韩拔陵在内外夹击下兵败被杀。六镇起义虽然被镇压，但北魏的统治基础已经动摇。", "latitude": 41.000, "longitude": 111.000, "category": "军事", "region": "北魏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 526,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "普通七年" }
+    ],
+    "events": [
+      { "title": "葛荣领导河北起义", "description": "六镇起义失败后二十余万流民涌入河北。鲜于修礼和葛荣在河北左人城（今河北唐县）领导流民再次起义。鲜于修礼被叛徒杀害后葛荣统领义军，迅速发展到数十万人，攻占河北大片地区。", "latitude": 38.800, "longitude": 115.000, "category": "军事", "region": "北魏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 527,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "大通元年" }
+    ],
+    "events": [
+      { "title": "梁武帝舍身同泰寺", "description": "梁武帝萧衍在同泰寺举行无遮大会后再次舍身入寺为奴。群臣再次花费亿万钱将他赎回。梁武帝以佛教治国，导致寺院经济过度膨胀，国家财政日益困难。", "latitude": 32.060, "longitude": 118.740, "category": "宗教", "region": "南梁", "continent": "亚洲" },
+      { "title": "查士丁尼一世成为东罗马皇帝", "description": "东罗马皇帝查士丁一世病逝，其养子查士丁尼一世继位。查士丁尼是东罗马帝国最伟大的皇帝之一，以重建罗马帝国、编纂法典、修建圣索菲亚大教堂而闻名于世。他的统治开启了拜占庭帝国的黄金时代。", "latitude": 41.010, "longitude": 28.980, "category": "政治", "region": "东罗马帝国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 528,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "大通二年" }
+    ],
+    "events": [
+      { "title": "尔朱荣击败葛荣", "description": "北魏尔朱荣率七千精锐骑兵在滏口（今河北磁县）与葛荣数十万义军决战。尔朱荣以伏兵和突击战术大破义军，葛荣被俘后送往洛阳处死。河北起义被镇压。尔朱荣因功被任命为天柱大将军。", "latitude": 36.400, "longitude": 114.400, "category": "军事", "region": "北魏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 529,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "中大通元年" }
+    ],
+    "events": [
+      { "title": "陈庆之北伐攻入洛阳", "description": "梁武帝派陈庆之率七千白袍军护送北魏宗室元颢北上争夺帝位。陈庆之以七千兵力连克荥阳、虎牢等重镇，攻入洛阳。洛阳城中童谣唱道：名师大将莫自牢，千兵万马避白袍。但元颢耽于酒色，最终被尔朱荣击败。", "latitude": 34.682, "longitude": 112.470, "category": "军事", "region": "南梁", "continent": "亚洲" },
+      { "title": "查士丁尼法典颁布", "description": "东罗马皇帝查士丁尼一世任命法学家特里波尼安主持编纂《查士丁尼法典》。该法典汇集了自哈德良皇帝以来四百多年的罗马皇帝敕令，是罗马法史上最重要的法典。法典以拉丁文写成，奠定了大陆法系的基础。", "latitude": 41.010, "longitude": 28.980, "category": "政治", "region": "东罗马帝国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 530,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "中大通二年" }
+    ],
+    "events": [
+      { "title": "北魏孝庄帝杀尔朱荣", "description": "北魏孝庄帝元子攸不甘受尔朱荣控制，在明光殿设伏斩杀尔朱荣。但尔朱荣的侄子尔朱兆随即从晋阳起兵攻入洛阳，杀死孝庄帝。尔朱兆立元恭为帝（节闵帝）。北魏政局更加混乱。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "北魏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 531,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "中大通三年" }
+    ],
+    "events": [
+      { "title": "高欢起兵讨伐尔朱氏", "description": "六镇起义后归降的流民首领高欢在河北信都（今河北冀州）起兵讨伐尔朱氏。高欢是鲜卑化的汉人，智谋超群。他联合河北士族势力，在广阿（今河北隆尧）击败尔朱兆。", "latitude": 37.500, "longitude": 115.000, "category": "军事", "region": "北魏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 532,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "中大通四年" }
+    ],
+    "events": [
+      { "title": "高欢攻入洛阳消灭尔朱氏", "description": "高欢在韩陵（今河南安阳）大败尔朱氏联军，随后攻入洛阳。高欢废杀节闵帝元恭，立元修为帝（孝武帝）。高欢自任大丞相、太师，控制北魏朝政。尔朱氏势力被彻底消灭。", "latitude": 34.682, "longitude": 112.470, "category": "军事", "region": "北魏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 533,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "中大通五年" }
+    ],
+    "events": [
+      { "title": "东罗马贝利撒留远征北非", "description": "东罗马皇帝查士丁尼一世派大将贝利撒留率一万五千人远征北非的汪达尔王国。贝利撒留是查士丁尼时代最杰出的统帅，以灵活机动的战术著称。远征军从君士坦丁堡出发，乘船渡海。", "latitude": 36.800, "longitude": 7.700, "category": "军事", "region": "东罗马帝国", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": 534,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "中大通六年" }
+    ],
+    "events": [
+      { "title": "北魏分裂为东魏和西魏", "description": "北魏孝武帝元修与高欢决裂，被迫逃往长安投奔关中大行台宇文泰。高欢在洛阳立元善见为帝（东魏孝静帝），迁都邺城（今河北临漳）。宇文泰在长安杀元修后立元宝炬为帝（西魏文帝）。北魏正式分裂为东魏和西魏两大政权。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "北魏", "continent": "亚洲" },
+      { "title": "汪达尔王国灭亡", "description": "东罗马统帅贝利撒留率军在阿德底斯姆战役中击败汪达尔军队，随后攻占迦太基。汪达尔国王盖利默投降，汪达尔王国灭亡。北非重新纳入罗马帝国版图。查士丁尼恢复了罗马对北非的统治。", "latitude": 36.800, "longitude": 10.200, "category": "军事", "region": "东罗马帝国", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": 535,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "大同元年" }
+    ],
+    "events": [
+      { "title": "东西魏对峙开始", "description": "东魏高欢和西魏宇文泰两大集团形成对峙局面。高欢执掌东魏大权，以邺城为都，控制中原和河北。宇文泰执掌西魏大权，以长安为都，控制关中和陇右。双方在潼关和河南地区多次交战。", "latitude": 34.500, "longitude": 110.000, "category": "政治", "region": "南北朝", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 536,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "大同二年" }
+    ],
+    "events": [
+      { "title": "东西魏潼关之战", "description": "东魏高欢率大军进攻西魏，在潼关被西魏宇文泰击败。宇文泰以少胜多，用奇袭战术击溃东魏前锋。高欢被迫退兵。此战巩固了西魏在关中的统治。", "latitude": 34.600, "longitude": 110.300, "category": "军事", "region": "西魏", "continent": "亚洲" },
+      { "title": "全球气候异常导致饥荒", "description": "北半球多地出现气候异常，据记载出现了太阳光昏黄暗淡的现象（可能由大规模火山喷发引起）。这一年全球普遍出现低温、粮食歉收和饥荒。中国、欧洲和近东都出现了大饥荒的记录。", "latitude": 35.000, "longitude": 30.000, "category": "社会", "region": "全球", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 537,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "大同三年" }
+    ],
+    "events": [
+      { "title": "沙苑之战——西魏大破东魏", "description": "东魏高欢率二十万大军再次进攻西魏，在沙苑（今陕西大荔）被宇文泰的万余精兵击败。宇文泰在渭曲芦苇丛中设伏，用弓箭和长槊大破东魏军。东魏损失八万余人。西魏乘胜攻占洛阳。", "latitude": 34.800, "longitude": 109.900, "category": "军事", "region": "西魏", "continent": "亚洲" },
+      { "title": "圣索菲亚大教堂在君士坦丁堡建成", "description": "查士丁尼一世重建的圣索菲亚大教堂在君士坦丁堡完工。这座宏大的建筑由数学家米利都的伊西多尔和特拉勒斯的安提莫斯设计，巨大的穹顶直径达三十余米，高约五十五米。教堂内部用黄金、象牙和彩色大理石装饰，成为拜占庭建筑的巅峰之作。", "latitude": 41.010, "longitude": 28.980, "category": "文化", "region": "东罗马帝国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 538,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "大同四年" }
+    ],
+    "events": [
+      { "title": "东西魏河桥之战", "description": "东魏高欢与西魏宇文泰在洛阳附近展开大战。宇文泰与东魏军激战于河桥（今洛阳北），双方各有胜负。宇文泰在战斗中几乎被俘。东魏重新攻占了洛阳。西魏退守关中。", "latitude": 34.700, "longitude": 112.500, "category": "军事", "region": "西魏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 539,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "大同五年" }
+    ],
+    "events": [
+      { "title": "西魏推行府兵制", "description": "西魏宇文泰在苏绰的辅佐下，仿照周礼改革官制和兵制。他设立六官制度（天、地、春、夏、秋、冬六官），开始推行府兵制，设八柱国大将军统率府兵。这一制度对后世影响深远。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "西魏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 540,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "大同六年" }
+    ],
+    "events": [
+      { "title": "萨珊波斯入侵叙利亚", "description": "萨珊波斯国王库思老一世（科斯洛埃斯一世）率军入侵东罗马帝国的叙利亚行省。波斯军队攻占了安条克城（今土耳其安塔基亚），将城内居民掳往美索不达米亚。东罗马帝国在东方遭受重创。", "latitude": 36.200, "longitude": 36.200, "category": "军事", "region": "萨珊波斯", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 541,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "大同七年" }
+    ],
+    "events": [
+      { "title": "查士丁尼大瘟疫爆发", "description": "一场毁灭性的大瘟疫从埃及的培琉西乌姆传入东罗马帝国。这场鼠疫迅速蔓延到君士坦丁堡和整个地中海世界，导致大量人口死亡。君士坦丁堡每天死亡数千人，查士丁尼皇帝本人也感染但幸存。", "latitude": 41.010, "longitude": 28.980, "category": "社会", "region": "东罗马帝国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 542,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "大同八年" }
+    ],
+    "events": [
+      { "title": "大瘟疫席卷地中海世界", "description": "查士丁尼大瘟疫继续蔓延，意大利、高卢、北非和近东都受到严重影响。人口大量死亡导致农业荒废、粮食短缺。帝国税收锐减，军事实力严重削弱。这场瘟疫被认为是人类历史上最早的鼠疫大流行之一。", "latitude": 38.000, "longitude": 15.000, "category": "社会", "region": "东罗马帝国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 543,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "大同九年" }
+    ],
+    "events": [
+      { "title": "东罗马与萨珊波斯停战", "description": "查士丁尼大瘟疫严重削弱了东罗马帝国和萨珊波斯双方的力量。两国签订休战协定，东罗马向波斯支付贡金以换取和平。查士丁尼得以集中精力进行哥特战争。", "latitude": 37.000, "longitude": 40.000, "category": "外交", "region": "东罗马帝国", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 544,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "大同十年" }
+    ],
+    "events": [
+      { "title": "西魏苏绰推行六条诏书", "description": "西魏名臣苏绰向宇文泰提出六条诏书：先治心、敦教化、尽地利、擢贤良、恤狱讼、均赋役。宇文泰将其作为施政纲领在全国推行。苏绰的改革使西魏国力迅速增强。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "西魏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 545,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "大同十一年" }
+    ],
+    "events": [
+      { "title": "突厥部落兴起", "description": "突厥部落首领土门（后称伊利可汗）开始统一阿尔泰山地区的突厥各部。突厥人原本是柔然汗国的锻奴（铁匠部落），此时实力逐渐增强，开始摆脱柔然的控制。", "latitude": 48.000, "longitude": 88.000, "category": "政治", "region": "突厥", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 546,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "中大同元年" }
+    ],
+    "events": [
+      { "title": "东西魏邙山之战", "description": "东魏高欢亲率十万大军进攻西魏，宇文泰率军迎战于邙山（今洛阳北）。此战极其惨烈，西魏军大败，宇文泰几乎被俘。东魏攻占洛阳。但高欢在大胜后未乘胜追击，西魏得以保全。", "latitude": 34.700, "longitude": 112.500, "category": "军事", "region": "东魏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 547,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "太清元年" }
+    ],
+    "events": [
+      { "title": "东魏高欢病逝", "description": "东魏大丞相高欢在晋阳病逝，终年五十二岁。其长子高澄继任大丞相。高澄以与其弟高洋联合掌控东魏朝政。高欢是北齐政权的实际奠基人。", "latitude": 37.700, "longitude": 112.400, "category": "政治", "region": "东魏", "continent": "亚洲" },
+      { "title": "侯景叛魏降梁", "description": "东魏大将侯景（原是北魏将领，后归高欢）因与高澄不合，以河南十三州之地投降西魏。宇文泰对侯景心怀戒备。侯景转而投降梁朝。梁武帝不顾群臣反对接纳侯景，封为河南王。", "latitude": 34.682, "longitude": 112.470, "category": "政治", "region": "南梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 548,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "太清二年" }
+    ],
+    "events": [
+      { "title": "侯景之乱爆发", "description": "梁武帝企图以侯景交换被东魏俘虏的侄子萧渊明。侯景得知后于寿阳起兵反梁。侯景联合梁武帝之侄萧正德为内应，率军渡过长江攻入建康。梁军守将临贺王萧正德打开城门放侯景入城。", "latitude": 32.060, "longitude": 118.740, "category": "军事", "region": "南梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 549,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁武帝萧衍", "era": "太清三年" }
+    ],
+    "events": [
+      { "title": "侯景攻陷台城，梁武帝饿死", "description": "侯景军围攻建康宫城（台城）一百三十余日。城中粮尽援绝，守军以人肉充饥。台城最终被攻破。梁武帝萧衍被侯景软禁，最后在饥渴交加中病饿而死，终年八十六岁。侯景立太子萧纲为帝（简文帝）。", "latitude": 32.060, "longitude": 118.740, "category": "军事", "region": "南梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 550,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁简文帝萧纲", "era": "大宝元年" }
+    ],
+    "events": [
+      { "title": "侯景军攻占三吴地区", "description": "侯景在控制建康后派军攻占三吴（吴郡、吴兴、会稽）地区。侯景军烧杀抢掠，江南经济遭到毁灭性破坏。侯景还强迫百姓为兵，扩充军队。江南百姓纷纷逃往岭南和荆襄。", "latitude": 31.000, "longitude": 120.500, "category": "军事", "region": "南梁", "continent": "亚洲" },
+      { "title": "高洋代东魏建北齐", "description": "高欢之子高洋逼迫东魏孝静帝元善见禅让，即皇帝位，改元天保，建立北齐。高洋即北齐文宣帝。东魏立国十七年而亡。高洋在位初期励精图治，北齐国力强盛。", "latitude": 36.300, "longitude": 114.500, "category": "政治", "region": "北齐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 551,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁简文帝萧纲", "era": "大宝二年" }
+    ],
+    "events": [
+      { "title": "侯景废杀简文帝自称帝", "description": "侯景废黜梁简文帝萧纲，不久将其杀害。侯景在建康即皇帝位，国号汉，改元太始。侯景的暴行使江南生灵涂炭，昔日繁华的建康变成一片废墟。各地梁朝宗室纷纷起兵讨伐。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "南梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 552,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁元帝萧绎", "era": "承圣元年" }
+    ],
+    "events": [
+      { "title": "侯景败亡——侯景之乱结束", "description": "梁将王僧辩和陈霸先率联军从江陵东下，在姑孰（今安徽当涂）大败侯景军。侯景率残部东逃，在松江（今上海）被部下所杀。历时近五年的侯景之乱终于平定。但江南经济遭到毁灭性破坏，建康变成一片废墟。", "latitude": 31.500, "longitude": 118.400, "category": "军事", "region": "南梁", "continent": "亚洲" },
+      { "title": "萧绎在江陵称帝", "description": "梁武帝第七子萧绎在王僧辩和陈霸先的拥立下在江陵即皇帝位，是为梁元帝。梁元帝为人猜忌多疑，不信任王僧辩和陈霸先。他定都江陵而不回建康，失去了对江南各地的有效控制。", "latitude": 30.300, "longitude": 112.200, "category": "政治", "region": "南梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 553,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁元帝萧绎", "era": "承圣二年" }
+    ],
+    "events": [
+      { "title": "西魏攻取益州", "description": "西魏宇文泰派尉迟迥率军攻取梁朝的益州（今四川成都地区）。梁益州刺史萧纪（梁武帝第八子）在蜀地称帝并与萧绎交战。尉迟迥趁蜀地内乱攻入成都，萧纪兵败被杀。益州从此归属西魏。", "latitude": 30.600, "longitude": 104.100, "category": "军事", "region": "西魏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 554,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁元帝萧绎", "era": "承圣三年" }
+    ],
+    "events": [
+      { "title": "西魏攻破江陵，杀梁元帝", "description": "西魏宇文泰派于谨、杨忠率军五万南征江陵。梁元帝萧绎在西魏军围城时仍在城楼上讲《老子》。江陵被攻破后，萧绎被俘处死。西魏在江陵大肆劫掠，将十余万江南百姓掳往关中为奴。", "latitude": 30.300, "longitude": 112.200, "category": "军事", "region": "西魏", "continent": "亚洲" },
+      { "title": "萧绎焚毁十四万卷图书", "description": "梁元帝萧绎在江陵城破前，命人将所收藏的十四万卷图书全部焚烧。这些图书汇集了南朝数百年来的文化精华。萧绎说：读书万卷犹有今日，故焚之。这是中国历史上一次空前的文化浩劫。", "latitude": 30.300, "longitude": 112.200, "category": "文化", "region": "南梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 555,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁敬帝萧方智", "era": "绍泰元年" }
+    ],
+    "events": [
+      { "title": "陈霸先击败王僧辩控制梁朝", "description": "西魏在江陵立萧詧为帝（后梁）。建康的梁朝大臣王僧辩和陳霸先本已立萧方智为帝。但王僧辩在北齐压力下欲迎立萧渊明。陈霸先突袭建康击杀王僧辩，重新拥立萧方智为帝。陈霸先自任尚书令、都督中外诸军事。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "南梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 556,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "梁敬帝萧方智", "era": "太平元年" }
+    ],
+    "events": [
+      { "title": "西魏恭帝禅让，宇文觉建立北周", "description": "西魏恭帝拓跋廓在宇文护（宇文泰之侄）的逼迫下禅让帝位。宇文泰之子宇文觉即天王位，建立北周。西魏立国二十三年而亡。北周政权在关中立国。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "北周", "continent": "亚洲" },
+      { "title": "宇文泰病逝", "description": "北周的实际奠基人宇文泰在云阳宫病逝，终年五十岁。宇文泰在关中以弱胜强建立了强大的政权基础，推行府兵制和六官制度。其子宇文觉虽已登基，但实权落入宇文护手中。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "北周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 557,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈武帝陈霸先", "era": "永定元年" }
+    ],
+    "events": [
+      { "title": "陈霸先代梁称帝建立陈朝", "description": "陈王陈霸先接受梁敬帝萧方智禅让，在建康即皇帝位，改元永定，建立陈朝。南梁立国五十六年而亡。陈霸先即陈武帝。他是南朝唯一一位出身寒门的开国皇帝。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "南陈", "continent": "亚洲" },
+      { "title": "北周宇文护专权", "description": "北周宇文护（宇文泰之侄）因为拥立宇文觉之功自任大冢宰，独揽朝政。宇文觉年长后不甘心做傀儡皇帝，密谋诛杀宇文护。宇文护先发制人，废黜宇文觉，立宇文泰长子宇文毓为帝（北周明帝）。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "北周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 558,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈武帝陈霸先", "era": "永定二年" }
+    ],
+    "events": [
+      { "title": "陈朝稳定江南局势", "description": "陈武帝陈霸先在位期间致力于平定江南各地的割据势力。梁朝末年各地刺史和豪强纷纷自立。陈霸先派兵逐一讨平，恢复了江南大部分地区的稳定。但陈朝的疆域远小于宋齐梁三朝。", "latitude": 32.060, "longitude": 118.740, "category": "军事", "region": "南陈", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 559,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈武帝陈霸先", "era": "永定三年" }
+    ],
+    "events": [
+      { "title": "陈武帝陈霸先病逝", "description": "陈武帝陈霸先病逝于建康，在位仅三年。其侄陈蒨继位，是为陈文帝。陈霸先出身寒微，在梁末乱世中崛起，建立了陈朝。他为人节俭勤政，是南朝少有的明君。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "南陈", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 560,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈文帝陈蒨", "era": "天嘉元年" }
+    ],
+    "events": [
+      { "title": "陈文帝即位后整顿内政", "description": "陈文帝陈蒨即位后以侯安都为辅佐，整顿吏治、发展生产。他减免赋税、赈济灾民，恢复了江南残破的经济。陈朝在文帝统治下出现复兴气象。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "南陈", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 561,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈文帝陈蒨", "era": "天嘉二年" }
+    ],
+    "events": [
+      { "title": "北齐与北周交战", "description": "北齐文宣帝高洋去世后北齐内部陷入混乱。北周宇文护趁机联合突厥进攻北齐。北齐派段韶等名将迎战，双方在洛阳附近激战。北齐军最终击退了北周的进攻。", "latitude": 34.682, "longitude": 112.470, "category": "军事", "region": "北齐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 562,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈文帝陈蒨", "era": "天嘉三年" }
+    ],
+    "events": [
+      { "title": "陈文帝平定湘州叛乱", "description": "湘州刺史王琳在北周和北齐的支持下反叛陈朝。陈文帝派侯瑱率水军征讨。双方在长江中游交战，王琳兵败逃往北齐。陈朝巩固了对长江中游的控制。", "latitude": 28.500, "longitude": 112.500, "category": "军事", "region": "南陈", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 563,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈文帝陈蒨", "era": "天嘉四年" }
+    ],
+    "events": [
+      { "title": "北周联合突厥伐北齐", "description": "北周宇文护与突厥木杆可汗联兵进攻北齐。北周军出潼关，突厥军自北方南下。北齐武成帝高湛派段韶、斛律光率军迎战。突厥见北齐军势强盛便退兵，北周军孤军深入被击败。", "latitude": 36.000, "longitude": 114.000, "category": "军事", "region": "北周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 564,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈文帝陈蒨", "era": "天嘉五年" }
+    ],
+    "events": [
+      { "title": "洛阳之战——北齐大胜北周", "description": "北周宇文护率十余万大军进攻洛阳，围攻数月不克。北齐派段韶、兰陵王高长恭率军救援。高长恭率五百精骑突入北周军中，冲到城下与守军内外夹击。北周军大败溃逃，损失惨重。兰陵王因战功威名大振。", "latitude": 34.682, "longitude": 112.470, "category": "军事", "region": "北齐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 565,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈文帝陈蒨", "era": "天嘉六年" }
+    ],
+    "events": [
+      { "title": "北齐武成帝禅让传位", "description": "北齐武成帝高湛因沉迷酒色、厌倦朝政，将皇位传给太子高纬（北齐后主），自任太上皇。高纬是北齐著名的昏君，宠信奸佞、挥霍无度，北齐由此走向衰落。", "latitude": 36.300, "longitude": 114.500, "category": "政治", "region": "北齐", "continent": "亚洲" },
+      { "title": "查士丁尼一世去世", "description": "东罗马皇帝查士丁尼一世在君士坦丁堡病逝，终年八十三岁。他在位三十八年，重建了圣索菲亚大教堂、编纂了查士丁尼法典、征服了北非和意大利。但长期的战争和瘟疫耗尽了帝国的财力。", "latitude": 41.010, "longitude": 28.980, "category": "政治", "region": "东罗马帝国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 566,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈文帝陈蒨", "era": "天康元年" }
+    ],
+    "events": [
+      { "title": "陈文帝病逝，陈废帝继位", "description": "陈文帝陈蒨病逝，终年四十四岁。太子陈伯宗继位，是为陈废帝。陈文帝的弟弟陈顼（安成王）以司徒身份辅政，逐渐掌控了朝政大权。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "南陈", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 567,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈废帝陈伯宗", "era": "光大元年" }
+    ],
+    "events": [
+      { "title": "陈顼铲除异己独揽大权", "description": "陈朝安成王陈顼在辅政期间清除反对自己的力量。他杀掉了尚书仆射到仲举和武将韩子高等人。陈废帝陈伯宗完全成为傀儡。陈顼自任太傅、都督中外诸军事。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "南陈", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 568,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈宣帝陈顼", "era": "光大二年" }
+    ],
+    "events": [
+      { "title": "陈顼废陈伯宗自立为帝", "description": "陈顼废黜陈伯宗为临海王，自立为帝，是为陈宣帝。陈宣帝是陈朝在位时间较长的皇帝。他在位期间励精图治，陈朝国力有所恢复。陈伯宗不久后被杀。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "南陈", "continent": "亚洲" },
+      { "title": "伦巴第人入侵意大利", "description": "日耳曼部落伦巴第人在国王阿尔博因率领下，从潘诺尼亚（今匈牙利）越过阿尔卑斯山大规模入侵意大利。伦巴第人迅速攻占了波河流域的大片地区，建立了伦巴第王国。意大利半岛从此陷入长期分裂。", "latitude": 45.500, "longitude": 10.000, "category": "军事", "region": "伦巴第王国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 569,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈宣帝陈顼", "era": "太建元年" }
+    ],
+    "events": [
+      { "title": "陈宣帝整顿朝政", "description": "陈宣帝陈顼即位后整顿朝政，任用贤能、减轻赋税、发展农业。他派军平定岭南的割据势力，巩固了陈朝对南方的统治。陈朝在太建年间出现了一定程度的复兴。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "南陈", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 570,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈宣帝陈顼", "era": "太建二年" }
+    ],
+    "events": [
+      { "title": "伊斯兰教先知穆罕默德出生", "description": "伊斯兰教的创始人穆罕默德出生于阿拉伯半岛麦加城的古莱什部落哈希姆家族。他的父亲阿卜杜拉在他出生前就已去世。穆罕默德的出生开启了世界历史的新篇章，他日后将创立伊斯兰教并统一阿拉伯半岛。", "latitude": 21.400, "longitude": 39.800, "category": "宗教", "region": "阿拉伯半岛", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 571,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈宣帝陈顼", "era": "太建三年" }
+    ],
+    "events": [
+      { "title": "北齐名将斛律光被冤杀", "description": "北齐后主高纬宠信奸臣祖珽和穆提婆，听信谗言以谋反罪名冤杀了北齐名将斛律光。斛律光是北齐最杰出的军事统帅，曾多次击败北周军队。他的死使北齐失去了最坚固的屏障。", "latitude": 36.300, "longitude": 114.500, "category": "政治", "region": "北齐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 572,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈宣帝陈顼", "era": "太建四年" }
+    ],
+    "events": [
+      { "title": "北周武帝宇文邕杀宇文护亲政", "description": "北周武帝宇文邕设计在太后宫中用玉珽击杀权臣宇文护。宇文护掌权十五年，废立三帝。宇文邕亲政后励精图治，推行改革。北周在他统治下迅速强盛起来。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "北周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 573,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈宣帝陈顼", "era": "太建五年" }
+    ],
+    "events": [
+      { "title": "陈宣帝北伐收复淮南", "description": "陈宣帝陈顼派吴明彻率军北伐北齐。吴明彻在吕梁（今江苏徐州东南）大败北齐军，攻占了寿阳（今安徽寿县）等淮南重镇。陈朝收复了淮河以南的大片领土，是南朝后期少有的一次军事胜利。", "latitude": 32.500, "longitude": 116.800, "category": "军事", "region": "南陈", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 574,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈宣帝陈顼", "era": "太建六年" }
+    ],
+    "events": [
+      { "title": "北周武帝灭佛", "description": "北周武帝宇文邕下诏在全国灭佛，强迫僧尼还俗、捣毁寺院、焚烧佛经。这是中国历史上三武一宗灭佛中的第三次。北周境内数万所寺院被毁，百万僧尼还俗为编户。寺院的财产被充入国库。", "latitude": 34.300, "longitude": 108.900, "category": "宗教", "region": "北周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 575,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈宣帝陈顼", "era": "太建七年" }
+    ],
+    "events": [
+      { "title": "北周武帝大举伐齐", "description": "北周武帝宇文邕在灭佛积累财富后，亲率大军六路伐齐。周军攻占河阴（今洛阳北），逼近北齐重镇洛阳。但由于北周武帝突然患病，周军暂时撤回。此次伐齐虽未成功，但试探了北齐虚实。", "latitude": 34.700, "longitude": 112.500, "category": "军事", "region": "北周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 576,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈宣帝陈顼", "era": "太建八年" }
+    ],
+    "events": [
+      { "title": "北周再次伐齐，攻克晋阳", "description": "北周武帝宇文邕再次亲率大军伐齐。周军攻克平阳（今山西临汾），北齐后主高纬率军来援。两军激战后北齐军大败。北周军乘胜攻占北齐重镇晋阳（今山西太原），北齐主力基本被歼。", "latitude": 37.700, "longitude": 112.400, "category": "军事", "region": "北周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 577,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈宣帝陈顼", "era": "太建九年" }
+    ],
+    "events": [
+      { "title": "北周灭北齐统一北方", "description": "北周武帝宇文邕率军攻入北齐都城邺城。北齐后主高纬逃往青州途中被俘，北齐灭亡。北周统一了中国北方。北齐立国二十八年而亡。宇文邕将北齐的领土、人口和财富全部纳入北周版图，北周成为当时最强大的国家。", "latitude": 36.300, "longitude": 114.500, "category": "军事", "region": "北周", "continent": "亚洲" },
+      { "title": "北周推行统一政策", "description": "北周武帝宇文邕灭北齐后推行统一政策：废除北齐苛政、释放北齐宫女、减轻赋税。他还在北齐境内恢复灭佛政策。宇文邕准备乘胜统一全国，南下伐陈。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "北周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 578,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈宣帝陈顼", "era": "太建十年" }
+    ],
+    "events": [
+      { "title": "北周武帝宇文邕病逝", "description": "北周武帝宇文邕在征讨突厥途中病逝于云阳宫，终年三十六岁。太子宇文赟继位，是为北周宣帝。宇文邕是南北朝最杰出的君主之一，灭北齐统一北方，为隋的统一奠定了基础。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "北周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 579,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈宣帝陈顼", "era": "太建十一年" }
+    ],
+    "events": [
+      { "title": "北周宣帝荒淫失政", "description": "北周宣帝宇文赟即位后荒淫无度，不理朝政。他大选美女充实后宫，大兴土木修建宫殿。宇文赟还同时立了五位皇后，违背礼制。北周朝政迅速腐化。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "北周", "continent": "欧洲" },
+      { "title": "陈吴明彻北伐败于北周", "description": "陈宣帝派吴明彻率军北伐，试图收复淮北地区。北周派名将王轨率军迎战。吴明彻在吕梁（今江苏徐州）被北周军击败，陈军精锐尽失。吴明彻被俘后死于北周。陈朝从此无力北伐。", "latitude": 34.200, "longitude": 117.200, "category": "军事", "region": "南陈", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 580,
+    "dynasties": [
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈宣帝陈顼", "era": "太建十二年" }
+    ],
+    "events": [
+      { "title": "北周宣帝去世，杨坚辅政", "description": "北周宣帝宇文赟病逝，年仅二十二岁。年幼的宇文阐继位（北周静帝）。宣帝岳父杨坚（其女杨丽华是宣帝皇后）以太后之父的身份入朝辅政，自任大丞相、都督中外诸军事。杨坚开始筹划代周。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "北周", "continent": "亚洲" },
+      { "title": "杨坚平定尉迟迥叛乱", "description": "北周相州总管尉迟迥（宇文泰的外甥）起兵讨伐杨坚。尉迟迥得到北周许多地方势力的响应。杨坚派韦孝宽和高颎率军东征，在邺城击败尉迟迥。尉迟迥自杀。杨坚巩固了权力。", "latitude": 36.300, "longitude": 114.500, "category": "军事", "region": "北周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 581,
+    "dynasties": [
+      { "dynastyId": "sui", "name": "隋", "ruler": "隋文帝杨坚", "era": "开皇元年" },
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈宣帝陈顼", "era": "太建十三年" }
+    ],
+    "events": [
+      { "title": "杨坚代周称帝建立隋朝", "description": "北周静帝宇文阐禅让帝位于杨坚。杨坚在长安即皇帝位，改元开皇，建立隋朝。北周立国二十五年而亡。杨坚即隋文帝，是中国历史上最杰出的政治家之一。隋朝的建立标志着南北朝即将结束。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "隋", "continent": "亚洲" },
+      { "title": "隋文帝推行改革", "description": "隋文帝杨坚即位后立即推行改革：废除北周六官制，恢复汉魏三省六部制。他减轻赋税、严惩贪污、提倡节俭。隋文帝还下令修订刑律，废除了残酷的宫刑和车裂等刑罚。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "隋", "continent": "亚洲" },
+      { "title": "突厥他钵可汗去世，内部动荡", "description": "突厥汗国他钵可汗去世，突厥内部因继承人问题爆发内乱。他钵可汗遗言立其侄大罗便为汗，但贵族们立佗钵之子庵逻为汗。大罗便不服起兵，与庵逻和沙钵略展开争斗。突厥开始走向分裂。", "latitude": 48.000, "longitude": 88.000, "category": "政治", "region": "突厥", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 582,
+    "dynasties": [
+      { "dynastyId": "sui", "name": "隋", "ruler": "隋文帝杨坚", "era": "开皇二年" },
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈宣帝陈顼", "era": "太建十四年" }
+    ],
+    "events": [
+      { "title": "隋文帝大举改革官制", "description": "隋文帝杨坚确立三省六部制度：尚书省（吏户礼兵刑工六部）、门下省和内史省。地方上改州郡县三级为州县两级，裁减大批冗官。中央政府权力大大加强，行政效率显著提高。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "隋", "continent": "亚洲" },
+      { "title": "突厥沙钵略可汗南侵被击退", "description": "突厥沙钵略可汗率四十万骑兵大举南侵隋朝。突厥军攻掠甘肃和陕西边境。隋文帝派杨广、杨素等率军分路迎击。隋军在高颎的指挥下灵活应战，突厥军被击退。", "latitude": 36.000, "longitude": 107.000, "category": "军事", "region": "隋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 583,
+    "dynasties": [
+      { "dynastyId": "sui", "name": "隋", "ruler": "隋文帝杨坚", "era": "开皇三年" },
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈后主陈叔宝", "era": "至德元年" }
+    ],
+    "events": [
+      { "title": "隋军大败突厥，突厥分裂为东西", "description": "隋文帝派杨爽、杨素等率军分八路出击突厥。隋军在漠北大破沙钵略可汗的主力。突厥内部矛盾激化，正式分裂为东突厥（沙钵略可汗）和西突厥（达头可汗）。隋朝采用远交近攻的策略分化瓦解突厥。", "latitude": 45.000, "longitude": 105.000, "category": "军事", "region": "隋", "continent": "亚洲" },
+      { "title": "陈宣帝病逝，陈后主继位", "description": "陈宣帝陈顼病逝，太子陈叔宝继位，是为陈后主。陈后主是中国历史上著名的亡国之君，以荒淫诗酒闻名。他宠爱贵妃张丽华，不理朝政。陈朝在他的统治下迅速走向灭亡。", "latitude": 32.060, "longitude": 118.740, "category": "政治", "region": "南陈", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 584,
+    "dynasties": [
+      { "dynastyId": "sui", "name": "隋", "ruler": "隋文帝杨坚", "era": "开皇四年" },
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈后主陈叔宝", "era": "至德二年" }
+    ],
+    "events": [
+      { "title": "隋开凿广通渠", "description": "隋文帝命宇文恺主持开凿广通渠，从长安引渭水东达黄河。这条运河全长三百余里，解决了关中地区的漕运问题。广通渠的开凿为后来大运河的建设积累了经验。", "latitude": 34.500, "longitude": 109.000, "category": "科技", "region": "隋", "continent": "亚洲" },
+      { "title": "突厥沙钵略可汗向隋称臣", "description": "东突厥沙钵略可汗在隋朝的军事打击和外交分化下走投无路，向隋文帝上表称臣。隋文帝册封沙钵略为可汗，并给予物资援助。突厥正式成为隋的藩属。", "latitude": 45.000, "longitude": 105.000, "category": "外交", "region": "隋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 585,
+    "dynasties": [
+      { "dynastyId": "sui", "name": "隋", "ruler": "隋文帝杨坚", "era": "开皇五年" },
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈后主陈叔宝", "era": "至德三年" }
+    ],
+    "events": [
+      { "title": "隋文帝推行均田制和租调法", "description": "隋文帝在全国推行均田制，规定成年男子受露田八十亩、永业田二十亩。同时实行租调法：一夫一妇每年纳粟三石、绢一匹。这些政策稳定了农民生计、增加了国家收入。", "latitude": 34.300, "longitude": 108.900, "category": "经济", "region": "隋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 586,
+    "dynasties": [
+      { "dynastyId": "sui", "name": "隋", "ruler": "隋文帝杨坚", "era": "开皇六年" },
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈后主陈叔宝", "era": "至德四年" }
+    ],
+    "events": [
+      { "title": "隋朝大索貌阅整顿户籍", "description": "隋文帝推行大索貌阅和输籍定样制度，在全国核查户口。朝廷按照人的相貌核对户籍，查出大量隐漏人口。此举使国家控制的纳税人口大幅增加，财政收入随之增长。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "隋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 587,
+    "dynasties": [
+      { "dynastyId": "sui", "name": "隋", "ruler": "隋文帝杨坚", "era": "开皇七年" },
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈后主陈叔宝", "era": "祯明元年" }
+    ],
+    "events": [
+      { "title": "隋灭后梁", "description": "隋文帝征召后梁皇帝萧琮入朝，随后派军占领江陵，后梁灭亡。后梁是西魏在江陵扶植的傀儡政权，立国三十三年。隋朝统一了长江中游地区，完成了灭陈的战略准备。", "latitude": 30.300, "longitude": 112.200, "category": "军事", "region": "隋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 588,
+    "dynasties": [
+      { "dynastyId": "sui", "name": "隋", "ruler": "隋文帝杨坚", "era": "开皇八年" },
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈后主陈叔宝", "era": "祯明二年" }
+    ],
+    "events": [
+      { "title": "隋文帝大举伐陈", "description": "隋文帝杨坚以晋王杨广为元帅，率五十万大军分八路南征陈朝。秦王杨俊、越国公杨素等各率一路。隋军从长江上游至下游全线发动进攻。陈后主仍在建康与嫔妃饮酒作诗，不以为意。", "latitude": 32.060, "longitude": 118.740, "category": "军事", "region": "隋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 589,
+    "dynasties": [
+      { "dynastyId": "sui", "name": "隋", "ruler": "隋文帝杨坚", "era": "开皇九年" },
+      { "dynastyId": "nanbei", "name": "南北朝", "ruler": "陈后主陈叔宝", "era": "祯明三年" }
+    ],
+    "events": [
+      { "title": "隋灭陈，统一天下", "description": "隋将韩擒虎和贺若弼率军渡江攻入建康。陈后主陈叔宝与宠妃张丽华、孔贵嫔躲入枯井中被俘。陈朝灭亡，立国三十三年。南北朝长达近三百年的分裂局面至此终结。中国重新实现了统一。", "latitude": 32.060, "longitude": 118.740, "category": "军事", "region": "隋", "continent": "亚洲" },
+      { "title": "隋统一后的改革措施", "description": "隋文帝下令将建康的宫殿城邑夷为平地改为耕地。他废除了陈朝的苛捐杂税，将江南的行政制度与北方统一。隋朝在全国推行三省六部制和均田制。南北统一的格局最终形成。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "隋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 590,
+    "dynasties": [
+      { "dynastyId": "sui", "name": "隋", "ruler": "隋文帝杨坚", "era": "开皇十年" }
+    ],
+    "events": [
+      { "title": "隋平定江南豪族叛乱", "description": "隋灭陈后，江南各地的豪族士绅因不满隋朝统治而发动大规模叛乱。隋文帝派杨素率军平定。杨素率水军沿江东下，逐一击破各地叛军。江南局势逐渐稳定。", "latitude": 31.000, "longitude": 120.000, "category": "军事", "region": "隋", "continent": "亚洲" },
+      { "title": "教皇格列高利一世即位", "description": "教皇格列高利一世（大格列高利）当选为罗马主教（教皇）。他是中世纪最杰出的教皇之一，整顿教会纪律、推行格里高利圣咏、派传教士到英格兰传教。他还撰写了《道德论》等神学著作。", "latitude": 41.893, "longitude": 12.485, "category": "宗教", "region": "罗马教会", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 591,
+    "dynasties": [
+      { "dynastyId": "sui", "name": "隋", "ruler": "隋文帝杨坚", "era": "开皇十一年" }
+    ],
+    "events": [
+      { "title": "隋文帝整顿江南文化", "description": "隋文帝在江南推行儒家礼教，禁止巫术和淫祀。他下令搜集江南的图书典籍，将大量书籍运往长安。隋朝还下令统一度量衡和文字标准。南北文化开始融合。", "latitude": 32.060, "longitude": 118.740, "category": "文化", "region": "隋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 592,
+    "dynasties": [
+      { "dynastyId": "sui", "name": "隋", "ruler": "隋文帝杨坚", "era": "开皇十二年" }
+    ],
+    "events": [
+      { "title": "隋朝府兵制改革", "description": "隋文帝改革府兵制，将军人编入民籍，实行兵农合一。府兵平时耕种土地、战时出征。这一改革节省了军费开支，提高了军队的战斗力。隋朝的军事制度更为完善。", "latitude": 34.300, "longitude": 108.900, "category": "军事", "region": "隋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 593,
+    "dynasties": [
+      { "dynastyId": "sui", "name": "隋", "ruler": "隋文帝杨坚", "era": "开皇十三年" }
+    ],
+    "events": [
+      { "title": "隋修仁寿宫", "description": "隋文帝命杨素在岐州（今陕西凤翔）修建仁寿宫。杨素征发民夫数万人，工程极其浩大。因工程紧迫，大量民夫劳累而死。仁寿宫成为隋文帝晚年常住的离宫。", "latitude": 34.500, "longitude": 107.500, "category": "社会", "region": "隋", "continent": "亚洲" },
+      { "title": "日本圣德太子摄政", "description": "日本用明天皇之子圣德太子（厩户皇子）被推古天皇任命为摄政王。圣德太子摄政后推行一系列改革：制定冠位十二阶、颁布宪法十七条、派遣遣隋使到中国学习。他大力提倡佛教，修建法隆寺。", "latitude": 34.700, "longitude": 135.800, "category": "政治", "region": "日本", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 594,
+    "dynasties": [
+      { "dynastyId": "sui", "name": "隋", "ruler": "隋文帝杨坚", "era": "开皇十四年" }
+    ],
+    "events": [
+      { "title": "隋文帝推行义仓制度", "description": "隋文帝采纳度支尚书长孙平的建议，在全国推行义仓制度。各州县设立义仓，每年秋天按户等征收粮食储备。遇到灾荒时开仓赈济灾民。这一制度对保障粮食安全起了重要作用。", "latitude": 34.300, "longitude": 108.900, "category": "经济", "region": "隋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 595,
+    "dynasties": [
+      { "dynastyId": "sui", "name": "隋", "ruler": "隋文帝杨坚", "era": "开皇十五年" }
+    ],
+    "events": [
+      { "title": "隋朝修建洛阳太庙", "description": "隋文帝在洛阳修建太庙，以追尊祖先。洛阳作为隋朝的东都开始大规模营建。隋朝还在全国各地修建粮仓储粮备荒。隋文帝在位期间国家粮食储备充足，史称府库充溢。", "latitude": 34.682, "longitude": 112.470, "category": "社会", "region": "隋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 596,
+    "dynasties": [
+      { "dynastyId": "sui", "name": "隋", "ruler": "隋文帝杨坚", "era": "开皇十六年" }
+    ],
+    "events": [
+      { "title": "隋朝经济达到鼎盛", "description": "隋文帝在位期间励精图治，国家经济空前繁荣。全国人口从灭陈时的三百万户增长到近九百万户。长安和洛阳成为当时世界上最繁华的都市。各地粮仓堆积如山。", "latitude": 34.300, "longitude": 108.900, "category": "经济", "region": "隋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 597,
+    "dynasties": [
+      { "dynastyId": "sui", "name": "隋", "ruler": "隋文帝杨坚", "era": "开皇十七年" }
+    ],
+    "events": [
+      { "title": "隋朝平定南方僚人叛乱", "description": "隋朝在岭南和西南地区的统治遭到当地僚人部落的反抗。隋文帝派令狐熙等人以武力与安抚并用的策略平定岭南。隋朝在岭南设立州县，加强对南方边疆的控制。", "latitude": 23.000, "longitude": 113.000, "category": "军事", "region": "隋", "continent": "亚洲" },
+      { "title": "圣奥古斯丁赴英格兰传教", "description": "教皇格列高利一世派修士奥古斯丁率领四十名传教士前往英格兰传教。奥古斯丁在肯特王国都城坎特伯雷受到国王埃塞尔伯特的欢迎。英格兰开始皈依基督教，奥古斯丁成为首任坎特伯雷大主教。", "latitude": 51.200, "longitude": 1.100, "category": "宗教", "region": "英格兰", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 598,
+    "dynasties": [
+      { "dynastyId": "sui", "name": "隋", "ruler": "隋文帝杨坚", "era": "开皇十八年" }
+    ],
+    "events": [
+      { "title": "隋第一次征高句丽失败", "description": "高句丽国王高元率万余骑兵进攻辽西。隋文帝大怒，派汉王杨谅和水军总管周罗睺率三十万大军征伐高句丽。隋军因雨季道路泥泞、粮草运输困难，加之瘟疫流行，伤亡惨重。隋文帝被迫退兵。", "latitude": 41.000, "longitude": 125.000, "category": "军事", "region": "隋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 599,
+    "dynasties": [
+      { "dynastyId": "sui", "name": "隋", "ruler": "隋文帝杨坚", "era": "开皇十九年" }
+    ],
+    "events": [
+      { "title": "东突厥内部分裂", "description": "隋朝采用长孙晟的离间计，促使东突厥内部分裂。突利可汗投降隋朝，隋文帝封他为启民可汗，在河套地区安置其部众。东突厥都蓝可汗被部下所杀。启民可汗在隋朝支持下成为东突厥大可汗。", "latitude": 43.000, "longitude": 110.000, "category": "政治", "region": "隋", "continent": "亚洲" },
+      { "title": "隋文帝晚年猜忌太子", "description": "隋文帝杨坚晚年对太子杨勇日益不满。杨勇生活奢侈、喜好女色，而次子杨广（晋王）则伪装节俭、表现得孝谨有加。隋文帝听信独孤皇后和杨素的意见，开始考虑废立太子。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "隋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 600,
+    "dynasties": [
+      { "dynastyId": "sui", "name": "隋", "ruler": "隋文帝杨坚", "era": "开皇二十年" }
+    ],
+    "events": [
+      { "title": "隋文帝废杨勇立杨广为太子", "description": "隋文帝杨坚正式废黜太子杨勇为庶人，立晋王杨广为皇太子。杨广善于伪装，深得独孤皇后和权臣杨素的支持。杨勇被囚禁在东宫。这一废立为日后隋朝的灭亡埋下了祸根。", "latitude": 34.300, "longitude": 108.900, "category": "政治", "region": "隋", "continent": "亚洲" },
+      { "title": "隋军再次击败突厥", "description": "西突厥达头可汗率军侵犯隋朝边境。隋文帝派杨素和史万岁率军迎击。隋军在灵州（今宁夏灵武）以北大败达头可汗的军队。突厥势力进一步被削弱。隋朝北境获得安宁。", "latitude": 38.000, "longitude": 106.000, "category": "军事", "region": "隋", "continent": "亚洲" },
+      { "title": "日本圣德太子遣使入隋", "description": "日本圣德太子派遣第一批遣隋使来华学习中国的政治制度和先进文化。使团由鞍作福利率领，到达隋都大兴城（长安）。隋文帝接见了日本使节。这标志着中日正式邦交的开始。", "latitude": 34.300, "longitude": 108.900, "category": "外交", "region": "日本", "continent": "亚洲" }
+    ]
+  }
+]

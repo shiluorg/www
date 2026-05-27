@@ -1,0 +1,668 @@
+[
+  {
+    "year": -200,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉高祖刘邦", "era": "" }
+    ],
+    "events": [
+      { "title": "白登之围", "description": "汉高祖刘邦率三十二万大军北击匈奴，被冒顿单于四十万精骑围困于平城白登山七日。汉军内外联络断绝，后陈平献计厚赂阏氏，始得突围。白登之围使汉朝意识到暂无力对抗匈奴。", "latitude": 40.0, "longitude": 113.0, "category": "军事", "region": "西汉", "continent": "亚洲" },
+      { "title": "刘敬建议和亲匈奴", "description": "白登之围后，刘敬向汉高祖建议以宗室女嫁匈奴单于，并赠送大量财物，以换取边境和平。汉高祖采纳此议，汉匈和亲政策从此开始，持续约六十年。", "latitude": 34.3, "longitude": 108.9, "category": "外交", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -198,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉高祖刘邦", "era": "" }
+    ],
+    "events": [
+      { "title": "汉朝与匈奴正式和亲", "description": "汉高祖刘邦以宗室女冒充公主嫁给冒顿单于，并每年赠送大量丝绸、酒食等物，双方约定以长城为界。汉匈第一次和亲正式确立。", "latitude": 34.3, "longitude": 108.9, "category": "外交", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -197,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉高祖刘邦", "era": "" }
+    ],
+    "events": [
+      { "title": "第二次马其顿战争爆发", "description": "罗马因马其顿国王腓力五世扩张威胁到罗德岛等罗马盟友，向马其顿宣战。罗马将军弗拉米尼努斯率军进入希腊。战争初期罗马在雅典等地受到欢迎。", "latitude": 40.5, "longitude": 22.5, "category": "军事", "region": "罗马共和国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -196,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉高祖刘邦", "era": "" }
+    ],
+    "events": [
+      { "title": "韩信被贬为淮阴侯", "description": "汉高祖刘邦怀疑楚王韩信谋反，用陈平之计伪游云梦，趁韩信来谒时将其逮捕。韩信被贬为淮阴侯，软禁于长安，心中怨恨不平。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "西汉", "continent": "亚洲" },
+      { "title": "弗拉米尼努斯宣布希腊自由", "description": "罗马执政官弗拉米尼努斯在科林斯地峡运动会上宣布希腊各城邦获得'自由与自治'，罗马军队将撤出希腊。希腊各城邦热烈欢呼，但实际仍受罗马控制。", "latitude": 37.9, "longitude": 22.9, "category": "政治", "region": "罗马共和国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -197,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉高祖刘邦", "era": "" }
+    ],
+    "events": [
+      { "title": "狗头山战役", "description": "罗马执政官弗拉米尼努斯在希腊的狗头山（Cynoscephalae）与马其顿腓力五世会战。罗马军团凭借灵活的作战队形击败了马其顿方阵，腓力五世求和。这是罗马军团首次在东方战场展示其优势。", "latitude": 39.4, "longitude": 22.3, "category": "军事", "region": "罗马共和国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -196,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉高祖刘邦", "era": "" }
+    ],
+    "events": [
+      { "title": "韩信被贬为淮阴侯", "description": "汉高祖刘邦怀疑楚王韩信谋反，用陈平之计伪游云梦，趁韩信来谒时将其逮捕。韩信被贬为淮阴侯，软禁于长安，心中怨恨不平。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "西汉", "continent": "亚洲" },
+      { "title": "弗拉米尼努斯宣布希腊自由", "description": "罗马执政官弗拉米尼努斯在科林斯地峡运动会上宣布希腊各城邦获得'自由与自治'，罗马军队将撤出希腊。希腊各城邦热烈欢呼，但实际仍受罗马控制。", "latitude": 37.9, "longitude": 22.9, "category": "政治", "region": "罗马共和国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -195,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉高祖刘邦", "era": "" }
+    ],
+    "events": [
+      { "title": "汉高祖刘邦驾崩", "description": "汉高祖刘邦在长乐宫驾崩，享年六十二岁。太子刘盈继位为汉惠帝，时年十六岁。吕太后（吕雉）开始掌握朝政大权，汉朝进入吕后专权时期。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "西汉", "continent": "亚洲" },
+      { "title": "韩信被诛杀", "description": "汉高祖刘邦征讨陈豨叛乱时，吕后与萧何设计将韩信骗入长乐宫钟室处死，并夷其三族。韩信临刑前叹道'狡兔死，走狗烹'。西汉开国第一功臣含冤而死。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "西汉", "continent": "亚洲" },
+      { "title": "汉尼拔逃离迦太基", "description": "汉尼拔在迦太基推行民主改革，触怒了贵族寡头，被指控勾结塞琉古国王安条克三世。汉尼拔被迫流亡，先后逃往推罗和以弗所，投奔安条克三世。", "latitude": 36.9, "longitude": 10.3, "category": "政治", "region": "迦太基", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -193,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉惠帝刘盈", "era": "" }
+    ],
+    "events": [
+      { "title": "留侯张良去世", "description": "西汉开国功臣、'汉初三杰'之一的张良去世。张良字子房，运筹帷幄之中、决胜千里之外，助刘邦定天下。功成身退，晚年隐居修行，被誉为'一代谋圣'。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "西汉", "continent": "亚洲" },
+      { "title": "汉尼拔与安条克三世", "description": "汉尼拔投奔塞琉古国王安条克三世，建议其在希腊开辟第二战场对抗罗马，并给予他一支军队指挥权。但安条克三世犹豫不决，未采纳汉尼拔的建议。", "latitude": 38.0, "longitude": 36.0, "category": "政治", "region": "塞琉古帝国", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -192,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉惠帝刘盈", "era": "" }
+    ],
+    "events": [
+      { "title": "叙利亚战争爆发", "description": "塞琉古国王安条克三世应埃托利亚联盟之邀率军进入希腊，与罗马直接发生冲突。罗马向安条克宣战，叙利亚战争（也称罗马-塞琉古战争）开始。", "latitude": 38.5, "longitude": 22.5, "category": "军事", "region": "罗马共和国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -191,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉惠帝刘盈", "era": "" }
+    ],
+    "events": [
+      { "title": "温泉关战役（罗马）", "description": "罗马执政官马尼乌斯·阿西利乌斯·格拉布里奥率军在温泉关击败安条克三世。安条克与当年的薛西斯一样企图利用温泉关天险阻击，却被罗马军队沿同一条小路绕后包抄，大败逃回亚洲。", "latitude": 38.8, "longitude": 22.5, "category": "军事", "region": "罗马共和国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -190,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉惠帝刘盈", "era": "" }
+    ],
+    "events": [
+      { "title": "马格尼西亚战役", "description": "罗马执政官卢基乌斯·西庇阿（大西庇阿之弟）在小亚细亚的马格尼西亚大败安条克三世的塞琉古大军。安条克损失约五万人，被迫向罗马求和。此战确立了罗马在东地中海的霸权地位。", "latitude": 38.6, "longitude": 27.4, "category": "军事", "region": "罗马共和国", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -188,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉惠帝刘盈", "era": "" }
+    ],
+    "events": [
+      { "title": "阿帕米亚和约", "description": "塞琉古帝国与罗马签订阿帕米亚和约。安条克三世交出全部战象和大部分舰队，放弃小亚细亚领土，支付巨额赔款。罗马将小亚细亚领土分配给其盟友帕加马和罗德岛。", "latitude": 36.0, "longitude": 36.0, "category": "外交", "region": "罗马共和国", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -188,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉惠帝刘盈", "era": "" }
+    ],
+    "events": [
+      { "title": "吕后鸩杀赵王如意", "description": "吕太后将刘邦宠妃戚夫人之子赵王如意召至长安，用毒酒鸩杀。随后将戚夫人斩去手脚、挖去双眼、熏聋耳朵、灌以哑药，置于厕中称为'人彘'。汉惠帝见后受惊大病，从此不理朝政。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -187,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉惠帝刘盈", "era": "" }
+    ],
+    "events": [
+      { "title": "曹参任相国", "description": "汉惠帝任命曹参为相国。曹参沿用萧何的制度和政策，'萧规曹随'，实行无为而治、与民休息的政策。汉朝在战后恢复期保持了政治稳定和经济发展。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "西汉", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -185,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉前少帝刘恭", "era": "" }
+    ],
+    "events": [
+      { "title": "吕姓封王", "description": "吕太后不顾开国时'非刘氏而王，天下共击之'的盟约，封侄吕台、吕产、吕禄等吕氏子弟为王侯。刘氏宗室和功臣集团对此极为不满。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -183,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉前少帝刘恭", "era": "" }
+    ],
+    "events": [
+      { "title": "汉尼拔服毒自尽", "description": "塞琉古国王安条克三世在阿帕米亚和约条款中被迫承诺交出汉尼拔。汉尼拔辗转逃往比提尼亚王国。罗马派使节追索，汉尼拔在比提尼亚的利比萨服毒自尽，享年六十四岁。一代军事天才含恨而终。", "latitude": 40.5, "longitude": 29.0, "category": "政治", "region": "比提尼亚", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -180,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉文帝刘恒", "era": "" }
+    ],
+    "events": [
+      { "title": "吕后病逝，周勃安刘", "description": "吕太后病逝，临终嘱咐吕产、吕禄掌握兵权。周勃、陈平等元老功臣联合刘氏宗室发动政变，诛杀吕氏全族，迎立代王刘恒为帝，是为汉文帝。刘恒宽仁节俭，开创'文景之治'。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -179,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉文帝刘恒", "era": "" }
+    ],
+    "events": [
+      { "title": "汉文帝除诽谤妖言之罪", "description": "汉文帝刘恒即位后废除秦朝遗留的'诽谤妖言'罪，又废除了连坐收孥法。他崇尚节俭，减轻赋税，广开言路，体现了汉初'与民休息'的治国理念。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -177,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉文帝刘恒", "era": "" }
+    ],
+    "events": [
+      { "title": "匈奴右贤王入寇", "description": "匈奴右贤王率军侵入汉朝边境，攻掠上郡等地。汉文帝派丞相灌婴率八万五千车骑前往反击，后因济北王刘兴居叛乱而撤回。匈奴右贤王也退出塞外。", "latitude": 36.0, "longitude": 109.0, "category": "军事", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -176,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉文帝刘恒", "era": "" }
+    ],
+    "events": [
+      { "title": "贾谊《治安策》", "description": "青年政论家贾谊上《治安策》（又称《陈政事疏》），分析汉朝面临的各种社会矛盾，提出'众建诸侯而少其力'以削弱诸侯王势力，主张重农抑商、加强边防，展现出卓越的政治远见。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -174,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉文帝刘恒", "era": "" }
+    ],
+    "events": [
+      { "title": "冒顿单于去世", "description": "匈奴冒顿单于去世，其子稽粥继位，号老上单于。冒顿单于统一匈奴各部，建立了强大的草原帝国，是匈奴历史上最伟大的领袖之一。", "latitude": 44.0, "longitude": 112.0, "category": "政治", "region": "匈奴", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -172,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉文帝刘恒", "era": "" }
+    ],
+    "events": [
+      { "title": "贾谊贬谪长沙", "description": "汉文帝因大臣排挤，将才华横溢的贾谊贬为长沙王太傅。贾谊途经湘水时作《吊屈原赋》抒发悲愤。四年后召回长安，任梁怀王太傅，后因梁王坠马而死自责忧郁而终，年仅三十三岁。", "latitude": 28.2, "longitude": 112.9, "category": "文化", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -171,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉文帝刘恒", "era": "" }
+    ],
+    "events": [
+      { "title": "第三次马其顿战争爆发", "description": "马其顿国王珀尔修斯（腓力五世之子）积极扩军备战，与希腊各城邦结盟，引起罗马警惕。罗马向马其顿宣战，第三次马其顿战争爆发。珀尔修斯初期取得了一些军事成功。", "latitude": 40.5, "longitude": 22.5, "category": "军事", "region": "马其顿", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -168,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉文帝刘恒", "era": "" }
+    ],
+    "events": [
+      { "title": "皮德纳战役", "description": "罗马执政官埃米利乌斯·保卢斯在皮德纳与马其顿国王珀尔修斯决战。罗马军团灵活的三线队形克制了马其顿方阵的正面突击，马其顿军大败，珀尔修斯被俘。马其顿王国灭亡，希腊化时代的最后一个主要王国消失。", "latitude": 40.4, "longitude": 22.6, "category": "军事", "region": "罗马共和国", "continent": "欧洲" },
+      { "title": "安条克四世撤离埃及", "description": "塞琉古国王安条克四世入侵埃及，托勒密王朝向罗马求援。罗马派使者波皮利乌斯·拉埃纳斯在亚历山大城外画了一个圆圈，要求安条克在走出圆圈前做出答复。安条克被迫无条件撤军。'罗马外交'的著名案例。", "latitude": 31.2, "longitude": 29.9, "category": "外交", "region": "罗马共和国", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -167,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉文帝刘恒", "era": "" }
+    ],
+    "events": [
+      { "title": "罗马废除马其顿王国", "description": "罗马将马其顿王国分为四个共和国，向罗马纳贡但不得相互往来。希腊一千名贵族人质（包括历史学家波利比乌斯）被送往罗马。波利比乌斯后来著成《历史》一书。", "latitude": 40.5, "longitude": 22.5, "category": "政治", "region": "罗马共和国", "continent": "欧洲" },
+      { "title": "汉文帝废除肉刑", "description": "齐国太仓令淳于意获罪，其女缇萦上书汉文帝愿为官婢以赎父刑。汉文帝深受感动，遂下诏废除黥、劓、刖等肉刑，改为笞刑。缇萦救父成为千古佳话。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -166,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉文帝刘恒", "era": "" }
+    ],
+    "events": [
+      { "title": "老上单于入侵", "description": "匈奴老上单于率十四万骑兵入侵汉朝，攻入朝那、萧关，杀北地都尉。汉文帝欲亲征匈奴，被群臣劝阻。汉朝增派军队防守长安，匈奴在边地掠夺月余后退走。", "latitude": 35.5, "longitude": 106.5, "category": "军事", "region": "西汉", "continent": "亚洲" },
+      { "title": "马加比起义", "description": "塞琉古国王安条克四世强行推行希腊化政策，在耶路撒冷圣殿设立宙斯祭坛，禁止犹太教信仰。犹太祭司玛他提亚和其子犹大·马加比起而反抗，犹太起义爆发，史称马加比起义。", "latitude": 31.8, "longitude": 35.2, "category": "宗教", "region": "塞琉古帝国", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -165,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉文帝刘恒", "era": "" }
+    ],
+    "events": [
+      { "title": "犹大·马加比攻取耶路撒冷", "description": "犹大·马加比率起义军攻入耶路撒冷，净化被玷污的圣殿，重建祭坛。犹太教节日'光明节'（Hanukkah）即源于此。起义军宣布恢复犹太教信仰，实行自治。", "latitude": 31.8, "longitude": 35.2, "category": "宗教", "region": "塞琉古帝国", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -164,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉文帝刘恒", "era": "" }
+    ],
+    "events": [
+      { "title": "塞琉古帝国内乱", "description": "安条克四世在波斯征战期间去世，其子安条克五世年幼继位，帝国陷入摄政之争。塞琉古帝国迅速衰落，周边省份纷纷独立。", "latitude": 36.0, "longitude": 36.0, "category": "政治", "region": "塞琉古帝国", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -162,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉文帝刘恒", "era": "" }
+    ],
+    "events": [
+      { "title": "汉朝与匈奴复修和亲", "description": "汉文帝遣使匈奴，与老上单于复修和亲之约。汉朝继续向匈奴赠送财物，维持边境暂时的和平局面。文帝时期汉朝经济逐渐恢复，国力增强。", "latitude": 34.3, "longitude": 108.9, "category": "外交", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -160,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉文帝刘恒", "era": "" }
+    ],
+    "events": [
+      { "title": "罗马与希腊冲突加剧", "description": "罗马在第四次马其顿战争前夕加强对希腊的控制。罗德岛因在之前的战争中表现中立受到打压，罗马将提洛岛设为自由港，罗德岛商业遭受重创。", "latitude": 36.4, "longitude": 28.2, "category": "政治", "region": "罗马共和国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -157,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉景帝刘启", "era": "" }
+    ],
+    "events": [
+      { "title": "汉文帝驾崩，景帝即位", "description": "汉文帝刘恒驾崩，在位二十三年。太子刘启即位，是为汉景帝。文帝在位期间提倡节俭、减轻赋税、废除酷刑，与民休息，奠定了'文景之治'的基业。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -155,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉景帝刘启", "era": "" }
+    ],
+    "events": [
+      { "title": "晁错上《削藩策》", "description": "御史大夫晁错向汉景帝上《削藩策》，建议削减诸侯王封地以加强中央集权。他认为诸侯王'削之亦反，不削亦反'，早削祸小、晚削祸大。汉景帝采纳其建议开始削藩。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -154,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉景帝刘启", "era": "" }
+    ],
+    "events": [
+      { "title": "七国之乱", "description": "吴王刘濞联合楚、赵、胶东、胶西、济南、淄川六国诸侯王以'清君侧、诛晁错'为名发动叛乱，史称七国之乱。汉景帝在袁盎建议下腰斩晁错以平息众怒，但吴王得悉晁错已死后仍不退兵，自称'东帝'。", "latitude": 34.3, "longitude": 108.9, "category": "军事", "region": "西汉", "continent": "亚洲" },
+      { "title": "周亚夫平定七国之乱", "description": "太尉周亚夫率汉军主力讨伐七国。他采取坚壁不出的策略，派轻骑断绝吴楚粮道。叛军粮尽溃败，吴王刘濞被斩首，楚王自杀。七国之乱仅三个月即被平定，此后诸侯王势力大为削弱。", "latitude": 34.3, "longitude": 108.9, "category": "军事", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -153,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉景帝刘启", "era": "" }
+    ],
+    "events": [
+      { "title": "汉景帝削藩后续", "description": "七国之乱平定后，汉景帝继续削弱诸侯王权力，规定诸侯王不得治国，其封国由中央任命的相管理。诸侯王仅保留封国内的经济收益，政治权力被剥夺殆尽。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -150,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉景帝刘启", "era": "" }
+    ],
+    "events": [
+      { "title": "南欧（非洲）覆灭", "description": "第四次马其顿战争以马其顿人安德里斯库斯被罗马击败告终。罗马将马其顿改为罗马行省，正式设总督治理。马其顿王国彻底灭亡。", "latitude": 40.5, "longitude": 22.5, "category": "政治", "region": "罗马共和国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -149,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉景帝刘启", "era": "" }
+    ],
+    "events": [
+      { "title": "第三次布匿战争爆发", "description": "罗马以迦太基违反和约武力自卫为由向迦太基宣战，第三次布匿战争爆发。罗马元老院坚决主张消灭迦太基，老加图每次演讲都以'迦太基必须被毁灭'作结。罗马军队在北非登陆。", "latitude": 36.9, "longitude": 10.3, "category": "军事", "region": "罗马共和国", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -146,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉景帝刘启", "era": "" }
+    ],
+    "events": [
+      { "title": "迦太基城毁灭", "description": "罗马军队在科尔内利乌斯·西庇阿·埃米利安努斯（小西庇阿）指挥下攻破迦太基城。围城持续三年，迦太基人宁死不降。城市被烧成废墟，十五万居民死亡，五万人被卖为奴隶。罗马在废墟上撒盐，迦太基彻底消失。", "latitude": 36.9, "longitude": 10.3, "category": "军事", "region": "罗马共和国", "continent": "非洲" },
+      { "title": "科林斯被毁", "description": "罗马执政官穆米乌斯攻破希腊城邦科林斯，将该城彻底摧毁，艺术品和财富被洗劫一空。科林斯的毁灭标志着希腊城邦独立历史的终结。希腊并入罗马的马其顿行省。", "latitude": 37.9, "longitude": 22.9, "category": "军事", "region": "罗马共和国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -145,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉景帝刘启", "era": "" }
+    ],
+    "events": [
+      { "title": "司马迁出生", "description": "中国伟大的史学家、文学家司马迁出生于夏阳（今陕西韩城）。他后来继承父志著《史记》，但遭李陵之祸受宫刑，忍辱负重完成这部中国历史上第一部纪传体通史。", "latitude": 35.5, "longitude": 110.4, "category": "文化", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -141,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "建元元年" }
+    ],
+    "events": [
+      { "title": "汉景帝驾崩，武帝即位", "description": "汉景帝刘启驾崩，年仅十六岁的太子刘彻即位，是为汉武帝。武帝在位五十四年，是西汉最强盛的时期。他大力推行儒学、开拓疆域、远征匈奴、经营西域，奠定了中华帝国的基本疆域。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -140,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "建元元年" }
+    ],
+    "events": [
+      { "title": "汉武帝建元新政", "description": "汉武帝即位后改元'建元'，这是中国历史上第一个年号。他任用赵绾、王臧等儒生，欲推行儒学改革，兴太学、改正朔、定历数，但遭到信奉黄老之学的窦太后干预，新政受挫。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -139,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "建元二年" }
+    ],
+    "events": [
+      { "title": "张骞出使西域", "description": "汉武帝为联合大月氏共抗匈奴，派郎官张骞率一百余人出使西域。张骞刚出河西即被匈奴扣留，长达十年。他始终持汉节不失，后寻机逃脱继续西行，是中国历史上第一位出使西域的使者。", "latitude": 38.0, "longitude": 100.0, "category": "外交", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -138,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "建元三年" }
+    ],
+    "events": [
+      { "title": "闽越攻东瓯", "description": "闽越发兵进攻东瓯（今浙江温州一带），东瓯向汉朝求救。汉武帝派严助率会稽兵浮海救援。汉军未至，闽越撤兵。东瓯因畏惧闽越，请求内迁，汉武帝将东瓯民众迁至江淮之间。", "latitude": 28.0, "longitude": 120.7, "category": "外交", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -136,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "建元五年" }
+    ],
+    "events": [
+      { "title": "汉武帝设立五经博士", "description": "汉武帝正式设立《诗》《书》《礼》《易》《春秋》五经博士，标志着儒学被确立为国家官学。此后儒家经典成为仕进必修科目，儒学思想开始主导中国政治和社会两千年。", "latitude": 34.3, "longitude": 108.9, "category": "文化", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -135,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "建元六年" }
+    ],
+    "events": [
+      { "title": "窦太后去世", "description": "尊崇黄老之学的太皇太后窦氏去世。汉武帝从此摆脱了祖母的政治桎梏，开始全面推行儒术治国，罢黜黄老、刑名百家之言，确立了'罢黜百家、独尊儒术'的国策。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -134,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元光元年" }
+    ],
+    "events": [
+      { "title": "汉武帝举贤良对策", "description": "汉武帝下诏举贤良方正，董仲舒上'天人三策'，系统阐述了'大一统'思想和'罢黜百家、独尊儒术'的主张。汉武帝采纳其议，儒学从此成为中国封建社会的正统思想。", "latitude": 34.3, "longitude": 108.9, "category": "文化", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -133,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元光二年" }
+    ],
+    "events": [
+      { "title": "马邑之谋", "description": "汉武帝采纳王恢建议，在马邑设伏诱击匈奴单于。汉军三十万伏兵待机，但单于在入塞途中识破计谋撤走。王恢因不战而回被问罪自杀。马邑之谋失败后，汉匈长达六十年的和亲关系彻底破裂。", "latitude": 39.3, "longitude": 112.6, "category": "军事", "region": "西汉", "continent": "亚洲" },
+      { "title": "帕加马王国遗赠罗马", "description": "帕加马国王阿塔罗斯三世去世，遗诏将整个王国赠送给罗马共和国。罗马经过数年交涉和镇压反抗后，将帕加马领土设为亚细亚行省。罗马的势力深入小亚细亚腹地。", "latitude": 39.1, "longitude": 27.2, "category": "政治", "region": "罗马共和国", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -132,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元光三年" }
+    ],
+    "events": [
+      { "title": "黄河瓠子决口", "description": "黄河在瓠子（今河南濮阳）决口，洪水泛滥淹没十六郡。汉武帝派汲黯等人组织堵口，但屡堵屡溃。此后黄河泛滥长达二十余年，给中原地区造成巨大灾难。", "latitude": 35.7, "longitude": 115.0, "category": "社会", "region": "西汉", "continent": "亚洲" },
+      { "title": "提比略·格拉古改革", "description": "罗马保民官提比略·格拉古提出土地改革法案，限制个人占有公有地限额，将多余土地分给无地农民。法案遭到元老院贵族强烈反对，但格拉古绕过元老院直接提交公民大会通过。", "latitude": 41.9, "longitude": 12.5, "category": "政治", "region": "罗马共和国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -131,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元光四年" }
+    ],
+    "events": [
+      { "title": "提比略·格拉古被杀", "description": "提比略·格拉古在谋求连任保民官时，罗马贵族在大祭司纳西卡率领下冲入公民大会会场，用棍棒将格拉古及其三百余名追随者活活打死。格拉古改革失败，但开了罗马内部政治暴力之先河。", "latitude": 41.9, "longitude": 12.5, "category": "政治", "region": "罗马共和国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -129,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元光六年" }
+    ],
+    "events": [
+      { "title": "汉朝首次大规模出击匈奴", "description": "汉武帝派卫青、公孙敖、公孙贺、李广各率万骑分四路出击匈奴。卫青直捣龙城（匈奴祭天圣地），斩首七百；李广被俘后逃脱。这是汉朝首次主动进攻匈奴，标志着战略大转变。", "latitude": 43.0, "longitude": 110.0, "category": "军事", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -128,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元朔元年" }
+    ],
+    "events": [
+      { "title": "卫青再击匈奴", "description": "车骑将军卫青率三万骑兵出雁门击匈奴，斩首数千。同年卫青又率军出云中（今内蒙古托克托），打击匈奴楼烦王和白羊王，取得重大胜利。卫青成为汉朝抗匈主将。", "latitude": 41.0, "longitude": 112.0, "category": "军事", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -127,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元朔二年" }
+    ],
+    "events": [
+      { "title": "汉武帝收复河南地", "description": "卫青率军出云中至高阙，迂回至陇西，击败匈奴楼烦王和白羊王，收复被匈奴占据的河南地（河套平原）。汉朝在此设立朔方郡和五原郡，移民屯垦，将边境防线向北推进。", "latitude": 40.5, "longitude": 108.0, "category": "军事", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -126,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元朔三年" }
+    ],
+    "events": [
+      { "title": "张骞返回长安", "description": "张骞出使西域十三年后回到长安。他被匈奴扣留十年后逃脱，西行至大宛、康居、大月氏、大夏等国，虽未能说服大月氏联汉抗匈，但带回了大量关于西域地理、风俗、物产的珍贵信息。", "latitude": 34.3, "longitude": 108.9, "category": "外交", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -124,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元朔五年" }
+    ],
+    "events": [
+      { "title": "卫青大破匈奴右贤王", "description": "卫青率三万骑兵夜袭匈奴右贤王大营。右贤王正在饮酒作乐，汉军突袭将其击溃，俘获小王十余人、男女一万五千人、牲畜数百万头。汉武帝拜卫青为大将军，统领全国军队。", "latitude": 42.0, "longitude": 105.0, "category": "军事", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -123,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元朔六年" }
+    ],
+    "events": [
+      { "title": "霍去病初征匈奴", "description": "十八岁的霍去病随卫青出征匈奴，率八百骑兵孤军深入数百里，斩首两千零二十八级，俘虏匈奴单于叔父。汉武帝封其为冠军侯。霍去病从此崭露头角。", "latitude": 42.0, "longitude": 108.0, "category": "军事", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -122,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元狩元年" }
+    ],
+    "events": [
+      { "title": "淮南王刘安谋反案", "description": "淮南王刘安（《淮南子》编著者）因谋反事泄自杀，受牵连被诛者数万人。刘安曾招致宾客方士数千人编著《淮南子》，集道家思想之大成。此案后武帝进一步削弱了诸侯王权力。", "latitude": 32.6, "longitude": 116.9, "category": "政治", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -121,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元狩二年" }
+    ],
+    "events": [
+      { "title": "霍去病河西大捷", "description": "霍去病率万骑出陇西，越焉支山（今甘肃胭脂山）千余里，斩首八千九百，缴获休屠王祭天金人。同年夏再出陇西、北地，深入祁连山，俘获匈奴单桓王、酋涂王等，斩首三万余人。", "latitude": 38.0, "longitude": 100.0, "category": "军事", "region": "西汉", "continent": "亚洲" },
+      { "title": "匈奴浑邪王降汉", "description": "匈奴浑邪王和休屠王因屡败于霍去病，单于欲诛之。浑邪王杀休屠王，率四万余部众降汉。汉武帝在河西走廊设立武威、张掖、酒泉、敦煌四郡，打通了通往西域的通道。", "latitude": 38.0, "longitude": 100.0, "category": "军事", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -119,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元狩四年" }
+    ],
+    "events": [
+      { "title": "漠北之战", "description": "汉武帝派卫青和霍去病各率五万骑兵分路出击漠北。卫青在漠北遭遇单于主力，击败单于迫其远遁；霍去病出代郡两千余里，击败左贤王，封狼居胥山（今蒙古肯特山）。此战使匈奴远遁漠北，'漠南无王庭'。", "latitude": 45.0, "longitude": 110.0, "category": "军事", "region": "西汉", "continent": "亚洲" },
+      { "title": "霍去病封狼居胥", "description": "霍去病在漠北之战后于狼居胥山筑坛祭天，庆祝大捷。他追击匈奴至瀚海（今贝加尔湖）而还。封狼居胥成为后世中国武将的最高荣誉象征。霍去病时年仅二十二岁。", "latitude": 48.0, "longitude": 108.0, "category": "军事", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -118,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元狩五年" }
+    ],
+    "events": [
+      { "title": "汉武帝币制改革", "description": "汉武帝推行币制改革，废除半两钱，推行五铢钱。此钱币轻重适中、形制规范，成为此后七百年中国流通最稳定的货币。同时禁止各郡国私自铸币，由中央统一铸造。", "latitude": 34.3, "longitude": 108.9, "category": "经济", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -117,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元狩六年" }
+    ],
+    "events": [
+      { "title": "霍去病英年早逝", "description": "西汉名将霍去病年仅二十四岁因病去世。他曾率军六次出击匈奴，每战必胜，留下'匈奴未灭，何以家为'的千古名言。汉武帝调遣五万铁甲军为其送葬，墓葬形如祁连山。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -115,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元鼎二年" }
+    ],
+    "events": [
+      { "title": "张骞二次出使西域", "description": "张骞奉命再次出使西域，率三百人、携带大量金币丝绸前往乌孙。他派副使分别前往大宛、康居、大月氏、安息、身毒等国。西域各国陆续派使团回访长安，丝绸之路正式开通。", "latitude": 43.0, "longitude": 80.0, "category": "外交", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -113,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元鼎四年" }
+    ],
+    "events": [
+      { "title": "南越国内乱", "description": "南越国王赵兴年幼，其母樛太后主张内属汉朝，但南越丞相吕嘉坚决反对。吕嘉发动政变杀死赵兴和樛太后，立建德为王。汉武帝闻讯后准备大举征讨南越。", "latitude": 23.1, "longitude": 113.3, "category": "政治", "region": "南越国", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -112,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元鼎五年" }
+    ],
+    "events": [
+      { "title": "朱古达战争", "description": "北非努米底亚国王朱古达与罗马发生战争。朱古达通过贿赂罗马元老和将军，多次击败罗马军队，甚至迫使罗马签订屈辱和约。此事暴露了罗马共和国的严重腐败。", "latitude": 35.0, "longitude": 6.0, "category": "军事", "region": "努米底亚", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -111,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元鼎六年" }
+    ],
+    "events": [
+      { "title": "汉灭南越", "description": "汉武帝派路博德、杨仆率楼船水师十万分路南下，攻破南越国都番禺（今广州）。南越王赵建德和丞相吕嘉被俘，南越国灭亡。汉朝在其地设立南海、苍梧、郁林等九郡，岭南正式纳入中国版图。", "latitude": 23.1, "longitude": 113.3, "category": "军事", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -110,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元封元年" }
+    ],
+    "events": [
+      { "title": "汉武帝泰山封禅", "description": "汉武帝率领十八万骑兵东巡至泰山举行封禅大典，在泰山顶祭天、梁父山祭地。这是西汉历史上最盛大的一次封禅仪式，武帝自以为功德可与上古圣王媲美。", "latitude": 36.3, "longitude": 117.1, "category": "宗教", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -109,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元封二年" }
+    ],
+    "events": [
+      { "title": "汉朝远征朝鲜", "description": "汉武帝派楼船将军杨仆和左将军荀彧率水陆大军五万远征卫氏朝鲜。朝鲜王卫右渠据险抵抗。经过数月作战，汉军最终攻破王俭城（今平壤），卫氏朝鲜灭亡，汉朝在此设立乐浪、临屯等四郡。", "latitude": 39.0, "longitude": 125.5, "category": "军事", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -108,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元封三年" }
+    ],
+    "events": [
+      { "title": "罗马军改", "description": "罗马执政官马略进行军事改革，废除公民兵制，改为募兵制。由国家装备士兵，服役期十六年，退役后分给土地。改革解决了兵源不足问题，但也使士兵效忠将领而非国家。", "latitude": 41.9, "longitude": 12.5, "category": "军事", "region": "罗马共和国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -107,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元封四年" }
+    ],
+    "events": [
+      { "title": "汉朝与安息通使", "description": "张骞副使抵达安息帝国（帕提亚），安息国王遣两万骑迎于边境，盛情款待后派使团回访长安。汉朝与安息建立正式外交关系，丝绸之路东西两端的主要大国实现了直接联系。", "latitude": 34.3, "longitude": 108.9, "category": "外交", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -106,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元封五年" }
+    ],
+    "events": [
+      { "title": "汉武帝设十三刺史部", "description": "汉武帝将全国分为十三州部（监察区），每州设刺史一人，负责监察郡国官员的贪腐和失职行为。刺史秩仅六百石，但可监察二千石的高官，以小制大，加强了中央对地方的控制。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -105,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "元封六年" }
+    ],
+    "events": [
+      { "title": "罗马奇姆布利战争", "description": "日耳曼部落奇姆布利人和条顿人大规模迁徙至罗马边境。罗马执政官马略被任命为统帅，对军队进行严格训练，准备迎战这些蛮族部落。", "latitude": 43.5, "longitude": 4.0, "category": "军事", "region": "罗马共和国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -104,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "太初元年" }
+    ],
+    "events": [
+      { "title": "司马迁开始撰写《史记》", "description": "司马迁在其父司马谈去世后继任太史令，开始着手编纂《史记》。他'究天人之际，通古今之变，成一家之言'，历时十余年完成了这部上起黄帝、下至汉武帝的三千年通史巨著。", "latitude": 34.3, "longitude": 108.9, "category": "文化", "region": "西汉", "continent": "亚洲" },
+      { "title": "汉武帝改历颁《太初历》", "description": "汉武帝命邓平、落下闳等人制定《太初历》，以正月为岁首，采用夏正建寅，废除秦历以十月为岁首的旧制。这部历法更加精密，是中国古代历法史上的重要里程碑。", "latitude": 34.3, "longitude": 108.9, "category": "科技", "region": "西汉", "continent": "亚洲" },
+      { "title": "李广利征大宛", "description": "汉武帝因大宛不肯献出汗血宝马，拜李广利为贰师将军率数万人远征大宛。因沿途补给困难，李广利初战不利，退至敦煌。武帝大怒，下令不许入关。", "latitude": 40.5, "longitude": 75.0, "category": "军事", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -102,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "太初三年" }
+    ],
+    "events": [
+      { "title": "李广利再征大宛", "description": "汉武帝增兵六万及大量物资，再命李广利远征大宛。此次汉军兵多粮足，沿途西域各国纷纷提供补给。大宛贵族杀国王毋寡求和，汉军获得汗血宝马数十匹、中马以下三千余匹。", "latitude": 40.5, "longitude": 75.0, "category": "军事", "region": "西汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -101,
+    "dynasties": [
+      { "dynastyId": "xihan", "name": "西汉", "ruler": "汉武帝刘彻", "era": "太初四年" }
+    ],
+    "events": [
+      { "title": "汉朝设立西域都护府前奏", "description": "大宛征服后，西域诸国震动，纷纷遣使朝贡汉朝。汉朝在西域轮台、渠犁等地设置屯田校尉。这为后来汉宣帝时期正式设立西域都护府奠定了基础，西域开始纳入汉朝势力范围。", "latitude": 41.0, "longitude": 83.0, "category": "政治", "region": "西汉", "continent": "亚洲" },
+      { "title": "韦尔凯莱战役", "description": "罗马执政官马略与卡图卢斯在韦尔凯莱（今意大利北部）击败日耳曼奇姆布利部落。奇姆布利人几乎全军覆没，约九万人被杀。马略连败条顿人和奇姆布利人，成为罗马的救星。", "latitude": 45.0, "longitude": 8.0, "category": "军事", "region": "罗马共和国", "continent": "欧洲" }
+    ]
+  }
+]

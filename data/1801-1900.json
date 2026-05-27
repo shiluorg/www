@@ -1,0 +1,1076 @@
+[
+  {
+    "year": 1801,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清仁宗爱新觉罗颙琰", "era": "嘉庆六年" }
+    ],
+    "events": [
+      { "title": "第一次巴巴里战争", "description": "美国与新独立但海盗猖獗的北非巴巴里诸国爆发冲突，美国派遣海军远征地中海，首次展示其海外军事力量。", "latitude": 32.9, "longitude": 13.2, "category": "军事", "region": "的黎波里", "continent": "非洲" },
+      { "title": "爱尔兰正式并入英国", "description": "根据《1800年联合法案》，爱尔兰与大不列颠正式合并，成立大不列颠及爱尔兰联合王国，取消爱尔兰议会。", "latitude": 53.3, "longitude": -6.3, "category": "政治", "region": "大不列颠", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1802,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清仁宗爱新觉罗颙琰", "era": "嘉庆七年" }
+    ],
+    "events": [
+      { "title": "《亚眠和约》签订", "description": "英国与法国在亚眠签订和约，第二次反法同盟战争结束，欧洲暂时获得和平，但仅持续一年即破裂。", "latitude": 49.9, "longitude": 2.3, "category": "外交", "region": "法兰西", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1803,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清仁宗爱新觉罗颙琰", "era": "嘉庆八年" }
+    ],
+    "events": [
+      { "title": "路易斯安那购地", "description": "美国以1500万美元从法国手中购买了约214万平方公里的路易斯安那领土，使美国领土面积扩大一倍，为西进运动铺平道路。", "latitude": 38.9, "longitude": -77.0, "category": "政治", "region": "美国", "continent": "北美洲" },
+      { "title": "英法战争再起", "description": "《亚眠和约》破裂，英国向法国宣战，拿破仑战争进入新阶段，拿破仑集结大军准备入侵英国。", "latitude": 48.9, "longitude": 2.3, "category": "军事", "region": "法兰西", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1804,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清仁宗爱新觉罗颙琰", "era": "嘉庆九年" }
+    ],
+    "events": [
+      { "title": "拿破仑称帝", "description": "拿破仑·波拿巴在巴黎圣母院加冕为法兰西帝国皇帝，称拿破仑一世，法兰西第一帝国建立，法国从共和国变为帝国。", "latitude": 48.9, "longitude": 2.3, "category": "政治", "region": "法兰西", "continent": "欧洲" },
+      { "title": "海地独立", "description": "海地在杜桑·卢维杜尔领导下击败法国远征军，正式宣布独立，成为世界上第一个黑人共和国和拉丁美洲第一个独立国家。", "latitude": 18.5, "longitude": -72.3, "category": "政治", "region": "海地", "continent": "北美洲" },
+      { "title": "塞尔维亚起义", "description": "塞尔维亚人在卡拉乔治领导下发动反对奥斯曼帝国统治的武装起义，开启了塞尔维亚民族独立运动的序幕。", "latitude": 44.8, "longitude": 20.5, "category": "军事", "region": "塞尔维亚", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1805,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清仁宗爱新觉罗颙琰", "era": "嘉庆十年" }
+    ],
+    "events": [
+      { "title": "特拉法加海战", "description": "英国海军上将纳尔逊在西班牙特拉法加角大败法西联合舰队，粉碎了拿破仑入侵英国的计划，确立了英国此后百余年的海上霸权。", "latitude": 36.2, "longitude": -6.0, "category": "军事", "region": "西班牙", "continent": "欧洲" },
+      { "title": "奥斯特里茨战役", "description": "拿破仑在奥斯特里茨以少胜多击败俄奥联军，第三次反法同盟瓦解，神圣罗马帝国随即灭亡，拿破仑成为欧洲大陆霸主。", "latitude": 49.2, "longitude": 16.8, "category": "军事", "region": "奥地利", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1806,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清仁宗爱新觉罗颙琰", "era": "嘉庆十一年" }
+    ],
+    "events": [
+      { "title": "神圣罗马帝国灭亡", "description": "奥地利皇帝弗朗茨二世放弃神圣罗马帝国皇帝称号，延续近千年的神圣罗马帝国正式终结，德意志地区进入重组时期。", "latitude": 48.2, "longitude": 16.4, "category": "政治", "region": "奥地利", "continent": "欧洲" },
+      { "title": "拿破仑推行大陆封锁", "description": "拿破仑颁布《柏林敕令》，宣布封锁不列颠群岛，禁止欧洲大陆各国与英国通商，企图以经济战拖垮英国。", "latitude": 52.5, "longitude": 13.4, "category": "外交", "region": "普鲁士", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1807,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清仁宗爱新觉罗颙琰", "era": "嘉庆十二年" }
+    ],
+    "events": [
+      { "title": "富尔顿蒸汽船试航", "description": "美国发明家富尔顿设计制造的\"克莱蒙特号\"蒸汽轮船在哈德逊河成功试航，标志着蒸汽动力船舶正式投入商业运营。", "latitude": 40.7, "longitude": -74.0, "category": "科技", "region": "美国", "continent": "北美洲" },
+      { "title": "英国废除奴隶贸易", "description": "英国议会通过《废除奴隶贸易法案》，禁止英国船只参与奴隶贸易，成为全球第一个立法废除奴隶贸易的国家。", "latitude": 51.5, "longitude": -0.1, "category": "社会", "region": "大不列颠", "continent": "欧洲" },
+      { "title": "提尔西特和约", "description": "拿破仑与俄国沙皇亚历山大一世在提尔西特签订和约，法俄结盟分割欧洲，普鲁士遭受重创，领土大幅削减。", "latitude": 55.0, "longitude": 21.9, "category": "外交", "region": "普鲁士", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1808,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清仁宗爱新觉罗颙琰", "era": "嘉庆十三年" }
+    ],
+    "events": [
+      { "title": "西班牙半岛战争爆发", "description": "拿破仑入侵西班牙并扶植其兄约瑟夫为西班牙国王，西班牙人民奋起反抗，英军也进入半岛作战，战争持续六年。", "latitude": 40.4, "longitude": -3.7, "category": "军事", "region": "西班牙", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1809,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清仁宗爱新觉罗颙琰", "era": "嘉庆十四年" }
+    ],
+    "events": [
+      { "title": "瓦格拉姆战役", "description": "拿破仑在维也纳附近瓦格拉姆击败奥地利军队，第五次反法同盟瓦解，奥地利被迫割地求和，法兰西帝国达到全盛。", "latitude": 48.3, "longitude": 16.6, "category": "军事", "region": "奥地利", "continent": "欧洲" },
+      { "title": "达尔文诞辰", "description": "查尔斯·达尔文出生于英国什鲁斯伯里，他后来创立进化论，以《物种起源》震撼世界，彻底改变了人类对生命起源的认识。", "latitude": 52.7, "longitude": -2.8, "category": "文化", "region": "大不列颠", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1810,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清仁宗爱新觉罗颙琰", "era": "嘉庆十五年" }
+    ],
+    "events": [
+      { "title": "拉丁美洲独立运动开始", "description": "墨西哥在多洛雷斯发出\"独立呼声\"，委内瑞拉、阿根廷等地相继爆发反抗西班牙殖民统治的武装起义，拉美独立战争全面展开。", "latitude": 19.4, "longitude": -99.1, "category": "政治", "region": "墨西哥", "continent": "北美洲" },
+      { "title": "柏林大学创立", "description": "德国教育改革家洪堡创办柏林大学，倡导教学与研究相结合的理念，成为现代研究型大学的典范，影响深远。", "latitude": 52.5, "longitude": 13.4, "category": "文化", "region": "普鲁士", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1811,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清仁宗爱新觉罗颙琰", "era": "嘉庆十六年" }
+    ],
+    "events": [
+      { "title": "巴拉圭独立", "description": "巴拉圭脱离西班牙殖民统治宣布独立，成为拉丁美洲最早独立的国家之一，由当地土生白人领导建立新政权。", "latitude": -25.3, "longitude": -57.6, "category": "政治", "region": "巴拉圭", "continent": "南美洲" },
+      { "title": "英国卢德运动", "description": "英国诺丁汉等地纺织工人因失业和低薪发起大规模捣毁机器运动，史称\"卢德运动\"，反映了工业革命带来的社会矛盾。", "latitude": 53.0, "longitude": -1.2, "category": "社会", "region": "大不列颠", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1812,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清仁宗爱新觉罗颙琰", "era": "嘉庆十七年" }
+    ],
+    "events": [
+      { "title": "拿破仑侵俄失败", "description": "拿破仑率60万大军入侵俄国，俄军采取坚壁清野战术，法军攻入莫斯科后遭大火焚城，最终大败而退，损失惨重。", "latitude": 55.8, "longitude": 37.6, "category": "军事", "region": "俄罗斯", "continent": "欧洲" },
+      { "title": "美英战争（1812年战争）", "description": "美国因英国强征美国水手和封锁贸易而向英国宣战，美军进攻加拿大失败，英军一度火烧华盛顿，被称为第二次独立战争。", "latitude": 38.9, "longitude": -77.0, "category": "军事", "region": "美国", "continent": "北美洲" },
+      { "title": "《格林童话》首卷出版", "description": "格林兄弟整理出版的《儿童与家庭童话集》首卷问世，收录了众多德国民间童话故事，成为世界文化遗产。", "latitude": 50.1, "longitude": 8.7, "category": "文化", "region": "德意志", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1813,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清仁宗爱新觉罗颙琰", "era": "嘉庆十八年" }
+    ],
+    "events": [
+      { "title": "莱比锡战役（民族大会战）", "description": "俄、普、奥、瑞典联军在莱比锡大败拿破仑军队，法军损失惨重，此役为拿破仑战争决定性一役，法兰西帝国开始崩溃。", "latitude": 51.3, "longitude": 12.4, "category": "军事", "region": "萨克森", "continent": "欧洲" },
+      { "title": "天理教起义", "description": "天理教农民起义军在林清率领下攻入紫禁城，史称\"癸酉之变\"，震动清廷，后被清军镇压。", "latitude": 39.9, "longitude": 116.4, "category": "军事", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1814,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清仁宗爱新觉罗颙琰", "era": "嘉庆十九年" }
+    ],
+    "events": [
+      { "title": "拿破仑退位", "description": "反法联军攻入巴黎，拿破仑被迫签署《枫丹白露条约》宣布退位，被流放至地中海厄尔巴岛，波旁王朝复辟。", "latitude": 48.4, "longitude": 2.7, "category": "政治", "region": "法兰西", "continent": "欧洲" },
+      { "title": "维也纳会议召开", "description": "欧洲各国在维也纳召开会议，由奥地利首相梅特涅主持，重新划分欧洲政治版图，确立\"正统原则\"和维也纳体系。", "latitude": 48.2, "longitude": 16.4, "category": "外交", "region": "奥地利", "continent": "欧洲" },
+      { "title": "史蒂芬孙蒸汽机车", "description": "英国工程师史蒂芬孙研制出第一台实用的蒸汽机车\"布鲁彻号\"，为现代铁路运输技术奠定了基础。", "latitude": 54.9, "longitude": -1.6, "category": "科技", "region": "大不列颠", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1815,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清仁宗爱新觉罗颙琰", "era": "嘉庆二十年" }
+    ],
+    "events": [
+      { "title": "滑铁卢战役", "description": "拿破仑从厄尔巴岛逃回法国，重掌政权（百日王朝），但在比利时滑铁卢被英普联军彻底击败，再次退位并被流放圣赫勒拿岛。", "latitude": 50.7, "longitude": 4.4, "category": "军事", "region": "比利时", "continent": "欧洲" },
+      { "title": "维也纳体系确立", "description": "维也纳会议签署《最后议定书》，建立以俄、奥、普、英四强为核心的欧洲协调机制，维持了欧洲近百年的均势格局。", "latitude": 48.2, "longitude": 16.4, "category": "外交", "region": "奥地利", "continent": "欧洲" },
+      { "title": "德意志邦联成立", "description": "根据维也纳会议决议，德意志邦联正式成立，由39个德意志邦国组成，以奥地利为主导，取代了已灭亡的神圣罗马帝国。", "latitude": 50.1, "longitude": 8.7, "category": "政治", "region": "德意志", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1816,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清仁宗爱新觉罗颙琰", "era": "嘉庆二十一年" }
+    ],
+    "events": [
+      { "title": "无夏之年", "description": "印尼坦博拉火山前年大爆发导致全球气候剧变，1816年成为\"无夏之年\"，北半球多地夏季霜冻，农业歉收引发全球性饥荒。", "latitude": -8.3, "longitude": 118.0, "category": "社会", "region": "荷属东印度", "continent": "亚洲" },
+      { "title": "阿根廷独立", "description": "拉普拉塔联合省（阿根廷）在图库曼宣布正式脱离西班牙独立，圣马丁领导了南美南部的解放运动。", "latitude": -34.6, "longitude": -58.4, "category": "政治", "region": "阿根廷", "continent": "南美洲" }
+    ]
+  },
+  {
+    "year": 1817,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清仁宗爱新觉罗颙琰", "era": "嘉庆二十二年" }
+    ],
+    "events": [
+      { "title": "智利独立", "description": "圣马丁率领安第斯军翻越安第斯山脉，在查卡布科战役中击败西班牙军队，智利随后宣布独立。", "latitude": -33.4, "longitude": -70.6, "category": "政治", "region": "智利", "continent": "南美洲" },
+      { "title": "密西西比州加入美国", "description": "密西西比州成为美国第20个州，美国西进运动持续推进，南方棉花种植园经济进一步扩张。", "latitude": 32.3, "longitude": -90.2, "category": "政治", "region": "美国", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1818,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清仁宗爱新觉罗颙琰", "era": "嘉庆二十三年" }
+    ],
+    "events": [
+      { "title": "智利正式宣布独立", "description": "智利在奥希金斯领导下正式宣布独立，西班牙在南美的殖民统治进一步瓦解，圣马丁继续北上解放秘鲁。", "latitude": -33.4, "longitude": -70.6, "category": "政治", "region": "智利", "continent": "南美洲" },
+      { "title": "美英《1818年公约》", "description": "美国与英国签订公约，确定北纬49度线为美国与加拿大之间的边界，并规定俄勒冈地区由两国共管十年。", "latitude": 38.9, "longitude": -77.0, "category": "外交", "region": "美国", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1819,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清仁宗爱新觉罗颙琰", "era": "嘉庆二十四年" }
+    ],
+    "events": [
+      { "title": "新加坡开埠", "description": "英国东印度公司官员斯坦福·莱佛士在马来半岛南端的新加坡建立贸易站，将其发展为英国在远东的重要自由贸易港。", "latitude": 1.3, "longitude": 103.8, "category": "经济", "region": "英属海峡殖民地", "continent": "亚洲" },
+      { "title": "美国经济恐慌", "description": "美国爆发首次大规模经济危机（1819年恐慌），银行大量倒闭，失业率上升，但推动了美国国内工业化的反思与调整。", "latitude": 38.9, "longitude": -77.0, "category": "经济", "region": "美国", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1820,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清仁宗爱新觉罗颙琰", "era": "嘉庆二十五年" }
+    ],
+    "events": [
+      { "title": "嘉庆帝驾崩", "description": "清仁宗嘉庆帝在热河避暑山庄去世，皇次子旻宁继位，是为道光帝，清朝开始步入道光时代，国势日衰。", "latitude": 40.1, "longitude": 117.9, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "玻利瓦尔解放新格拉纳达", "description": "玻利瓦尔率领革命军在博亚卡战役大败西班牙军队，解放了新格拉纳达（今哥伦比亚），推动南美独立进程。", "latitude": 4.6, "longitude": -74.1, "category": "军事", "region": "哥伦比亚", "continent": "南美洲" },
+      { "title": "《密苏里妥协案》", "description": "美国国会通过《密苏里妥协案》，密苏里以蓄奴州加入联邦，同时划定北纬36度30分线以北禁止奴隶制，暂时缓解南北矛盾。", "latitude": 38.6, "longitude": -92.2, "category": "政治", "region": "美国", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1821,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光元年" }
+    ],
+    "events": [
+      { "title": "拿破仑去世", "description": "被流放至南大西洋圣赫勒拿岛的拿破仑一世病逝，终年51岁，一代枭雄落幕，法国和欧洲进入后拿破仑时代。", "latitude": -15.9, "longitude": -5.7, "category": "政治", "region": "圣赫勒拿岛", "continent": "非洲" },
+      { "title": "墨西哥独立", "description": "墨西哥在伊图尔维德领导下宣布脱离西班牙独立，建立墨西哥第一帝国，中美洲各省随后也宣布独立。", "latitude": 19.4, "longitude": -99.1, "category": "政治", "region": "墨西哥", "continent": "北美洲" },
+      { "title": "希腊独立战争爆发", "description": "希腊人民发动反对奥斯曼帝国统治的民族独立战争，欧洲各国涌现\"亲希腊主义\"浪潮，拜伦等志愿者前往支援。", "latitude": 38.0, "longitude": 23.7, "category": "军事", "region": "希腊", "continent": "欧洲" },
+      { "title": "秘鲁独立", "description": "圣马丁在利马宣布秘鲁独立，获封\"护国公\"，西班牙在南美的殖民势力遭到决定性打击。", "latitude": -12.0, "longitude": -77.0, "category": "政治", "region": "秘鲁", "continent": "南美洲" }
+    ]
+  },
+  {
+    "year": 1822,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光二年" }
+    ],
+    "events": [
+      { "title": "巴西独立", "description": "葡萄牙王子佩德罗在巴西宣布独立，自立为巴西皇帝佩德罗一世，巴西成为君主立宪制帝国，脱离葡萄牙殖民统治。", "latitude": -15.8, "longitude": -47.9, "category": "政治", "region": "巴西", "continent": "南美洲" },
+      { "title": "厄瓜多尔、委内瑞拉独立", "description": "玻利瓦尔在皮钦查战役大胜后解放基多（厄瓜多尔），大哥伦比亚共和国成立，包括委内瑞拉、哥伦比亚和厄瓜多尔。", "latitude": -0.2, "longitude": -78.5, "category": "政治", "region": "厄瓜多尔", "continent": "南美洲" }
+    ]
+  },
+  {
+    "year": 1823,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光三年" }
+    ],
+    "events": [
+      { "title": "门罗主义提出", "description": "美国总统门罗在国情咨文中提出\"门罗主义\"，宣称美洲不再受欧洲殖民，欧洲不得干涉美洲事务，美国也不干涉欧洲事务。", "latitude": 38.9, "longitude": -77.0, "category": "外交", "region": "美国", "continent": "北美洲" },
+      { "title": "中美洲联邦成立", "description": "原属西班牙的中美洲各省组建中美洲联邦共和国，包括危地马拉、萨尔瓦多、尼加拉瓜、洪都拉斯和哥斯达黎加。", "latitude": 14.6, "longitude": -90.5, "category": "政治", "region": "危地马拉", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1824,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光四年" }
+    ],
+    "events": [
+      { "title": "阿亚库乔战役", "description": "玻利瓦尔的部将苏克雷在秘鲁阿亚库乔大败西班牙军队，此役决定了西班牙在南美殖民统治的终结，被誉为\"南美独立战争决战\"。", "latitude": -13.2, "longitude": -74.2, "category": "军事", "region": "秘鲁", "continent": "南美洲" },
+      { "title": "缅甸战争爆发", "description": "英国东印度公司以边境冲突为由向缅甸宣战，第一次英缅战争爆发，英军攻入缅甸，缅甸被迫割地求和。", "latitude": 16.9, "longitude": 96.1, "category": "军事", "region": "缅甸", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1825,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光五年" }
+    ],
+    "events": [
+      { "title": "英国第一条铁路通车", "description": "英国斯托克顿至达灵顿的铁路正式通车，由史蒂芬孙设计的\"旅行号\"蒸汽机车牵引，这是世界上首条公共铁路。", "latitude": 54.6, "longitude": -1.6, "category": "科技", "region": "大不列颠", "continent": "欧洲" },
+      { "title": "玻利维亚独立", "description": "上秘鲁宣布独立，成立玻利维亚共和国，以解放者玻利瓦尔命名，成为南美洲最后一个脱离西班牙独立的共和国。", "latitude": -16.5, "longitude": -68.1, "category": "政治", "region": "玻利维亚", "continent": "南美洲" },
+      { "title": "十二月党人起义", "description": "俄国一批受西方自由思想影响的贵族军官趁亚历山大一世去世之际发动武装起义，要求废除农奴制和实行立宪，被镇压。", "latitude": 59.9, "longitude": 30.3, "category": "政治", "region": "俄罗斯", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1826,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光六年" }
+    ],
+    "events": [
+      { "title": "奥斯曼帝国镇压近卫军", "description": "奥斯曼苏丹马哈茂德二世镇压叛乱的近卫军（耶尼切里），将其废除并建立现代化新军，为坦齐马特改革铺平道路。", "latitude": 41.0, "longitude": 29.0, "category": "军事", "region": "奥斯曼帝国", "continent": "欧洲" },
+      { "title": "美国第二任总统亚当斯与昆西就职", "description": "约翰·昆西·亚当斯就任美国第6任总统，其任内推动国家内部改善和科学探索，但政绩平平。", "latitude": 38.9, "longitude": -77.0, "category": "政治", "region": "美国", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1827,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光七年" }
+    ],
+    "events": [
+      { "title": "纳瓦里诺海战", "description": "英、法、俄联合舰队在希腊纳瓦里诺湾全歼奥斯曼-埃及联合舰队，希腊独立战争获得决定性转折，奥斯曼海军遭到毁灭性打击。", "latitude": 36.9, "longitude": 21.7, "category": "军事", "region": "希腊", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1828,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光八年" }
+    ],
+    "events": [
+      { "title": "美国民主党成立", "description": "安德鲁·杰克逊的支持者组建民主党，这是美国历史上最悠久的政党之一，杰克逊随后在1829年就任总统。", "latitude": 38.9, "longitude": -77.0, "category": "政治", "region": "美国", "continent": "北美洲" },
+      { "title": "俄土战争爆发", "description": "俄国以保护东正教徒为由向奥斯曼帝国宣战，俄军越过巴尔干山脉，迫使奥斯曼帝国承认希腊独立并给予俄国特权。", "latitude": 41.0, "longitude": 29.0, "category": "军事", "region": "奥斯曼帝国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1829,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光九年" }
+    ],
+    "events": [
+      { "title": "希腊独立获得承认", "description": "奥斯曼帝国在俄军逼压下承认希腊独立，希腊成为欧洲首个脱离奥斯曼统治而独立的民族国家。", "latitude": 38.0, "longitude": 23.7, "category": "政治", "region": "希腊", "continent": "欧洲" },
+      { "title": "安德鲁·杰克逊就任总统", "description": "安德鲁·杰克逊就任美国第7任总统，开创\"杰克逊民主\"时代，强化总统权力，推行\"分赃制\"，印地安人迁移法案通过。", "latitude": 38.9, "longitude": -77.0, "category": "政治", "region": "美国", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1830,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光十年" }
+    ],
+    "events": [
+      { "title": "法国七月革命", "description": "法国人民不满查理十世的反动统治，在巴黎发动七月革命，推翻复辟的波旁王朝，奥尔良公爵路易·菲利普上台建立七月王朝。", "latitude": 48.9, "longitude": 2.3, "category": "政治", "region": "法兰西", "continent": "欧洲" },
+      { "title": "比利时独立", "description": "比利时受法国七月革命影响发动起义，脱离荷兰统治宣布独立，被欧洲各国承认，成为永久中立国，利奥波德一世为首任国王。", "latitude": 50.8, "longitude": 4.4, "category": "政治", "region": "比利时", "continent": "欧洲" },
+      { "title": "华沙起义", "description": "波兰人民在华沙发动反抗俄国统治的十一月起义，成立临时政府，后在俄军优势兵力镇压下失败，波兰王国自治权被大幅削减。", "latitude": 52.2, "longitude": 21.0, "category": "军事", "region": "波兰", "continent": "欧洲" },
+      { "title": "张格尔之乱平定", "description": "清军在新疆平定张格尔叛乱，张格尔在英国唆使下在喀什噶尔发动叛乱，被长龄等率清军擒获。", "latitude": 39.5, "longitude": 76.0, "category": "军事", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1831,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光十一年" }
+    ],
+    "events": [
+      { "title": "法拉第电磁感应发现", "description": "英国科学家法拉第通过实验发现电磁感应现象，为发电机和电动机的发明奠定了物理学基础，推动了第二次工业革命。", "latitude": 51.5, "longitude": -0.1, "category": "科技", "region": "大不列颠", "continent": "欧洲" },
+      { "title": "意大利统一运动（青年意大利）", "description": "意大利民族主义领袖马志尼在马赛创建\"青年意大利\"组织，致力于推动意大利统一和建立共和国，激发民族意识。", "latitude": 45.5, "longitude": 9.2, "category": "政治", "region": "意大利", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1832,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光十二年" }
+    ],
+    "events": [
+      { "title": "英国议会改革法案", "description": "英国议会通过《1832年改革法案》，重新分配议会席位，扩大了工业资产阶级的选举权，标志着英国向民主政治迈进。", "latitude": 51.5, "longitude": -0.1, "category": "政治", "region": "大不列颠", "continent": "欧洲" },
+      { "title": "黑鹰战争", "description": "美国与印第安索克族首领黑鹰之间爆发战争，美军击败印第安人，进一步夺取了伊利诺伊和威斯康星地区的土地。", "latitude": 41.9, "longitude": -87.6, "category": "军事", "region": "美国", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1833,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光十三年" }
+    ],
+    "events": [
+      { "title": "英国废除奴隶制", "description": "英国议会通过《废除奴隶制法案》，规定大英帝国各殖民地逐步废除奴隶制度，英国政府拨款2000万英镑补偿奴隶主。", "latitude": 51.5, "longitude": -0.1, "category": "社会", "region": "大不列颠", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1834,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光十四年" }
+    ],
+    "events": [
+      { "title": "德意志关税同盟成立", "description": "在普鲁士主导下，德意志各邦成立关税同盟，废除内部关税壁垒，统一对外关税，为德意志经济统一和政治统一奠定基础。", "latitude": 52.5, "longitude": 13.4, "category": "经济", "region": "普鲁士", "continent": "欧洲" },
+      { "title": "英国《新济贫法》", "description": "英国议会通过《新济贫法》，取消院外救济，建立济贫院制度，要求贫困者必须进入条件艰苦的济贫院才能获得救助。", "latitude": 51.5, "longitude": -0.1, "category": "社会", "region": "大不列颠", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1835,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光十五年" }
+    ],
+    "events": [
+      { "title": "阿拉莫战役", "description": "德克萨斯独立战争中，约200名德克萨斯守军在阿拉莫要塞与数千墨西哥军队激战13天后全部阵亡，成为德州独立的精神象征。", "latitude": 29.4, "longitude": -98.5, "category": "军事", "region": "德克萨斯", "continent": "北美洲" },
+      { "title": "托克维尔《论美国的民主》", "description": "法国思想家托克维尔出版《论美国的民主》第一卷，深入分析美国民主制度的运行机制，成为政治学经典著作。", "latitude": 48.9, "longitude": 2.3, "category": "文化", "region": "法兰西", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1836,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光十六年" }
+    ],
+    "events": [
+      { "title": "德克萨斯独立", "description": "德克萨斯在圣哈辛托战役中击败墨西哥军队，宣布成立德克萨斯共和国，萨姆·休斯顿当选首任总统，史称\"孤星共和国\"。", "latitude": 29.8, "longitude": -95.4, "category": "政治", "region": "德克萨斯", "continent": "北美洲" },
+      { "title": "英国宪章运动开始", "description": "英国工人阶级发起宪章运动，提出《人民宪章》，要求男性普选权、秘密投票等六项民主改革，是英国首次大规模工人运动。", "latitude": 51.5, "longitude": -0.1, "category": "社会", "region": "大不列颠", "continent": "欧洲" },
+      { "title": "大迁徙（南非）", "description": "荷兰裔布尔人不满英国殖民统治，开始大规模从开普殖民地向内陆迁徙，建立德兰士瓦和奥兰治自由邦等布尔共和国。", "latitude": -25.7, "longitude": 28.2, "category": "社会", "region": "南非", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": 1837,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光十七年" }
+    ],
+    "events": [
+      { "title": "维多利亚女王登基", "description": "英国女王维多利亚18岁登基，开启了长达63年的维多利亚时代，英国进入最强盛的时期，工业革命达到顶峰，帝国版图空前扩张。", "latitude": 51.5, "longitude": -0.1, "category": "政治", "region": "大不列颠", "continent": "欧洲" },
+      { "title": "日本大盐平八郎起义", "description": "日本大坂町奉行所代官大盐平八郎因不满幕府腐败和米价高涨，率贫民发动武装起义，虽迅速被镇压但动摇了幕府统治。", "latitude": 34.7, "longitude": 135.5, "category": "社会", "region": "日本", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1838,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光十八年" }
+    ],
+    "events": [
+      { "title": "林则徐禁烟", "description": "道光帝任命林则徐为钦差大臣赴广东查禁鸦片，林则徐在广州严查烟贩，勒令外国商人交出鸦片，震动中外。", "latitude": 23.1, "longitude": 113.3, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "大迁徙路线开辟", "description": "美国俄勒冈小径正式开辟，成为美国东部移民向西迁徙的主要路线，推动了美国西进运动和西部开发。", "latitude": 45.5, "longitude": -122.7, "category": "社会", "region": "美国", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1839,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光十九年" }
+    ],
+    "events": [
+      { "title": "虎门销烟", "description": "林则徐在广东虎门海滩当众销毁收缴的鸦片237万余斤，历时23天，彰显了清政府禁烟的决心，也激化了中英矛盾。", "latitude": 22.8, "longitude": 113.6, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "第一次鸦片战争爆发", "description": "英国以虎门销烟为借口，派遣远征军抵达广东海面，发动第一次鸦片战争，近代中国屈辱史从此开始。", "latitude": 22.5, "longitude": 113.9, "category": "军事", "region": "清", "continent": "亚洲" },
+      { "title": "英国占领香港", "description": "英军攻占香港岛，作为其在远东的军事基地和贸易港口，此后《南京条约》正式割让香港。", "latitude": 22.3, "longitude": 114.2, "category": "政治", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1840,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光二十年" }
+    ],
+    "events": [
+      { "title": "鸦片战争全面展开", "description": "英国舰队封锁珠江口后北上，攻占定海，直逼天津大沽口，道光帝动摇，将林则徐革职，改派琦善与英军谈判。", "latitude": 30.0, "longitude": 122.1, "category": "军事", "region": "清", "continent": "亚洲" },
+      { "title": "上加拿大起义（合并）", "description": "英国议会通过《联合法案》，将上下加拿大合并为加拿大省，以解决殖民地政治危机，为未来加拿大联邦奠定基础。", "latitude": 45.4, "longitude": -75.7, "category": "政治", "region": "加拿大", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1841,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光二十一年" }
+    ],
+    "events": [
+      { "title": "香港割让", "description": "清钦差大臣琦善与英国代表义律签订《穿鼻草约》，同意割让香港岛并赔款，但道光帝拒绝批准并将琦善锁拿问罪。", "latitude": 22.3, "longitude": 114.2, "category": "外交", "region": "清", "continent": "亚洲" },
+      { "title": "三元里抗英", "description": "广州三元里村民自发组织抗英斗争，围攻英军四方炮台，打死打伤多名英军，是中国近代史上第一次民众大规模反侵略斗争。", "latitude": 23.2, "longitude": 113.3, "category": "军事", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1842,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光二十二年" }
+    ],
+    "events": [
+      { "title": "《南京条约》签订", "description": "清政府在英军炮口下签订中国近代史上第一个不平等条约《南京条约》，割让香港、赔款2100万银元、开放五口通商。", "latitude": 32.1, "longitude": 118.8, "category": "外交", "region": "清", "continent": "亚洲" },
+      { "title": "《巴达维亚条约》", "description": "英国与荷兰在巴达维亚签订条约，划定了两在东南亚的势力范围，英国承认荷兰对东印度群岛的统治权。", "latitude": -6.2, "longitude": 106.8, "category": "外交", "region": "荷属东印度", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1843,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光二十三年" }
+    ],
+    "events": [
+      { "title": "《五口通商章程》签订", "description": "清政府与英国签订《五口通商章程》作为《南京条约》补充条款，规定英国享有领事裁判权、最惠国待遇等特权。", "latitude": 31.2, "longitude": 121.5, "category": "外交", "region": "清", "continent": "亚洲" },
+      { "title": "洪秀全创立拜上帝教", "description": "洪秀全在广东花县创立拜上帝教，自称上帝次子，借基督教教义宣传反清思想，为太平天国运动奠定理论基础。", "latitude": 23.4, "longitude": 113.0, "category": "宗教", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1844,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光二十四年" }
+    ],
+    "events": [
+      { "title": "《望厦条约》签订", "description": "清政府与美国在澳门望厦签订《中美五口贸易章程》，美国获得与英国同等的在华特权，包括领事裁判权和最惠国待遇。", "latitude": 22.2, "longitude": 113.5, "category": "外交", "region": "清", "continent": "亚洲" },
+      { "title": "《黄埔条约》签订", "description": "清政府与法国在广州黄埔签订《中法五口贸易章程》，法国获得同样特权，还获准在通商口岸建造教堂和自由传教。", "latitude": 23.1, "longitude": 113.3, "category": "外交", "region": "清", "continent": "亚洲" },
+      { "title": "摩尔斯电码诞生", "description": "美国发明家摩尔斯从华盛顿向巴尔的摩发出人类历史上第一份长途电报，标志着现代电讯时代的开始。", "latitude": 38.9, "longitude": -77.0, "category": "科技", "region": "美国", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1845,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光二十五年" }
+    ],
+    "events": [
+      { "title": "美墨战争爆发", "description": "美国吞并德克萨斯后与墨西哥因边界争端爆发战争，美军从北、海两个方向入侵墨西哥，美国以胜利获得大片领土。", "latitude": 25.7, "longitude": -100.3, "category": "军事", "region": "墨西哥", "continent": "北美洲" },
+      { "title": "爱尔兰马铃薯饥荒", "description": "爱尔兰因马铃薯晚疫病导致连续数年歉收，大饥荒爆发，造成约百万人死亡、百万人移民海外，深刻改变了爱尔兰和美国的历史。", "latitude": 53.3, "longitude": -6.3, "category": "社会", "region": "爱尔兰", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1846,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光二十六年" }
+    ],
+    "events": [
+      { "title": "美墨战争扩大", "description": "美军占领加利福尼亚和新墨西哥，并在布埃纳维斯塔战役中击溃墨西哥军队，美国向太平洋沿岸迅速扩张。", "latitude": 34.1, "longitude": -118.2, "category": "军事", "region": "加利福尼亚", "continent": "北美洲" },
+      { "title": "英国废除《谷物法》", "description": "英国议会废除长期保护国内农业的《谷物法》，转向自由贸易政策，降低了粮食价格，有利于工业资产阶级和城市居民。", "latitude": 51.5, "longitude": -0.1, "category": "经济", "region": "大不列颠", "continent": "欧洲" },
+      { "title": "美国俄勒冈边界划定", "description": "美国与英国签订条约，以北纬49度线划定俄勒冈地区边界，美国获得了今华盛顿、俄勒冈、爱达荷等州领土。", "latitude": 45.5, "longitude": -122.7, "category": "外交", "region": "美国", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1847,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光二十七年" }
+    ],
+    "events": [
+      { "title": "美墨军队攻占墨西哥城", "description": "美军在斯科特将军率领下攻占墨西哥城，墨西哥投降，被迫接受和谈，美墨战争基本结束。", "latitude": 19.4, "longitude": -99.1, "category": "军事", "region": "墨西哥", "continent": "北美洲" },
+      { "title": "利比里亚独立", "description": "美国殖民协会在非洲西海岸建立的利比里亚宣布独立，成为非洲第一个独立的共和国，首府蒙罗维亚以美国总统门罗命名。", "latitude": 6.3, "longitude": -10.8, "category": "政治", "region": "利比里亚", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": 1848,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光二十八年" }
+    ],
+    "events": [
+      { "title": "《共产党宣言》发表", "description": "马克思和恩格斯受共产主义者同盟委托，在伦敦发表《共产党宣言》，提出\"全世界无产者联合起来\"的口号，标志科学社会主义诞生。", "latitude": 51.5, "longitude": -0.1, "category": "文化", "region": "大不列颠", "continent": "欧洲" },
+      { "title": "欧洲1848革命", "description": "法国二月革命推翻七月王朝，革命浪潮迅速席卷欧洲各国，奥地利、普鲁士、意大利等地相继爆发革命，各国震动。", "latitude": 48.9, "longitude": 2.3, "category": "政治", "region": "欧洲", "continent": "欧洲" },
+      { "title": "法国二月革命", "description": "巴黎人民发动起义推翻路易·菲利普的七月王朝，法兰西第二共和国建立，拿破仑之侄路易·波拿巴当选总统。", "latitude": 48.9, "longitude": 2.3, "category": "政治", "region": "法兰西", "continent": "欧洲" },
+      { "title": "加利福尼亚淘金热", "description": "美国加利福尼亚萨特磨坊发现黄金，消息传遍世界，掀起淘金热潮，数十万人涌向加州，促进了美国西部大开发。", "latitude": 38.6, "longitude": -121.0, "category": "经济", "region": "美国", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1849,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光二十九年" }
+    ],
+    "events": [
+      { "title": "罗马共和国建立", "description": "意大利革命中，马志尼和加里波第在罗马建立罗马共和国，推翻教皇世俗权力，但很快被法国干涉军推翻。", "latitude": 41.9, "longitude": 12.5, "category": "政治", "region": "意大利", "continent": "欧洲" },
+      { "title": "英国完全控制印度", "description": "英国吞并旁遮普地区，第二次锡克战争结束，英国东印度公司完成了对印度次大陆的全面征服。", "latitude": 31.6, "longitude": 74.9, "category": "政治", "region": "英属印度", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1850,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣宗爱新觉罗旻宁", "era": "道光三十年" }
+    ],
+    "events": [
+      { "title": "道光帝驾崩", "description": "清宣宗道光帝去世，皇四子奕詝继位，是为咸丰帝。咸丰帝即位时正值太平天国运动爆发前夕，清朝统治危机四伏。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "《1850年妥协案》", "description": "美国国会通过一系列妥协法案，包括更严厉的《逃奴追缉法》，以暂时缓和南北双方在奴隶制问题上的尖锐矛盾。", "latitude": 38.9, "longitude": -77.0, "category": "政治", "region": "美国", "continent": "北美洲" },
+      { "title": "太平天国起义准备", "description": "洪秀全发布\"团营令\"，号召各地拜上帝教信徒集中于广西金田村，准备武装起义，清朝空前规模的内战即将爆发。", "latitude": 23.1, "longitude": 109.3, "category": "政治", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1851,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清文宗爱新觉罗奕詝", "era": "咸丰元年" }
+    ],
+    "events": [
+      { "title": "金田起义", "description": "洪秀全在广西金田村正式发动起义，建号太平天国，自称天王，太平天国运动由此开始，迅速席卷半个中国。", "latitude": 23.1, "longitude": 109.3, "category": "军事", "region": "清", "continent": "亚洲" },
+      { "title": "伦敦万国工业博览会", "description": "英国在伦敦海德公园举办首届世界博览会，以水晶宫为展馆，展示工业革命成果，标志着英国工业强国地位达到顶峰。", "latitude": 51.5, "longitude": -0.2, "category": "经济", "region": "大不列颠", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1852,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清文宗爱新觉罗奕詝", "era": "咸丰二年" }
+    ],
+    "events": [
+      { "title": "太平军攻占武昌", "description": "太平军自永安突破清军围堵，北上攻占湖南岳州、湖北武昌，队伍迅速壮大至数十万人，声势震动全国。", "latitude": 30.6, "longitude": 114.3, "category": "军事", "region": "清", "continent": "亚洲" },
+      { "title": "法国路易·波拿巴称帝", "description": "法国总统路易·拿破仑·波拿巴效仿其伯父发动政变，随后称帝建立法兰西第二帝国，称拿破仑三世。", "latitude": 48.9, "longitude": 2.3, "category": "政治", "region": "法兰西", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1853,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清文宗爱新觉罗奕詝", "era": "咸丰三年" }
+    ],
+    "events": [
+      { "title": "太平军定都天京", "description": "太平军攻占南京，改称天京，正式建立与清朝对峙的政权。同年太平天国颁布《天朝田亩制度》，推行平均主义。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "黑船来航", "description": "美国东印度舰队司令佩里率四艘黑色军舰驶入江户湾浦贺港，向日本幕府递交国书要求开国，日本举国震惊。", "latitude": 35.3, "longitude": 139.6, "category": "外交", "region": "日本", "continent": "亚洲" },
+      { "title": "克里米亚战争爆发", "description": "俄国与奥斯曼帝国因圣地管辖权争议爆发冲突，英法为遏制俄国扩张加入奥斯曼一方，克里米亚战争全面爆发。", "latitude": 44.9, "longitude": 34.1, "category": "军事", "region": "克里米亚", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1854,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清文宗爱新觉罗奕詝", "era": "咸丰四年" }
+    ],
+    "events": [
+      { "title": "《美日神奈川条约》签订", "description": "日本幕府与美国签订《神奈川条约》（日美和亲条约），同意开放下田和箱馆两港，美国船只可补给，日本锁国体制瓦解。", "latitude": 35.3, "longitude": 139.5, "category": "外交", "region": "日本", "continent": "亚洲" },
+      { "title": "英法对俄宣战", "description": "英国和法国正式对俄国宣战，英法联军在克里米亚登陆，围攻俄国黑海舰队基地塞瓦斯托波尔要塞。", "latitude": 44.6, "longitude": 33.5, "category": "军事", "region": "克里米亚", "continent": "欧洲" },
+      { "title": "曾国藩组建湘军", "description": "曾国藩奉命在湖南组建团练，后发展成湘军，以儒家思想治军，成为后来镇压太平天国的主要军事力量。", "latitude": 28.2, "longitude": 113.0, "category": "军事", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1855,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清文宗爱新觉罗奕詝", "era": "咸丰五年" }
+    ],
+    "events": [
+      { "title": "塞瓦斯托波尔围城战", "description": "英法联军经过近一年围攻终于攻克塞瓦斯托波尔要塞，俄国战败已成定局，沙皇尼古拉一世在战局不利中去世。", "latitude": 44.6, "longitude": 33.5, "category": "军事", "region": "克里米亚", "continent": "欧洲" },
+      { "title": "尼亚加拉瀑布大桥通车", "description": "连接美国和加拿大的尼亚加拉瀑布铁路悬索桥建成通车，由德国移民工程师罗布林设计，是当时世界上最长的悬索桥。", "latitude": 43.1, "longitude": -79.1, "category": "科技", "region": "美国", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1856,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清文宗爱新觉罗奕詝", "era": "咸丰六年" }
+    ],
+    "events": [
+      { "title": "第二次鸦片战争（亚罗号事件）", "description": "广东水师在\"亚罗号\"商船上缉拿海盗，英国以此为借口发动第二次鸦片战争，法国以\"马神甫事件\"为由加入，组成英法联军。", "latitude": 23.1, "longitude": 113.3, "category": "军事", "region": "清", "continent": "亚洲" },
+      { "title": "天京事变", "description": "太平天国发生严重内讧，韦昌辉奉洪秀全密诏杀死杨秀清及部属两万余人，后又杀韦昌辉，石达开出走，天国由盛转衰。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "《巴黎和约》签订", "description": "克里米亚战争以俄国战败结束，《巴黎和约》签订，俄国放弃在黑海保有海军，欧洲列强将奥斯曼帝国纳入欧洲体系。", "latitude": 48.9, "longitude": 2.3, "category": "外交", "region": "法兰西", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1857,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清文宗爱新觉罗奕詝", "era": "咸丰七年" }
+    ],
+    "events": [
+      { "title": "印度民族大起义", "description": "印度士兵因使用涂有牛脂猪脂的子弹而率先起义，起义席卷印度北部和中部，德里被义军占领，英国统治震动。", "latitude": 28.6, "longitude": 77.2, "category": "军事", "region": "英属印度", "continent": "亚洲" },
+      { "title": "英法联军攻陷广州", "description": "英法联军攻占广州城，俘虏两广总督叶名琛，将其押往印度加尔各答，广州被联军占领长达四年。", "latitude": 23.1, "longitude": 113.3, "category": "军事", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1858,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清文宗爱新觉罗奕詝", "era": "咸丰八年" }
+    ],
+    "events": [
+      { "title": "《天津条约》签订", "description": "清政府与英法签订《天津条约》，开放更多通商口岸，允许外国公使驻京、外国人内地游历传教，赔款并修改关税。", "latitude": 39.1, "longitude": 117.2, "category": "外交", "region": "清", "continent": "亚洲" },
+      { "title": "《瑷珲条约》签订", "description": "黑龙江将军奕山与俄国签订《瑷珲条约》，割让黑龙江以北60万平方公里领土，乌苏里江以东地区由中俄共管。", "latitude": 49.9, "longitude": 127.5, "category": "外交", "region": "清", "continent": "亚洲" },
+      { "title": "印度转为英国直辖统治", "description": "英国议会通过《印度政府法》，东印度公司被解散，印度由英国政府直接统治，维多利亚女王兼任印度女皇。", "latitude": 28.6, "longitude": 77.2, "category": "政治", "region": "英属印度", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1859,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清文宗爱新觉罗奕詝", "era": "咸丰九年" }
+    ],
+    "events": [
+      { "title": "达尔文《物种起源》出版", "description": "达尔文经过二十余年研究出版《物种起源》，提出自然选择学说和进化论，引起科学界和社会巨大震动，颠覆了传统世界观。", "latitude": 51.5, "longitude": -0.1, "category": "科技", "region": "大不列颠", "continent": "欧洲" },
+      { "title": "大沽口之战", "description": "英法联军舰队企图从大沽口强行闯入海河前往北京，遭清军炮击和阻击，联军惨败，英法决定增兵报复。", "latitude": 38.9, "longitude": 117.7, "category": "军事", "region": "清", "continent": "亚洲" },
+      { "title": "意大利统一战争（索尔费里诺战役）", "description": "法国与撒丁王国联军在索尔费里诺击败奥地利军队，此战促使瑞士商人杜南创立红十字会，意大利统一进程加速。", "latitude": 45.2, "longitude": 10.6, "category": "军事", "region": "意大利", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1860,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清文宗爱新觉罗奕詝", "era": "咸丰十年" }
+    ],
+    "events": [
+      { "title": "英法联军焚毁圆明园", "description": "英法联军攻入北京，咸丰帝逃往热河。联军在圆明园大肆劫掠后纵火焚烧，将这座世界园林瑰宝化为灰烬。", "latitude": 40.0, "longitude": 116.3, "category": "军事", "region": "清", "continent": "亚洲" },
+      { "title": "《北京条约》签订", "description": "清政府与英法分别签订《北京条约》，增开天津为商埠、割让九龙司给英国、赔款并允许华工出国，俄国也获得乌苏里江以东领土。", "latitude": 39.9, "longitude": 116.4, "category": "外交", "region": "清", "continent": "亚洲" },
+      { "title": "美国林肯当选总统", "description": "亚伯拉罕·林肯当选美国第16任总统，其废奴主张引发南方各州强烈不满，南卡罗来纳州率先宣布脱离联邦。", "latitude": 38.9, "longitude": -77.0, "category": "政治", "region": "美国", "continent": "北美洲" },
+      { "title": "加里波第远征", "description": "意大利民族英雄加里波第率领\"千人红衫军\"远征西西里和那不勒斯，攻占西西里岛和意大利南部，推动意大利统一。", "latitude": 38.1, "longitude": 13.4, "category": "军事", "region": "意大利", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1861,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清文宗爱新觉罗奕詝", "era": "咸丰十一年" }
+    ],
+    "events": [
+      { "title": "咸丰帝驾崩", "description": "清文宗咸丰帝病逝于热河避暑山庄，年仅六岁的载淳继位，以\"祺祥\"为年号，肃顺等八大臣辅政，后慈禧发动政变夺取权力。", "latitude": 40.1, "longitude": 117.9, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "俄国废除农奴制", "description": "沙皇亚历山大二世颁布《废除农奴制法令》，宣布农奴获得人身自由和土地权利，俄国从此走上资本主义发展道路。", "latitude": 59.9, "longitude": 30.3, "category": "社会", "region": "俄罗斯", "continent": "欧洲" },
+      { "title": "美国内战爆发", "description": "南卡罗来纳州炮击联邦军萨姆特要塞，林肯宣布南军叛乱，美国南北战争正式爆发，成为美国历史上最惨烈的战争。", "latitude": 32.7, "longitude": -79.9, "category": "军事", "region": "美国", "continent": "北美洲" },
+      { "title": "辛酉政变（慈禧夺权）", "description": "慈禧太后联合恭亲王奕訢发动政变，逮捕肃顺等八位顾命大臣，废除祺祥年号改为同治，开始了慈禧实际统治中国的时代。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "总理各国事务衙门设立", "description": "清政府设立总理各国事务衙门（总理衙门），由奕訢主管，负责外交和洋务事宜，标志着清朝外交体制近代化的起步。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "意大利王国成立", "description": "意大利王国在撒丁王国主导下正式成立，维克托·伊曼纽尔二世为国王，加富尔为首相，仅剩威尼斯和罗马尚未统一。", "latitude": 45.1, "longitude": 7.1, "category": "政治", "region": "意大利", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1862,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清穆宗爱新觉罗载淳", "era": "同治元年" }
+    ],
+    "events": [
+      { "title": "洋务运动开始", "description": "以曾国藩、李鸿章、左宗棠为代表的洋务派发起\"自强求富\"运动，创办江南制造总局、福州船政局等近代军工企业。", "latitude": 31.2, "longitude": 121.5, "category": "经济", "region": "清", "continent": "亚洲" },
+      { "title": "美国《宅地法》颁布", "description": "林肯政府颁布《宅地法》，规定美国公民可免费获得160英亩西部土地，极大地促进了西部开发和农业发展。", "latitude": 38.9, "longitude": -77.0, "category": "政治", "region": "美国", "continent": "北美洲" },
+      { "title": "安提塔姆战役", "description": "美国内战中最为血腥的一天，北军在安提塔姆击败南军李将军的进攻，迫使李将军撤回弗吉尼亚，林肯借此发布解放宣言。", "latitude": 39.4, "longitude": -77.7, "category": "军事", "region": "美国", "continent": "北美洲" },
+      { "title": "俾斯麦就任普鲁士首相", "description": "奥托·冯·俾斯麦被任命为普鲁士首相，提出\"铁血政策\"，主张以武力统一德意志，开启了他的铁血宰相时代。", "latitude": 52.5, "longitude": 13.4, "category": "政治", "region": "普鲁士", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1863,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清穆宗爱新觉罗载淳", "era": "同治二年" }
+    ],
+    "events": [
+      { "title": "林肯《解放宣言》生效", "description": "林肯签署的《解放宣言》正式生效，宣布在叛乱各州的奴隶获得自由，标志着内战目标从维护联邦变为废除奴隶制。", "latitude": 38.9, "longitude": -77.0, "category": "政治", "region": "美国", "continent": "北美洲" },
+      { "title": "葛底斯堡战役", "description": "北军在南宾夕法尼亚葛底斯堡大败南军李将军主力，双方伤亡超过五万人，此役为美国内战的重大转折点。", "latitude": 39.8, "longitude": -77.2, "category": "军事", "region": "美国", "continent": "北美洲" },
+      { "title": "上海租界会审公廨设立", "description": "上海英美租界设立会审公廨，由外国领事参与审判涉洋案件，进一步侵犯了中国的司法主权。", "latitude": 31.2, "longitude": 121.5, "category": "外交", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1864,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清穆宗爱新觉罗载淳", "era": "同治三年" }
+    ],
+    "events": [
+      { "title": "天京陷落（太平天国灭亡）", "description": "湘军攻破太平天国首都天京（南京），太平军与清军巷战失利，洪秀全已病逝，幼天王逃亡后被俘，太平天国运动失败。", "latitude": 32.1, "longitude": 118.8, "category": "军事", "region": "清", "continent": "亚洲" },
+      { "title": "日内瓦公约签订", "description": "瑞士商人杜南推动的《改善战地武装部队伤者境遇的公约》（日内瓦公约）签订，国际红十字运动由此诞生。", "latitude": 46.2, "longitude": 6.1, "category": "外交", "region": "瑞士", "continent": "欧洲" },
+      { "title": "普丹战争（第二次石勒苏益格战争）", "description": "普鲁士和奥地利联合对丹麦宣战，丹麦战败被迫放弃石勒苏益格和荷尔斯泰因两公国，德意志统一迈出第一步。", "latitude": 54.8, "longitude": 9.4, "category": "军事", "region": "丹麦", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1865,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清穆宗爱新觉罗载淳", "era": "同治四年" }
+    ],
+    "events": [
+      { "title": "美国内战结束", "description": "南军总司令罗伯特·李在阿波马托克斯向北军总司令格兰特投降，历时四年的美国南北战争结束，联邦得以维护。", "latitude": 37.4, "longitude": -78.8, "category": "军事", "region": "美国", "continent": "北美洲" },
+      { "title": "林肯遇刺", "description": "美国总统林肯在华盛顿福特剧院被南方同情者布斯枪击，次日去世，成为美国历史上第一位遇刺身亡的总统。", "latitude": 38.9, "longitude": -77.0, "category": "政治", "region": "美国", "continent": "北美洲" },
+      { "title": "美国宪法第十三修正案通过", "description": "美国国会通过宪法第十三修正案，正式废除了整个美国的奴隶制度，约400万黑人奴隶获得法律上的自由。", "latitude": 38.9, "longitude": -77.0, "category": "政治", "region": "美国", "continent": "北美洲" },
+      { "title": "捻军起义持续", "description": "太平天国失败后，捻军在赖文光领导下继续与清军作战，采用流动作战方式，屡败清军，成为清朝又一重大威胁。", "latitude": 34.7, "longitude": 115.6, "category": "军事", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1866,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清穆宗爱新觉罗载淳", "era": "同治五年" }
+    ],
+    "events": [
+      { "title": "普奥战争（七周战争）", "description": "普鲁士在俾斯麦策划下对奥地利宣战，在萨多瓦战役中取得决定性胜利，奥地利被排挤出德意志事务。", "latitude": 50.0, "longitude": 15.7, "category": "军事", "region": "波希米亚", "continent": "欧洲" },
+      { "title": "第一根跨大西洋电缆铺设成功", "description": "经过多年努力，横跨大西洋的永久性海底电缆铺设成功，实现了欧美之间的即时电报通讯。", "latitude": 51.5, "longitude": -0.1, "category": "科技", "region": "大不列颠", "continent": "欧洲" },
+      { "title": "左宗棠创办福州船政局", "description": "左宗棠在福建马尾设立福州船政局（马尾造船厂），附设船政学堂，培养近代造船和海军人才，是洋务运动重要成果。", "latitude": 26.0, "longitude": 119.5, "category": "经济", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1867,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清穆宗爱新觉罗载淳", "era": "同治六年" }
+    ],
+    "events": [
+      { "title": "大政奉还（日本）", "description": "德川幕府第十五代将军德川庆喜在萨摩、长州等倒幕派压力下，向明治天皇奉还政权，日本延续260余年的幕府统治结束。", "latitude": 35.0, "longitude": 135.8, "category": "政治", "region": "日本", "continent": "亚洲" },
+      { "title": "加拿大自治领成立", "description": "英国议会通过《英属北美法案》，魁北克、安大略、新斯科舍、新不伦瑞克四省组成加拿大自治领，首任总理麦克唐纳。", "latitude": 45.4, "longitude": -75.7, "category": "政治", "region": "加拿大", "continent": "北美洲" },
+      { "title": "美国购地阿拉斯加", "description": "美国以720万美元从俄国手中购得阿拉斯加，每英亩不到2美分，当时被视为\"苏厄德蠢行\"，后来发现蕴含丰富资源。", "latitude": 61.2, "longitude": -149.9, "category": "外交", "region": "阿拉斯加", "continent": "北美洲" },
+      { "title": "《资本论》第一卷出版", "description": "马克思的巨著《资本论》第一卷在汉堡出版，系统阐述了剩余价值理论和资本主义经济规律，对后世影响深远。", "latitude": 53.6, "longitude": 10.0, "category": "文化", "region": "德意志", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1868,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清穆宗爱新觉罗载淳", "era": "同治七年" }
+    ],
+    "events": [
+      { "title": "明治维新开始", "description": "明治天皇颁布《五条御誓文》，迁都东京，正式开启明治维新，实行\"富国强兵、殖产兴业、文明开化\"三大政策。", "latitude": 35.7, "longitude": 139.7, "category": "政治", "region": "日本", "continent": "亚洲" },
+      { "title": "日本戊辰战争", "description": "支持幕府的势力与明治新政府军在京都附近的鸟羽伏见激战，新政府军获胜，幕府残余势力被彻底平定。", "latitude": 34.9, "longitude": 135.8, "category": "军事", "region": "日本", "continent": "亚洲" },
+      { "title": "美国安德鲁·约翰逊弹劾案", "description": "美国众议院以违反《任期法》为由弹劾总统约翰逊，参议院以一票之差宣告无罪，但总统权力受到一定制约。", "latitude": 38.9, "longitude": -77.0, "category": "政治", "region": "美国", "continent": "北美洲" },
+      { "title": "江南制造总局建立", "description": "李鸿章在上海创办江南机器制造总局，这是洋务运动中规模最大的军工企业，主要生产枪炮弹药和造船。", "latitude": 31.2, "longitude": 121.5, "category": "经济", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1869,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清穆宗爱新觉罗载淳", "era": "同治八年" }
+    ],
+    "events": [
+      { "title": "苏伊士运河通航", "description": "由法国人雷赛布主持、历时十年开凿的苏伊士运河正式通航，连接地中海与红海，大幅缩短欧亚航线，改变世界航运格局。", "latitude": 30.5, "longitude": 32.5, "category": "科技", "region": "埃及", "continent": "非洲" },
+      { "title": "美国横贯大陆铁路贯通", "description": "美国中央太平洋铁路和联合太平洋铁路在犹他州奥格登接轨，第一条横贯北美大陆的铁路建成，加速了美国西部开发。", "latitude": 41.2, "longitude": -112.0, "category": "科技", "region": "美国", "continent": "北美洲" },
+      { "title": "门捷列夫元素周期表", "description": "俄国化学家门捷列夫提出元素周期律，编制了第一张元素周期表，揭示了元素之间的内在联系，奠定现代化学基础。", "latitude": 59.9, "longitude": 30.3, "category": "科技", "region": "俄罗斯", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1870,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清穆宗爱新觉罗载淳", "era": "同治九年" }
+    ],
+    "events": [
+      { "title": "普法战争爆发", "description": "普鲁士首相俾斯麦篡改\"埃姆斯密电\"激怒法国，法国对普鲁士宣战，普法战争爆发，普鲁士联军迅速攻入法国本土。", "latitude": 48.9, "longitude": 2.3, "category": "军事", "region": "法兰西", "continent": "欧洲" },
+      { "title": "意大利完成统一", "description": "普法战争爆发后法国撤军，意大利军队攻入罗马，罗马成为意大利王国首都，教皇退居梵蒂冈，意大利统一大业完成。", "latitude": 41.9, "longitude": 12.5, "category": "政治", "region": "意大利", "continent": "欧洲" },
+      { "title": "天津教案", "description": "天津民众因怀疑教堂拐卖儿童而聚集，发生冲突，法国领事丰大业开枪伤人后被民众打死，引发严重外交事件。", "latitude": 39.1, "longitude": 117.2, "category": "外交", "region": "清", "continent": "亚洲" },
+      { "title": "洛克菲勒创立标准石油", "description": "约翰·洛克菲勒在俄亥俄州创立标准石油公司，通过垄断和整合成为美国石油工业巨头，标志着美国垄断资本主义时代的开端。", "latitude": 41.5, "longitude": -81.7, "category": "经济", "region": "美国", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1871,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清穆宗爱新觉罗载淳", "era": "同治十年" }
+    ],
+    "events": [
+      { "title": "德意志帝国成立", "description": "普鲁士国王威廉一世在法国凡尔赛宫镜厅加冕为德意志帝国皇帝，德意志统一最终完成，德国崛起为欧洲大陆第一强国。", "latitude": 48.8, "longitude": 2.1, "category": "政治", "region": "德意志", "continent": "欧洲" },
+      { "title": "巴黎公社", "description": "巴黎人民在普法战争失败和国防政府投降后举行起义，建立巴黎公社，实行无产阶级民主实验，72天后被残酷镇压。", "latitude": 48.9, "longitude": 2.3, "category": "政治", "region": "法兰西", "continent": "欧洲" },
+      { "title": "《法兰克福和约》签订", "description": "德国与法国签订《法兰克福和约》，法国割让阿尔萨斯和洛林给德国，赔款50亿法郎，普法战争正式结束。", "latitude": 50.1, "longitude": 8.7, "category": "外交", "region": "德意志", "continent": "欧洲" },
+      { "title": "日本废藩置县", "description": "明治政府推行废藩置县政策，废除各藩设置县，将全国划分为3府72县，消除了封建割据，完成中央集权。", "latitude": 35.7, "longitude": 139.7, "category": "政治", "region": "日本", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1872,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清穆宗爱新觉罗载淳", "era": "同治十一年" }
+    ],
+    "events": [
+      { "title": "中国首批留美幼童", "description": "容闳倡导的留美幼童计划启动，首批30名中国幼童赴美留学，开创了中国近代官派留学教育的先河。", "latitude": 41.3, "longitude": -72.9, "category": "文化", "region": "清", "continent": "北美洲" },
+      { "title": "日本颁布《学制》", "description": "日本明治政府颁布《学制》，推行全国统一的近代教育体系，实行小学义务教育，为日本现代化奠定人才基础。", "latitude": 35.7, "longitude": 139.7, "category": "文化", "region": "日本", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1873,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清穆宗爱新觉罗载淳", "era": "同治十二年" }
+    ],
+    "events": [
+      { "title": "经济大恐慌（1873年恐慌）", "description": "维也纳股市崩盘引发全球性经济危机，欧美各国银行倒闭、工厂关门，长达五年的经济衰退导致社会矛盾激化，工人运动高涨。", "latitude": 48.2, "longitude": 16.4, "category": "经济", "region": "奥地利", "continent": "欧洲" },
+      { "title": "日本地税改革", "description": "明治政府实施地税改革条例，废除封建年贡制，建立以土地价格为基准的现代货币地税制度，为近代财政奠定基础。", "latitude": 35.7, "longitude": 139.7, "category": "经济", "region": "日本", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1874,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清穆宗爱新觉罗载淳", "era": "同治十三年" }
+    ],
+    "events": [
+      { "title": "同治帝驾崩", "description": "清穆宗同治帝病逝，无子嗣。慈禧太后立其妹之子、年仅四岁的载湉为帝，年号光绪，两宫太后继续垂帘听政。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "日本侵略台湾（牡丹社事件）", "description": "日本以琉球船民被台湾原住民杀害为借口出兵台湾，清政府最终赔偿50万两白银，暴露了清政府在台湾防务上的虚弱。", "latitude": 22.2, "longitude": 120.8, "category": "军事", "region": "清", "continent": "亚洲" },
+      { "title": "第一家三菱公司创立", "description": "岩崎弥太郎创立三菱公司，从事航运业，后发展成日本最大的财阀之一，与三井、住友等共同主导日本近代经济。", "latitude": 35.7, "longitude": 139.7, "category": "经济", "region": "日本", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1875,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪元年" }
+    ],
+    "events": [
+      { "title": "光绪帝即位", "description": "四岁的载湉在太和殿登基，年号光绪，由慈安、慈禧两宫太后垂帘听政，实际权力掌握在慈禧太后手中。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "日本与俄国签订《库页岛千岛群岛交换条约》", "description": "日本与俄国签订条约，日本放弃库页岛主权换取俄国控制的千岛群岛，划定了两国在北海地区的边界。", "latitude": 35.7, "longitude": 139.7, "category": "外交", "region": "日本", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1876,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪二年" }
+    ],
+    "events": [
+      { "title": "贝尔发明电话", "description": "美国发明家亚历山大·格雷厄姆·贝尔获得电话专利，通过有线传输人声成功，电话从此改变了人类的通讯方式。", "latitude": 42.4, "longitude": -71.1, "category": "科技", "region": "美国", "continent": "北美洲" },
+      { "title": "日本《废刀令》颁布", "description": "明治政府颁布《废刀令》，禁止武士佩刀，废除武士阶层的特权，进一步推动了日本的现代化和社会平等。", "latitude": 35.7, "longitude": 139.7, "category": "社会", "region": "日本", "continent": "亚洲" },
+      { "title": "中国第一条铁路——吴淞铁路", "description": "英国怡和洋行擅自在上海至吴淞间修建了中国第一条运营铁路，清政府一年后将其购回拆毁，反映了对近代化的矛盾心态。", "latitude": 31.3, "longitude": 121.5, "category": "科技", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1877,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪三年" }
+    ],
+    "events": [
+      { "title": "美国重建时期结束", "description": "总统海斯与南方民主党达成妥协，联邦军队撤出南方各州，重建时期结束，南方重新建立白人优势统治，种族歧视制度化。", "latitude": 38.9, "longitude": -77.0, "category": "政治", "region": "美国", "continent": "北美洲" },
+      { "title": "日本西南战争", "description": "西乡隆盛率领不满明治维新的士族在鹿儿岛发动武装叛乱（西南战争），经激战被政府军镇压，西乡隆盛兵败自尽。", "latitude": 31.6, "longitude": 130.6, "category": "军事", "region": "日本", "continent": "亚洲" },
+      { "title": "爱迪生留声机发明", "description": "爱迪生在新泽西实验室成功发明留声机，成为人类历史上第一台能录音和放音的机器，震惊世界。", "latitude": 40.7, "longitude": -74.2, "category": "科技", "region": "美国", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1878,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪四年" }
+    ],
+    "events": [
+      { "title": "柏林会议（东方问题）", "description": "俾斯麦主持柏林会议，处理俄土战争后的巴尔干问题，承认塞尔维亚、罗马尼亚、黑山独立，奥匈占领波黑，英国获得塞浦路斯。", "latitude": 52.5, "longitude": 13.4, "category": "外交", "region": "德意志", "continent": "欧洲" },
+      { "title": "左宗棠收复新疆", "description": "左宗棠率领清军经过多年征战，彻底平定阿古柏之乱，收复新疆全境，清朝在新疆设立行省的进程加快。", "latitude": 43.8, "longitude": 87.6, "category": "军事", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1879,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪五年" }
+    ],
+    "events": [
+      { "title": "爱迪生发明白炽电灯", "description": "爱迪生在经过数千次实验后成功研制出实用的碳丝白炽灯，持续照明40多小时，开启了人类电气照明时代。", "latitude": 40.7, "longitude": -74.2, "category": "科技", "region": "美国", "continent": "北美洲" },
+      { "title": "德奥同盟形成", "description": "德国与奥匈帝国签订秘密同盟条约，规定一方遭俄国进攻时另一方全力支援，欧洲两大军事集团开始形成。", "latitude": 52.5, "longitude": 13.4, "category": "外交", "region": "德意志", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1880,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪六年" }
+    ],
+    "events": [
+      { "title": "中俄伊犁交涉", "description": "清政府派曾纪泽赴俄国谈判伊犁问题，签订《伊犁条约》，收回伊犁河谷部分地区但割让霍尔果斯河以西领土，赔款增加。", "latitude": 43.9, "longitude": 81.3, "category": "外交", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1881,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪七年" }
+    ],
+    "events": [
+      { "title": "慈安太后去世", "description": "慈安太后突然病逝（一说被慈禧所害），慈禧太后从此独揽大权，清朝进入慈禧一人专权的时代。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "中国第一条自建铁路——唐胥铁路", "description": "开平矿务局修建的唐胥铁路（唐山至胥各庄）建成通车，这是中国人自己修建的第一条铁路，长9.7公里。", "latitude": 39.6, "longitude": 118.2, "category": "科技", "region": "清", "continent": "亚洲" },
+      { "title": "俄国亚历山大二世遇刺", "description": "俄国沙皇亚历山大二世在圣彼得堡被民意党人炸死，其子亚历山大三世继位后转向保守镇压，改革时代终结。", "latitude": 59.9, "longitude": 30.3, "category": "政治", "region": "俄罗斯", "continent": "欧洲" },
+      { "title": "美国中国排华法案", "description": "美国国会通过《排华法案》，禁止华工入境、禁止华人归化入籍，是美国历史上首次针对特定族群的歧视性移民法案。", "latitude": 38.9, "longitude": -77.0, "category": "社会", "region": "美国", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1882,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪八年" }
+    ],
+    "events": [
+      { "title": "三国同盟形成", "description": "德国、奥匈帝国和意大利在维也纳签订同盟条约，形成三国同盟，欧洲两大军事集团对峙格局初步形成。", "latitude": 52.5, "longitude": 13.4, "category": "外交", "region": "德意志", "continent": "欧洲" },
+      { "title": "英国占领埃及", "description": "英国以镇压阿拉比起义和保护债权为名炮击亚历山大港，出兵占领埃及，埃及名义上仍属奥斯曼帝国但实际沦为英国保护国。", "latitude": 30.0, "longitude": 31.2, "category": "军事", "region": "埃及", "continent": "非洲" },
+      { "title": "朝鲜壬午兵变", "description": "朝鲜旧军人在汉城发动叛乱反对闵妃集团改革，清朝派袁世凯率兵入朝平定，这是清朝最后一次在朝鲜行使宗主权。", "latitude": 37.6, "longitude": 127.0, "category": "军事", "region": "朝鲜", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1883,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪九年" }
+    ],
+    "events": [
+      { "title": "中法战争爆发", "description": "法国为占领越南北部并向中国扩张，向清军发动进攻，中法战争正式爆发，黑旗军刘永福率部与清军协同抗法。", "latitude": 21.0, "longitude": 105.8, "category": "军事", "region": "清", "continent": "亚洲" },
+      { "title": "甲申政变（朝鲜）", "description": "朝鲜开化派在金玉均领导下发动甲申政变，试图推翻亲清保守派政府，被驻朝清军袁世凯率兵镇压。", "latitude": 37.6, "longitude": 127.0, "category": "政治", "region": "朝鲜", "continent": "亚洲" },
+      { "title": "德国建立社会保障体系", "description": "俾斯麦推动通过了世界上第一部《疾病保险法》，德国成为最早建立现代社会保障体系的国家。", "latitude": 52.5, "longitude": 13.4, "category": "社会", "region": "德意志", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1884,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪十年" }
+    ],
+    "events": [
+      { "title": "中法海战（马尾海战）", "description": "法国远东舰队在福州马尾港突袭福建水师，中国近代第一支海军几乎全军覆没，福建船厂被炮击，清政府被迫宣战。", "latitude": 26.0, "longitude": 119.5, "category": "军事", "region": "清", "continent": "亚洲" },
+      { "title": "柏林西非会议开幕", "description": "在俾斯麦主持下，欧洲列强在柏林召开西非会议（柏林会议），制定瓜分非洲的规则，开启了疯狂瓜分非洲的狂潮。", "latitude": 52.5, "longitude": 13.4, "category": "外交", "region": "德意志", "continent": "欧洲" },
+      { "title": "格林尼治时间成为国际标准", "description": "国际子午线会议在美国华盛顿召开，确定以格林尼治天文台的经线为本初子午线，划分全球时区，统一了世界时间标准。", "latitude": 51.5, "longitude": -0.0, "category": "科技", "region": "大不列颠", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1885,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪十一年" }
+    ],
+    "events": [
+      { "title": "柏林会议结束（瓜分非洲）", "description": "柏林会议签署《总议定书》，确定欧洲列强瓜分非洲的原则——\"有效占领\"，列强在非洲展开疯狂争夺，非洲被基本瓜分完毕。", "latitude": 52.5, "longitude": 13.4, "category": "外交", "region": "德意志", "continent": "欧洲" },
+      { "title": "中法《越南条款》签订", "description": "清政府与法国在天津签订和约，承认法国对越南的保护权，中法战争结束，中国西南门户洞开。", "latitude": 39.1, "longitude": 117.2, "category": "外交", "region": "清", "continent": "亚洲" },
+      { "title": "印度国民大会党成立", "description": "印度国民大会党（国大党）在孟买成立，成为印度民族独立运动的领导力量，最初以温和改良为目标。", "latitude": 18.9, "longitude": 72.8, "category": "政治", "region": "英属印度", "continent": "亚洲" },
+      { "title": "第一台汽油汽车发明", "description": "德国工程师卡尔·本茨研制成功第一辆以汽油发动机驱动的三轮汽车，被公认为世界上第一辆现代汽车。", "latitude": 49.5, "longitude": 8.5, "category": "科技", "region": "德意志", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1886,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪十二年" }
+    ],
+    "events": [
+      { "title": "自由女神像揭幕", "description": "法国赠送给美国的自由女神像在纽约港举行揭幕典礼，成为美国自由和民主的象征，也是世界著名的地标。", "latitude": 40.7, "longitude": -74.0, "category": "文化", "region": "美国", "continent": "北美洲" },
+      { "title": "英国吞并缅甸", "description": "英国发动第三次英缅战争后，宣布缅甸正式成为英属印度的一个省，锡袍王被流放，缅甸完全沦为英国殖民地。", "latitude": 16.8, "longitude": 96.1, "category": "军事", "region": "缅甸", "continent": "亚洲" },
+      { "title": "海厄特诉中国排华法案", "description": "美国最高法院在沃山案中裁定《排华法案》合宪，进一步强化了对华人的歧视性法律，华人社区遭受系统性的种族歧视。", "latitude": 38.9, "longitude": -77.0, "category": "社会", "region": "美国", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1887,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪十三年" }
+    ],
+    "events": [
+      { "title": "中葡《和好通商条约》签订", "description": "清政府与葡萄牙签订条约，葡萄牙获准\"永居管理澳门\"，但条约未明确割让，中国保留了收回澳门的权利。", "latitude": 22.2, "longitude": 113.5, "category": "外交", "region": "清", "continent": "亚洲" },
+      { "title": "法国成立印度支那联邦", "description": "法国整合越南（分北圻、中圻、南圻）和柬埔寨，正式成立法属印度支那联邦，后加入老挝，成为法国在东南亚的殖民地。", "latitude": 21.0, "longitude": 105.8, "category": "政治", "region": "法属印度支那", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1888,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪十四年" }
+    ],
+    "events": [
+      { "title": "英国东非公司成立", "description": "英国皇家特许成立英属东非公司，开始在东非地区进行殖民扩张，为日后英国控制肯尼亚、乌干达等地奠定基础。", "latitude": -1.3, "longitude": 36.8, "category": "政治", "region": "东非", "continent": "非洲" },
+      { "title": "巴西废除奴隶制", "description": "巴西议会通过《黄金法案》，宣布废除奴隶制度，巴西成为美洲最后一个废除奴隶制的国家，约72万奴隶获得自由。", "latitude": -15.8, "longitude": -47.9, "category": "社会", "region": "巴西", "continent": "南美洲" },
+      { "title": "北洋海军正式成军", "description": "清政府在洋务运动中组建的北洋海军在威海卫正式成军，拥有定远、镇远等主力舰，一度成为亚洲第一海军。", "latitude": 37.5, "longitude": 122.1, "category": "军事", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1889,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪十五年" }
+    ],
+    "events": [
+      { "title": "日本颁布《大日本帝国宪法》", "description": "明治天皇颁布《大日本帝国宪法》，确立天皇主权和君主立宪制，开设帝国议会，日本成为亚洲第一个立宪国家。", "latitude": 35.7, "longitude": 139.7, "category": "政治", "region": "日本", "continent": "亚洲" },
+      { "title": "光绪帝亲政", "description": "光绪帝年满18岁宣布亲政，慈禧太后表面上退居颐和园，但仍通过亲信掌握朝政大权，帝后矛盾日益加深。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "埃菲尔铁塔落成", "description": "为纪念法国大革命100周年和巴黎世博会而建的埃菲尔铁塔正式开放，高330米，成为当时世界最高建筑和巴黎地标。", "latitude": 48.9, "longitude": 2.3, "category": "科技", "region": "法兰西", "continent": "欧洲" },
+      { "title": "第二国际成立", "description": "在恩格斯推动下，各国社会主义政党在巴黎成立第二国际，推动了国际工人运动的发展。", "latitude": 48.9, "longitude": 2.3, "category": "社会", "region": "法兰西", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1890,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪十六年" }
+    ],
+    "events": [
+      { "title": "俾斯麦下台", "description": "德皇威廉二世解除俾斯麦的首相职务，俾斯麦时代结束，德国外交政策转向\"新路线\"，放弃俾斯麦的保守平衡外交。", "latitude": 52.5, "longitude": 13.4, "category": "政治", "region": "德意志", "continent": "欧洲" },
+      { "title": "美国《谢尔曼反托拉斯法》", "description": "美国国会通过《谢尔曼反托拉斯法》，旨在限制垄断和托拉斯行为，是美国历史上第一部反垄断法。", "latitude": 38.9, "longitude": -77.0, "category": "经济", "region": "美国", "continent": "北美洲" },
+      { "title": "翁迪特尼之战（伤膝河屠杀）", "description": "美国军队在南达科他州伤膝河屠杀约300名苏族印第安人，这是印第安战争的最后一场战役，标志着西进运动的终结。", "latitude": 43.1, "longitude": -102.4, "category": "军事", "region": "美国", "continent": "北美洲" },
+      { "title": "张之洞创办汉阳铁厂", "description": "湖广总督张之洞在湖北汉阳创办汉阳铁厂，是中国近代第一家大型钢铁联合企业，标志着中国重工业的起步。", "latitude": 30.6, "longitude": 114.3, "category": "经济", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1891,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪十七年" }
+    ],
+    "events": [
+      { "title": "俄法同盟形成", "description": "法国舰队访问喀琅施塔得，俄法两国日益接近，最终签订军事协定，正式形成俄法同盟，欧洲两大军事集团对峙格局完成。", "latitude": 59.9, "longitude": 30.3, "category": "外交", "region": "俄罗斯", "continent": "欧洲" },
+      { "title": "日本建立国会", "description": "根据《大日本帝国宪法》，日本首届帝国议会在东京召开，众议院和贵族院正式运转，日本宪政体制开始运作。", "latitude": 35.7, "longitude": 139.7, "category": "政治", "region": "日本", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1892,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪十八年" }
+    ],
+    "events": [
+      { "title": "纽约街道铺设电线", "description": "爱迪生通用电气公司在纽约开始铺设地下输电线，推动城市电力系统建设，电气化时代全面到来。", "latitude": 40.7, "longitude": -74.0, "category": "科技", "region": "美国", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1893,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪十九年" }
+    ],
+    "events": [
+      { "title": "新西兰成为首个女性普选权地区", "description": "新西兰通过《选举法案》，给予女性投票权，成为世界上第一个实现女性普选权的自治地区。", "latitude": -41.3, "longitude": 174.8, "category": "社会", "region": "新西兰", "continent": "大洋洲" },
+      { "title": "芝加哥世界哥伦布博览会", "description": "为纪念哥伦布发现美洲400周年，芝加哥举办世界哥伦布博览会（世博会），展示了交流电系统等最新科技成果。", "latitude": 41.9, "longitude": -87.6, "category": "文化", "region": "美国", "continent": "北美洲" },
+      { "title": "毛泽东诞辰", "description": "毛泽东出生于湖南省湘潭县韶山冲，后来成为中国共产党和中华人民共和国的缔造者。", "latitude": 27.9, "longitude": 112.5, "category": "文化", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1894,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪二十年" }
+    ],
+    "events": [
+      { "title": "甲午战争爆发", "description": "朝鲜东学党起义成为导火索，中日两国因出兵朝鲜发生冲突，日本海军在丰岛海面袭击中国运兵船，甲午战争全面爆发。", "latitude": 37.3, "longitude": 126.6, "category": "军事", "region": "清", "continent": "亚洲" },
+      { "title": "黄海海战（大东沟海战）", "description": "北洋海军与日本联合舰队在黄海大东沟展开激战，致远舰管带邓世昌壮烈殉国，北洋海军损失惨重，失去黄海制海权。", "latitude": 39.5, "longitude": 123.5, "category": "军事", "region": "清", "continent": "亚洲" },
+      { "title": "兴中会成立", "description": "孙中山在夏威夷檀香山成立兴中会，提出\"驱除鞑虏、恢复中华、创立合众政府\"的纲领，中国第一个革命团体诞生。", "latitude": 21.3, "longitude": -157.9, "category": "政治", "region": "清", "continent": "北美洲" },
+      { "title": "德雷福斯事件（法国）", "description": "法国犹太裔军官德雷福斯被诬告叛国，引发法国社会关于正义、反犹主义和军队权威的激烈争论，左拉发表《我控诉》。", "latitude": 48.9, "longitude": 2.3, "category": "社会", "region": "法兰西", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1895,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪二十一年" }
+    ],
+    "events": [
+      { "title": "《马关条约》签订", "description": "清政府在日本马关被迫签订《马关条约》，割让台湾及澎湖列岛、赔款两亿两白银、开放沙市等四口通商，刺激了列强瓜分中国狂潮。", "latitude": 34.1, "longitude": 130.9, "category": "外交", "region": "清", "continent": "亚洲" },
+      { "title": "三国干涉还辽", "description": "俄、德、法三国干涉日本将辽东半岛归还中国，日本向清政府追加三千万两赎辽费，三国借机在华攫取更多权益。", "latitude": 38.9, "longitude": 121.6, "category": "外交", "region": "清", "continent": "亚洲" },
+      { "title": "公车上书", "description": "康有为、梁启超等1300余名举人联名上书光绪帝，反对签订《马关条约》，提出拒和、迁都、变法主张，揭开维新运动序幕。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "伦琴发现X射线", "description": "德国物理学家伦琴在实验中发现了X射线，拍摄了第一张X光照片（夫人的手掌），获1901年首届诺贝尔物理学奖。", "latitude": 49.8, "longitude": 9.9, "category": "科技", "region": "德意志", "continent": "欧洲" },
+      { "title": "孙中山广州起义", "description": "孙中山领导的兴中会在广州发动第一次武装起义，因消息泄露失败，孙中山被迫流亡海外。", "latitude": 23.1, "longitude": 113.3, "category": "军事", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1896,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪二十二年" }
+    ],
+    "events": [
+      { "title": "第一届现代奥运会在雅典举行", "description": "在法国人顾拜旦推动下，第一届现代奥林匹克运动会在希腊雅典开幕，13个国家约280名运动员参加，标志着现代奥运会复兴。", "latitude": 38.0, "longitude": 23.7, "category": "文化", "region": "希腊", "continent": "欧洲" },
+      { "title": "《中俄密约》签订", "description": "李鸿章代表清政府在莫斯科与俄国签订《中俄密约》，允许俄国修建东清铁路穿越东北，中国在远东联俄制日。", "latitude": 55.8, "longitude": 37.6, "category": "外交", "region": "清", "continent": "亚洲" },
+      { "title": "阿杜瓦战役", "description": "埃塞俄比亚皇帝孟尼利克二世率军在阿杜瓦大败意大利侵略军，成为非洲唯一成功抵抗欧洲殖民、保持独立的国家。", "latitude": 9.6, "longitude": 39.3, "category": "军事", "region": "埃塞俄比亚", "continent": "非洲" },
+      { "title": "亨利·福特造出第一辆车", "description": "亨利·福特在底特律制造出他的第一辆汽油车\"四轮车\"，后来创立福特汽车公司，推动汽车大众化和流水线生产。", "latitude": 42.3, "longitude": -83.0, "category": "科技", "region": "美国", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1897,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪二十三年" }
+    ],
+    "events": [
+      { "title": "德国占领胶州湾", "description": "德国以\"巨野教案\"两名德籍传教士被杀为借口，派军舰强占胶州湾，迫使清政府签订《胶澳租界条约》，租期99年。", "latitude": 36.1, "longitude": 120.4, "category": "外交", "region": "清", "continent": "亚洲" },
+      { "title": "俄国强占旅顺大连", "description": "俄国以\"保护中国\"为名派舰队进驻旅顺口和大连湾，后迫使清政府签订《旅大租地条约》，获得东北地区铁路修筑权。", "latitude": 38.9, "longitude": 121.3, "category": "外交", "region": "清", "continent": "亚洲" },
+      { "title": "第一次犹太复国主义大会", "description": "赫茨尔在瑞士巴塞尔主持召开第一次世界犹太复国主义大会，决定在巴勒斯坦为犹太人建立家园，现代犹太复国主义运动诞生。", "latitude": 47.6, "longitude": 7.6, "category": "政治", "region": "瑞士", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1898,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪二十四年" }
+    ],
+    "events": [
+      { "title": "戊戌变法（百日维新）", "description": "光绪帝在康有为、梁启超等维新派推动下颁布系列变法诏令，涉及政治、经济、军事、教育等方面，共103天后被慈禧太后镇压。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "慈禧发动戊戌政变", "description": "慈禧太后从颐和园返回紫禁城发动政变，软禁光绪帝于瀛台，废除新政，捕杀六君子，康有为、梁启超逃亡日本。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "美西战争", "description": "美国以\"缅因号\"军舰在哈瓦那爆炸为借口对西班牙宣战，在菲律宾和古巴击败西班牙，获得菲律宾、关岛、波多黎各等殖民地。", "latitude": 14.6, "longitude": 121.0, "category": "军事", "region": "菲律宾", "continent": "亚洲" },
+      { "title": "居里夫妇发现镭", "description": "居里夫妇在巴黎宣布发现放射性元素钋和镭，开创了放射性研究的新领域，1903年共同获得诺贝尔物理学奖。", "latitude": 48.9, "longitude": 2.3, "category": "科技", "region": "法兰西", "continent": "欧洲" },
+      { "title": "夏威夷被美国吞并", "description": "美国正式吞并夏威夷群岛，将其变为美国领土，结束了夏威夷王国的独立地位。", "latitude": 21.3, "longitude": -157.9, "category": "政治", "region": "夏威夷", "continent": "大洋洲" },
+      { "title": "英国粗壮租借新界", "description": "英国以防御需要为由强迫清政府签订《展拓香港界址专条》，租借新界及附近岛屿99年，香港殖民地的范围大大扩展。", "latitude": 22.4, "longitude": 114.1, "category": "外交", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1899,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪二十五年" }
+    ],
+    "events": [
+      { "title": "义和团运动爆发", "description": "山东直隶一带的义和团以\"扶清灭洋\"为口号，焚烧教堂、拆毁铁路、杀死外国传教士和中国教民，声势迅速扩大。", "latitude": 36.7, "longitude": 116.0, "category": "社会", "region": "清", "continent": "亚洲" },
+      { "title": "美国门户开放政策", "description": "美国国务卿海约翰照会列强，提出对华\"门户开放\"政策，要求各国在各自势力范围内对他国贸易保持机会均等，维护中国主权完整。", "latitude": 38.9, "longitude": -77.0, "category": "外交", "region": "美国", "continent": "北美洲" },
+      { "title": "第二次英布战争爆发", "description": "英国与南非布尔人的德兰士瓦共和国和奥兰治自由邦爆发战争，英国调集大量军队，布尔人采用游击战顽强抵抗。", "latitude": -25.7, "longitude": 28.2, "category": "军事", "region": "南非", "continent": "非洲" },
+      { "title": "海牙和平会议", "description": "应俄国沙皇尼古拉二世倡议，第一次海牙和平会议召开，通过《海牙公约》设立常设仲裁法院，为现代国际法奠定基础。", "latitude": 52.1, "longitude": 4.3, "category": "外交", "region": "荷兰", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1900,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪二十六年" }
+    ],
+    "events": [
+      { "title": "义和团运动进入高潮", "description": "义和团涌入北京，围攻外国使馆区和西什库教堂。慈禧太后对外宣战，下令清军配合义和团攻击各国使馆。", "latitude": 39.9, "longitude": 116.4, "category": "军事", "region": "清", "continent": "亚洲" },
+      { "title": "八国联军侵华", "description": "英、美、德、法、俄、日、意、奥八国组成联军，从天津向北京进攻，攻陷北京城，慈禧太后携光绪帝仓皇西逃至西安。", "latitude": 39.9, "longitude": 116.4, "category": "军事", "region": "清", "continent": "亚洲" },
+      { "title": "《辛丑条约》谈判开始", "description": "清廷任命李鸿章和庆亲王奕劻为全权大臣，与八国联军谈判。列强提出苛刻条件，包括赔款、惩办祸首、拆除炮台等。", "latitude": 39.9, "longitude": 116.4, "category": "外交", "region": "清", "continent": "亚洲" },
+      { "title": "普朗克提出量子论", "description": "德国物理学家普朗克发表论文提出能量量子化假说，开创了量子物理学新时代，标志着现代物理学的诞生。", "latitude": 52.5, "longitude": 13.4, "category": "科技", "region": "德意志", "continent": "欧洲" },
+      { "title": "弗洛伊德《梦的解析》出版", "description": "奥地利精神分析学家弗洛伊德出版《梦的解析》，创立精神分析学派，深刻影响了20世纪的心理学、文学和艺术。", "latitude": 48.2, "longitude": 16.4, "category": "文化", "region": "奥地利", "continent": "欧洲" },
+      { "title": "澳大利亚联邦成立在即", "description": "英国议会通过《澳大利亚联邦宪法法案》，确定澳大利亚各殖民地将组建统一的澳大利亚联邦，1901年正式成立。", "latitude": -35.3, "longitude": 149.1, "category": "政治", "region": "澳大利亚", "continent": "大洋洲" }
+    ]
+  }
+]

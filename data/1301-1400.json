@@ -1,0 +1,387 @@
+[
+  {
+    "year": 1302,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元成宗铁穆耳", "era": "大德六年" }
+    ],
+    "events": [
+      { "title": "法国首次召开三级会议", "description": "法王腓力四世为征收新税以应对与教皇的冲突，首次召开由教士、贵族和第三等级（平民）代表组成的三级会议。这是法国等级代表制的重要开端。", "latitude": 48.9, "longitude": 2.3, "category": "政治", "region": "法兰西", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1307,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元成宗铁穆耳", "era": "大德十一年" }
+    ],
+    "events": [
+      { "title": "圣殿骑士团被镇压", "description": "法王腓力四世以异端罪名逮捕圣殿骑士团成员，骑士团领袖雅克·德·莫莱被烧死。腓力四世借此夺取了骑士团的巨额财富，教皇克雷芒五世在压力下解散了圣殿骑士团。", "latitude": 48.9, "longitude": 2.3, "category": "宗教", "region": "法兰西", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1308,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元武宗海山", "era": "至大元年" }
+    ],
+    "events": [
+      { "title": "但丁开始创作《神曲》", "description": "意大利诗人但丁在被佛罗伦萨流放后开始创作伟大史诗《神曲》。作品以第一人称叙述了穿越地狱、炼狱和天堂的旅程，成为文艺复兴文学的奠基之作。", "latitude": 43.8, "longitude": 11.3, "category": "文化", "region": "意大利", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1309,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元武宗海山", "era": "至大二年" }
+    ],
+    "events": [
+      { "title": "教廷迁至阿维尼翁", "description": "法王腓力四世施压之下，教皇克雷芒五世将教廷从罗马迁至法国阿维尼翁。此后七任教皇均为法国人，教廷驻阿维尼翁长达六十八年，史称“阿维尼翁之囚”。", "latitude": 43.9, "longitude": 4.8, "category": "宗教", "region": "法兰西", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1315,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元仁宗爱育黎拔力八达", "era": "延祐二年" }
+    ],
+    "events": [
+      { "title": "欧洲大饥荒", "description": "欧洲遭遇持续三年的大饥荒，因连续暴雨导致农作物绝收。饥荒蔓延至整个北欧和中欧，数百万人饿死，社会动荡加剧，为后来的黑死病大流行埋下了人口脆弱性的伏笔。", "latitude": 48.9, "longitude": 2.3, "category": "社会", "region": "西欧", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1316,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元仁宗爱育黎拔力八达", "era": "延祐三年" }
+    ],
+    "events": [
+      { "title": "元朝恢复科举", "description": "元仁宗下令恢复科举考试，史称“延祐复科”。科举以程朱理学为主要考试内容，首次分左右榜录取蒙古、色目人和汉人、南人。这是元朝汉化改革的重要举措。", "latitude": 39.9, "longitude": 116.4, "category": "文化", "region": "元", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1324,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元泰定帝也孙铁木儿", "era": "泰定元年" }
+    ],
+    "events": [
+      { "title": "马可·波罗去世", "description": "著名旅行家马可·波罗在威尼斯去世，享年约七十岁。他的《马可·波罗游记》在欧洲广为流传，激发了无数欧洲人对东方的向往，间接推动了大航海时代。", "latitude": 45.4, "longitude": 12.3, "category": "文化", "region": "威尼斯", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1325,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元泰定帝也孙铁木儿", "era": "泰定二年" }
+    ],
+    "events": [
+      { "title": "阿兹特克人建立特诺奇蒂特兰", "description": "阿兹特克人在特斯科科湖中的小岛上建造了他们的首都特诺奇蒂特兰城（今墨西哥城所在地）。此后阿兹特克帝国迅速扩张，成为中美洲最强大的文明之一。", "latitude": 19.4, "longitude": -99.1, "category": "社会", "region": "阿兹特克", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1328,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元文宗图帖睦尔", "era": "天历元年" }
+    ],
+    "events": [
+      { "title": "元朝两都之战", "description": "元泰定帝驾崩后，元朝爆发皇位争夺战。大都派（燕铁木儿）与上都派（倒剌沙）激战，最终大都派获胜，元文宗图帖睦尔即位。元朝中央权威进一步削弱。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "元", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1337,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至元三年" }
+    ],
+    "events": [
+      { "title": "百年战争爆发", "description": "英王爱德华三世以法王腓力六世继承权争议为由，对法国宣战。百年战争由此爆发，这场战争持续一百一十六年，深刻塑造了英法两国的民族认同和政治制度。", "latitude": 48.9, "longitude": 2.3, "category": "军事", "region": "法兰西", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1340,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至元六年" }
+    ],
+    "events": [
+      { "title": "斯勒伊斯海战", "description": "英法舰队在斯勒伊斯港（今荷兰）爆发大规模海战。英王爱德华三世亲自指挥，几乎全歼法国舰队，夺得英吉利海峡制海权。此战是百年战争初期的关键战役。", "latitude": 51.3, "longitude": 3.4, "category": "军事", "region": "英格兰", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1346,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正六年" }
+    ],
+    "events": [
+      { "title": "克雷西战役", "description": "英王爱德华三世率军在法国克雷西以长弓手大败法王腓力六世的骑士大军。法军阵亡一万五千余人，英军仅损失数百人。此战宣告了英国长弓在战场上的统治地位。", "latitude": 50.3, "longitude": 1.9, "category": "军事", "region": "法兰西", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1347,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正七年" }
+    ],
+    "events": [
+      { "title": "黑死病抵达欧洲", "description": "鼠疫（黑死病）从克里米亚经由热那亚商船传播至西西里岛和意大利本土。此后黑死病迅速蔓延至整个欧洲，成为人类历史上最致命的传染病大流行之一。", "latitude": 38.1, "longitude": 13.4, "category": "社会", "region": "意大利", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1348,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正八年" }
+    ],
+    "events": [
+      { "title": "黑死病席卷欧洲", "description": "黑死病迅速蔓延至法国、英国、德意志和北欧各国。欧洲人口减少约三分之一至一半，约两千五百万人死亡。社会结构、经济体系和文化观念遭受前所未有的冲击。", "latitude": 48.9, "longitude": 2.3, "category": "社会", "region": "西欧", "continent": "欧洲" },
+      { "title": "薄伽丘开始创作《十日谈》", "description": "意大利作家乔万尼·薄伽丘以黑死病为背景开始创作《十日谈》。作品讲述十名青年在佛罗伦萨郊外避难时讲述的一百个故事，批判教会腐败，宣扬人性解放。", "latitude": 43.8, "longitude": 11.3, "category": "文化", "region": "意大利", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1351,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正十一年" }
+    ],
+    "events": [
+      { "title": "红巾军起义爆发", "description": "元顺帝征发十五万民工治理黄河，民工韩山童、刘福通在白鹿庄起义，头裹红巾，称红巾军。韩山童战死后，刘福通拥立韩林儿为小明王，中原各地纷纷响应。", "latitude": 33.0, "longitude": 114.0, "category": "军事", "region": "元", "continent": "亚洲" },
+      { "title": "朱元璋出家为僧", "description": "朱元璋（原名朱重八）在安徽凤阳皇觉寺出家为僧，不久因饥荒外出化缘流浪。流浪期间他接触了白莲教等反元思想，逐渐坚定了推翻元朝的志向。", "latitude": 32.9, "longitude": 117.6, "category": "宗教", "region": "元", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1352,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正十二年" }
+    ],
+    "events": [
+      { "title": "朱元璋投奔红巾军", "description": "朱元璋应好友汤和之邀，投奔濠州红巾军首领郭子兴。朱元璋作战勇敢、足智多谋，很快得到郭子兴赏识，被提升为九夫长，并将养女马氏嫁给他。", "latitude": 32.9, "longitude": 117.6, "category": "军事", "region": "元", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1353,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正十三年" }
+    ],
+    "events": [
+      { "title": "张士诚高邮起义", "description": "盐贩张士诚在江苏高邮率盐丁起义，自称诚王，国号大周。张士诚占据江浙富庶之地后逐渐蜕变为割据势力，成为朱元璋逐鹿天下的主要对手之一。", "latitude": 32.8, "longitude": 119.5, "category": "军事", "region": "元", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1355,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正十五年" }
+    ],
+    "events": [
+      { "title": "朱元璋接掌郭子兴部", "description": "郭子兴病逝后，朱元璋实际接掌了郭子兴的红巾军部队。朱元璋采取“高筑墙、广积粮、缓称王”的策略，以应天（今南京）为根据地稳步发展势力。", "latitude": 32.1, "longitude": 118.8, "category": "军事", "region": "元", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1356,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正十六年" }
+    ],
+    "events": [
+      { "title": "朱元璋攻占集庆", "description": "朱元璋率军攻占集庆（今南京），改名为应天府。朱元璋以此为中心建立江南根据地，招纳刘基（刘伯温）、李善长、徐达、常遇春等文臣武将，势力迅速壮大。", "latitude": 32.1, "longitude": 118.8, "category": "军事", "region": "元", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1357,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正十七年" }
+    ],
+    "events": [
+      { "title": "元朝内乱（两都之战升级）", "description": "元朝内部军阀混战加剧，察罕帖木儿、孛罗帖木儿、扩廓帖木儿等军阀拥兵自重、互相攻伐。元顺帝丧失对地方的实际控制，元朝名存实亡。", "latitude": 39.9, "longitude": 116.4, "category": "军事", "region": "元", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1363,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正二十三年" }
+    ],
+    "events": [
+      { "title": "鄱阳湖之战", "description": "朱元璋与陈友谅在鄱阳湖展开决战。朱元璋以二十万兵力对阵陈友谅六十万大军，采用火攻战术大获全胜。陈友谅中流矢身亡，朱元璋统一江南的最大障碍被扫除。", "latitude": 29.2, "longitude": 116.2, "category": "军事", "region": "元", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1364,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正二十四年" }
+    ],
+    "events": [
+      { "title": "朱元璋称吴王", "description": "朱元璋在应天自称吴王，建立西吴政权，以李善长为右相国、徐达为左相国。朱元璋继续消灭张士诚、方国珍等割据势力，北伐元朝的时机日趋成熟。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "元", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1367,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正二十七年" }
+    ],
+    "events": [
+      { "title": "朱元璋灭张士诚", "description": "朱元璋大将徐达、常遇春攻破平江（今苏州），张士诚被俘后自缢而死。朱元璋随后平定方国珍等地，统一江南全境。北伐元朝的条件已完全成熟。", "latitude": 31.3, "longitude": 120.6, "category": "军事", "region": "元", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1368,
+    "dynasties": [
+      { "dynastyId": "yuan", "name": "元", "ruler": "元顺帝妥懽帖睦尔", "era": "至正二十八年" },
+      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武元年" }
+    ],
+    "events": [
+      { "title": "明朝建立", "description": "朱元璋在应天（今南京）即皇帝位，国号大明，年号洪武，是为明太祖。明朝的建立标志着汉族政权重新统一中国，结束了蒙古人近百年的统治。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "明", "continent": "亚洲" },
+      { "title": "徐达北伐攻破大都", "description": "明军大将徐达率军北伐，攻破元朝大都（今北京）。元顺帝率后妃太子北逃至上都，元朝在全国的统治结束。元朝残余势力退守蒙古高原，史称北元。", "latitude": 39.9, "longitude": 116.4, "category": "军事", "region": "明", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1369,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武二年" }
+    ],
+    "events": [
+      { "title": "帖木儿帝国崛起", "description": "瘸腿突厥化蒙古贵族帖木儿在中亚撒马尔罕发动政变，建立帖木儿帝国。帖木儿自称成吉思汗继承者，以恢复蒙古帝国为己任，开始了长达三十余年的扩张战争。", "latitude": 39.6, "longitude": 66.9, "category": "政治", "region": "中亚", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1370,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武三年" }
+    ],
+    "events": [
+      { "title": "明军远征漠北", "description": "明太祖朱元璋派徐达、李文忠、冯胜分三路北伐北元。明军在沈儿峪大败扩廓帖木儿（王保保），北元势力退至和林。朱元璋分封诸子为藩王，镇守北方边疆。", "latitude": 42.0, "longitude": 112.0, "category": "军事", "region": "明", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1371,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武四年" }
+    ],
+    "events": [
+      { "title": "明朝统一四川", "description": "明将汤和、傅友德分水陆两路攻入四川，割据蜀地的明玉珍之子明升投降。明升被朱元璋封为归义侯，送往南京居住。四川纳入明朝版图。", "latitude": 30.6, "longitude": 104.1, "category": "军事", "region": "明", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1372,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武五年" }
+    ],
+    "events": [
+      { "title": "明朝与北元的拉锯战", "description": "徐达率十五万明军北伐，在岭北和林地区被扩廓帖木儿和北元大汗爱猷识理达腊击败。明军损失数万人，朱元璋从此改变对北元策略，转攻为守，修筑长城防御体系。", "latitude": 44.5, "longitude": 110.0, "category": "军事", "region": "明", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1375,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武八年" }
+    ],
+    "events": [
+      { "title": "刘基逝世", "description": "明朝开国功臣刘基（刘伯温）因病去世，享年六十五岁。刘基是朱元璋最重要的谋士之一，精通天文兵法，曾参与制定明朝各项典章制度，被后世视为神机妙算的化身。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "明", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1376,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武九年" }
+    ],
+    "events": [
+      { "title": "明朝废除行中书省", "description": "朱元璋下诏废除行中书省制度，改为承宣布政使司、提刑按察使司和都指挥使司三司分立，互相牵制。这一改革加强了中央集权，奠定了明清两代地方行政体制的基础。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "明", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1380,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武十三年" }
+    ],
+    "events": [
+      { "title": "胡惟庸案", "description": "朱元璋以谋反罪名处死宰相胡惟庸，废除中书省和丞相制度。此后六部直接对皇帝负责，皇权达到前所未有的高度。胡惟庸案牵连三万余人，是明初四大案之一。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "明", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1381,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武十四年" }
+    ],
+    "events": [
+      { "title": "明朝平定云南", "description": "明将傅友德、蓝玉、沐英率三十万大军征讨云南。明军攻破大理，元朝梁王把匝剌瓦尔密自杀。云南正式纳入明朝版图，沐英留镇云南。", "latitude": 25.0, "longitude": 102.7, "category": "军事", "region": "明", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1382,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武十五年" }
+    ],
+    "events": [
+      { "title": "明朝设置锦衣卫", "description": "朱元璋设置锦衣卫，作为皇帝的贴身卫队和侦查机构。锦衣卫直接听命于皇帝，有权侦查、逮捕和审讯任何官员。锦衣卫的设立标志着明朝特务政治的正式开始。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "明", "continent": "亚洲" },
+      { "title": "马皇后逝世", "description": "明太祖朱元璋的结发妻子马皇后病逝，享年五十一岁。马皇后仁慈贤德，多次劝谏朱元璋宽待臣民，被后世尊为一代贤后。朱元璋在马皇后去世后再未立后。", "latitude": 32.1, "longitude": 118.8, "category": "社会", "region": "明", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1387,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武二十年" }
+    ],
+    "events": [
+      { "title": "明朝征讨辽东", "description": "明将冯胜、傅友德率军征讨盘踞东北的纳哈出部。纳哈出率二十万部众投降明朝，元朝在东北的残余势力被彻底清除。明朝设立辽东都指挥使司管辖东北地区。", "latitude": 41.8, "longitude": 123.4, "category": "军事", "region": "明", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1388,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武二十一年" }
+    ],
+    "events": [
+      { "title": "捕鱼儿海之战", "description": "明将蓝玉率十五万大军在捕鱼儿海（今贝尔湖）大败北元军队。北元天元帝脱古思帖木儿被部将缢杀，北元政权瓦解。蒙古分裂为鞑靼、瓦剌和兀良哈三部。", "latitude": 47.5, "longitude": 117.5, "category": "军事", "region": "明", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1389,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武二十二年" }
+    ],
+    "events": [
+      { "title": "奥斯曼帝国科索沃战役", "description": "奥斯曼苏丹穆拉德一世在科索沃战役中击败塞尔维亚联军，但穆拉德一世本人在战后被塞尔维亚贵族刺杀。其子巴耶济德一世继位，奥斯曼帝国继续向巴尔干扩张。", "latitude": 42.6, "longitude": 21.2, "category": "军事", "region": "奥斯曼", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1392,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武二十五年" }
+    ],
+    "events": [
+      { "title": "朱元璋诛杀蓝玉", "description": "朱元璋以谋反罪处死大将蓝玉，剥皮实草，牵连一万五千余人。蓝玉案与胡惟庸案合称“胡蓝之狱”，明朝开国功臣宿将几乎被屠戮殆尽。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "明", "continent": "亚洲" },
+      { "title": "高丽灭亡与朝鲜王朝建立", "description": "高丽大将李成桂发动威化岛回军，推翻高丽王朝，建立朝鲜王朝。李成桂向明朝称臣纳贡，请朱元璋赐国号为“朝鲜”。朝鲜王朝此后统治朝鲜半岛五百余年。", "latitude": 37.6, "longitude": 127.0, "category": "政治", "region": "朝鲜", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1396,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武二十九年" }
+    ],
+    "events": [
+      { "title": "尼科波利斯战役", "description": "奥斯曼苏丹巴耶济德一世在尼科波利斯（今保加利亚）大败欧洲十字军联军。来自法国、德意志、匈牙利等国的骑士几乎全军覆没，奥斯曼帝国对巴尔干的控制愈加稳固。", "latitude": 43.7, "longitude": 24.9, "category": "军事", "region": "奥斯曼", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1397,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武三十年" }
+    ],
+    "events": [
+      { "title": "帖木儿入侵印度", "description": "帖木儿率大军入侵印度德里苏丹国。帖木儿军攻陷德里后大肆屠城，三天内杀人数万，掳掠大量工匠和财富返回撒马尔罕。德里苏丹国从此一蹶不振。", "latitude": 28.6, "longitude": 77.2, "category": "军事", "region": "中亚", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1398,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明太祖朱元璋", "era": "洪武三十一年" }
+    ],
+    "events": [
+      { "title": "明太祖朱元璋驾崩", "description": "明太祖朱元璋在应天皇宫驾崩，享年七十岁。朱元璋从乞丐到皇帝的传奇一生画上句号。皇太孙朱允炆即位，是为建文帝，随即开始削藩。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "明", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1399,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明惠宗朱允炆", "era": "建文元年" }
+    ],
+    "events": [
+      { "title": "靖难之役爆发", "description": "建文帝朱允炆采纳齐泰、黄子澄建议大力削藩。燕王朱棣以“清君侧”为名，从北平起兵发动“靖难之役”。这场持续四年的内战将决定明朝的最高权力归属。", "latitude": 39.9, "longitude": 116.4, "category": "军事", "region": "明", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1400,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明惠宗朱允炆", "era": "建文二年" }
+    ],
+    "events": [
+      { "title": "靖难之役白沟河之战", "description": "朱棣的燕军与建文帝的官军在白沟河（今河北保定）展开激战。朱棣一度险被俘虏，但最终凭借风沙掩护击败官军主帅李景隆。此战是靖难之役的关键转折点。", "latitude": 39.1, "longitude": 115.9, "category": "军事", "region": "明", "continent": "亚洲" },
+      { "title": "乔叟逝世", "description": "英国文学之父杰弗里·乔叟在伦敦去世。他的代表作《坎特伯雷故事集》以生动的语言描绘了中世纪英国社会的众生相，对英语文学发展产生了深远影响。", "latitude": 51.5, "longitude": -0.1, "category": "文化", "region": "英格兰", "continent": "欧洲" }
+    ]
+  }
+]

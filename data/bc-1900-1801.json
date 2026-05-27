@@ -1,0 +1,115 @@
+[
+  {
+    "year": -1900,
+    "dynasties": [
+      { "dynastyId": "xia", "name": "夏", "ruler": "夏少康", "era": "" }
+    ],
+    "events": [
+      { "title": "少康复国", "description": "少康率领夏朝遗民和同盟诸侯军队向寒浞发起总攻。少康之子季杼率军攻灭寒浞之子浇于过地，靡率军攻灭寒浞之子豷于戈地。少康大军攻入寒浞都城，寒浞被擒杀。夏朝中断数十年后复国，史称'少康复国'或'少康中兴'。", "latitude": 34.5, "longitude": 113.0, "category": "军事", "region": "夏", "continent": "亚洲" },
+      { "title": "少康定都纶邑", "description": "少康复国后，定都于原夏都阳城附近的纶邑（今河南虞城一带），重建夏朝宗庙社稷，恢复对各方国的统治秩序。少康吸取太康失国的教训，励精图治，勤政爱民。", "latitude": 34.4, "longitude": 115.8, "category": "政治", "region": "夏", "continent": "亚洲" },
+      { "title": "米诺斯旧宫殿时期鼎盛", "description": "克里特岛的米诺斯文明旧宫殿时期达到鼎盛。克诺索斯、法伊斯托斯和马利亚的宫殿建筑群规模宏大，拥有多层结构、先进的供水排水系统和精美的壁画装饰。米诺斯商船活跃于东地中海。", "latitude": 35.2, "longitude": 25.0, "category": "文化", "region": "克里特", "continent": "欧洲" },
+      { "title": "印度河流域文明衰落", "description": "印度河流域文明（哈拉帕文化）进入全面衰落阶段。摩亨佐-达罗等主要城市大部分被废弃，城市文明退化为小型村落。曾经繁荣的远程贸易网络中断，文字系统失传。", "latitude": 27.3, "longitude": 68.1, "category": "社会", "region": "印度河流域", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1897,
+    "dynasties": [
+      { "dynastyId": "xia", "name": "夏", "ruler": "夏少康", "era": "" }
+    ],
+    "events": [
+      { "title": "塞索斯特里斯二世即位", "description": "埃及法老阿蒙涅姆赫特二世去世，其子塞索斯特里斯二世（Senusret II）继位。新法老致力于法尤姆绿洲的水利开发工程，修建灌溉系统，开垦农田，大幅提高农业产量。", "latitude": 29.2, "longitude": 30.8, "category": "科技", "region": "埃及", "continent": "非洲" },
+      { "title": "法尤姆水利工程启动", "description": "塞索斯特里斯二世在法尤姆地区启动了大规模的农田水利工程，修建运河和堤坝，将尼罗河水引入法尤姆盆地，使大片沼泽变成良田。这一工程极大地增强了埃及的粮食生产能力。", "latitude": 29.2, "longitude": 30.8, "category": "科技", "region": "埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1885,
+    "dynasties": [
+      { "dynastyId": "xia", "name": "夏", "ruler": "夏少康", "era": "" }
+    ],
+    "events": [
+      { "title": "少康中兴政策", "description": "少康复国后推行一系列复兴政策：恢复夏朝宗法制度，重新分封同姓诸侯，整顿军队，发展农业生产，减轻赋税，使夏朝国力迅速恢复。少康在位期间夏朝统治区域有所扩大。", "latitude": 34.4, "longitude": 113.0, "category": "政治", "region": "夏", "continent": "亚洲" },
+      { "title": "拉尔萨国王贡古努姆扩张", "description": "拉尔萨国王贡古努姆（Gungunum）在位期间大力扩张，攻占乌尔和拉格什等重要城市，使拉尔萨成为两河流域南部最强大的城邦。伊辛王朝被迫退守北方，失去对南部诸城的控制。", "latitude": 31.3, "longitude": 45.9, "category": "军事", "region": "美索不达米亚", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1878,
+    "dynasties": [
+      { "dynastyId": "xia", "name": "夏", "ruler": "夏少康", "era": "" }
+    ],
+    "events": [
+      { "title": "塞索斯特里斯三世即位", "description": "埃及法老塞索斯特里斯二世去世，其子塞索斯特里斯三世（Senusret III）继位。塞索斯特里斯三世是埃及中王国时期最强大的法老之一，以其军事才能和行政改革闻名于世。", "latitude": 29.5, "longitude": 31.2, "category": "政治", "region": "埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1870,
+    "dynasties": [
+      { "dynastyId": "xia", "name": "夏", "ruler": "夏少康", "era": "" }
+    ],
+    "events": [
+      { "title": "少康去世，季杼即位", "description": "在位二十余年的少康去世，其子季杼（又称杼、宁）即位。季杼年少时即随父征战，屡立战功。他继位后继续推行少康的政策，夏朝国力进一步增强。", "latitude": 34.4, "longitude": 113.0, "category": "政治", "region": "夏", "continent": "亚洲" },
+      { "title": "塞索斯特里斯三世征努比亚", "description": "埃及法老塞索斯特里斯三世对努比亚发动大规模军事远征，埃及军队推进至尼罗河第二瀑布以南。他在塞姆纳（Semna）等地修建多座堡垒，确立了埃及对努比亚北部的直接统治。", "latitude": 21.5, "longitude": 31.5, "category": "军事", "region": "努比亚", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1865,
+    "dynasties": [
+      { "dynastyId": "xia", "name": "夏", "ruler": "夏杼", "era": "" }
+    ],
+    "events": [
+      { "title": "季杼东征", "description": "夏王季杼率军东征，讨伐东夷各部族。季杼发明了铠甲（甲），用兽皮和藤条制成防护装备，大大提高了夏军的战斗力。东征取得重大胜利，夏朝势力向东扩张至今山东沿海一带。", "latitude": 35.5, "longitude": 117.0, "category": "军事", "region": "夏", "continent": "亚洲" },
+      { "title": "拉尔萨国王阿比萨雷在位", "description": "拉尔萨国王阿比萨雷（Abisare）统治时期，拉尔萨继续巩固在两河流域南部的霸权地位。他修建水利设施促进农业发展，并将贸易网络延伸至波斯湾沿岸。", "latitude": 31.3, "longitude": 45.9, "category": "政治", "region": "美索不达米亚", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1855,
+    "dynasties": [
+      { "dynastyId": "xia", "name": "夏", "ruler": "夏杼", "era": "" }
+    ],
+    "events": [
+      { "title": "夏杼迁都", "description": "夏王季杼将都城从纶邑迁至原（今河南济源西北），以便更好地控制新征服的东部领土。迁都后，夏朝的政治中心向中原北部移动。", "latitude": 35.1, "longitude": 112.6, "category": "政治", "region": "夏", "continent": "亚洲" },
+      { "title": "塞索斯特里斯三世行政改革", "description": "埃及法老塞索斯特里斯三世推行重大行政改革，将全国划分为三个大行政区（北、中、南），由中央直接任命官员管理，削弱了地方诺姆（行省）贵族的权力。他将王权提升到前所未有的高度。", "latitude": 29.5, "longitude": 31.2, "category": "政治", "region": "埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1845,
+    "dynasties": [
+      { "dynastyId": "xia", "name": "夏", "ruler": "夏杼", "era": "" }
+    ],
+    "events": [
+      { "title": "夏杼巩固东土", "description": "夏王季杼在东征胜利后，在东部地区建立统治据点，册封亲夏的东夷首领为诸侯，确立了对东部地区的宗主权。夏朝疆域东至东海，西至华山，南至江淮，北至山西。", "latitude": 35.0, "longitude": 118.0, "category": "政治", "region": "夏", "continent": "亚洲" },
+      { "title": "塞索斯特里斯三世去世", "description": "埃及法老塞索斯特里斯三世去世，其子阿蒙涅姆赫特三世（Amenemhat III）继位。塞索斯特里斯三世留下的强大中央集权国家和稳固的边疆为继任者奠定了良好基础。他被后世埃及人尊为伟大的法老之一。", "latitude": 29.5, "longitude": 31.2, "category": "政治", "region": "埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1835,
+    "dynasties": [
+      { "dynastyId": "xia", "name": "夏", "ruler": "夏杼", "era": "" }
+    ],
+    "events": [
+      { "title": "夏杼去世，夏槐即位", "description": "在位约三十五年的夏王季杼去世，其子槐（又作芬）即位。季杼在位期间夏朝达到鼎盛，后世夏人将季杼视为能够继承夏禹功业的伟大君主，祭祀时特别隆重。", "latitude": 34.4, "longitude": 113.0, "category": "政治", "region": "夏", "continent": "亚洲" },
+      { "title": "阿蒙涅姆赫特三世开发法尤姆", "description": "埃及法老阿蒙涅姆赫特三世继续大规模开发法尤姆绿洲，修建了摩里斯湖水利工程和两座巨大的'迷宫'（哈瓦拉金字塔群附近）。他在位期间埃及经济繁荣，国力达到中王国时期的最高峰。", "latitude": 29.2, "longitude": 30.8, "category": "科技", "region": "埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1825,
+    "dynasties": [
+      { "dynastyId": "xia", "name": "夏", "ruler": "夏槐", "era": "" }
+    ],
+    "events": [
+      { "title": "夏槐与九夷通好", "description": "夏王槐继承季杼的东进政策，但与东夷各部族改以和平外交为主。槐与九夷（畎夷、于夷、方夷、黄夷、白夷、赤夷、玄夷、风夷、阳夷）建立朝贡关系，东夷纷纷来朝，夏朝声威远播。", "latitude": 35.5, "longitude": 117.5, "category": "外交", "region": "夏", "continent": "亚洲" },
+      { "title": "拉尔萨国王布尔辛在位", "description": "拉尔萨国王布尔辛（Bur-Sin）在位期间，拉尔萨继续维持在两河流域南部的霸权。他与伊辛王朝保持相对和平的关系，重点发展经济和城市建设。", "latitude": 31.3, "longitude": 45.9, "category": "政治", "region": "美索不达米亚", "continent": "亚洲" },
+      { "title": "克诺索斯宫殿繁荣", "description": "克里特岛克诺索斯宫殿持续繁荣，宫殿内出现了先进的供水系统、陶制管道和抽水马桶。米诺斯文明在此时期与埃及中王国保持频繁的海上贸易往来。", "latitude": 35.2, "longitude": 25.0, "category": "文化", "region": "克里特", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -1801,
+    "dynasties": [
+      { "dynastyId": "xia", "name": "夏", "ruler": "夏槐", "era": "" }
+    ],
+    "events": [
+      { "title": "夏槐在位中期", "description": "夏王槐在位期间，夏朝国力持续强盛。槐延续父亲季杼的国策，对外保持与东夷的友好关系，对内发展农业生产，夏朝统治稳固。据《竹书纪年》记载，槐在位期间'九夷来御'。", "latitude": 34.4, "longitude": 113.0, "category": "政治", "region": "夏", "continent": "亚洲" },
+      { "title": "埃及第十二王朝步入晚期", "description": "埃及法老阿蒙涅姆赫特三世在位后期，埃及国力达到鼎盛后开始出现衰退迹象。地方贵族势力重新抬头，中央政府的控制力有所减弱，法老的神圣权威开始动摇。", "latitude": 29.5, "longitude": 31.2, "category": "政治", "region": "埃及", "continent": "非洲" },
+      { "title": "两河流域城邦格局演变", "description": "两河流域南部的伊辛王朝日益衰弱，拉尔萨虽占据优势，但新的势力正在酝酿。阿摩利人各部族在巴比伦、西帕尔等地建立城邦，其中巴比伦（Babylon）开始崭露头角，为后来的巴比伦崛起奠定了基础。", "latitude": 32.5, "longitude": 44.4, "category": "政治", "region": "美索不达米亚", "continent": "亚洲" }
+    ]
+  }
+]

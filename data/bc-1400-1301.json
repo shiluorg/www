@@ -1,0 +1,70 @@
+[
+  {
+    "year": -1400,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王盘庚", "era": "商中期" }
+    ],
+    "events": [
+      { "title": "迈锡尼宫殿文明鼎盛", "description": "迈锡尼文明进入宫殿时期，迈锡尼、梯林斯、皮洛斯等城堡式宫殿群建成，线形文字B开始广泛使用。", "latitude": 37.7, "longitude": 22.8, "category": "文化", "region": "迈锡尼", "continent": "欧洲" },
+      { "title": "赫梯帝国崛起", "description": "赫梯在新王国时期迅速崛起，成为近东最强大的军事帝国之一，开始与埃及、米坦尼争夺叙利亚霸权。", "latitude": 39.9, "longitude": 32.9, "category": "政治", "region": "赫梯", "continent": "亚洲" },
+      { "title": "巴比伦加喜特王朝", "description": "加喜特人统治下的巴比伦尼亚与埃及、赫梯保持外交联系，通过联姻维持国际关系。", "latitude": 32.5, "longitude": 44.4, "category": "政治", "region": "巴比伦尼亚", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1386,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王盘庚", "era": "商中期" }
+    ],
+    "events": [
+      { "title": "阿蒙霍特普三世即位", "description": "埃及第十八王朝阿蒙霍特普三世登基，在位期间埃及帝国达到艺术与建筑新高度，大兴土木修建卢克索神庙。", "latitude": 25.7, "longitude": 32.6, "category": "政治", "region": "古埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1352,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王盘庚", "era": "商中期" }
+    ],
+    "events": [
+      { "title": "阿肯那顿宗教改革", "description": "阿蒙霍特普四世改名阿肯那顿，废除阿蒙神崇拜，独尊太阳圆盘神阿吞，并迁都至新都阿玛尔纳（埃赫塔吞）。", "latitude": 27.6, "longitude": 30.9, "category": "宗教", "region": "古埃及", "continent": "非洲" },
+      { "title": "阿玛尔纳艺术革命", "description": "阿肯那顿推行自然主义艺术风格，埃及雕塑与绘画从传统理想化转向写实表现，王族形象被刻画得真实生动。", "latitude": 27.6, "longitude": 30.9, "category": "文化", "region": "古埃及", "continent": "非洲" },
+      { "title": "阿玛尔纳外交档案", "description": "阿肯那顿时期留下大量楔形文字泥板书信（阿玛尔纳书信），记录了埃及与巴比伦、赫梯、米坦尼等国的外交往来。", "latitude": 27.6, "longitude": 30.9, "category": "外交", "region": "古埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1336,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王盘庚", "era": "商晚期" }
+    ],
+    "events": [
+      { "title": "图坦卡蒙即位", "description": "阿肯那顿去世后，年幼的图坦卡蒙继位，在祭司集团压力下恢复阿蒙神崇拜，都城迁回底比斯。", "latitude": 25.7, "longitude": 32.6, "category": "政治", "region": "古埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1327,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王盘庚", "era": "商晚期" }
+    ],
+    "events": [
+      { "title": "图坦卡蒙神秘去世", "description": "年仅约十九岁的图坦卡蒙突然死亡，其陵墓在帝王谷历经三千余年未被盗掘，成为现代最著名的考古发现之一。", "latitude": 25.7, "longitude": 32.6, "category": "政治", "region": "古埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1320,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王盘庚", "era": "商晚期" }
+    ],
+    "events": [
+      { "title": "赫梯与埃及争霸叙利亚", "description": "赫梯国王苏皮鲁利乌马一世利用埃及阿玛尔纳时期的衰落，夺取叙利亚北部大片领土，打破埃及在该地区的垄断地位。", "latitude": 36.2, "longitude": 36.2, "category": "军事", "region": "叙利亚", "continent": "亚洲" },
+      { "title": "苏皮鲁利乌马一世征服米坦尼", "description": "赫梯国王苏皮鲁利乌马一世大举进攻米坦尼王国，攻占其首都瓦舒卡尼，米坦尼沦为赫梯附庸国。", "latitude": 37.0, "longitude": 39.0, "category": "军事", "region": "美索不达米亚", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1300,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王盘庚", "era": "商晚期" }
+    ],
+    "events": [
+      { "title": "盘庚迁殷", "description": "商王盘庚将都城从奄（今山东曲阜）迁至殷（今河南安阳），此后商朝又称殷商，结束了九世之乱的动荡局面。", "latitude": 36.1, "longitude": 114.4, "category": "政治", "region": "商", "continent": "亚洲" }
+    ]
+  }
+]

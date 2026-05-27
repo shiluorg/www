@@ -1,0 +1,659 @@
+[
+  {
+    "year": 801,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐德宗李适", "era": "贞元十七年" }
+    ],
+    "events": [
+      { "title": "杜佑撰《通典》", "description": "唐代史学家杜佑历时三十余年编纂完成《通典》二百卷，记述历代典章制度沿革。这是中国第一部典志体通史巨著，开创了典制体史书编纂新体例。", "latitude": 34.3, "longitude": 108.9, "category": "文化", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 802,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐德宗李适", "era": "贞元十八年" }
+    ],
+    "events": [
+      { "title": "骠国乐舞传入长安", "description": "骠国（今缅甸）遣使率乐工三十五人到长安献乐。白居易作《骠国乐》诗记载此事。骠国乐舞的传入反映了唐朝与东南亚地区的文化交流。", "latitude": 34.3, "longitude": 108.9, "category": "文化", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 804,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐德宗李适", "era": "贞元二十年" },
+      { "dynastyId": "japan", "name": "日本", "ruler": "桓武天皇", "era": "延历二十三年" }
+    ],
+    "events": [
+      { "title": "最澄、空海入唐求法", "description": "日本僧人最澄和空海随遣唐使入唐求法。最澄在天台山学习天台宗，空海在长安青龙寺学习密宗。二人归国后分别创立日本天台宗和真言宗。", "latitude": 34.3, "longitude": 108.9, "category": "宗教", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 805,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐顺宗李诵", "era": "永贞元年" }
+    ],
+    "events": [
+      { "title": "唐顺宗即位与永贞革新", "description": "唐德宗病逝，太子李诵即位，是为唐顺宗。顺宗任用王叔文、王伾、柳宗元、刘禹锡等人推行改革，罢宫市、废盐铁月进、贬贪官。革新仅持续一百四十六天即告失败。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "亚洲" },
+      { "title": "二王八司马事件", "description": "宦官俱文珍等发动政变，逼顺宗退位为太上皇，太子李纯即位为唐宪宗。王叔文被贬后赐死，王伾、柳宗元、刘禹锡等人被贬为远州司马。永贞革新彻底失败。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 806,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐宪宗李纯", "era": "元和元年" }
+    ],
+    "events": [
+      { "title": "元和中兴开始", "description": "唐宪宗李纯即位，改元元和。宪宗以“太宗之创业、玄宗之致理”为榜样，励精图治，整肃吏治，削减藩镇势力，开启元和中兴时期。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 807,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐宪宗李纯", "era": "元和二年" }
+    ],
+    "events": [
+      { "title": "李吉甫撰《元和国计簿》", "description": "宰相李吉甫编纂《元和国计簿》，详细统计全国户口、赋税和州县数量。这是中国现存最早的财政统计文献，反映了唐朝中后期的社会经济状况。", "latitude": 34.3, "longitude": 108.9, "category": "经济", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 808,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐宪宗李纯", "era": "元和三年" }
+    ],
+    "events": [
+      { "title": "牛李党争肇始", "description": "科举考试中，牛僧孺、李宗闵等人指陈时政之弊，宰相李吉甫认为其背后有人指使。此后数十年间，以牛僧孺为首的牛党与以李德裕为首的李党争斗不休。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 809,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐宪宗李纯", "era": "元和四年" }
+    ],
+    "events": [
+      { "title": "宪宗讨伐成德节度使", "description": "成德节度使王士真死，其子王承宗自为留后。唐宪宗拒绝承认世袭，发兵征讨成德。但诸道兵观望不前，朝廷征讨不力，最终被迫妥协。", "latitude": 38.0, "longitude": 114.5, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 810,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐宪宗李纯", "era": "元和五年" }
+    ],
+    "events": [
+      { "title": "柳宗元著《天说》", "description": "柳宗元被贬永州期间创作《天说》《封建论》等哲学名篇，批判天命论，提出“天人相分”思想。刘禹锡作《天论》与之呼应，推动唐代思想论争。", "latitude": 26.4, "longitude": 111.6, "category": "文化", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 812,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐宪宗李纯", "era": "元和七年" }
+    ],
+    "events": [
+      { "title": "魏博节度使田弘正归朝", "description": "魏博节度使田季安去世，军众拥立田兴。田兴归顺朝廷，唐宪宗赐名田弘正，任为魏博节度使。魏博镇归附是元和中兴的重要成果。", "latitude": 36.0, "longitude": 114.0, "category": "政治", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 813,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐宪宗李纯", "era": "元和八年" }
+    ],
+    "events": [
+      { "title": "李吉甫撰《元和郡县图志》", "description": "李吉甫完成《元和郡县图志》五十卷，记述全国十道四十七镇的州县沿革、山川地形和户口贡赋。这是中国现存最古老的地理总志，开创了图志体例。", "latitude": 34.3, "longitude": 108.9, "category": "科技", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 814,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐宪宗李纯", "era": "元和九年" }
+    ],
+    "events": [
+      { "title": "淮西吴元济叛乱", "description": "淮西节度使吴少阳死，其子吴元济自领军务，据蔡州（今河南汝南）叛乱。唐宪宗决意讨伐，发诸道兵围攻淮西。淮西之战成为元和中兴的关键战役。", "latitude": 33.0, "longitude": 114.4, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 815,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐宪宗李纯", "era": "元和十年" }
+    ],
+    "events": [
+      { "title": "宰相武元衡遇刺", "description": "主张削藩的宰相武元衡在上朝途中被淄青节度使李师道派出的刺客刺杀于长安街头，裴度亦受伤。这是唐朝最严重的政治刺杀事件，震动朝野。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "亚洲" },
+      { "title": "白居易贬江州", "description": "白居易因上书请捕刺杀武元衡凶手，被贬为江州司马。在江州期间创作《琵琶行》，“同是天涯沦落人，相逢何必曾相识”成为千古名句。", "latitude": 29.7, "longitude": 116.0, "category": "文化", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 817,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐宪宗李纯", "era": "元和十二年" }
+    ],
+    "events": [
+      { "title": "李愬雪夜袭蔡州", "description": "唐将李愬在风雪之夜率九千精兵长途奔袭，一举攻破淮西叛军老巢蔡州，生擒吴元济。淮西之乱平定，河北诸镇震恐，纷纷归顺朝廷。", "latitude": 33.0, "longitude": 114.4, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 818,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐宪宗李纯", "era": "元和十三年" }
+    ],
+    "events": [
+      { "title": "宪宗平定淄青镇", "description": "唐军乘淮西大捷之势，讨伐淄青节度使李师道。李师道部将刘悟倒戈，杀李师道归顺。唐朝收复淄、青等十二州，藩镇割据局面大为改观。", "latitude": 36.4, "longitude": 120.0, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 819,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐宪宗李纯", "era": "元和十四年" }
+    ],
+    "events": [
+      { "title": "韩愈谏迎佛骨", "description": "唐宪宗迎法门寺佛骨入宫供养。刑部侍郎韩愈上《论佛骨表》极谏，触怒宪宗，被贬为潮州刺史。韩愈在赴潮州途中作“一封朝奏九重天，夕贬潮阳路八千”。", "latitude": 34.3, "longitude": 108.9, "category": "宗教", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 820,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐穆宗李恒", "era": "元和十五年" }
+    ],
+    "events": [
+      { "title": "唐宪宗暴卒，穆宗即位", "description": "唐宪宗李纯被宦官陈弘志等毒杀，享年四十三岁。太子李恒在宦官梁守谦等拥立下即位，是为唐穆宗。元和中兴结束，宦官权势进一步膨胀。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "亚洲" },
+      { "title": "吐蕃势力扩张", "description": "吐蕃赞普赤热巴巾在位期间，大力扶持佛教，组织翻译佛经。同时吐蕃军继续与唐朝在河西、陇右地区交战，势力一度扩展至西域。", "latitude": 32.0, "longitude": 85.0, "category": "军事", "region": "吐蕃", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 821,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐穆宗李恒", "era": "长庆元年" }
+    ],
+    "events": [
+      { "title": "长庆会盟", "description": "唐朝与吐蕃在长安西郊举行会盟，随后在拉萨大昭寺前立唐蕃会盟碑，约定“患难相恤，暴掠不作”。此碑至今仍矗立于拉萨，是汉藏友好的历史见证。", "latitude": 29.7, "longitude": 91.1, "category": "外交", "region": "唐", "continent": "亚洲" },
+      { "title": "幽州兵变", "description": "幽州（卢龙）节度使刘总弃官为僧，其部下朱克融叛乱，囚禁新任节度使张弘靖。河北三镇复叛，朝廷无力镇压，元和中兴成果付诸东流。", "latitude": 39.9, "longitude": 116.4, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 822,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐穆宗李恒", "era": "长庆二年" }
+    ],
+    "events": [
+      { "title": "河朔再叛，藩镇复立", "description": "魏博镇兵变，将领史宪诚驱逐节度使田布，田布自杀。成德镇王庭凑杀节度使田弘正。唐朝被迫承认朱克融、王庭凑等为节度使，河北藩镇彻底脱离中央控制。", "latitude": 38.0, "longitude": 114.5, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 824,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐敬宗李湛", "era": "长庆四年" }
+    ],
+    "events": [
+      { "title": "韩愈去世", "description": "唐代文学家韩愈病逝，享年五十七岁。韩愈倡导古文运动，被尊为“唐宋八大家”之首。其文“文起八代之衰”，对后世文学影响极为深远。", "latitude": 34.3, "longitude": 108.9, "category": "文化", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 825,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐敬宗李湛", "era": "宝历元年" }
+    ],
+    "events": [
+      { "title": "唐敬宗荒嬉怠政", "description": "唐敬宗李湛即位后不理朝政，沉迷于踢球、游戏和游乐。朝政日益败坏，宦官王守澄等人把持朝政，唐朝政治局势进一步恶化。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 827,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐文宗李昂", "era": "太和元年" }
+    ],
+    "events": [
+      { "title": "唐文宗即位", "description": "唐敬宗被宦官刘克明等杀害，宦官王守澄等诛刘克明，立穆宗次子李昂为帝，是为唐文宗。文宗在位期间力图铲除宦官势力，但最终失败。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "Asia" }
+    ]
+  },
+  {
+    "year": 829,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐文宗李昂", "era": "太和三年" }
+    ],
+    "events": [
+      { "title": "南诏入侵成都", "description": "南诏王嵯巅率军入侵唐朝西川，攻陷成都外郭，掠走数万工匠和百姓。南诏势力达到顶峰，给唐朝西南边防造成沉重打击。", "latitude": 30.6, "longitude": 104.0, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 831,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐文宗李昂", "era": "太和五年" }
+    ],
+    "events": [
+      { "title": "吐蕃内乱与佛教传播", "description": "吐蕃赞普赤热巴巾被信奉苯教的贵族杀害，其兄朗达玛继位后灭佛。吐蕃陷入内乱和分裂，帝国开始走向衰落，佛教则在民间持续传播。", "latitude": 29.7, "longitude": 91.1, "category": "宗教", "region": "吐蕃", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 832,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐文宗李昂", "era": "太和六年" }
+    ],
+    "events": [
+      { "title": "文宗谋诛宦官", "description": "唐文宗与宰相宋申锡密谋诛除宦官。宦官王守澄等反诬宋申锡谋反，文宗被迫贬宋申锡为开州司马。文宗首次反宦官行动失败。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 835,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐文宗李昂", "era": "太和九年" }
+    ],
+    "events": [
+      { "title": "甘露之变", "description": "唐文宗与李训、郑注等密谋诛除宦官。李训使人诈称左金吾仗院石榴树夜降甘露，诱宦官仇士良等前往，伏兵击杀。但事泄失败，李训、郑注及宰相王涯等千余人被杀。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "亚洲" },
+      { "title": "文宗被宦官软禁", "description": "甘露之变后，宦官仇士良等彻底掌握朝政大权。唐文宗被软禁，从此沦为傀儡皇帝。他感叹“受制于家奴”，抑郁成疾，唐朝中央权力完全落入宦官之手。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 836,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐文宗李昂", "era": "开成元年" }
+    ],
+    "events": [
+      { "title": "回鹘汗国灭亡", "description": "回鹘（回纥改名）汗国被黠戛斯人攻灭，回鹘残部西迁。一部分迁至西域，建立高昌回鹘；一部迁至河西走廊，成为甘州回鹘。回鹘汗国在漠北的统治终结。", "latitude": 46.0, "longitude": 107.0, "category": "政治", "region": "回鹘", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 840,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐武宗李炎", "era": "开成五年" }
+    ],
+    "events": [
+      { "title": "唐武宗即位", "description": "唐文宗病逝，宦官仇士良等矫诏立颖王李炎为帝，是为唐武宗。武宗在位期间信任宰相李德裕，对内抑制宦官，对外击破回鹘残部。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 841,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐武宗李炎", "era": "会昌元年" }
+    ],
+    "events": [
+      { "title": "李德裕入相", "description": "李德裕被唐武宗任命为宰相。李德裕为政果断，抑制宦官，整顿边防，削减冗官。会昌年间在皇帝支持下推行一系列改革，史称“会昌中兴”。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 843,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐武宗李炎", "era": "会昌三年" },
+      { "dynastyId": "falancke", "name": "法兰克帝国", "ruler": "洛泰尔一世", "era": "" }
+    ],
+    "events": [
+      { "title": "凡尔登条约，查理曼帝国三分", "description": "查理曼的三个孙子在凡尔登签订条约，将帝国分为三部分：西法兰克（今法国）、东法兰克（今德国）和中法兰克（今意大利）。近代欧洲版图由此奠基。", "latitude": 49.0, "longitude": 5.0, "category": "政治", "region": "法兰克帝国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 845,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐武宗李炎", "era": "会昌五年" }
+    ],
+    "events": [
+      { "title": "会昌灭佛", "description": "唐武宗下诏灭佛，拆毁全国寺院四千六百余所，强令二十六万僧尼还俗，没收寺院田产。同时景教、祆教、摩尼教也受到打击。佛教遭受沉重打击。", "latitude": 34.3, "longitude": 108.9, "category": "宗教", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 846,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐宣宗李忱", "era": "会昌六年" }
+    ],
+    "events": [
+      { "title": "唐武宗驾崩，宣宗即位", "description": "唐武宗因服丹药暴卒，宦官马元贽等立皇太叔李忱为帝，是为唐宣宗。宣宗罢免李德裕，起用牛党成员，牛李党争态势逆转。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "亚洲" },
+      { "title": "白居易逝世", "description": "唐代伟大诗人白居易在洛阳病逝，享年七十五岁。白居易生前自编《白氏长庆集》七十五卷，存诗三千余首，为唐代存诗最多的诗人。", "latitude": 34.7, "longitude": 112.5, "category": "文化", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 847,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐宣宗李忱", "era": "大中元年" }
+    ],
+    "events": [
+      { "title": "大中之治开启", "description": "唐宣宗改元大中。宣宗勤于政事，认真处理朝政，抑制宦官，执法严明。史称“大中之政有贞观之风”，宣宗被称为“小太宗”。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "亚洲" },
+      { "title": "恢复佛教", "description": "唐宣宗下诏恢复佛教，允许重建寺院，度为僧尼。会昌灭佛中被毁的寺院得以重修，佛教迅速恢复元气。", "latitude": 34.3, "longitude": 108.9, "category": "宗教", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 849,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐宣宗李忱", "era": "大中三年" }
+    ],
+    "events": [
+      { "title": "唐收复吐蕃占据的秦、原等州", "description": "吐蕃内乱导致河西、陇右防御空虚。唐朝乘机收复被吐蕃占领的秦州（今甘肃天水）、原州（今宁夏固原）等地，河西民众欣喜若狂。", "latitude": 35.0, "longitude": 106.0, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 850,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐宣宗李忱", "era": "大中四年" }
+    ],
+    "events": [
+      { "title": "张议潮在敦煌起义", "description": "沙州（今甘肃敦煌）人张议潮率众起义，驱逐吐蕃守将，收复瓜州、沙州。张议潮随后遣使向唐朝报捷，唐朝任命其为沙州防御使。", "latitude": 40.1, "longitude": 94.7, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 851,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐宣宗李忱", "era": "大中五年" }
+    ],
+    "events": [
+      { "title": "张议潮收复河西十一州", "description": "张议潮率军接连收复河西走廊十一州，向唐朝献上十一州图籍。唐朝在沙州设归义军节度使，以张议潮为节度使。河西地区重归唐朝版图。", "latitude": 40.1, "longitude": 94.7, "category": "军事", "region": "唐", "continent": "亚洲" },
+      { "title": "阿拉伯商人苏莱曼游记", "description": "阿拉伯商人苏莱曼·塔吉尔撰写的《中国印度见闻录》成书，记载了从阿拉伯到中国沿海的航海路线、商贸活动以及唐朝的社会风貌，是研究中世纪东西交通的重要文献。", "latitude": 33.3, "longitude": 44.4, "category": "文化", "region": "阿拉伯帝国", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 853,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐宣宗李忱", "era": "大中七年" }
+    ],
+    "events": [
+      { "title": "《大中刑法统类》编纂", "description": "唐宣宗命张戣编纂《大中刑法统类》，将律令格式分类编纂，便于查找使用。这是唐代法律文献编纂的一大创新。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 858,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐宣宗李忱", "era": "大中十二年" }
+    ],
+    "events": [
+      { "title": "李商隐病逝", "description": "晚唐著名诗人李商隐病逝，享年约四十六岁。李商隐诗风深情婉约，“相见时难别亦难，东风无力百花残”等名句传颂千古，与杜牧合称“小李杜”。", "latitude": 34.3, "longitude": 108.9, "category": "文化", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 859,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐宣宗李忱", "era": "大中十三年" }
+    ],
+    "events": [
+      { "title": "唐宣宗驾崩，懿宗即位", "description": "唐宣宗李忱因服用丹药中毒驾崩。宦官王宗实等立宣宗长子李漼为帝，是为唐懿宗。懿宗奢侈无度，沉溺佛教，唐朝迅速走向衰落。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "亚洲" },
+      { "title": "裘甫起义", "description": "浙东人裘甫在象山聚众起义，攻占剡县（今浙江嵊州），队伍发展到三万余人。唐朝派王式率军镇压，裘甫兵败被杀。这是晚唐大规模民变的先声。", "latitude": 29.6, "longitude": 120.8, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 860,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐懿宗李漼", "era": "咸通元年" }
+    ],
+    "events": [
+      { "title": "南诏攻占交趾", "description": "南诏王世隆率军攻占安南交趾（今越南河内），唐朝安南都护府被攻陷。唐朝派驻守岭南的军队疲于应付南诏的连年入侵。", "latitude": 21.0, "longitude": 105.8, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 863,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐懿宗李漼", "era": "咸通四年" }
+    ],
+    "events": [
+      { "title": "南诏再陷交趾", "description": "南诏军再次攻陷交趾，唐朝守将蔡袭战死。唐朝被迫放弃安南，将安南都护府移至海门（今广西合浦）。南诏的连年战争使唐朝南方财力枯竭。", "latitude": 21.0, "longitude": 105.8, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 864,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐懿宗李漼", "era": "咸通五年" }
+    ],
+    "events": [
+      { "title": "高骈镇守安南", "description": "唐朝任命高骈为安南都护。高骈到任后击败南诏军，收复交趾，修筑大罗城（今河内）。高骈稳定了安南局势，保障了唐朝西南边疆的安全。", "latitude": 21.0, "longitude": 105.8, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 867,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐懿宗李漼", "era": "咸通八年" }
+    ],
+    "events": [
+      { "title": "阿拉伯百年翻译运动鼎盛", "description": "阿巴斯王朝哈里发穆塔瓦基勒大力支持翻译运动，在巴格达智慧馆将大量希腊、波斯、印度典籍翻译为阿拉伯文。亚里士多德、欧几里得等著作被译为阿拉伯文。", "latitude": 33.3, "longitude": 44.4, "category": "文化", "region": "阿拉伯帝国", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 868,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐懿宗李漼", "era": "咸通九年" }
+    ],
+    "events": [
+      { "title": "《金刚经》印刷", "description": "王玠出资刻印的《金刚般若波罗蜜经》完成，卷首有精美木刻版画。这是世界上现存最早的有明确纪年的雕版印刷品，现藏于大英图书馆。", "latitude": 34.3, "longitude": 108.9, "category": "科技", "region": "唐", "continent": "亚洲" },
+      { "title": "庞勋起义", "description": "戍守桂林的徐州戍卒因戍期已满却不被替换，推庞勋为首起兵北归。庞勋率众攻占徐州，队伍发展到二十万人，震动江淮地区。唐朝调集重兵镇压。", "latitude": 34.3, "longitude": 117.2, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 869,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐懿宗李漼", "era": "咸通十年" }
+    ],
+    "events": [
+      { "title": "庞勋起义失败", "description": "唐将康承训率沙陀骑兵等镇压庞勋起义。庞勋在蕲县（今安徽宿州）兵败战死。此次起义虽被镇压，但沉重打击了唐朝统治，为黄巢起义开创了先例。", "latitude": 33.6, "longitude": 117.0, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 871,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐懿宗李漼", "era": "咸通十二年" }
+    ],
+    "events": [
+      { "title": "懿宗迎佛骨奢靡无度", "description": "唐懿宗以极其隆重的礼仪将法门寺佛骨迎入长安，彩棚夹道，耗费不可胜计。懿宗亲自跪拜，赏赐无数。朝政废弛，百姓苦不堪言。", "latitude": 34.3, "longitude": 108.9, "category": "宗教", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 873,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐僖宗李儇", "era": "咸通十四年" }
+    ],
+    "events": [
+      { "title": "唐懿宗驾崩，僖宗即位", "description": "唐懿宗病逝，宦官田令孜等立年仅十二岁的李儇为帝，是为唐僖宗。僖宗年幼，政事全权交宦官田令孜处理，朝政更加腐败黑暗。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 874,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐僖宗李儇", "era": "乾符元年" }
+    ],
+    "events": [
+      { "title": "黄巢起义爆发", "description": "盐贩黄巢与王仙芝在长垣（今河南长垣）聚众起义。王仙芝自称“天补平均大将军”，黄巢响应。起义军迅速攻占山东、河南诸州县，声势浩大。", "latitude": 35.2, "longitude": 114.7, "category": "军事", "region": "唐", "continent": "亚洲" },
+      { "title": "维京人到达冰岛", "description": "北欧维京探险家殷格·亚纳逊率领移民到达冰岛，在雷克雅未克建立定居点。维京人由此开始对北大西洋岛屿的殖民和开发。", "latitude": 64.1, "longitude": -21.9, "category": "社会", "region": "冰岛", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 877,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐僖宗李儇", "era": "乾符四年" }
+    ],
+    "events": [
+      { "title": "王仙芝战死，黄巢统一义军", "description": "王仙芝在黄梅（今湖北黄梅）被唐军击败战死。余部投奔黄巢，黄巢被推举为起义军领袖，称“冲天大将军”，建元“王霸”。起义军力量更加壮大。", "latitude": 30.0, "longitude": 115.9, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 878,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐僖宗李儇", "era": "乾符五年" }
+    ],
+    "events": [
+      { "title": "黄巢渡江南征", "description": "黄巢率起义军渡过长江，进入江西、浙江。唐朝调集高骈等重兵围剿，黄巢军却采取灵活机动的流动作战方式，转战千里，屡败官军。", "latitude": 29.0, "longitude": 116.0, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 879,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐僖宗李儇", "era": "乾符六年" }
+    ],
+    "events": [
+      { "title": "黄巢攻占广州", "description": "黄巢起义军攻占广州，控制岭南地区。黄巢军在广州大量杀戮外国商人（阿拉伯人、波斯人等），广州国际贸易港口遭受严重破坏。", "latitude": 23.1, "longitude": 113.3, "category": "军事", "region": "唐", "continent": "亚洲" },
+      { "title": "阿尔弗雷德大帝登基", "description": "阿尔弗雷德成为韦塞克斯王国国王。他在位期间率军抵抗维京人的入侵，修建堡垒，组建海军，编定法典，被誉为“英国国父”。", "latitude": 51.0, "longitude": -1.0, "category": "政治", "region": "英格兰", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 880,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐僖宗李儇", "era": "广明元年" }
+    ],
+    "events": [
+      { "title": "黄巢攻入长安，僖宗西逃", "description": "黄巢军突破潼关，攻入长安。唐僖宗在宦官田令孜挟持下逃往成都。黄巢在长安称帝，国号大齐，改元金统。唐朝中央政权名存实亡。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "亚洲" },
+      { "title": "基辅罗斯建国", "description": "瓦良格人（维京人）首领留里克在诺夫哥罗德建立政权。其继任者奥列格征服基辅，定都基辅，建立基辅罗斯公国。东斯拉夫人进入国家文明时代。", "latitude": 50.5, "longitude": 30.5, "category": "政治", "region": "基辅罗斯", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 881,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐僖宗李儇", "era": "中和元年" }
+    ],
+    "events": [
+      { "title": "唐朝组织反攻", "description": "唐僖宗在成都号令天下勤王。沙陀首领李克用、河中节度使王重荣等率军围攻长安。黄巢军与唐军在长安周边反复拉锯交战。", "latitude": 34.3, "longitude": 108.9, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 882,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐僖宗李儇", "era": "中和二年" }
+    ],
+    "events": [
+      { "title": "朱温（朱全忠）降唐", "description": "黄巢大将朱温在同州（今陕西大荔）投降唐朝，唐僖宗赐名朱全忠，任为同华节度使。朱温的降唐加速了黄巢起义的败亡。", "latitude": 34.8, "longitude": 109.9, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 883,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐僖宗李儇", "era": "中和三年" }
+    ],
+    "events": [
+      { "title": "李克用收复长安", "description": "沙陀首领李克用率骑兵南下，与唐朝各镇联军大败黄巢军于梁田陂。黄巢退出长安东走。黄巢军在攻占长安两年零五个月后彻底失败。", "latitude": 34.3, "longitude": 108.9, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 884,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐僖宗李儇", "era": "中和四年" }
+    ],
+    "events": [
+      { "title": "黄巢兵败自杀", "description": "黄巢退出长安后，连遭唐军追击。在泰山狼虎谷（今山东莱芜）被外甥林言所杀。历时十年的黄巢起义终告失败。唐朝统治虽得以维系但已名存实亡。", "latitude": 36.2, "longitude": 117.6, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 885,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐僖宗李儇", "era": "光启元年" }
+    ],
+    "events": [
+      { "title": "唐僖宗返回长安", "description": "唐僖宗从成都返回长安，但长安城在战乱中已残破不堪。僖宗回京后，各藩镇拥兵自重，互相攻伐。唐朝政令不出关中。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "亚洲" },
+      { "title": "秦宗权称帝", "description": "蔡州节度使秦宗权在黄巢失败后称帝，攻占洛阳、许州等地，势力遍及河南。朱温等藩镇联合讨伐秦宗权，天下进入藩镇混战时期。", "latitude": 33.0, "longitude": 114.4, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 886,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐僖宗李儇", "era": "光启二年" }
+    ],
+    "events": [
+      { "title": "李克用、朱温对抗", "description": "沙陀将领李克用与宣武节度使朱温因救援与邀功问题爆发冲突。李克用遭朱温袭击后双方结下深仇。此后数十年，李克用与朱温两大集团持续对抗。", "latitude": 34.8, "longitude": 114.0, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 887,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐僖宗李儇", "era": "光启三年" }
+    ],
+    "events": [
+      { "title": "杨行密割据淮南", "description": "庐州刺史杨行密击败秦宗权势力，占据扬州，被唐朝任命为淮南节度使。杨行密此后建立吴国，成为五代十国时期南方重要政权。", "latitude": 32.4, "longitude": 119.4, "category": "政治", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 888,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐昭宗李晔", "era": "文德元年" }
+    ],
+    "events": [
+      { "title": "唐僖宗去世，昭宗即位", "description": "唐僖宗李儇病逝，其弟李晔即位，是为唐昭宗。昭宗试图重振朝纲，抑制藩镇和宦官，但唐朝已病入膏肓，无力回天。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 889,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐昭宗李晔", "era": "龙纪元年" }
+    ],
+    "events": [
+      { "title": "朱温灭秦宗权", "description": "朱温在汴州（今开封）击败秦宗权主力，秦宗权被部将执送朱温，被处决。朱温势力进一步壮大，尽有河南之地。", "latitude": 34.8, "longitude": 114.3, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 890,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐昭宗李晔", "era": "大顺元年" }
+    ],
+    "events": [
+      { "title": "昭宗征讨李克用失败", "description": "唐昭宗在朱温怂恿下下诏讨伐河东李克用。唐将张濬率军出征，在阴地被李克用击败。朝廷权威扫地，此后完全沦为藩镇傀儡。", "latitude": 37.0, "longitude": 112.0, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 891,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐昭宗李晔", "era": "大顺二年" }
+    ],
+    "events": [
+      { "title": "王建据蜀", "description": "壁州刺史王建攻占成都，被唐朝任命为西川节度使。王建此后统一四川，为前蜀国的建立奠定基础。十国割据局面逐步形成。", "latitude": 30.6, "longitude": 104.0, "category": "政治", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 892,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐昭宗李晔", "era": "景福元年" }
+    ],
+    "events": [
+      { "title": "董昌称帝，钱镠讨伐", "description": "义胜军节度使董昌在越州（今绍兴）称帝。镇海节度使钱镠受命讨伐董昌，攻占越州后，钱镠据有两浙之地。", "latitude": 30.0, "longitude": 120.6, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 893,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐昭宗李晔", "era": "景福二年" }
+    ],
+    "events": [
+      { "title": "钱镠任镇海镇东节度使", "description": "唐朝任命钱镠为镇海、镇东两军节度使，统辖两浙。钱镠以杭州为中心，修建海塘，发展经济，为吴越国的繁荣奠定了基础。", "latitude": 30.3, "longitude": 120.2, "category": "政治", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 894,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐昭宗李晔", "era": "乾宁元年" }
+    ],
+    "events": [
+      { "title": "日本停派遣唐使", "description": "日本在菅原道真建议下正式停止派遣唐使。自630年以来延续二百六十余年的遣唐使制度终结，中日官方交流进入低潮期。", "latitude": 35.0, "longitude": 135.8, "category": "外交", "region": "日本", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 895,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐昭宗李晔", "era": "乾宁二年" }
+    ],
+    "events": [
+      { "title": "李茂贞等三镇叛乱", "description": "凤翔节度使李茂贞、邠宁节度使王行瑜、镇国节度使韩建等攻入长安，唐昭宗逃往南山。李克用率军勤王，击败三镇联军。", "latitude": 34.3, "longitude": 108.9, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 896,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐昭宗李晔", "era": "乾宁三年" }
+    ],
+    "events": [
+      { "title": "钱镠建杭州罗城", "description": "吴越王钱镠扩建杭州城，修筑罗城，周长七十里。同时修建钱塘江海塘，治理水患，为杭州成为“东南第一州”奠定坚实基础。", "latitude": 30.3, "longitude": 120.2, "category": "社会", "region": "唐", "continent": "亚洲" },
+      { "title": "马殷据湖南", "description": "马殷被唐朝任命为武安军节度使，占据潭州（今长沙）。马殷经营湖南，建立楚国的前身，十国格局进一步形成。", "latitude": 28.2, "longitude": 113.0, "category": "政治", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 898,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐昭宗李晔", "era": "光化元年" }
+    ],
+    "events": [
+      { "title": "朱温吞并河北诸镇", "description": "朱温率军攻占魏博镇，魏博节度使罗弘信服。朱温势力越过黄河，开始吞并河北诸镇。李克用与朱温在河北展开长期争夺。", "latitude": 36.0, "longitude": 114.0, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 899,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐昭宗李晔", "era": "光化二年" }
+    ],
+    "events": [
+      { "title": "朱温攻李克用", "description": "朱温大举进攻河东李克用，围困李克用于晋阳（今太原）。李克用死守城池，又逢雨季，朱温军疫病流行撤军。李克用险遭覆灭。", "latitude": 37.9, "longitude": 112.5, "category": "军事", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 900,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐昭宗李晔", "era": "光化三年" }
+    ],
+    "events": [
+      { "title": "宦官幽禁昭宗，立太子为帝", "description": "宦官刘季述、王仲先等发动政变，幽禁唐昭宗于少阳院，立太子李裕为帝。朱温表示反对，派兵向长安进发。宦官无力对抗，只得反正恢复昭宗帝位。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "亚洲" },
+      { "title": "马扎尔人入侵欧洲", "description": "马扎尔人（匈牙利人）在阿尔帕德大公率领下越过喀尔巴阡山脉，进入潘诺尼亚平原，不断侵袭中欧各地，给欧洲各国造成严重威胁。", "latitude": 47.5, "longitude": 19.0, "category": "军事", "region": "欧洲", "continent": "欧洲" }
+    ]
+  }
+]

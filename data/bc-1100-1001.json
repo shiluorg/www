@@ -1,0 +1,241 @@
+[
+  {
+    "year": -1100,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王帝辛（纣王）", "era": "" }
+    ],
+    "events": [
+      { "title": "商纣王征伐东夷加剧", "description": "商纣王连年征伐东夷（今山东、江苏、安徽一带），虽然将商朝势力扩展至东南沿海地区，但连年征战严重消耗了商朝的国力与军力。东夷地区的财富被大量掠夺至朝歌，加剧了社会矛盾。", "latitude": 34.5, "longitude": 117.0, "category": "军事", "region": "中国/商", "continent": "亚洲" },
+      { "title": "埃及第二十王朝日益衰落", "description": "拉美西斯九世统治下的埃及内忧外患。底比斯的阿蒙祭司势力已凌驾于法老之上，盗墓活动猖獗（著名的\"金字塔盗墓案\"发生于此时）。法老实际控制范围仅限于下埃及三角洲地区。", "latitude": 25.7, "longitude": 32.6, "category": "政治", "region": "古埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1090,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王帝辛（纣王）", "era": "" },
+      { "dynastyId": "xizhou", "name": "周（诸侯国）", "ruler": "周文王姬昌", "era": "" }
+    ],
+    "events": [
+      { "title": "亚述帝国受阿拉米人冲击", "description": "提格拉特帕拉沙尔一世统治末期，阿拉米人（Arameans）大规模迁徙进入美索不达米亚，亚述帝国在阿拉米人的持续冲击下开始收缩。亚述在幼发拉底河以西的领土大量丧失，帝国进入一个多世纪的衰落期。", "latitude": 36.5, "longitude": 42.5, "category": "民族迁徙", "region": "美索不达米亚", "continent": "亚洲" },
+      { "title": "周文王积极扩张周人势力", "description": "周文王姬昌在丰京继续推行仁政，发展生产。周人征服了周边多个方国部落，包括犬戎、密须、耆国等。周文王通过分化瓦解、恩威并施的策略，使越来越多的诸侯国归附于周，灭商条件日趋成熟。", "latitude": 34.2, "longitude": 108.8, "category": "政治", "region": "中国/周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1087,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王帝辛（纣王）", "era": "" },
+      { "dynastyId": "xizhou", "name": "周（诸侯国）", "ruler": "周文王姬昌", "era": "" }
+    ],
+    "events": [
+      { "title": "商朝统治集团分裂加剧", "description": "纣王残暴统治导致商朝统治集团内部严重分裂。王子比干因强谏被纣王剖心杀害，箕子被囚禁，微子启（纣王之兄）多次劝谏无效后被迫出逃。商朝忠臣纷纷离弃，朝政日益腐败。", "latitude": 34.5, "longitude": 114.5, "category": "政治", "region": "中国/商", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1080,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王帝辛（纣王）", "era": "" }
+    ],
+    "events": [
+      { "title": "以色列士师以利执政", "description": "以色列人进入士师时期末期，以利（Eli）在示罗担任大祭司兼士师。约柜安放在示罗的会幕中。以利的两个儿子何弗尼、非尼哈行为败坏，引起以色列民众不满。先知撒母耳在此时被献给神，在会幕中服侍。", "latitude": 31.8, "longitude": 35.2, "category": "宗教", "region": "迦南/以色列", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1076,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王帝辛（纣王）", "era": "" },
+      { "dynastyId": "xizhou", "name": "周（诸侯国）", "ruler": "周文王姬昌", "era": "" }
+    ],
+    "events": [
+      { "title": "商朝微子启出逃", "description": "微子启（商纣王同母庶兄）多次劝谏纣王无效，为保全宗庙社稷，在太师、少师的建议下携带商朝祭器出逃至周。此事标志着商朝统治集团已彻底离心离德，大批贵族倒向周人。", "latitude": 34.5, "longitude": 114.5, "category": "政治", "region": "中国/商", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1069,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王帝辛（纣王）", "era": "" },
+      { "dynastyId": "xizhou", "name": "周（诸侯国）", "ruler": "周文王姬昌", "era": "" }
+    ],
+    "events": [
+      { "title": "周文王被囚羑里（传统年代）", "description": "周文王姬昌被商纣王囚禁于羑里（今河南汤阴）长达七年。在狱中，文王将伏羲八卦推演为六十四卦，并撰写了卦辞，奠定了《周易》的基础。其长子伯邑考被纣王杀害并做成肉羹赐给文王食用。后周臣用奇珍异宝贿赂纣王，文王得以获释。", "latitude": 35.9, "longitude": 114.3, "category": "政治", "region": "中国/周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1064,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王帝辛（纣王）", "era": "" },
+      { "dynastyId": "xizhou", "name": "周（诸侯国）", "ruler": "周文王姬昌", "era": "" }
+    ],
+    "events": [
+      { "title": "周文王渭水访贤得姜尚", "description": "周文王在渭水之滨访得隐士姜尚（姜子牙、吕尚）。相传姜尚在磻溪垂钓，用直钩钓鱼，言\"愿者上钩\"。文王见其胸怀大略，拜为太师。姜尚辅佐文王修德安民、练兵备战，为日后武王伐纣奠定了坚实基础。", "latitude": 34.3, "longitude": 107.6, "category": "政治", "region": "中国/周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1055,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王帝辛（纣王）", "era": "" },
+      { "dynastyId": "xizhou", "name": "周（诸侯国）", "ruler": "周武王姬发", "era": "" }
+    ],
+    "events": [
+      { "title": "周武王姬发即位", "description": "周文王姬昌去世，次子姬发继位，是为周武王。武王继承文王遗志，以太公姜尚为太师，周公旦（武王之弟）为辅佐，召公奭、毕公高等贤臣共襄大业。武王在沣水东岸新建镐京，积极筹备伐商大业。", "latitude": 34.2, "longitude": 108.8, "category": "政治", "region": "中国/周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1050,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王帝辛（纣王）", "era": "" },
+      { "dynastyId": "xizhou", "name": "周（诸侯国）", "ruler": "周武王姬发", "era": "" }
+    ],
+    "events": [
+      { "title": "孟津观兵，八百诸侯会盟", "description": "周武王在孟津（今河南孟津）举行大规模军事演习，史称\"孟津观兵\"。据记载，不期而至的诸侯多达八百个，诸侯皆认为\"纣可伐矣\"。武王审时度势，认为时机尚未成熟，挥师西归，继续等待最佳时机。", "latitude": 34.8, "longitude": 112.4, "category": "军事", "region": "中国/周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1046,
+    "dynasties": [
+      { "dynastyId": "shang", "name": "商", "ruler": "商王帝辛（纣王）", "era": "" },
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周武王姬发", "era": "武王元年" }
+    ],
+    "events": [
+      { "title": "牧野之战，商纣自焚，商朝灭亡", "description": "周武王联合庸、蜀、羌、髳、微、卢、彭、濮等诸侯方国，率战车三百乘、虎贲三千人、甲士四万五千人东征。在朝歌郊外的牧野（今河南汲县）与商纣王的七十万大军展开决战。商军阵前倒戈，纣王逃回朝歌登上鹿台，自焚而死。商朝历经约五百余年而亡。周朝正式建立，定都镐京（今陕西西安）。", "latitude": 35.0, "longitude": 113.9, "category": "军事", "region": "中国/商周", "continent": "亚洲" },
+      { "title": "周武王分封诸侯", "description": "周武王灭商后，推行分封制，大封功臣、宗室和先圣后裔。封姜尚于齐（都营丘），封周公旦于鲁（使其子伯禽代就封），封召公奭于燕。同时\"以殷治殷\"，封纣王之子武庚于殷都，统率殷商遗民。又将管叔鲜、蔡叔度、霍叔处封于殷都周围，监视武庚。", "latitude": 34.5, "longitude": 114.5, "category": "政治", "region": "中国/西周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1043,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周武王姬发/周成王姬诵", "era": "武王四年/成王元年" }
+    ],
+    "events": [
+      { "title": "周武王病逝，成王幼年即位", "description": "周武王灭商后两年（一说四年）病逝于镐京。太子姬诵年幼，年仅十三岁，由武王之弟周公旦摄政，代行天子之权。成王即位初期，天下未定，新生的周政权面临严峻考验。", "latitude": 34.2, "longitude": 108.8, "category": "政治", "region": "中国/西周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1042,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周成王姬诵", "era": "成王元年" }
+    ],
+    "events": [
+      { "title": "武庚叛乱（三监之乱）", "description": "周公旦摄政引起管叔鲜、蔡叔度的强烈不满，二人散布流言\"周公将不利于孺子\"，并联合纣王之子武庚以及东夷的徐、奄、薄姑等方国部落发动大规模武装叛乱。叛乱波及整个东方地区，对新生周政权构成严重威胁。", "latitude": 35.0, "longitude": 114.5, "category": "军事", "region": "中国/西周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1040,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周成王姬诵", "era": "成王三年" }
+    ],
+    "events": [
+      { "title": "周公东征平定三监之乱", "description": "周公旦以成王之命率大军东征，历经三年苦战，最终平定武庚、管叔、蔡叔的叛乱。武庚和管叔鲜被诛杀，蔡叔度被流放。霍叔处被贬为庶人。周公乘胜继续东征，征服了参与叛乱的徐、奄、蒲姑等东夷方国，周朝的势力扩展到东海之滨。", "latitude": 35.5, "longitude": 116.0, "category": "军事", "region": "中国/西周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1038,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周成王姬诵", "era": "成王五年" }
+    ],
+    "events": [
+      { "title": "周公分封东方诸侯", "description": "周公东征胜利后，为巩固周朝对东方的统治，大规模分封同姓诸侯和功臣。封康叔于卫（统治殷商故地），封微子启于宋（奉商朝宗祀），封太公姜尚于齐（扩疆至山东北部），封伯禽于鲁（统治奄国故地）。同时将殷商\"顽民\"迁至洛邑集中监管。", "latitude": 34.5, "longitude": 115.0, "category": "政治", "region": "中国/西周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1036,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周成王姬诵", "era": "成王七年" }
+    ],
+    "events": [
+      { "title": "周公归政于成王", "description": "周公旦摄政七年后，见成王已长大成人，毅然还政于成王，自己北面称臣。周公的\"恐惧流言日，王莽谦恭未篡时\"成为后世评价权臣摄政的典范。成王亲政后，继续推行周公制定的礼乐制度。", "latitude": 34.2, "longitude": 108.8, "category": "政治", "region": "中国/西周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1035,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周成王姬诵", "era": "成王八年" }
+    ],
+    "events": [
+      { "title": "周公制礼作乐", "description": "周公旦在摄政和归政后，主持制定了周朝的礼乐制度。周公将上古至殷商的礼仪制度加以整理改造，制定了一整套以宗法制为核心的礼乐体系，包括吉礼、凶礼、军礼、宾礼、嘉礼等。这些制度奠定了中国传统文化的基础，影响深远。", "latitude": 34.2, "longitude": 108.8, "category": "文化", "region": "中国/西周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1030,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周成王姬诵", "era": "成王十三年" }
+    ],
+    "events": [
+      { "title": "周成王营建洛邑（成周）", "description": "周成王采纳周公建议，在洛水之滨营建东都洛邑（成周，今河南洛阳）。洛邑作为周朝东方的政治、军事中心，用以加强对东方诸侯的控制，也是殷商遗民的集中安置地。洛邑与镐京（宗周）构成周朝的两都体系。", "latitude": 34.7, "longitude": 112.5, "category": "政治", "region": "中国/西周", "continent": "亚洲" },
+      { "title": "古希腊黑暗时代持续", "description": "古希腊迈锡尼文明崩溃后已历百余年，希腊大陆处于文明低谷期。人口稀少，贸易停滞，文字失传，大型建筑和精美工艺品消失。不过铁器开始传入希腊，多利安人（Dorians）的迁徙也在重塑希腊的人口结构。", "latitude": 38.0, "longitude": 22.0, "category": "文明兴衰", "region": "古希腊", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -1025,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周成王姬诵", "era": "成王十八年" }
+    ],
+    "events": [
+      { "title": "周成王时期成康之治开启", "description": "周成王在周公、召公的辅佐下，推行休养生息政策，社会安定，经济发展。成王晚年，周朝已基本巩固了在全国的统治，\"成康之治\"的盛世局面开始形成。此时周朝疆域西起陇山，东至海滨，北达燕山，南抵淮汉。", "latitude": 34.2, "longitude": 108.8, "category": "政治", "region": "中国/西周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1021,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周成王姬诵/周康王姬钊", "era": "成王二十二年/康王元年" }
+    ],
+    "events": [
+      { "title": "周成王去世，康王即位", "description": "周成王姬诵病逝，太子姬钊即位，是为周康王。召公奭和毕公高等老臣继续辅政。康王即位后，继承成王政策，继续推行与民休息的国策，周朝国势持续上升。", "latitude": 34.2, "longitude": 108.8, "category": "政治", "region": "中国/西周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1018,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周康王姬钊", "era": "康王三年" }
+    ],
+    "events": [
+      { "title": "康王命毕公管理成周", "description": "周康王命毕公高（周文王第十五子）前往洛邑（成周）负责治理殷商移民。毕公在洛邑推行教化，安抚殷遗民，稳定了东方局势。这件大事记载于《尚书·毕命》篇中。", "latitude": 34.7, "longitude": 112.5, "category": "政治", "region": "中国/西周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1015,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周康王姬钊", "era": "康王六年" }
+    ],
+    "events": [
+      { "title": "周康王伐鬼方", "description": "周康王命重臣盂率大军征伐西北方的鬼方部落。据小盂鼎铭文记载，此战大获全胜，斩获鬼方首领、俘虏数以万计，缴获大量战利品。这次胜利巩固了周朝在西北边疆的统治，消除了来自西北方向的威胁。", "latitude": 36.0, "longitude": 107.0, "category": "军事", "region": "中国/西周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1010,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周康王姬钊", "era": "康王十一年" }
+    ],
+    "events": [
+      { "title": "以色列王国建立，扫罗受膏为王", "description": "以色列各支派在先知撒母耳的主持下，在米斯巴立扫罗（Saul）为以色列的第一位国王。扫罗属于便雅悯支派，是一位高大勇武的战士。他领导以色列人多次与非利士人交战，建立了君主制初期的以色列王国。", "latitude": 31.8, "longitude": 35.2, "category": "政治", "region": "迦南/以色列", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1005,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周康王姬钊", "era": "康王十六年" }
+    ],
+    "events": [
+      { "title": "大卫击败歌利亚（约）", "description": "非利士人集结大军入侵以色列，在以拉谷对峙。非利士巨人歌利亚（Goliath）连日向以色列军挑战，无人敢应战。牧羊少年大卫（David）用机弦甩石击中歌利亚额头，将其击杀，以色列军乘势大败非利士人。大卫从此成为以色列的民族英雄。", "latitude": 31.7, "longitude": 34.9, "category": "军事", "region": "迦南/以色列", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1003,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周康王姬钊", "era": "康王十八年" }
+    ],
+    "events": [
+      { "title": "大卫成为犹大王", "description": "扫罗王与非利士人作战阵亡后，大卫在希伯仑被犹大支派膏立为犹大王。扫罗之子伊施波设在押尼珥支持下成为以色列王。以色列王国进入分裂时期，大卫在希伯仑统治犹大七年半。", "latitude": 31.5, "longitude": 35.1, "category": "政治", "region": "迦南/以色列", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1001,
+    "dynasties": [
+      { "dynastyId": "xizhou", "name": "西周", "ruler": "周康王姬钊", "era": "康王二十年" }
+    ],
+    "events": [
+      { "title": "成康之治达到鼎盛", "description": "周康王在位二十年，继承成王事业，坚持\"明德慎罚\"的治国方针。周朝政治清明，刑法搁置四十余年不用，史称\"成康之治\"。周朝疆域进一步扩大，与周边民族保持和平交往，西周进入鼎盛时期。", "latitude": 34.2, "longitude": 108.8, "category": "政治", "region": "中国/西周", "continent": "亚洲" },
+      { "title": "腓尼基人活跃于地中海贸易", "description": "腓尼基人（以推罗、西顿为中心）在地中海贸易中日益活跃。他们延续了海上民族的航海传统，在塞浦路斯、北非沿岸、撒丁岛等地建立贸易据点。腓尼基字母文字开始在地中海世界传播，成为后世希腊字母和拉丁字母的源头。", "latitude": 33.0, "longitude": 35.0, "category": "经济", "region": "腓尼基/地中海", "continent": "亚洲" },
+      { "title": "埃及第二十王朝名存实亡", "description": "拉美西斯十一世统治下的埃及第二十王朝已名存实亡。底比斯的阿蒙大祭司赫里霍尔（Herihor）实际控制了上埃及，自封为法老。斯门德斯（Smendes）控制了下埃及塔尼斯地区。埃及新王国时代即将终结，第三中间期即将开始。", "latitude": 25.7, "longitude": 32.6, "category": "政治", "region": "古埃及", "continent": "非洲" }
+    ]
+  }
+]

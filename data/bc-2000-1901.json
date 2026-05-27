@@ -1,0 +1,102 @@
+[
+  {
+    "year": -2000,
+    "dynasties": [
+      { "dynastyId": "xia", "name": "夏", "ruler": "夏相", "era": "" }
+    ],
+    "events": [
+      { "title": "米诺斯文明进入中期", "description": "克里特岛的米诺斯文明进入中期阶段，克诺索斯、法伊斯托斯和马利亚等地开始建造大型宫殿群。这些宫殿拥有复杂的房间布局、先进的排水系统和精美的壁画，标志着欧洲第一个高级文明的成熟。", "latitude": 35.2, "longitude": 25.0, "category": "文化", "region": "克里特", "continent": "欧洲" },
+      { "title": "印度河流域文明开始衰微", "description": "印度河流域文明（哈拉帕文化）开始出现衰微迹象，摩亨佐-达罗等城市逐渐失去往日的繁荣。可能的原因包括河流改道、气候变化和贸易衰退。", "latitude": 27.3, "longitude": 68.1, "category": "社会", "region": "印度河流域", "continent": "亚洲" },
+      { "title": "伊辛-拉尔萨争霸", "description": "两河流域南部分裂为伊辛和拉尔萨两大城邦势力，双方为争夺对尼普尔等宗教中心的控制权持续对抗。伊辛国王伊什比-埃拉在位末期巩固了北方领地。", "latitude": 31.9, "longitude": 45.3, "category": "政治", "region": "美索不达米亚", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1991,
+    "dynasties": [
+      { "dynastyId": "xia", "name": "夏", "ruler": "夏相", "era": "" }
+    ],
+    "events": [
+      { "title": "阿蒙涅姆赫特一世建立埃及第十二王朝", "description": "埃及法老阿蒙涅姆赫特一世（Amenemhat I）夺取王位，建立第十二王朝。他将首都从底比斯迁至新的都城伊塔威（Itjtawy，意为'两地的掌控者'），位于尼罗河三角洲入口处，便于控制上下埃及。", "latitude": 29.5, "longitude": 31.2, "category": "政治", "region": "埃及", "continent": "非洲" },
+      { "title": "阿蒙涅姆赫特一世推行改革", "description": "新法老阿蒙涅姆赫特一世推行一系列中央集权改革，削弱地方贵族权力，重新划分行政区域，加强中央政府对全国资源的控制。他还修建了著名的'大公墙'（Walls of the Ruler），用以防御亚洲游牧部落的入侵。", "latitude": 29.5, "longitude": 31.2, "category": "政治", "region": "埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1985,
+    "dynasties": [
+      { "dynastyId": "xia", "name": "夏", "ruler": "夏相", "era": "" }
+    ],
+    "events": [
+      { "title": "伊辛王位更迭", "description": "伊辛王朝开国君主伊什比-埃拉去世，其子舒伊里舒（Shu-ilishu）继位。舒伊里舒从埃兰人手中赎回乌尔城的神像月神南纳，在乌尔重建神庙，提高伊辛王朝的宗教威望。", "latitude": 30.96, "longitude": 46.1, "category": "宗教", "region": "美索不达米亚", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1980,
+    "dynasties": [
+      { "dynastyId": "xia", "name": "夏", "ruler": "夏相", "era": "" }
+    ],
+    "events": [
+      { "title": "寒浞篡夏", "description": "后羿代夏后，耽于射猎，委政于亲信寒浞。寒浞趁后羿不备将其杀害，霸占后羿妻室，自立为王。寒浞为消除夏朝残余势力，派其子浇率军攻灭斟灌氏和斟鄩氏，夏王相被杀害。", "latitude": 34.5, "longitude": 112.8, "category": "政治", "region": "夏", "continent": "亚洲" },
+      { "title": "少康诞生", "description": "夏王相被杀时，其妃后缗已有身孕，从墙洞逃脱，逃归娘家有仍氏（今山东济宁），生下遗腹子少康。少康成为夏朝复兴的希望。", "latitude": 35.4, "longitude": 116.6, "category": "政治", "region": "夏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1970,
+    "dynasties": [
+      { "dynastyId": "xia", "name": "夏", "ruler": "夏少康（流亡）", "era": "" }
+    ],
+    "events": [
+      { "title": "少康幼年流亡", "description": "少康在有仍氏长大，自幼立志复国。他担任有仍氏的牧正（主管畜牧的官员），暗中积蓄力量，联络夏朝遗民。寒浞闻讯后派浇追杀，少康被迫逃亡有虞氏（今河南虞城）。", "latitude": 34.4, "longitude": 115.8, "category": "政治", "region": "夏", "continent": "亚洲" },
+      { "title": "塞索斯特里斯一世与父共治", "description": "埃及法老阿蒙涅姆赫特一世立其子塞索斯特里斯一世（Senusret I）为共治者，共同管理国家。这一制度成为中王国时期王位继承的惯例，有助于确保权力平稳过渡。", "latitude": 29.5, "longitude": 31.2, "category": "政治", "region": "埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1962,
+    "dynasties": [
+      { "dynastyId": "xia", "name": "夏", "ruler": "夏少康（流亡）", "era": "" }
+    ],
+    "events": [
+      { "title": "阿蒙涅姆赫特一世遇刺", "description": "埃及法老阿蒙涅姆赫特一世在宫廷政变中被侍卫刺杀。其子塞索斯特里斯一世当时正远征利比亚，闻讯后迅速返回首都平叛，巩固了王位。这一事件被记录在著名的《阿蒙涅姆赫特一世训诫》中。", "latitude": 29.5, "longitude": 31.2, "category": "政治", "region": "埃及", "continent": "非洲" },
+      { "title": "塞索斯特里斯一世远征努比亚", "description": "埃及新法老塞索斯特里斯一世继位后，立即发动对努比亚（今苏丹北部）的大规模军事远征。埃及军队深入尼罗河第三瀑布以南，征服大片领土，获取黄金、象牙和奴隶等资源。", "latitude": 23.0, "longitude": 32.5, "category": "军事", "region": "埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1950,
+    "dynasties": [
+      { "dynastyId": "xia", "name": "夏", "ruler": "夏少康（流亡）", "era": "" }
+    ],
+    "events": [
+      { "title": "少康积蓄力量", "description": "少康在有虞氏受到礼遇，有虞氏首领虞思将两个女儿嫁给少康，封给他纶邑（今河南虞城东南）作为封地。少康在纶邑拥有方圆十里的土地和五百名部众，以此为基地招纳夏朝遗民，训练军队，准备复国。", "latitude": 34.4, "longitude": 115.8, "category": "政治", "region": "夏", "continent": "亚洲" },
+      { "title": "拉尔萨城邦扩张", "description": "拉尔萨国王萨米乌姆（Samium）在位期间，积极扩张领土，与伊辛王朝争夺对乌尔和尼普尔等宗教圣城的控制权。两河流域的城邦争霸进入白热化阶段。", "latitude": 31.3, "longitude": 45.9, "category": "军事", "region": "美索不达米亚", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": -1930,
+    "dynasties": [
+      { "dynastyId": "xia", "name": "夏", "ruler": "夏少康（流亡）", "era": "" }
+    ],
+    "events": [
+      { "title": "少康联络夏朝旧臣", "description": "少康暗中派亲信女艾前往寒浞统治区，联络夏朝旧臣和同姓诸侯。女艾成功潜入寒浞之子浇的领地，刺探军事情报。同时，少康的另一下属季杼秘密联络斟灌氏和斟鄩氏的遗民，组织抵抗力量。", "latitude": 34.5, "longitude": 113.5, "category": "军事", "region": "夏", "continent": "亚洲" },
+      { "title": "塞索斯特里斯一世统治鼎盛", "description": "埃及法老塞索斯特里斯一世在位中期，国家强盛。他在全国各地大兴土木，扩建卡纳克阿蒙神庙，竖立多座方尖碑。埃及艺术和文学在中王国时期达到新的高峰。", "latitude": 25.7, "longitude": 32.6, "category": "文化", "region": "埃及", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": -1920,
+    "dynasties": [
+      { "dynastyId": "xia", "name": "夏", "ruler": "夏少康（流亡）", "era": "" }
+    ],
+    "events": [
+      { "title": "少康准备反攻", "description": "经过数十年准备，少康已经拥有相当实力。他在纶邑建立军事基地，训练精锐部队，并与斟灌氏、斟鄩氏的残余势力取得联系，约定共同起兵讨伐寒浞。", "latitude": 34.4, "longitude": 115.8, "category": "军事", "region": "夏", "continent": "亚洲" },
+      { "title": "伊辛王朝内乱", "description": "伊辛国王伊什麦-达甘（Ishme-Dagan）去世后，伊辛王朝内部出现继承纷争。拉尔萨乘机加紧进攻，夺取了部分原属伊辛控制的城镇。伊辛-拉尔萨争霸的天平开始向拉尔萨倾斜。", "latitude": 31.9, "longitude": 45.3, "category": "政治", "region": "美索不达米亚", "continent": "亚洲" },
+      { "title": "米诺斯宫殿建筑繁荣", "description": "克里特岛的克诺索斯宫殿群持续扩建，出现了多层的宫殿建筑、复杂的储藏室系统、大型陶罐（pithoi）用于储存橄榄油和谷物。米诺斯文明的海上贸易网络延伸至埃及和叙利亚海岸。", "latitude": 35.2, "longitude": 25.0, "category": "文化", "region": "克里特", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": -1901,
+    "dynasties": [
+      { "dynastyId": "xia", "name": "夏", "ruler": "夏少康（准备复国）", "era": "" }
+    ],
+    "events": [
+      { "title": "少康誓师伐寒浞", "description": "少康在纶邑召集夏朝遗民和同盟诸侯，正式誓师兴兵讨伐寒浞。少康命女婿靡率斟灌氏和斟鄩氏遗兵为先锋，长子季杼率精锐主力为中军，分路出击寒浞之子浇的封地。", "latitude": 34.4, "longitude": 115.8, "category": "军事", "region": "夏", "continent": "亚洲" }
+    ]
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "year": 1901,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪二十七年" }
+    ],
+    "events": [
+      { "title": "《辛丑条约》签订", "description": "清廷与十一国签订《辛丑条约》，赔款白银四亿五千万两，划东交民巷为使馆界，拆毁大沽炮台，中国彻底沦为半殖民地半封建社会。", "latitude": 39.9, "longitude": 116.4, "category": "外交", "region": "清", "continent": "亚洲" },
+      { "title": "清末新政启动", "description": "慈禧太后在西安颁布上谕，宣布实行新政，包括编练新军、改革官制、振兴商务、废科举兴学堂等，开启晚清最后十年改革。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "首届诺贝尔奖颁发", "description": "根据诺贝尔遗嘱设立的首届诺贝尔奖在斯德哥尔摩颁发，包括物理学、化学、生理学或医学、文学与和平奖五大奖项。", "latitude": 59.3, "longitude": 18.1, "category": "文化", "region": "瑞典", "continent": "欧洲" },
+      { "title": "麦金莱总统遇刺身亡", "description": "美国总统威廉·麦金莱在纽约布法罗被无政府主义者刺杀身亡，副总统西奥多·罗斯福继任总统，开启进步主义时代。", "latitude": 42.9, "longitude": -78.9, "category": "政治", "region": "美国", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1902,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪二十八年" }
+    ],
+    "events": [
+      { "title": "日英同盟签订", "description": "英国与日本在伦敦签订《日英同盟条约》，英国承认日本在中国和朝鲜的“特殊利益”，日本获得对抗俄国的国际支持。", "latitude": 51.5, "longitude": -0.1, "category": "外交", "region": "大不列颠", "continent": "欧洲" },
+      { "title": "布尔战争结束", "description": "英国与布尔人签署《弗里尼欣和约》，第二次布尔战争结束，德兰士瓦和奥兰治自由邦沦为英国殖民地，南非统一于英国治下。", "latitude": -26.2, "longitude": 28.0, "category": "军事", "region": "南非", "continent": "非洲" },
+      { "title": "梁启超创办《新民丛报》", "description": "梁启超在日本横滨创办《新民丛报》，广泛介绍西方政治学说，鼓吹君主立宪和民权思想，对知识界产生巨大影响。", "latitude": 35.4, "longitude": 139.6, "category": "文化", "region": "日本", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1903,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪二十九年" }
+    ],
+    "events": [
+      { "title": "莱特兄弟首次动力飞行", "description": "莱特兄弟驾驶自制的“飞行者一号”在美国北卡罗来纳州基蒂霍克完成首次持续动力飞行，飞行距离约36米，开创航空新时代。", "latitude": 36.0, "longitude": -75.7, "category": "科技", "region": "美国", "continent": "北美洲" },
+      { "title": "居里夫妇获诺贝尔物理学奖", "description": "居里夫妇与贝克勒尔因对放射性的研究共同获得诺贝尔物理学奖，玛丽·居里成为首位获诺贝尔奖的女性科学家。", "latitude": 48.9, "longitude": 2.3, "category": "科技", "region": "法国", "continent": "欧洲" },
+      { "title": "俄国社会民主工党第二次代表大会", "description": "俄国社会民主工党在布鲁塞尔和伦敦召开第二次代表大会，列宁领导的布尔什维克派获得多数席位，标志着布尔什维克党的诞生。", "latitude": 51.5, "longitude": -0.1, "category": "政治", "region": "俄罗斯", "continent": "欧洲" },
+      { "title": "《苏报》案", "description": "上海《苏报》因刊登章太炎、邹容等革命派文章被清廷查封，章太炎被捕入狱，邹容死于狱中，激起全国公愤。", "latitude": 31.2, "longitude": 121.5, "category": "政治", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1904,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪三十年" }
+    ],
+    "events": [
+      { "title": "日俄战争爆发", "description": "日本海军突袭旅顺口俄国舰队，日俄战争爆发。双方在中国东北交战，争夺朝鲜和满洲利益，清廷宣布“局外中立”。", "latitude": 38.8, "longitude": 121.3, "category": "军事", "region": "清", "continent": "亚洲" },
+      { "title": "英法协约签订", "description": "英国与法国在伦敦签订《英法协约》，解决两国在埃及、摩洛哥、纽芬兰等地的殖民争端，为后来的三国协约奠定基础。", "latitude": 51.5, "longitude": -0.1, "category": "外交", "region": "大不列颠", "continent": "欧洲" },
+      { "title": "巴拿马运河动工", "description": "美国从法国手中接管巴拿马运河开凿权后正式动工，工程历时十年，成为当时世界最大的土木工程项目之一。", "latitude": 8.9, "longitude": -79.5, "category": "科技", "region": "巴拿马", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1905,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪三十一年" }
+    ],
+    "events": [
+      { "title": "日俄战争结束", "description": "在美国斡旋下，日俄签署《朴茨茅斯和约》，俄国将旅顺、大连及南满铁路权益转让给日本，日本独占朝鲜并进入中国东北。", "latitude": 43.2, "longitude": -70.6, "category": "外交", "region": "美国", "continent": "北美洲" },
+      { "title": "爱因斯坦创立狭义相对论", "description": "爱因斯坦在德国《物理学纪事》发表《论动体的电动力学》论文，提出狭义相对论，颠覆了牛顿力学的时间和空间观念。", "latitude": 46.9, "longitude": 7.5, "category": "科技", "region": "瑞士", "continent": "欧洲" },
+      { "title": "中国同盟会成立", "description": "孙中山在日本东京将兴中会、华兴会、光复会等革命团体合并成立中国同盟会，提出“驱除鞑虏、恢复中华、创立民国、平均地权”纲领。", "latitude": 35.7, "longitude": 139.7, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "清廷废除科举制度", "description": "清廷发布上谕，自1906年起废止科举考试，推行新式学堂教育，延续一千三百年的科举制度至此终结。", "latitude": 39.9, "longitude": 116.4, "category": "文化", "region": "清", "continent": "亚洲" },
+      { "title": "俄国1905年革命", "description": "沙俄军警在“血腥星期日”枪杀请愿工人，引发全俄大罢工和武装起义，虽被镇压但迫使沙皇颁布《十月宣言》，成立国家杜马。", "latitude": 59.9, "longitude": 30.3, "category": "政治", "region": "俄罗斯", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1906,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪三十二年" }
+    ],
+    "events": [
+      { "title": "旧金山大地震", "description": "美国旧金山发生8.3级大地震并引发大火，城市大半被毁，约3000人死亡，数十万人无家可归，为美国史上最严重自然灾害之一。", "latitude": 37.8, "longitude": -122.4, "category": "社会", "region": "美国", "continent": "北美洲" },
+      { "title": "清廷宣布预备立宪", "description": "慈禧太后颁布预备立宪诏书，宣布“仿行宪政”，但以“规制未备”为由暂不实行，开始为期九年的预备立宪。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "英国工党成立", "description": "英国独立工党、社会民主联盟和费边社等团体合并成立工党，作为工人阶级政治代表参与议会选举，逐渐取代自由党成为两大政党之一。", "latitude": 51.5, "longitude": -0.1, "category": "政治", "region": "大不列颠", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1907,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪三十三年" }
+    ],
+    "events": [
+      { "title": "第二次海牙和平会议", "description": "44国代表在荷兰海牙召开第二次国际和平会议，通过《海牙公约》系列，规范战争行为，确立海牙国际法庭雏形。", "latitude": 52.1, "longitude": 4.3, "category": "外交", "region": "荷兰", "continent": "欧洲" },
+      { "title": "英俄协约签订", "description": "英国与俄国在圣彼得堡签订协约，划分两国在波斯、阿富汗和中国西藏的势力范围，至此三国协约正式形成。", "latitude": 59.9, "longitude": 30.3, "category": "外交", "region": "俄罗斯", "continent": "欧洲" },
+      { "title": "徐锡麟安庆起义", "description": "光复会领袖徐锡麟在安庆刺杀安徽巡抚恩铭后发动起义，事败被俘就义；秋瑾在绍兴响应，亦被捕牺牲，震动全国。", "latitude": 30.5, "longitude": 117.1, "category": "军事", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1908,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清德宗爱新觉罗载湉", "era": "光绪三十四年" }
+    ],
+    "events": [
+      { "title": "光绪帝与慈禧太后相继去世", "description": "光绪帝和慈禧太后在两天内先后去世，光绪帝年仅38岁，慈禧掌权近半个世纪，清廷统治核心瞬间真空。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "宣统帝溥仪即位", "description": "醇亲王载沣之子、年仅三岁的溥仪即位为宣统皇帝，载沣以摄政王身份执掌朝政，清王朝步入最后岁月。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "福特T型车投产", "description": "福特汽车公司在美国底特律推出T型车，采用流水线批量生产，价格低廉，使汽车进入寻常百姓家，改变美国交通面貌。", "latitude": 42.3, "longitude": -83.0, "category": "科技", "region": "美国", "continent": "北美洲" },
+      { "title": "《钦定宪法大纲》颁布", "description": "清廷颁布《钦定宪法大纲》，规定皇帝拥有至高权力，臣民仅有有限权利，带有浓厚君权色彩，立宪派颇为失望。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1909,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣统帝爱新觉罗溥仪", "era": "宣统元年" }
+    ],
+    "events": [
+      { "title": "京张铁路建成通车", "description": "詹天佑主持设计的京张铁路建成通车，全长约200公里，是中国人自行设计和建造的第一条干线铁路，采用“人”字形展线攻克八达岭难关。", "latitude": 40.8, "longitude": 114.9, "category": "科技", "region": "清", "continent": "亚洲" },
+      { "title": "美国大白舰队环球航行", "description": "美国海军16艘战列舰组成的大白舰队完成环球航行，航程约4.6万海里，向世界展示美国海军实力和新兴大国地位。", "latitude": 36.8, "longitude": -76.3, "category": "军事", "region": "美国", "continent": "北美洲" },
+      { "title": "各省咨议局成立", "description": "清廷在各省设立咨议局作为地方议会雏形，立宪派人士大量当选，咨议局成为推动宪政改革和表达民意的合法平台。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1910,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣统帝爱新觉罗溥仪", "era": "宣统二年" }
+    ],
+    "events": [
+      { "title": "日本吞并朝鲜", "description": "日本与朝鲜签订《日韩合并条约》，正式吞并朝鲜半岛，设立朝鲜总督府，大韩帝国灭亡，朝鲜进入长达三十五年的殖民时期。", "latitude": 37.6, "longitude": 127.0, "category": "政治", "region": "朝鲜", "continent": "亚洲" },
+      { "title": "国会请愿运动", "description": "全国立宪派发起三次国会请愿运动，要求清廷速开国会、实行宪政，遭清廷镇压，部分立宪派转向革命，清廷失去温和派支持。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "广州新军起义", "description": "同盟会会员倪映典率广州新军千余人起义，因准备不足和清军镇压而失败，倪映典牺牲，但革命党人开始重视策反新军。", "latitude": 23.1, "longitude": 113.3, "category": "军事", "region": "清", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1911,
+    "dynasties": [
+      { "dynastyId": "qing", "name": "清", "ruler": "清宣统帝爱新觉罗溥仪", "era": "宣统三年" }
+    ],
+    "events": [
+      { "title": "武昌起义爆发", "description": "湖北新军中的革命党人在武昌发动起义，迅速占领武昌、汉口、汉阳三镇，成立湖北军政府，推举黎元洪为都督，辛亥革命由此爆发。", "latitude": 30.6, "longitude": 114.3, "category": "军事", "region": "清", "continent": "亚洲" },
+      { "title": "各省纷纷宣布独立", "description": "武昌起义后不到两个月，湖南、陕西、江西、山西、云南等十余省相继宣布脱离清廷独立，清朝统治土崩瓦解。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "袁世凯出任内阁总理大臣", "description": "清廷在内外交困下起用袁世凯为内阁总理大臣，袁以北洋军为后盾，一面镇压革命、一面与南方议和，成为左右时局关键人物。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "清", "continent": "亚洲" },
+      { "title": "居里夫人再获诺贝尔奖", "description": "玛丽·居里因成功分离纯金属镭而获得诺贝尔化学奖，成为历史上首位两次获得诺贝尔奖的科学家。", "latitude": 48.9, "longitude": 2.3, "category": "科技", "region": "法国", "continent": "欧洲" },
+      { "title": "阿蒙森到达南极点", "description": "挪威探险家罗尔德·阿蒙森率领探险队首次抵达南极点，比英国斯科特探险队早约一个月，完成人类征服南极的壮举。", "latitude": -90.0, "longitude": 0.0, "category": "科技", "region": "南极", "continent": "南美洲" }
+    ]
+  },
+  {
+    "year": 1912,
+    "dynasties": [],
+    "events": [
+      { "title": "中华民国成立", "description": "孙中山在南京宣誓就任中华民国临时大总统，宣告中华民国成立，定都南京，改用公历，以五色旗为国旗。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "中国", "continent": "亚洲" },
+      { "title": "清帝退位", "description": "宣统帝溥仪颁布退位诏书，清朝268年统治终结，中国延续两千余年的封建帝制正式宣告结束。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "中国", "continent": "亚洲" },
+      { "title": "袁世凯接任临时大总统", "description": "孙中山辞去临时大总统职务，袁世凯在北京接任中华民国临时大总统，北洋军阀统治时期开始。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "中国", "continent": "亚洲" },
+      { "title": "泰坦尼克号沉没", "description": "英国豪华邮轮泰坦尼克号在首航中撞击冰山后沉没于北大西洋，造成约1500人死亡，为和平时期最严重的海难之一。", "latitude": 41.7, "longitude": -49.9, "category": "社会", "region": "大西洋", "continent": "欧洲" },
+      { "title": "第一次巴尔干战争爆发", "description": "保加利亚、塞尔维亚、希腊和门的内哥罗组成巴尔干联盟向奥斯曼帝国宣战，迅速击败土军，奥斯曼帝国在欧洲的领土几乎丧失殆尽。", "latitude": 42.7, "longitude": 23.3, "category": "军事", "region": "巴尔干", "continent": "欧洲" }
+    ]
+  }
+]

@@ -1,0 +1,253 @@
+[
+  {
+    "year": 1701,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "西班牙王位继承战争爆发",
+        "description": "西班牙国王卡洛斯二世无嗣去世，法国波旁王朝与奥地利哈布斯堡王朝为争夺西班牙王位爆发战争，欧洲多国卷入。",
+        "latitude": 40.4,
+        "longitude": -3.7,
+        "category": "军事",
+        "region": "西班牙",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1703,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "圣彼得堡建城",
+        "description": "沙皇彼得大帝在波罗的海沿岸的涅瓦河三角洲建立圣彼得堡，1712年迁都至此，成为俄国面向西方的窗口。",
+        "latitude": 59.9,
+        "longitude": 30.3,
+        "category": "政治",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1704,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "布伦海姆战役",
+        "description": "马尔伯勒公爵率领英荷联军在布伦海姆大败法巴伐利亚联军，阻止了法国称霸欧洲的野心，此役为西班牙王位继承战争转折点。",
+        "latitude": 48.7,
+        "longitude": 10.9,
+        "category": "军事",
+        "region": "巴伐利亚",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1705,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十四年"
+      }
+    ],
+    "events": [
+      {
+        "title": "康熙帝南巡",
+        "description": "康熙帝第五次南巡，视察河工，考察民情，沿途召见江南士绅，加强了对江南地区的统治和文化笼络。",
+        "latitude": 32.1,
+        "longitude": 118.8,
+        "category": "政治",
+        "region": "清",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1707,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "《1707年联合法案》",
+        "description": "英格兰和苏格兰议会分别通过《联合法案》，正式合并为大不列颠王国，统一议会，英国走向统一。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "大不列颠",
+        "continent": "欧洲"
+      },
+      {
+        "title": "莫卧儿帝国分裂",
+        "description": "莫卧儿帝国皇帝奥朗则布去世，帝国随即陷入分裂和内战，马拉塔人、锡克教徒等势力崛起，帝国走向衰落。",
+        "latitude": 27.2,
+        "longitude": 78.0,
+        "category": "政治",
+        "region": "莫卧儿帝国",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1709,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十八年"
+      }
+    ],
+    "events": [
+      {
+        "title": "波尔塔瓦战役",
+        "description": "彼得大帝率领俄军在乌克兰波尔塔瓦击败瑞典国王查理十二世的军队，瑞典从此失去北欧霸主地位，俄国崛起为欧洲强国。",
+        "latitude": 49.6,
+        "longitude": 34.5,
+        "category": "军事",
+        "region": "俄罗斯",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1710,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙四十九年"
+      }
+    ],
+    "events": [
+      {
+        "title": "《皇舆全览图》完成",
+        "description": "康熙帝主持测绘的《皇舆全览图》完成，这是中国第一幅采用经纬度测绘的全国地图，由传教士白晋等人参与绘制。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "科技",
+        "region": "清",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 1712,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙五十一年"
+      }
+    ],
+    "events": [
+      {
+        "title": "纽科门蒸汽机发明",
+        "description": "英国工程师托马斯·纽科门发明了大气式蒸汽机，用于煤矿排水，这是世界上第一台实用的蒸汽机，拉开了工业革命的序幕。",
+        "latitude": 52.5,
+        "longitude": -2.0,
+        "category": "科技",
+        "region": "大不列颠",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1713,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙五十二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "《乌得勒支和约》签订",
+        "description": "西班牙王位继承战争结束，签订《乌得勒支和约》，西班牙将直布罗陀等地割让给英国，英国获得海上贸易优势。",
+        "latitude": 52.1,
+        "longitude": 5.1,
+        "category": "外交",
+        "region": "荷兰",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1715,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙五十四年"
+      }
+    ],
+    "events": [
+      {
+        "title": "法国路易十四去世",
+        "description": "法国波旁王朝国王路易十四在凡尔赛宫去世，在位72年之久。其统治时期法国成为欧洲第一强国，专制王权达到顶峰。",
+        "latitude": 48.8,
+        "longitude": 2.1,
+        "category": "政治",
+        "region": "法兰西",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 1718,
+    "dynasties": [
+      {
+        "dynastyId": "qing",
+        "name": "清",
+        "ruler": "清圣祖玄烨",
+        "era": "康熙五十七年"
+      }
+    ],
+    "events": [
+      {
+        "title": "新奥尔良建城",
+        "description": "法国殖民者在密西西比河口建立新奥尔良城，成为法国在北美路易斯安那殖民地的首府和重要贸易港口。",
+        "latitude": 30.0,
+        "longitude": -90.1,
+        "category": "政治",
+        "region": "法属路易斯安那",
+        "continent": "北美洲"
+      }
+    ]
+  }
+]

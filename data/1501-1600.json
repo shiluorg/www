@@ -1,0 +1,583 @@
+[
+  {
+    "year": 1500,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明孝宗朱祐樘", "era": "弘治十三年" }
+    ],
+    "events": [
+      { "title": "葡萄牙人发现巴西", "description": "葡萄牙探险家佩德罗·阿尔瓦雷斯·卡布拉尔在前往印度的途中偏离航线，意外发现巴西海岸。卡布拉尔将这片土地宣布为葡萄牙领土，巴西从此成为葡萄牙殖民地。", "latitude": -16.0, "longitude": -39.0, "category": "科技", "region": "葡萄牙", "continent": "南美洲" }
+    ]
+  },
+  {
+    "year": 1501,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明孝宗朱祐樘", "era": "弘治十四年" }
+    ],
+    "events": [
+      { "title": "萨法维王朝建立", "description": "伊斯玛仪一世在伊朗大不里士加冕为沙阿，建立萨法维王朝。萨法维王朝以什叶派十二伊玛目派为国教，奠定了现代伊朗的版图与宗教格局。", "latitude": 38.1, "longitude": 46.3, "category": "政治", "region": "波斯", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1502,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明孝宗朱祐樘", "era": "弘治十五年" }
+    ],
+    "events": [
+      { "title": "米开朗基罗创作《大卫》", "description": "米开朗基罗在佛罗伦萨开始创作巨型大理石雕像《大卫》。这座高五米的雕像以圣经英雄大卫为题材，完美展现了人体的力量与美感，成为文艺复兴雕塑的巅峰之作。", "latitude": 43.8, "longitude": 11.3, "category": "文化", "region": "意大利", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1506,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明武宗朱厚照", "era": "正德元年" }
+    ],
+    "events": [
+      { "title": "明武宗即位", "description": "明孝宗驾崩，十五岁太子朱厚照即位，是为明武宗，年号正德。武宗荒淫无度，宠信以刘瑾为首的“八虎”太监，朝政日益败坏。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "明", "continent": "亚洲" },
+      { "title": "罗马圣彼得大教堂开始重建", "description": "教皇尤利乌斯二世决定重建老旧的圣彼得大教堂，任命多纳托·布拉曼特为设计师。这是文艺复兴建筑史上最宏大的工程，米开朗基罗、拉斐尔等大师先后参与设计和装饰。", "latitude": 41.9, "longitude": 12.5, "category": "文化", "region": "教廷", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1508,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明武宗朱厚照", "era": "正德三年" }
+    ],
+    "events": [
+      { "title": "米开朗基罗绘制西斯廷教堂天顶画", "description": "米开朗基罗受教皇尤利乌斯二世委托，开始在西斯廷教堂绘制天顶画。他在四年内独自完成了面积超过五百平方米的《创世纪》系列壁画，成为西方艺术史上最伟大的杰作之一。", "latitude": 41.9, "longitude": 12.5, "category": "文化", "region": "教廷", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1509,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明武宗朱厚照", "era": "正德四年" }
+    ],
+    "events": [
+      { "title": "亨利八世继承英格兰王位", "description": "英王亨利七世去世，其子亨利八世即位。亨利八世在位期间因离婚问题与罗马教廷决裂，建立英国国教（ Anglican Church），并推行宗教改革。", "latitude": 51.5, "longitude": -0.1, "category": "政治", "region": "英格兰", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1510,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明武宗朱厚照", "era": "正德五年" }
+    ],
+    "events": [
+      { "title": "葡萄牙征服果阿", "description": "葡萄牙总督阿方索·德·阿尔布开克率军攻占印度西海岸的果阿。果阿成为葡萄牙东方帝国的首府和印度洋贸易的核心基地，葡萄牙彻底控制了印度洋香料贸易。", "latitude": 15.5, "longitude": 73.8, "category": "军事", "region": "葡萄牙", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1511,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明武宗朱厚照", "era": "正德六年" }
+    ],
+    "events": [
+      { "title": "葡萄牙占领马六甲", "description": "阿尔布开克率葡萄牙舰队攻占马六甲王国。马六甲是东南亚最重要的商业港口，控制着东西方贸易的咽喉要道。葡萄牙在马六甲建立了牢固的殖民统治。", "latitude": 2.2, "longitude": 102.2, "category": "军事", "region": "葡萄牙", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1513,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明武宗朱厚照", "era": "正德八年" }
+    ],
+    "events": [
+      { "title": "马基雅维利撰写《君主论》", "description": "意大利政治思想家尼科洛·马基雅维利完成《君主论》。书中主张君主为达目的可不择手段，提出“为达目的可以不择手段”的马基雅维利主义思想，是现代政治学的奠基之作。", "latitude": 43.8, "longitude": 11.3, "category": "文化", "region": "意大利", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1514,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明武宗朱厚照", "era": "正德九年" }
+    ],
+    "events": [
+      { "title": "哥白尼提出日心说", "description": "波兰天文学家尼古拉·哥白尼完成《短论》，首次提出日心说理论，认为太阳是宇宙中心，地球绕太阳公转并自转。这一理论彻底颠覆了托勒密的地心说体系。", "latitude": 53.1, "longitude": 18.0, "category": "科技", "region": "波兰", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1516,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明武宗朱厚照", "era": "正德十一年" }
+    ],
+    "events": [
+      { "title": "查理五世继承西班牙王位", "description": "哈布斯堡家族的查理（神圣罗马帝国皇帝马克西米连一世之孙）继承西班牙王位，是为卡洛斯一世。他后来也成为神圣罗马帝国皇帝查理五世，统治欧洲大片领土。", "latitude": 40.4, "longitude": -3.7, "category": "政治", "region": "西班牙", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1517,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明武宗朱厚照", "era": "正德十二年" }
+    ],
+    "events": [
+      { "title": "马丁·路德发表《九十五条论纲》", "description": "德国神学家马丁·路德在维滕堡教堂大门上张贴《九十五条论纲》，批评教皇出售赎罪券的行为。这一事件点燃了宗教改革的烈火，导致基督教世界不可逆转的分裂。", "latitude": 51.9, "longitude": 12.6, "category": "宗教", "region": "德意志", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1519,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明武宗朱厚照", "era": "正德十四年" }
+    ],
+    "events": [
+      { "title": "麦哲伦开始环球航行", "description": "葡萄牙航海家斐迪南·麦哲伦在西班牙国王资助下率五艘船二百七十人从塞维利亚出发西航，寻找通往摩鹿加群岛（香料群岛）的西行路线。", "latitude": 37.4, "longitude": -6.0, "category": "科技", "region": "西班牙", "continent": "欧洲" },
+      { "title": "科尔特斯征服阿兹特克帝国", "description": "西班牙征服者埃尔南·科尔特斯在墨西哥韦拉克鲁斯登陆，开始向阿兹特克帝国腹地进军。科尔特斯利用阿兹特克属国的仇怨联合当地部落，逐步逼近特诺奇蒂特兰。", "latitude": 19.2, "longitude": -96.1, "category": "军事", "region": "西班牙", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1520,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明武宗朱厚照", "era": "正德十五年" }
+    ],
+    "events": [
+      { "title": "拉斐尔逝世", "description": "意大利文艺复兴大师拉斐尔·桑西在罗马去世，年仅三十七岁。拉斐尔以其优美的圣母像和梵蒂冈签字厅壁画著称，与达芬奇、米开朗基罗并称文艺复兴三杰。", "latitude": 41.9, "longitude": 12.5, "category": "文化", "region": "教廷", "continent": "欧洲" },
+      { "title": "苏莱曼大帝即位", "description": "奥斯曼帝国苏丹苏莱曼一世即位，是为苏莱曼大帝。他在位四十六年，统治期间奥斯曼帝国达到鼎盛，版图横跨欧亚非三大洲。", "latitude": 41.0, "longitude": 28.9, "category": "政治", "region": "奥斯曼", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1521,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明武宗朱厚照", "era": "正德十六年" }
+    ],
+    "events": [
+      { "title": "麦哲伦抵达菲律宾并去世", "description": "麦哲伦船队横渡太平洋抵达菲律宾群岛。麦哲伦在介入当地部落冲突时在麦克坦岛被土著杀死。其船队剩余船员继续西行，完成环球航行。", "latitude": 10.3, "longitude": 124.0, "category": "科技", "region": "西班牙", "continent": "亚洲" },
+      { "title": "特诺奇蒂特兰陷落", "description": "科尔特斯率军攻陷阿兹特克首都特诺奇蒂特兰，阿兹特克皇帝夸乌特莫克被俘。历时三个月的围城战中城中十数万人死亡，阿兹特克帝国灭亡，墨西哥成为西班牙殖民地。", "latitude": 19.4, "longitude": -99.1, "category": "军事", "region": "西班牙", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1522,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖元年" }
+    ],
+    "events": [
+      { "title": "麦哲伦船队完成环球航行", "description": "麦哲伦船队的唯一幸存船“维多利亚号”在船长胡安·塞巴斯蒂安·埃尔卡诺的指挥下返回西班牙。历时三年的人类首次环球航行证明了地球是圆的。", "latitude": 37.4, "longitude": -6.0, "category": "科技", "region": "西班牙", "continent": "欧洲" },
+      { "title": "明世宗即位", "description": "明武宗无嗣驾崩，其堂弟朱厚熜继承大统，是为明世宗，年号嘉靖。即位后即发生“大礼议”之争，嘉靖帝为追尊生父与朝臣展开长达数年的政治斗争。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "明", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1524,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖三年" }
+    ],
+    "events": [
+      { "title": "德国农民战争", "description": "受宗教改革影响，德意志南部和中部的农民发动大规模起义。起义军提出《十二条款》，要求废除农奴制、减轻赋税。起义被德意志诸侯残酷镇压，约十万人被杀。", "latitude": 48.0, "longitude": 9.0, "category": "社会", "region": "德意志", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1526,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖五年" }
+    ],
+    "events": [
+      { "title": "莫卧儿帝国建立", "description": "巴布尔在帕尼帕特战役中击败德里苏丹国军队，攻占德里和阿格拉，建立莫卧儿帝国。巴布尔自称帖木儿和成吉思汗的后裔，莫卧儿帝国此后统治印度次大陆三百余年。", "latitude": 28.6, "longitude": 77.2, "category": "政治", "region": "印度", "continent": "亚洲" },
+      { "title": "摩哈赤战役", "description": "奥斯曼苏丹苏莱曼大帝在摩哈赤战役（今匈牙利）中击败匈牙利国王路易二世。路易二世战死，匈牙利王国分裂，中部被奥斯曼占领，北部并入哈布斯堡王朝。", "latitude": 45.8, "longitude": 18.7, "category": "军事", "region": "奥斯曼", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1527,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖六年" }
+    ],
+    "events": [
+      { "title": "罗马之劫", "description": "神圣罗马帝国皇帝查理五世的军队（包括大量路德派雇佣兵）攻陷并洗劫罗马。城中数万居民被杀，无数艺术品和古籍被毁。教皇克雷芒七世被囚禁，文艺复兴遭受重创。", "latitude": 41.9, "longitude": 12.5, "category": "军事", "region": "教廷", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1529,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖八年" }
+    ],
+    "events": [
+      { "title": "维也纳之围", "description": "奥斯曼苏丹苏莱曼大帝率军围攻维也纳。这是奥斯曼帝国第一次直接进攻哈布斯堡王朝的心脏地带。由于补给线过长和冬季提前到来，奥斯曼军被迫撤退。", "latitude": 48.2, "longitude": 16.4, "category": "军事", "region": "奥斯曼", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1531,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖十年" }
+    ],
+    "events": [
+      { "title": "皮萨罗征服印加帝国", "description": "西班牙征服者弗朗西斯科·皮萨罗率一百六十八人在秘鲁登陆。皮萨罗在卡哈马卡设伏俘虏印加皇帝阿塔瓦尔帕，勒索满屋金银后仍将其处死。印加帝国迅速崩溃。", "latitude": -7.2, "longitude": -78.5, "category": "军事", "region": "西班牙", "continent": "南美洲" }
+    ]
+  },
+  {
+    "year": 1532,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖十一年" }
+    ],
+    "events": [
+      { "title": "皮萨罗占领库斯科", "description": "皮萨罗率西班牙军占领印加首都库斯科。印加帝国灭亡，秘鲁成为西班牙殖民地。西班牙人在安第斯山区发现了巨大的银矿，大量白银由此流向欧洲。", "latitude": -13.5, "longitude": -71.9, "category": "军事", "region": "西班牙", "continent": "南美洲" }
+    ]
+  },
+  {
+    "year": 1534,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖十三年" }
+    ],
+    "events": [
+      { "title": "英国议会通过《至尊法案》", "description": "英王亨利八世促使英国议会通过《至尊法案》，宣布国王为英格兰教会的最高首脑，正式脱离罗马教廷。英国宗教改革由此展开，英格兰国教会（圣公会）正式成立。", "latitude": 51.5, "longitude": -0.1, "category": "宗教", "region": "英格兰", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1536,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖十五年" }
+    ],
+    "events": [
+      { "title": "卡尔文在日内瓦推行宗教改革", "description": "法国神学家约翰·卡尔文在日内瓦推行宗教改革。卡尔文强调预定论，建立政教合一的日内瓦神权共和国，其思想影响了荷兰、苏格兰和美洲的清教徒。", "latitude": 46.2, "longitude": 6.1, "category": "宗教", "region": "瑞士", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1538,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖十七年" }
+    ],
+    "events": [
+      { "title": "普雷韦扎海战", "description": "奥斯曼海军司令海雷丁·巴巴罗萨在普雷韦扎海战中击败西班牙-威尼斯联合舰队。奥斯曼帝国从此控制了东地中海数十年，成为无可争议的地中海霸主。", "latitude": 38.9, "longitude": 20.8, "category": "军事", "region": "奥斯曼", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1539,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖十八年" }
+    ],
+    "events": [
+      { "title": "西班牙人在北美探险", "description": "西班牙探险家埃尔南多·德·索托在佛罗里达登陆，开始探索北美东南部。同年弗朗西斯科·德·科罗纳多率探险队北上寻找传说中的七座黄金城（西沃拉）。", "latitude": 30.0, "longitude": -83.0, "category": "科技", "region": "西班牙", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1541,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖二十年" }
+    ],
+    "events": [
+      { "title": "卡尔文返回日内瓦", "description": "约翰·卡尔文返回日内瓦，开始精心打造他的宗教改革政体。卡尔文在日内瓦推行严厉的道德法规，将日内瓦打造成“新教的罗马”，吸引了来自欧洲各地的宗教难民。", "latitude": 46.2, "longitude": 6.1, "category": "宗教", "region": "瑞士", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1543,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖二十二年" }
+    ],
+    "events": [
+      { "title": "哥白尼《天体运行论》出版", "description": "波兰天文学家哥白尼的《天体运行论》在纽伦堡出版。书中系统阐述了日心说理论，尽管遭到教会压制，但这部著作被视为科学革命的开端，彻底改变了人类对宇宙的认知。", "latitude": 49.5, "longitude": 11.1, "category": "科技", "region": "波兰", "continent": "欧洲" },
+      { "title": "葡萄牙人到达日本", "description": "葡萄牙商船在台风偏航后抵达日本种子岛，这是欧洲人首次到达日本。葡萄牙人向日本人传授了火绳枪（铁炮）的制作技术，日本由此进入“铁炮时代”。", "latitude": 30.3, "longitude": 131.0, "category": "外交", "region": "葡萄牙", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1545,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖二十四年" }
+    ],
+    "events": [
+      { "title": "特伦托大公会议召开", "description": "教皇保罗三世在意大利特伦托召开大公会议，目的是应对宗教改革。会议断断续续开了十八年，重申天主教传统教义，推动内部改革，标志着反宗教改革的开始。", "latitude": 46.1, "longitude": 11.1, "category": "宗教", "region": "教廷", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1546,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖二十五年" }
+    ],
+    "events": [
+      { "title": "马丁·路德逝世", "description": "宗教改革领袖马丁·路德在维滕堡去世，享年六十三岁。路德发起的宗教改革运动彻底改变了基督教世界的面貌，新教三大宗派（路德宗、改革宗、圣公会）均已成形。", "latitude": 51.9, "longitude": 12.6, "category": "宗教", "region": "德意志", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1547,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖二十六年" }
+    ],
+    "events": [
+      { "title": "伊凡雷帝加冕为沙皇", "description": "莫斯科大公伊凡四世在克里姆林宫圣母升天大教堂加冕为全俄罗斯沙皇，是为伊凡雷帝。他是俄罗斯第一位沙皇，在位期间进行大规模改革和扩张，但也以残暴著称。", "latitude": 55.8, "longitude": 37.6, "category": "政治", "region": "俄罗斯", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1549,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖二十八年" }
+    ],
+    "events": [
+      { "title": "沙勿略抵达日本", "description": "耶稣会传教士方济各·沙勿略抵达日本鹿儿岛，开始了天主教在日本的传播。沙勿略在日本传教约两年，建立了最初的日本天主教社团，后转往中国。", "latitude": 31.6, "longitude": 130.5, "category": "宗教", "region": "日本", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1550,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖二十九年" }
+    ],
+    "events": [
+      { "title": "庚戌之变", "description": "蒙古鞑靼部首领俺答汗率军突破长城，兵临北京城下。明世宗闭城自守，俺答在北京城外大肆劫掠八日后满载而归。明廷被迫开放马市与蒙古贸易。", "latitude": 39.9, "longitude": 116.4, "category": "军事", "region": "明", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1552,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖三十一年" }
+    ],
+    "events": [
+      { "title": "沙勿略抵达中国上川岛", "description": "耶稣会传教士方济各·沙勿略抵达广东沿海的上川岛，试图进入中国内地传教。但明朝实行海禁政策，沙勿略未能进入大陆，在岛上病逝。", "latitude": 21.7, "longitude": 112.8, "category": "宗教", "region": "明", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1555,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖三十四年" }
+    ],
+    "events": [
+      { "title": "奥格斯堡宗教和约", "description": "神圣罗马帝国皇帝查理五世与德意志新教诸侯签署《奥格斯堡宗教和约》，确立“教随国定”原则。帝国境内各邦君主有权决定其领地的宗教信仰。路德宗获得合法地位。", "latitude": 48.4, "longitude": 10.9, "category": "宗教", "region": "德意志", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1556,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖三十五年" }
+    ],
+    "events": [
+      { "title": "查理五世退位", "description": "神圣罗马帝国皇帝查理五世宣布退位，将西班牙和尼德兰传给儿子腓力二世，将神圣罗马帝国皇位传给弟弟斐迪南一世。哈布斯堡王朝分裂为西班牙和奥地利两支。", "latitude": 40.4, "longitude": -3.7, "category": "政治", "region": "西班牙", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1557,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖三十六年" }
+    ],
+    "events": [
+      { "title": "葡萄牙租借澳门", "description": "葡萄牙人以“晾晒货物”为借口，通过贿赂明朝官员获得在澳门的居留权。澳门成为葡萄牙在中国沿海的贸易基地，也是东西方文化交流的重要窗口。", "latitude": 22.2, "longitude": 113.5, "category": "外交", "region": "葡萄牙", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1558,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖三十七年" }
+    ],
+    "events": [
+      { "title": "伊丽莎白一世即位", "description": "英女王玛丽一世去世，其妹伊丽莎白·都铎即位，是为伊丽莎白一世。伊丽莎白在位期间英格兰国力大增，击败西班牙无敌舰队，文化上涌现莎士比亚等巨匠。", "latitude": 51.5, "longitude": -0.1, "category": "政治", "region": "英格兰", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1560,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖三十九年" }
+    ],
+    "events": [
+      { "title": "欧洲宗教战争加剧", "description": "法国胡格诺战争（宗教战争）爆发。天主教派和胡格诺派（法国新教徒）之间的冲突愈演愈烈，持续三十余年，法国陷入分裂和内战。", "latitude": 48.9, "longitude": 2.3, "category": "宗教", "region": "法兰西", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1562,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖四十一年" }
+    ],
+    "events": [
+      { "title": "严嵩被罢免", "description": "明朝权相严嵩被罢职抄家，其子严世蕃被处斩。严嵩专权十五年，贪污纳贿、排斥异己，是明朝最著名的奸臣之一。徐阶继任首辅。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "明", "continent": "亚洲" },
+      { "title": "日本桶狭间之战", "description": "日本战国大名织田信长在桶狭间（今爱知县）以奇袭战术击败今川义元的大军。今川义元阵亡，织田信长由此崛起，开启统一日本的进程。", "latitude": 35.0, "longitude": 137.0, "category": "军事", "region": "日本", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1564,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖四十三年" }
+    ],
+    "events": [
+      { "title": "米开朗基罗去世", "description": "意大利文艺复兴大师米开朗基罗在罗马去世，享年八十八岁。他是文艺复兴三杰中最后离世的一位，其艺术成就代表了文艺复兴的巅峰。", "latitude": 41.9, "longitude": 12.5, "category": "文化", "region": "教廷", "continent": "欧洲" },
+      { "title": "威廉·莎士比亚诞生", "description": "英国伟大剧作家威廉·莎士比亚在埃文河畔斯特拉特福出生。他后来创作了《哈姆雷特》《罗密欧与朱丽叶》《麦克白》等三十七部戏剧，成为英国文学乃至世界文学的象征。", "latitude": 52.2, "longitude": -1.7, "category": "文化", "region": "英格兰", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1565,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖四十四年" }
+    ],
+    "events": [
+      { "title": "西班牙占领菲律宾", "description": "西班牙探险家米格尔·洛佩斯·德·黎牙实比在菲律宾宿务建立第一个永久殖民地。此后西班牙逐步占领菲律宾群岛，以腓力二世之名命名为“菲律宾”（菲利普）。", "latitude": 10.3, "longitude": 123.9, "category": "军事", "region": "西班牙", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1566,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明世宗朱厚熜", "era": "嘉靖四十五年" }
+    ],
+    "events": [
+      { "title": "苏莱曼大帝去世", "description": "奥斯曼苏丹苏莱曼大帝在远征匈牙利途中去世，享年七十二岁。他统治的盛世时期奥斯曼帝国达到鼎盛，其去世标志帝国由盛转衰的转折点。", "latitude": 46.0, "longitude": 18.0, "category": "政治", "region": "奥斯曼", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1567,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明穆宗朱载坖", "era": "隆庆元年" }
+    ],
+    "events": [
+      { "title": "明穆宗即位与隆庆开关", "description": "明世宗驾崩，太子朱载坖即位，是为明穆宗，年号隆庆。明穆宗在首辅高拱、张居正辅佐下开放海禁，史称“隆庆开关”，允许民间海外贸易，明朝经济得到提振。", "latitude": 39.9, "longitude": 116.4, "category": "经济", "region": "明", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1568,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明穆宗朱载坖", "era": "隆庆二年" }
+    ],
+    "events": [
+      { "title": "尼德兰独立战争爆发", "description": "尼德兰（荷兰）十七省因反抗西班牙国王腓力二世的高压统治和宗教迫害爆发起义。奥兰治亲王威廉（沉默者）领导起义，这场战争持续八十年，最终荷兰赢得独立。", "latitude": 52.1, "longitude": 4.3, "category": "军事", "region": "尼德兰", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1571,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明穆宗朱载坖", "era": "隆庆五年" }
+    ],
+    "events": [
+      { "title": "勒班陀海战", "description": "西班牙-威尼斯联合舰队在希腊勒班陀海湾大败奥斯曼海军。奥斯曼舰队损失近两万五千人和二百多艘战舰。这是划桨战舰时代的最后一次大规模海战。", "latitude": 38.3, "longitude": 21.4, "category": "军事", "region": "西班牙", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1572,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明神宗朱翊钧", "era": "万历元年" }
+    ],
+    "events": [
+      { "title": "圣巴托罗缪大屠杀", "description": "法国巴黎发生针对胡格诺派（新教徒）的大屠杀，持续数日，死亡数千人后蔓延至外省，总死亡人数达数万。天主教极端分子在查理九世默许下发动了这场血腥屠杀。", "latitude": 48.9, "longitude": 2.3, "category": "宗教", "region": "法兰西", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1573,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明神宗朱翊钧", "era": "万历元年" }
+    ],
+    "events": [
+      { "title": "张居正开始改革", "description": "张居正出任明朝首辅，开始推行一系列改革。他推行“考成法”整顿吏治，清丈全国土地，实行“一条鞭法”改革赋税制度，使明朝出现“万历中兴”的局面。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "明", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1575,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明神宗朱翊钧", "era": "万历三年" }
+    ],
+    "events": [
+      { "title": "日本长篠之战", "description": "织田信长与德川家康联军在长篠（今爱知县）大败武田胜赖的骑兵军团。织田信长大规模使用火绳枪（铁炮）以三段击战术击败武田骑兵，标志着日本战术革命。", "latitude": 34.9, "longitude": 137.5, "category": "军事", "region": "日本", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1578,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明神宗朱翊钧", "era": "万历六年" }
+    ],
+    "events": [
+      { "title": "葡萄牙国王塞巴斯蒂安去世", "description": "葡萄牙国王塞巴斯蒂安在摩洛哥的三王之战中阵亡，因无嗣引发葡萄牙王位继承危机。西班牙国王腓力二世于1580年吞并葡萄牙，伊比利亚联盟形成。", "latitude": 34.0, "longitude": -5.0, "category": "政治", "region": "葡萄牙", "continent": "非洲" }
+    ]
+  },
+  {
+    "year": 1580,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明神宗朱翊钧", "era": "万历八年" }
+    ],
+    "events": [
+      { "title": "西班牙吞并葡萄牙", "description": "西班牙国王腓力二世以继承权为由出兵葡萄牙，被葡萄牙议会承认为葡萄牙国王。西班牙和葡萄牙两国及其海外殖民地进入六十年共主邦联时期。", "latitude": 40.4, "longitude": -3.7, "category": "政治", "region": "西班牙", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1582,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明神宗朱翊钧", "era": "万历十年" }
+    ],
+    "events": [
+      { "title": "张居正去世", "description": "明朝首辅张居正病逝，享年五十七岁。不久即遭政敌弹劾，被万历帝抄家削爵，其改革成果大半被废。张居正的悲剧结局标志着万历中兴的终结。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "明", "continent": "亚洲" },
+      { "title": "利玛窦抵达中国", "description": "意大利耶稣会传教士利玛窦抵达澳门。他后来学习中文和儒家经典，以“西儒”身份在肇庆、北京等地传教，将西方科学知识传入中国，同时将中国文化介绍到欧洲。", "latitude": 22.2, "longitude": 113.5, "category": "宗教", "region": "明", "continent": "亚洲" },
+      { "title": "格里高利历改革", "description": "教皇格里高利十三世颁布新历法（格里高利历），取代旧儒略历。新历法将1582年10月4日后的第二天直接改为10月15日，消除了历法误差。此历法后被世界各国广泛采用。", "latitude": 41.9, "longitude": 12.5, "category": "科技", "region": "教廷", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1583,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明神宗朱翊钧", "era": "万历十一年" }
+    ],
+    "events": [
+      { "title": "努尔哈赤起兵", "description": "女真族首领努尔哈赤以祖父和父亲被明军误杀为由，用十三副遗甲在赫图阿拉（今辽宁新宾）起兵。他先后统一建州女真各部，成为后来清朝的奠基人。", "latitude": 41.7, "longitude": 125.0, "category": "军事", "region": "明", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1585,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明神宗朱翊钧", "era": "万历十三年" }
+    ],
+    "events": [
+      { "title": "英国在北美建立殖民地", "description": "英国沃尔特·雷利爵士派遣的探险队在北美罗阿诺克岛建立殖民地（今北卡罗来纳州）。这是英国在北美尝试建立的第一个殖民地，但最终以“失落的殖民地”神秘消失告终。", "latitude": 35.9, "longitude": -75.7, "category": "外交", "region": "英格兰", "continent": "北美洲" }
+    ]
+  },
+  {
+    "year": 1588,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明神宗朱翊钧", "era": "万历十六年" }
+    ],
+    "events": [
+      { "title": "西班牙无敌舰队覆灭", "description": "西班牙国王腓力二世派“无敌舰队”入侵英格兰。一百三十艘战舰在英吉利海峡被英国海军和风暴击败，近半数船只沉没，两万余人丧生。西班牙海上霸权开始衰落。", "latitude": 50.0, "longitude": -4.0, "category": "军事", "region": "英格兰", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1589,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明神宗朱翊钧", "era": "万历十七年" }
+    ],
+    "events": [
+      { "title": "法国波旁王朝建立", "description": "法国国王亨利三世遇刺身亡，胡格诺派领袖纳瓦拉的亨利继承王位，是为亨利四世，开创波旁王朝。为稳定局势，亨利四世改信天主教，称“巴黎值得一场弥撒”。", "latitude": 48.9, "longitude": 2.3, "category": "政治", "region": "法兰西", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1592,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明神宗朱翊钧", "era": "万历二十年" }
+    ],
+    "events": [
+      { "title": "壬辰倭乱（万历朝鲜战争）爆发", "description": "日本太阁丰臣秀吉率十五万大军入侵朝鲜。日军迅速攻占汉城、平壤，朝鲜国王李昖逃往义州求援。明朝派李如松率四万大军援朝抗日。", "latitude": 37.6, "longitude": 127.0, "category": "军事", "region": "朝鲜", "continent": "亚洲" },
+      { "title": "平壤大捷", "description": "明将李如松率明军与朝鲜军民配合收复平壤。明军以火炮攻城，歼敌一万余人，日军仓皇南逃。此后明军收复汉城，日军退守釜山，战争进入相持阶段。", "latitude": 39.0, "longitude": 125.8, "category": "军事", "region": "朝鲜", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1593,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明神宗朱翊钧", "era": "万历二十一年" }
+    ],
+    "events": [
+      { "title": "碧蹄馆之战", "description": "明将李如松在碧蹄馆（今韩国首尔附近）被日军包围，双方激战。明军在火炮掩护下突围，双方伤亡惨重。此后明日开始议和谈判。", "latitude": 37.5, "longitude": 127.0, "category": "军事", "region": "朝鲜", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1595,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明神宗朱翊钧", "era": "万历二十三年" }
+    ],
+    "events": [
+      { "title": "荷兰东印度公司雏形", "description": "荷兰商人组织“远方公司”开始香料贸易。1602年荷兰东印度公司（VOC）正式成立，成为世界上第一个股份制公司和十七世纪最强大的商业组织。", "latitude": 52.4, "longitude": 4.9, "category": "经济", "region": "荷兰", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1597,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明神宗朱翊钧", "era": "万历二十五年" }
+    ],
+    "events": [
+      { "title": "丁酉再乱", "description": "丰臣秀吉再次派军入侵朝鲜。明军再次援朝，与朝鲜水军将领李舜臣并肩作战。李舜臣率领龟船在鸣梁海战中大破日军舰队。", "latitude": 34.6, "longitude": 126.3, "category": "军事", "region": "朝鲜", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1598,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明神宗朱翊钧", "era": "万历二十六年" }
+    ],
+    "events": [
+      { "title": "露梁海战与朝鲜战争结束", "description": "中朝联合舰队在露梁（今韩国庆尚南道）与日军展开决战。李舜臣和明将邓子龙双双战死。丰臣秀吉已死，日军全面撤退，历时七年的万历朝鲜战争结束。", "latitude": 34.7, "longitude": 127.8, "category": "军事", "region": "朝鲜", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 1598,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明神宗朱翊钧", "era": "万历二十六年" }
+    ],
+    "events": [
+      { "title": "《南特敕令》颁布", "description": "法王亨利四世颁布《南特敕令》，给予胡格诺派信徒信仰自由和政治权利，结束了持续三十多年的法国宗教战争。这是欧洲宗教宽容政策的重要先例。", "latitude": 47.2, "longitude": -1.6, "category": "宗教", "region": "法兰西", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1600,
+    "dynasties": [
+      { "dynastyId": "ming", "name": "明", "ruler": "明神宗朱翊钧", "era": "万历二十八年" }
+    ],
+    "events": [
+      { "title": "日本关原之战", "description": "德川家康在东军与石田三成的西军在关原（今岐阜县）决战。德川家康赢得决定性胜利，奠定了德川幕府统一日本的基础。日本战国时代结束，江户时代开始。", "latitude": 35.4, "longitude": 136.5, "category": "军事", "region": "日本", "continent": "亚洲" },
+      { "title": "英国东印度公司成立", "description": "英国伊丽莎白一世女王授予东印度公司特许状，英国东印度公司正式成立。该公司后来成为英国在亚洲殖民扩张的最重要工具，最终使英国统治印度近两个世纪。", "latitude": 51.5, "longitude": -0.1, "category": "经济", "region": "英格兰", "continent": "欧洲" },
+      { "title": "布鲁诺被火刑处死", "description": "意大利哲学家、天文学家乔尔丹诺·布鲁诺在罗马鲜花广场被宗教裁判所以异端罪名处以火刑。布鲁诺因支持哥白尼日心说和宣扬无限宇宙理论而被判死刑。", "latitude": 41.9, "longitude": 12.5, "category": "宗教", "region": "教廷", "continent": "欧洲" }
+    ]
+  }
+]

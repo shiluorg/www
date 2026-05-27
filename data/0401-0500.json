@@ -1,0 +1,2787 @@
+[
+  {
+    "year": 401,
+    "dynasties": [
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "隆安五年"
+      },
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "姚兴",
+        "era": "弘始三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "鸠摩罗什在长安大规模译经",
+        "description": "后秦姚兴请高僧鸠摩罗什在长安逍遥园和大寺继续翻译佛经。鸠摩罗什精通梵汉两种文字，译经质量极高。本年译出了《大品般若经》《百论》等重要经典。来自各地的僧侣三千余人聚集长安学习佛法。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "宗教",
+        "region": "后秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "南凉秃发利鹿孤称王",
+        "description": "南凉王秃发利鹿孤在河西称王，改元建和。南凉政权在河西走廊东部得到巩固。利鹿孤去世后其弟秃发傉檀继位，南凉进入鼎盛时期。",
+        "latitude": 36.5,
+        "longitude": 101.8,
+        "category": "政治",
+        "region": "南凉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "西哥特人入侵意大利北部",
+        "description": "西哥特人首领阿拉里克率军越过阿尔卑斯山，入侵意大利北部。西罗马统帅斯提利科迅速从各地调集军队迎击。阿拉里克在波河流域劫掠后试图南下，被斯提利科率军阻止。",
+        "latitude": 45.5,
+        "longitude": 10.0,
+        "category": "军事",
+        "region": "西罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 402,
+    "dynasties": [
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "元兴元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "孙恩投海自尽",
+        "description": "孙恩起义军被刘裕多次击败后元气大伤。孙恩在临海（今浙江临海）战败后，不愿被俘受辱，投海自尽。其妹夫卢循继续领导起义军残余力量。刘裕因镇压孙恩之功名震江南。",
+        "latitude": 28.8,
+        "longitude": 121.1,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "桓玄攻入建康把持朝政",
+        "description": "东晋荆州刺史桓玄利用朝中混乱，率军顺江东下攻入建康。桓玄自任太尉、都督中外诸军事，掌控东晋朝政。他杀司马道子和司马元显，进一步巩固权力。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "斯提利科在波伦提亚击败阿拉里克",
+        "description": "西罗马统帅斯提利科在波伦提亚（今意大利北部）与阿拉里克的西哥特军队展开激战。斯提利科以精锐骑兵冲击西哥特人的阵线，取得重大胜利。阿拉里克被迫退回伊利里亚。",
+        "latitude": 45.0,
+        "longitude": 10.0,
+        "category": "军事",
+        "region": "西罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 403,
+    "dynasties": [
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "元兴二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "桓玄篡晋称帝",
+        "description": "桓玄逼迫晋安帝禅让，在姑孰（今安徽当涂）即皇帝位，国号楚，改元永始。桓玄追尊其父桓温为宣武皇帝。东晋朝廷名存实亡。桓玄为人奢侈腐化、法令无常，很快就失去了民心。",
+        "latitude": 31.6,
+        "longitude": 118.4,
+        "category": "政治",
+        "region": "桓楚",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 404,
+    "dynasties": [
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "元兴三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘裕起兵讨伐桓玄",
+        "description": "北府兵将领刘裕联合何无忌、刘毅等在京口（今江苏镇江）起兵讨伐桓玄。刘裕率众攻入建康，桓玄兵败挟持晋安帝逃往江陵。刘裕进入建康后整顿秩序、恢复晋室。",
+        "latitude": 32.2,
+        "longitude": 119.4,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "桓玄被杀",
+        "description": "桓玄在江陵重整军队后东下，在峥嵘洲（今湖北鄂州）被刘裕部将刘毅击败。桓玄在逃往益州的途中被益州督护冯迁斩杀。桓玄称帝仅数月便落得如此下场。",
+        "latitude": 30.4,
+        "longitude": 114.8,
+        "category": "军事",
+        "region": "桓楚",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 405,
+    "dynasties": [
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "义熙元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "东晋安帝复位，刘裕掌控朝政",
+        "description": "晋安帝司马德宗被迎回建康复位，改元义熙。刘裕因匡复之功被任命为侍中、车骑将军、都督中外诸军事。东晋军政大权完全落入刘裕手中。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "谯纵在蜀地割据称王",
+        "description": "益州参军谯纵在蜀地发动兵变，杀死益州刺史毛璩。谯纵自称成都王，建立西蜀政权。谯纵向后秦姚兴称臣以寻求支持。巴蜀地区脱离东晋统治。",
+        "latitude": 30.6,
+        "longitude": 104.1,
+        "category": "政治",
+        "region": "西蜀",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 406,
+    "dynasties": [
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "义熙二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘裕整顿内政积聚力量",
+        "description": "刘裕在稳定朝政后大力整顿内政，实行抑制豪强、整顿赋税的政策。他同时积极备战，筹划北伐收复中原。北府兵在刘裕的统率下成为当时最精锐的军队。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汪达尔人越过莱茵河入侵高卢",
+        "description": "汪达尔人、苏维汇人和阿兰人联军在严寒中越过冰冻的莱茵河，大规模入侵高卢。罗马边境防线全面崩溃。蛮族联军在美因茨击败了罗马守军，随后在高卢各地大肆劫掠。",
+        "latitude": 49.5,
+        "longitude": 8.0,
+        "category": "军事",
+        "region": "西罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 407,
+    "dynasties": [
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "义熙三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "赫连勃勃建立大夏",
+        "description": "铁弗匈奴首领赫连勃勃（刘勃勃）叛离后秦，在朔方（今内蒙古杭锦旗）自称大夏天王、大单于，改元龙升，建立大夏政权。赫连勃勃是匈奴铁弗部首领刘卫辰之子。他残忍好杀，但在军事上极有才能。",
+        "latitude": 40.0,
+        "longitude": 108.0,
+        "category": "政治",
+        "region": "大夏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "君士坦丁三世在不列颠称帝",
+        "description": "在不列颠的罗马军队拥立君士坦丁三世为西罗马皇帝。君士坦丁三世率军跨海进入高卢，试图恢复罗马在高卢的统治。但此举加速了罗马在不列颠统治的终结。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "西罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 408,
+    "dynasties": [
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "义熙四年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘裕开始筹划北伐",
+        "description": "刘裕在彻底清除桓氏余党后开始筹划北伐。他任命刘穆之为内政总管坐镇建康，自己亲率北府兵北伐南燕。刘裕的北伐事业正式拉开序幕。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "斯提利科被霍诺里乌斯处死",
+        "description": "西罗马皇帝霍诺里乌斯听信谗言，以通敌叛国罪名将统帅斯提利科处死。斯提利科是西罗马最后的杰出统帅，曾多次击败哥特人和汪达尔人。他的死使西罗马帝国失去了最有力的保护者。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "政治",
+        "region": "西罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 409,
+    "dynasties": [
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "义熙五年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘裕北伐南燕",
+        "description": "刘裕亲率北府兵北伐南燕。南燕皇帝慕容超率军迎战。刘裕大军越过岘山天险，在临朐击败南燕主力。慕容超退守广固（今山东青州），被刘裕团团包围。",
+        "latitude": 36.7,
+        "longitude": 118.5,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汪达尔人进入西班牙",
+        "description": "汪达尔人和阿兰人在高卢劫掠后越过比利牛斯山脉进入西班牙。他们与当地的罗马守军和西哥特人作战，逐渐控制了西班牙南部和西部地区。",
+        "latitude": 40.0,
+        "longitude": -4.0,
+        "category": "军事",
+        "region": "西罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 410,
+    "dynasties": [
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "义熙六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘裕灭南燕",
+        "description": "刘裕攻破广固城，南燕皇帝慕容超被俘后斩首。南燕立国十三年而亡。刘裕将南燕的领土全部并入东晋版图。这是东晋一百年来第一次大规模收复北方领土。",
+        "latitude": 36.7,
+        "longitude": 118.5,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "卢循起义爆发",
+        "description": "卢循（孙恩的妹夫）率起义军从广州北上，连克江州（今江西九江）和豫章（今江西南昌）。刘裕得知消息后急忙从南燕回师，在长江上与卢循展开激战。",
+        "latitude": 29.7,
+        "longitude": 115.9,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "西哥特人攻陷罗马城",
+        "description": "西哥特人首领阿拉里克率军攻陷罗马城。这是罗马建城一千多年来第一次被外敌攻陷。西哥特人在城内大肆劫掠三天，但并未大规模破坏建筑。城内的财富和奴隶被洗劫一空。这一事件震惊了整个地中海世界。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "军事",
+        "region": "西罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 411,
+    "dynasties": [
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "义熙七年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘裕击败卢循收复江州",
+        "description": "刘裕在豫章和雷池（今安徽望江）连续击败卢循起义军。卢循损失惨重率残部退回广州。刘裕派部将追击，卢循在广州被晋军击杀。持续多年的卢循起义终于平定。",
+        "latitude": 29.7,
+        "longitude": 115.9,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "西哥特人阿陶尔夫继位",
+        "description": "阿拉里克在攻陷罗马后不久突然去世。其妹夫阿陶尔夫继位为西哥特人首领。阿陶尔夫与阿拉里克不同，倾向于与罗马帝国合作。他率西哥特人离开意大利进入高卢南部。",
+        "latitude": 43.5,
+        "longitude": 3.0,
+        "category": "政治",
+        "region": "西哥特人",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 412,
+    "dynasties": [
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "义熙八年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘裕诛杀政敌刘毅",
+        "description": "荆州刺史刘毅（曾与刘裕共同起兵讨伐桓玄）因不满刘裕独揽大权，在荆州密谋反叛。刘裕先发制人，亲率水军讨伐刘毅。刘毅兵败自缢而亡。刘裕彻底清除了内部异己。",
+        "latitude": 30.4,
+        "longitude": 112.2,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "西哥特人定居高卢南部",
+        "description": "西哥特人在阿陶尔夫的率领下进入高卢南部，以图卢兹为中心建立定居地。阿陶尔夫娶了西罗马皇帝霍诺里乌斯的妹妹加拉·普拉西提阿为妻，与罗马帝国建立了联姻关系。",
+        "latitude": 43.6,
+        "longitude": 1.4,
+        "category": "政治",
+        "region": "西哥特王国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 413,
+    "dynasties": [
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "义熙九年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘裕平定益州谯纵",
+        "description": "刘裕派朱龄石率军讨伐割据蜀地的谯纵。晋军从江陵沿长江西上，攻入成都。谯纵兵败自缢。巴蜀地区重新归入东晋版图。刘裕的声望达到新的高度。",
+        "latitude": 30.6,
+        "longitude": 104.1,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "赫连勃勃修筑统万城",
+        "description": "大夏天王赫连勃勃征发民夫十万人修筑统万城（今陕西靖边）。城墙用蒸土夯筑而成，坚硬如铁。赫连勃勃亲自验收工程质量，用铁锥刺城墙，刺入一寸则杀筑墙者。统万城建成后成为大夏的都城。",
+        "latitude": 37.5,
+        "longitude": 108.8,
+        "category": "科技",
+        "region": "大夏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "圣奥古斯丁完成《上帝之城》",
+        "description": "北非希波主教圣奥古斯丁完成了他的巨著《上帝之城》的大部分写作。这部著作是在罗马被攻陷后为回应异教徒的指责而创作的。奥古斯丁论证了地上之城与上帝之城的区别，成为基督教神学的经典之作。",
+        "latitude": 36.8,
+        "longitude": 7.7,
+        "category": "宗教",
+        "region": "西罗马帝国",
+        "continent": "非洲"
+      }
+    ]
+  },
+  {
+    "year": 414,
+    "dynasties": [
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "义熙十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "法显从天竺经海路返回",
+        "description": "高僧法显在游历天竺（印度）三十余国、学习梵文和抄写佛经后，从狮子国（今斯里兰卡）乘商船经海路返回中国。他在海上经历风暴漂流数月，穿越马六甲海峡前往广州。",
+        "latitude": 6.9,
+        "longitude": 79.9,
+        "category": "宗教",
+        "region": "东晋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 415,
+    "dynasties": [
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "义熙十一年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘裕诛杀司马休之",
+        "description": "荆州刺史司马休之（晋朝宗室）联合雍州刺史鲁宗之起兵反对刘裕。刘裕亲率大军征讨，在襄阳击败司马休之。司马休之逃往后秦。刘裕完全清除了东晋宗室和异己势力。",
+        "latitude": 32.0,
+        "longitude": 112.2,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "西哥特人攻占纳博讷",
+        "description": "西哥特人在新任首领瓦利亚的率领下攻占了高卢沿海重镇纳博讷。瓦利亚与罗马帝国重新谈判，为罗马收复西班牙部分领土以换取粮食供应。",
+        "latitude": 43.2,
+        "longitude": 3.0,
+        "category": "军事",
+        "region": "西哥特王国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 416,
+    "dynasties": [
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "义熙十二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "后秦姚兴去世，姚泓继位",
+        "description": "后秦皇帝姚兴病逝，太子姚泓继位。姚兴是十六国后期杰出的君主，推崇儒学佛教、发展经济文化。后秦在他去世后开始走向衰落。姚泓为人懦弱，难以控制内部矛盾。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "后秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "刘裕大举北伐后秦",
+        "description": "刘裕趁后秦姚兴新丧、内部混乱之际，亲率大军分四路北伐后秦。王镇恶和檀道济率前锋攻占许昌和洛阳。刘裕本人率主力沿黄河西进。后秦朝野震动。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 417,
+    "dynasties": [
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "义熙十三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘裕灭后秦",
+        "description": "刘裕大军攻入关中，王镇恶率水军从渭水直逼长安。后秦皇帝姚泓出降，后秦灭亡。刘裕进入长安后拜谒汉朝陵墓，大会群臣。后秦的领土全部并入东晋版图。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "军事",
+        "region": "东晋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "刘裕匆忙南返丢失关中",
+        "description": "刘裕在长安三个多月后，因坐镇建康的刘穆之病逝，担心后方有变而匆忙南返。他留下年仅十二岁的儿子刘义真镇守长安，以王镇恶、沈田子等辅佐。刘裕走后，守将们内讧不断，大夏赫连勃勃趁机进攻关中。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 418,
+    "dynasties": [
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "义熙十四年"
+      }
+    ],
+    "events": [
+      {
+        "title": "夏赫连勃勃攻占关中",
+        "description": "大夏赫连勃勃趁晋军内讧，率军攻占长安。沈田子嫉恨王镇恶，矫诏杀了王镇恶。刘义真又杀了沈田子。晋军大乱，赫连勃勃乘虚攻入长安。刘裕北伐后秦的战果大部丧失。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "军事",
+        "region": "大夏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "刘裕受封宋公",
+        "description": "刘裕南返后因灭后秦之功，被晋安帝封为宋公、加九锡。刘裕的权势已与皇帝无异，篡位只是时间问题。他开始筹划代晋称帝的具体步骤。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 419,
+    "dynasties": [
+      {
+        "dynastyId": "dongjin",
+        "name": "东晋",
+        "ruler": "晋安帝司马德宗",
+        "era": "元熙元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘裕杀晋安帝立司马德文",
+        "description": "刘裕为代晋做准备，以晋安帝司马德宗'不适宜为君'为由将其缢杀。刘裕立安帝之弟司马德文为帝，是为晋恭帝。恭帝完全是一个傀儡，朝政全由刘裕裁决。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "东晋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 420,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋武帝刘裕",
+        "era": "永初元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘裕代晋称帝建立南朝宋",
+        "description": "刘裕逼迫晋恭帝司马德文禅让退位，在建康即皇帝位，改元永初，建立南朝宋（刘宋）。东晋立国一百零四年而亡。恭帝被废为零陵王。南北朝时期正式开始。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "刘裕推行改革",
+        "description": "宋武帝刘裕称帝后推行了一系列改革：抑制豪强土地兼并、整顿户籍和赋税制度、减轻刑罚。他还大力裁减冗员、提倡节俭。刘宋初年政治较为清明，社会秩序稳定。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 421,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋武帝刘裕",
+        "era": "永初二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘宋灭亡西凉",
+        "description": "刘宋皇帝刘裕派军西征西凉。西凉公李歆率军迎战，被刘宋军队击败斩杀。西凉灭亡，立国二十二年。河西走廊西部的领土并入刘宋版图。",
+        "latitude": 40.14,
+        "longitude": 94.6,
+        "category": "军事",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "刘裕杀害晋恭帝",
+        "description": "刘裕派兵潜入零陵王府，用棉被闷死了前朝皇帝司马德文。至此东西晋共十五位皇帝全部终结。刘裕开创了杀害前朝废帝的先例，后世多有效仿。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 422,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋武帝刘裕",
+        "era": "永初三年"
+      },
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋少帝刘义符",
+        "era": "景平元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "宋武帝刘裕病逝",
+        "description": "宋武帝刘裕病逝建康，终年六十岁。刘裕从一介平民起兵，最终开创了南朝宋王朝。他在位期间整顿政治、发展经济，为南朝宋的百年基业打下了基础。太子刘义符继位，是为宋少帝。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "北魏明元帝拓跋嗣去世，拓跋焘继位",
+        "description": "北魏明元帝拓跋嗣病逝，年仅十六岁的太子拓跋焘继位，是为北魏太武帝。拓跋焘少年老成、果敢刚毅，是北魏最杰出的皇帝之一。他继位后立即着手整顿军备。",
+        "latitude": 40.1,
+        "longitude": 113.3,
+        "category": "政治",
+        "region": "北魏",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 423,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋少帝刘义符",
+        "era": "景平二年"
+      },
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘宋废少帝立文帝",
+        "description": "宋少帝刘义符年幼贪玩、不理朝政。辅政大臣徐羡之、傅亮、谢晦等废黜刘义符为营阳王，不久将其杀害。他们迎立刘裕第三子刘义隆为帝，是为宋文帝。宋文帝开创了元嘉之治。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "北魏太武帝出兵北征",
+        "description": "北魏太武帝拓跋焘刚刚继位，北方的柔然汗国趁机南侵。拓跋焘亲率大军北征，在云中（今内蒙古和林格尔）击败柔然军队。拓跋焘展示了他卓越的军事才能。",
+        "latitude": 40.4,
+        "longitude": 111.8,
+        "category": "军事",
+        "region": "北魏",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 424,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "宋文帝诛杀权臣整顿朝纲",
+        "description": "宋文帝刘义隆在位后设计铲除了废立皇帝的权臣徐羡之、傅亮和谢晦。徐羡之自杀、傅亮被杀。谢晦在荆州起兵也被击败斩杀。宋文帝亲政后开始推行元嘉之治。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "北魏太武帝北伐柔然",
+        "description": "北魏太武帝拓跋焘再次亲征柔然。此次北伐深入漠北千余里，柔然部众溃散。拓跋焘将俘获的人口牲畜全部带回塞内。北魏的北方边境暂时安定。",
+        "latitude": 43.0,
+        "longitude": 112.0,
+        "category": "军事",
+        "region": "北魏",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 425,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "宋文帝推崇文教",
+        "description": "宋文帝刘义隆大力推崇文教，设立儒学、玄学、文学和史学四馆，招揽天下贤才。宋文帝本人博涉经史、善写文章。在元嘉年间，刘宋出现了文化繁荣的景象，谢灵运、颜延之等文人辈出。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "文化",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 426,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉四年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北魏太武帝攻占长安",
+        "description": "北魏太武帝拓跋焘亲率大军西征大夏。北魏军攻占了长安，大夏皇帝赫连勃勃已在此前去世，其子赫连昌继位。赫连昌退守统万城，北魏军队继续追击。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "军事",
+        "region": "北魏",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 427,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉五年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北魏攻破统万城",
+        "description": "北魏太武帝拓跋焘率奇兵突袭统万城。赫连昌出战被击败，统万城被攻破。赫连昌逃往上邽（今甘肃天水）。大夏主力被歼，北魏获得了统万城中的大量珍宝和人口。",
+        "latitude": 37.5,
+        "longitude": 108.8,
+        "category": "军事",
+        "region": "北魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "柔然可汗大檀去世",
+        "description": "柔然汗国可汗大檀（牟汗纥升盖可汗）去世，其子敕连继位。柔然在连续被北魏击败后实力受损，暂时无力南侵。",
+        "latitude": 45.0,
+        "longitude": 110.0,
+        "category": "政治",
+        "region": "柔然",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 428,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘宋元嘉之治进入鼎盛",
+        "description": "宋文帝在位期间政治清明、经济发展、文化繁荣。元嘉年间全国人口增长、仓库充实，国家一片太平景象。史称'元嘉之治'，是南朝史上少有的繁荣时期。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "经济",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 429,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉七年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北魏大规模北伐柔然",
+        "description": "北魏太武帝拓跋焘发动对柔然的大规模北伐。北魏军分路深入漠北，连续追击数千里。柔然主力被击溃，可汗远遁。北魏在漠南设置了军镇，北方边境获得长期安宁。",
+        "latitude": 45.0,
+        "longitude": 110.0,
+        "category": "军事",
+        "region": "北魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汪达尔人盖塞里克成为国王",
+        "description": "汪达尔人首领盖塞里克继位为汪达尔-阿兰王国国王。盖塞里克是日耳曼民族中最杰出的军事家和政治家之一。他建造了一支强大的海军，使汪达尔人成为地中海上的霸主。",
+        "latitude": 36.0,
+        "longitude": -5.0,
+        "category": "政治",
+        "region": "汪达尔王国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 430,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉八年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘宋北伐北魏失败",
+        "description": "宋文帝派到彦之率军北伐北魏，一度收复洛阳和滑台。但北魏太武帝率大军南征，到彦之被击败后撤。北魏攻占了滑台，刘宋北伐无功而返，损失惨重。",
+        "latitude": 35.5,
+        "longitude": 114.5,
+        "category": "军事",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "希波主教奥古斯丁去世",
+        "description": "北非希波主教圣奥古斯丁在汪达尔人围攻希波城期间病逝，终年七十六岁。奥古斯丁是基督教最伟大的神学家之一，他的著作《忏悔录》《上帝之城》《论三位一体》对后世基督教思想产生了深远影响。",
+        "latitude": 36.8,
+        "longitude": 7.7,
+        "category": "宗教",
+        "region": "西罗马帝国",
+        "continent": "非洲"
+      }
+    ]
+  },
+  {
+    "year": 431,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉九年"
+      }
+    ],
+    "events": [
+      {
+        "title": "以弗所大公会议",
+        "description": "东罗马皇帝狄奥多西二世在以弗所召开第三次大公会议。会议主要讨论了聂斯脱利派关于基督二位二性论的教义争议，最终将聂斯脱利派定为异端。会议产生了严重的教义分歧。",
+        "latitude": 37.94,
+        "longitude": 27.34,
+        "category": "宗教",
+        "region": "东罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 432,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "蜀地赵广起义",
+        "description": "益州爆发赵广起义，聚众十余万人攻占成都。刘宋派兵镇压，经过一年多的战斗才平定起义。赵广起义反映了元嘉盛世下的社会矛盾。",
+        "latitude": 30.6,
+        "longitude": 104.1,
+        "category": "军事",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 433,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉十一年"
+      }
+    ],
+    "events": [
+      {
+        "title": "谢灵运被处死",
+        "description": "南朝宋著名山水诗人谢灵运因参与谋反被朝廷处死。谢灵运是东晋名将谢玄之孙，是中国山水诗的奠基人。他的诗歌描绘自然山水、清新脱俗，对后世诗歌影响深远。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "文化",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 434,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉十二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘宋与北魏边境冲突",
+        "description": "刘宋与北魏在淮北地区继续发生小规模边境冲突。宋文帝仍然念念不忘北伐收复中原，加紧备战。但刘宋内部的士族门阀制度日益固化，国力虚耗。",
+        "latitude": 33.0,
+        "longitude": 115.0,
+        "category": "军事",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 435,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉十三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北魏讨伐北燕",
+        "description": "北魏太武帝拓跋焘以冯弘（北燕皇帝）不遣质子为借口，派兵征伐北燕。北燕皇帝冯弘向高句丽求救。北魏军攻占北燕大片领土，北燕政权岌岌可危。",
+        "latitude": 40.0,
+        "longitude": 124.0,
+        "category": "军事",
+        "region": "北魏",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 436,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉十四年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北魏灭北燕",
+        "description": "北魏大军攻入北燕都城龙城（今辽宁朝阳）。北燕皇帝冯弘投奔高句丽，被高句丽王所杀。北燕灭亡。北魏统一了中国东北地区。",
+        "latitude": 41.6,
+        "longitude": 120.4,
+        "category": "军事",
+        "region": "北魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "盖塞里克率汪达尔人入侵北非",
+        "description": "汪达尔国王盖塞里克率领八万汪达尔人和阿兰人从西班牙渡过直布罗陀海峡，入侵北非。汪达尔人一路向东，攻占了毛里塔尼亚和努米底亚行省，直逼罗马非洲行省中心迦太基。",
+        "latitude": 36.8,
+        "longitude": 7.7,
+        "category": "军事",
+        "region": "汪达尔王国",
+        "continent": "非洲"
+      }
+    ]
+  },
+  {
+    "year": 437,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉十五年"
+      }
+    ],
+    "events": [
+      {
+        "title": "宋文帝广纳贤才",
+        "description": "宋文帝刘义隆继续推行文教政策，征召天下名士到建康。他在鸡笼山开设儒学馆、玄学馆、文学馆和史学馆。雷次宗、何尚之、谢元等著名学者被召至建康讲学。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "文化",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 438,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉十六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北凉沮渠蒙逊去世",
+        "description": "北凉王沮渠蒙逊病逝，其子沮渠牧犍继位。沮渠蒙逊是北凉的实际建立者，在位期间北凉达到鼎盛。他推崇佛教，组织翻译了大量佛经。",
+        "latitude": 38.9,
+        "longitude": 100.5,
+        "category": "政治",
+        "region": "北凉",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 439,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉十七年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北魏灭北凉，统一北方",
+        "description": "北魏太武帝拓跋焘亲征北凉，兵临姑臧城下。北凉王沮渠牧犍出降，北凉灭亡。北魏统一了中国北方全境。南北朝对峙的格局正式形成。",
+        "latitude": 37.9,
+        "longitude": 102.6,
+        "category": "军事",
+        "region": "北魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "狄奥多西法典颁布",
+        "description": "东罗马皇帝狄奥多西二世颁布了《狄奥多西法典》。这部法典汇集了自君士坦丁大帝以来一百多年的法律敕令，共十六卷。它是罗马法的里程碑式汇编，对后世的查士丁尼法典产生了重要影响。",
+        "latitude": 41.01,
+        "longitude": 28.98,
+        "category": "政治",
+        "region": "东罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 440,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉十八年"
+      }
+    ],
+    "events": [
+      {
+        "title": "南朝宋社会矛盾积累",
+        "description": "元嘉之治虽表面繁荣，但士族门阀制度日益固化。士族垄断政治权力、兼并土地，寒门子弟难以晋升。僧侣寺院经济膨胀，国家税收减少。这些社会矛盾为刘宋的衰落埋下伏笔。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "社会",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 441,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉十九年"
+      }
+    ],
+    "events": [
+      {
+        "title": "仇池国被北魏攻灭",
+        "description": "北魏太武帝拓跋焘派军攻灭陇南的仇池国（氐族政权）。北魏进一步巩固了对西北地区的控制。",
+        "latitude": 33.5,
+        "longitude": 105.0,
+        "category": "军事",
+        "region": "北魏",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 442,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉二十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘宋与北魏摩擦加剧",
+        "description": "北魏统一北方后，刘宋和北魏两大政权的边境摩擦不断升级。两国在淮北和河南地区争夺激烈。宋文帝开始大规模备战，为第二次北伐做准备。",
+        "latitude": 33.0,
+        "longitude": 115.0,
+        "category": "军事",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 443,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉二十一年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北魏太武帝再次北征柔然",
+        "description": "北魏太武帝拓跋焘第三次大规模北伐柔然。北魏军深入漠北，在鹿浑谷（今蒙古国境内）大破柔然主力。柔然可汗远遁。北魏在北方草原的霸主地位进一步巩固。",
+        "latitude": 46.0,
+        "longitude": 105.0,
+        "category": "军事",
+        "region": "北魏",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 444,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉二十二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘宋加紧北伐准备",
+        "description": "宋文帝刘义隆全力筹备北伐。他大量征调民夫运输粮草、打造兵器、建造战船。朝中大臣多数反对北伐，但宋文帝志在必得。他将女儿嫁给北魏叛变的将领以争取支持。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "军事",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 445,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉二十三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "盖吴起义反魏",
+        "description": "卢水胡人盖吴在杏城（今陕西黄陵）聚众起义反魏，自称天台王。起义军迅速发展到十余万人，关中震动。北魏太武帝拓跋焘亲率大军镇压，多次激战后才平定盖吴起义。",
+        "latitude": 35.6,
+        "longitude": 109.2,
+        "category": "军事",
+        "region": "北魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿提拉杀布列达独掌匈奴大权",
+        "description": "匈奴国王阿提拉杀害了其兄布列达，独自掌握了匈奴帝国的统治权。阿提拉统治下的匈奴帝国从莱茵河一直延伸到中亚。他建立了恐怖的战争机器，被称为'上帝的鞭子'。",
+        "latitude": 47.0,
+        "longitude": 20.0,
+        "category": "政治",
+        "region": "匈奴帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 446,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉二十四年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北魏太武帝灭佛",
+        "description": "北魏太武帝拓跋焘在崔浩的建议下颁布了严厉的灭佛令。下令捣毁所有寺院、焚烧佛经、坑杀僧人。这是中国历史上'三武一宗灭佛'的第一次大规模灭佛运动。佛教在北魏境内遭受了毁灭性打击。",
+        "latitude": 40.1,
+        "longitude": 113.3,
+        "category": "宗教",
+        "region": "北魏",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 447,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉二十五年"
+      }
+    ],
+    "events": [
+      {
+        "title": "阿提拉入侵东罗马帝国",
+        "description": "匈奴王阿提拉率军大规模入侵东罗马帝国的巴尔干行省。匈奴军队攻占了七十余座城市，兵临君士坦丁堡城下。东罗马皇帝狄奥多西二世被迫求和，向阿提拉支付巨额年贡。",
+        "latitude": 42.0,
+        "longitude": 25.0,
+        "category": "军事",
+        "region": "东罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 448,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉二十六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "东罗马向匈奴求和",
+        "description": "东罗马帝国与匈奴王阿提拉签订了屈辱的和约。东罗马承诺向阿提拉支付六千磅黄金的欠款，并将年贡增加三倍。阿提拉获得了大量的战利品和黄金后暂时退兵。",
+        "latitude": 41.01,
+        "longitude": 28.98,
+        "category": "外交",
+        "region": "东罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 449,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉二十七年"
+      }
+    ],
+    "events": [
+      {
+        "title": "盎格鲁-撒克逊人进入不列颠",
+        "description": "日耳曼部落盎格鲁人和撒克逊人应不列颠的凯尔特首领邀请，乘船渡过北海进入不列颠岛。他们最初作为雇佣兵帮助抵抗皮克特人的入侵，但随后反客为主，开始在不列颠东部定居。",
+        "latitude": 52.0,
+        "longitude": -1.0,
+        "category": "社会",
+        "region": "不列颠",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 450,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉二十八年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘宋大举北伐——元嘉北伐",
+        "description": "宋文帝刘义隆不顾群臣反对，派王玄谟、沈庆之等率大军北伐北魏。宋军分东西两路进攻。王玄谟率东路主力围攻滑台（今河南滑县），但久攻不下。西路军的进展也不顺利。",
+        "latitude": 35.5,
+        "longitude": 114.5,
+        "category": "军事",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "北魏太武帝南征大败刘宋",
+        "description": "北魏太武帝拓跋焘亲率大军南征。他先击溃了王玄谟的宋军主力，随后兵分多路深入刘宋境内。北魏军一路南下直逼长江北岸的瓜步（今江苏六合）。建康朝野震动。",
+        "latitude": 32.3,
+        "longitude": 118.8,
+        "category": "军事",
+        "region": "北魏",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 451,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉二十九年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北魏太武帝撤军北返",
+        "description": "北魏太武帝拓跋焘在瓜步停留数月后，因南方炎热和缺乏渡船北撤。北魏军撤走时沿途烧杀抢掠，江淮地区遭受了严重破坏。刘宋的元嘉之治被这场战争彻底打断。",
+        "latitude": 32.0,
+        "longitude": 118.0,
+        "category": "军事",
+        "region": "北魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "沙隆战役——阿提拉被击败",
+        "description": "匈奴王阿提拉率军入侵高卢，与西罗马统帅埃提乌斯和西哥特国王狄奥多里克一世联军在沙隆平原（今法国香槟地区）展开决战。战斗极为惨烈，双方死伤数十万。西哥特国王阵亡，但阿提拉也遭到重创被迫撤退。",
+        "latitude": 49.0,
+        "longitude": 4.0,
+        "category": "军事",
+        "region": "西罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "卡尔西顿大公会议",
+        "description": "东罗马皇帝马西安在小亚细亚的卡尔西顿召开第四次大公会议。会议确定了基督神人二性'不相混淆、不相改变、不相割离、不相分开'的卡尔西顿信经，谴责了优迪克派的一性论。",
+        "latitude": 41.01,
+        "longitude": 29.03,
+        "category": "宗教",
+        "region": "东罗马帝国",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 452,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉三十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北魏太武帝拓跋焘被害",
+        "description": "北魏太武帝拓跋焘被宦官宗爱杀害。宗爱立拓跋焘之子拓跋余为帝，但不久又杀拓跋余。北魏宗室和大臣联合诛杀宗爱，立拓跋焘之孙拓跋濬为帝，是为文成帝。北魏进入文成帝时期。",
+        "latitude": 40.1,
+        "longitude": 113.3,
+        "category": "政治",
+        "region": "北魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿提拉入侵意大利",
+        "description": "匈奴王阿提拉率军越过阿尔卑斯山入侵意大利北部。匈奴军队攻占了阿奎莱亚、米兰和帕维亚等城市，将北意大利变成一片废墟。教宗利奥一世率代表团与阿提拉会面，成功劝说他撤出意大利。",
+        "latitude": 45.5,
+        "longitude": 10.0,
+        "category": "军事",
+        "region": "匈奴帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 453,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉三十一年"
+      }
+    ],
+    "events": [
+      {
+        "title": "匈奴王阿提拉暴毙",
+        "description": "匈奴王阿提拉在新婚之夜突然暴毙（死于血管爆裂）。他的葬礼极其隆重，被埋葬在一个三重棺椁中。阿提拉死后，匈奴帝国迅速瓦解，各部落纷纷脱离匈奴统治。",
+        "latitude": 47.0,
+        "longitude": 20.0,
+        "category": "政治",
+        "region": "匈奴帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 454,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋文帝刘义隆",
+        "era": "元嘉三十二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "宋文帝太子刘劭弑父",
+        "description": "宋文帝刘义隆因太子刘劭与女巫合谋诅咒父亲，准备废黜太子。刘劭得知后先发制人，率兵入宫杀害了宋文帝。刘劭自立为帝。刘宋王朝陷入内乱。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿提拉之子内讧",
+        "description": "阿提拉死后，他的几个儿子为争夺王位展开内战。匈奴帝国分裂为多个部落。被匈奴压制的日耳曼部落纷纷起义，匈奴的霸权迅速消亡。",
+        "latitude": 47.0,
+        "longitude": 20.0,
+        "category": "政治",
+        "region": "匈奴帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 455,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋孝武帝刘骏",
+        "era": "孝建元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘骏起兵讨伐刘劭",
+        "description": "宋文帝第三子刘骏在江州（今江西九江）起兵讨伐弑父的刘劭。雍州刺史臧质和荆州刺史刘义宣等率军响应。联军在讨伐中势如破竹，刘劭的军队纷纷倒戈。",
+        "latitude": 29.7,
+        "longitude": 115.9,
+        "category": "军事",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "刘骏攻入建康诛刘劭",
+        "description": "刘骏率联军攻入建康，擒杀刘劭及其党羽。刘骏即皇帝位，是为宋孝武帝。他杀死了所有参与弑父的刘劭党羽，但此后刘宋宗室骨肉相残的血腥剧愈演愈烈。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汪达尔人洗劫罗马",
+        "description": "汪达尔国王盖塞里克率舰队从北非横渡地中海，攻陷罗马城。汪达尔人在城内进行了十四天的大规模洗劫，将罗马城中的金银财宝、艺术品和珍贵文物洗劫一空。罗马城遭受了比410年更严重的破坏。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "军事",
+        "region": "西罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 456,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋孝武帝刘骏",
+        "era": "孝建二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘宋宗室内讧不止",
+        "description": "宋孝武帝刘骏即位后大举诛杀宗室诸王。荆州刺史刘义宣因帮助刘骏登基自恃功高，起兵反叛被镇压。刘骏对兄弟叔侄大开杀戒。刘宋宗室的力量在内斗中迅速削弱。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 457,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋孝武帝刘骏",
+        "era": "大明元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "宋孝武帝推行改制",
+        "description": "宋孝武帝刘骏在诛除异己后推行了一些政治改革。他提拔寒门出身的人才担任机要职务以抑制士族门阀。但他本人奢侈腐化、滥用民力，百姓负担沉重。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 458,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋孝武帝刘骏",
+        "era": "大明二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北魏文成帝恢复佛教",
+        "description": "北魏文成帝拓跋濬即位后下诏恢复佛教。他下令修建佛像和寺院，允许僧人还俗与出家。著名的云冈石窟就是在文成帝时期开始大规模开凿的。佛教在北魏迅速复兴。",
+        "latitude": 40.1,
+        "longitude": 113.3,
+        "category": "宗教",
+        "region": "北魏",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 459,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋孝武帝刘骏",
+        "era": "大明三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "沈庆之平定竟陵王刘诞叛乱",
+        "description": "宋孝武帝之弟竟陵王刘诞在广陵（今江苏扬州）起兵反叛。孝武帝派沈庆之率军讨伐。沈庆之围攻广陵数月后攻破城池，杀刘诞。孝武帝下令将广陵城中五千人全部屠杀。",
+        "latitude": 32.4,
+        "longitude": 119.4,
+        "category": "军事",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 460,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋孝武帝刘骏",
+        "era": "大明四年"
+      }
+    ],
+    "events": [
+      {
+        "title": "柔然攻占高昌",
+        "description": "柔然汗国攻占了西域重镇高昌（今新疆吐鲁番）。柔然成为西域地区的霸主。北魏由于内政尚未完全稳定，暂时无力与柔然争夺西域控制权。",
+        "latitude": 42.8,
+        "longitude": 89.5,
+        "category": "军事",
+        "region": "柔然",
+        "continent": "亚洲"
+      },
+      {
+        "title": "云冈石窟大规模开凿",
+        "description": "北魏文成帝下令在武州山（今山西大同西郊）大规模开凿石窟造像。著名高僧昙曜主持这项工程，开凿了最早的五个大型石窟（即云冈昙曜五窟）。这是中国佛教艺术史上的里程碑。",
+        "latitude": 40.05,
+        "longitude": 113.15,
+        "category": "文化",
+        "region": "北魏",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 461,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋孝武帝刘骏",
+        "era": "大明五年"
+      }
+    ],
+    "events": [
+      {
+        "title": "南朝宋内部矛盾激化",
+        "description": "宋孝武帝对宗室和大臣的残酷镇压导致刘宋朝廷上下人人自危。各地刺史、太守和宗室暗怀异心，国家统治日渐衰败。但宋孝武帝仍沉迷于奢侈享乐。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 462,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋孝武帝刘骏",
+        "era": "大明六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "祖冲之编制大明历",
+        "description": "南朝宋著名科学家祖冲之完成了《大明历》的编制工作。他将岁差引入历法，提出了每391年设置144个闰月的新闰周。祖冲之还将圆周率精确到了小数点后第七位（3.1415926-3.1415927之间），领先世界近千年。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "科技",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 463,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋孝武帝刘骏",
+        "era": "大明七年"
+      }
+    ],
+    "events": [
+      {
+        "title": "宋孝武帝穷奢极欲",
+        "description": "宋孝武帝刘骏生活极为奢侈，大兴土木修建宫殿园林。他宠爱贵妃殷氏，为她修建了豪华的陵墓。朝政日益腐败，赋税沉重，百姓怨声载道。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 464,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋孝武帝刘骏",
+        "era": "大明八年"
+      },
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋前废帝刘子业",
+        "era": "永光元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "宋孝武帝病逝，前废帝继位",
+        "description": "宋孝武帝刘骏病逝，终年三十五岁。太子刘子业继位，年仅十六岁。刘子业是南朝历史上有名的暴君和性情变态者，胡作非为、淫乱宫廷。刘宋王朝进一步走向崩溃。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 465,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋明帝刘彧",
+        "era": "泰始元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘彧杀前废帝自立",
+        "description": "湘东王刘彧（宋文帝第十一子）在主衣阮佃夫等人的协助下，派人杀死了荒淫无道的刘子业。刘彧即皇帝位，是为宋明帝。他立即开始大举清除可能威胁皇位的宗室诸王。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 466,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋明帝刘彧",
+        "era": "泰始二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘宋宗室诸王反叛",
+        "description": "宋明帝刘彧大杀宗室诸王，引起各地刺史的强烈反抗。晋安王刘子勋在寻阳（今江西九江）起兵，得到广泛响应。宋明帝派沈攸之、张永等率军讨伐，历经苦战才平定叛乱。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "军事",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "北魏扩张占领青齐",
+        "description": "北魏趁刘宋内乱之机大举南征，攻占了青州和齐州（今山东地区）。北魏的领土向南推进到淮河以北。刘宋在山东的统治彻底崩溃。",
+        "latitude": 36.5,
+        "longitude": 118.5,
+        "category": "军事",
+        "region": "北魏",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 467,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋明帝刘彧",
+        "era": "泰始三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "宋明帝铲除功臣",
+        "description": "宋明帝刘彧在平定内乱后开始铲除有功劳的大臣和将领。他将功高望重的吴喜等人处死，对掌握兵权的将领百般猜忌。刘宋朝廷弥漫着恐怖和猜疑的气氛。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 468,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋明帝刘彧",
+        "era": "泰始四年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北魏继续蚕食刘宋领土",
+        "description": "北魏继续向南推进，攻占了刘宋在淮北的多个郡县。刘宋在淮河以北的据点日渐减少。双方的边界最终稳定在淮河一线。",
+        "latitude": 33.0,
+        "longitude": 115.0,
+        "category": "军事",
+        "region": "北魏",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 469,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋明帝刘彧",
+        "era": "泰始五年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘宋尽失淮北之地",
+        "description": "北魏攻占刘宋在淮北的最后据点。刘宋的北部边界全线南移至淮河一线。南朝的疆域被大大压缩。宋明帝面对国土沦丧无能为力。",
+        "latitude": 33.0,
+        "longitude": 115.0,
+        "category": "军事",
+        "region": "北魏",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 470,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋明帝刘彧",
+        "era": "泰始六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "南朝宋国力大衰",
+        "description": "经过连年内乱和与北魏的战争，刘宋国力严重衰退。士族和寒门的矛盾、中央与地方的冲突不断激化。宋明帝的猜忌和大屠杀使朝廷上下离心离德。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 471,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋明帝刘彧",
+        "era": "泰始七年"
+      },
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "孝文帝拓跋宏",
+        "era": "延兴元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北魏献文帝禅让，孝文帝继位",
+        "description": "北魏献文帝拓跋弘因厌倦政治和信奉佛教，将皇位禅让给年仅五岁的太子拓跋宏，是为北魏孝文帝。献文帝成为太上皇，但仍掌控朝政。冯太后以太皇太后的身份再次临朝听政。",
+        "latitude": 40.1,
+        "longitude": 113.3,
+        "category": "政治",
+        "region": "北魏",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 472,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋明帝刘彧",
+        "era": "泰豫元年"
+      },
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋后废帝刘昱",
+        "era": "元徽元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "宋明帝病逝，后废帝继位",
+        "description": "宋明帝刘彧病逝，终年三十四岁。太子刘昱继位，年仅十岁。刘昱是南朝又一个著名的暴虐皇帝，以杀人为乐。朝中大权落入萧道成、袁粲、褚渊等大臣手中。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 473,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋后废帝刘昱",
+        "era": "元徽二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "刘宋桂阳王刘休范叛乱",
+        "description": "桂阳王刘休范在江州起兵叛乱，率军直逼建康。右卫将军萧道成率军抵抗，坚守新亭（今南京南郊）。萧道成派部将黄回诈降，在军中斩杀了刘休范。叛乱平息后萧道成的声望大增。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "军事",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 474,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋后废帝刘昱",
+        "era": "元徽三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "萧道成逐步掌握大权",
+        "description": "萧道成因平定刘休范叛乱之功被任命为中领军，掌管禁卫军。他逐渐掌握了建康的军政大权。后废帝刘昱胡作非为、杀人如麻，萧道成暗中筹划取而代之。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 475,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋后废帝刘昱",
+        "era": "元徽四年"
+      }
+    ],
+    "events": [
+      {
+        "title": "后废帝刘昱暴虐无常",
+        "description": "宋后废帝刘昱日益残暴，每天亲手杀人、剖腹挖心。他曾经带人闯入萧道成府中，用箭射中萧道成的肚脐。萧道成装死才逃过一劫。朝廷上下人人自危。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 476,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋后废帝刘昱",
+        "era": "元徽五年"
+      }
+    ],
+    "events": [
+      {
+        "title": "萧道成杀后废帝",
+        "description": "萧道成派亲信杨玉夫在后废帝刘昱熟睡时将其杀害。萧道成以太后名义历数刘昱罪行，迎立安成王刘凖为帝，是为宋顺帝。萧道成自任骠骑大将军、录尚书事，独揽朝政。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "西罗马帝国灭亡——奥多亚塞废黜末代皇帝",
+        "description": "西罗马帝国的日耳曼裔统帅奥多亚塞率军废黜了年仅六岁的西罗马末代皇帝罗慕路斯·奥古斯图卢斯。奥多亚塞将皇帝徽章送往君士坦丁堡，宣布西罗马帝国的终结。西罗马帝国立国五百余年而亡。",
+        "latitude": 41.893,
+        "longitude": 12.485,
+        "category": "政治",
+        "region": "西罗马帝国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 477,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋顺帝刘凖",
+        "era": "昇明元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "沈攸之起兵反对萧道成",
+        "description": "荆州刺史沈攸之起兵讨伐萧道成。司徒袁粲、尚书令刘秉等在建康秘密策划接应。萧道成对这一形势早有准备。他派军击败袁粲和刘秉，随后出兵荆州。",
+        "latitude": 30.4,
+        "longitude": 112.2,
+        "category": "军事",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 478,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "宋顺帝刘凖",
+        "era": "昇明二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "萧道成平定沈攸之",
+        "description": "沈攸之的军队在荆州遭重创，沈攸之在逃亡途中自缢身亡。萧道成彻底平定了所有反对势力，完全控制了刘宋政权。他被进爵为齐王，代宋称帝只是时间问题。",
+        "latitude": 30.4,
+        "longitude": 112.2,
+        "category": "军事",
+        "region": "南朝宋",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 479,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "齐高帝萧道成",
+        "era": "建元元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "萧道成代宋称帝建立南齐",
+        "description": "齐王萧道成逼迫宋顺帝刘凖禅让退位，在建康即皇帝位，改元建元，建立南齐。刘宋立国六十年而亡。萧道成是南朝历史上第一位由寒门出身的开国皇帝。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南齐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "齐高帝提倡节俭",
+        "description": "齐高帝萧道成提倡节俭，以身作则。他将宫中金银器和华丽装饰全部销毁，改用铁器和素色用品。他还下令禁绝民间奢侈风俗。萧道成在位期间政治尚算清明。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南齐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 480,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "齐高帝萧道成",
+        "era": "建元二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北魏南征被南齐击退",
+        "description": "北魏趁南齐新立之机派兵南征，进攻淮北地区。南齐将领垣崇祖在寿阳（今安徽寿县）击败北魏军。北朝的进攻被成功击退。",
+        "latitude": 32.5,
+        "longitude": 116.8,
+        "category": "军事",
+        "region": "南齐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 481,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "齐高帝萧道成",
+        "era": "建元三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "南齐与北魏边境对峙",
+        "description": "南齐与北魏在淮河沿线形成长期对峙的局面。南齐在边境修筑了大量防御工事，北魏也加强了在淮北的军事部署。双方互有攻守但无重大战事。",
+        "latitude": 33.0,
+        "longitude": 115.0,
+        "category": "军事",
+        "region": "南齐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 482,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "齐高帝萧道成",
+        "era": "建元四年"
+      },
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "齐武帝萧赜",
+        "era": "永明元年"
+      }
+    ],
+    "events": [
+      {
+        "title": "齐高帝病逝，齐武帝继位",
+        "description": "齐高帝萧道成病逝，终年五十六岁。太子萧赜继位，是为齐武帝。齐武帝继续推行休养生息的政策，减免赋税、发展经济。永明年间出现了南齐的繁荣时期。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南齐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 483,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "齐武帝萧赜",
+        "era": "永明二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "齐武帝永明之治",
+        "description": "齐武帝萧赜在位期间励精图治，减轻赋税、与民休息、发展生产。他禁止奢侈浪费，提倡节俭。永明年间南齐社会安定、经济发展，出现了继宋文帝元嘉之治后的又一次繁荣。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "经济",
+        "region": "南齐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 484,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "齐武帝萧赜",
+        "era": "永明三年"
+      },
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "孝文帝元宏",
+        "era": "太和八年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北魏冯太后推行俸禄制",
+        "description": "北魏太皇太后冯太后推行班俸禄制改革，给各级官吏发放固定俸禄以取代过去的抢劫和受贿。同时颁布了严厉的反贪污法令，官吏贪污满一匹绢者处死刑。北魏吏治为之一新。",
+        "latitude": 40.1,
+        "longitude": 113.3,
+        "category": "政治",
+        "region": "北魏",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 485,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "齐武帝萧赜",
+        "era": "永明四年"
+      },
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "孝文帝元宏",
+        "era": "太和九年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北魏推行均田制和三长制",
+        "description": "北魏冯太后采纳李安世和韩麒麟的建议，在全国推行均田制：将土地按人口分配给农民，以解决土地兼并和流民问题。同时推行三长制（邻长、里长、党长），建立基层行政体系。这是中国历史上最重要的土地制度改革之一。",
+        "latitude": 40.1,
+        "longitude": 113.3,
+        "category": "政治",
+        "region": "北魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "南齐唐寓之起义",
+        "description": "富阳（今浙江富阳）人唐寓之率众起义，聚众三万余人攻占钱塘（今杭州）。唐寓之称帝，国号吴。齐武帝派军镇压，唐寓之兵败被杀。",
+        "latitude": 30.2,
+        "longitude": 120.0,
+        "category": "军事",
+        "region": "南齐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 486,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "齐武帝萧赜",
+        "era": "永明五年"
+      }
+    ],
+    "events": [
+      {
+        "title": "克洛维成为法兰克国王",
+        "description": "年仅十五岁的克洛维一世继承其父希尔德里克一世成为萨利安法兰克人的首领。克洛维是墨洛温王朝的奠基人，他将从高卢北部开始扩张，最终建立强大的法兰克王国。",
+        "latitude": 50.0,
+        "longitude": 4.0,
+        "category": "政治",
+        "region": "法兰克王国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 487,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "齐武帝萧赜",
+        "era": "永明六年"
+      }
+    ],
+    "events": [
+      {
+        "title": "南齐与北魏边境冲突",
+        "description": "南齐与北魏在淮北地区发生军事冲突。南齐将领萧衍（后来的梁武帝）在义阳（今河南信阳）击败北魏军。萧衍因战功升任雍州刺史，开始掌握重兵。",
+        "latitude": 32.0,
+        "longitude": 114.0,
+        "category": "军事",
+        "region": "南齐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 488,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "齐武帝萧赜",
+        "era": "永明七年"
+      }
+    ],
+    "events": [
+      {
+        "title": "南齐文化繁荣",
+        "description": "齐武帝萧赜在位期间南齐文化繁荣。竟陵王萧子良在建康鸡笼山开西邸，广纳文学之士。范缜、沈约、谢朓、王融等著名文人齐聚西邸，形成了'竟陵八友'文学集团。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "文化",
+        "region": "南齐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 489,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "齐武帝萧赜",
+        "era": "永明八年"
+      }
+    ],
+    "events": [
+      {
+        "title": "范缜发表《神灭论》",
+        "description": "南朝著名思想家范缜在竟陵王萧子良的西邸发表《神灭论》。范缜提出'形存则神存，形谢则神灭'的著名论点，反对佛教的因果报应和灵魂不灭论。萧子良召集僧众与他辩论，但无人能驳倒他。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "文化",
+        "region": "南齐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 490,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "齐武帝萧赜",
+        "era": "永明九年"
+      },
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "孝文帝元宏",
+        "era": "太和十四年"
+      }
+    ],
+    "events": [
+      {
+        "title": "冯太后去世，孝文帝亲政",
+        "description": "北魏太皇太后冯太后病逝。二十三岁的孝文帝拓跋宏开始亲政。孝文帝自幼深受汉文化熏陶，是北魏最杰出的改革家。他立志全面推行汉化改革，将北魏从一个游牧政权彻底转变为一个中原王朝。",
+        "latitude": 40.1,
+        "longitude": 113.3,
+        "category": "政治",
+        "region": "北魏",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 491,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "齐武帝萧赜",
+        "era": "永明十年"
+      },
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "孝文帝元宏",
+        "era": "太和十五年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北魏孝文帝开始汉化改革",
+        "description": "北魏孝文帝亲政后立即着手汉化改革。他下令整顿礼乐制度，恢复儒家礼仪。孝文帝还仿照南朝制度改革官制，设立中书省、门下省等机构。北魏开始全面向中原王朝模式转型。",
+        "latitude": 40.1,
+        "longitude": 113.3,
+        "category": "政治",
+        "region": "北魏",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 492,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "齐武帝萧赜",
+        "era": "永明十一年"
+      }
+    ],
+    "events": [
+      {
+        "title": "齐武帝病逝，萧昭业继位",
+        "description": "齐武帝萧赜病逝，终年五十四岁。其孙萧昭业继位，是为齐废帝郁林王。萧昭业年少贪玩、宠信小人，朝政迅速腐败。南齐的永明之治自此终结。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南齐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "北魏孝文帝定都平城改革",
+        "description": "孝文帝在平城继续推行汉化改革，定用了新的官制。他下令仿照魏晋南朝制度，讨论迁都洛阳的可能性。大多数鲜卑贵族反对迁都，但孝文帝决心已定，开始秘密筹划。",
+        "latitude": 40.1,
+        "longitude": 113.3,
+        "category": "政治",
+        "region": "北魏",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 493,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "齐废帝萧昭业",
+        "era": "永明十二年"
+      },
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "孝文帝元宏",
+        "era": "太和十七年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北魏孝文帝迁都洛阳",
+        "description": "北魏孝文帝以征伐南齐为名义调动大军南下。军队到达洛阳时正值秋雨连绵、道路泥泞。鲜卑贵族和士兵多不愿继续南下。孝文帝趁势宣布不再南征，但也不返回平城，定都洛阳。迁都这一重大改革在巧妙的安排下完成了。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "北魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "萧鸾发动宫廷政变",
+        "description": "齐废帝萧昭业的堂叔萧鸾发动政变，废黜萧昭业为郁林王，立萧昭文为帝。不久萧鸾又废萧昭文自立为帝，是为齐明帝。萧鸾在位期间大杀齐高帝和齐武帝的子孙。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南齐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 494,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "齐明帝萧鸾",
+        "era": "建武元年"
+      },
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "孝文帝元宏",
+        "era": "太和十八年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北魏孝文帝全面推行汉化",
+        "description": "孝文帝在洛阳全面推行汉化政策：下令鲜卑人改穿汉族服饰，禁止在朝廷上说鲜卑语，改鲜卑复姓为汉姓（拓跋改元、独孤改刘等）。孝文帝还鼓励鲜卑贵族与汉族士族通婚。北魏社会发生了深刻变革。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "北魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "萧衍镇守雍州",
+        "description": "南齐明帝萧鸾派萧衍担任雍州刺史，镇守襄阳。萧衍在雍州广交豪杰、积蓄力量。他见萧鸾大杀宗室，知道南齐的统治不会长久，暗中准备起事。",
+        "latitude": 32.0,
+        "longitude": 112.2,
+        "category": "政治",
+        "region": "南齐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 495,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "齐明帝萧鸾",
+        "era": "建武二年"
+      },
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "孝文帝元宏",
+        "era": "太和十九年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北魏孝文帝改姓氏",
+        "description": "孝文帝下诏将鲜卑姓氏全部改为汉姓，皇族拓跋氏改为元氏。其他达奚氏改为奚氏、乙旃氏改为长孙氏等。孝文帝自己也改名为元宏。他还规定鲜卑人死后不得归葬平城，以彻底融入中原。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "北魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "龙门石窟开凿",
+        "description": "北魏孝文帝迁都洛阳后，开始在洛阳城南的龙门山开凿石窟。龙门石窟的营建是北魏佛教艺术的重心从云冈转移到洛阳的标志。古阳洞是最早开凿的大型石窟。",
+        "latitude": 34.55,
+        "longitude": 112.47,
+        "category": "文化",
+        "region": "北魏",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 496,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "齐明帝萧鸾",
+        "era": "建武三年"
+      },
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "孝文帝元宏",
+        "era": "太和二十年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北魏太子元恂谋反被废",
+        "description": "北魏孝文帝的太子元恂反对迁都和汉化改革，企图逃回平城。孝文帝发现后废黜了太子，不久将其处死。这一事件反映了鲜卑保守贵族对孝文帝改革的强烈抵触。",
+        "latitude": 34.682,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "北魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "鲜卑贵族叛乱",
+        "description": "北魏鲜卑保守贵族穆泰、陆叡等人在平城发动叛乱，反对孝文帝的汉化改革。孝文帝派任城王元澄率军平叛。穆泰等人被处死。孝文帝的改革在镇压保守派后更加坚定地推进。",
+        "latitude": 40.1,
+        "longitude": 113.3,
+        "category": "军事",
+        "region": "北魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "克洛维击败阿勒曼尼人",
+        "description": "法兰克国王克洛维一世在托尔比亚克战役中击败了入侵高卢的阿勒曼尼人（日耳曼部落）。据说克洛维在此战中向基督教上帝祈祷取得了胜利。此役巩固了法兰克人在高卢北部的统治。",
+        "latitude": 50.0,
+        "longitude": 6.0,
+        "category": "军事",
+        "region": "法兰克王国",
+        "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": 497,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "齐明帝萧鸾",
+        "era": "建武四年"
+      },
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "孝文帝元宏",
+        "era": "太和二十一年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北魏孝文帝南征",
+        "description": "北魏孝文帝元宏以南齐废立为借口，亲率大军南征。北魏军攻占南阳（今河南南阳）。南齐明帝派萧衍率军迎战。双方在新野、南阳一带展开拉锯战。",
+        "latitude": 33.0,
+        "longitude": 112.5,
+        "category": "军事",
+        "region": "北魏",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 498,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "齐明帝萧鸾",
+        "era": "永泰元年"
+      },
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "孝文帝元宏",
+        "era": "太和二十二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "齐明帝萧鸾病逝",
+        "description": "齐明帝萧鸾病逝，终年四十七岁。太子萧宝卷继位，是为东昏侯。萧宝卷是南朝又一个著名的暴君，荒淫无度、不理朝政。他委任宦官和宠臣，大杀宗室和功臣。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南齐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "萧衍在雍州起兵",
+        "description": "萧衍见东昏侯暴虐无道，在雍州襄阳秘密备战。他与兄长萧懿和其他宗室联络，以'废昏立明'为号召聚集力量。萧衍派人到建康打探消息，等待起兵的最佳时机。",
+        "latitude": 32.0,
+        "longitude": 112.2,
+        "category": "军事",
+        "region": "南齐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 499,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "齐东昏侯萧宝卷",
+        "era": "永元元年"
+      },
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "孝文帝元宏",
+        "era": "太和二十三年"
+      }
+    ],
+    "events": [
+      {
+        "title": "北魏孝文帝病逝",
+        "description": "北魏孝文帝元宏在南征途中病逝于谷塘原（今河南邓州），终年三十三岁。他五岁的太子元恪继位，是为宣武帝。孝文帝是中国历史上最杰出的改革家之一，他的汉化改革彻底改变了北朝的历史进程。",
+        "latitude": 32.5,
+        "longitude": 112.0,
+        "category": "政治",
+        "region": "北魏",
+        "continent": "亚洲"
+      },
+      {
+        "title": "萧衍正式起兵",
+        "description": "东昏侯萧宝卷杀害了萧衍的兄长萧懿。萧衍在襄阳正式起兵讨伐东昏侯。他发布檄文号召各地共同讨伐暴君。荆州刺史萧颖胄等响应萧衍。",
+        "latitude": 32.0,
+        "longitude": 112.2,
+        "category": "军事",
+        "region": "南齐",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": 500,
+    "dynasties": [
+      {
+        "dynastyId": "nanbei",
+        "name": "南北朝",
+        "ruler": "齐东昏侯萧宝卷",
+        "era": "永元二年"
+      }
+    ],
+    "events": [
+      {
+        "title": "萧衍大军攻向建康",
+        "description": "萧衍率大军从襄阳沿江东下，连克郢城（今湖北武汉）和江州。东昏侯在建康城内依然荒淫不改，杀死忠臣崔慧景等人。萧衍的军队在进攻中势如破竹。",
+        "latitude": 30.4,
+        "longitude": 114.3,
+        "category": "军事",
+        "region": "南齐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "东昏侯暴虐统治激起众怒",
+        "description": "齐东昏侯萧宝卷在建康城内胡作非为。他宠信宦官和宠妃，大兴土木修建芳乐苑和神仙殿。他每次出巡都要把沿途百姓赶走。朝中大臣纷纷离心。",
+        "latitude": 32.06,
+        "longitude": 118.74,
+        "category": "政治",
+        "region": "南齐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "克洛维皈依基督教",
+        "description": "法兰克国王克洛维一世在兰斯大主教雷米吉乌斯的主持下接受了正统基督教的洗礼。三千名法兰克战士随同受洗。克洛维成为第一位皈依正统基督教的日耳曼国王，获得了高卢罗马教会和高卢罗马人的支持。",
+        "latitude": 49.2,
+        "longitude": 4.0,
+        "category": "宗教",
+        "region": "法兰克王国",
+        "continent": "欧洲"
+      }
+    ]
+  }
+]

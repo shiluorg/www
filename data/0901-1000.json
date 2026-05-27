@@ -1,0 +1,921 @@
+[
+  {
+    "year": 901,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐昭宗李晔", "era": "天复元年" }
+    ],
+    "events": [
+      { "title": "朱温完全控制朝廷", "description": "朱温率军入关，诛杀宦官七百余人，彻底铲除唐朝宦官势力。唐昭宗成为朱温的傀儡，唐朝军政大权完全落入朱温之手。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "亚洲" },
+      { "title": "耶律阿保机被选为契丹可汗", "description": "契丹迭剌部首领耶律阿保机被推选为契丹部落联盟可汗。他统一契丹八部，建立辽政权的雏形，开始向中原方向发展。", "latitude": 43.7, "longitude": 122.3, "category": "政治", "region": "契丹", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 902,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐昭宗李晔", "era": "天复二年" }
+    ],
+    "events": [
+      { "title": "李茂贞围攻凤翔，昭宗被挟持", "description": "朱温攻打凤翔李茂贞，李茂贞挟持唐昭宗登城抵抗。凤翔被围一年多，城中粮尽，冻饿死者无数。李茂贞被迫杀宦官求和。", "latitude": 34.5, "longitude": 107.4, "category": "军事", "region": "唐", "continent": "亚洲" },
+      { "title": "吴国建立", "description": "唐朝封杨行密为吴王，吴国政权正式建立。吴国以扬州为都，占据江淮富庶之地，成为南方最强大的割据政权。", "latitude": 32.4, "longitude": 119.4, "category": "政治", "region": "吴", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 903,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐昭宗李晔", "era": "天复三年" }
+    ],
+    "events": [
+      { "title": "朱温尽诛宦官", "description": "朱温挟昭宗返回长安后，将宫中宦官八百余人全部诛杀。唐朝中后期延续一百余年的宦官专权局面至此终结。诏命各省政务改由士人掌管。", "latitude": 34.3, "longitude": 108.9, "category": "政治", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 904,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐昭宗李晔", "era": "天祐元年" }
+    ],
+    "events": [
+      { "title": "朱温弑唐昭宗", "description": "朱温为篡位扫清障碍，指使人杀害唐昭宗李晔，立其年仅十三岁的儿子李柷为帝，是为唐哀帝。朱温随即强行将都城迁往洛阳。", "latitude": 34.7, "longitude": 112.5, "category": "政治", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 905,
+    "dynasties": [
+      { "dynastyId": "tang", "name": "唐", "ruler": "唐哀帝李柷", "era": "天祐二年" }
+    ],
+    "events": [
+      { "title": "白马驿之祸", "description": "朱温在白马驿（今河南滑县）将唐廷朝臣裴枢、独孤损等三十余人全部处死，投尸黄河，称“此辈常自谓清流，宜投之黄河，使为浊流”。唐朝统治核心被彻底摧毁。", "latitude": 35.6, "longitude": 114.5, "category": "政治", "region": "唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 907,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后梁", "ruler": "梁太祖朱温（朱全忠）", "era": "开平元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽太祖耶律阿保机", "era": "" }
+    ],
+    "events": [
+      { "title": "唐朝灭亡，后梁建立", "description": "朱温逼唐哀帝禅让，登基称帝，国号梁，定都开封，史称后梁。立国二百八十九年的唐朝灭亡，五代十国时期开始。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "后梁", "continent": "亚洲" },
+      { "title": "耶律阿保机统一契丹", "description": "耶律阿保机在统一契丹八部后，正式建立契丹国，为日后辽朝的建立奠定基础。契丹不断扩张，吞并奚、室韦等部。", "latitude": 43.7, "longitude": 122.3, "category": "政治", "region": "契丹", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 908,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后梁", "ruler": "梁太祖朱温", "era": "开平二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽太祖耶律阿保机", "era": "" }
+    ],
+    "events": [
+      { "title": "李克用病逝，李存勖继位", "description": "晋王李克用病逝，临终嘱托其子李存勖三支箭，代表三件未了心愿：灭梁、伐燕、逐契丹。李存勖继晋王位，成为后梁的劲敌。", "latitude": 37.9, "longitude": 112.5, "category": "政治", "region": "晋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 909,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后梁", "ruler": "梁太祖朱温", "era": "开平三年" }
+    ],
+    "events": [
+      { "title": "后梁迁都洛阳", "description": "朱温将后梁都城从开封迁至洛阳，以利于防御晋军的进攻。但迁都之后，朱温日益猜忌，残杀功臣宿将，后梁内部矛盾加剧。", "latitude": 34.7, "longitude": 112.5, "category": "政治", "region": "后梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 911,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后梁", "ruler": "梁太祖朱温", "era": "乾化元年" }
+    ],
+    "events": [
+      { "title": "高季兴割据荆南", "description": "高季兴被后梁封为渤海王，据有荆南（今湖北荆州）一带。荆南国地盘狭小，但地处交通要冲，靠征收商税和与各国周旋立国。", "latitude": 30.3, "longitude": 112.2, "category": "政治", "region": "荆南", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 912,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后梁", "ruler": "梁太祖朱温", "era": "乾化二年" }
+    ],
+    "events": [
+      { "title": "朱温被其子所杀", "description": "后梁太祖朱温因欲传位于养子朱友文，其亲子朱友珪发动政变，杀朱温自立。朱温从称帝到被杀仅五年，后梁统治不稳。", "latitude": 34.7, "longitude": 112.5, "category": "政治", "region": "后梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 913,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后梁", "ruler": "梁末帝朱友贞", "era": "乾化三年" }
+    ],
+    "events": [
+      { "title": "朱友贞杀兄继位", "description": "朱友珪称帝后荒淫无度，朱温之婿赵岩等发动政变，杀朱友珪。朱温第三子朱友贞即位，是为后梁末帝。后梁内部更加混乱。", "latitude": 34.7, "longitude": 112.5, "category": "政治", "region": "后梁", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 915,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后梁", "ruler": "梁末帝朱友贞", "era": "贞明元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽太祖耶律阿保机", "era": "" }
+    ],
+    "events": [
+      { "title": "李存勖与后梁决战", "description": "晋王李存勖在杨刘（今山东东阿）与后梁军交战，大败梁军。此后双方在黄河沿岸反复拉锯，晋军逐渐占据优势。", "latitude": 36.2, "longitude": 116.1, "category": "军事", "region": "晋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 916,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后梁", "ruler": "梁末帝朱友贞", "era": "贞明二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽太祖耶律阿保机", "era": "神册元年" }
+    ],
+    "events": [
+      { "title": "耶律阿保机称帝建立辽朝", "description": "耶律阿保机正式称帝，建元神册，国号契丹（后改辽）。辽朝成为与中原王朝并立的强大帝国，控制蒙古高原和东北地区。", "latitude": 43.7, "longitude": 122.3, "category": "政治", "region": "辽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 918,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后梁", "ruler": "梁末帝朱友贞", "era": "贞明四年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽太祖耶律阿保机", "era": "神册三年" }
+    ],
+    "events": [
+      { "title": "王建建立高丽王朝", "description": "高丽大将王建推翻后三国时代的新罗，在开京（今开城）称王，建立高丽王朝。高丽统一朝鲜半岛后三国，延续近五百年。", "latitude": 37.9, "longitude": 126.5, "category": "政治", "region": "高丽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 919,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后梁", "ruler": "梁末帝朱友贞", "era": "贞明五年" }
+    ],
+    "events": [
+      { "title": "杨隆演称吴国王", "description": "吴王杨隆演正式称吴国王，改元武义。吴国采用天子礼仪，建立独立于中原王朝的政权体系。", "latitude": 32.4, "longitude": 119.4, "category": "政治", "region": "吴", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 920,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后梁", "ruler": "梁末帝朱友贞", "era": "贞明六年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽太祖耶律阿保机", "era": "神册五年" }
+    ],
+    "events": [
+      { "title": "辽创制契丹文字", "description": "耶律阿保机命耶律突吕不创制契丹大字，并下诏颁行。契丹文字的创制标志着契丹民族文明程度的大幅提升。", "latitude": 43.7, "longitude": 122.3, "category": "文化", "region": "辽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 921,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后梁", "ruler": "梁末帝朱友贞", "era": "龙德元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽太祖耶律阿保机", "era": "神册六年" }
+    ],
+    "events": [
+      { "title": "辽攻幽州", "description": "耶律阿保机率契丹军大举进攻幽州（今北京）。晋王李存勖调兵救援，契丹军撤走。辽与中原政权的军事冲突开始常态化。", "latitude": 39.9, "longitude": 116.4, "category": "军事", "region": "辽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 923,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后唐", "ruler": "唐庄宗李存勖", "era": "同光元年" }
+    ],
+    "events": [
+      { "title": "李存勖灭后梁，建立后唐", "description": "晋王李存勖在魏州（今河北大名）称帝，国号唐，史称后唐。随即率军攻入开封，后梁末帝朱友贞自杀。后梁灭亡，后唐统一华北。", "latitude": 36.3, "longitude": 115.1, "category": "政治", "region": "后唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 924,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后唐", "ruler": "唐庄宗李存勖", "era": "同光二年" }
+    ],
+    "events": [
+      { "title": "李存勖宠信伶人", "description": "李存勖灭梁后沉迷享乐，宠信伶人宦官，疏远大臣。伶人景进等把持朝政，功臣宿将受到猜忌，后唐朝政迅速败坏。", "latitude": 34.7, "longitude": 112.5, "category": "政治", "region": "后唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 925,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后唐", "ruler": "唐庄宗李存勖", "era": "同光三年" }
+    ],
+    "events": [
+      { "title": "后唐灭前蜀", "description": "后唐命李继岌、郭崇韬率军攻蜀。前蜀后主王衍投降，前蜀灭亡。后唐尽有四川之地，势力达到鼎盛。", "latitude": 30.6, "longitude": 104.0, "category": "军事", "region": "后唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 926,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后唐", "ruler": "唐明宗李嗣源", "era": "天成元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽太宗耶律德光", "era": "天显元年" }
+    ],
+    "events": [
+      { "title": "李存勖被杀，李嗣源即位", "description": "后唐发生兵变，李存勖被乱兵射杀。养子李嗣源即位，是为后唐明宗。明宗清除伶人势力，减轻赋税，后唐政局趋于稳定。", "latitude": 34.7, "longitude": 112.5, "category": "政治", "region": "后唐", "continent": "亚洲" },
+      { "title": "耶律阿保机去世", "description": "辽太祖耶律阿保机在征讨渤海国后病逝。其次子耶律德光继位，是为辽太宗。辽朝进入太宗统治时期，开始更多介入中原事务。", "latitude": 43.7, "longitude": 122.3, "category": "政治", "region": "辽", "continent": "亚洲" },
+      { "title": "渤海国灭亡", "description": "辽太祖耶律阿保机攻灭渤海国（今东北地区），改其地为东丹国。享国二百二十九年的渤海国灭亡，东北地区纳入辽朝版图。", "latitude": 44.0, "longitude": 128.0, "category": "军事", "region": "辽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 927,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后唐", "ruler": "唐明宗李嗣源", "era": "天成二年" }
+    ],
+    "events": [
+      { "title": "高丽统一后三国", "description": "高丽王王建灭新罗，又灭后百济，统一朝鲜半岛。高丽仿唐制建立中央集权体制，定佛教为国教，朝鲜半岛进入高丽王朝时期。", "latitude": 37.9, "longitude": 126.5, "category": "政治", "region": "高丽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 928,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后唐", "ruler": "唐明宗李嗣源", "era": "天成三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽太宗耶律德光", "era": "天显三年" }
+    ],
+    "events": [
+      { "title": "辽向南扩张", "description": "辽太宗耶律德光派兵南下，攻占后唐的平州（今河北卢龙）等地。辽朝开始有计划地向南扩张，与中原王朝争夺幽云地区。", "latitude": 39.9, "longitude": 118.8, "category": "军事", "region": "辽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 929,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后唐", "ruler": "唐明宗李嗣源", "era": "天成四年" }
+    ],
+    "events": [
+      { "title": "楚王马殷去世", "description": "楚王马殷病逝，其子马希声继位。楚国以湖南为中心，延续马殷时期的经济政策，鼓励种茶和丝织业，发展对外贸易。", "latitude": 28.2, "longitude": 113.0, "category": "政治", "region": "楚", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 930,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后唐", "ruler": "唐明宗李嗣源", "era": "长兴元年" }
+    ],
+    "events": [
+      { "title": "明宗整顿财政", "description": "后唐明宗整顿财政，削除各道额外加征，减轻百姓负担。同时允许民间铸钱，开放铁禁。后唐经济有所恢复。", "latitude": 34.7, "longitude": 112.5, "category": "经济", "region": "后唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 931,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后唐", "ruler": "唐明宗李嗣源", "era": "长兴二年" }
+    ],
+    "events": [
+      { "title": "孟知祥据蜀", "description": "后唐西川节度使孟知祥在蜀中练兵积粮，逐步摆脱朝廷控制。后唐无力西顾，孟知祥实际已独立。", "latitude": 30.6, "longitude": 104.0, "category": "政治", "region": "后唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 932,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后唐", "ruler": "唐明宗李嗣源", "era": "长兴三年" }
+    ],
+    "events": [
+      { "title": "后唐雕印《九经》", "description": "后唐明宗命国子监雕版印刷儒家经典《九经》，由田敏主持。这是中国历史上首次由官方组织的大规模印刷儒家经典，对文化传播意义重大。", "latitude": 34.7, "longitude": 112.5, "category": "文化", "region": "后唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 933,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后唐", "ruler": "唐明宗李嗣源", "era": "长兴四年" }
+    ],
+    "events": [
+      { "title": "后唐明宗去世", "description": "后唐明宗李嗣源病逝。明宗在位七年间，年谷丰收，兵戈罕用，是五代中难得的平静时期。其子李从厚继位，是为后唐闵帝。", "latitude": 34.7, "longitude": 112.5, "category": "政治", "region": "后唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 934,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后唐", "ruler": "唐末帝李从珂", "era": "应顺元年" },
+      { "dynastyId": "shu", "name": "后蜀", "ruler": "后蜀高祖孟知祥", "era": "" }
+    ],
+    "events": [
+      { "title": "后唐内乱，李从珂夺位", "description": "后唐闵帝李从厚猜忌凤翔节度使李从珂，李从珂起兵攻入洛阳，废杀闵帝自立为帝，是为后唐末帝。后唐统治更加动荡。", "latitude": 34.7, "longitude": 112.5, "category": "政治", "region": "后唐", "continent": "亚洲" },
+      { "title": "孟知祥建后蜀", "description": "孟知祥在成都称帝，建立后蜀。后蜀占地利之便，偏安西南，经济文化繁荣。孟知祥在位仅半年即病逝，其子孟昶继位。", "latitude": 30.6, "longitude": 104.0, "category": "政治", "region": "后蜀", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 935,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后唐", "ruler": "唐末帝李从珂", "era": "清泰二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽太宗耶律德光", "era": "天显十年" }
+    ],
+    "events": [
+      { "title": "闽国内乱", "description": "闽王王延钧称帝后荒淫暴虐，被长子王继鹏所杀。闽国陷入内乱，诸子争立，国势日衰。", "latitude": 26.1, "longitude": 119.3, "category": "政治", "region": "闽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 936,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后晋", "ruler": "晋高祖石敬瑭", "era": "天福元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽太宗耶律德光", "era": "天显十一年" }
+    ],
+    "events": [
+      { "title": "石敬瑭割让燕云十六州", "description": "后唐河东节度使石敬瑭以割让燕云十六州、称儿皇帝为条件，向辽太宗借兵灭后唐。辽军南下击败后唐军，石敬瑭建立后晋，割幽云十六州予辽。", "latitude": 39.9, "longitude": 116.4, "category": "政治", "region": "后晋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 937,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后晋", "ruler": "晋高祖石敬瑭", "era": "天福二年" }
+    ],
+    "events": [
+      { "title": "南唐建立", "description": "吴国权臣徐知诰废吴帝杨溥，自立为帝，国号大齐。后改名为李昪，改国号为唐，史称南唐。南唐以金陵（今南京）为都，为南方最强政权。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "南唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 938,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后晋", "ruler": "晋高祖石敬瑭", "era": "天福三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽太宗耶律德光", "era": "会同元年" }
+    ],
+    "events": [
+      { "title": "石敬瑭称辽太宗为父皇帝", "description": "石敬瑭向辽太宗上尊号，自称“儿皇帝”，每年进贡大量财物。此举虽然保住了后晋政权，但中原王朝从此在北方强邻面前处于屈辱地位。", "latitude": 39.9, "longitude": 116.4, "category": "外交", "region": "后晋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 939,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后晋", "ruler": "晋高祖石敬瑭", "era": "天福四年" }
+    ],
+    "events": [
+      { "title": "交趾独立，吴权称王", "description": "交趾（今越南北部）将领吴权击败南汉军队，自称吴王，建立吴朝。越南自此脱离中原王朝的直接统治，走向独立发展之路。", "latitude": 21.0, "longitude": 105.8, "category": "政治", "region": "交趾", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 940,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后晋", "ruler": "晋高祖石敬瑭", "era": "天福五年" }
+    ],
+    "events": [
+      { "title": "后蜀广政通宝", "description": "后蜀后主孟昶铸造“广政通宝”钱，发展经济。后蜀在孟昶治下社会安定，文化繁荣，成为五代十国时期最安宁的地区之一。", "latitude": 30.6, "longitude": 104.0, "category": "经济", "region": "后蜀", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 942,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后晋", "ruler": "晋高祖石敬瑭", "era": "天福七年" }
+    ],
+    "events": [
+      { "title": "石敬瑭去世", "description": "后晋高祖石敬瑭病逝，其侄石重贵继位，是为后晋出帝。出帝拒绝向辽称臣，辽晋关系迅速恶化。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "后晋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 943,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后晋", "ruler": "晋出帝石重贵", "era": "天福八年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽太宗耶律德光", "era": "会同六年" }
+    ],
+    "events": [
+      { "title": "辽晋战争爆发", "description": "后晋出帝石重贵拒绝向辽称臣，辽太宗耶律德光率军南征。后晋军在澶州（今河南濮阳）击败辽军，但双方陷入长期战争。", "latitude": 35.7, "longitude": 115.0, "category": "军事", "region": "后晋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 944,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后晋", "ruler": "晋出帝石重贵", "era": "开运元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽太宗耶律德光", "era": "会同七年" }
+    ],
+    "events": [
+      { "title": "辽军大举南侵", "description": "辽太宗再次率军大规模南侵，连克幽州、邢州等地。后晋军在戚城（今河南濮阳北）与辽军激战，双方胜负未分。", "latitude": 35.8, "longitude": 115.0, "category": "军事", "region": "后晋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 945,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后晋", "ruler": "晋出帝石重贵", "era": "开运二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽太宗耶律德光", "era": "会同八年" }
+    ],
+    "events": [
+      { "title": "阳城之战，后晋大破辽军", "description": "后晋军在阳城（今河北保定西南）与辽军决战，后晋将杜重威率军大破辽军，辽太宗仓皇北逃。但后晋内部矛盾重重，胜利未能持久。", "latitude": 38.9, "longitude": 115.5, "category": "军事", "region": "后晋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 946,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后晋", "ruler": "晋出帝石重贵", "era": "开运三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽太宗耶律德光", "era": "会同九年" }
+    ],
+    "events": [
+      { "title": "后晋灭亡", "description": "后晋大将杜重威在滹沱河投降辽朝，辽太宗率军直驱开封。后晋出帝石重贵投降，后晋灭亡。辽太宗进入开封，以中原皇帝身份接受朝拜。", "latitude": 34.8, "longitude": 114.3, "category": "军事", "region": "后晋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 947,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后汉", "ruler": "后汉高祖刘知远", "era": "天福十二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽太宗耶律德光", "era": "大同元年" }
+    ],
+    "events": [
+      { "title": "辽太宗北撤，后汉建立", "description": "辽太宗在开封称帝后因中原军民反抗，被迫北返，病逝于栾城（今河北）。后晋河东节度使刘知远在太原称帝，建立后汉，随即攻占开封。", "latitude": 37.9, "longitude": 112.5, "category": "政治", "region": "后汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 948,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后汉", "ruler": "后汉隐帝刘承祐", "era": "乾祐元年" }
+    ],
+    "events": [
+      { "title": "刘知远去世，隐帝即位", "description": "后汉高祖刘知远病逝，其子刘承祐即位，是为后汉隐帝。隐帝年仅十八岁，由杨邠、史弘肇、王章等大臣辅政。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "后汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 949,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后汉", "ruler": "后汉隐帝刘承祐", "era": "乾祐二年" }
+    ],
+    "events": [
+      { "title": "后汉诸将镇守各方", "description": "后汉以郭威为邺都留守、天雄军节度使，镇守河北。郭威治军有方，深得民心。同时赵匡胤开始在郭威帐下任职。", "latitude": 36.0, "longitude": 114.0, "category": "政治", "region": "后汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 950,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后汉", "ruler": "后汉隐帝刘承祐", "era": "乾祐三年" }
+    ],
+    "events": [
+      { "title": "隐帝杀大臣，郭威起兵", "description": "后汉隐帝猜忌大臣，杀杨邠、史弘肇、王章。又遣使赴邺都杀郭威，郭威被迫起兵。隐帝在开封郊外战死，后汉灭亡。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "后汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 951,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后周", "ruler": "后周太祖郭威", "era": "广顺元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽穆宗耶律璟", "era": "应历元年" }
+    ],
+    "events": [
+      { "title": "郭威建立后周", "description": "郭威在开封称帝，建立后周，是为后周太祖。郭威出身贫寒，深知民间疾苦，在位期间节俭爱民，改革税制，废除酷刑。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "后周", "continent": "亚洲" },
+      { "title": "刘旻建北汉", "description": "后汉宗室刘旻在太原称帝，建立北汉。北汉依附辽朝，与后周对抗。十国格局中唯一位于北方的政权形成。", "latitude": 37.9, "longitude": 112.5, "category": "政治", "region": "北汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 952,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后周", "ruler": "后周太祖郭威", "era": "广顺二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽穆宗耶律璟", "era": "应历二年" }
+    ],
+    "events": [
+      { "title": "后周平定慕容彦超之乱", "description": "泰宁节度使慕容彦超勾结北汉和南唐反周，后周太祖郭威亲征，一举平定叛乱。后周政权进一步巩固。", "latitude": 35.4, "longitude": 117.0, "category": "军事", "region": "后周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 954,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后周", "ruler": "后周世宗柴荣", "era": "显德元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽穆宗耶律璟", "era": "应历四年" }
+    ],
+    "events": [
+      { "title": "郭威去世，柴荣即位", "description": "后周太祖郭威病逝，养子柴荣即位，是为后周世宗。柴荣是五代最杰出的皇帝，立志“十年开拓天下，十年养百姓，十年致太平”。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "后周", "continent": "亚洲" },
+      { "title": "高平之战", "description": "北汉联合辽军大举南侵，柴荣亲征，在高平（今山西高平）激战。后周军初战不利，柴荣亲自督战，斩临阵退缩的大将樊爱能、何徽等，振奋士气，大破北汉。", "latitude": 35.8, "longitude": 112.9, "category": "军事", "region": "后周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 955,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后周", "ruler": "后周世宗柴荣", "era": "显德二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽穆宗耶律璟", "era": "应历五年" }
+    ],
+    "events": [
+      { "title": "后周世宗灭佛", "description": "柴荣下诏限制佛教，废除寺院三千余所，令僧尼还俗。销毁佛像铸钱，得铜数万斤。此举增加了财政收入，为统一战争奠定经济基础。", "latitude": 34.8, "longitude": 114.3, "category": "宗教", "region": "后周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 956,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后周", "ruler": "后周世宗柴荣", "era": "显德三年" }
+    ],
+    "events": [
+      { "title": "后周征伐南唐", "description": "柴荣亲征南唐，在淮河流域屡败南唐军。夺取滁州、扬州等地。南唐被迫割让江北十四州。后周疆域大幅扩展，统一局面初显。", "latitude": 32.3, "longitude": 118.3, "category": "军事", "region": "后周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 957,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后周", "ruler": "后周世宗柴荣", "era": "显德四年" }
+    ],
+    "events": [
+      { "title": "柴荣三征南唐", "description": "柴荣第三次征南唐，攻破寿州（今安徽寿县），南唐清淮节度使刘仁赡战死。南唐中主李璟请和，割让江北全部领土。", "latitude": 32.6, "longitude": 116.8, "category": "军事", "region": "后周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 958,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后周", "ruler": "后周世宗柴荣", "era": "显德五年" }
+    ],
+    "events": [
+      { "title": "南唐称臣于后周", "description": "南唐中主李璟向后周称臣，去帝号称国主，用后周年号。李璟忧惧而死，其子李煜继位，是为南唐后主。", "latitude": 32.1, "longitude": 118.8, "category": "政治", "region": "南唐", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 959,
+    "dynasties": [
+      { "dynastyId": "wudai", "name": "后周", "ruler": "后周世宗柴荣", "era": "显德六年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽穆宗耶律璟", "era": "应历九年" }
+    ],
+    "events": [
+      { "title": "柴荣北伐契丹", "description": "柴荣率军北伐辽朝，收复宁州、莫州、瀛州三州和瓦桥关三关。正准备进取幽州时，柴荣突然重病，被迫回师。五代最有雄才大略的君主英年早逝。", "latitude": 39.0, "longitude": 116.0, "category": "军事", "region": "后周", "continent": "亚洲" },
+      { "title": "柴荣驾崩，幼主即位", "description": "后周世宗柴荣病逝，享年三十九岁。七岁幼子柴宗训继位，由宰相范质、王溥辅政。后周主少国疑，政权不稳固。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "后周", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 960,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太祖赵匡胤", "era": "建隆元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽穆宗耶律璟", "era": "应历十年" }
+    ],
+    "events": [
+      { "title": "陈桥兵变，北宋建立", "description": "后周殿前都点检赵匡胤在陈桥驿（今河南封丘）被部下黄袍加身，率军回开封。后周幼主禅让，赵匡胤称帝，建国号宋，是为宋太祖。五代结束。", "latitude": 34.9, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" },
+      { "title": "宋太祖“一榻之外皆他人家”", "description": "赵匡胤即位后，面对南方诸国和北方强辽，感叹“一榻之外，皆他人家”。他确立“先南后北”的统一方略，开始着手统一全国。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 961,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太祖赵匡胤", "era": "建隆二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽穆宗耶律璟", "era": "应历十一年" }
+    ],
+    "events": [
+      { "title": "杯酒释兵权", "description": "赵匡胤设宴将石守信、高怀德等将领的酒，劝其交出兵权，赏赐良田美宅使其安享富贵。宋太祖以和平方式解决了武将拥兵自重的历史难题。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 962,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太祖赵匡胤", "era": "建隆三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽穆宗耶律璟", "era": "应历十二年" }
+    ],
+    "events": [
+      { "title": "奥托一世加冕神圣罗马帝国皇帝", "description": "德意志国王奥托一世在罗马由教皇约翰十二世加冕为“罗马皇帝”，神圣罗马帝国正式建立。奥托一世是查理曼之后又一位强大的西欧君主。", "latitude": 41.9, "longitude": 12.5, "category": "政治", "region": "神圣罗马帝国", "continent": "欧洲" },
+      { "title": "宋太祖改革中枢", "description": "赵匡胤改革中央官制，设参知政事为副宰相，分割宰相权力；设枢密院掌军政；设三司掌财政。宋代二府三司体制初步形成。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 963,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太祖赵匡胤", "era": "乾德元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽穆宗耶律璟", "era": "应历十三年" }
+    ],
+    "events": [
+      { "title": "宋灭荆南、湖南", "description": "北宋发动统一战争，先灭荆南（南平），又灭湖南武平政权。宋军不费吹灰之力取两湖之地，南方诸国震恐。统一战争首战告捷。", "latitude": 30.3, "longitude": 112.2, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 964,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太祖赵匡胤", "era": "乾德二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽穆宗耶律璟", "era": "应历十四年" }
+    ],
+    "events": [
+      { "title": "宋攻后蜀", "description": "宋太祖命王全斌、曹彬分兵两路伐后蜀。宋军势如破竹，后蜀军队节节败退。后蜀末帝孟昶组织抵抗无效。", "latitude": 30.6, "longitude": 104.0, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 965,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太祖赵匡胤", "era": "乾德三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽穆宗耶律璟", "era": "应历十五年" }
+    ],
+    "events": [
+      { "title": "后蜀灭亡", "description": "后蜀后主孟昶投降北宋，后蜀灭亡。孟昶被俘送开封，七天后死去。后蜀富庶的四川盆地纳入北宋版图。", "latitude": 30.6, "longitude": 104.0, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 966,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太祖赵匡胤", "era": "乾德四年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽穆宗耶律璟", "era": "应历十六年" }
+    ],
+    "events": [
+      { "title": "宋太祖完善科举制度", "description": "宋太祖改革科举，废除公荐制度，实行糊名、誊录、殿试等制度。科举取士更加公平，大量寒门子弟得以进入仕途，推动宋代文官政治发展。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 967,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太祖赵匡胤", "era": "乾德五年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽穆宗耶律璟", "era": "应历十七年" }
+    ],
+    "events": [
+      { "title": "南汉与宋对峙", "description": "北宋灭后蜀后，开始准备进攻南汉。南汉君主刘鋹暴虐无道，国力衰弱，但恃岭南险阻，拒绝向北宋称臣。", "latitude": 23.1, "longitude": 113.3, "category": "政治", "region": "南汉", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 968,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太祖赵匡胤", "era": "开宝元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽穆宗耶律璟", "era": "应历十八年" }
+    ],
+    "events": [
+      { "title": "宋灭北汉之战开始", "description": "宋太祖首次征伐北汉，围攻太原。辽朝派兵救援，宋军退兵。此后宋与北汉、辽之间在山西地区展开拉锯战。", "latitude": 37.9, "longitude": 112.5, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 969,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太祖赵匡胤", "era": "开宝二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽景宗耶律贤", "era": "保宁元年" }
+    ],
+    "events": [
+      { "title": "辽穆宗被杀，景宗即位", "description": "辽穆宗耶律璟酗酒嗜杀，被近侍所杀。辽景宗耶律贤继位，在位期间励精图治，辽朝开始进入中兴时期。", "latitude": 43.7, "longitude": 122.3, "category": "政治", "region": "辽", "continent": "亚洲" },
+      { "title": "宋再征北汉", "description": "宋太祖二次亲征北汉，围攻太原。辽将耶律沙率军救援，宋军再次无功而返。北宋调整战略，转而先攻南方。", "latitude": 37.9, "longitude": 112.5, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 970,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太祖赵匡胤", "era": "开宝三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽景宗耶律贤", "era": "保宁二年" }
+    ],
+    "events": [
+      { "title": "宋灭南汉", "description": "宋将潘美率军攻南汉，南汉末帝刘鋹投降。北宋进占广州，南汉灭亡，岭南地区纳入北宋版图。", "latitude": 23.1, "longitude": 113.3, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 971,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太祖赵匡胤", "era": "开宝四年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽景宗耶律贤", "era": "保宁三年" }
+    ],
+    "events": [
+      { "title": "南汉灭亡后的岭南治理", "description": "北宋平定南汉后，废除南汉的苛捐杂税，安抚岭南百姓。宋太祖任命贤能官吏管理岭南，促进中原与岭南的经济文化交流。", "latitude": 23.1, "longitude": 113.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 972,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太祖赵匡胤", "era": "开宝五年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽景宗耶律贤", "era": "保宁四年" }
+    ],
+    "events": [
+      { "title": "北宋整顿禁军", "description": "宋太祖加强禁军建设，选天下精兵充实禁军，制定更戍法，使“兵不识将，将不识兵”，防止武将专权。宋代军事体制基本确立。", "latitude": 34.8, "longitude": 114.3, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 973,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太祖赵匡胤", "era": "开宝六年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽景宗耶律贤", "era": "保宁五年" }
+    ],
+    "events": [
+      { "title": "宋太祖与赵普“雪夜定策”", "description": "宋太祖雪夜访赵普，商定“先南后北”统一方略的细节。赵普建议暂缓攻北汉，先取南方诸国。此策决定了北宋初年的军事布局。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 974,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太祖赵匡胤", "era": "开宝七年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽景宗耶律贤", "era": "保宁六年" }
+    ],
+    "events": [
+      { "title": "宋灭南唐之战", "description": "宋太祖以曹彬为主帅，潘美为副帅，率十万大军攻南唐。宋军在采石矶搭浮桥渡江，包围金陵（今南京）。南唐后主李煜派使求和，宋太祖不允。", "latitude": 32.1, "longitude": 118.8, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 975,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太祖赵匡胤", "era": "开宝八年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽景宗耶律贤", "era": "保宁七年" }
+    ],
+    "events": [
+      { "title": "南唐灭亡，李煜被俘", "description": "北宋军攻破金陵，南唐后主李煜投降。“春花秋月何时了，往事知多少”成为绝唱。南唐灭亡，江南大片领土纳入北宋版图。", "latitude": 32.1, "longitude": 118.8, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 976,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太宗赵光义", "era": "太平兴国元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽景宗耶律贤", "era": "保宁八年" }
+    ],
+    "events": [
+      { "title": "宋太祖驾崩，太宗即位", "description": "宋太祖赵匡胤突然驾崩，“斧声烛影”成千古之谜。皇弟赵光义即位，是为宋太宗。太宗继续统一事业，同时进一步加强文官政治。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 977,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太宗赵光义", "era": "太平兴国二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽景宗耶律贤", "era": "保宁九年" }
+    ],
+    "events": [
+      { "title": "陈洪进纳土归宋", "description": "割据漳州、泉州的陈洪进向北宋献出领土，福建全境纳入北宋版图。吴越王钱俶也随之纳土归朝。南方割据政权基本扫清。", "latitude": 24.9, "longitude": 118.6, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 978,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太宗赵光义", "era": "太平兴国三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽景宗耶律贤", "era": "保宁十年" }
+    ],
+    "events": [
+      { "title": "吴越纳土归宋", "description": "吴越国王钱俶被迫赴开封朝见宋太宗，献上吴越十三州土地。吴越正式灭亡，两浙地区纳入北宋版图，南方统一基本完成。", "latitude": 30.3, "longitude": 120.2, "category": "政治", "region": "吴越", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 979,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太宗赵光义", "era": "太平兴国四年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽景宗耶律贤", "era": "保宁十一年" }
+    ],
+    "events": [
+      { "title": "北宋灭北汉，统一基本完成", "description": "宋太宗亲征北汉，辽朝派兵救援被宋军击退。北汉主刘继元投降，立国二十八年的北汉灭亡。北宋基本完成统一大业（除燕云十六州外）。", "latitude": 37.9, "longitude": 112.5, "category": "军事", "region": "北宋", "continent": "亚洲" },
+      { "title": "高粱河之战，宋太宗北伐惨败", "description": "宋太宗乘灭北汉之势，进攻辽朝试图收复幽云十六州。宋军围攻幽州（今北京），在高粱河与辽军决战，宋军大败。宋太宗乘驴车逃走。", "latitude": 39.9, "longitude": 116.4, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 980,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太宗赵光义", "era": "太平兴国五年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽景宗耶律贤", "era": "保宁十二年" }
+    ],
+    "events": [
+      { "title": "辽军南侵，宋辽边境激战", "description": "辽景宗派耶律休哥率军南侵，宋辽在雁门、满城等地交战。宋将杨业在雁门关大破辽军。宋辽边境冲突持续不断。", "latitude": 39.0, "longitude": 113.0, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 981,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太宗赵光义", "era": "太平兴国六年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽景宗耶律贤", "era": "保宁十三年" }
+    ],
+    "events": [
+      { "title": "宋修《太平御览》", "description": "宋太宗命李昉等编纂大型类书《太平御览》一千卷。全书引用经史子集各类书籍一千六百余种，是中国古代规模最大的百科全书之一。", "latitude": 34.8, "longitude": 114.3, "category": "文化", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 982,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太宗赵光义", "era": "太平兴国七年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "乾亨四年" }
+    ],
+    "events": [
+      { "title": "辽景宗去世，圣宗即位", "description": "辽景宗耶律贤病逝，其子耶律隆绪即位，是为辽圣宗。圣宗年仅十二岁，由萧太后摄政。萧太后是辽朝著名的女政治家。", "latitude": 43.7, "longitude": 122.3, "category": "政治", "region": "辽", "continent": "亚洲" },
+      { "title": "李继迁叛宋，西夏前身崛起", "description": "党项族首领李继迁因不满宋朝政策，逃往地斤泽（今内蒙古鄂尔多斯）起兵抗宋。李继迁成为西夏建国的奠基人。", "latitude": 38.0, "longitude": 108.0, "category": "军事", "region": "西夏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 983,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太宗赵光义", "era": "太平兴国八年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和元年" }
+    ],
+    "events": [
+      { "title": "辽改元统和，萧太后摄政", "description": "辽圣宗改元统和，萧绰（萧太后）正式摄政。萧太后重用韩德让等汉臣，推行汉化改革，整顿吏治，辽朝进入鼎盛时期。", "latitude": 43.7, "longitude": 122.3, "category": "政治", "region": "辽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 984,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太宗赵光义", "era": "雍熙元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和二年" }
+    ],
+    "events": [
+      { "title": "宋太宗改元雍熙", "description": "宋太宗改元雍熙，社会经济持续发展，文化繁荣。太宗更大規模开科取士，举办大规模科举考试，录取进士近五百人。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 985,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太宗赵光义", "era": "雍熙二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和三年" }
+    ],
+    "events": [
+      { "title": "李继迁降辽", "description": "党项首领李继迁在对抗宋朝不利后，转而向辽朝称臣。辽朝册封李继迁为夏国王，以联姻方式笼络。党项势力借助辽朝支持继续发展。", "latitude": 38.0, "longitude": 108.0, "category": "外交", "region": "辽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 986,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太宗赵光义", "era": "雍熙三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和四年" }
+    ],
+    "events": [
+      { "title": "雍熙北伐，杨业殉国", "description": "宋太宗派曹彬、潘美、田重进分三路北伐辽朝，试图收复幽云十六州。初期取得胜利，但由于各路协调不力，在岐沟关遭遇惨败。杨业被俘绝食而死。", "latitude": 39.5, "longitude": 115.0, "category": "军事", "region": "北宋", "continent": "亚洲" },
+      { "title": "杨业被俘绝食殉国", "description": "宋将杨业在陈家谷口被辽军包围，因主帅潘美未按约定接应，杨业重伤被俘，绝食三日而死。杨业被誉为“杨无敌”，其事迹演化为杨家将的传奇故事。", "latitude": 39.5, "longitude": 113.0, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 987,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太宗赵光义", "era": "雍熙四年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和五年" }
+    ],
+    "events": [
+      { "title": "宋对辽转入战略防御", "description": "雍熙北伐失败后，北宋对辽朝转入守势。宋太宗下令沿边州郡修固城池，推行“守内虚外”政策。北宋军事实力由攻转守。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 988,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太宗赵光义", "era": "端拱元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和六年" }
+    ],
+    "events": [
+      { "title": "基辅罗斯受洗", "description": "基辅大公弗拉基米尔一世在赫尔松接受东正教洗礼，下令基辅全城居民在第聂伯河受洗。基辅罗斯正式皈依东正教，开启了俄罗斯的基督教化进程。", "latitude": 50.5, "longitude": 30.5, "category": "宗教", "region": "基辅罗斯", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 989,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太宗赵光义", "era": "端拱二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和七年" }
+    ],
+    "events": [
+      { "title": "宋太宗诏求直言", "description": "雍熙北伐惨败后，宋太宗下诏求直言，群臣纷纷上书建言边防之策。宰相赵普等建议实行积极的防御策略，但太宗已无意再战。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 990,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太宗赵光义", "era": "淳化元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和八年" }
+    ],
+    "events": [
+      { "title": "李继迁被辽封为夏国王", "description": "辽圣宗正式册封李继迁为夏国王，将宗室女嫁其子李德明。李继迁获得辽朝支持后，实力大增，不断侵扰宋朝西北边境。", "latitude": 38.0, "longitude": 108.0, "category": "外交", "region": "西夏", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 991,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太宗赵光义", "era": "淳化二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和九年" }
+    ],
+    "events": [
+      { "title": "王禹偁上《端拱箴》", "description": "宋代文学家王禹偁上《端拱箴》规劝宋太宗勤政爱民，革除弊端。王禹偁以直言敢谏著称，是北宋初期重要的政治家和文学家。", "latitude": 34.8, "longitude": 114.3, "category": "文化", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 992,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太宗赵光义", "era": "淳化三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和十年" }
+    ],
+    "events": [
+      { "title": "高丽与辽朝战争", "description": "辽圣宗征伐高丽，高丽王王治请降。高丽从此在宋辽之间采取平衡外交，同时向辽称臣，但与北宋保持密切的文化和贸易关系。", "latitude": 37.9, "longitude": 126.5, "category": "军事", "region": "高丽", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 993,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太宗赵光义", "era": "淳化四年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和十一年" }
+    ],
+    "events": [
+      { "title": "王小波、李顺起义", "description": "四川青城人王小波以“吾疾贫富不均，今为汝均之”为号召发动起义。王小波战死后，李顺继领义军，攻占成都，建立大蜀政权。", "latitude": 30.9, "longitude": 103.5, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 994,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太宗赵光义", "era": "淳化五年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和十二年" }
+    ],
+    "events": [
+      { "title": "李顺起义被镇压", "description": "宋太宗派王继恩率军入川镇压，攻破成都。李顺失踪或被杀（一说逃脱）。王小波李顺起义虽被镇压，但沉重打击了北宋统治。", "latitude": 30.6, "longitude": 104.0, "category": "军事", "region": "北宋", "continent": "亚洲" },
+      { "title": "宋太宗整顿四川", "description": "起义平息后，宋太宗对四川实行减免赋税、安抚流亡的政策。张咏任益州知州，整顿民生，恢复社会秩序。", "latitude": 30.6, "longitude": 104.0, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 995,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太宗赵光义", "era": "至道元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和十三年" }
+    ],
+    "events": [
+      { "title": "宋太宗立太子", "description": "宋太宗立第三子赵恒为太子。太宗晚年为立储之事犹豫多年，最终在寇准等人的劝谏下确立太子。赵恒后来成为宋真宗。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 996,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋太宗赵光义", "era": "至道二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和十四年" }
+    ],
+    "events": [
+      { "title": "李继迁攻占灵州", "description": "党项李继迁攻占北宋西北重镇灵州（今宁夏灵武），杀守将。宋太宗派兵五路征讨，因诸路协调不力无功而返。党项对西北的威胁日益加剧。", "latitude": 38.0, "longitude": 106.3, "category": "军事", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 997,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "至道三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和十五年" }
+    ],
+    "events": [
+      { "title": "宋太宗去世，真宗即位", "description": "宋太宗赵光义病逝，太子赵恒即位，是为宋真宗。真宗即位之初，以吕端、李沆为相，政治较为清明。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 998,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "咸平元年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和十六年" }
+    ],
+    "events": [
+      { "title": "宋真宗改元咸平", "description": "宋真宗改元咸平，推行宽政，减轻赋税，发展农业生产。咸平年间政治稳定，经济持续增长，史称“咸平之治”。", "latitude": 34.8, "longitude": 114.3, "category": "政治", "region": "北宋", "continent": "亚洲" }
+    ]
+  },
+  {
+    "year": 999,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "咸平二年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和十七年" }
+    ],
+    "events": [
+      { "title": "辽军大举南侵", "description": "辽圣宗与萧太后率军大举南侵，攻破遂城，宋将傅潜畏敌不前。宋真宗派遣杨延昭（杨业之子）等将领在前线抵抗。杨延昭在遂城冰城退敌。", "latitude": 39.0, "longitude": 115.0, "category": "军事", "region": "北宋", "continent": "亚洲" },
+      { "title": "奥托三世远征", "description": "神圣罗马帝国皇帝奥托三世远征意大利，试图复兴以罗马为中心的基督教帝国。奥托三世重用学者，推动“罗马复兴”运动，但政绩昙花一现。", "latitude": 41.9, "longitude": 12.5, "category": "政治", "region": "神圣罗马帝国", "continent": "欧洲" }
+    ]
+  },
+  {
+    "year": 1000,
+    "dynasties": [
+      { "dynastyId": "beisong", "name": "北宋", "ruler": "宋真宗赵恒", "era": "咸平三年" },
+      { "dynastyId": "liao", "name": "辽", "ruler": "辽圣宗耶律隆绪", "era": "统和十八年" }
+    ],
+    "events": [
+      { "title": "宋辽瀛州之战", "description": "辽军攻瀛州（今河北河间），宋军守将拒城死守。宋真宗亲征至大名府督战，辽军久攻不下撤军北还。宋辽战争进入关键期。", "latitude": 38.4, "longitude": 116.1, "category": "军事", "region": "北宋", "continent": "亚洲" },
+      { "title": "世界人口约三亿", "description": "据估算，公元1000年世界人口约三亿。其中北宋约六千万，辽朝约九百万，阿拉伯帝国约两千万，西欧约三千万。中国占世界人口约五分之一。", "latitude": 34.8, "longitude": 114.3, "category": "社会", "region": "北宋", "continent": "亚洲" }
+    ]
+  }
+]
