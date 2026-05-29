@@ -1,0 +1,41 @@
+[
+  {
+    "year": -2600,
+    "dynasties": [],
+    "events": [
+      {
+        "title": "印度河流域文明",
+        "description": "公元前2600年，印度河流域地区的文化艺术领域取得了重要成就，印度河流域文明成为这一时期的文化代表。",
+        "latitude": 27.33,
+        "longitude": 68.14,
+        "category": "文化",
+        "region": "印度河流域",
+        "continent": "亚洲"
+      },
+      {
+        "title": "埃兰文明",
+        "description": "公元前2600年，埃兰地区的文化艺术领域取得了重要成就，埃兰文明成为这一时期的文化代表。",
+        "latitude": 32.2,
+        "longitude": 48.3,
+        "category": "文化",
+        "region": "埃兰",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": -2560,
+    "dynasties": [],
+    "events": [
+      {
+        "title": "吉萨大金字塔建成",
+        "description": "公元前2560年，埃及文化领域的重要事件——吉萨大金字塔建成，成为这一时期的文化标志。",
+        "latitude": 29.98,
+        "longitude": 31.13,
+        "category": "文化",
+        "region": "埃及",
+        "continent": "非洲"
+      }
+    ]
+  }
+]

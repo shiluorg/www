@@ -1,0 +1,32 @@
+[
+  {
+    "year": -2696,
+    "dynasties": [],
+    "events": [
+      {
+        "title": "黄帝历创立",
+        "description": "公元前2696年，黄帝的科技发展取得重要进展，黄帝历创立推动了相关领域的技术进步。",
+        "latitude": 34.5,
+        "longitude": 109.0,
+        "category": "科技",
+        "region": "黄帝",
+        "continent": "亚洲"
+      }
+    ]
+  },
+  {
+    "year": -2686,
+    "dynasties": [],
+    "events": [
+      {
+        "title": "埃及古王国时期开始",
+        "description": "公元前2686年，埃及地区的文化艺术领域取得了重要成就，埃及古王国时期开始成为这一时期的文化代表。",
+        "latitude": 29.98,
+        "longitude": 31.13,
+        "category": "文化",
+        "region": "埃及",
+        "continent": "非洲"
+      }
+    ]
+  }
+]

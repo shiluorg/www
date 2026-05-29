@@ -1,5 +1,5 @@
 const App = (() => {
-  const YEAR_MIN = -2070
+  const YEAR_MIN = -2200
   const YEAR_MAX = 1912
   const YEAR_RANGE = YEAR_MAX - YEAR_MIN
 
@@ -56,6 +56,7 @@ const App = (() => {
   }
 
   const dynasties = [
+    { id: 'yu', name: '虞', start: -2200, end: -2071, color: '#c4a060' },
     { id: 'xia', name: '夏', start: -2070, end: -1600, color: '#d4a574' },
     { id: 'shang', name: '商', start: -1600, end: -1046, color: '#c9985e' },
     { id: 'xizhou', name: '西周', start: -1046, end: -771, color: '#b8864e' },
@@ -673,6 +674,137 @@ const App = (() => {
     dom.shortcutPanel.classList.toggle('hidden')
   }
 
+  const Searcher = {
+    allEvents: null,
+    loadedFiles: new Set(),
+    loading: false,
+    searchTimer: null,
+
+    async ensureAllLoaded() {
+      if (this.allEvents) return
+      if (this.loading) return
+      this.loading = true
+      showLoading()
+      const all = []
+      const files = []
+      for (let year = 1; year <= 1912; year += 100) {
+        files.push(DataLoader.getFileName(year))
+      }
+      for (let year = -100; year >= -2100; year -= 100) {
+        files.push(DataLoader.getFileName(year))
+      }
+      // Add deeper ancient files
+      files.push('data/bc-2500-2401.json', 'data/bc-2600-2501.json', 'data/bc-2700-2601.json',
+        'data/bc-3000-2901.json', 'data/bc-3200-3101.json', 'data/bc-40000-39901.json', 'data/bc-5000-4901.json')
+      const uniqueFiles = [...new Set(files)]
+      for (const f of uniqueFiles) {
+        try {
+          const resp = await fetch(f)
+          if (resp.ok) {
+            const data = await resp.json()
+            state.eventsCache[f] = data
+            for (const entry of data) {
+              const year = entry.year
+              for (const evt of (entry.events || [])) {
+                all.push({ year, ...evt })
+              }
+            }
+          }
+        } catch (e) {
+          // skip
+        }
+      }
+      this.allEvents = all
+      this.loading = false
+      hideLoading()
+    },
+
+    search(query) {
+      if (!this.allEvents) return []
+      const q = query.toLowerCase()
+      const results = []
+      for (const evt of this.allEvents) {
+        const title = (evt.title || '').toLowerCase()
+        const region = (evt.region || '').toLowerCase()
+        const category = (evt.category || '').toLowerCase()
+        const desc = (evt.description || '').toLowerCase()
+        if (title.includes(q) || region.includes(q) || category.includes(q) || desc.includes(q)) {
+          results.push(evt)
+          if (results.length >= 200) break
+        }
+      }
+      return results
+    },
+
+    showResults(query) {
+      const results = this.search(query)
+      const container = document.getElementById('search-results')
+      const status = document.getElementById('search-status')
+      if (!container) return
+      if (results.length === 0) {
+        container.innerHTML = '<div class="search-result-empty">未找到匹配事件</div>'
+        status.textContent = ''
+        return
+      }
+      let html = ''
+      const highlightRegex = new RegExp('(' + query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi')
+      for (const evt of results.slice(0, 100)) {
+        const hlTitle = evt.title.replace(highlightRegex, '<span class="search-highlight">$1</span>')
+        const hlRegion = evt.region ? evt.region.replace(highlightRegex, '<span class="search-highlight">$1</span>') : ''
+        const yearStr = evt.year < 0 ? `公元前${Math.abs(evt.year)}年` : `公元${evt.year}年`
+        const descPreview = (evt.description || '').length > 60
+          ? (evt.description || '').substring(0, 60) + '…'
+          : (evt.description || '')
+        const hlDesc = descPreview.replace(highlightRegex, '<span class="search-highlight">$1</span>')
+        html += `<div class="search-result-item" data-year="${evt.year}" data-title="${evt.title.replace(/"/g, '&quot;')}">
+          <div class="search-result-year">${yearStr}</div>
+          <div class="search-result-info">
+            <div class="search-result-title">${hlTitle}</div>
+            <div class="search-result-meta">
+              <span class="search-result-tag">${evt.category || '事件'}</span>
+              ${evt.region ? `<span class="search-result-tag">${hlRegion}</span>` : ''}
+              <span class="search-result-tag">${evt.continent || ''}</span>
+            </div>
+            <div class="search-result-desc">${hlDesc}</div>
+          </div>
+        </div>`
+      }
+      container.innerHTML = html
+      status.textContent = `找到 ${results.length} 条结果${results.length > 100 ? '（显示前100条）' : ''}`
+
+      container.querySelectorAll('.search-result-item').forEach(item => {
+        item.addEventListener('click', () => {
+          const year = parseInt(item.dataset.year, 10)
+          const title = item.dataset.title
+          closeSearch()
+          if (year >= YEAR_MIN && year <= YEAR_MAX && year !== 0) {
+            state.currentYear = year
+            state.selectedDynasty = null
+            emit('yearChanged', year)
+            CalendarTimeline.draw()
+            DynastyTimeline.draw()
+            // Find and select the matching event
+            loadAndShowEvents(year).then(() => {
+              const evt = state.eventsCache[DataLoader.getFileName(year)]
+                ?.find(d => d.year === year)
+                ?.events?.find(e => e.title === title)
+              if (evt) {
+                emit('eventSelected', evt)
+              }
+            })
+          }
+        })
+      })
+    }
+  }
+
+  function closeSearch() {
+    const panel = document.getElementById('search-panel')
+    const input = document.getElementById('search-input')
+    if (panel) panel.classList.add('hidden')
+    if (input) input.value = ''
+  }
+
   const EventPanel = {
     showEvents(year, yearData) {
       const listBody = document.getElementById('event-list-body')
@@ -865,6 +997,23 @@ const App = (() => {
         e.preventDefault()
         toggleShortcutPanel()
       }
+      if ((key === 'f' && (e.ctrlKey || e.metaKey)) || (key === '/' && !e.shiftKey && !e.ctrlKey)) {
+        e.preventDefault()
+        const panel = document.getElementById('search-panel')
+        const input = document.getElementById('search-input')
+        if (panel && input) {
+          panel.classList.toggle('hidden')
+          if (!panel.classList.contains('hidden')) {
+            setTimeout(() => input.focus(), 100)
+          } else {
+            input.value = ''
+            const results = document.getElementById('search-results')
+            const status = document.getElementById('search-status')
+            if (results) results.innerHTML = ''
+            if (status) status.textContent = ''
+          }
+        }
+      }
       if (key === 'Escape') {
         dom.shortcutPanel.classList.add('hidden')
         dom.eventPanel.classList.add('hidden')
@@ -874,6 +1023,97 @@ const App = (() => {
     })
 
     dom.shortcutBtn.addEventListener('click', toggleShortcutPanel)
+
+    const searchBtn = document.getElementById('search-btn')
+    const searchPanel = document.getElementById('search-panel')
+    const searchInput = document.getElementById('search-input')
+    const searchClear = document.getElementById('search-clear')
+
+    if (searchBtn && searchPanel) {
+      searchBtn.addEventListener('click', () => {
+        const isHidden = searchPanel.classList.contains('hidden')
+        searchPanel.classList.toggle('hidden')
+        if (!isHidden) {
+          if (searchInput) searchInput.value = ''
+          const results = document.getElementById('search-results')
+          const status = document.getElementById('search-status')
+          if (results) results.innerHTML = ''
+          if (status) status.textContent = ''
+        } else {
+          if (searchInput) {
+            setTimeout(() => searchInput.focus(), 100)
+          }
+        }
+      })
+    }
+
+    if (searchInput) {
+      searchInput.addEventListener('input', () => {
+        clearTimeout(Searcher.searchTimer)
+        const q = searchInput.value.trim()
+        if (q.length < 2) {
+          const results = document.getElementById('search-results')
+          const status = document.getElementById('search-status')
+          if (results) results.innerHTML = ''
+          if (status) status.textContent = ''
+          return
+        }
+        Searcher.searchTimer = setTimeout(async () => {
+          await Searcher.ensureAllLoaded()
+          Searcher.showResults(q)
+        }, 300)
+      })
+
+      searchInput.addEventListener('keydown', e => {
+        if (e.key === 'Escape') {
+          closeSearch()
+        }
+        if (e.key === 'Enter') {
+          clearTimeout(Searcher.searchTimer)
+          const q = searchInput.value.trim()
+          if (q.length >= 2) {
+            Searcher.ensureAllLoaded().then(() => Searcher.showResults(q))
+          }
+        }
+      })
+
+      // Focus trap: keep focus in search
+      searchInput.addEventListener('blur', () => {
+        setTimeout(() => {
+          if (!searchPanel.classList.contains('hidden') && document.activeElement !== searchInput) {
+            // Check if focus moved to a result item
+          }
+        }, 200)
+      })
+    }
+
+    if (searchClear) {
+      searchClear.addEventListener('click', () => {
+        if (searchInput) searchInput.value = ''
+        searchInput?.focus()
+        const results = document.getElementById('search-results')
+        const status = document.getElementById('search-status')
+        if (results) results.innerHTML = ''
+        if (status) status.textContent = ''
+      })
+    }
+
+    // Close search on Escape anywhere
+    document.addEventListener('keydown', e => {
+      if (e.key === 'Escape' && searchPanel && !searchPanel.classList.contains('hidden')) {
+        closeSearch()
+      }
+    })
+
+    // Close search on click outside
+    document.addEventListener('click', e => {
+      if (searchPanel && !searchPanel.classList.contains('hidden')) {
+        const isInside = searchPanel.contains(e.target) || searchBtn?.contains(e.target)
+        if (!isInside) {
+          closeSearch()
+        }
+      }
+    })
 
     dom.eventClose.addEventListener('click', () => {
       dom.eventPanel.classList.add('hidden')

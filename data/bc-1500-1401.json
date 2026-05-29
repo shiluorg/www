@@ -11,17 +11,8 @@
     ],
     "events": [
       {
-        "title": "商朝九世之乱",
-        "description": "商朝中期自仲丁至阳甲九王接连发生王位争夺，政局动荡，诸侯莫朝，商王室力量严重削弱。",
-        "latitude": 34.4,
-        "longitude": 115.6,
-        "category": "政治",
-        "region": "商",
-        "continent": "亚洲"
-      },
-      {
         "title": "印度河文明消亡",
-        "description": "印度河流域哈拉帕文化彻底衰亡，城市体系瓦解，文字失传，土著达罗毗荼人势力衰退。",
+        "description": "公元前1500年，印度河流域社会领域出现印度河文明消亡，反映了社会的发展变化。",
         "latitude": 30.0,
         "longitude": 72.0,
         "category": "社会",
@@ -29,17 +20,35 @@
         "continent": "亚洲"
       },
       {
-        "title": "雅利安人进入南亚次大陆",
-        "description": "雅利安人部落自西北方向分批进入印度河流域，与土著居民融合，开始形成吠陀文明。",
-        "latitude": 31.0,
-        "longitude": 74.0,
-        "category": "民族",
+        "title": "印度舞蹈传统",
+        "description": "公元前1500年在印度河流域的舞蹈艺术领域取得了新的进展。舞蹈以人体优美的动作为媒介传递着丰富的情感和文化内涵。这一事件对印度河流域的历史发展产生了不可忽视的影响值得我们今天认真回顾和反思。",
+        "latitude": 27.33,
+        "longitude": 68.14,
+        "category": "艺术",
         "region": "印度河流域",
         "continent": "亚洲"
       },
       {
+        "title": "商朝九世之乱",
+        "description": "公元前1500年，在商，商朝九世之乱。",
+        "latitude": 34.4,
+        "longitude": 115.6,
+        "category": "政治",
+        "region": "商",
+        "continent": "亚洲"
+      },
+      {
+        "title": "奥尔梅克文明兴起",
+        "description": "公元前1500年，奥尔梅克地区的文化艺术领域取得了重要成就，奥尔梅克文明兴起成为这一时期的文化代表。",
+        "latitude": 18.5,
+        "longitude": -95.5,
+        "category": "文化",
+        "region": "奥尔梅克",
+        "continent": "北美洲"
+      },
+      {
         "title": "赫梯铁列平改革",
-        "description": "赫梯国王铁列平颁布王位继承法，规定王位由长子继承，无长子则由长婿继承，结束了宫廷内乱。",
+        "description": "公元前1500年，赫梯推行赫梯铁列平改革，对当地政治经济制度产生了深远影响。",
         "latitude": 39.9,
         "longitude": 32.9,
         "category": "政治",
@@ -47,13 +56,22 @@
         "continent": "亚洲"
       },
       {
-        "title": "迈锡尼文明兴盛",
-        "description": "迈锡尼文明进入中期发展阶段，竖井墓时期过渡到圆顶墓时期，与米诺斯文明交流密切。",
-        "latitude": 37.7,
-        "longitude": 22.8,
+        "title": "雅利安人进入南亚次大陆",
+        "description": "公元前1500年在印度河流域的民族关系史上具有重要意义。民族之间的互动交流与融合是推动人类历史前进的重要力量。这一事件对印度河流域的历史发展产生了不可忽视的影响值得我们今天认真回顾和反思。",
+        "latitude": 31.0,
+        "longitude": 74.0,
         "category": "文化",
-        "region": "迈锡尼",
-        "continent": "欧洲"
+        "region": "印度河流域",
+        "continent": "亚洲"
+      },
+      {
+        "title": "雅利安人进入印度",
+        "description": "公元前1500年，古印度社会领域出现雅利安人进入印度，反映了社会的发展变化。",
+        "latitude": 28.5,
+        "longitude": 77.0,
+        "category": "社会",
+        "region": "古印度",
+        "continent": "亚洲"
       }
     ]
   },
@@ -70,7 +88,7 @@
     "events": [
       {
         "title": "埃及女法老哈特谢普苏特统治",
-        "description": "哈特谢普苏特成为埃及第十八王朝女法老，派遣贸易远征队前往蓬特。",
+        "description": "公元前1490年，在埃及，埃及女法老哈特谢普苏特统治。",
         "latitude": 25.7,
         "longitude": 32.6,
         "category": "政治",
@@ -92,7 +110,7 @@
     "events": [
       {
         "title": "哈特谢普苏特成为女法老",
-        "description": "埃及第十八王朝哈特谢普苏特废黜年幼的图特摩斯三世，自称法老，开创埃及历史上最成功的女法老统治时期。",
+        "description": "公元前1479年，在古埃及，哈特谢普苏特成为女法老。",
         "latitude": 25.7,
         "longitude": 32.6,
         "category": "政治",
@@ -101,7 +119,7 @@
       },
       {
         "title": "哈特谢普苏特遣使赴蓬特",
-        "description": "女法老哈特谢普苏特派遣大规模贸易船队前往蓬特（今索马里地区），带回没药树、象牙、黄金等珍贵货物。",
+        "description": "公元前1479年，古埃及经济领域发生哈特谢普苏特遣使赴蓬特，对当时的经济生活产生了直接影响。",
         "latitude": 25.7,
         "longitude": 32.6,
         "category": "经济",
@@ -123,12 +141,27 @@
     "events": [
       {
         "title": "迈锡尼文明崛起",
-        "description": "迈锡尼文明在希腊大陆快速发展，取代米诺斯文明成为爱琴海主导力量。",
+        "description": "公元前1475年，迈锡尼希腊地区的文化艺术领域取得了重要成就，迈锡尼文明崛起成为这一时期的文化代表。",
         "latitude": 37.7,
         "longitude": 22.8,
         "category": "文化",
         "region": "迈锡尼希腊",
         "continent": "欧洲"
+      }
+    ]
+  },
+  {
+    "year": -1473,
+    "dynasties": [],
+    "events": [
+      {
+        "title": "哈特谢普苏特女法老",
+        "description": "公元前1473年，在埃及，哈特谢普苏特女法老。",
+        "latitude": 25.7,
+        "longitude": 32.6,
+        "category": "政治",
+        "region": "埃及",
+        "continent": "非洲"
       }
     ]
   },
@@ -145,7 +178,7 @@
     "events": [
       {
         "title": "埃及征服黎凡特",
-        "description": "图特摩斯三世在美吉多战役中获胜，埃及帝国疆域扩至叙利亚北部。",
+        "description": "公元前1460年，在埃及，埃及征服黎凡特。",
         "latitude": 32.6,
         "longitude": 35.2,
         "category": "军事",
@@ -167,7 +200,7 @@
     "events": [
       {
         "title": "图特摩斯三世独立亲政",
-        "description": "哈特谢普苏特去世，图特摩斯三世开始独立统治埃及。他随即发动大规模军事远征，重建埃及在叙利亚-巴勒斯坦的霸权。",
+        "description": "公元前1458年，在古埃及，图特摩斯三世独立亲政。",
         "latitude": 25.7,
         "longitude": 32.6,
         "category": "政治",
@@ -176,7 +209,7 @@
       },
       {
         "title": "米吉多战役",
-        "description": "图特摩斯三世在米吉多击败以卡迭石为首的迦南联军，此战为世界史上首场有详细记载的战役。",
+        "description": "公元前1458年，迦南爆发米吉多战役，战事在迦南地区全面展开。",
         "latitude": 32.6,
         "longitude": 35.2,
         "category": "军事",
@@ -197,8 +230,17 @@
     ],
     "events": [
       {
+        "title": "中国青铜文明高峰",
+        "description": "公元前1450年，商朝的科技发展取得重要进展，中国青铜文明高峰推动了相关领域的技术进步。",
+        "latitude": 36.1,
+        "longitude": 114.3,
+        "category": "科技",
+        "region": "商朝",
+        "continent": "亚洲"
+      },
+      {
         "title": "米诺斯文明衰落",
-        "description": "克里特岛的米诺斯文明因锡拉火山喷发和迈锡尼人入侵而衰落。",
+        "description": "公元前1450年，米诺斯文明社会领域出现米诺斯文明衰落，反映了社会的发展变化。",
         "latitude": 35.0,
         "longitude": 25.0,
         "category": "社会",
@@ -219,8 +261,26 @@
     ],
     "events": [
       {
+        "title": "夏商王朝更替之际",
+        "description": "公元前1440年，在商，夏商王朝更替之际。",
+        "latitude": 34.3,
+        "longitude": 114.0,
+        "category": "政治",
+        "region": "商",
+        "continent": "亚洲"
+      },
+      {
+        "title": "克里特米诺斯文明衰落",
+        "description": "公元前1440年，克里特社会领域出现克里特米诺斯文明衰落，反映了社会的发展变化。",
+        "latitude": 35.3,
+        "longitude": 25.1,
+        "category": "社会",
+        "region": "克里特",
+        "continent": "欧洲"
+      },
+      {
         "title": "图特摩斯三世征服叙利亚",
-        "description": "埃及法老图特摩斯三世多次远征叙利亚，攻占卡迭石等重镇，埃及帝国版图扩张至幼发拉底河畔。",
+        "description": "公元前1440年，在叙利亚，图特摩斯三世征服叙利亚。",
         "latitude": 34.5,
         "longitude": 36.9,
         "category": "军事",
@@ -229,29 +289,11 @@
       },
       {
         "title": "埃及与米坦尼建交",
-        "description": "图特摩斯三世与米坦尼王国建立外交关系，两国以幼发拉底河为界，埃及帝国达到极盛。",
+        "description": "公元前1440年，美索不达米亚开展埃及与米坦尼建交，体现了当时的国际关系格局。",
         "latitude": 36.5,
         "longitude": 40.0,
         "category": "外交",
         "region": "美索不达米亚",
-        "continent": "亚洲"
-      },
-      {
-        "title": "克里特米诺斯文明衰落",
-        "description": "克里特岛的米诺斯文明因地震、火山爆发及迈锡尼人入侵而迅速衰落，米诺斯王宫遭到破坏。",
-        "latitude": 35.3,
-        "longitude": 25.1,
-        "category": "社会",
-        "region": "克里特",
-        "continent": "欧洲"
-      },
-      {
-        "title": "中国夏商之际",
-        "description": "中国中原地区处于夏商更替时期，传说商汤在伊尹辅佐下准备灭夏。",
-        "latitude": 34.3,
-        "longitude": 114.0,
-        "category": "政治",
-        "region": "商",
         "continent": "亚洲"
       }
     ]
@@ -266,17 +308,7 @@
         "era": "商中期"
       }
     ],
-    "events": [
-      {
-        "title": "中亚青铜文化繁荣",
-        "description": "中亚安德罗诺沃文化范围从中亚草原扩展至西伯利亚和南亚，青铜冶炼技术广泛传播。",
-        "latitude": 42.0,
-        "longitude": 70.0,
-        "category": "文化",
-        "region": "中亚草原",
-        "continent": "亚洲"
-      }
-    ]
+    "events": []
   },
   {
     "year": -1425,
@@ -291,7 +323,7 @@
     "events": [
       {
         "title": "阿蒙霍特普二世即位",
-        "description": "图特摩斯三世去世，其子阿蒙霍特普二世继位，延续对外扩张政策，远征叙利亚镇压叛乱。",
+        "description": "公元前1425年，阿蒙霍特普二世即位，开启了新的统治时期。",
         "latitude": 25.7,
         "longitude": 32.6,
         "category": "政治",
@@ -313,7 +345,7 @@
     "events": [
       {
         "title": "奥尔梅克文明开始",
-        "description": "中美洲奥尔梅克文明在墨西哥湾沿岸兴起，建造大型祭祀中心，被视为中美洲文明之母。",
+        "description": "公元前1420年，奥尔梅克地区的文化艺术领域取得了重要成就，奥尔梅克文明开始成为这一时期的文化代表。",
         "latitude": 18.5,
         "longitude": -95.0,
         "category": "文化",

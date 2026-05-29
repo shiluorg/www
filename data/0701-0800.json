@@ -3,7 +3,7 @@
     "year": 701,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -11,26 +11,8 @@
     ],
     "events": [
       {
-        "title": "李白出生",
-        "description": "唐代伟大诗人李白出生于碎叶城（今吉尔吉斯斯坦托克马克），五岁随父迁居绵州昌隆（今四川江油）。李白被誉为“诗仙”，其诗作豪放飘逸。",
-        "latitude": 42.5,
-        "longitude": 75.3,
-        "category": "文化",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
-        "title": "朝鲜统一新罗时期",
-        "description": "新罗统一朝鲜半岛，佛教文化和艺术繁荣发展。",
-        "latitude": 36.0,
-        "longitude": 128.0,
-        "category": "文化",
-        "region": "新罗",
-        "continent": "亚洲"
-      },
-      {
         "title": "唐朝三省六部制完善",
-        "description": "唐朝中央政府三省制运作成熟。",
+        "description": "公元701年，在唐，唐朝三省六部制完善。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -38,17 +20,26 @@
         "continent": "亚洲"
       },
       {
-        "title": "欧洲采邑制发展",
-        "description": "法兰克王国推行采邑改革。",
-        "latitude": 48.0,
-        "longitude": 3.0,
-        "category": "政治",
-        "region": "法兰克王国",
-        "continent": "欧洲"
+        "title": "朝鲜统一新罗时期",
+        "description": "公元701年，新罗地区的文化艺术领域取得了重要成就，朝鲜统一新罗时期成为这一时期的文化代表。",
+        "latitude": 36.0,
+        "longitude": 128.0,
+        "category": "文化",
+        "region": "新罗",
+        "continent": "亚洲"
+      },
+      {
+        "title": "李白出生",
+        "description": "公元701年，唐地区的文化艺术领域取得了重要成就，李白出生成为这一时期的文化代表。",
+        "latitude": 42.5,
+        "longitude": 75.3,
+        "category": "文化",
+        "region": "唐",
+        "continent": "亚洲"
       },
       {
         "title": "武则天改革制度",
-        "description": "武周末年持续改革。",
+        "description": "公元701年，武周推行武则天改革制度，对当地政治经济制度产生了深远影响。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -61,7 +52,7 @@
     "year": 702,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -69,71 +60,8 @@
     ],
     "events": [
       {
-        "title": "武则天还政长安",
-        "description": "武则天将都城从洛阳迁回长安，恢复长安的都城地位。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
-        "title": "非洲加纳王国兴起",
-        "description": "西非加纳王国控制黄金贸易，成为重要贸易中心。",
-        "latitude": 15.0,
-        "longitude": -8.0,
-        "category": "政治",
-        "region": "加纳王国",
-        "continent": "非洲"
-      },
-      {
-        "title": "唐朝科举制度发展",
-        "description": "唐朝完善科举制度，打破门阀垄断。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
-        "title": "唐诗文化繁荣",
-        "description": "唐朝进入诗歌创作黄金时期。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "文化",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
-        "title": "阿拉伯帝国科学",
-        "description": "阿拉伯帝国翻译运动推动科学进步。",
-        "latitude": 33.3,
-        "longitude": 44.4,
-        "category": "文化",
-        "region": "阿拉伯帝国",
-        "continent": "亚洲"
-      },
-      {
-        "title": "日本律令制巩固",
-        "description": "日本在大宝律令后进一步完善律令政治。",
-        "latitude": 35.0,
-        "longitude": 136.0,
-        "category": "政治",
-        "region": "日本",
-        "continent": "亚洲"
-      },
-      {
-        "title": "斯拉夫部落社会分化",
-        "description": "东欧斯拉夫人社会阶级分化加速。",
-        "latitude": 50.0,
-        "longitude": 30.0,
-        "category": "社会",
-        "region": "斯拉夫人",
-        "continent": "欧洲"
-      },
-      {
         "title": "唐朝均田制推行",
-        "description": "唐朝均田制和租庸调制在全国推行。",
+        "description": "公元702年，唐经济领域发生唐朝均田制推行，对当时的经济生活产生了直接影响。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "经济",
@@ -141,8 +69,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "斯拉夫部落社会分化",
+        "description": "公元702年，斯拉夫人社会领域出现斯拉夫部落社会分化，反映了社会的发展变化。",
+        "latitude": 50.0,
+        "longitude": 30.0,
+        "category": "社会",
+        "region": "斯拉夫人",
+        "continent": "欧洲"
+      },
+      {
         "title": "日本古坟时代晚期",
-        "description": "日本古坟时代向奈良时代过渡。",
+        "description": "公元702年，日本地区的文化艺术领域取得了重要成就，日本古坟时代晚期成为这一时期的文化代表。",
         "latitude": 34.5,
         "longitude": 136.0,
         "category": "文化",
@@ -150,13 +87,40 @@
         "continent": "亚洲"
       },
       {
-        "title": "唐代诗歌繁荣",
-        "description": "初唐四杰活跃。",
+        "title": "日本律令制巩固",
+        "description": "公元702年，在日本，日本律令制巩固。",
+        "latitude": 35.0,
+        "longitude": 136.0,
+        "category": "政治",
+        "region": "日本",
+        "continent": "亚洲"
+      },
+      {
+        "title": "武则天还政长安",
+        "description": "公元702年，在唐，武则天还政长安。",
         "latitude": 34.3,
         "longitude": 108.9,
-        "category": "文化",
+        "category": "政治",
         "region": "唐",
         "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯帝国科学",
+        "description": "公元702年，阿拉伯帝国地区的文化艺术领域取得了重要成就，阿拉伯帝国科学成为这一时期的文化代表。",
+        "latitude": 33.3,
+        "longitude": 44.4,
+        "category": "文化",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "非洲加纳王国兴起",
+        "description": "公元702年，在加纳王国，非洲加纳王国兴起。",
+        "latitude": 15.0,
+        "longitude": -8.0,
+        "category": "政治",
+        "region": "加纳王国",
+        "continent": "非洲"
       }
     ]
   },
@@ -164,7 +128,7 @@
     "year": 703,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -173,7 +137,7 @@
     "events": [
       {
         "title": "唐与吐蕃和亲",
-        "description": "唐朝与吐蕃在边境冲突后再次遣使和亲，缓和两国关系。",
+        "description": "公元703年，唐开展唐与吐蕃和亲，体现了当时的国际关系格局。",
         "latitude": 32.0,
         "longitude": 90.0,
         "category": "外交",
@@ -181,20 +145,20 @@
         "continent": "亚洲"
       },
       {
-        "title": "阿拉伯阿拔斯王朝鼎盛",
-        "description": "巴格达成为世界科学文化中心，阿拉伯翻译运动兴起。",
-        "latitude": 33.3,
-        "longitude": 44.4,
-        "category": "文化",
+        "title": "阿拉伯攻中亚诸国",
+        "description": "公元703年，在阿拉伯帝国，阿拉伯攻中亚诸国。",
+        "latitude": 41.0,
+        "longitude": 65.0,
+        "category": "军事",
         "region": "阿拉伯帝国",
         "continent": "亚洲"
       },
       {
-        "title": "阿拉伯攻中亚诸国",
-        "description": "阿拉伯入河中地。",
-        "latitude": 41.0,
-        "longitude": 65.0,
-        "category": "军事",
+        "title": "阿拉伯阿拔斯王朝鼎盛",
+        "description": "公元703年，阿拉伯帝国地区的文化艺术领域取得了重要成就，阿拉伯阿拔斯王朝鼎盛成为这一时期的文化代表。",
+        "latitude": 33.3,
+        "longitude": 44.4,
+        "category": "文化",
         "region": "阿拉伯帝国",
         "continent": "亚洲"
       }
@@ -204,7 +168,7 @@
     "year": 704,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -212,17 +176,26 @@
     ],
     "events": [
       {
-        "title": "日本大宝律令实施",
-        "description": "日本在大宝律令基础上进行全面律令政治改革，确立天皇集权制度。",
-        "latitude": 35.0,
-        "longitude": 136.0,
-        "category": "政治",
-        "region": "日本",
+        "title": "中国雕版印刷发明",
+        "description": "公元704年，唐朝的科技发展取得重要进展，中国雕版印刷发明推动了相关领域的技术进步。",
+        "latitude": 34.3,
+        "longitude": 108.86,
+        "category": "科技",
+        "region": "唐朝",
         "continent": "亚洲"
       },
       {
-        "title": "唐代文化繁荣",
-        "description": "唐诗和佛教艺术达到高峰，李白杜甫等大诗人活跃。",
+        "title": "唐中宗复位",
+        "description": "公元704年，在唐，唐中宗复位。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "唐朝对外来文化吸收",
+        "description": "公元704年，唐地区的文化艺术领域取得了重要成就，唐朝对外来文化吸收成为这一时期的文化代表。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "文化",
@@ -231,7 +204,7 @@
       },
       {
         "title": "维京人扩张",
-        "description": "北欧维京人在欧洲沿海劫掠贸易，维京时代达到高峰。",
+        "description": "公元704年，在维京人，维京人扩张。",
         "latitude": 59.0,
         "longitude": 8.0,
         "category": "军事",
@@ -239,39 +212,12 @@
         "continent": "欧洲"
       },
       {
-        "title": "欧洲修道院文化",
-        "description": "欧洲修道院保存古典文化，发展农业技术。",
-        "latitude": 48.0,
-        "longitude": 7.0,
-        "category": "文化",
-        "region": "欧洲",
-        "continent": "欧洲"
-      },
-      {
-        "title": "唐朝对外来文化吸收",
-        "description": "唐朝吸收中亚波斯和印度文化元素。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "文化",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
         "title": "阿拉伯倭马亚王朝行政",
-        "description": "倭马亚哈里发完善帝国行政管理。",
+        "description": "公元704年，在阿拉伯帝国，阿拉伯倭马亚王朝行政。",
         "latitude": 33.5,
         "longitude": 36.3,
         "category": "政治",
         "region": "阿拉伯帝国",
-        "continent": "亚洲"
-      },
-      {
-        "title": "唐中宗复位",
-        "description": "武则天被迫退位李显复位。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
-        "region": "唐",
         "continent": "亚洲"
       }
     ]
@@ -288,17 +234,8 @@
     ],
     "events": [
       {
-        "title": "神龙政变，武则天退位",
-        "description": "宰相张柬之、崔玄暐等联合右羽林大将军李多祚发动政变，杀武则天男宠张易之、张昌宗，逼武则天退位。唐中宗李显复位，恢复唐国号。",
-        "latitude": 34.7,
-        "longitude": 112.5,
-        "category": "政治",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
         "title": "武则天驾崩",
-        "description": "武则天在洛阳上阳宫病逝，享年八十二岁。临终遗诏去帝号，称“则天大圣皇后”，与高宗合葬乾陵。立无字碑，功过任由后人评说。",
+        "description": "公元705年，武则天驾崩，一个重要的历史人物离开了历史舞台。",
         "latitude": 34.7,
         "longitude": 112.5,
         "category": "政治",
@@ -306,17 +243,26 @@
         "continent": "亚洲"
       },
       {
-        "title": "阿拉伯丝绸贸易",
-        "description": "阿拉伯帝国控制丝绸之路中转贸易。",
-        "latitude": 33.3,
-        "longitude": 44.4,
-        "category": "经济",
-        "region": "阿拉伯帝国",
+        "title": "法兰克王国军事改革",
+        "description": "公元705年，法兰克王国推行法兰克王国军事改革，对当地政治经济制度产生了深远影响。",
+        "latitude": 49.0,
+        "longitude": 4.0,
+        "category": "军事",
+        "region": "法兰克王国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "神龙政变",
+        "description": "公元705年，在唐朝，神龙政变。",
+        "latitude": 34.68,
+        "longitude": 112.47,
+        "category": "政治",
+        "region": "唐朝",
         "continent": "亚洲"
       },
       {
         "title": "罗马教皇与法兰克联盟",
-        "description": "教皇与法兰克王国政治联盟形成。",
+        "description": "公元705年，罗马教皇与法兰克联盟，教皇国的宗教发展进入新阶段。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -324,13 +270,13 @@
         "continent": "欧洲"
       },
       {
-        "title": "法兰克王国军事改革",
-        "description": "查理曼进行骑兵和军事制度改革。",
-        "latitude": 49.0,
-        "longitude": 4.0,
-        "category": "军事",
-        "region": "法兰克王国",
-        "continent": "欧洲"
+        "title": "阿拉伯丝绸贸易",
+        "description": "公元705年，阿拉伯帝国经济领域发生阿拉伯丝绸贸易，对当时的经济生活产生了直接影响。",
+        "latitude": 33.3,
+        "longitude": 44.4,
+        "category": "经济",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -338,7 +284,7 @@
     "year": 706,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -347,7 +293,7 @@
     "events": [
       {
         "title": "唐中宗恢复唐制",
-        "description": "唐中宗恢复唐朝制度，重新确立李唐皇室权威。",
+        "description": "公元706年，在唐，唐中宗恢复唐制。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -368,17 +314,8 @@
     ],
     "events": [
       {
-        "title": "太子李重俊兵变",
-        "description": "唐中宗太子李重俊不满韦皇后、安乐公主及武三思专权，率羽林军杀武三思、武崇训。后中宗在韦后劝说下发兵平叛，李重俊兵败被杀。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "军事",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
         "title": "印度佛教寺庙学术",
-        "description": "印度那烂陀寺成为国际佛教学术中心。",
+        "description": "公元707年，古印度地区的宗教领域发生重要事件——印度佛教寺庙学术，对信众的精神生活产生了深刻影响。",
         "latitude": 25.0,
         "longitude": 85.0,
         "category": "宗教",
@@ -387,7 +324,7 @@
       },
       {
         "title": "基督教在德意志传播",
-        "description": "英国传教士在德意志中南部传教。",
+        "description": "公元707年，日耳曼地区的宗教领域发生重要事件——基督教在德意志传播，对信众的精神生活产生了深刻影响。",
         "latitude": 51.0,
         "longitude": 10.0,
         "category": "宗教",
@@ -395,8 +332,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "太子李重俊兵变",
+        "description": "公元707年，在唐，太子李重俊兵变。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
         "title": "阿拉伯攻粟特",
-        "description": "阿拉伯入粟特地。",
+        "description": "公元707年，在阿拉伯帝国，阿拉伯攻粟特。",
         "latitude": 40.0,
         "longitude": 68.0,
         "category": "军事",
@@ -409,7 +355,7 @@
     "year": 708,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -417,21 +363,21 @@
     ],
     "events": [
       {
-        "title": "阿拉伯帝国进军中亚",
-        "description": "阿拉伯倭马亚王朝军队深入中亚，与突厥部落交战。",
-        "latitude": 40.0,
-        "longitude": 65.0,
-        "category": "军事",
-        "region": "阿拉伯帝国",
-        "continent": "亚洲"
-      },
-      {
         "title": "唐击吐蕃",
-        "description": "唐军与吐蕃交战。",
+        "description": "公元708年，在唐，唐击吐蕃。",
         "latitude": 35.0,
         "longitude": 95.0,
         "category": "军事",
         "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯帝国进军中亚",
+        "description": "公元708年，在阿拉伯帝国，阿拉伯帝国进军中亚。",
+        "latitude": 40.0,
+        "longitude": 65.0,
+        "category": "军事",
+        "region": "阿拉伯帝国",
         "continent": "亚洲"
       }
     ]
@@ -449,7 +395,7 @@
     "events": [
       {
         "title": "金城公主和亲吐蕃",
-        "description": "唐中宗以金城公主和亲吐蕃赞普尺带珠丹。金城公主入藏带去大量书籍、工匠和乐工，进一步促进唐蕃文化交流，佛教在吐蕃获得更大发展。",
+        "description": "公元709年，唐开展金城公主和亲吐蕃，体现了当时的国际关系格局。",
         "latitude": 29.7,
         "longitude": 91.1,
         "category": "外交",
@@ -458,7 +404,7 @@
       },
       {
         "title": "阿拉伯过印度河",
-        "description": "阿拉伯入信德。",
+        "description": "公元709年，在阿拉伯帝国，阿拉伯过印度河。",
         "latitude": 25.0,
         "longitude": 68.0,
         "category": "军事",
@@ -479,17 +425,8 @@
     ],
     "events": [
       {
-        "title": "唐隆政变，李隆基诛韦后",
-        "description": "唐中宗被韦皇后和安乐公主毒杀。临淄王李隆基与太平公主联手发动唐隆政变，诛杀韦后、安乐公主及韦氏集团。李隆基父李旦即位为唐睿宗。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
         "title": "东正教圣像破坏运动",
-        "description": "拜占庭帝国利奥三世和君士坦丁五世推行破坏圣像政策。",
+        "description": "公元710年，拜占庭帝国地区的宗教领域发生重要事件——东正教圣像破坏运动，对信众的精神生活产生了深刻影响。",
         "latitude": 41.0,
         "longitude": 29.0,
         "category": "宗教",
@@ -497,17 +434,8 @@
         "continent": "欧洲"
       },
       {
-        "title": "阿拉伯帝国伍麦叶王朝鼎盛",
-        "description": "阿拉伯帝国在伍麦叶王朝统治下疆域达到最大。",
-        "latitude": 33.3,
-        "longitude": 44.4,
-        "category": "政治",
-        "region": "阿拉伯帝国",
-        "continent": "亚洲"
-      },
-      {
         "title": "东非阿克苏姆帝国衰落",
-        "description": "阿克苏姆帝国在红海贸易中衰落，阿拉伯人控制印度洋贸易。",
+        "description": "公元710年，在阿克苏姆帝国，东非阿克苏姆帝国衰落。",
         "latitude": 14.0,
         "longitude": 39.0,
         "category": "政治",
@@ -515,8 +443,35 @@
         "continent": "非洲"
       },
       {
+        "title": "元明天皇迁都奈良",
+        "description": "公元710年，在日本，元明天皇迁都奈良。",
+        "latitude": 34.68,
+        "longitude": 135.83,
+        "category": "政治",
+        "region": "日本",
+        "continent": "亚洲"
+      },
+      {
+        "title": "唐睿宗即位",
+        "description": "公元710年，唐睿宗即位，开启了新的统治时期。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "唐隆政变，李隆基诛韦后",
+        "description": "公元710年，在唐，唐隆政变，李隆基诛韦后。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
         "title": "玛雅科潘城鼎盛",
-        "description": "十八兔王统治科潘，建造大量石碑和雕刻。",
+        "description": "公元710年，玛雅地区的文化艺术领域取得了重要成就，玛雅科潘城鼎盛成为这一时期的文化代表。",
         "latitude": 14.8,
         "longitude": -89.1,
         "category": "文化",
@@ -524,12 +479,12 @@
         "continent": "北美洲"
       },
       {
-        "title": "唐睿宗即位",
-        "description": "李旦继位。",
-        "latitude": 34.3,
-        "longitude": 108.9,
+        "title": "阿拉伯帝国伍麦叶王朝鼎盛",
+        "description": "公元710年，在阿拉伯帝国，阿拉伯帝国伍麦叶王朝鼎盛。",
+        "latitude": 33.3,
+        "longitude": 44.4,
         "category": "政治",
-        "region": "唐",
+        "region": "阿拉伯帝国",
         "continent": "亚洲"
       }
     ]
@@ -538,7 +493,7 @@
     "year": 711,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -547,7 +502,7 @@
     "events": [
       {
         "title": "阿拉伯征服西班牙",
-        "description": "阿拉伯将领塔里克·伊本·齐亚德率军穿越直布罗陀海峡，在瓜达莱特战役中击败西哥特王国，征服伊比利亚半岛大部。",
+        "description": "公元711年，在阿拉伯帝国，阿拉伯征服西班牙。",
         "latitude": 37.0,
         "longitude": -4.0,
         "category": "军事",
@@ -568,8 +523,17 @@
     ],
     "events": [
       {
+        "title": "唐玄宗即位",
+        "description": "公元712年，唐玄宗即位，开启了新的统治时期。",
+        "latitude": 34.31,
+        "longitude": 108.94,
+        "category": "政治",
+        "region": "唐朝",
+        "continent": "亚洲"
+      },
+      {
         "title": "唐玄宗李隆基即位",
-        "description": "唐睿宗李旦禅位于太子李隆基，是为唐玄宗，又称唐明皇。玄宗即位初期励精图治，任用贤能，为开元盛世拉开序幕。",
+        "description": "公元712年，唐玄宗李隆基即位，开启了新的统治时期。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -577,22 +541,22 @@
         "continent": "亚洲"
       },
       {
-        "title": "阿拉伯征服信德",
-        "description": "阿拉伯帝国征服印度信德地区。",
-        "latitude": 25.0,
-        "longitude": 68.0,
-        "category": "军事",
-        "region": "阿拉伯帝国",
-        "continent": "亚洲"
-      },
-      {
         "title": "阿拉伯占西班牙大部",
-        "description": "西班牙降服。",
+        "description": "公元712年，在阿拉伯帝国，阿拉伯占西班牙大部。",
         "latitude": 40.4,
         "longitude": -3.7,
         "category": "军事",
         "region": "阿拉伯帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "阿拉伯征服信德",
+        "description": "公元712年，在阿拉伯帝国，阿拉伯征服信德。",
+        "latitude": 25.0,
+        "longitude": 68.0,
+        "category": "军事",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -608,8 +572,17 @@
     ],
     "events": [
       {
+        "title": "唐玄宗诛太平公主",
+        "description": "公元713年，在唐，唐玄宗诛太平公主。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
         "title": "太平公主被赐死",
-        "description": "太平公主企图废黜唐玄宗，结党营私。唐玄宗先发制人，诛杀太平公主党羽窦怀贞、岑羲等，赐太平公主自尽。玄宗自此完全掌握朝政大权。",
+        "description": "公元713年，在唐，太平公主被赐死。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -618,16 +591,7 @@
       },
       {
         "title": "开元盛世开启",
-        "description": "唐玄宗改元开元，任用姚崇为相，推行新政：裁汰冗官、整顿吏治、抑制佛寺、发展生产。唐朝进入长达二十九年的鼎盛时期——开元盛世。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
-        "title": "唐玄宗诛太平公主",
-        "description": "李隆基铲除太平。",
+        "description": "公元713年，在唐，开元盛世开启。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -648,19 +612,19 @@
     ],
     "events": [
       {
-        "title": "唐设黑水都督府",
-        "description": "唐朝在黑水靺鞨（今黑龙江流域）设置黑水都督府，册封其首领为都督。唐朝势力范围扩展至东北亚最遥远的地区，边疆各族臣服。",
-        "latitude": 48.0,
-        "longitude": 128.0,
+        "title": "唐玄宗设节度使",
+        "description": "公元714年，在唐，唐玄宗设节度使。",
+        "latitude": 34.3,
+        "longitude": 108.9,
         "category": "政治",
         "region": "唐",
         "continent": "亚洲"
       },
       {
-        "title": "唐玄宗设节度使",
-        "description": "沿边设节度使。",
-        "latitude": 34.3,
-        "longitude": 108.9,
+        "title": "唐设黑水都督府",
+        "description": "公元714年，在唐，唐设黑水都督府。",
+        "latitude": 48.0,
+        "longitude": 128.0,
         "category": "政治",
         "region": "唐",
         "continent": "亚洲"
@@ -679,21 +643,21 @@
     ],
     "events": [
       {
-        "title": "阿拉伯帝国东侵",
-        "description": "阿拉伯倭马亚王朝军队越过阿姆河，入侵中亚河中地区。唐朝安西都护府与阿拉伯帝国在中亚的势力开始正面接触，争夺中亚控制权。",
-        "latitude": 39.7,
-        "longitude": 66.0,
-        "category": "军事",
-        "region": "阿拉伯帝国",
-        "continent": "亚洲"
-      },
-      {
         "title": "李隆基即唐玄宗位",
-        "description": "开元盛世前夜。",
+        "description": "公元715年，在唐，李隆基即唐玄宗位。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
         "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯帝国东侵",
+        "description": "公元715年，在阿拉伯帝国，阿拉伯帝国东侵。",
+        "latitude": 39.7,
+        "longitude": 66.0,
+        "category": "军事",
+        "region": "阿拉伯帝国",
         "continent": "亚洲"
       }
     ]
@@ -711,7 +675,7 @@
     "events": [
       {
         "title": "后突厥汗国内乱",
-        "description": "后突厥默啜可汗征讨拔野古部时兵败被杀，突厥汗国内乱。毗伽可汗继位后重用暾欲谷，国力复振，但仍与唐朝保持和平关系。",
+        "description": "公元716年，在突厥，后突厥汗国内乱。",
         "latitude": 46.0,
         "longitude": 107.0,
         "category": "政治",
@@ -720,7 +684,7 @@
       },
       {
         "title": "阿拉伯攻君士坦丁堡陆路",
-        "description": "阿拉伯陆路攻安纳托利亚。",
+        "description": "公元716年，在阿拉伯帝国，阿拉伯攻君士坦丁堡陆路。",
         "latitude": 39.0,
         "longitude": 33.0,
         "category": "军事",
@@ -742,7 +706,7 @@
     "events": [
       {
         "title": "姚崇罢相，宋璟继任",
-        "description": "名相姚崇因病辞相，宋璟继任中书令。宋璟以刚正直言著称，与姚崇并称“姚宋”，同为开元盛世著名贤相。唐玄宗虚心纳谏，君臣相得。",
+        "description": "公元717年，在唐，姚崇罢相，宋璟继任。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -751,7 +715,7 @@
       },
       {
         "title": "拜占庭击退阿军",
-        "description": "利奥三世守城。",
+        "description": "公元717年，在拜占庭帝国，拜占庭击退阿军。",
         "latitude": 41.0,
         "longitude": 29.0,
         "category": "军事",
@@ -772,20 +736,20 @@
     ],
     "events": [
       {
-        "title": "阿拉伯与吐蕃结盟",
-        "description": "阿拉伯倭马亚王朝与吐蕃结盟，共同对抗唐朝在中亚的势力。唐朝联手突骑施汗国在中亚与阿拉伯-吐蕃联军展开角逐。",
-        "latitude": 39.7,
-        "longitude": 66.0,
-        "category": "外交",
+        "title": "唐开元初立法制",
+        "description": "公元718年，在唐，唐开元初立法制。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
         "region": "唐",
         "continent": "亚洲"
       },
       {
-        "title": "唐开元初立法制",
-        "description": "玄宗整顿吏治。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
+        "title": "阿拉伯与吐蕃结盟",
+        "description": "公元718年，唐开展阿拉伯与吐蕃结盟，体现了当时的国际关系格局。",
+        "latitude": 39.7,
+        "longitude": 66.0,
+        "category": "外交",
         "region": "唐",
         "continent": "亚洲"
       }
@@ -795,7 +759,7 @@
     "year": 719,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -803,22 +767,22 @@
     ],
     "events": [
       {
-        "title": "唐玄宗置幽州节度使",
-        "description": "唐玄宗在边境置幽州节度使，加强对东北边防的管理。",
-        "latitude": 39.9,
-        "longitude": 116.4,
-        "category": "政治",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
         "title": "利奥三世毁坏圣像",
-        "description": "拜占庭禁圣像。",
+        "description": "公元719年，拜占庭帝国地区的宗教领域发生重要事件——利奥三世毁坏圣像，对信众的精神生活产生了深刻影响。",
         "latitude": 41.0,
         "longitude": 29.0,
         "category": "宗教",
         "region": "拜占庭帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "唐玄宗置幽州节度使",
+        "description": "公元719年，在唐，唐玄宗置幽州节度使。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
       }
     ]
   },
@@ -826,7 +790,7 @@
     "year": 720,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -834,17 +798,8 @@
     ],
     "events": [
       {
-        "title": "日本元正天皇在位",
-        "description": "日本元正天皇在位时期，继续推行律令政治。",
-        "latitude": 35.0,
-        "longitude": 136.0,
-        "category": "政治",
-        "region": "日本",
-        "continent": "亚洲"
-      },
-      {
         "title": "婆罗浮屠佛塔开始建造",
-        "description": "爪哇塞伦德拉王朝开始建造婆罗浮屠大佛塔。",
+        "description": "公元720年，爪哇地区的文化艺术领域取得了重要成就，婆罗浮屠佛塔开始建造成为这一时期的文化代表。",
         "latitude": -7.5,
         "longitude": 110.0,
         "category": "文化",
@@ -852,8 +807,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "日本元正天皇在位",
+        "description": "公元720年，在日本，日本元正天皇在位。",
+        "latitude": 35.0,
+        "longitude": 136.0,
+        "category": "政治",
+        "region": "日本",
+        "continent": "亚洲"
+      },
+      {
         "title": "阿拉伯攻高加索",
-        "description": "阿拉伯入亚美尼亚。",
+        "description": "公元720年，在阿拉伯帝国，阿拉伯攻高加索。",
         "latitude": 40.0,
         "longitude": 44.0,
         "category": "军事",
@@ -866,23 +830,13 @@
     "year": 721,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
       }
     ],
-    "events": [
-      {
-        "title": "日本新罗关系",
-        "description": "日本与新罗交往。",
-        "latitude": 35.0,
-        "longitude": 136.0,
-        "category": "外交",
-        "region": "日本",
-        "continent": "亚洲"
-      }
-    ]
+    "events": []
   },
   {
     "year": 722,
@@ -896,20 +850,20 @@
     ],
     "events": [
       {
-        "title": "张说改革兵制",
-        "description": "唐宰相张说改革兵制，废除府兵制，实行募兵制。招募壮士充任京师宿卫，称“彍骑”。此后唐军职业化程度提高，但中央军力渐弱、边镇军力日强。",
+        "title": "唐科举起用庶族",
+        "description": "公元722年，在唐，唐科举起用庶族。",
         "latitude": 34.3,
         "longitude": 108.9,
-        "category": "军事",
+        "category": "政治",
         "region": "唐",
         "continent": "亚洲"
       },
       {
-        "title": "唐科举起用庶族",
-        "description": "玄宗扩大科举。",
+        "title": "张说改革兵制",
+        "description": "公元722年，唐推行张说改革兵制，对当地政治经济制度产生了深远影响。",
         "latitude": 34.3,
         "longitude": 108.9,
-        "category": "政治",
+        "category": "军事",
         "region": "唐",
         "continent": "亚洲"
       }
@@ -919,7 +873,7 @@
     "year": 723,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -928,7 +882,7 @@
     "events": [
       {
         "title": "阿拉伯攻突厥",
-        "description": "阿拉伯与突厥战。",
+        "description": "公元723年，在阿拉伯帝国，阿拉伯攻突厥。",
         "latitude": 42.0,
         "longitude": 72.0,
         "category": "军事",
@@ -949,17 +903,8 @@
     ],
     "events": [
       {
-        "title": "僧一行测量子午线",
-        "description": "唐代天文学家僧一行（张遂）主持大规模天文测量，在全国设十三个观测点，实测子午线长度。这是世界上首次对子午线的科学测量。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "科技",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
         "title": "唐开边拓土",
-        "description": "唐朝向西域扩张。",
+        "description": "公元724年，在唐，唐开边拓土。",
         "latitude": 41.0,
         "longitude": 80.0,
         "category": "军事",
@@ -972,7 +917,7 @@
     "year": 725,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -980,30 +925,30 @@
     ],
     "events": [
       {
+        "title": "中国僧一行观测天文",
+        "description": "公元725年，唐的科技发展取得重要进展，中国僧一行观测天文推动了相关领域的技术进步。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "科技",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "僧一行测量子午线",
+        "description": "公元725年，唐的科技发展取得重要进展，僧一行测子午线推动了相关领域的技术进步。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "科技",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
         "title": "日本编纂《日本书纪》",
-        "description": "日本舍人亲王等人编纂《日本书纪》。",
+        "description": "公元725年，日本地区的文化艺术领域取得了重要成就，日本编纂《日本书纪》成为这一时期的文化代表。",
         "latitude": 35.0,
         "longitude": 136.0,
         "category": "文化",
         "region": "日本",
-        "continent": "亚洲"
-      },
-      {
-        "title": "中国僧一行观测天文",
-        "description": "僧一行组织全国天文测量，计算子午线长度。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "科技",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
-        "title": "僧一行测子午线",
-        "description": "一行组织天文测量。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "科技",
-        "region": "唐",
         "continent": "亚洲"
       }
     ]
@@ -1021,7 +966,7 @@
     "events": [
       {
         "title": "拜占庭圣像破坏运动开始",
-        "description": "拜占庭帝国皇帝利奥三世发布命令，禁止圣像崇拜，下令拆除教堂中的圣像和壁画。圣像破坏运动引发了帝国持续百余年的宗教冲突和社会动荡。",
+        "description": "公元726年，拜占庭帝国地区的宗教领域发生重要事件——拜占庭圣像破坏运动开始，对信众的精神生活产生了深刻影响。",
         "latitude": 41.0,
         "longitude": 28.9,
         "category": "宗教",
@@ -1043,7 +988,7 @@
     "events": [
       {
         "title": "吐蕃攻陷瓜州",
-        "description": "吐蕃大将悉诺逻率军攻陷唐瓜州（今甘肃瓜州），俘获唐将。唐玄宗派萧嵩、张守珪等率军反击，最终收复瓜州并稳定河西局势。",
+        "description": "公元727年，在唐，吐蕃攻陷瓜州。",
         "latitude": 40.5,
         "longitude": 95.8,
         "category": "军事",
@@ -1052,7 +997,7 @@
       },
       {
         "title": "阿拉伯攻唐",
-        "description": "阿拉伯中亚继续东进。",
+        "description": "公元727年，在阿拉伯帝国，阿拉伯攻唐。",
         "latitude": 42.0,
         "longitude": 72.0,
         "category": "军事",
@@ -1065,7 +1010,7 @@
     "year": 728,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -1074,7 +1019,7 @@
     "events": [
       {
         "title": "伦巴第人进攻拉文纳",
-        "description": "伦巴第王国进攻拜占庭控制的拉文纳总督辖区。",
+        "description": "公元728年，在伦巴第王国，伦巴第人进攻拉文纳。",
         "latitude": 44.4,
         "longitude": 12.2,
         "category": "军事",
@@ -1083,7 +1028,7 @@
       },
       {
         "title": "日本迁都平城京",
-        "description": "藤原京迁奈良。",
+        "description": "公元728年，在日本，日本迁都平城京。",
         "latitude": 34.7,
         "longitude": 135.8,
         "category": "政治",
@@ -1104,19 +1049,19 @@
     ],
     "events": [
       {
-        "title": "唐蕃赤岭定界",
-        "description": "唐朝与吐蕃在赤岭（今青海日月山）立碑定界，双方互市通商。唐蕃关系缓和，此后数年边境无大战事，丝绸之路贸易兴盛。",
-        "latitude": 36.5,
-        "longitude": 101.0,
+        "title": "唐吐蕃金城公主嫁",
+        "description": "公元729年，唐开展唐吐蕃金城公主嫁，体现了当时的国际关系格局。",
+        "latitude": 32.0,
+        "longitude": 90.0,
         "category": "外交",
         "region": "唐",
         "continent": "亚洲"
       },
       {
-        "title": "唐吐蕃金城公主嫁",
-        "description": "唐蕃和亲。",
-        "latitude": 32.0,
-        "longitude": 90.0,
+        "title": "唐蕃赤岭定界",
+        "description": "公元729年，唐开展唐蕃赤岭定界，体现了当时的国际关系格局。",
+        "latitude": 36.5,
+        "longitude": 101.0,
         "category": "外交",
         "region": "唐",
         "continent": "亚洲"
@@ -1127,7 +1072,7 @@
     "year": 730,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -1136,7 +1081,7 @@
     "events": [
       {
         "title": "阿拉伯西班牙省政权",
-        "description": "后倭马亚在西班牙。",
+        "description": "公元730年，在阿拉伯帝国，阿拉伯西班牙省政权。",
         "latitude": 37.9,
         "longitude": -4.8,
         "category": "政治",
@@ -1149,7 +1094,7 @@
     "year": 731,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -1158,7 +1103,7 @@
     "events": [
       {
         "title": "尊圣派教皇格列高利三世当选",
-        "description": "教皇格列高利三世当选，反对拜占庭毁坏圣像政策，加强与法兰克王国联系。",
+        "description": "公元731年，教皇国地区的宗教领域发生重要事件——尊圣派教皇格列高利三世当选，对信众的精神生活产生了深刻影响。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "宗教",
@@ -1167,7 +1112,7 @@
       },
       {
         "title": "阿拉伯与突厥结盟",
-        "description": "阿拉伯联突厥。",
+        "description": "公元731年，阿拉伯帝国开展阿拉伯与突厥结盟，体现了当时的国际关系格局。",
         "latitude": 42.0,
         "longitude": 72.0,
         "category": "外交",
@@ -1189,7 +1134,7 @@
     "events": [
       {
         "title": "普瓦捷战役",
-        "description": "法兰克王国宫相查理·马特在普瓦捷击败入侵的阿拉伯倭马亚王朝军队。此战阻止了伊斯兰势力向欧洲腹地的扩张，被后世视为改变欧洲历史的关键战役。",
+        "description": "公元732年，法兰克王国爆发普瓦捷战役，战事在法兰克王国地区全面展开。",
         "latitude": 46.6,
         "longitude": 0.3,
         "category": "军事",
@@ -1211,7 +1156,7 @@
     "events": [
       {
         "title": "唐分十道为十五道",
-        "description": "唐朝将全国十道重新划分为十五道，各道设采访处置使，负责监察地方官吏。这是唐代地方行政制度的重要变革，加强了中央对地方的管控。",
+        "description": "公元733年，在唐，唐分十道为十五道。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -1220,7 +1165,7 @@
       },
       {
         "title": "法兰克统一",
-        "description": "查理马特统一高卢。",
+        "description": "公元733年，在法兰克王国，法兰克统一。",
         "latitude": 49.0,
         "longitude": 2.0,
         "category": "政治",
@@ -1241,20 +1186,20 @@
     ],
     "events": [
       {
-        "title": "李林甫拜相",
-        "description": "唐玄宗任命李林甫为礼部尚书、同中书门下三品。李林甫在位十九年，以“口蜜腹剑”著称，排挤贤能，专权自恣，为唐朝由盛转衰埋下隐患。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
+        "title": "唐设安西节度",
+        "description": "公元734年，在唐，唐设安西节度。",
+        "latitude": 41.0,
+        "longitude": 80.0,
+        "category": "军事",
         "region": "唐",
         "continent": "亚洲"
       },
       {
-        "title": "唐设安西节度",
-        "description": "唐朝安西军。",
-        "latitude": 41.0,
-        "longitude": 80.0,
-        "category": "军事",
+        "title": "李林甫拜相",
+        "description": "公元734年，在唐，李林甫拜相。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
         "region": "唐",
         "continent": "亚洲"
       }
@@ -1264,7 +1209,7 @@
     "year": 735,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -1273,7 +1218,7 @@
     "events": [
       {
         "title": "圣博尼法斯传教",
-        "description": "英国传教士在德意志地区传播基督教。",
+        "description": "公元735年，法兰克王国地区的宗教领域发生重要事件——圣博尼法斯传教，对信众的精神生活产生了深刻影响。",
         "latitude": 51.0,
         "longitude": 9.0,
         "category": "宗教",
@@ -1282,7 +1227,7 @@
       },
       {
         "title": "高仙芝攻小勃律",
-        "description": "唐中亚战役。",
+        "description": "公元735年，在唐，高仙芝攻小勃律。",
         "latitude": 41.0,
         "longitude": 75.0,
         "category": "军事",
@@ -1295,7 +1240,7 @@
     "year": 736,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -1304,7 +1249,7 @@
     "events": [
       {
         "title": "法兰克击退日耳曼",
-        "description": "日耳曼人扰。",
+        "description": "公元736年，在法兰克王国，法兰克击退日耳曼。",
         "latitude": 50.0,
         "longitude": 7.0,
         "category": "军事",
@@ -1317,7 +1262,7 @@
     "year": 737,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -1326,7 +1271,7 @@
     "events": [
       {
         "title": "唐朝与突骑施战争",
-        "description": "唐朝安西都护府与西突厥突骑施部在碎叶川一带交战。",
+        "description": "公元737年，唐爆发唐朝与突骑施战争，战事在唐地区全面展开。",
         "latitude": 42.0,
         "longitude": 78.0,
         "category": "军事",
@@ -1335,7 +1280,7 @@
       },
       {
         "title": "高仙芝中亚威名",
-        "description": "唐控制中亚。",
+        "description": "公元737年，在唐，高仙芝中亚威名。",
         "latitude": 41.0,
         "longitude": 75.0,
         "category": "军事",
@@ -1357,7 +1302,7 @@
     "events": [
       {
         "title": "南诏国建立",
-        "description": "唐朝册封蒙舍诏首领皮逻阁为云南王，南诏国正式建立。南诏以大理为中心，统一六诏，成为唐朝西南边境的重要藩属政权。",
+        "description": "公元738年，南诏国建立，标志着新的政治实体在南诏地区诞生。",
         "latitude": 25.6,
         "longitude": 100.2,
         "category": "政治",
@@ -1366,7 +1311,7 @@
       },
       {
         "title": "科潘王被俘",
-        "description": "玛雅城邦基里瓜俘虏科潘国王十八兔。",
+        "description": "公元738年，在玛雅，科潘王被俘。",
         "latitude": 14.8,
         "longitude": -89.1,
         "category": "军事",
@@ -1375,7 +1320,7 @@
       },
       {
         "title": "阿拉伯中亚推进",
-        "description": "阿拉伯河中攻势。",
+        "description": "公元738年，在阿拉伯帝国，阿拉伯中亚推进。",
         "latitude": 40.0,
         "longitude": 68.0,
         "category": "军事",
@@ -1388,7 +1333,7 @@
     "year": 739,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -1397,7 +1342,7 @@
     "events": [
       {
         "title": "日本佛教奈良时代兴盛",
-        "description": "日本奈良时代佛教文化蓬勃发展，兴建东大寺等国分寺。",
+        "description": "公元739年，日本地区的宗教领域发生重要事件——日本佛教奈良时代兴盛，对信众的精神生活产生了深刻影响。",
         "latitude": 34.7,
         "longitude": 135.8,
         "category": "宗教",
@@ -1406,7 +1351,7 @@
       },
       {
         "title": "日本圣武天皇建寺",
-        "description": "圣武建东大寺。",
+        "description": "公元739年，日本地区的宗教领域发生重要事件——日本圣武天皇建寺，对信众的精神生活产生了深刻影响。",
         "latitude": 34.7,
         "longitude": 135.8,
         "category": "宗教",
@@ -1428,7 +1373,7 @@
     "events": [
       {
         "title": "孟浩然去世",
-        "description": "唐代著名山水田园诗人孟浩然病逝。孟浩然诗风清新自然，与王维并称“王孟”，代表作《春晓》《过故人庄》等广为传颂。",
+        "description": "公元740年，孟浩然去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "文化",
@@ -1436,22 +1381,22 @@
         "continent": "亚洲"
       },
       {
-        "title": "高仙芝远征小勃律",
-        "description": "唐朝高仙芝率军远征西域。",
-        "latitude": 40.0,
-        "longitude": 75.0,
-        "category": "军事",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
         "title": "法兰克丕平三世掌权",
-        "description": "矮子丕平为宫相。",
+        "description": "公元740年，在法兰克王国，法兰克丕平三世掌权。",
         "latitude": 49.0,
         "longitude": 5.0,
         "category": "政治",
         "region": "法兰克王国",
         "continent": "欧洲"
+      },
+      {
+        "title": "高仙芝远征小勃律",
+        "description": "公元740年，在唐，高仙芝远征小勃律。",
+        "latitude": 40.0,
+        "longitude": 75.0,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1468,7 +1413,7 @@
     "events": [
       {
         "title": "吐蕃攻占石堡城",
-        "description": "吐蕃军攻占唐军要塞石堡城（今青海湟源），斩断唐蕃交通要道。唐玄宗对此极为震怒，开始筹划大规模反击吐蕃的军事行动。",
+        "description": "公元741年，在唐，吐蕃攻占石堡城。",
         "latitude": 36.7,
         "longitude": 101.2,
         "category": "军事",
@@ -1477,7 +1422,7 @@
       },
       {
         "title": "查理马特去世",
-        "description": "法兰克宫相死。",
+        "description": "公元741年，查理马特去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 49.0,
         "longitude": 5.0,
         "category": "政治",
@@ -1499,7 +1444,7 @@
     "events": [
       {
         "title": "唐玄宗改元天宝",
-        "description": "唐玄宗改元天宝。此时唐朝达到鼎盛，人口约八千万，长安城人口超百万。安西都护府辖西域诸国，唐朝声威远播中亚。但玄宗日益骄奢，朝政渐坏。",
+        "description": "公元742年，在唐，唐玄宗改元天宝。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -1508,7 +1453,7 @@
       },
       {
         "title": "安禄山任平卢节度使",
-        "description": "唐玄宗任命安禄山为平卢节度使。安禄山善于逢迎，深得玄宗和杨贵妃宠信。此后数年间，安禄山又兼范阳、河东节度使，手握重兵。",
+        "description": "公元742年，在唐，安禄山任平卢节度使。",
         "latitude": 41.0,
         "longitude": 121.0,
         "category": "政治",
@@ -1517,7 +1462,7 @@
       },
       {
         "title": "拜占庭圣像毁坏暂停",
-        "description": "君士坦丁五世停。",
+        "description": "公元742年，拜占庭帝国地区的宗教领域发生重要事件——拜占庭圣像毁坏暂停，对信众的精神生活产生了深刻影响。",
         "latitude": 41.0,
         "longitude": 29.0,
         "category": "宗教",
@@ -1530,7 +1475,7 @@
     "year": 743,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -1539,7 +1484,7 @@
     "events": [
       {
         "title": "日本圣武天皇建东大寺",
-        "description": "日本圣武天皇下令在奈良建造东大寺及大佛，弘扬佛教。",
+        "description": "公元743年，日本地区的宗教领域发生重要事件——日本圣武天皇建东大寺，对信众的精神生活产生了深刻影响。",
         "latitude": 34.7,
         "longitude": 135.8,
         "category": "宗教",
@@ -1561,7 +1506,7 @@
     "events": [
       {
         "title": "回纥汗国建立",
-        "description": "回纥首领骨力裴罗在漠北建立回纥汗国，自立为骨咄禄毗伽阙可汗。唐玄宗册封其为奉义王、怀仁可汗。回纥取代后突厥成为漠北草原霸主。",
+        "description": "公元744年，回纥汗国建立，标志着新的政治实体在回纥地区诞生。",
         "latitude": 46.0,
         "longitude": 107.0,
         "category": "政治",
@@ -1570,7 +1515,7 @@
       },
       {
         "title": "李白入京任翰林待诏",
-        "description": "李白经贺知章推荐，奉召入长安任翰林待诏。李白在长安见识宫廷生活，创作了大量诗篇。但因遭权贵排挤，三年后即离开长安。",
+        "description": "公元744年，唐地区的文化艺术领域取得了重要成就，李白入京任翰林待诏成为这一时期的文化代表。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "文化",
@@ -1579,7 +1524,7 @@
       },
       {
         "title": "矮子丕平统一法兰克",
-        "description": "加洛林王朝。",
+        "description": "公元744年，在法兰克王国，矮子丕平统一法兰克。",
         "latitude": 49.0,
         "longitude": 5.0,
         "category": "政治",
@@ -1600,29 +1545,20 @@
     ],
     "events": [
       {
+        "title": "李白杜甫创作",
+        "description": "公元745年，唐地区的文化艺术领域取得了重要成就，李白杜甫创作成为这一时期的文化代表。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "文化",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
         "title": "杨贵妃入宫册封",
-        "description": "唐玄宗册封杨玉环为贵妃。杨贵妃“回眸一笑百媚生”，深得玄宗宠爱，“一骑红尘妃子笑”的典故即出于此。杨氏家族因此显贵，杨国忠把持朝政。",
+        "description": "公元745年，在唐，杨贵妃入宫册封。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
-        "title": "李白出生",
-        "description": "唐代大诗人李白出生。",
-        "latitude": 34.0,
-        "longitude": 105.0,
-        "category": "文化",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
-        "title": "李白杜甫创作",
-        "description": "李杜诗歌创作。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "文化",
         "region": "唐",
         "continent": "亚洲"
       }
@@ -1632,7 +1568,7 @@
     "year": 746,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -1641,7 +1577,7 @@
     "events": [
       {
         "title": "唐朝疆域达到极盛",
-        "description": "唐玄宗时期唐朝疆域达到极盛，西至咸海东至朝鲜半岛。",
+        "description": "公元746年，在唐，唐朝疆域达到极盛。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -1650,7 +1586,7 @@
       },
       {
         "title": "唐藩镇初设",
-        "description": "边镇节度使。",
+        "description": "公元746年，在唐，唐藩镇初设。",
         "latitude": 37.0,
         "longitude": 115.0,
         "category": "政治",
@@ -1671,17 +1607,8 @@
     ],
     "events": [
       {
-        "title": "高仙芝远征小勃律",
-        "description": "唐安西副都护高仙芝率一万唐军翻越帕米尔高原，远征小勃律（今克什米尔北部）。唐军以少胜多，生擒小勃律王，西域七十二国震服。",
-        "latitude": 35.5,
-        "longitude": 75.5,
-        "category": "军事",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
         "title": "唐安禄山得宠",
-        "description": "安禄山受玄宗宠信。",
+        "description": "公元747年，在唐，唐安禄山得宠。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -1694,7 +1621,7 @@
     "year": 748,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -1702,17 +1629,8 @@
     ],
     "events": [
       {
-        "title": "新罗统一朝鲜半岛",
-        "description": "新罗在唐朝支援下加强对朝鲜半岛的控制。",
-        "latitude": 36.0,
-        "longitude": 128.0,
-        "category": "政治",
-        "region": "新罗",
-        "continent": "亚洲"
-      },
-      {
         "title": "法兰克丕平加冕",
-        "description": "教皇为丕平加冕。",
+        "description": "公元748年，法兰克丕平加冕，开启了新的统治时期。",
         "latitude": 49.0,
         "longitude": 5.0,
         "category": "政治",
@@ -1734,7 +1652,7 @@
     "events": [
       {
         "title": "哥舒翰攻取石堡城",
-        "description": "唐将哥舒翰率六万三千唐军猛攻吐蕃石堡城，以死伤数万人的代价攻占要塞。此举虽胜利但代价惨重，暴露了唐军战斗力下滑、统帅轻敌冒进的问题。",
+        "description": "公元749年，在唐，哥舒翰攻取石堡城。",
         "latitude": 36.7,
         "longitude": 101.2,
         "category": "军事",
@@ -1743,7 +1661,7 @@
       },
       {
         "title": "唐天宝年间",
-        "description": "唐玄宗晚唐。",
+        "description": "公元749年，在唐，唐天宝年间。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -1764,26 +1682,8 @@
     ],
     "events": [
       {
-        "title": "阿巴斯王朝取代倭马亚王朝",
-        "description": "阿巴斯家族在波斯呼罗珊地区起兵，推翻倭马亚王朝。阿布·阿巴斯在大马士革称哈里发，建立阿巴斯王朝（黑衣大食）。伊斯兰世界进入阿巴斯时代。",
-        "latitude": 33.5,
-        "longitude": 36.3,
-        "category": "政治",
-        "region": "阿拉伯帝国",
-        "continent": "亚洲"
-      },
-      {
-        "title": "西非加纳帝国鼎盛",
-        "description": "加纳帝国控制西非黄金贸易，被称为黄金之国。",
-        "latitude": 15.0,
-        "longitude": -8.0,
-        "category": "政治",
-        "region": "加纳帝国",
-        "continent": "非洲"
-      },
-      {
-        "title": "中国火药早期配方",
-        "description": "炼丹家最早记录黑色火药配方。",
+        "title": "中国火药配方记载",
+        "description": "公元750年，唐的科技发展取得重要进展，中国火药早期配方推动了相关领域的技术进步。",
         "latitude": 34.0,
         "longitude": 110.0,
         "category": "科技",
@@ -1791,11 +1691,47 @@
         "continent": "亚洲"
       },
       {
+        "title": "李白诗歌创作",
+        "description": "公元750年，唐朝文化领域的重要事件——李白诗歌创作，成为这一时期的文化标志。",
+        "latitude": 30.57,
+        "longitude": 104.06,
+        "category": "文学",
+        "region": "唐朝",
+        "continent": "亚洲"
+      },
+      {
+        "title": "西非加纳帝国鼎盛",
+        "description": "公元750年，在加纳帝国，西非加纳帝国鼎盛。",
+        "latitude": 15.0,
+        "longitude": -8.0,
+        "category": "政治",
+        "region": "加纳帝国",
+        "continent": "非洲"
+      },
+      {
+        "title": "阿巴斯王朝取代倭马亚王朝",
+        "description": "公元750年，在阿拉伯帝国，阿巴斯王朝取代倭马亚王朝。",
+        "latitude": 33.5,
+        "longitude": 36.3,
+        "category": "政治",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
+      },
+      {
         "title": "阿拉比造纸术撒马尔罕",
-        "description": "造纸术传入伊斯兰。",
+        "description": "公元750年，阿拉伯帝国的科技发展取得重要进展，阿拉比造纸术撒马尔罕推动了相关领域的技术进步。",
         "latitude": 39.7,
         "longitude": 66.9,
         "category": "科技",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿拔斯王朝建立",
+        "description": "公元750年，阿拔斯王朝建立，标志着新的政治实体在阿拉伯帝国地区诞生。",
+        "latitude": 33.33,
+        "longitude": 44.42,
+        "category": "政治",
         "region": "阿拉伯帝国",
         "continent": "亚洲"
       }
@@ -1814,7 +1750,7 @@
     "events": [
       {
         "title": "怛罗斯之战",
-        "description": "唐安西节度使高仙芝率三万唐军与阿巴斯王朝十五万阿拉伯联军在怛罗斯（今哈萨克斯坦塔拉兹）激战五日后，葛逻禄部叛变导致唐军惨败。大量唐军士兵被俘。",
+        "description": "公元751年，唐爆发怛罗斯之战，战事在唐地区全面展开。",
         "latitude": 42.9,
         "longitude": 71.4,
         "category": "军事",
@@ -1822,21 +1758,21 @@
         "continent": "亚洲"
       },
       {
-        "title": "造纸术西传",
-        "description": "怛罗斯之战中被俘的唐军士兵中有造纸工匠，阿拉伯人在撒马尔罕建立了伊斯兰世界第一个造纸工坊。造纸术从此传入阿拉伯世界，进而传入欧洲。",
-        "latitude": 39.7,
-        "longitude": 66.9,
-        "category": "科技",
-        "region": "阿拉伯帝国",
-        "continent": "亚洲"
-      },
-      {
         "title": "怛罗斯战役",
-        "description": "唐阿在中亚大战。",
+        "description": "公元751年，唐爆发怛罗斯战役，战事在唐地区全面展开。",
         "latitude": 42.5,
         "longitude": 72.0,
         "category": "军事",
         "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "造纸术西传",
+        "description": "公元751年，阿拉伯帝国的科技发展取得重要进展，造纸术西传推动了相关领域的技术进步。",
+        "latitude": 39.7,
+        "longitude": 66.9,
+        "category": "科技",
+        "region": "阿拉伯帝国",
         "continent": "亚洲"
       }
     ]
@@ -1853,17 +1789,8 @@
     ],
     "events": [
       {
-        "title": "杨国忠拜相",
-        "description": "杨贵妃堂兄杨国忠在李林甫死后继任宰相。杨国忠专权跋扈，排斥异己，与安禄山矛盾激化。朝政更加腐败，唐朝统治危机日益加深。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
         "title": "南诏背唐附吐蕃",
-        "description": "南诏王阁罗凤因不堪唐朝边将张虔陀的欺压，起兵攻杀张虔陀。唐朝派鲜于仲通征讨南诏，大败。南诏转而投向吐蕃，吐蕃封阁罗凤为“赞普钟”。",
+        "description": "公元752年，南诏开展南诏背唐附吐蕃，体现了当时的国际关系格局。",
         "latitude": 25.6,
         "longitude": 100.2,
         "category": "外交",
@@ -1872,9 +1799,18 @@
       },
       {
         "title": "安禄山潜蓄谋反",
-        "description": "安禄山在范阳备战。",
+        "description": "公元752年，在唐，安禄山潜蓄谋反。",
         "latitude": 38.0,
         "longitude": 115.0,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "杨国忠拜相",
+        "description": "公元752年，在唐，杨国忠拜相。",
+        "latitude": 34.3,
+        "longitude": 108.9,
         "category": "政治",
         "region": "唐",
         "continent": "亚洲"
@@ -1885,7 +1821,7 @@
     "year": 753,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -1894,7 +1830,7 @@
     "events": [
       {
         "title": "李白游历",
-        "description": "李白漫游各地。",
+        "description": "公元753年，唐地区的文化艺术领域取得了重要成就，李白游历成为这一时期的文化代表。",
         "latitude": 34.0,
         "longitude": 117.0,
         "category": "文化",
@@ -1915,21 +1851,21 @@
     ],
     "events": [
       {
-        "title": "鉴真东渡日本成功",
-        "description": "唐代高僧鉴真在六次东渡、历尽磨难后终于抵达日本，此时他已双目失明。鉴真在日本传播佛教戒律，并带去中医药、建筑、雕塑等唐文化，影响深远。",
-        "latitude": 34.7,
-        "longitude": 135.8,
-        "category": "文化",
-        "region": "日本",
-        "continent": "亚洲"
-      },
-      {
         "title": "唐与南诏再战",
-        "description": "唐朝派李宓率十万大军征讨南诏，南诏王阁罗凤据守太和城。唐军深入南诏腹地，士病粮尽，遭南诏、吐蕃联军反击，全军覆没，李宓沉江而死。",
+        "description": "公元754年，在唐，唐与南诏再战。",
         "latitude": 25.6,
         "longitude": 100.2,
         "category": "军事",
         "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "鉴真东渡日本成功",
+        "description": "公元754年，日本地区的文化艺术领域取得了重要成就，鉴真东渡日本成功成为这一时期的文化代表。",
+        "latitude": 34.7,
+        "longitude": 135.8,
+        "category": "文化",
+        "region": "日本",
         "continent": "亚洲"
       }
     ]
@@ -1946,17 +1882,17 @@
     ],
     "events": [
       {
-        "title": "安史之乱爆发",
-        "description": "身兼范阳、平卢、河东三镇节度使的安禄山以“讨伐杨国忠”为名，在范阳（今北京）起兵反唐，率十五万大军南下。唐朝承平日久，军备废弛，叛军势如破竹。",
-        "latitude": 39.9,
-        "longitude": 116.4,
+        "title": "安史之乱",
+        "description": "唐玄宗天宝年间玄宗宠幸杨贵妃不理朝政宰相杨国忠专权朝政腐败。同时节度使制度导致外重内轻——边镇兵力近五十万而中央兵力仅十二万。身兼范阳平卢河东三镇节度使的安禄山在范阳（今北京）以讨伐杨国忠为名起兵叛唐率十五万精锐南下。由于内地承平日久武备松弛叛军势如破竹仅三十三天就攻陷了东都洛阳安禄山在洛阳称大燕皇帝。天宝十五载叛军攻破潼关直逼长安玄宗仓皇出逃四川途经马嵬坡时禁军将士哗变杀了杨国忠又逼玄宗缢死了杨贵妃。太子李亨在灵武即位是为唐肃宗。唐军在郭子仪李光弼等将领的奋战下借助回纥骑兵经过七年的艰苦作战终于在763年平定了叛乱。安史之乱使唐朝由盛转衰人口从五千三百万锐减至一千七百万藩镇割据吐蕃侵占河西西域从此大唐盛世一去不返。",
+        "latitude": 38.62,
+        "longitude": 112.58,
         "category": "军事",
-        "region": "唐",
+        "region": "唐朝",
         "continent": "亚洲"
       },
       {
         "title": "洛阳陷落",
-        "description": "安禄山叛军攻占东都洛阳。唐将封常清、高仙芝退守潼关，因宦官边令诚诬告，被唐玄宗下令处斩。唐朝失去两位善战名将，军心大乱。",
+        "description": "公元755年，在唐，洛阳陷落。",
         "latitude": 34.7,
         "longitude": 112.5,
         "category": "军事",
@@ -1978,7 +1914,7 @@
     "events": [
       {
         "title": "安禄山称帝，国号大燕",
-        "description": "安禄山在洛阳称帝，国号大燕。叛军继续西进，哥舒翰被逼出战，在灵宝中伏大败，潼关失守。长安告急，局势急转直下。",
+        "description": "公元756年，安禄山称帝，国号大燕，开启了新的统治时期。",
         "latitude": 34.7,
         "longitude": 112.5,
         "category": "政治",
@@ -1986,19 +1922,19 @@
         "continent": "亚洲"
       },
       {
-        "title": "马嵬坡之变，杨贵妃殒命",
-        "description": "唐玄宗仓皇逃往蜀中，行至马嵬坡（今陕西兴平），禁军兵变，杀杨国忠。士兵要求处死杨贵妃以谢天下，玄宗被迫赐杨贵妃自缢。一代美人香消玉殒。",
-        "latitude": 34.3,
-        "longitude": 108.5,
+        "title": "灵武即位，肃宗登基",
+        "description": "公元756年，灵武即位，肃宗登基，开启了新的统治时期。",
+        "latitude": 38.1,
+        "longitude": 106.3,
         "category": "政治",
         "region": "唐",
         "continent": "亚洲"
       },
       {
-        "title": "灵武即位，肃宗登基",
-        "description": "太子李亨在灵武（今宁夏灵武）自行登基，是为唐肃宗，遥尊玄宗为太上皇。肃宗以郭子仪为朔方节度使，李光弼为河东节度使，开始组织平叛。",
-        "latitude": 38.1,
-        "longitude": 106.3,
+        "title": "马嵬坡之变，杨贵妃殒命",
+        "description": "公元756年，在唐，马嵬坡之变，杨贵妃殒命。",
+        "latitude": 34.3,
+        "longitude": 108.5,
         "category": "政治",
         "region": "唐",
         "continent": "亚洲"
@@ -2017,17 +1953,8 @@
     ],
     "events": [
       {
-        "title": "安禄山被杀，安庆绪继位",
-        "description": "安禄山被其子安庆绪和宦官李猪儿合谋杀死。安庆绪继位称帝，但叛军内部开始分裂，史思明等将领拥兵自重，不听号令。",
-        "latitude": 34.7,
-        "longitude": 112.5,
-        "category": "政治",
-        "region": "大燕",
-        "continent": "亚洲"
-      },
-      {
         "title": "唐军收复长安",
-        "description": "郭子仪率唐军与回纥联军十五万人在香积寺大败叛军，收复长安。唐肃宗在回纥帮助下光复京师，随后唐军继续东进收复洛阳。",
+        "description": "公元757年，在唐，唐军收复长安。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "军事",
@@ -2036,11 +1963,20 @@
       },
       {
         "title": "唐肃宗灵武即位",
-        "description": "李亨即位于灵武。",
+        "description": "公元757年，唐肃宗灵武即位，开启了新的统治时期。",
         "latitude": 38.0,
         "longitude": 106.0,
         "category": "政治",
         "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "安禄山被杀，安庆绪继位",
+        "description": "公元757年，安禄山被杀，安庆绪继位，开启了新的统治时期。",
+        "latitude": 34.7,
+        "longitude": 112.5,
+        "category": "政治",
+        "region": "大燕",
         "continent": "亚洲"
       }
     ]
@@ -2058,7 +1994,7 @@
     "events": [
       {
         "title": "九节度使围邺城",
-        "description": "唐肃宗派郭子仪、李光弼等九位节度使率六十万大军围攻安庆绪据守的邺城（今河南安阳）。但肃宗不设元帅，诸军各自为战，久攻不下。",
+        "description": "公元758年，在唐，九节度使围邺城。",
         "latitude": 36.1,
         "longitude": 114.4,
         "category": "军事",
@@ -2067,7 +2003,7 @@
       },
       {
         "title": "郭子仪收复长安",
-        "description": "唐军收复西京。",
+        "description": "公元758年，在唐，郭子仪收复长安。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "军事",
@@ -2089,7 +2025,7 @@
     "events": [
       {
         "title": "史思明叛乱扩大",
-        "description": "史思明在邺城大败唐军六十万，杀安庆绪并吞其部众。史思明在范阳称帝，国号大燕。叛军势力复振，战局再次逆转。",
+        "description": "公元759年，在大燕，史思明叛乱扩大。",
         "latitude": 36.1,
         "longitude": 114.4,
         "category": "军事",
@@ -2102,7 +2038,7 @@
     "year": 760,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -2110,17 +2046,8 @@
     ],
     "events": [
       {
-        "title": "杜甫创作诗史",
-        "description": "杜甫在安史之乱中创作大量诗篇。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "文化",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
         "title": "拉什特拉库塔帝国崛起",
-        "description": "拉什特拉库塔帝国在德干高原建立，与帕拉和波罗提诃罗争霸。",
+        "description": "公元760年，在拉什特拉库塔，拉什特拉库塔帝国崛起。",
         "latitude": 18.0,
         "longitude": 76.0,
         "category": "政治",
@@ -2128,8 +2055,26 @@
         "continent": "亚洲"
       },
       {
+        "title": "李白去世",
+        "description": "公元760年，李白去世，一个重要的历史人物离开了历史舞台。",
+        "latitude": 31.6,
+        "longitude": 118.5,
+        "category": "文学",
+        "region": "唐朝",
+        "continent": "亚洲"
+      },
+      {
+        "title": "杜甫创作诗史",
+        "description": "公元760年，唐地区的文化艺术领域取得了重要成就，杜甫创作诗史成为这一时期的文化代表。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "文化",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
         "title": "杜甫诗史",
-        "description": "杜甫创作高峰。",
+        "description": "公元760年，唐地区的文化艺术领域取得了重要成就，杜甫诗史成为这一时期的文化代表。",
         "latitude": 34.0,
         "longitude": 117.0,
         "category": "文化",
@@ -2151,7 +2096,7 @@
     "events": [
       {
         "title": "史思明被其子所杀",
-        "description": "史思明被其子史朝义所杀。史朝义继位称帝。叛军内讧更加剧了分裂，诸将多不听调遣。唐军趁势反攻，叛军节节败退。",
+        "description": "公元761年，在大燕，史思明被其子所杀。",
         "latitude": 34.7,
         "longitude": 112.5,
         "category": "政治",
@@ -2160,7 +2105,7 @@
       },
       {
         "title": "史朝义败亡",
-        "description": "史朝义自杀。",
+        "description": "公元761年，在唐，史朝义败亡。",
         "latitude": 38.0,
         "longitude": 115.0,
         "category": "军事",
@@ -2182,28 +2127,10 @@
     "events": [
       {
         "title": "唐代宗即位",
-        "description": "唐肃宗李亨病逝，宦官李辅国、程元振拥立太子李豫即位，是为唐代宗。代宗继位后，继续全力平叛，借兵回纥助剿史朝义。",
+        "description": "公元762年，唐代宗即位，开启了新的统治时期。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
-        "title": "李白去世",
-        "description": "唐代伟大诗人李白在当涂（今安徽马鞍山）病逝，享年六十一岁。李白一生创作诗歌近千首，以浪漫主义风格开创唐诗新境界，被誉为“诗仙”。",
-        "latitude": 31.6,
-        "longitude": 118.5,
-        "category": "文化",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
-        "title": "安史之乱结束",
-        "description": "历时八年平定。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "军事",
         "region": "唐",
         "continent": "亚洲"
       }
@@ -2221,30 +2148,30 @@
     ],
     "events": [
       {
-        "title": "安史之乱平定",
-        "description": "史朝义兵败自杀于温泉栅（今河北滦县），历时八年的安史之乱终告平定。唐朝虽保住了政权，但国力大损，藩镇割据局面形成，盛世一去不返。",
-        "latitude": 39.5,
-        "longitude": 118.0,
-        "category": "军事",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
-        "title": "吐蕃攻陷长安",
-        "description": "唐代宗借兵回纥平叛造成关中空虚，吐蕃军乘机攻入长安。代宗仓皇逃往陕州。郭子仪以疑兵之计收复长安，吐蕃占据长安仅十五日即退。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "军事",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
         "title": "吐蕃占长安",
-        "description": "吐蕃短暂占长安。",
+        "description": "公元763年，在吐蕃，吐蕃占长安。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "军事",
         "region": "吐蕃",
+        "continent": "亚洲"
+      },
+      {
+        "title": "吐蕃攻陷长安",
+        "description": "公元763年，在唐，吐蕃攻陷长安。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "安史之乱平定",
+        "description": "公元763年，在唐，安史之乱平定。",
+        "latitude": 39.5,
+        "longitude": 118.0,
+        "category": "军事",
+        "region": "唐",
         "continent": "亚洲"
       }
     ]
@@ -2262,7 +2189,7 @@
     "events": [
       {
         "title": "仆固怀恩叛唐",
-        "description": "河北副元帅仆固怀恩因被宦官诬告，举兵反唐。唐代宗派郭子仪率军讨伐。仆固怀恩败逃吐蕃，引吐蕃、回纥联军入侵唐朝边境。",
+        "description": "公元764年，在唐，仆固怀恩叛唐。",
         "latitude": 38.0,
         "longitude": 114.5,
         "category": "军事",
@@ -2271,7 +2198,7 @@
       },
       {
         "title": "唐回纥和亲",
-        "description": "唐借回纥兵。",
+        "description": "公元764年，唐开展唐回纥和亲，体现了当时的国际关系格局。",
         "latitude": 47.0,
         "longitude": 102.0,
         "category": "外交",
@@ -2293,7 +2220,7 @@
     "events": [
       {
         "title": "郭子仪单骑说回纥",
-        "description": "仆固怀恩引吐蕃、回纥联军三十万入侵。郭子仪亲率数十骑前往回纥军营，凭昔日恩义说服回纥与唐结盟。回纥反戈一击，大破吐蕃军。",
+        "description": "公元765年，唐开展郭子仪单骑说回纥，体现了当时的国际关系格局。",
         "latitude": 34.5,
         "longitude": 108.9,
         "category": "外交",
@@ -2314,20 +2241,20 @@
     ],
     "events": [
       {
-        "title": "杜甫病逝",
-        "description": "唐代伟大诗人杜甫在湘江舟中病逝，享年五十八岁。杜甫一生忧国忧民，创作《春望》《三吏》《三别》等不朽诗篇，被誉为“诗圣”。",
-        "latitude": 28.2,
-        "longitude": 113.0,
-        "category": "文化",
+        "title": "唐削藩镇不着",
+        "description": "公元767年，在唐，唐削藩镇不着。",
+        "latitude": 37.0,
+        "longitude": 115.0,
+        "category": "政治",
         "region": "唐",
         "continent": "亚洲"
       },
       {
-        "title": "唐削藩镇不着",
-        "description": "朝廷与藩镇博弈。",
-        "latitude": 37.0,
-        "longitude": 115.0,
-        "category": "政治",
+        "title": "杜甫病逝",
+        "description": "公元767年，杜甫病逝，一个重要的历史人物离开了历史舞台。",
+        "latitude": 28.2,
+        "longitude": 113.0,
+        "category": "文化",
         "region": "唐",
         "continent": "亚洲"
       }
@@ -2343,7 +2270,7 @@
         "era": "大历三年"
       },
       {
-        "dynastyId": "falancke",
+        "dynastyId": "tang",
         "name": "法兰克王国",
         "ruler": "查理曼大帝",
         "era": ""
@@ -2352,7 +2279,7 @@
     "events": [
       {
         "title": "查理曼成为法兰克国王",
-        "description": "法兰克国王丕平三世去世，其子查理曼与其弟卡洛曼共同继承王位。771年卡洛曼去世后，查理曼成为法兰克王国唯一的国王，开启帝国时代。",
+        "description": "公元768年，在法兰克王国，查理曼成为法兰克国王。",
         "latitude": 49.8,
         "longitude": 6.1,
         "category": "政治",
@@ -2361,7 +2288,7 @@
       },
       {
         "title": "查理曼登基",
-        "description": "加洛林王朝查理曼。",
+        "description": "公元768年，查理曼登基，开启了新的统治时期。",
         "latitude": 49.0,
         "longitude": 5.0,
         "category": "政治",
@@ -2374,7 +2301,7 @@
     "year": 769,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -2383,7 +2310,7 @@
     "events": [
       {
         "title": "查理曼王国扩大",
-        "description": "查理曼统一法兰克。",
+        "description": "公元769年，在法兰克王国，查理曼王国扩大。",
         "latitude": 49.0,
         "longitude": 5.0,
         "category": "军事",
@@ -2404,8 +2331,17 @@
     ],
     "events": [
       {
+        "title": "杜甫去世",
+        "description": "公元770年，杜甫去世，一个重要的历史人物离开了历史舞台。",
+        "latitude": 28.5,
+        "longitude": 112.5,
+        "category": "文学",
+        "region": "唐朝",
+        "continent": "亚洲"
+      },
+      {
         "title": "藩镇割据格局形成",
-        "description": "唐朝承认河北诸镇节度使世袭权力，成德李宝臣、魏博田承嗣、卢龙李怀仙等“河朔三镇”实际上独立于中央。藩镇割据局面正式形成。",
+        "description": "公元770年，在唐，藩镇割据格局形成。",
         "latitude": 38.9,
         "longitude": 115.0,
         "category": "政治",
@@ -2414,7 +2350,7 @@
       },
       {
         "title": "阿拉伯数字传入欧洲",
-        "description": "阿拉伯数字通过西班牙传入欧洲。",
+        "description": "公元770年，阿拉伯帝国的科技发展取得重要进展，阿拉伯数字传入欧洲推动了相关领域的技术进步。",
         "latitude": 40.4,
         "longitude": -3.7,
         "category": "科技",
@@ -2423,7 +2359,7 @@
       },
       {
         "title": "阿拉伯翻译运动",
-        "description": "阿拉伯百年翻译。",
+        "description": "公元770年，阿拉伯帝国地区的文化艺术领域取得了重要成就，阿拉伯翻译运动成为这一时期的文化代表。",
         "latitude": 33.3,
         "longitude": 44.4,
         "category": "文化",
@@ -2436,7 +2372,7 @@
     "year": 771,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -2444,20 +2380,20 @@
     ],
     "events": [
       {
-        "title": "查理曼统一法兰克",
-        "description": "卡洛曼去世，查理曼成为法兰克王国唯一国王。",
-        "latitude": 47.5,
-        "longitude": 2.0,
-        "category": "政治",
+        "title": "查理曼征服",
+        "description": "公元771年，在法兰克王国，查理曼征服。",
+        "latitude": 45.5,
+        "longitude": 9.2,
+        "category": "军事",
         "region": "法兰克王国",
         "continent": "欧洲"
       },
       {
-        "title": "查理曼征服",
-        "description": "查理曼南征。",
-        "latitude": 45.5,
-        "longitude": 9.2,
-        "category": "军事",
+        "title": "查理曼统一法兰克",
+        "description": "公元771年，在法兰克王国，查理曼统一法兰克。",
+        "latitude": 47.5,
+        "longitude": 2.0,
+        "category": "政治",
         "region": "法兰克王国",
         "continent": "欧洲"
       }
@@ -2476,7 +2412,7 @@
     "events": [
       {
         "title": "白居易出生",
-        "description": "唐代伟大诗人白居易出生于郑州新郑（今河南新郑）。白居易倡导新乐府运动，“文章合为时而著，歌诗合为事而作”，成为唐代最著名诗人之一。",
+        "description": "公元772年，唐地区的文化艺术领域取得了重要成就，白居易出生成为这一时期的文化代表。",
         "latitude": 34.4,
         "longitude": 113.7,
         "category": "文化",
@@ -2485,7 +2421,7 @@
       },
       {
         "title": "萨克森战争",
-        "description": "查理曼攻萨克森。",
+        "description": "公元772年，法兰克王国爆发萨克森战争，战事在法兰克王国地区全面展开。",
         "latitude": 52.0,
         "longitude": 9.0,
         "category": "军事",
@@ -2507,7 +2443,7 @@
     "events": [
       {
         "title": "查理曼征服伦巴第",
-        "description": "查理曼应教皇哈德良一世请求，率军翻越阿尔卑斯山入侵意大利，击败伦巴第王国。查理曼兼任伦巴第国王，将意大利北部纳入法兰克版图。",
+        "description": "公元773年，在法兰克王国，查理曼征服伦巴第。",
         "latitude": 45.5,
         "longitude": 9.2,
         "category": "军事",
@@ -2520,7 +2456,7 @@
     "year": 774,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -2529,7 +2465,7 @@
     "events": [
       {
         "title": "查理曼征服伦巴第王国",
-        "description": "查理曼攻占意大利北部，征服伦巴第王国，吞并其领土。",
+        "description": "公元774年，在法兰克王国，查理曼征服伦巴第王国。",
         "latitude": 45.5,
         "longitude": 9.2,
         "category": "军事",
@@ -2548,7 +2484,7 @@
         "era": "大历十年"
       },
       {
-        "dynastyId": "abbas",
+        "dynastyId": "tang",
         "name": "阿巴斯王朝",
         "ruler": "哈里发曼苏尔",
         "era": ""
@@ -2556,17 +2492,8 @@
     ],
     "events": [
       {
-        "title": "巴格达建成",
-        "description": "阿巴斯王朝哈里发曼苏尔在底格里斯河畔建成新都巴格达，名为“和平之城”。巴格达迅速成为当时世界上最大的城市之一和伊斯兰世界的文化与商业中心。",
-        "latitude": 33.3,
-        "longitude": 44.4,
-        "category": "社会",
-        "region": "阿拉伯帝国",
-        "continent": "亚洲"
-      },
-      {
         "title": "室利佛逝帝国鼎盛",
-        "description": "室利佛逝控制马六甲海峡和马来半岛。",
+        "description": "公元775年，在室利佛逝，室利佛逝帝国鼎盛。",
         "latitude": -2.8,
         "longitude": 104.0,
         "category": "政治",
@@ -2574,8 +2501,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "巴格达建成",
+        "description": "公元775年，阿拉伯帝国社会领域出现巴格达建成，反映了社会的发展变化。",
+        "latitude": 33.3,
+        "longitude": 44.4,
+        "category": "社会",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
+      },
+      {
         "title": "萨克森人反抗",
-        "description": "查理曼镇压萨克森。",
+        "description": "公元775年，在法兰克王国，萨克森人反抗。",
         "latitude": 52.0,
         "longitude": 9.0,
         "category": "军事",
@@ -2588,7 +2524,7 @@
     "year": 776,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -2597,7 +2533,7 @@
     "events": [
       {
         "title": "查理曼罗马庆典",
-        "description": "查理曼入罗马。",
+        "description": "公元776年，在法兰克王国，查理曼罗马庆典。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -2610,7 +2546,7 @@
     "year": 777,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -2619,7 +2555,7 @@
     "events": [
       {
         "title": "查理曼西班牙远征",
-        "description": "查理曼入西班牙。",
+        "description": "公元777年，在法兰克王国，查理曼西班牙远征。",
         "latitude": 42.8,
         "longitude": -1.3,
         "category": "军事",
@@ -2632,7 +2568,7 @@
     "year": 778,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -2641,7 +2577,7 @@
     "events": [
       {
         "title": "查理曼远征西班牙",
-        "description": "查理曼率军翻越比利牛斯山远征西班牙，回师时后卫在龙塞斯瓦耶斯隘口遭巴斯克人袭击。",
+        "description": "公元778年，在法兰克王国，查理曼远征西班牙。",
         "latitude": 42.8,
         "longitude": -1.3,
         "category": "军事",
@@ -2650,7 +2586,7 @@
       },
       {
         "title": "龙塞斯瓦耶斯隘口",
-        "description": "查理曼后卫遇袭。",
+        "description": "公元778年，在法兰克王国，龙塞斯瓦耶斯隘口。",
         "latitude": 42.8,
         "longitude": -1.3,
         "category": "军事",
@@ -2672,7 +2608,7 @@
     "events": [
       {
         "title": "唐德宗即位",
-        "description": "唐代宗李豫病逝，太子李适即位，是为唐德宗。德宗试图削弱藩镇势力，加强中央集权。初期任用杨炎推行两税法改革，财政状况一度好转。",
+        "description": "公元779年，唐德宗即位，开启了新的统治时期。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -2681,7 +2617,7 @@
       },
       {
         "title": "萨克森再叛",
-        "description": "萨克森反复。",
+        "description": "公元779年，在法兰克王国，萨克森再叛。",
         "latitude": 52.0,
         "longitude": 9.0,
         "category": "军事",
@@ -2703,7 +2639,7 @@
     "events": [
       {
         "title": "两税法实施",
-        "description": "宰相杨炎推动两税法改革，废除租庸调制，改为按资产征税，分夏秋两次征收。两税法简化税制，增加财政收入，是中国古代赋税制度的重要变革。",
+        "description": "公元780年，唐经济领域发生两税法实施，对当时的经济生活产生了直接影响。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "经济",
@@ -2712,7 +2648,7 @@
       },
       {
         "title": "唐朝两税法改革",
-        "description": "唐朝废除租庸调制改行两税法。",
+        "description": "公元780年，唐推行唐朝两税法改革，对当地政治经济制度产生了深远影响。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "经济",
@@ -2721,7 +2657,7 @@
       },
       {
         "title": "查理曼宗教立法",
-        "description": "查理曼加强教会管理。",
+        "description": "公元780年，法兰克王国地区的宗教领域发生重要事件——查理曼宗教立法，对信众的精神生活产生了深刻影响。",
         "latitude": 49.0,
         "longitude": 5.0,
         "category": "宗教",
@@ -2743,7 +2679,7 @@
     "events": [
       {
         "title": "《大秦景教流行中国碑》立",
-        "description": "景教僧伊斯在长安立《大秦景教流行中国碑》，碑文记载景教自635年传入中国后近一百五十年的传播历史。此碑是基督教入华史最重要的实物史料。",
+        "description": "公元781年，唐地区的宗教领域发生重要事件——《大秦景教流行中国碑》立，对信众的精神生活产生了深刻影响。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "宗教",
@@ -2752,7 +2688,7 @@
       },
       {
         "title": "唐藩镇割据体制化",
-        "description": "河朔三镇割据。",
+        "description": "公元781年，在唐，唐藩镇割据体制化。",
         "latitude": 39.0,
         "longitude": 116.0,
         "category": "政治",
@@ -2773,31 +2709,22 @@
     ],
     "events": [
       {
+        "title": "查理曼萨克森血洗",
+        "description": "公元782年，在法兰克王国，查理曼萨克森血洗。",
+        "latitude": 52.0,
+        "longitude": 9.0,
+        "category": "军事",
+        "region": "法兰克王国",
+        "continent": "欧洲"
+      },
+      {
         "title": "泾原兵变，德宗出逃",
-        "description": "唐德宗征讨河北藩镇，泾原节度使姚令言率兵经长安时因赏赐不足哗变。叛军拥立朱泚为帝，德宗逃往奉天（今陕西乾县）。朝廷权威大损。",
+        "description": "公元782年，在唐，泾原兵变，德宗出逃。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "军事",
         "region": "唐",
         "continent": "亚洲"
-      },
-      {
-        "title": "萨克森战争",
-        "description": "查理曼对萨克森地区发动最后征服战役。",
-        "latitude": 52.0,
-        "longitude": 9.0,
-        "category": "军事",
-        "region": "法兰克王国",
-        "continent": "欧洲"
-      },
-      {
-        "title": "查理曼萨克森血洗",
-        "description": "大规模处决萨克森人。",
-        "latitude": 52.0,
-        "longitude": 9.0,
-        "category": "军事",
-        "region": "法兰克王国",
-        "continent": "欧洲"
       }
     ]
   },
@@ -2814,7 +2741,7 @@
     "events": [
       {
         "title": "朱泚称帝，奉天被围",
-        "description": "朱泚在长安称帝，国号秦。朱泚率军围攻德宗所在的奉天城。浑瑊率军死守，城中粮尽援绝。德宗向魏博、成德等藩镇求救，许以赦免。",
+        "description": "公元783年，朱泚称帝，奉天被围，开启了新的统治时期。",
         "latitude": 34.5,
         "longitude": 108.2,
         "category": "军事",
@@ -2835,8 +2762,8 @@
     ],
     "events": [
       {
-        "title": "李晟收复长安",
-        "description": "唐将李晟率军击败朱泚，收复长安。朱泚逃往吐蕃途中被部下所杀。唐德宗返回长安后，对藩镇采取姑息政策，承认其既得利益。",
+        "title": "唐泾原兵变",
+        "description": "公元784年，在唐，唐泾原兵变。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "军事",
@@ -2844,8 +2771,8 @@
         "continent": "亚洲"
       },
       {
-        "title": "唐泾原兵变",
-        "description": "长安军乱。",
+        "title": "李晟收复长安",
+        "description": "公元784年，在唐，李晟收复长安。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "军事",
@@ -2867,7 +2794,7 @@
     "events": [
       {
         "title": "唐朝与吐蕃会盟",
-        "description": "唐德宗派使臣与吐蕃在清水（今甘肃清水）会盟，重新划定唐蕃边界。但吐蕃并无诚意，不久即再次侵扰唐朝边境。",
+        "description": "公元785年，唐开展唐朝与吐蕃会盟，体现了当时的国际关系格局。",
         "latitude": 34.7,
         "longitude": 106.1,
         "category": "外交",
@@ -2888,21 +2815,21 @@
     ],
     "events": [
       {
-        "title": "李抱真对抗藩镇",
-        "description": "唐将李抱真在河北与叛乱的藩镇军展开拉锯战。李抱真善用兵法，与王武俊等周旋。朝廷已无力彻底消灭割据势力，只能维持表面统一。",
-        "latitude": 38.0,
-        "longitude": 114.5,
-        "category": "军事",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
         "title": "日本桓武天皇迁长冈京",
-        "description": "桓武天皇迁都。",
+        "description": "公元786年，在日本，日本桓武天皇迁长冈京。",
         "latitude": 35.0,
         "longitude": 135.7,
         "category": "政治",
         "region": "日本",
+        "continent": "亚洲"
+      },
+      {
+        "title": "李抱真对抗藩镇",
+        "description": "公元786年，在唐，李抱真对抗藩镇。",
+        "latitude": 38.0,
+        "longitude": 114.5,
+        "category": "军事",
+        "region": "唐",
         "continent": "亚洲"
       }
     ]
@@ -2920,7 +2847,7 @@
     "events": [
       {
         "title": "平凉劫盟",
-        "description": "唐蕃在平凉再次会盟，吐蕃大相尚结赞设伏袭击唐使团。唐将浑瑊夺马逃回，副使崔汉衡被俘。吐蕃背盟之举使唐蕃关系再度恶化。",
+        "description": "公元787年，唐开展平凉劫盟，体现了当时的国际关系格局。",
         "latitude": 35.3,
         "longitude": 107.3,
         "category": "外交",
@@ -2929,7 +2856,7 @@
       },
       {
         "title": "第二次尼西亚会议",
-        "description": "恢复圣像崇拜。",
+        "description": "公元787年，拜占庭帝国地区的宗教领域发生重要事件——第二次尼西亚会议，对信众的精神生活产生了深刻影响。",
         "latitude": 40.7,
         "longitude": 22.5,
         "category": "宗教",
@@ -2950,21 +2877,21 @@
     ],
     "events": [
       {
-        "title": "阿拉伯－拜占庭战争持续",
-        "description": "阿巴斯王朝军队在叙利亚边境与拜占庭帝国交战。阿拉伯军队多次入侵小亚细亚，拜占庭皇帝君士坦丁六世率军抵御，双方在边境反复拉锯。",
-        "latitude": 37.0,
-        "longitude": 36.0,
-        "category": "军事",
-        "region": "阿拉伯帝国",
-        "continent": "亚洲"
-      },
-      {
         "title": "唐韦皋治蜀",
-        "description": "韦皋节度四川。",
+        "description": "公元788年，在唐，唐韦皋治蜀。",
         "latitude": 30.6,
         "longitude": 104.0,
         "category": "政治",
         "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯－拜占庭战争持续",
+        "description": "公元788年，阿拉伯帝国爆发阿拉伯－拜占庭战争持续，战事在阿拉伯帝国地区全面展开。",
+        "latitude": 37.0,
+        "longitude": 36.0,
+        "category": "军事",
+        "region": "阿拉伯帝国",
         "continent": "亚洲"
       }
     ]
@@ -2982,7 +2909,7 @@
     "events": [
       {
         "title": "南诏请盟归唐",
-        "description": "南诏王异牟寻在吐蕃压迫下决心归唐。西川节度使韦皋派使臣与南诏联络。南诏在点苍山与唐使会盟，决定重新臣服唐朝，共同对抗吐蕃。",
+        "description": "公元789年，南诏开展南诏请盟归唐，体现了当时的国际关系格局。",
         "latitude": 25.6,
         "longitude": 100.2,
         "category": "外交",
@@ -2991,7 +2918,7 @@
       },
       {
         "title": "查理曼行政改革",
-        "description": "帝国分郡。",
+        "description": "公元789年，法兰克王国推行查理曼行政改革，对当地政治经济制度产生了深远影响。",
         "latitude": 49.0,
         "longitude": 5.0,
         "category": "政治",
@@ -3004,7 +2931,7 @@
     "year": 790,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -3013,7 +2940,7 @@
     "events": [
       {
         "title": "维京人发现冰岛",
-        "description": "北欧维京人在北大西洋发现冰岛。",
+        "description": "公元790年，维京人的科技发展取得重要进展，维京人发现冰岛推动了相关领域的技术进步。",
         "latitude": 64.0,
         "longitude": -19.0,
         "category": "科技",
@@ -3022,7 +2949,7 @@
       },
       {
         "title": "维京人扰欧洲各沿海",
-        "description": "维京时代高峰。",
+        "description": "公元790年，在维京人，维京人扰欧洲各沿海。",
         "latitude": 55.0,
         "longitude": 10.0,
         "category": "军事",
@@ -3043,22 +2970,22 @@
     ],
     "events": [
       {
-        "title": "韦皋联合南诏抗吐蕃",
-        "description": "西川节度使韦皋与南诏联手，在剑南西川多次击败吐蕃军。南诏与吐蕃的决裂严重削弱了吐蕃的南线力量，唐朝西南边防得以巩固。",
-        "latitude": 30.6,
-        "longitude": 104.0,
-        "category": "军事",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
         "title": "查理曼边境建设",
-        "description": "查理曼建边镇。",
+        "description": "公元791年，在法兰克王国，查理曼边境建设。",
         "latitude": 50.0,
         "longitude": 7.0,
         "category": "军事",
         "region": "法兰克王国",
         "continent": "欧洲"
+      },
+      {
+        "title": "韦皋联合南诏抗吐蕃",
+        "description": "公元791年，在唐，韦皋联合南诏抗吐蕃。",
+        "latitude": 30.6,
+        "longitude": 104.0,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
       }
     ]
   },
@@ -3066,7 +2993,7 @@
     "year": 792,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -3075,7 +3002,7 @@
     "events": [
       {
         "title": "唐朝实行两税法",
-        "description": "废除租庸调。",
+        "description": "公元792年，唐经济领域发生唐朝实行两税法，对当时的经济生活产生了直接影响。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "经济",
@@ -3097,7 +3024,7 @@
     "events": [
       {
         "title": "维京人袭击林迪斯法恩",
-        "description": "北欧维京海盗袭击英格兰林迪斯法恩修道院，屠杀僧侣，掠夺财宝。这是维京时代开始的标志性事件，此后维京人近三百年的劫掠和扩张席卷欧洲。",
+        "description": "公元793年，在英格兰，维京人袭击林迪斯法恩。",
         "latitude": 55.6,
         "longitude": -1.8,
         "category": "军事",
@@ -3116,7 +3043,7 @@
         "era": "贞元十年"
       },
       {
-        "dynastyId": "japan",
+        "dynastyId": "tang",
         "name": "日本（平安时代）",
         "ruler": "桓武天皇",
         "era": "延历十三年"
@@ -3125,7 +3052,7 @@
     "events": [
       {
         "title": "日本迁都平安京，平安时代开始",
-        "description": "日本桓武天皇将都城从长冈京迁至平安京（今京都）。此后近四百年平安时代开启，日本文化走向成熟，假名文字、和歌、物语文学等蓬勃发展。",
+        "description": "公元794年，在日本，日本迁都平安京，平安时代开始。",
         "latitude": 35.0,
         "longitude": 135.8,
         "category": "政治",
@@ -3146,22 +3073,22 @@
     ],
     "events": [
       {
-        "title": "韦皋与大秦景教",
-        "description": "西川节度使韦皋在成都扩建大秦寺，表明景教在西南地区仍有传播。丝绸之路沿线宗教文化交流活跃，佛教、景教、祆教、摩尼教并存。",
-        "latitude": 30.6,
-        "longitude": 104.0,
-        "category": "宗教",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
         "title": "查理曼对阿瓦尔战争",
-        "description": "查理曼平阿瓦尔。",
+        "description": "公元795年，法兰克王国爆发查理曼对阿瓦尔战争，战事在法兰克王国地区全面展开。",
         "latitude": 47.5,
         "longitude": 19.0,
         "category": "军事",
         "region": "法兰克王国",
         "continent": "欧洲"
+      },
+      {
+        "title": "韦皋与大秦景教",
+        "description": "公元795年，唐地区的宗教领域发生重要事件——韦皋与大秦景教，对信众的精神生活产生了深刻影响。",
+        "latitude": 30.6,
+        "longitude": 104.0,
+        "category": "宗教",
+        "region": "唐",
+        "continent": "亚洲"
       }
     ]
   },
@@ -3178,7 +3105,7 @@
     "events": [
       {
         "title": "查理曼击败阿瓦尔人",
-        "description": "查理曼对中欧阿瓦尔汗国发动大规模军事行动。法兰克军队摧毁了阿瓦尔人的环形堡垒，夺取大量财富。阿瓦尔势力瓦解，法兰克帝国东扩至多瑙河流域。",
+        "description": "公元796年，在法兰克王国，查理曼击败阿瓦尔人。",
         "latitude": 47.5,
         "longitude": 19.0,
         "category": "军事",
@@ -3187,7 +3114,7 @@
       },
       {
         "title": "阿瓦尔汗国灭",
-        "description": "查理曼灭阿瓦尔。",
+        "description": "公元796年，在法兰克王国，阿瓦尔汗国灭。",
         "latitude": 47.5,
         "longitude": 19.0,
         "category": "军事",
@@ -3206,7 +3133,7 @@
         "era": "贞元十三年"
       },
       {
-        "dynastyId": "byzantium",
+        "dynastyId": "tang",
         "name": "拜占庭帝国",
         "ruler": "伊琳娜女皇",
         "era": ""
@@ -3215,7 +3142,7 @@
     "events": [
       {
         "title": "伊琳娜女皇成为拜占庭统治者",
-        "description": "拜占庭帝国伊琳娜女皇废黜其子君士坦丁六世并刺瞎其双目，自立为女皇。她是拜占庭帝国历史上第一位独自掌握最高权力的女性统治者。",
+        "description": "公元797年，在拜占庭帝国，伊琳娜女皇成为拜占庭统治者。",
         "latitude": 41.0,
         "longitude": 28.9,
         "category": "政治",
@@ -3224,7 +3151,7 @@
       },
       {
         "title": "日本平安贵族文化",
-        "description": "日本平安时代贵族文学兴盛。",
+        "description": "公元797年，日本地区的文化艺术领域取得了重要成就，日本平安贵族文化成为这一时期的文化代表。",
         "latitude": 35.0,
         "longitude": 136.0,
         "category": "文化",
@@ -3233,7 +3160,7 @@
       },
       {
         "title": "查理曼营建亚琛",
-        "description": "查理曼定都亚琛。",
+        "description": "公元797年，在法兰克王国，查理曼营建亚琛。",
         "latitude": 50.8,
         "longitude": 6.1,
         "category": "政治",
@@ -3246,7 +3173,7 @@
     "year": 798,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -3255,7 +3182,7 @@
     "events": [
       {
         "title": "阿拉伯中亚战事",
-        "description": "阿拉伯征中亚。",
+        "description": "公元798年，在阿拉伯帝国，阿拉伯中亚战事。",
         "latitude": 42.0,
         "longitude": 72.0,
         "category": "军事",
@@ -3268,7 +3195,7 @@
     "year": 799,
     "dynasties": [
       {
-        "dynastyId": "zhou",
+        "dynastyId": "tang",
         "name": "武周",
         "ruler": "圣神皇帝武则天",
         "era": "久视二年"
@@ -3277,7 +3204,7 @@
     "events": [
       {
         "title": "教皇利奥三世遭袭击",
-        "description": "罗马贵族袭击教皇利奥三世，教皇逃往法兰克寻求查理曼保护。",
+        "description": "公元799年，教皇国地区的宗教领域发生重要事件——教皇利奥三世遭袭击，对信众的精神生活产生了深刻影响。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "宗教",
@@ -3296,7 +3223,7 @@
         "era": "贞元十六年"
       },
       {
-        "dynastyId": "falancke",
+        "dynastyId": "tang",
         "name": "法兰克帝国",
         "ruler": "查理曼大帝",
         "era": ""
@@ -3304,8 +3231,26 @@
     ],
     "events": [
       {
-        "title": "查理曼加冕称帝",
-        "description": "教皇利奥三世在罗马圣彼得大教堂为查理曼加冕，称其为“罗马人的皇帝”。查理曼帝国正式成立，标志着西欧帝国传统的复兴和教俗结合的政治格局。",
+        "title": "加纳帝国兴起",
+        "description": "公元800年，在加纳帝国，加纳帝国兴起。",
+        "latitude": 15.0,
+        "longitude": -12.0,
+        "category": "政治",
+        "region": "加纳帝国",
+        "continent": "非洲"
+      },
+      {
+        "title": "普韦布洛人建筑",
+        "description": "公元800年，北美西南文化领域的重要事件——普韦布洛人建筑，成为这一时期的文化标志。",
+        "latitude": 37.2,
+        "longitude": -108.5,
+        "category": "文化",
+        "region": "北美西南",
+        "continent": "北美洲"
+      },
+      {
+        "title": "查理曼加冕",
+        "description": "公元800年，查理曼加冕，开启了新的统治时期。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -3313,8 +3258,26 @@
         "continent": "欧洲"
       },
       {
+        "title": "毛利人发现新西兰",
+        "description": "公元800年，毛利人发现新西兰，这是人类在新西兰取得的重要科技成就。",
+        "latitude": -40.0,
+        "longitude": 176.0,
+        "category": "科技",
+        "region": "新西兰",
+        "continent": "大洋洲"
+      },
+      {
+        "title": "白居易《长恨歌》",
+        "description": "公元800年，唐朝文化领域的重要事件——白居易《长恨歌》，成为这一时期的文化标志。",
+        "latitude": 34.31,
+        "longitude": 108.94,
+        "category": "文学",
+        "region": "唐朝",
+        "continent": "亚洲"
+      },
+      {
         "title": "韩愈倡导古文运动",
-        "description": "唐代文学家韩愈大力倡导古文运动，反对骈文形式主义，主张“文以载道”。韩愈与柳宗元并称“韩柳”，对后世散文发展影响深远。",
+        "description": "公元800年，唐地区的文化艺术领域取得了重要成就，韩愈倡导古文运动成为这一时期的文化代表。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "文化",

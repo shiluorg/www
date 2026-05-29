@@ -11,26 +11,17 @@
     ],
     "events": [
       {
-        "title": "迈锡尼宫殿文明鼎盛",
-        "description": "迈锡尼文明进入宫殿时期，迈锡尼、梯林斯、皮洛斯等城堡式宫殿群建成，线形文字B开始广泛使用。",
-        "latitude": 37.7,
-        "longitude": 22.8,
+        "title": "《梨俱吠陀》成篇",
+        "description": "公元前1400年，古印度地区的文化艺术领域取得了重要成就，《梨俱吠陀》成篇成为这一时期的文化代表。",
+        "latitude": 25.0,
+        "longitude": 75.0,
         "category": "文化",
-        "region": "迈锡尼",
-        "continent": "欧洲"
-      },
-      {
-        "title": "赫梯帝国崛起",
-        "description": "赫梯在新王国时期迅速崛起，成为近东最强大的军事帝国之一，开始与埃及、米坦尼争夺叙利亚霸权。",
-        "latitude": 39.9,
-        "longitude": 32.9,
-        "category": "政治",
-        "region": "赫梯",
+        "region": "古印度",
         "continent": "亚洲"
       },
       {
         "title": "巴比伦加喜特王朝",
-        "description": "加喜特人统治下的巴比伦尼亚与埃及、赫梯保持外交联系，通过联姻维持国际关系。",
+        "description": "公元前1400年，在巴比伦尼亚，巴比伦加喜特王朝。",
         "latitude": 32.5,
         "longitude": 44.4,
         "category": "政治",
@@ -38,13 +29,22 @@
         "continent": "亚洲"
       },
       {
-        "title": "《梨俱吠陀》成篇",
-        "description": "印度最古老的经典《梨俱吠陀》在这一时期逐渐形成，是印度教最根本的经典之一。",
-        "latitude": 25.0,
-        "longitude": 75.0,
-        "category": "文化",
-        "region": "古印度",
+        "title": "赫梯帝国崛起",
+        "description": "公元前1400年，在赫梯，赫梯帝国崛起。",
+        "latitude": 39.9,
+        "longitude": 32.9,
+        "category": "政治",
+        "region": "赫梯",
         "continent": "亚洲"
+      },
+      {
+        "title": "迈锡尼宫殿文明鼎盛",
+        "description": "公元前1400年，迈锡尼地区的文化艺术领域取得了重要成就，迈锡尼宫殿文明鼎盛成为这一时期的文化代表。",
+        "latitude": 37.7,
+        "longitude": 22.8,
+        "category": "文化",
+        "region": "迈锡尼",
+        "continent": "欧洲"
       }
     ]
   },
@@ -61,7 +61,7 @@
     "events": [
       {
         "title": "苏皮鲁流马一世即位赫梯",
-        "description": "苏皮鲁流马一世成为赫梯帝国国王，赫梯进入帝国强盛时期。",
+        "description": "公元前1390年，苏皮鲁流马一世即位赫梯，开启了新的统治时期。",
         "latitude": 39.0,
         "longitude": 34.0,
         "category": "政治",
@@ -83,7 +83,7 @@
     "events": [
       {
         "title": "阿蒙霍特普三世即位",
-        "description": "埃及第十八王朝阿蒙霍特普三世登基，在位期间埃及帝国达到艺术与建筑新高度，大兴土木修建卢克索神庙。",
+        "description": "公元前1386年，阿蒙霍特普三世即位，开启了新的统治时期。",
         "latitude": 25.7,
         "longitude": 32.6,
         "category": "政治",
@@ -105,7 +105,7 @@
     "events": [
       {
         "title": "赫梯帝国强盛",
-        "description": "赫梯帝国国王苏皮鲁流马一世在位，赫梯成为近东最强大的军事帝国。",
+        "description": "公元前1380年，在赫梯帝国，赫梯帝国强盛。",
         "latitude": 39.0,
         "longitude": 34.0,
         "category": "政治",
@@ -114,7 +114,7 @@
       },
       {
         "title": "赫梯帝国远征米坦尼",
-        "description": "赫梯国王苏皮鲁流马一世征服米坦尼王国，赫梯成为近东最强军事帝国。",
+        "description": "公元前1380年，赫梯帝国发生赫梯帝国远征米坦尼，对当地军事格局产生了重要影响。",
         "latitude": 37.0,
         "longitude": 40.0,
         "category": "军事",
@@ -136,10 +136,19 @@
     "events": [
       {
         "title": "埃及阿蒙霍特普三世统治",
-        "description": "埃及法老阿蒙霍特普三世在位期间埃及帝国达到极盛，建造卢克索神庙等宏伟建筑。",
+        "description": "公元前1370年，在埃及，埃及阿蒙霍特普三世统治。",
         "latitude": 25.7,
         "longitude": 32.6,
         "category": "政治",
+        "region": "埃及",
+        "continent": "非洲"
+      },
+      {
+        "title": "阿肯那顿迁都",
+        "description": "公元前1370年，埃及地区的文化艺术领域取得了重要成就，阿肯那顿迁都成为这一时期的文化代表。",
+        "latitude": 27.65,
+        "longitude": 30.9,
+        "category": "文化",
         "region": "埃及",
         "continent": "非洲"
       }
@@ -158,7 +167,7 @@
     "events": [
       {
         "title": "埃及与米坦尼联姻",
-        "description": "阿蒙霍特普三世通过联姻与米坦尼王国建立同盟关系。",
+        "description": "公元前1365年，埃及开展埃及与米坦尼联姻，体现了当时的国际关系格局。",
         "latitude": 25.7,
         "longitude": 32.6,
         "category": "外交",
@@ -180,7 +189,7 @@
     "events": [
       {
         "title": "阿肯那顿宗教改革",
-        "description": "埃及法老阿肯那顿推行一神教改革，崇拜太阳神阿顿。",
+        "description": "公元前1360年，埃及推行阿肯那顿宗教改革，对当地政治经济制度产生了深远影响。",
         "latitude": 27.7,
         "longitude": 30.9,
         "category": "宗教",
@@ -199,17 +208,7 @@
         "era": "商中期"
       }
     ],
-    "events": [
-      {
-        "title": "阿肯那顿宗教改革",
-        "description": "埃及法老阿肯那顿推行宗教改革，废除传统多神崇拜，独尊太阳神阿顿。",
-        "latitude": 27.7,
-        "longitude": 30.9,
-        "category": "宗教",
-        "region": "埃及",
-        "continent": "非洲"
-      }
-    ]
+    "events": []
   },
   {
     "year": -1352,
@@ -223,20 +222,20 @@
     ],
     "events": [
       {
-        "title": "阿玛尔纳艺术革命",
-        "description": "阿肯那顿推行自然主义艺术风格，埃及雕塑与绘画从传统理想化转向写实表现，王族形象被刻画得真实生动。",
+        "title": "阿玛尔纳外交档案",
+        "description": "公元前1352年，古埃及开展阿玛尔纳外交档案，体现了当时的国际关系格局。",
         "latitude": 27.6,
         "longitude": 30.9,
-        "category": "文化",
+        "category": "外交",
         "region": "古埃及",
         "continent": "非洲"
       },
       {
-        "title": "阿玛尔纳外交档案",
-        "description": "阿肯那顿时期留下大量楔形文字泥板书信（阿玛尔纳书信），记录了埃及与巴比伦、赫梯、米坦尼等国的外交往来。",
+        "title": "阿玛尔纳艺术革命",
+        "description": "公元前1352年，古埃及地区的文化艺术领域取得了重要成就，阿玛尔纳艺术革命成为这一时期的文化代表。",
         "latitude": 27.6,
         "longitude": 30.9,
-        "category": "外交",
+        "category": "文化",
         "region": "古埃及",
         "continent": "非洲"
       }
@@ -255,7 +254,7 @@
     "events": [
       {
         "title": "商朝迁都殷",
-        "description": "商王盘庚将都城迁至殷（今安阳），商朝从此稳定，殷墟文化兴盛。",
+        "description": "公元前1350年，在商，商朝迁都殷。",
         "latitude": 36.1,
         "longitude": 114.3,
         "category": "政治",
@@ -264,7 +263,7 @@
       },
       {
         "title": "圣洛伦索奥尔梅克中心",
-        "description": "中美洲奥尔梅克文明在圣洛伦索建造大型祭祀中心。",
+        "description": "公元前1350年，奥尔梅克地区的文化艺术领域取得了重要成就，圣洛伦索奥尔梅克中心成为这一时期的文化代表。",
         "latitude": 18.0,
         "longitude": -95.0,
         "category": "文化",
@@ -286,7 +285,7 @@
     "events": [
       {
         "title": "图坦卡蒙即位",
-        "description": "埃及少年法老图坦卡蒙即位，恢复阿蒙神崇拜，其陵墓为现代最著名考古发现之一。",
+        "description": "公元前1345年，图坦卡蒙即位，开启了新的统治时期。",
         "latitude": 25.7,
         "longitude": 32.6,
         "category": "政治",
@@ -305,17 +304,7 @@
         "era": "商晚期"
       }
     ],
-    "events": [
-      {
-        "title": "图坦卡蒙即位",
-        "description": "阿肯那顿去世后，年幼的图坦卡蒙继位，在祭司集团压力下恢复阿蒙神崇拜，都城迁回底比斯。",
-        "latitude": 25.7,
-        "longitude": 32.6,
-        "category": "政治",
-        "region": "古埃及",
-        "continent": "非洲"
-      }
-    ]
+    "events": []
   },
   {
     "year": -1335,
@@ -330,7 +319,7 @@
     "events": [
       {
         "title": "赫梯与埃及争夺叙利亚",
-        "description": "赫梯和埃及为争夺叙利亚控制权持续交战。",
+        "description": "公元前1335年，在东地中海，赫梯与埃及争夺叙利亚。",
         "latitude": 35.0,
         "longitude": 37.0,
         "category": "军事",
@@ -364,7 +353,7 @@
     "events": [
       {
         "title": "图坦卡蒙神秘去世",
-        "description": "年仅约十九岁的图坦卡蒙突然死亡，其陵墓在帝王谷历经三千余年未被盗掘，成为现代最著名的考古发现之一。",
+        "description": "公元前1327年，图坦卡蒙神秘去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 25.7,
         "longitude": 32.6,
         "category": "政治",
@@ -386,7 +375,7 @@
     "events": [
       {
         "title": "迈锡尼希腊强盛",
-        "description": "迈锡尼希腊各王国处于繁荣时期，建造狮子门等宏伟建筑，与地中海各国广泛贸易。",
+        "description": "公元前1325年，迈锡尼希腊地区的文化艺术领域取得了重要成就，迈锡尼希腊强盛成为这一时期的文化代表。",
         "latitude": 37.7,
         "longitude": 22.8,
         "category": "文化",
@@ -407,21 +396,21 @@
     ],
     "events": [
       {
-        "title": "赫梯与埃及争霸叙利亚",
-        "description": "赫梯国王苏皮鲁利乌马一世利用埃及阿玛尔纳时期的衰落，夺取叙利亚北部大片领土，打破埃及在该地区的垄断地位。",
-        "latitude": 36.2,
-        "longitude": 36.2,
-        "category": "军事",
-        "region": "叙利亚",
-        "continent": "亚洲"
-      },
-      {
         "title": "苏皮鲁利乌马一世征服米坦尼",
-        "description": "赫梯国王苏皮鲁利乌马一世大举进攻米坦尼王国，攻占其首都瓦舒卡尼，米坦尼沦为赫梯附庸国。",
+        "description": "公元前1320年，苏皮鲁利乌马一世征服米坦尼，美索不达米亚的军事力量向目标地区推进。",
         "latitude": 37.0,
         "longitude": 39.0,
         "category": "军事",
         "region": "美索不达米亚",
+        "continent": "亚洲"
+      },
+      {
+        "title": "赫梯与埃及争霸叙利亚",
+        "description": "公元前1320年，叙利亚发生赫梯与埃及争霸叙利亚，对当地军事格局产生了重要影响。",
+        "latitude": 36.2,
+        "longitude": 36.2,
+        "category": "军事",
+        "region": "叙利亚",
         "continent": "亚洲"
       }
     ]
@@ -439,33 +428,11 @@
     "events": [
       {
         "title": "亚述帝国复兴",
-        "description": "亚述国王阿达德尼拉里一世在位，亚述重新崛起为军事强国。",
+        "description": "公元前1310年，在亚述帝国，亚述帝国复兴。",
         "latitude": 36.4,
         "longitude": 43.3,
         "category": "军事",
         "region": "亚述帝国",
-        "continent": "亚洲"
-      }
-    ]
-  },
-  {
-    "year": -1300,
-    "dynasties": [
-      {
-        "dynastyId": "shang",
-        "name": "商",
-        "ruler": "商王盘庚",
-        "era": "商晚期"
-      }
-    ],
-    "events": [
-      {
-        "title": "盘庚迁殷",
-        "description": "商王盘庚将都城从奄（今山东曲阜）迁至殷（今河南安阳），此后商朝又称殷商，结束了九世之乱的动荡局面。",
-        "latitude": 36.1,
-        "longitude": 114.4,
-        "category": "政治",
-        "region": "商",
         "continent": "亚洲"
       }
     ]

@@ -11,17 +11,8 @@
     ],
     "events": [
       {
-        "title": "白登之围",
-        "description": "汉高祖刘邦率三十二万大军北击匈奴，被冒顿单于四十万精骑围困于平城白登山七日。汉军内外联络断绝，后陈平献计厚赂阏氏，始得突围。白登之围使汉朝意识到暂无力对抗匈奴。",
-        "latitude": 40.0,
-        "longitude": 113.0,
-        "category": "军事",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "刘敬建议和亲匈奴",
-        "description": "白登之围后，刘敬向汉高祖建议以宗室女嫁匈奴单于，并赠送大量财物，以换取边境和平。汉高祖采纳此议，汉匈和亲政策从此开始，持续约六十年。",
+        "description": "公元前200年，西汉开展刘敬建议和亲匈奴，体现了当时的国际关系格局。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "外交",
@@ -29,35 +20,17 @@
         "continent": "亚洲"
       },
       {
-        "title": "罗马建筑技术进步",
-        "description": "罗马人在修建道路和引水渠方面取得技术突破。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "科技",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
-        "title": "罗马对外战争",
-        "description": "罗马共和国在地中海进行征服战争。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "军事",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
-        "title": "罗马奴隶经济",
-        "description": "罗马共和国使用大量奴隶从事生产。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "经济",
-        "region": "罗马共和国",
-        "continent": "欧洲"
+        "title": "大夏希腊化王国",
+        "description": "公元前200年，大夏地区的文化艺术领域取得了重要成就，大夏希腊化王国成为这一时期的文化代表。",
+        "latitude": 36.8,
+        "longitude": 66.8,
+        "category": "文化",
+        "region": "大夏",
+        "continent": "亚洲"
       },
       {
         "title": "希腊城邦衰落",
-        "description": "希腊各城邦在罗马统治下政治衰落。",
+        "description": "公元前200年，在古希腊，希腊城邦衰落。",
         "latitude": 38.0,
         "longitude": 23.0,
         "category": "政治",
@@ -66,7 +39,7 @@
       },
       {
         "title": "汉高祖统一",
-        "description": "西汉完成统一大业。",
+        "description": "公元前200年，在西汉，汉高祖统一。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -74,11 +47,74 @@
         "continent": "亚洲"
       },
       {
+        "title": "班昭著《女诫》",
+        "description": "公元前200年，东汉文化领域的重要事件——班昭著《女诫》，成为这一时期的文化标志。",
+        "latitude": 34.3,
+        "longitude": 108.86,
+        "category": "文学",
+        "region": "东汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "白登之围",
+        "description": "公元前200年，在西汉，白登之围。",
+        "latitude": 40.0,
+        "longitude": 113.0,
+        "category": "军事",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "米洛的维纳斯雕塑",
+        "description": "公元前200年，希腊地区的文化艺术领域取得了重要成就，米洛的维纳斯雕塑成为这一时期的文化代表。",
+        "latitude": 36.7,
+        "longitude": 24.0,
+        "category": "艺术",
+        "region": "希腊",
+        "continent": "欧洲"
+      },
+      {
+        "title": "纳斯卡文化",
+        "description": "公元前200年，纳斯卡地区的文化艺术领域取得了重要成就，纳斯卡文化成为这一时期的文化代表。",
+        "latitude": -14.83,
+        "longitude": -75.0,
+        "category": "文化",
+        "region": "纳斯卡",
+        "continent": "南美洲"
+      },
+      {
+        "title": "罗马奴隶经济",
+        "description": "公元前200年，罗马共和国经济领域发生罗马奴隶经济，对当时的经济生活产生了直接影响。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "经济",
+        "region": "罗马共和国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "罗马对外战争",
+        "description": "公元前200年，罗马共和国爆发罗马对外战争，战事在罗马共和国地区全面展开。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "军事",
+        "region": "罗马共和国",
+        "continent": "欧洲"
+      },
+      {
         "title": "罗马希腊化",
-        "description": "希腊文化入罗马。",
+        "description": "公元前200年，罗马共和国地区的文化艺术领域取得了重要成就，罗马希腊化成为这一时期的文化代表。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "文化",
+        "region": "罗马共和国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "罗马建筑技术进步",
+        "description": "公元前200年，罗马共和国的科技发展取得重要进展，罗马建筑技术进步推动了相关领域的技术进步。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "科技",
         "region": "罗马共和国",
         "continent": "欧洲"
       }
@@ -96,22 +132,22 @@
     ],
     "events": [
       {
-        "title": "罗马与马其顿战争持续",
-        "description": "罗马共和国在第二次马其顿战争后继续干预希腊事务，巩固在希腊的影响力。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "军事",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
         "title": "汉朝修建长安城",
-        "description": "汉高祖刘邦修建长安城，使之成为汉朝政治经济中心。",
+        "description": "公元前199年，在西汉，汉朝修建长安城。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
         "region": "西汉",
         "continent": "亚洲"
+      },
+      {
+        "title": "罗马与马其顿战争持续",
+        "description": "公元前199年，罗马共和国爆发罗马与马其顿战争持续，战事在罗马共和国地区全面展开。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "军事",
+        "region": "罗马共和国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -127,17 +163,8 @@
     ],
     "events": [
       {
-        "title": "汉朝与匈奴正式和亲",
-        "description": "汉高祖刘邦以宗室女冒充公主嫁给冒顿单于，并每年赠送大量丝绸、酒食等物，双方约定以长城为界。汉匈第一次和亲正式确立。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "外交",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "中亚希腊化王国",
-        "description": "希腊-巴克特里亚王国在中亚传播希腊文化。",
+        "description": "公元前198年，希腊化世界地区的文化艺术领域取得了重要成就，中亚希腊化王国成为这一时期的文化代表。",
         "latitude": 37.0,
         "longitude": 67.0,
         "category": "文化",
@@ -145,26 +172,8 @@
         "continent": "亚洲"
       },
       {
-        "title": "汉朝农业发展",
-        "description": "汉代推广铁犁和代田法提高农业产量。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "科技",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
-        "title": "汉朝盐铁官营",
-        "description": "汉朝对盐铁实行国家专卖制度。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "经济",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "帕提亚丝绸之路",
-        "description": "帕提亚帝国控制丝绸之路中间段贸易。",
+        "description": "公元前198年，帕提亚帝国经济领域发生帕提亚丝绸之路，对当时的经济生活产生了直接影响。",
         "latitude": 35.0,
         "longitude": 45.0,
         "category": "经济",
@@ -173,12 +182,30 @@
       },
       {
         "title": "拉萨战役",
-        "description": "罗马在第二次马其顿战争获胜。",
+        "description": "公元前198年，罗马共和国地区爆发拉萨战役，交战双方为争夺战略要地展开激烈战斗。",
         "latitude": 40.5,
         "longitude": 23.0,
         "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "汉朝与匈奴正式和亲",
+        "description": "公元前198年，西汉开展汉朝与匈奴正式和亲，体现了当时的国际关系格局。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "外交",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉朝盐铁官营",
+        "description": "公元前198年，西汉经济领域发生汉朝盐铁官营，对当时的经济生活产生了直接影响。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "经济",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -194,19 +221,19 @@
     ],
     "events": [
       {
-        "title": "第二次马其顿战争爆发",
-        "description": "罗马因马其顿国王腓力五世扩张威胁到罗德岛等罗马盟友，向马其顿宣战。罗马将军弗拉米尼努斯率军进入希腊。战争初期罗马在雅典等地受到欢迎。",
-        "latitude": 40.5,
-        "longitude": 22.5,
+        "title": "狗头山战役",
+        "description": "公元前197年，罗马共和国地区爆发狗头山战役，交战双方为争夺战略要地展开激烈战斗。",
+        "latitude": 39.4,
+        "longitude": 22.3,
         "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
       },
       {
-        "title": "狗头山战役",
-        "description": "罗马执政官弗拉米尼努斯在希腊的狗头山（Cynoscephalae）与马其顿腓力五世会战。罗马军团凭借灵活的作战队形击败了马其顿方阵，腓力五世求和。这是罗马军团首次在东方战场展示其优势。",
-        "latitude": 39.4,
-        "longitude": 22.3,
+        "title": "第二次马其顿战争爆发",
+        "description": "公元前197年，罗马共和国爆发第二次马其顿战争爆发，战事在罗马共和国地区全面展开。",
+        "latitude": 40.5,
+        "longitude": 22.5,
         "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
@@ -225,26 +252,8 @@
     ],
     "events": [
       {
-        "title": "韩信被贬为淮阴侯",
-        "description": "汉高祖刘邦怀疑楚王韩信谋反，用陈平之计伪游云梦，趁韩信来谒时将其逮捕。韩信被贬为淮阴侯，软禁于长安，心中怨恨不平。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
-        "title": "弗拉米尼努斯宣布希腊自由",
-        "description": "罗马执政官弗拉米尼努斯在科林斯地峡运动会上宣布希腊各城邦获得'自由与自治'，罗马军队将撤出希腊。希腊各城邦热烈欢呼，但实际仍受罗马控制。",
-        "latitude": 37.9,
-        "longitude": 22.9,
-        "category": "政治",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
         "title": "北非农耕经济",
-        "description": "北非迦太基地区在罗马统治下农业繁荣。",
+        "description": "公元前196年，罗马共和国经济领域发生北非农耕经济，对当时的经济生活产生了直接影响。",
         "latitude": 36.0,
         "longitude": 9.0,
         "category": "经济",
@@ -252,13 +261,31 @@
         "continent": "非洲"
       },
       {
+        "title": "弗拉米尼努斯宣布希腊自由",
+        "description": "公元前196年，在罗马共和国，弗拉米尼努斯宣布希腊自由。",
+        "latitude": 37.9,
+        "longitude": 22.9,
+        "category": "政治",
+        "region": "罗马共和国",
+        "continent": "欧洲"
+      },
+      {
         "title": "罗塞塔石碑刻制",
-        "description": "埃及祭司为托勒密五世刻制罗塞塔石碑。",
+        "description": "公元前196年，托勒密埃及地区的文化艺术领域取得了重要成就，罗塞塔石碑刻制成为这一时期的文化代表。",
         "latitude": 31.2,
         "longitude": 29.9,
         "category": "文化",
         "region": "托勒密埃及",
         "continent": "非洲"
+      },
+      {
+        "title": "韩信被贬为淮阴侯",
+        "description": "公元前196年，在西汉，韩信被贬为淮阴侯。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -274,26 +301,17 @@
     ],
     "events": [
       {
-        "title": "汉高祖刘邦驾崩",
-        "description": "汉高祖刘邦在长乐宫驾崩，享年六十二岁。太子刘盈继位为汉惠帝，时年十六岁。吕太后（吕雉）开始掌握朝政大权，汉朝进入吕后专权时期。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
-        "title": "韩信被诛杀",
-        "description": "汉高祖刘邦征讨陈豨叛乱时，吕后与萧何设计将韩信骗入长乐宫钟室处死，并夷其三族。韩信临刑前叹道'狡兔死，走狗烹'。西汉开国第一功臣含冤而死。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
+        "title": "土地改革在罗马",
+        "description": "公元前195年，罗马共和国推行土地改革在罗马，对当地政治经济制度产生了深远影响。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "经济",
+        "region": "罗马共和国",
+        "continent": "欧洲"
       },
       {
         "title": "汉尼拔逃离迦太基",
-        "description": "汉尼拔在迦太基推行民主改革，触怒了贵族寡头，被指控勾结塞琉古国王安条克三世。汉尼拔被迫流亡，先后逃往推罗和以弗所，投奔安条克三世。",
+        "description": "公元前195年，在迦太基，汉尼拔逃离迦太基。",
         "latitude": 36.9,
         "longitude": 10.3,
         "category": "政治",
@@ -302,7 +320,7 @@
       },
       {
         "title": "汉朝与匈奴关系发展",
-        "description": "汉匈关系在和亲与战争之间反复。",
+        "description": "公元前195年，西汉开展汉朝与匈奴关系发展，体现了当时的国际关系格局。",
         "latitude": 42.0,
         "longitude": 112.0,
         "category": "外交",
@@ -310,13 +328,22 @@
         "continent": "亚洲"
       },
       {
-        "title": "土地改革在罗马",
-        "description": "土地。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "经济",
-        "region": "罗马共和国",
-        "continent": "欧洲"
+        "title": "汉高祖刘邦驾崩",
+        "description": "公元前195年，汉高祖刘邦驾崩，一个重要的历史人物离开了历史舞台。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "韩信被诛杀",
+        "description": "公元前195年，在西汉，韩信被诛杀。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -332,22 +359,22 @@
     ],
     "events": [
       {
-        "title": "罗马击败安条克三世",
-        "description": "罗马军队在温泉关战役击败塞琉古帝国安条克三世，确立罗马在东地中海的霸权。",
-        "latitude": 38.8,
-        "longitude": 22.5,
-        "category": "军事",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
         "title": "卫满建立卫氏朝鲜",
-        "description": "燕国人卫满率众进入朝鲜半岛北部，建立卫氏朝鲜政权。",
+        "description": "公元前194年，卫满建立卫氏朝鲜，标志着新的政治实体在卫氏朝鲜地区诞生。",
         "latitude": 39.0,
         "longitude": 125.7,
         "category": "政治",
         "region": "卫氏朝鲜",
         "continent": "亚洲"
+      },
+      {
+        "title": "罗马击败安条克三世",
+        "description": "公元前194年，在罗马共和国，罗马击败安条克三世。",
+        "latitude": 38.8,
+        "longitude": 22.5,
+        "category": "军事",
+        "region": "罗马共和国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -363,17 +390,8 @@
     ],
     "events": [
       {
-        "title": "留侯张良去世",
-        "description": "西汉开国功臣、'汉初三杰'之一的张良去世。张良字子房，运筹帷幄之中、决胜千里之外，助刘邦定天下。功成身退，晚年隐居修行，被誉为'一代谋圣'。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "汉尼拔与安条克三世",
-        "description": "汉尼拔投奔塞琉古国王安条克三世，建议其在希腊开辟第二战场对抗罗马，并给予他一支军队指挥权。但安条克三世犹豫不决，未采纳汉尼拔的建议。",
+        "description": "公元前193年，在塞琉古帝国，汉尼拔与安条克三世。",
         "latitude": 38.0,
         "longitude": 36.0,
         "category": "政治",
@@ -381,8 +399,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "留侯张良去世",
+        "description": "公元前193年，留侯张良去世，一个重要的历史人物离开了历史舞台。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "西班牙行省巩固",
-        "description": "罗马在伊比利亚半岛设立行省管理。",
+        "description": "公元前193年，在罗马共和国，西班牙行省巩固。",
         "latitude": 40.4,
         "longitude": -4.0,
         "category": "政治",
@@ -404,7 +431,7 @@
     "events": [
       {
         "title": "叙利亚战争爆发",
-        "description": "塞琉古国王安条克三世应埃托利亚联盟之邀率军进入希腊，与罗马直接发生冲突。罗马向安条克宣战，叙利亚战争（也称罗马-塞琉古战争）开始。",
+        "description": "公元前192年，罗马共和国爆发叙利亚战争爆发，战事在罗马共和国地区全面展开。",
         "latitude": 38.5,
         "longitude": 22.5,
         "category": "军事",
@@ -412,21 +439,21 @@
         "continent": "欧洲"
       },
       {
-        "title": "希腊化时代科学成就",
-        "description": "希腊化时期的科学家在天文、数学和工程学方面取得重大进展。",
-        "latitude": 31.2,
-        "longitude": 29.9,
-        "category": "科技",
-        "region": "希腊化世界",
-        "continent": "欧洲"
-      },
-      {
         "title": "安条克三世远征希腊",
-        "description": "塞琉古帝国安条克三世入侵希腊。",
+        "description": "公元前192年，在塞琉古帝国，安条克三世远征希腊。",
         "latitude": 38.0,
         "longitude": 23.7,
         "category": "军事",
         "region": "塞琉古帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "希腊化时代科学成就",
+        "description": "公元前192年，希腊化世界的科技发展取得重要进展，希腊化时代科学成就推动了相关领域的技术进步。",
+        "latitude": 31.2,
+        "longitude": 29.9,
+        "category": "科技",
+        "region": "希腊化世界",
         "continent": "欧洲"
       }
     ]
@@ -444,7 +471,7 @@
     "events": [
       {
         "title": "温泉关战役（罗马）",
-        "description": "罗马执政官马尼乌斯·阿西利乌斯·格拉布里奥率军在温泉关击败安条克三世。安条克与当年的薛西斯一样企图利用温泉关天险阻击，却被罗马军队沿同一条小路绕后包抄，大败逃回亚洲。",
+        "description": "公元前191年，罗马共和国爆发温泉关战役（罗马），战事在罗马共和国地区全面展开。",
         "latitude": 38.8,
         "longitude": 22.5,
         "category": "军事",
@@ -465,17 +492,8 @@
     ],
     "events": [
       {
-        "title": "马格尼西亚战役",
-        "description": "罗马执政官卢基乌斯·西庇阿（大西庇阿之弟）在小亚细亚的马格尼西亚大败安条克三世的塞琉古大军。安条克损失约五万人，被迫向罗马求和。此战确立了罗马在东地中海的霸权地位。",
-        "latitude": 38.6,
-        "longitude": 27.4,
-        "category": "军事",
-        "region": "罗马共和国",
-        "continent": "亚洲"
-      },
-      {
         "title": "罗马共和国扩张",
-        "description": "罗马在马其顿和希腊建立霸权。",
+        "description": "公元前190年，在罗马共和国，罗马共和国扩张。",
         "latitude": 40.0,
         "longitude": 23.0,
         "category": "军事",
@@ -484,12 +502,21 @@
       },
       {
         "title": "罗马建筑技术",
-        "description": "混凝土。",
+        "description": "公元前190年在罗马共和国发生了罗马建筑技术这一历史事件。这一事件对罗马共和国的历史发展产生了不可忽视的影响值得我们今天认真回顾和反思。",
         "latitude": 41.9,
         "longitude": 12.5,
-        "category": "工程",
+        "category": "科技",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "马格尼西亚战役",
+        "description": "公元前190年，罗马共和国爆发马格尼西亚战役，战事在罗马共和国地区全面展开。",
+        "latitude": 38.6,
+        "longitude": 27.4,
+        "category": "军事",
+        "region": "罗马共和国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -506,7 +533,7 @@
     "events": [
       {
         "title": "罗马与塞琉古签订阿帕米亚和约",
-        "description": "罗马迫使塞琉古帝国签订阿帕米亚和约，塞琉古放弃小亚细亚领土。",
+        "description": "公元前189年，罗马与塞琉古签订阿帕米亚和约，该协议的签署影响了相关国家的关系格局。",
         "latitude": 38.0,
         "longitude": 29.0,
         "category": "外交",
@@ -527,17 +554,8 @@
     ],
     "events": [
       {
-        "title": "阿帕米亚和约",
-        "description": "塞琉古帝国与罗马签订阿帕米亚和约。安条克三世交出全部战象和大部分舰队，放弃小亚细亚领土，支付巨额赔款。罗马将小亚细亚领土分配给其盟友帕加马和罗德岛。",
-        "latitude": 36.0,
-        "longitude": 36.0,
-        "category": "外交",
-        "region": "罗马共和国",
-        "continent": "亚洲"
-      },
-      {
         "title": "吕后鸩杀赵王如意",
-        "description": "吕太后将刘邦宠妃戚夫人之子赵王如意召至长安，用毒酒鸩杀。随后将戚夫人斩去手脚、挖去双眼、熏聋耳朵、灌以哑药，置于厕中称为'人彘'。汉惠帝见后受惊大病，从此不理朝政。",
+        "description": "公元前188年，在西汉，吕后鸩杀赵王如意。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -545,12 +563,12 @@
         "continent": "亚洲"
       },
       {
-        "title": "汉与南越关系",
-        "description": "汉朝与南越国保持和好关系。",
-        "latitude": 23.0,
-        "longitude": 113.0,
+        "title": "阿帕米亚和约",
+        "description": "公元前188年，阿帕米亚和约，该协议的签署影响了相关国家的关系格局。",
+        "latitude": 36.0,
+        "longitude": 36.0,
         "category": "外交",
-        "region": "西汉",
+        "region": "罗马共和国",
         "continent": "亚洲"
       }
     ]
@@ -567,21 +585,21 @@
     ],
     "events": [
       {
-        "title": "曹参任相国",
-        "description": "汉惠帝任命曹参为相国。曹参沿用萧何的制度和政策，'萧规曹随'，实行无为而治、与民休息的政策。汉朝在战后恢复期保持了政治稳定和经济发展。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "欧洲"
-      },
-      {
         "title": "塞琉古帝国衰落",
-        "description": "安条克三世去世帝国削弱。",
+        "description": "公元前187年，在塞琉古帝国，塞琉古帝国衰落。",
         "latitude": 35.0,
         "longitude": 37.5,
         "category": "政治",
         "region": "塞琉古帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "曹参任相国",
+        "description": "公元前187年，在西汉，曹参任相国。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "西汉",
         "continent": "亚洲"
       }
     ]
@@ -599,7 +617,7 @@
     "events": [
       {
         "title": "汉朝禁止诸侯王私铸钱币",
-        "description": "汉政府颁布法令，禁止诸侯王及民间私铸钱币，加强中央财政控制。",
+        "description": "公元前186年，西汉经济领域发生汉朝禁止诸侯王私铸钱币，对当时的经济生活产生了直接影响。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "经济",
@@ -621,7 +639,7 @@
     "events": [
       {
         "title": "吕姓封王",
-        "description": "吕太后不顾开国时'非刘氏而王，天下共击之'的盟约，封侄吕台、吕产、吕禄等吕氏子弟为王侯。刘氏宗室和功臣集团对此极为不满。",
+        "description": "公元前185年，在西汉，吕姓封王。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -629,17 +647,8 @@
         "continent": "亚洲"
       },
       {
-        "title": "迦太基灭国后罗马统治北非",
-        "description": "罗马在迦太基旧址建立非洲行省。",
-        "latitude": 36.9,
-        "longitude": 10.3,
-        "category": "政治",
-        "region": "罗马共和国",
-        "continent": "非洲"
-      },
-      {
         "title": "孔雀王朝灭亡",
-        "description": "印度孔雀王朝最后国王被杀。",
+        "description": "公元前185年，孔雀王朝地区的孔雀王朝灭亡，一个时代由此终结。",
         "latitude": 25.0,
         "longitude": 80.0,
         "category": "政治",
@@ -647,13 +656,31 @@
         "continent": "亚洲"
       },
       {
+        "title": "巽伽王朝建立",
+        "description": "公元前185年，巽伽王朝建立，标志着新的政治实体在巽伽王朝地区诞生。",
+        "latitude": 25.5,
+        "longitude": 83.0,
+        "category": "政治",
+        "region": "巽伽王朝",
+        "continent": "亚洲"
+      },
+      {
         "title": "希腊语在罗马传播",
-        "description": "双语。",
+        "description": "公元前185年，在罗马共和国，希腊语在罗马传播。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "教育",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "迦太基灭国后罗马统治北非",
+        "description": "公元前185年，在罗马共和国，迦太基灭国后罗马统治北非。",
+        "latitude": 36.9,
+        "longitude": 10.3,
+        "category": "政治",
+        "region": "罗马共和国",
+        "continent": "非洲"
       }
     ]
   },
@@ -669,22 +696,22 @@
     ],
     "events": [
       {
-        "title": "汉高后吕雉去世",
-        "description": "汉高后吕雉去世，标志着吕氏外戚专权时代的结束，周勃、陈平联合铲除诸吕。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "小西庇阿出生",
-        "description": "古罗马著名军事家小西庇阿·埃米利安努斯出生，后领导摧毁迦太基。",
+        "description": "公元前184年，罗马共和国地区的文化艺术领域取得了重要成就，小西庇阿出生成为这一时期的文化代表。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "文化",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "汉高后吕雉去世",
+        "description": "公元前184年，汉高后吕雉去世，一个重要的历史人物离开了历史舞台。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -700,22 +727,22 @@
     ],
     "events": [
       {
-        "title": "汉尼拔服毒自尽",
-        "description": "塞琉古国王安条克三世在阿帕米亚和约条款中被迫承诺交出汉尼拔。汉尼拔辗转逃往比提尼亚王国。罗马派使节追索，汉尼拔在比提尼亚的利比萨服毒自尽，享年六十四岁。一代军事天才含恨而终。",
-        "latitude": 40.5,
-        "longitude": 29.0,
-        "category": "政治",
-        "region": "比提尼亚",
-        "continent": "亚洲"
-      },
-      {
         "title": "大西庇阿去世",
-        "description": "罗马名将大西庇阿去世。",
+        "description": "公元前183年，大西庇阿去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "文化",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "汉尼拔服毒自尽",
+        "description": "公元前183年，在比提尼亚，汉尼拔服毒自尽。",
+        "latitude": 40.5,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "比提尼亚",
+        "continent": "亚洲"
       }
     ]
   },
@@ -732,7 +759,7 @@
     "events": [
       {
         "title": "汉文帝刘恒即位",
-        "description": "代王刘恒被迎立为帝，是为汉文帝，开创文景之治。",
+        "description": "公元前182年，汉文帝刘恒即位，开启了新的统治时期。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -741,7 +768,7 @@
       },
       {
         "title": "罗马利古里亚战争",
-        "description": "罗马军与利古里亚人交战。",
+        "description": "公元前182年，罗马共和国爆发罗马利古里亚战争，战事在罗马共和国地区全面展开。",
         "latitude": 44.0,
         "longitude": 8.0,
         "category": "军事",
@@ -763,7 +790,7 @@
     "events": [
       {
         "title": "罗马与利古里亚人战争",
-        "description": "罗马共和国在意大利北部与利古里亚部落持续交战以扩张领土。",
+        "description": "公元前181年，罗马共和国爆发罗马与利古里亚人战争，战事在罗马共和国地区全面展开。",
         "latitude": 44.0,
         "longitude": 8.0,
         "category": "军事",
@@ -772,7 +799,7 @@
       },
       {
         "title": "马其顿门政改革",
-        "description": "罗马在马其顿推行民主改革。",
+        "description": "公元前181年，罗马共和国推行马其顿门政改革，对当地政治经济制度产生了深远影响。",
         "latitude": 40.5,
         "longitude": 23.0,
         "category": "政治",
@@ -794,7 +821,7 @@
     "events": [
       {
         "title": "吕后病逝，周勃安刘",
-        "description": "吕太后病逝，临终嘱咐吕产、吕禄掌握兵权。周勃、陈平等元老功臣联合刘氏宗室发动政变，诛杀吕氏全族，迎立代王刘恒为帝，是为汉文帝。刘恒宽仁节俭，开创'文景之治'。",
+        "description": "公元前180年，吕后病逝，周勃安刘，一个重要的历史人物离开了历史舞台。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -803,7 +830,7 @@
       },
       {
         "title": "汉文帝即位",
-        "description": "代王刘恒被立为汉文帝。",
+        "description": "公元前180年，汉文帝即位，开启了新的统治时期。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -812,7 +839,7 @@
       },
       {
         "title": "汉朝社会救济",
-        "description": "赈灾。",
+        "description": "公元前180年，西汉社会领域出现汉朝社会救济，反映了社会的发展变化。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "社会",
@@ -833,22 +860,22 @@
     ],
     "events": [
       {
-        "title": "汉文帝除诽谤妖言之罪",
-        "description": "汉文帝刘恒即位后废除秦朝遗留的'诽谤妖言'罪，又废除了连坐收孥法。他崇尚节俭，减轻赋税，广开言路，体现了汉初'与民休息'的治国理念。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "佩尔修即位马其顿",
-        "description": "佩尔修准备反罗马。",
+        "description": "公元前179年，佩尔修即位马其顿，开启了新的统治时期。",
         "latitude": 40.5,
         "longitude": 23.0,
         "category": "政治",
         "region": "马其顿王国",
         "continent": "欧洲"
+      },
+      {
+        "title": "汉文帝除诽谤妖言之罪",
+        "description": "公元前179年，在西汉，汉文帝除诽谤妖言之罪。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -865,7 +892,7 @@
     "events": [
       {
         "title": "汉文帝推行减赋政策",
-        "description": "汉文帝下诏减轻田赋至三十税一，鼓励农业生产，促进经济恢复。",
+        "description": "公元前178年，西汉经济领域发生汉文帝推行减赋政策，对当时的经济生活产生了直接影响。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "经济",
@@ -887,7 +914,7 @@
     "events": [
       {
         "title": "匈奴右贤王入寇",
-        "description": "匈奴右贤王率军侵入汉朝边境，攻掠上郡等地。汉文帝派丞相灌婴率八万五千车骑前往反击，后因济北王刘兴居叛乱而撤回。匈奴右贤王也退出塞外。",
+        "description": "公元前177年，在西汉，匈奴右贤王入寇。",
         "latitude": 36.0,
         "longitude": 109.0,
         "category": "军事",
@@ -896,7 +923,7 @@
       },
       {
         "title": "高卢边境战事",
-        "description": "罗马在高卢北部与部落冲突。",
+        "description": "公元前177年，在罗马共和国，高卢边境战事。",
         "latitude": 46.0,
         "longitude": 3.0,
         "category": "军事",
@@ -917,22 +944,22 @@
     ],
     "events": [
       {
-        "title": "贾谊《治安策》",
-        "description": "青年政论家贾谊上《治安策》（又称《陈政事疏》），分析汉朝面临的各种社会矛盾，提出'众建诸侯而少其力'以削弱诸侯王势力，主张重农抑商、加强边防，展现出卓越的政治远见。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "伊利里亚战争",
-        "description": "罗马征服伊利里亚。",
+        "description": "公元前176年，罗马共和国爆发伊利里亚战争，战事在罗马共和国地区全面展开。",
         "latitude": 43.0,
         "longitude": 17.0,
         "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "贾谊《治安策》",
+        "description": "公元前176年，在西汉，贾谊《治安策》。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -949,7 +976,7 @@
     "events": [
       {
         "title": "安条克四世即位",
-        "description": "塞琉古帝国安条克四世·埃庇法涅斯即位，积极推行希腊化政策。",
+        "description": "公元前175年，安条克四世即位，开启了新的统治时期。",
         "latitude": 33.5,
         "longitude": 36.3,
         "category": "政治",
@@ -958,10 +985,10 @@
       },
       {
         "title": "希腊化医学",
-        "description": "医学。",
+        "description": "公元前175年在希腊化世界的医学殿堂中增添了宝贵的知识。人类对疾病和健康的探索永无止境。这一事件对希腊化世界的历史发展产生了不可忽视的影响值得我们今天认真回顾和反思。",
         "latitude": 31.2,
         "longitude": 29.9,
-        "category": "医学",
+        "category": "文化",
         "region": "希腊化世界",
         "continent": "非洲"
       }
@@ -980,7 +1007,7 @@
     "events": [
       {
         "title": "冒顿单于去世",
-        "description": "匈奴冒顿单于去世，其子稽粥继位，号老上单于。冒顿单于统一匈奴各部，建立了强大的草原帝国，是匈奴历史上最伟大的领袖之一。",
+        "description": "公元前174年，冒顿单于去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 44.0,
         "longitude": 112.0,
         "category": "政治",
@@ -989,7 +1016,7 @@
       },
       {
         "title": "罗马审查官改革",
-        "description": "罗马进行人口普查和社会改革。",
+        "description": "公元前174年，罗马共和国推行罗马审查官改革，对当地政治经济制度产生了深远影响。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -1010,22 +1037,22 @@
     ],
     "events": [
       {
-        "title": "罗马驱逐伊壁鸠鲁学派哲学家",
-        "description": "罗马元老院以道德败坏为由驱逐希腊伊壁鸠鲁学派哲学家。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "文化",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
         "title": "塞琉古镇压犹太运动",
-        "description": "安条克四世镇压犹太教活动。",
+        "description": "公元前173年，在塞琉古帝国，塞琉古镇压犹太运动。",
         "latitude": 31.8,
         "longitude": 35.2,
         "category": "政治",
         "region": "塞琉古帝国",
         "continent": "亚洲"
+      },
+      {
+        "title": "罗马驱逐伊壁鸠鲁学派哲学家",
+        "description": "公元前173年，罗马共和国地区的文化艺术领域取得了重要成就，罗马驱逐伊壁鸠鲁学派哲学家成为这一时期的文化代表。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "文化",
+        "region": "罗马共和国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1041,22 +1068,22 @@
     ],
     "events": [
       {
-        "title": "贾谊贬谪长沙",
-        "description": "汉文帝因大臣排挤，将才华横溢的贾谊贬为长沙王太傅。贾谊途经湘水时作《吊屈原赋》抒发悲愤。四年后召回长安，任梁怀王太傅，后因梁王坠马而死自责忧郁而终，年仅三十三岁。",
-        "latitude": 28.2,
-        "longitude": 112.9,
-        "category": "文化",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "第三次马其顿战争",
-        "description": "罗马向马其顿宣战。",
+        "description": "公元前172年，罗马共和国发生第三次马其顿战争，对当地军事格局产生了重要影响。",
         "latitude": 40.5,
         "longitude": 23.0,
         "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "贾谊贬谪长沙",
+        "description": "公元前172年，西汉地区的文化艺术领域取得了重要成就，贾谊贬谪长沙成为这一时期的文化代表。",
+        "latitude": 28.2,
+        "longitude": 112.9,
+        "category": "文化",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1073,7 +1100,7 @@
     "events": [
       {
         "title": "第三次马其顿战争爆发",
-        "description": "马其顿国王珀尔修斯（腓力五世之子）积极扩军备战，与希腊各城邦结盟，引起罗马警惕。罗马向马其顿宣战，第三次马其顿战争爆发。珀尔修斯初期取得了一些军事成功。",
+        "description": "公元前171年，马其顿爆发第三次马其顿战争爆发，战事在马其顿地区全面展开。",
         "latitude": 40.5,
         "longitude": 22.5,
         "category": "军事",
@@ -1082,7 +1109,7 @@
       },
       {
         "title": "马其顿王佩尔修备战",
-        "description": "佩尔修整合希腊反罗马力量。",
+        "description": "公元前171年，在马其顿王国，马其顿王佩尔修备战。",
         "latitude": 40.5,
         "longitude": 23.0,
         "category": "军事",
@@ -1104,7 +1131,7 @@
     "events": [
       {
         "title": "汉朝贾谊去世",
-        "description": "西汉著名政论家、文学家贾谊去世，著有《过秦论》《治安策》等名篇。",
+        "description": "公元前170年，汉朝贾谊去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "文化",
@@ -1112,17 +1139,8 @@
         "continent": "亚洲"
       },
       {
-        "title": "汉朝与匈奴边境冲突",
-        "description": "汉与匈奴在边境交战。",
-        "latitude": 42.0,
-        "longitude": 110.0,
-        "category": "军事",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "罗马贵族教育",
-        "description": "希腊教师。",
+        "description": "公元前170年，罗马贵族教育，罗马共和国的宗教发展进入新阶段。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "教育",
@@ -1143,19 +1161,19 @@
     ],
     "events": [
       {
-        "title": "罗马在第三次马其顿战争中推进",
-        "description": "罗马军队在马其顿取得关键胜利，保卢斯指挥罗马军团北上。",
-        "latitude": 40.6,
-        "longitude": 22.9,
+        "title": "皮德纳战役前奏",
+        "description": "公元前169年，罗马共和国爆发皮德纳战役前奏，战事在罗马共和国地区全面展开。",
+        "latitude": 40.0,
+        "longitude": 22.5,
         "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
       },
       {
-        "title": "皮德纳战役前奏",
-        "description": "罗马军在希腊推进。",
-        "latitude": 40.0,
-        "longitude": 22.5,
+        "title": "罗马在第三次马其顿战争中推进",
+        "description": "公元前169年，罗马共和国爆发罗马在第三次马其顿战争中推进，战事在罗马共和国地区全面展开。",
+        "latitude": 40.6,
+        "longitude": 22.9,
         "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
@@ -1174,22 +1192,22 @@
     ],
     "events": [
       {
-        "title": "皮德纳战役",
-        "description": "罗马执政官埃米利乌斯·保卢斯在皮德纳与马其顿国王珀尔修斯决战。罗马军团灵活的三线队形克制了马其顿方阵的正面突击，马其顿军大败，珀尔修斯被俘。马其顿王国灭亡，希腊化时代的最后一个主要王国消失。",
-        "latitude": 40.4,
-        "longitude": 22.6,
-        "category": "军事",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
         "title": "安条克四世撤离埃及",
-        "description": "塞琉古国王安条克四世入侵埃及，托勒密王朝向罗马求援。罗马派使者波皮利乌斯·拉埃纳斯在亚历山大城外画了一个圆圈，要求安条克在走出圆圈前做出答复。安条克被迫无条件撤军。'罗马外交'的著名案例。",
+        "description": "公元前168年，罗马共和国开展安条克四世撤离埃及，体现了当时的国际关系格局。",
         "latitude": 31.2,
         "longitude": 29.9,
         "category": "外交",
         "region": "罗马共和国",
         "continent": "非洲"
+      },
+      {
+        "title": "皮德纳战役",
+        "description": "公元前168年，罗马共和国地区爆发皮德纳战役，交战双方为争夺战略要地展开激烈战斗。",
+        "latitude": 40.4,
+        "longitude": 22.6,
+        "category": "军事",
+        "region": "罗马共和国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1205,17 +1223,8 @@
     ],
     "events": [
       {
-        "title": "罗马废除马其顿王国",
-        "description": "罗马将马其顿王国分为四个共和国，向罗马纳贡但不得相互往来。希腊一千名贵族人质（包括历史学家波利比乌斯）被送往罗马。波利比乌斯后来著成《历史》一书。",
-        "latitude": 40.5,
-        "longitude": 22.5,
-        "category": "政治",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
         "title": "汉文帝废除肉刑",
-        "description": "齐国太仓令淳于意获罪，其女缇萦上书汉文帝愿为官婢以赎父刑。汉文帝深受感动，遂下诏废除黥、劓、刖等肉刑，改为笞刑。缇萦救父成为千古佳话。",
+        "description": "公元前167年，在西汉，汉文帝废除肉刑。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -1223,8 +1232,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "罗马废除马其顿王国",
+        "description": "公元前167年，在罗马共和国，罗马废除马其顿王国。",
+        "latitude": 40.5,
+        "longitude": 22.5,
+        "category": "政治",
+        "region": "罗马共和国",
+        "continent": "欧洲"
+      },
+      {
         "title": "马其顿被罗马肢解",
-        "description": "罗马将马其顿分为四区。",
+        "description": "公元前167年，在罗马共和国，马其顿被罗马肢解。",
         "latitude": 40.5,
         "longitude": 23.0,
         "category": "政治",
@@ -1246,7 +1264,7 @@
     "events": [
       {
         "title": "老上单于入侵",
-        "description": "匈奴老上单于率十四万骑兵入侵汉朝，攻入朝那、萧关，杀北地都尉。汉文帝欲亲征匈奴，被群臣劝阻。汉朝增派军队防守长安，匈奴在边地掠夺月余后退走。",
+        "description": "公元前166年，在西汉，老上单于入侵。",
         "latitude": 35.5,
         "longitude": 106.5,
         "category": "军事",
@@ -1255,7 +1273,7 @@
       },
       {
         "title": "马加比起义",
-        "description": "塞琉古国王安条克四世强行推行希腊化政策，在耶路撒冷圣殿设立宙斯祭坛，禁止犹太教信仰。犹太祭司玛他提亚和其子犹大·马加比起而反抗，犹太起义爆发，史称马加比起义。",
+        "description": "公元前166年，塞琉古帝国爆发马加比起义，对当局造成了巨大冲击。",
         "latitude": 31.8,
         "longitude": 35.2,
         "category": "宗教",
@@ -1277,7 +1295,7 @@
     "events": [
       {
         "title": "犹大·马加比攻取耶路撒冷",
-        "description": "犹大·马加比率起义军攻入耶路撒冷，净化被玷污的圣殿，重建祭坛。犹太教节日'光明节'（Hanukkah）即源于此。起义军宣布恢复犹太教信仰，实行自治。",
+        "description": "公元前165年，塞琉古帝国地区的宗教领域发生重要事件——犹大·马加比攻取耶路撒冷，对信众的精神生活产生了深刻影响。",
         "latitude": 31.8,
         "longitude": 35.2,
         "category": "宗教",
@@ -1285,17 +1303,8 @@
         "continent": "亚洲"
       },
       {
-        "title": "汉朝冶铁技术发展",
-        "description": "汉代冶铁技术进一步改进，铁器广泛使用。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "科技",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "犹太教时期",
-        "description": "第二圣殿。",
+        "description": "公元前165年，犹太地区的宗教领域发生重要事件——犹太教时期，对信众的精神生活产生了深刻影响。",
         "latitude": 31.8,
         "longitude": 35.2,
         "category": "宗教",
@@ -1317,7 +1326,7 @@
     "events": [
       {
         "title": "塞琉古帝国内乱",
-        "description": "安条克四世在波斯征战期间去世，其子安条克五世年幼继位，帝国陷入摄政之争。塞琉古帝国迅速衰落，周边省份纷纷独立。",
+        "description": "公元前164年，在塞琉古帝国，塞琉古帝国内乱。",
         "latitude": 36.0,
         "longitude": 36.0,
         "category": "政治",
@@ -1339,7 +1348,7 @@
     "events": [
       {
         "title": "安条克五世被废",
-        "description": "塞琉古帝国国王安条克五世被德米特里一世推翻，帝国权力更迭频繁。",
+        "description": "公元前163年，在塞琉古帝国，安条克五世被废。",
         "latitude": 33.5,
         "longitude": 36.3,
         "category": "政治",
@@ -1361,7 +1370,7 @@
     "events": [
       {
         "title": "汉朝与匈奴复修和亲",
-        "description": "汉文帝遣使匈奴，与老上单于复修和亲之约。汉朝继续向匈奴赠送财物，维持边境暂时的和平局面。文帝时期汉朝经济逐渐恢复，国力增强。",
+        "description": "公元前162年，西汉开展汉朝与匈奴复修和亲，体现了当时的国际关系格局。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "外交",
@@ -1370,7 +1379,7 @@
       },
       {
         "title": "罗马与塞琉古外交",
-        "description": "罗马干涉塞琉古内政。",
+        "description": "公元前162年，罗马共和国开展罗马与塞琉古外交，体现了当时的国际关系格局。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "外交",
@@ -1391,21 +1400,21 @@
     ],
     "events": [
       {
-        "title": "马加比家族建立犹太哈斯蒙尼王朝",
-        "description": "犹大·马加比击败塞琉古军队，建立犹太哈斯蒙尼王朝，恢复耶路撒冷圣殿崇拜。",
-        "latitude": 31.8,
-        "longitude": 35.2,
-        "category": "政治",
-        "region": "犹太王国",
-        "continent": "亚洲"
-      },
-      {
         "title": "马加比与罗马结盟",
-        "description": "犹太与罗马共和国订立同盟。",
+        "description": "公元前161年，犹太开展马加比与罗马结盟，体现了当时的国际关系格局。",
         "latitude": 31.8,
         "longitude": 35.2,
         "category": "外交",
         "region": "犹太",
+        "continent": "亚洲"
+      },
+      {
+        "title": "马加比家族建立犹太哈斯蒙尼王朝",
+        "description": "公元前161年，马加比家族建立犹太哈斯蒙尼王朝，标志着新的政治实体在犹太王国地区诞生。",
+        "latitude": 31.8,
+        "longitude": 35.2,
+        "category": "政治",
+        "region": "犹太王国",
         "continent": "亚洲"
       }
     ]
@@ -1422,17 +1431,8 @@
     ],
     "events": [
       {
-        "title": "罗马与希腊冲突加剧",
-        "description": "罗马在第四次马其顿战争前夕加强对希腊的控制。罗德岛因在之前的战争中表现中立受到打压，罗马将提洛岛设为自由港，罗德岛商业遭受重创。",
-        "latitude": 36.4,
-        "longitude": 28.2,
-        "category": "政治",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
         "title": "提摩太起义",
-        "description": "犹太马加比王朝巩固。",
+        "description": "公元前160年，犹太王国爆发提摩太起义，对当局造成了巨大冲击。",
         "latitude": 31.8,
         "longitude": 35.2,
         "category": "政治",
@@ -1441,12 +1441,21 @@
       },
       {
         "title": "汉朝冶铁业",
-        "description": "铁官。",
+        "description": "公元前160年在西汉发生了汉朝冶铁业这一历史事件。这一事件在当地具有重要的历史意义对后世产生了深远影响值得我们今天认真回顾和研究。",
         "latitude": 34.3,
         "longitude": 108.9,
-        "category": "工业",
+        "category": "经济",
         "region": "西汉",
         "continent": "亚洲"
+      },
+      {
+        "title": "罗马与希腊冲突加剧",
+        "description": "公元前160年，在罗马共和国，罗马与希腊冲突加剧。",
+        "latitude": 36.4,
+        "longitude": 28.2,
+        "category": "政治",
+        "region": "罗马共和国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1462,17 +1471,8 @@
     ],
     "events": [
       {
-        "title": "汉文帝驾崩",
-        "description": "汉文帝刘恒驾崩，其子刘启即位为汉景帝。文景之治持续发展。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "卡托去世",
-        "description": "罗马著名政治家、监察官老卡托去世，以倡导传统罗马美德和消灭迦太基闻名。",
+        "description": "公元前159年，卡托去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "文化",
@@ -1480,8 +1480,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "汉文帝驾崩",
+        "description": "公元前159年，汉文帝驾崩，一个重要的历史人物离开了历史舞台。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "罗马驱逐哲学家",
-        "description": "罗马元老院驱逐希腊哲学家。",
+        "description": "公元前159年，罗马共和国地区的文化艺术领域取得了重要成就，罗马驱逐哲学家成为这一时期的文化代表。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "文化",
@@ -1503,7 +1512,7 @@
     "events": [
       {
         "title": "汉景帝即位",
-        "description": "汉景帝刘启即位，继续推行与民休息政策，为汉武帝时期繁荣奠定基础。",
+        "description": "公元前158年，汉景帝即位，开启了新的统治时期。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -1525,7 +1534,7 @@
     "events": [
       {
         "title": "汉文帝驾崩，景帝即位",
-        "description": "汉文帝刘恒驾崩，在位二十三年。太子刘启即位，是为汉景帝。文帝在位期间提倡节俭、减轻赋税、废除酷刑，与民休息，奠定了'文景之治'的基业。",
+        "description": "公元前157年，汉文帝驾崩，景帝即位，开启了新的统治时期。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -1534,7 +1543,7 @@
       },
       {
         "title": "罗马迦太基关系恶化",
-        "description": "罗马支持努米底亚侵迦太基。",
+        "description": "公元前157年，罗马共和国开展罗马迦太基关系恶化，体现了当时的国际关系格局。",
         "latitude": 37.0,
         "longitude": 10.0,
         "category": "外交",
@@ -1556,7 +1565,7 @@
     "events": [
       {
         "title": "汉朝与匈奴和亲",
-        "description": "汉景帝遣使与匈奴和亲，维护北部边境和平，为汉朝赢得发展时间。",
+        "description": "公元前156年，西汉开展汉朝与匈奴和亲，体现了当时的国际关系格局。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "外交",
@@ -1578,7 +1587,7 @@
     "events": [
       {
         "title": "晁错上《削藩策》",
-        "description": "御史大夫晁错向汉景帝上《削藩策》，建议削减诸侯王封地以加强中央集权。他认为诸侯王'削之亦反，不削亦反'，早削祸小、晚削祸大。汉景帝采纳其建议开始削藩。",
+        "description": "公元前155年，在西汉，晁错上《削藩策》。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -1586,20 +1595,20 @@
         "continent": "亚洲"
       },
       {
-        "title": "罗马西班牙战争",
-        "description": "罗马在西班牙镇压起义。",
-        "latitude": 40.5,
-        "longitude": -4.0,
-        "category": "军事",
+        "title": "罗马剧场",
+        "description": "公元前155年，罗马共和国地区的文化艺术领域取得了重要成就，罗马剧场成为这一时期的文化代表。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "艺术",
         "region": "罗马共和国",
         "continent": "欧洲"
       },
       {
-        "title": "罗马剧场",
-        "description": "戏剧。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "艺术",
+        "title": "罗马西班牙战争",
+        "description": "公元前155年，罗马共和国爆发罗马西班牙战争，战事在罗马共和国地区全面展开。",
+        "latitude": 40.5,
+        "longitude": -4.0,
+        "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
       }
@@ -1618,7 +1627,7 @@
     "events": [
       {
         "title": "七国之乱",
-        "description": "吴王刘濞联合楚、赵、胶东、胶西、济南、淄川六国诸侯王以'清君侧、诛晁错'为名发动叛乱，史称七国之乱。汉景帝在袁盎建议下腰斩晁错以平息众怒，但吴王得悉晁错已死后仍不退兵，自称'东帝'。",
+        "description": "公元前154年，在西汉，七国之乱。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "军事",
@@ -1640,7 +1649,7 @@
     "events": [
       {
         "title": "汉景帝削藩后续",
-        "description": "七国之乱平定后，汉景帝继续削弱诸侯王权力，规定诸侯王不得治国，其封国由中央任命的相管理。诸侯王仅保留封国内的经济收益，政治权力被剥夺殆尽。",
+        "description": "公元前153年，在西汉，汉景帝削藩后续。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -1649,7 +1658,7 @@
       },
       {
         "title": "罗马执政官任期调整",
-        "description": "罗马调整执政官上任时间。",
+        "description": "公元前153年，在罗马共和国，罗马执政官任期调整。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -1670,22 +1679,22 @@
     ],
     "events": [
       {
-        "title": "罗马巩固西班牙行省",
-        "description": "罗马共和国在伊比利亚半岛镇压凯尔特伊比利亚人反抗，巩固行省统治。",
-        "latitude": 40.4,
-        "longitude": -3.7,
-        "category": "军事",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
         "title": "塞琉古德米特里一世",
-        "description": "塞琉古王德米特里平定内乱。",
+        "description": "公元前152年，在塞琉古帝国，塞琉古德米特里一世。",
         "latitude": 35.0,
         "longitude": 37.5,
         "category": "政治",
         "region": "塞琉古帝国",
         "continent": "亚洲"
+      },
+      {
+        "title": "罗马巩固西班牙行省",
+        "description": "公元前152年，在罗马共和国，罗马巩固西班牙行省。",
+        "latitude": 40.4,
+        "longitude": -3.7,
+        "category": "军事",
+        "region": "罗马共和国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1701,22 +1710,22 @@
     ],
     "events": [
       {
-        "title": "第四次叙利亚战争爆发",
-        "description": "塞琉古帝国与托勒密埃及为争夺叙利亚地区爆发第四次叙利亚战争。",
-        "latitude": 33.5,
-        "longitude": 36.3,
-        "category": "军事",
-        "region": "塞琉古帝国",
-        "continent": "亚洲"
-      },
-      {
         "title": "努米底亚国王马西尼萨去世",
-        "description": "北非努米底亚老国王去世。",
+        "description": "公元前151年，努米底亚国王马西尼萨去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 36.0,
         "longitude": 6.0,
         "category": "政治",
         "region": "努米底亚",
         "continent": "非洲"
+      },
+      {
+        "title": "第四次叙利亚战争爆发",
+        "description": "公元前151年，塞琉古帝国爆发第四次叙利亚战争爆发，战事在塞琉古帝国地区全面展开。",
+        "latitude": 33.5,
+        "longitude": 36.3,
+        "category": "军事",
+        "region": "塞琉古帝国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1733,7 +1742,7 @@
     "events": [
       {
         "title": "南欧（非洲）覆灭",
-        "description": "第四次马其顿战争以马其顿人安德里斯库斯被罗马击败告终。罗马将马其顿改为罗马行省，正式设总督治理。马其顿王国彻底灭亡。",
+        "description": "公元前150年，罗马共和国地区的南欧（非洲）覆灭，一个时代由此终结。",
         "latitude": 40.5,
         "longitude": 22.5,
         "category": "政治",
@@ -1741,17 +1750,17 @@
         "continent": "欧洲"
       },
       {
-        "title": "希腊机械技术发展",
-        "description": "希腊人发明安提基特拉机械，模拟天体运行。",
-        "latitude": 37.0,
-        "longitude": 27.0,
+        "title": "希帕克斯创立方位天文学",
+        "description": "公元前150年，希腊的科技发展取得重要进展，希帕克斯创立方位天文学推动了相关领域的技术进步。",
+        "latitude": 36.9,
+        "longitude": 27.3,
         "category": "科技",
-        "region": "古希腊",
+        "region": "希腊",
         "continent": "欧洲"
       },
       {
         "title": "迦太基遭努米底亚攻击",
-        "description": "努米底亚侵迦太基罗马支持。",
+        "description": "公元前150年，在努米底亚，迦太基遭努米底亚攻击。",
         "latitude": 37.0,
         "longitude": 10.0,
         "category": "军事",
@@ -1773,7 +1782,7 @@
     "events": [
       {
         "title": "第三次布匿战争爆发",
-        "description": "罗马以迦太基违反和约武力自卫为由向迦太基宣战，第三次布匿战争爆发。罗马元老院坚决主张消灭迦太基，老加图每次演讲都以'迦太基必须被毁灭'作结。罗马军队在北非登陆。",
+        "description": "公元前149年，罗马共和国爆发第三次布匿战争爆发，战事在罗马共和国地区全面展开。",
         "latitude": 36.9,
         "longitude": 10.3,
         "category": "军事",
@@ -1795,7 +1804,7 @@
     "events": [
       {
         "title": "马其顿成为罗马行省",
-        "description": "罗马镇压安德里斯库斯起义后，将马其顿正式设立为罗马行省。",
+        "description": "公元前148年，在罗马共和国，马其顿成为罗马行省。",
         "latitude": 40.6,
         "longitude": 22.9,
         "category": "政治",
@@ -1817,7 +1826,7 @@
     "events": [
       {
         "title": "汉景帝平定七国之乱",
-        "description": "吴王刘濞联合六国诸侯发动七国之乱，汉景帝派周亚夫平定叛乱，中央集权加强。",
+        "description": "公元前147年，在西汉，汉景帝平定七国之乱。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "军事",
@@ -1826,7 +1835,7 @@
       },
       {
         "title": "罗马攻打迦太基",
-        "description": "罗马军包围迦太基城。",
+        "description": "公元前147年，在罗马共和国，罗马攻打迦太基。",
         "latitude": 36.9,
         "longitude": 10.3,
         "category": "军事",
@@ -1847,22 +1856,31 @@
     ],
     "events": [
       {
-        "title": "迦太基城毁灭",
-        "description": "罗马军队在科尔内利乌斯·西庇阿·埃米利安努斯（小西庇阿）指挥下攻破迦太基城。围城持续三年，迦太基人宁死不降。城市被烧成废墟，十五万居民死亡，五万人被卖为奴隶。罗马在废墟上撒盐，迦太基彻底消失。",
-        "latitude": 36.9,
-        "longitude": 10.3,
-        "category": "军事",
-        "region": "罗马共和国",
-        "continent": "非洲"
-      },
-      {
         "title": "科林斯被毁",
-        "description": "罗马执政官穆米乌斯攻破希腊城邦科林斯，将该城彻底摧毁，艺术品和财富被洗劫一空。科林斯的毁灭标志着希腊城邦独立历史的终结。希腊并入罗马的马其顿行省。",
+        "description": "公元前146年，在罗马共和国，科林斯被毁。",
         "latitude": 37.9,
         "longitude": 22.9,
         "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "罗马征服迦太基",
+        "description": "公元前146年，在迦太基，罗马征服迦太基。",
+        "latitude": 36.85,
+        "longitude": 10.33,
+        "category": "军事",
+        "region": "迦太基",
+        "continent": "非洲"
+      },
+      {
+        "title": "迦太基城毁灭",
+        "description": "公元前146年，在罗马共和国，迦太基城毁灭。",
+        "latitude": 36.9,
+        "longitude": 10.3,
+        "category": "军事",
+        "region": "罗马共和国",
+        "continent": "非洲"
       }
     ]
   },
@@ -1879,7 +1897,7 @@
     "events": [
       {
         "title": "司马迁出生",
-        "description": "中国伟大的史学家、文学家司马迁出生于夏阳（今陕西韩城）。他后来继承父志著《史记》，但遭李陵之祸受宫刑，忍辱负重完成这部中国历史上第一部纪传体通史。",
+        "description": "公元前145年，西汉地区的文化艺术领域取得了重要成就，司马迁出生成为这一时期的文化代表。",
         "latitude": 35.5,
         "longitude": 110.4,
         "category": "文化",
@@ -1888,7 +1906,7 @@
       },
       {
         "title": "希腊被罗马征服",
-        "description": "科林斯被毁希腊成为马其顿行省。",
+        "description": "公元前145年，在罗马共和国，希腊被罗马征服。",
         "latitude": 37.9,
         "longitude": 22.9,
         "category": "军事",
@@ -1910,7 +1928,7 @@
     "events": [
       {
         "title": "汉朝设立河西四郡",
-        "description": "汉武帝在河西走廊设立武威、张掖、酒泉、敦煌四郡，加强西域控制。",
+        "description": "公元前144年，在西汉，汉朝设立河西四郡。",
         "latitude": 38.5,
         "longitude": 100.0,
         "category": "政治",
@@ -1919,7 +1937,7 @@
       },
       {
         "title": "罗马建设水道",
-        "description": "罗马修建引水渠。",
+        "description": "公元前144年，罗马共和国的科技发展取得重要进展，罗马建设水道推动了相关领域的技术进步。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "科技",
@@ -1941,7 +1959,7 @@
     "events": [
       {
         "title": "罗马执政官改革",
-        "description": "罗马贵族和平民围绕土地分配问题展开激烈政治斗争。",
+        "description": "公元前143年，罗马共和国推行罗马执政官改革，对当地政治经济制度产生了深远影响。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -1950,7 +1968,7 @@
       },
       {
         "title": "西班牙努曼提亚战争",
-        "description": "罗马与努曼提亚人交战。",
+        "description": "公元前143年，罗马共和国爆发西班牙努曼提亚战争，战事在罗马共和国地区全面展开。",
         "latitude": 42.0,
         "longitude": -4.0,
         "category": "军事",
@@ -1972,7 +1990,7 @@
     "events": [
       {
         "title": "张骞出使西域出发",
-        "description": "汉武帝派遣张骞出使西域，联络大月氏共抗匈奴，开启丝绸之路。",
+        "description": "公元前142年，西汉开展张骞出使西域出发，体现了当时的国际关系格局。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "外交",
@@ -1981,7 +1999,7 @@
       },
       {
         "title": "汉与西域往来加强",
-        "description": "汉武帝遣使西域联络各国。",
+        "description": "公元前142年，西汉开展汉与西域往来加强，体现了当时的国际关系格局。",
         "latitude": 40.0,
         "longitude": 80.0,
         "category": "外交",
@@ -2003,9 +2021,18 @@
     "events": [
       {
         "title": "汉景帝驾崩，武帝即位",
-        "description": "汉景帝刘启驾崩，年仅十六岁的太子刘彻即位，是为汉武帝。武帝在位五十四年，是西汉最强盛的时期。他大力推行儒学、开拓疆域、远征匈奴、经营西域，奠定了中华帝国的基本疆域。",
+        "description": "公元前141年，汉景帝驾崩，武帝即位，开启了新的统治时期。",
         "latitude": 34.3,
         "longitude": 108.9,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉武帝即位",
+        "description": "公元前141年，汉武帝即位，开启了新的统治时期。",
+        "latitude": 34.3,
+        "longitude": 108.86,
         "category": "政治",
         "region": "西汉",
         "continent": "亚洲"
@@ -2024,8 +2051,17 @@
     ],
     "events": [
       {
+        "title": "丝绸之路全线贯通",
+        "description": "公元前140年，中亚经济领域发生丝绸之路全线贯通，对当时的经济生活产生了直接影响。",
+        "latitude": 40.0,
+        "longitude": 75.0,
+        "category": "经济",
+        "region": "中亚",
+        "continent": "亚洲"
+      },
+      {
         "title": "汉武帝建元新政",
-        "description": "汉武帝即位后改元'建元'，这是中国历史上第一个年号。他任用赵绾、王臧等儒生，欲推行儒学改革，兴太学、改正朔、定历数，但遭到信奉黄老之学的窦太后干预，新政受挫。",
+        "description": "公元前140年，在西汉，汉武帝建元新政。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -2033,20 +2069,20 @@
         "continent": "亚洲"
       },
       {
-        "title": "银币在第纳尔体系推广",
-        "description": "罗马帝国规范化货币体系。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "经济",
+        "title": "罗马围攻努曼提亚",
+        "description": "公元前140年，在罗马共和国，罗马围攻努曼提亚。",
+        "latitude": 42.0,
+        "longitude": -4.0,
+        "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
       },
       {
-        "title": "罗马围攻努曼提亚",
-        "description": "小西庇阿指挥攻努曼提亚。",
-        "latitude": 42.0,
-        "longitude": -4.0,
-        "category": "军事",
+        "title": "银币在第纳尔体系推广",
+        "description": "公元前140年，罗马共和国经济领域发生银币在第纳尔体系推广，对当时的经济生活产生了直接影响。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "经济",
         "region": "罗马共和国",
         "continent": "欧洲"
       }
@@ -2065,7 +2101,7 @@
     "events": [
       {
         "title": "张骞出使西域",
-        "description": "汉武帝为联合大月氏共抗匈奴，派郎官张骞率一百余人出使西域。张骞刚出河西即被匈奴扣留，长达十年。他始终持汉节不失，后寻机逃脱继续西行，是中国历史上第一位出使西域的使者。",
+        "description": "公元前139年，西汉开展张骞出使西域，体现了当时的国际关系格局。",
         "latitude": 38.0,
         "longitude": 100.0,
         "category": "外交",
@@ -2074,7 +2110,7 @@
       },
       {
         "title": "张骞西行",
-        "description": "张骞出使西域。",
+        "description": "公元前139年，西汉开展张骞西行，体现了当时的国际关系格局。",
         "latitude": 40.0,
         "longitude": 80.0,
         "category": "外交",
@@ -2095,22 +2131,22 @@
     ],
     "events": [
       {
-        "title": "闽越攻东瓯",
-        "description": "闽越发兵进攻东瓯（今浙江温州一带），东瓯向汉朝求救。汉武帝派严助率会稽兵浮海救援。汉军未至，闽越撤兵。东瓯因畏惧闽越，请求内迁，汉武帝将东瓯民众迁至江淮之间。",
-        "latitude": 28.0,
-        "longitude": 120.7,
-        "category": "外交",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "努曼提亚陷落",
-        "description": "努曼提亚被罗马攻陷。",
+        "description": "公元前138年，在罗马共和国，努曼提亚陷落。",
         "latitude": 42.0,
         "longitude": -4.0,
         "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "闽越攻东瓯",
+        "description": "公元前138年，西汉开展闽越攻东瓯，体现了当时的国际关系格局。",
+        "latitude": 28.0,
+        "longitude": 120.7,
+        "category": "外交",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2127,7 +2163,7 @@
     "events": [
       {
         "title": "第一次西西里奴隶起义",
-        "description": "西西里岛爆发大规模奴隶起义，尤努斯领导起义军对抗罗马统治。",
+        "description": "公元前137年，西西里爆发第一次西西里奴隶起义，对当局造成了巨大冲击。",
         "latitude": 37.6,
         "longitude": 14.0,
         "category": "社会",
@@ -2148,20 +2184,20 @@
     ],
     "events": [
       {
-        "title": "汉武帝设立五经博士",
-        "description": "汉武帝正式设立《诗》《书》《礼》《易》《春秋》五经博士，标志着儒学被确立为国家官学。此后儒家经典成为仕进必修科目，儒学思想开始主导中国政治和社会两千年。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "文化",
+        "title": "汉朝置河西四郡",
+        "description": "公元前136年，在西汉，汉朝置河西四郡。",
+        "latitude": 38.5,
+        "longitude": 100.0,
+        "category": "政治",
         "region": "西汉",
         "continent": "亚洲"
       },
       {
-        "title": "汉朝置河西四郡",
-        "description": "汉武帝设武威张掖酒泉敦煌。",
-        "latitude": 38.5,
-        "longitude": 100.0,
-        "category": "政治",
+        "title": "汉武帝设立五经博士",
+        "description": "公元前136年，西汉地区的文化艺术领域取得了重要成就，汉武帝设立五经博士成为这一时期的文化代表。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "文化",
         "region": "西汉",
         "continent": "亚洲"
       }
@@ -2179,22 +2215,22 @@
     ],
     "events": [
       {
-        "title": "窦太后去世",
-        "description": "尊崇黄老之学的太皇太后窦氏去世。汉武帝从此摆脱了祖母的政治桎梏，开始全面推行儒术治国，罢黜黄老、刑名百家之言，确立了'罢黜百家、独尊儒术'的国策。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "提比略格拉古任保民官",
-        "description": "提比略格拉古推行土地改革。",
+        "description": "公元前135年，在罗马共和国，提比略格拉古任保民官。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "窦太后去世",
+        "description": "公元前135年，窦太后去世，一个重要的历史人物离开了历史舞台。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2210,8 +2246,17 @@
     ],
     "events": [
       {
+        "title": "格拉古改革受阻",
+        "description": "公元前134年，罗马共和国推行格拉古改革受阻，对当地政治经济制度产生了深远影响。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马共和国",
+        "continent": "欧洲"
+      },
+      {
         "title": "汉武帝举贤良对策",
-        "description": "汉武帝下诏举贤良方正，董仲舒上'天人三策'，系统阐述了'大一统'思想和'罢黜百家、独尊儒术'的主张。汉武帝采纳其议，儒学从此成为中国封建社会的正统思想。",
+        "description": "公元前134年，西汉地区的文化艺术领域取得了重要成就，汉武帝举贤良对策成为这一时期的文化代表。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "文化",
@@ -2219,13 +2264,13 @@
         "continent": "亚洲"
       },
       {
-        "title": "格拉古改革受阻",
-        "description": "土地改革遭元老院抵制。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "政治",
-        "region": "罗马共和国",
-        "continent": "欧洲"
+        "title": "董仲舒献天人三策",
+        "description": "公元前134年，西汉地区的文化艺术领域取得了重要成就，董仲舒献天人三策成为这一时期的文化代表。",
+        "latitude": 34.3,
+        "longitude": 108.86,
+        "category": "文化",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2241,17 +2286,8 @@
     ],
     "events": [
       {
-        "title": "马邑之谋",
-        "description": "汉武帝采纳王恢建议，在马邑设伏诱击匈奴单于。汉军三十万伏兵待机，但单于在入塞途中识破计谋撤走。王恢因不战而回被问罪自杀。马邑之谋失败后，汉匈长达六十年的和亲关系彻底破裂。",
-        "latitude": 39.3,
-        "longitude": 112.6,
-        "category": "军事",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "帕加马王国遗赠罗马",
-        "description": "帕加马国王阿塔罗斯三世去世，遗诏将整个王国赠送给罗马共和国。罗马经过数年交涉和镇压反抗后，将帕加马领土设为亚细亚行省。罗马的势力深入小亚细亚腹地。",
+        "description": "公元前133年，在罗马共和国，帕加马王国遗赠罗马。",
         "latitude": 39.1,
         "longitude": 27.2,
         "category": "政治",
@@ -2260,12 +2296,21 @@
       },
       {
         "title": "提比略格拉古被杀",
-        "description": "格拉古在选举中被杀。",
+        "description": "公元前133年，在罗马共和国，提比略格拉古被杀。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "马邑之谋",
+        "description": "公元前133年，在西汉，马邑之谋。",
+        "latitude": 39.3,
+        "longitude": 112.6,
+        "category": "军事",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2281,17 +2326,8 @@
     ],
     "events": [
       {
-        "title": "黄河瓠子决口",
-        "description": "黄河在瓠子（今河南濮阳）决口，洪水泛滥淹没十六郡。汉武帝派汲黯等人组织堵口，但屡堵屡溃。此后黄河泛滥长达二十余年，给中原地区造成巨大灾难。",
-        "latitude": 35.7,
-        "longitude": 115.0,
-        "category": "社会",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "提比略·格拉古改革",
-        "description": "罗马保民官提比略·格拉古提出土地改革法案，限制个人占有公有地限额，将多余土地分给无地农民。法案遭到元老院贵族强烈反对，但格拉古绕过元老院直接提交公民大会通过。",
+        "description": "公元前132年，罗马共和国推行提比略·格拉古改革，对当地政治经济制度产生了深远影响。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -2300,10 +2336,19 @@
       },
       {
         "title": "汉朝北伐匈奴",
-        "description": "汉军出击匈奴。",
+        "description": "公元前132年，在西汉，汉朝北伐匈奴。",
         "latitude": 42.0,
         "longitude": 110.0,
         "category": "军事",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "黄河瓠子决口",
+        "description": "公元前132年，西汉社会领域出现黄河瓠子决口，反映了社会的发展变化。",
+        "latitude": 35.7,
+        "longitude": 115.0,
+        "category": "社会",
         "region": "西汉",
         "continent": "亚洲"
       }
@@ -2321,22 +2366,22 @@
     ],
     "events": [
       {
-        "title": "提比略·格拉古被杀",
-        "description": "提比略·格拉古在谋求连任保民官时，罗马贵族在大祭司纳西卡率领下冲入公民大会会场，用棍棒将格拉古及其三百余名追随者活活打死。格拉古改革失败，但开了罗马内部政治暴力之先河。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "政治",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
         "title": "亚细亚行省设立",
-        "description": "罗马设亚细亚行省。",
+        "description": "公元前131年，在罗马共和国，亚细亚行省设立。",
         "latitude": 38.0,
         "longitude": 28.0,
         "category": "政治",
         "region": "罗马共和国",
         "continent": "亚洲"
+      },
+      {
+        "title": "提比略·格拉古被杀",
+        "description": "公元前131年，在罗马共和国，提比略·格拉古被杀。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马共和国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2352,17 +2397,8 @@
     ],
     "events": [
       {
-        "title": "汉朝开发西南夷",
-        "description": "汉武帝遣使开发西南夷地区，设立犍为郡等行政机构，拓展疆域。",
-        "latitude": 28.0,
-        "longitude": 104.0,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "丝绸之路张骞通西域",
-        "description": "张骞出使西域报告大宛、大夏、安息等情况。",
+        "description": "公元前130年，西汉开展丝绸之路张骞通西域，体现了当时的国际关系格局。",
         "latitude": 42.0,
         "longitude": 72.0,
         "category": "外交",
@@ -2371,11 +2407,20 @@
       },
       {
         "title": "帕加马王国并入罗马",
-        "description": "帕加马末代国王遗赠罗马。",
+        "description": "公元前130年，在罗马共和国，帕加马王国并入罗马。",
         "latitude": 38.0,
         "longitude": 28.0,
         "category": "政治",
         "region": "罗马共和国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉朝开发西南夷",
+        "description": "公元前130年，在西汉，汉朝开发西南夷。",
+        "latitude": 28.0,
+        "longitude": 104.0,
+        "category": "政治",
+        "region": "西汉",
         "continent": "亚洲"
       }
     ]
@@ -2393,7 +2438,7 @@
     "events": [
       {
         "title": "汉朝首次大规模出击匈奴",
-        "description": "汉武帝派卫青、公孙敖、公孙贺、李广各率万骑分四路出击匈奴。卫青直捣龙城（匈奴祭天圣地），斩首七百；李广被俘后逃脱。这是汉朝首次主动进攻匈奴，标志着战略大转变。",
+        "description": "公元前129年，在西汉，汉朝首次大规模出击匈奴。",
         "latitude": 43.0,
         "longitude": 110.0,
         "category": "军事",
@@ -2402,7 +2447,7 @@
       },
       {
         "title": "盖乌斯格拉古改革",
-        "description": "盖乌斯格拉古任保民官推行改革。",
+        "description": "公元前129年，罗马共和国推行盖乌斯格拉古改革，对当地政治经济制度产生了深远影响。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -2424,7 +2469,7 @@
     "events": [
       {
         "title": "卫青再击匈奴",
-        "description": "车骑将军卫青率三万骑兵出雁门击匈奴，斩首数千。同年卫青又率军出云中（今内蒙古托克托），打击匈奴楼烦王和白羊王，取得重大胜利。卫青成为汉朝抗匈主将。",
+        "description": "公元前128年，西汉发生卫青再击匈奴，对当地军事格局产生了重要影响。",
         "latitude": 41.0,
         "longitude": 112.0,
         "category": "军事",
@@ -2433,7 +2478,7 @@
       },
       {
         "title": "汉朝通西域",
-        "description": "张骞抵大月氏。",
+        "description": "公元前128年，西汉开展汉朝通西域，体现了当时的国际关系格局。",
         "latitude": 38.0,
         "longitude": 68.0,
         "category": "外交",
@@ -2455,7 +2500,7 @@
     "events": [
       {
         "title": "汉武帝收复河南地",
-        "description": "卫青率军出云中至高阙，迂回至陇西，击败匈奴楼烦王和白羊王，收复被匈奴占据的河南地（河套平原）。汉朝在此设立朔方郡和五原郡，移民屯垦，将边境防线向北推进。",
+        "description": "公元前127年，在西汉，汉武帝收复河南地。",
         "latitude": 40.5,
         "longitude": 108.0,
         "category": "军事",
@@ -2464,7 +2509,7 @@
       },
       {
         "title": "河西走廊归汉",
-        "description": "汉在河西设郡。",
+        "description": "公元前127年，在西汉，河西走廊归汉。",
         "latitude": 38.5,
         "longitude": 100.0,
         "category": "政治",
@@ -2485,8 +2530,8 @@
     ],
     "events": [
       {
-        "title": "张骞返回长安",
-        "description": "张骞出使西域十三年后回到长安。他被匈奴扣留十年后逃脱，西行至大宛、康居、大月氏、大夏等国，虽未能说服大月氏联汉抗匈，但带回了大量关于西域地理、风俗、物产的珍贵信息。",
+        "title": "张骞归汉",
+        "description": "公元前126年，西汉开展张骞归汉，体现了当时的国际关系格局。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "外交",
@@ -2494,8 +2539,8 @@
         "continent": "亚洲"
       },
       {
-        "title": "张骞归汉",
-        "description": "张骞返长安报西域见闻。",
+        "title": "张骞返回长安",
+        "description": "公元前126年，西汉开展张骞返回长安，体现了当时的国际关系格局。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "外交",
@@ -2517,7 +2562,7 @@
     "events": [
       {
         "title": "罗马司法改革",
-        "description": "盖乌斯格拉古推司法改革。",
+        "description": "公元前125年，罗马共和国推行罗马司法改革，对当地政治经济制度产生了深远影响。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -2539,7 +2584,7 @@
     "events": [
       {
         "title": "卫青大破匈奴右贤王",
-        "description": "卫青率三万骑兵夜袭匈奴右贤王大营。右贤王正在饮酒作乐，汉军突袭将其击溃，俘获小王十余人、男女一万五千人、牲畜数百万头。汉武帝拜卫青为大将军，统领全国军队。",
+        "description": "公元前124年，在西汉，卫青大破匈奴右贤王。",
         "latitude": 42.0,
         "longitude": 105.0,
         "category": "军事",
@@ -2548,7 +2593,7 @@
       },
       {
         "title": "张骞第二次出使",
-        "description": "汉再度遣张骞出使乌孙。",
+        "description": "公元前124年，西汉开展张骞第二次出使，体现了当时的国际关系格局。",
         "latitude": 40.0,
         "longitude": 80.0,
         "category": "外交",
@@ -2569,19 +2614,19 @@
     ],
     "events": [
       {
-        "title": "霍去病初征匈奴",
-        "description": "十八岁的霍去病随卫青出征匈奴，率八百骑兵孤军深入数百里，斩首两千零二十八级，俘虏匈奴单于叔父。汉武帝封其为冠军侯。霍去病从此崭露头角。",
-        "latitude": 42.0,
-        "longitude": 108.0,
+        "title": "匈奴战事再起",
+        "description": "公元前123年，在西汉，匈奴战事再起。",
+        "latitude": 44.0,
+        "longitude": 110.0,
         "category": "军事",
         "region": "西汉",
         "continent": "亚洲"
       },
       {
-        "title": "匈奴战事再起",
-        "description": "汉军深入漠北击匈奴。",
-        "latitude": 44.0,
-        "longitude": 110.0,
+        "title": "霍去病初征匈奴",
+        "description": "公元前123年，在西汉，霍去病初征匈奴。",
+        "latitude": 42.0,
+        "longitude": 108.0,
         "category": "军事",
         "region": "西汉",
         "continent": "亚洲"
@@ -2601,7 +2646,7 @@
     "events": [
       {
         "title": "淮南王刘安谋反案",
-        "description": "淮南王刘安（《淮南子》编著者）因谋反事泄自杀，受牵连被诛者数万人。刘安曾招致宾客方士数千人编著《淮南子》，集道家思想之大成。此案后武帝进一步削弱了诸侯王权力。",
+        "description": "公元前122年，在西汉，淮南王刘安谋反案。",
         "latitude": 32.6,
         "longitude": 116.9,
         "category": "政治",
@@ -2610,7 +2655,7 @@
       },
       {
         "title": "盖乌斯格拉古被杀",
-        "description": "格拉古改革彻底失败。",
+        "description": "公元前122年，在罗马共和国，盖乌斯格拉古被杀。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -2631,17 +2676,8 @@
     ],
     "events": [
       {
-        "title": "霍去病河西大捷",
-        "description": "霍去病率万骑出陇西，越焉支山（今甘肃胭脂山）千余里，斩首八千九百，缴获休屠王祭天金人。同年夏再出陇西、北地，深入祁连山，俘获匈奴单桓王、酋涂王等，斩首三万余人。",
-        "latitude": 38.0,
-        "longitude": 100.0,
-        "category": "军事",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "匈奴浑邪王降汉",
-        "description": "匈奴浑邪王和休屠王因屡败于霍去病，单于欲诛之。浑邪王杀休屠王，率四万余部众降汉。汉武帝在河西走廊设立武威、张掖、酒泉、敦煌四郡，打通了通往西域的通道。",
+        "description": "公元前121年，在西汉，匈奴浑邪王降汉。",
         "latitude": 38.0,
         "longitude": 100.0,
         "category": "军事",
@@ -2650,10 +2686,19 @@
       },
       {
         "title": "汉朝通好西域诸国",
-        "description": "西域诸国遣使汉朝。",
+        "description": "公元前121年，西汉开展汉朝通好西域诸国，体现了当时的国际关系格局。",
         "latitude": 40.0,
         "longitude": 80.0,
         "category": "外交",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "霍去病河西大捷",
+        "description": "公元前121年，在西汉，霍去病河西大捷。",
+        "latitude": 38.0,
+        "longitude": 100.0,
+        "category": "军事",
         "region": "西汉",
         "continent": "亚洲"
       }
@@ -2671,8 +2716,17 @@
     ],
     "events": [
       {
+        "title": "日本侵略高句丽",
+        "description": "公元前120年，在西汉，日本侵略高句丽。",
+        "latitude": 40.0,
+        "longitude": 125.0,
+        "category": "军事",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "汉朝设立太学",
-        "description": "汉武帝采纳董仲舒建议，在长安设立太学，以儒家经典教授五经博士。",
+        "description": "公元前120年，西汉地区的文化艺术领域取得了重要成就，汉朝设立太学成为这一时期的文化代表。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "文化",
@@ -2681,20 +2735,11 @@
       },
       {
         "title": "贵霜帝国前身大月氏强盛",
-        "description": "大月氏人在中亚阿姆河流域建立五翕侯。",
+        "description": "公元前120年，在大月氏，贵霜帝国前身大月氏强盛。",
         "latitude": 38.0,
         "longitude": 68.0,
         "category": "政治",
         "region": "大月氏",
-        "continent": "亚洲"
-      },
-      {
-        "title": "日本侵略高句丽",
-        "description": "汉代中国边防。",
-        "latitude": 40.0,
-        "longitude": 125.0,
-        "category": "军事",
-        "region": "西汉",
         "continent": "亚洲"
       }
     ]
@@ -2712,7 +2757,7 @@
     "events": [
       {
         "title": "漠北之战",
-        "description": "汉武帝派卫青和霍去病各率五万骑兵分路出击漠北。卫青在漠北遭遇单于主力，击败单于迫其远遁；霍去病出代郡两千余里，击败左贤王，封狼居胥山（今蒙古肯特山）。此战使匈奴远遁漠北，'漠南无王庭'。",
+        "description": "公元前119年，西汉爆发漠北之战，战事在西汉地区全面展开。",
         "latitude": 45.0,
         "longitude": 110.0,
         "category": "军事",
@@ -2721,7 +2766,7 @@
       },
       {
         "title": "霍去病封狼居胥",
-        "description": "霍去病在漠北之战后于狼居胥山筑坛祭天，庆祝大捷。他追击匈奴至瀚海（今贝加尔湖）而还。封狼居胥成为后世中国武将的最高荣誉象征。霍去病时年仅二十二岁。",
+        "description": "公元前119年，在西汉，霍去病封狼居胥。",
         "latitude": 48.0,
         "longitude": 108.0,
         "category": "军事",
@@ -2743,7 +2788,7 @@
     "events": [
       {
         "title": "汉武帝币制改革",
-        "description": "汉武帝推行币制改革，废除半两钱，推行五铢钱。此钱币轻重适中、形制规范，成为此后七百年中国流通最稳定的货币。同时禁止各郡国私自铸币，由中央统一铸造。",
+        "description": "公元前118年，西汉推行汉武帝币制改革，对当地政治经济制度产生了深远影响。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "经济",
@@ -2752,7 +2797,7 @@
       },
       {
         "title": "霍去病去世",
-        "description": "霍去病英年早逝。",
+        "description": "公元前118年，霍去病去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "军事",
@@ -2773,22 +2818,22 @@
     ],
     "events": [
       {
-        "title": "霍去病英年早逝",
-        "description": "西汉名将霍去病年仅二十四岁因病去世。他曾率军六次出击匈奴，每战必胜，留下'匈奴未灭，何以家为'的千古名言。汉武帝调遣五万铁甲军为其送葬，墓葬形如祁连山。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "罗马改革和建殖民地",
-        "description": "罗马在意大利各省设殖民城市。",
+        "description": "公元前117年，罗马共和国推行罗马改革和建殖民地，对当地政治经济制度产生了深远影响。",
         "latitude": 42.0,
         "longitude": 12.0,
         "category": "政治",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "霍去病英年早逝",
+        "description": "公元前117年，在西汉，霍去病英年早逝。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2805,7 +2850,7 @@
     "events": [
       {
         "title": "罗马与努米底亚冲突加剧",
-        "description": "罗马共和国与北非努米底亚国王朱古达关系恶化，为朱古达战争埋下伏笔。",
+        "description": "公元前116年，在罗马共和国，罗马与努米底亚冲突加剧。",
         "latitude": 36.0,
         "longitude": 6.0,
         "category": "政治",
@@ -2826,17 +2871,8 @@
     ],
     "events": [
       {
-        "title": "张骞二次出使西域",
-        "description": "张骞奉命再次出使西域，率三百人、携带大量金币丝绸前往乌孙。他派副使分别前往大宛、康居、大月氏、安息、身毒等国。西域各国陆续派使团回访长安，丝绸之路正式开通。",
-        "latitude": 43.0,
-        "longitude": 80.0,
-        "category": "外交",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "帕提亚与罗马冲突",
-        "description": "帕提亚帝国与罗马共和国在美索不达米亚争夺势力范围。",
+        "description": "公元前115年，帕提亚帝国发生帕提亚与罗马冲突，对当地军事格局产生了重要影响。",
         "latitude": 35.0,
         "longitude": 43.0,
         "category": "军事",
@@ -2844,8 +2880,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "张骞二次出使西域",
+        "description": "公元前115年，西汉开展张骞二次出使西域，体现了当时的国际关系格局。",
+        "latitude": 43.0,
+        "longitude": 80.0,
+        "category": "外交",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "张骞返长安",
-        "description": "张骞通西域回长安。",
+        "description": "公元前115年，西汉开展张骞返长安，体现了当时的国际关系格局。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "外交",
@@ -2867,7 +2912,7 @@
     "events": [
       {
         "title": "汉朝再通西域",
-        "description": "汉武帝第二次派遣使团出使西域，加强与乌孙等国的联系。",
+        "description": "公元前114年，西汉开展汉朝再通西域，体现了当时的国际关系格局。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "外交",
@@ -2889,7 +2934,7 @@
     "events": [
       {
         "title": "南越国内乱",
-        "description": "南越国王赵兴年幼，其母樛太后主张内属汉朝，但南越丞相吕嘉坚决反对。吕嘉发动政变杀死赵兴和樛太后，立建德为王。汉武帝闻讯后准备大举征讨南越。",
+        "description": "公元前113年，在南越国，南越国内乱。",
         "latitude": 23.1,
         "longitude": 113.3,
         "category": "政治",
@@ -2898,7 +2943,7 @@
       },
       {
         "title": "条支与汉朝传说",
-        "description": "汉朝传闻条支罗马。",
+        "description": "公元前113年，西汉开展条支与汉朝传说，体现了当时的国际关系格局。",
         "latitude": 34.0,
         "longitude": 40.0,
         "category": "外交",
@@ -2920,7 +2965,7 @@
     "events": [
       {
         "title": "朱古达战争",
-        "description": "北非努米底亚国王朱古达与罗马发生战争。朱古达通过贿赂罗马元老和将军，多次击败罗马军队，甚至迫使罗马签订屈辱和约。此事暴露了罗马共和国的严重腐败。",
+        "description": "公元前112年，努米底亚爆发朱古达战争，战事在努米底亚地区全面展开。",
         "latitude": 35.0,
         "longitude": 6.0,
         "category": "军事",
@@ -2929,7 +2974,7 @@
       },
       {
         "title": "朱古达诱降罗马军",
-        "description": "努米底亚王朱古达击败罗马。",
+        "description": "公元前112年，在努米底亚，朱古达诱降罗马军。",
         "latitude": 36.0,
         "longitude": 6.0,
         "category": "军事",
@@ -2950,19 +2995,19 @@
     ],
     "events": [
       {
-        "title": "汉灭南越",
-        "description": "汉武帝派路博德、杨仆率楼船水师十万分路南下，攻破南越国都番禺（今广州）。南越王赵建德和丞相吕嘉被俘，南越国灭亡。汉朝在其地设立南海、苍梧、郁林等九郡，岭南正式纳入中国版图。",
-        "latitude": 23.1,
-        "longitude": 113.3,
+        "title": "南越归汉",
+        "description": "公元前111年，西汉发生南越归汉，对当地军事格局产生了重要影响。",
+        "latitude": 23.0,
+        "longitude": 113.0,
         "category": "军事",
         "region": "西汉",
         "continent": "亚洲"
       },
       {
-        "title": "南越归汉",
-        "description": "汉灭南越置九郡。",
-        "latitude": 23.0,
-        "longitude": 113.0,
+        "title": "汉灭南越",
+        "description": "公元前111年，在西汉，汉灭南越。",
+        "latitude": 23.1,
+        "longitude": 113.3,
         "category": "军事",
         "region": "西汉",
         "continent": "亚洲"
@@ -2981,8 +3026,26 @@
     ],
     "events": [
       {
+        "title": "《唐律疏议》修订",
+        "description": "公元前110年在唐朝的法律建设过程中具有重要意义。法律是社会秩序的基石和完善社会治理的重要手段。这一事件对唐朝的历史发展产生了不可忽视的影响值得我们今天认真回顾和反思。",
+        "latitude": 34.3,
+        "longitude": 108.86,
+        "category": "法律",
+        "region": "唐朝",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉武帝封禅泰山",
+        "description": "公元前110年，西汉地区的文化艺术领域取得了重要成就，汉武帝封禅泰山成为这一时期的文化代表。",
+        "latitude": 36.2,
+        "longitude": 117.1,
+        "category": "文化",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "汉武帝泰山封禅",
-        "description": "汉武帝率领十八万骑兵东巡至泰山举行封禅大典，在泰山顶祭天、梁父山祭地。这是西汉历史上最盛大的一次封禅仪式，武帝自以为功德可与上古圣王媲美。",
+        "description": "公元前110年，西汉地区的宗教领域发生重要事件——汉武帝泰山封禅，对信众的精神生活产生了深刻影响。",
         "latitude": 36.3,
         "longitude": 117.1,
         "category": "宗教",
@@ -3004,7 +3067,7 @@
     "events": [
       {
         "title": "汉朝远征朝鲜",
-        "description": "汉武帝派楼船将军杨仆和左将军荀彧率水陆大军五万远征卫氏朝鲜。朝鲜王卫右渠据险抵抗。经过数月作战，汉军最终攻破王俭城（今平壤），卫氏朝鲜灭亡，汉朝在此设立乐浪、临屯等四郡。",
+        "description": "公元前109年，西汉发生汉朝远征朝鲜，对当地军事格局产生了重要影响。",
         "latitude": 39.0,
         "longitude": 125.5,
         "category": "军事",
@@ -3013,7 +3076,7 @@
       },
       {
         "title": "马略任执政官",
-        "description": "马略当选罗马执政官改革军制。",
+        "description": "公元前109年，在罗马共和国，马略任执政官。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -3034,22 +3097,22 @@
     ],
     "events": [
       {
-        "title": "罗马军改",
-        "description": "罗马执政官马略进行军事改革，废除公民兵制，改为募兵制。由国家装备士兵，服役期十六年，退役后分给土地。改革解决了兵源不足问题，但也使士兵效忠将领而非国家。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "军事",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
         "title": "汉设乐浪郡",
-        "description": "汉在朝鲜设乐浪郡。",
+        "description": "公元前108年，在西汉，汉设乐浪郡。",
         "latitude": 39.0,
         "longitude": 125.0,
         "category": "政治",
         "region": "西汉",
         "continent": "亚洲"
+      },
+      {
+        "title": "罗马军改",
+        "description": "公元前108年，在罗马共和国，罗马军改。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "军事",
+        "region": "罗马共和国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -3066,7 +3129,7 @@
     "events": [
       {
         "title": "汉朝与安息通使",
-        "description": "张骞副使抵达安息帝国（帕提亚），安息国王遣两万骑迎于边境，盛情款待后派使团回访长安。汉朝与安息建立正式外交关系，丝绸之路东西两端的主要大国实现了直接联系。",
+        "description": "公元前107年，西汉开展汉朝与安息通使，体现了当时的国际关系格局。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "外交",
@@ -3075,7 +3138,7 @@
       },
       {
         "title": "马略军改",
-        "description": "马略以募兵制代替征兵。",
+        "description": "公元前107年，罗马共和国发生马略军改，对当地军事格局产生了重要影响。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "军事",
@@ -3097,7 +3160,7 @@
     "events": [
       {
         "title": "汉武帝设十三刺史部",
-        "description": "汉武帝将全国分为十三州部（监察区），每州设刺史一人，负责监察郡国官员的贪腐和失职行为。刺史秩仅六百石，但可监察二千石的高官，以小制大，加强了中央对地方的控制。",
+        "description": "公元前106年，在西汉，汉武帝设十三刺史部。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -3106,7 +3169,7 @@
       },
       {
         "title": "西汉置酒泉郡",
-        "description": "汉朝西北边防持续巩固。",
+        "description": "公元前106年，在西汉，西汉置酒泉郡。",
         "latitude": 39.5,
         "longitude": 99.0,
         "category": "政治",
@@ -3128,7 +3191,7 @@
     "events": [
       {
         "title": "罗马奇姆布利战争",
-        "description": "日耳曼部落奇姆布利人和条顿人大规模迁徙至罗马边境。罗马执政官马略被任命为统帅，对军队进行严格训练，准备迎战这些蛮族部落。",
+        "description": "公元前105年，罗马共和国爆发罗马奇姆布利战争，战事在罗马共和国地区全面展开。",
         "latitude": 43.5,
         "longitude": 4.0,
         "category": "军事",
@@ -3136,8 +3199,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "赵过推行代田法",
+        "description": "公元前105年在西汉的农业发展中是一个值得关注的时期。农业是古代社会最重要的生产部门直接关系到国计民生。这一事件对西汉的历史发展产生了不可忽视的影响值得我们今天认真回顾和反思。",
+        "latitude": 34.3,
+        "longitude": 108.86,
+        "category": "经济",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "辛布里人入侵罗马",
-        "description": "日耳曼部落大举入侵。",
+        "description": "公元前105年，在罗马共和国，辛布里人入侵罗马。",
         "latitude": 45.0,
         "longitude": 12.0,
         "category": "军事",
@@ -3159,7 +3231,7 @@
     "events": [
       {
         "title": "司马迁开始撰写《史记》",
-        "description": "司马迁在其父司马谈去世后继任太史令，开始着手编纂《史记》。他'究天人之际，通古今之变，成一家之言'，历时十余年完成了这部上起黄帝、下至汉武帝的三千年通史巨著。",
+        "description": "公元前104年，西汉地区的文化艺术领域取得了重要成就，司马迁开始撰写《史记》成为这一时期的文化代表。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "文化",
@@ -3167,20 +3239,29 @@
         "continent": "亚洲"
       },
       {
-        "title": "汉武帝改历颁《太初历》",
-        "description": "汉武帝命邓平、落下闳等人制定《太初历》，以正月为岁首，采用夏正建寅，废除秦历以十月为岁首的旧制。这部历法更加精密，是中国古代历法史上的重要里程碑。",
+        "title": "太初历颁行",
+        "description": "公元前104年，西汉的科技发展取得重要进展，太初历颁行推动了相关领域的技术进步。",
         "latitude": 34.3,
-        "longitude": 108.9,
+        "longitude": 108.86,
         "category": "科技",
         "region": "西汉",
         "continent": "亚洲"
       },
       {
         "title": "李广利征大宛",
-        "description": "汉武帝因大宛不肯献出汗血宝马，拜李广利为贰师将军率数万人远征大宛。因沿途补给困难，李广利初战不利，退至敦煌。武帝大怒，下令不许入关。",
+        "description": "公元前104年，西汉发生李广利征大宛，对当地军事格局产生了重要影响。",
         "latitude": 40.5,
         "longitude": 75.0,
         "category": "军事",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉武帝改历颁《太初历》",
+        "description": "公元前104年，西汉的科技发展取得重要进展，汉武帝改历颁《太初历》推动了相关领域的技术进步。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "科技",
         "region": "西汉",
         "continent": "亚洲"
       }
@@ -3198,17 +3279,8 @@
     ],
     "events": [
       {
-        "title": "罗马保民官改革尝试",
-        "description": "罗马保民官试图推动土地改革法案，遭贵族强烈反对，政治斗争激化。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "政治",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
         "title": "汉朝与匈奴漠北战役",
-        "description": "汉朝派遣李广利等将领出击匈奴，双方在漠北地区展开激战。",
+        "description": "公元前103年，西汉地区爆发汉朝与匈奴漠北战役，交战双方为争夺战略要地展开激烈战斗。",
         "latitude": 42.0,
         "longitude": 110.0,
         "category": "军事",
@@ -3216,8 +3288,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "罗马保民官改革尝试",
+        "description": "公元前103年，罗马共和国推行罗马保民官改革尝试，对当地政治经济制度产生了深远影响。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马共和国",
+        "continent": "欧洲"
+      },
+      {
         "title": "苏拉军事生涯开始",
-        "description": "苏拉参与朱古达战争。",
+        "description": "公元前103年，在罗马共和国，苏拉军事生涯开始。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "军事",
@@ -3239,7 +3320,7 @@
     "events": [
       {
         "title": "李广利再征大宛",
-        "description": "汉武帝增兵六万及大量物资，再命李广利远征大宛。此次汉军兵多粮足，沿途西域各国纷纷提供补给。大宛贵族杀国王毋寡求和，汉军获得汗血宝马数十匹、中马以下三千余匹。",
+        "description": "公元前102年，在西汉，李广利再征大宛。",
         "latitude": 40.5,
         "longitude": 75.0,
         "category": "军事",
@@ -3248,7 +3329,7 @@
       },
       {
         "title": "马略击败条顿人",
-        "description": "罗马在马赛附近击败条顿人。",
+        "description": "公元前102年，在罗马共和国，马略击败条顿人。",
         "latitude": 43.5,
         "longitude": 5.5,
         "category": "军事",
@@ -3270,7 +3351,7 @@
     "events": [
       {
         "title": "汉朝设立西域都护府前奏",
-        "description": "大宛征服后，西域诸国震动，纷纷遣使朝贡汉朝。汉朝在西域轮台、渠犁等地设置屯田校尉。这为后来汉宣帝时期正式设立西域都护府奠定了基础，西域开始纳入汉朝势力范围。",
+        "description": "公元前101年，在西汉，汉朝设立西域都护府前奏。",
         "latitude": 41.0,
         "longitude": 83.0,
         "category": "政治",
@@ -3279,7 +3360,7 @@
       },
       {
         "title": "韦尔凯莱战役",
-        "description": "罗马执政官马略与卡图卢斯在韦尔凯莱（今意大利北部）击败日耳曼奇姆布利部落。奇姆布利人几乎全军覆没，约九万人被杀。马略连败条顿人和奇姆布利人，成为罗马的救星。",
+        "description": "公元前101年，罗马共和国爆发韦尔凯莱战役，战事在罗马共和国地区全面展开。",
         "latitude": 45.0,
         "longitude": 8.0,
         "category": "军事",

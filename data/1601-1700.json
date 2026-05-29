@@ -12,7 +12,7 @@
     "events": [
       {
         "title": "利玛窦抵京",
-        "description": "意大利耶稣会传教士利玛窦抵达北京，觐见明神宗，获准居留传教，开创中西文化交流新局面。",
+        "description": "公元1601年，明地区的文化艺术领域取得了重要成就，利玛窦抵京成为这一时期的文化代表。",
         "latitude": 39.9,
         "longitude": 116.4,
         "category": "文化",
@@ -20,22 +20,22 @@
         "continent": "亚洲"
       },
       {
+        "title": "欧洲芭蕾起源",
+        "description": "公元1601年，法国文化领域的重要事件——欧洲芭蕾起源，成为这一时期的文化标志。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "艺术",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
         "title": "荷兰东印度公司获特许状",
-        "description": "荷兰东印度公司获国会特许状。",
+        "description": "公元1601年，荷兰经济领域发生荷兰东印度公司获特许状，对当时的经济生活产生了直接影响。",
         "latitude": 52.4,
         "longitude": 4.9,
         "category": "经济",
-        "region": "尼德兰",
+        "region": "荷兰",
         "continent": "亚洲"
-      },
-      {
-        "title": "欧洲芭蕾起源",
-        "description": "芭蕾。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "舞蹈",
-        "region": "法兰西",
-        "continent": "欧洲"
       }
     ]
   },
@@ -51,44 +51,8 @@
     ],
     "events": [
       {
-        "title": "荷兰东印度公司成立",
-        "description": "荷兰国会批准设立荷兰东印度公司，授予其好望角以东至麦哲伦海峡的贸易垄断权，成为17世纪最强大的商业殖民公司。",
-        "latitude": 52.4,
-        "longitude": 4.9,
-        "category": "经济",
-        "region": "荷兰",
-        "continent": "欧洲"
-      },
-      {
-        "title": "荷兰黄金时代",
-        "description": "荷兰共和国商业贸易和艺术繁荣，东印度公司全球贸易。",
-        "latitude": 52.4,
-        "longitude": 4.9,
-        "category": "经济",
-        "region": "尼德兰",
-        "continent": "欧洲"
-      },
-      {
-        "title": "清朝制度巩固",
-        "description": "清朝在中原逐步确立统治制度。",
-        "latitude": 39.9,
-        "longitude": 116.4,
-        "category": "政治",
-        "region": "清",
-        "continent": "亚洲"
-      },
-      {
-        "title": "清朝初定中原",
-        "description": "清朝逐步确定对中原的统治。",
-        "latitude": 39.9,
-        "longitude": 116.4,
-        "category": "政治",
-        "region": "清",
-        "continent": "亚洲"
-      },
-      {
         "title": "印度莫卧儿建筑",
-        "description": "泰姬陵等莫卧儿帝国建筑艺术杰作。",
+        "description": "公元1602年，莫卧儿帝国地区的文化艺术领域取得了重要成就，印度莫卧儿建筑成为这一时期的文化代表。",
         "latitude": 27.0,
         "longitude": 78.0,
         "category": "文化",
@@ -97,11 +61,47 @@
       },
       {
         "title": "欧洲国际关系博弈",
-        "description": "欧陆各国展开复杂外交军事博弈。",
+        "description": "公元1602年，在欧洲，欧洲国际关系博弈。",
         "latitude": 50.0,
         "longitude": 8.0,
         "category": "政治",
         "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "清朝初定中原",
+        "description": "公元1602年，清朝清朝初定中原。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
+        "title": "清朝制度巩固",
+        "description": "公元1602年，清朝清朝制度巩固。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
+        "title": "荷兰东印度公司成立",
+        "description": "公元1602年，荷兰东印度公司成立，标志着新的政治实体在荷兰地区诞生。",
+        "latitude": 52.4,
+        "longitude": 4.9,
+        "category": "经济",
+        "region": "荷兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "荷兰黄金时代",
+        "description": "公元1602年，荷兰经济领域发生荷兰黄金时代，对当时的经济生活产生了直接影响。",
+        "latitude": 52.4,
+        "longitude": 4.9,
+        "category": "经济",
+        "region": "荷兰",
         "continent": "欧洲"
       }
     ]
@@ -118,17 +118,17 @@
     ],
     "events": [
       {
-        "title": "英国伊丽莎白一世逝世",
-        "description": "英国都铎王朝女王伊丽莎白一世去世，苏格兰国王詹姆斯六世继位为英格兰国王詹姆斯一世，开启斯图亚特王朝时代。",
-        "latitude": 51.5,
-        "longitude": -0.1,
+        "title": "德川家康开江户幕府",
+        "description": "公元1603年，在日本，德川家康开江户幕府。",
+        "latitude": 35.7,
+        "longitude": 139.7,
         "category": "政治",
-        "region": "英格兰",
-        "continent": "欧洲"
+        "region": "日本",
+        "continent": "亚洲"
       },
       {
         "title": "德川幕府建立",
-        "description": "德川家康在关原之战获胜后，于江户开设幕府，开启江户时代，日本进入长达260余年的幕府统治时期。",
+        "description": "公元1603年，德川幕府建立，标志着新的政治实体在日本地区诞生。",
         "latitude": 35.7,
         "longitude": 139.8,
         "category": "政治",
@@ -137,7 +137,7 @@
       },
       {
         "title": "明朝灭亡与清军入关",
-        "description": "李自成攻占北京，明朝灭亡，清军入关建立清朝。",
+        "description": "公元1603年，明地区的明朝灭亡与清军入关，一个时代由此终结。",
         "latitude": 39.9,
         "longitude": 116.4,
         "category": "政治",
@@ -145,17 +145,26 @@
         "continent": "亚洲"
       },
       {
-        "title": "欧洲科学革命发展",
-        "description": "伽利略笛卡尔牛顿等推动科学进步。",
-        "latitude": 52.0,
-        "longitude": 5.0,
-        "category": "科技",
-        "region": "欧洲",
+        "title": "法国绝对君主制",
+        "description": "公元1603年，在法国，法国绝对君主制。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英国伊丽莎白一世逝世",
+        "description": "公元1603年，英国伊丽莎白一世逝世，一个重要的历史人物离开了历史舞台。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
         "continent": "欧洲"
       },
       {
         "title": "非洲奴隶贸易",
-        "description": "欧洲列强大规模从事跨大西洋奴隶贸易。",
+        "description": "公元1603年，西非社会领域出现非洲奴隶贸易，反映了社会的发展变化。",
         "latitude": 6.0,
         "longitude": -3.0,
         "category": "社会",
@@ -163,40 +172,13 @@
         "continent": "非洲"
       },
       {
-        "title": "法国绝对君主制",
-        "description": "路易十四在法国强化绝对君主制。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "政治",
-        "region": "法兰西",
-        "continent": "欧洲"
-      },
-      {
-        "title": "北美殖民发展",
-        "description": "英国在北美东海岸建立殖民地。",
-        "latitude": 38.0,
-        "longitude": -78.0,
-        "category": "政治",
-        "region": "英格兰",
-        "continent": "北美洲"
-      },
-      {
         "title": "非洲王国政治变迁",
-        "description": "非洲各王国政治发展变迁。",
+        "description": "公元1603年，在非洲，非洲王国政治变迁。",
         "latitude": -10.0,
         "longitude": 25.0,
         "category": "政治",
         "region": "非洲",
         "continent": "非洲"
-      },
-      {
-        "title": "德川家康开江户幕府",
-        "description": "德川家康关原之战后建立幕府。",
-        "latitude": 35.7,
-        "longitude": 139.7,
-        "category": "政治",
-        "region": "日本",
-        "continent": "亚洲"
       }
     ]
   },
@@ -212,17 +194,8 @@
     ],
     "events": [
       {
-        "title": "开普勒超新星爆发",
-        "description": "银河系内一颗超新星达到最亮，德国天文学家开普勒对其进行了详细观测记录，这是银河系中迄今最后一次肉眼可见的超新星爆发。",
-        "latitude": 48.1,
-        "longitude": 16.3,
-        "category": "科技",
-        "region": "神圣罗马帝国",
-        "continent": "欧洲"
-      },
-      {
         "title": "伦敦条约",
-        "description": "英国与西班牙签订《伦敦条约》，结束了两国自1585年以来的持续战争状态，英国获得与西班牙殖民地贸易的权利。",
+        "description": "公元1604年，伦敦条约，该协议的签署影响了相关国家的关系格局。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "外交",
@@ -230,8 +203,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "开普勒超新星爆发",
+        "description": "公元1604年，神圣罗马帝国的科技发展取得重要进展，开普勒超新星爆发推动了相关领域的技术进步。",
+        "latitude": 48.1,
+        "longitude": 16.3,
+        "category": "科技",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      },
+      {
         "title": "日本江户时代开始",
-        "description": "德川家康结束战国时代，建立江户幕府。",
+        "description": "公元1604年，在日本，日本江户时代开始。",
         "latitude": 35.7,
         "longitude": 139.7,
         "category": "政治",
@@ -239,17 +221,8 @@
         "continent": "亚洲"
       },
       {
-        "title": "荷兰东印度公司",
-        "description": "荷兰东印度公司控制亚洲贸易网络。",
-        "latitude": 52.4,
-        "longitude": 4.9,
-        "category": "经济",
-        "region": "尼德兰",
-        "continent": "亚洲"
-      },
-      {
-        "title": "欧洲殖民美洲",
-        "description": "欧洲列强在北美和加勒比建立殖民地。",
+        "title": "殖民美洲",
+        "description": "公元1604年，在欧洲，殖民美洲。",
         "latitude": 20.0,
         "longitude": -70.0,
         "category": "政治",
@@ -258,12 +231,21 @@
       },
       {
         "title": "英西伦敦和约",
-        "description": "英格兰与西班牙签订和平条约。",
+        "description": "公元1604年，英西伦敦和约，该协议的签署影响了相关国家的关系格局。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "外交",
         "region": "英格兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "荷兰东印度公司",
+        "description": "公元1604年，荷兰经济领域发生荷兰东印度公司，对当时的经济生活产生了直接影响。",
+        "latitude": 52.4,
+        "longitude": 4.9,
+        "category": "经济",
+        "region": "荷兰",
+        "continent": "亚洲"
       }
     ]
   },
@@ -279,8 +261,53 @@
     ],
     "events": [
       {
+        "title": "《堂吉诃德》出版",
+        "description": "公元1605年，西班牙地区的文化艺术领域取得了重要成就，《堂吉诃德》出版成为这一时期的文化代表。",
+        "latitude": 40.42,
+        "longitude": -3.7,
+        "category": "文化",
+        "region": "西班牙",
+        "continent": "欧洲"
+      },
+      {
+        "title": "《堂吉诃德》第一部出版",
+        "description": "公元1605年，西班牙地区的文化艺术领域取得了重要成就，《堂吉诃德》第一部出版成为这一时期的文化代表。",
+        "latitude": 40.42,
+        "longitude": -3.7,
+        "category": "文化",
+        "region": "西班牙",
+        "continent": "欧洲"
+      },
+      {
+        "title": "努尔哈赤娶孟古哲哲",
+        "description": "公元1605年，在后金，努尔哈赤娶孟古哲哲。",
+        "latitude": 41.7,
+        "longitude": 125.4,
+        "category": "政治",
+        "region": "后金",
+        "continent": "亚洲"
+      },
+      {
+        "title": "塞万提斯《堂吉诃德》",
+        "description": "公元1605年，西班牙文化领域的重要事件——塞万提斯《堂吉诃德》，成为这一时期的文化标志。",
+        "latitude": 40.42,
+        "longitude": -3.7,
+        "category": "文学",
+        "region": "西班牙",
+        "continent": "欧洲"
+      },
+      {
+        "title": "塞万提斯著《堂吉诃德》",
+        "description": "公元1605年，西班牙地区的文化艺术领域取得了重要成就，塞万提斯著《堂吉诃德》成为这一时期的文化代表。",
+        "latitude": 40.4,
+        "longitude": -3.7,
+        "category": "文化",
+        "region": "西班牙",
+        "continent": "欧洲"
+      },
+      {
         "title": "塞林伽巴丹条约",
-        "description": "英国东印度公司与印度坎德什苏丹国签订条约，获得在苏拉特建立商站的权力，标志着英国在印度殖民扩张的开端。",
+        "description": "公元1605年，塞林伽巴丹条约，该协议的签署影响了相关国家的关系格局。",
         "latitude": 21.2,
         "longitude": 72.8,
         "category": "外交",
@@ -288,17 +315,8 @@
         "continent": "亚洲"
       },
       {
-        "title": "欧洲三十年战争（约）",
-        "description": "欧洲宗教战争导致德意志人口大量减少，威斯特伐利亚和约确立现代国际体系。",
-        "latitude": 50.0,
-        "longitude": 10.0,
-        "category": "军事",
-        "region": "欧洲",
-        "continent": "欧洲"
-      },
-      {
         "title": "日本锁国体制形成",
-        "description": "德川幕府逐步建立锁国体制。",
+        "description": "公元1605年，在日本，日本锁国体制形成。",
         "latitude": 35.7,
         "longitude": 139.7,
         "category": "政治",
@@ -306,30 +324,21 @@
         "continent": "亚洲"
       },
       {
-        "title": "科学社团成立",
-        "description": "伦敦皇家学会巴黎科学院等科学社团成立。",
-        "latitude": 51.5,
-        "longitude": -0.1,
-        "category": "科技",
+        "title": "欧洲三十年战争（约）",
+        "description": "公元1605年，欧洲爆发欧洲三十年战争（约），战事在欧洲地区全面展开。",
+        "latitude": 50.0,
+        "longitude": 10.0,
+        "category": "军事",
         "region": "欧洲",
         "continent": "欧洲"
       },
       {
-        "title": "全球贸易网络形成",
-        "description": "欧亚美洲贸易网络联通。",
-        "latitude": 10.0,
-        "longitude": -10.0,
-        "category": "经济",
-        "region": "全球",
-        "continent": "欧洲"
-      },
-      {
-        "title": "塞万提斯著《堂吉诃德》",
-        "description": "《堂吉诃德》第一部出版。",
-        "latitude": 40.4,
-        "longitude": -3.7,
-        "category": "文化",
-        "region": "西班牙",
+        "title": "科学社团成立",
+        "description": "公元1605年，科学社团成立，标志着新的政治实体在欧洲地区诞生。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "科技",
+        "region": "欧洲",
         "continent": "欧洲"
       }
     ]
@@ -346,22 +355,31 @@
     ],
     "events": [
       {
-        "title": "荷兰人首次登陆澳大利亚",
-        "description": "荷兰航海家威廉·扬松率“杜伊夫肯号”抵达澳大利亚约克角半岛，成为有记载的首位登陆澳洲大陆的欧洲人。",
-        "latitude": -12.5,
-        "longitude": 141.5,
-        "category": "探险",
-        "region": "荷兰",
-        "continent": "大洋洲"
-      },
-      {
         "title": "云南武定土司叛乱平定",
-        "description": "云南武定土司凤阿克发动叛乱，攻掠州县，明朝派兵镇压，最终将其平定，巩固了对西南边疆的统治。",
+        "description": "公元1606年，在明，云南武定土司叛乱平定。",
         "latitude": 25.5,
         "longitude": 102.4,
         "category": "军事",
         "region": "明",
         "continent": "亚洲"
+      },
+      {
+        "title": "托雷斯发现新几内亚",
+        "description": "公元1606年，托雷斯发现新几内亚，这是人类在新几内亚取得的重要科技成就。",
+        "latitude": -10.5,
+        "longitude": 144.0,
+        "category": "科技",
+        "region": "新几内亚",
+        "continent": "大洋洲"
+      },
+      {
+        "title": "荷兰人首次登陆澳大利亚",
+        "description": "公元1606年，荷兰在科技领域取得重要进展——荷兰人首次登陆澳大利亚，推动了相关领域的进步。",
+        "latitude": -12.5,
+        "longitude": 141.5,
+        "category": "科技",
+        "region": "荷兰",
+        "continent": "大洋洲"
       }
     ]
   },
@@ -377,22 +395,31 @@
     ],
     "events": [
       {
-        "title": "詹姆斯敦建立",
-        "description": "英国伦敦弗吉尼亚公司在北美建立詹姆斯敦，这是英国在北美第一个永久殖民地，奠定了英属北美殖民地的基础。",
-        "latitude": 37.2,
-        "longitude": -76.8,
-        "category": "政治",
-        "region": "英属北美",
-        "continent": "北美洲"
-      },
-      {
         "title": "英国资产阶级革命",
-        "description": "英国内战和光荣革命确立议会主权。",
+        "description": "公元1607年，英格兰爆发英国资产阶级革命，动摇了既有统治秩序。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "政治",
         "region": "英格兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "蒙特威尔第《奥菲欧》",
+        "description": "公元1607年，意大利文化领域的重要事件——蒙特威尔第《奥菲欧》，成为这一时期的文化标志。",
+        "latitude": 45.16,
+        "longitude": 10.78,
+        "category": "音乐",
+        "region": "意大利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "詹姆斯敦建立",
+        "description": "公元1607年，詹姆斯敦建立，标志着新的政治实体在英属北美地区诞生。",
+        "latitude": 37.2,
+        "longitude": -76.8,
+        "category": "政治",
+        "region": "英属北美",
+        "continent": "北美洲"
       }
     ]
   },
@@ -408,26 +435,8 @@
     ],
     "events": [
       {
-        "title": "望远镜发明",
-        "description": "荷兰眼镜商人汉斯·利普希发明了望远镜。次年伽利略对其进行改进并用于天文观测，开启了现代天文学的新纪元。",
-        "latitude": 51.9,
-        "longitude": 4.5,
-        "category": "科技",
-        "region": "荷兰",
-        "continent": "欧洲"
-      },
-      {
-        "title": "科学革命",
-        "description": "伽利略、牛顿、开普勒等推动天文学和物理学革命。",
-        "latitude": 48.0,
-        "longitude": 8.0,
-        "category": "科技",
-        "region": "欧洲",
-        "continent": "欧洲"
-      },
-      {
         "title": "印度莫卧儿帝国鼎盛",
-        "description": "阿克巴和沙贾汗时期莫卧儿帝国黄金时代。",
+        "description": "公元1608年，在莫卧儿帝国，印度莫卧儿帝国鼎盛。",
         "latitude": 28.6,
         "longitude": 77.2,
         "category": "政治",
@@ -435,12 +444,39 @@
         "continent": "亚洲"
       },
       {
+        "title": "望远镜发明",
+        "description": "公元1608年，荷兰的科技发展取得重要进展，望远镜发明推动了相关领域的技术进步。",
+        "latitude": 51.9,
+        "longitude": 4.5,
+        "category": "科技",
+        "region": "荷兰",
+        "continent": "欧洲"
+      },
+      {
         "title": "法建魁北克城",
-        "description": "法国在加拿大建魁北克城。",
+        "description": "公元1608年，在法国，法建魁北克城。",
         "latitude": 46.8,
         "longitude": -71.2,
         "category": "政治",
-        "region": "法兰西",
+        "region": "法国",
+        "continent": "北美洲"
+      },
+      {
+        "title": "科学革命",
+        "description": "公元1608年，欧洲的科技发展取得重要进展，科学革命推动了相关领域的技术进步。",
+        "latitude": 48.0,
+        "longitude": 8.0,
+        "category": "科技",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "魁北克建城",
+        "description": "公元1608年，在新法兰西，魁北克建城。",
+        "latitude": 46.81,
+        "longitude": -71.21,
+        "category": "政治",
+        "region": "新法兰西",
         "continent": "北美洲"
       }
     ]
@@ -457,8 +493,26 @@
     ],
     "events": [
       {
-        "title": "伽利略天文观测",
-        "description": "伽利略将改进后的望远镜指向夜空，发现月球表面凹凸不平、银河由无数恒星组成，并发现木星四大卫星。",
+        "title": "伽利略发明望远镜",
+        "description": "公元1609年，意大利的科技发展取得重要进展，伽利略发明望远镜推动了相关领域的技术进步。",
+        "latitude": 45.41,
+        "longitude": 11.88,
+        "category": "科技",
+        "region": "意大利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "伽利略天文望远镜",
+        "description": "公元1609年，意大利的科技发展取得重要进展，伽利略天文望远镜推动了相关领域的技术进步。",
+        "latitude": 45.41,
+        "longitude": 11.88,
+        "category": "科技",
+        "region": "意大利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "伽利略发现木星卫星",
+        "description": "公元1609年，佛罗伦萨的科技发展取得重要进展，伽利略天文观测推动了相关领域的技术进步。",
         "latitude": 43.8,
         "longitude": 11.2,
         "category": "科技",
@@ -467,7 +521,7 @@
       },
       {
         "title": "十二年停战协定",
-        "description": "西班牙与荷兰共和国签订十二年停战协定，事实上承认了荷兰的独立地位，荷兰进入黄金时代。",
+        "description": "公元1609年，荷兰开展十二年停战协定，体现了当时的国际关系格局。",
         "latitude": 52.1,
         "longitude": 4.3,
         "category": "外交",
@@ -475,12 +529,30 @@
         "continent": "欧洲"
       },
       {
+        "title": "哈德逊探索北美",
+        "description": "公元1609年，北美在科技领域取得重要进展——哈德逊探索北美，推动了相关领域的进步。",
+        "latitude": 42.0,
+        "longitude": -74.0,
+        "category": "科技",
+        "region": "北美",
+        "continent": "北美洲"
+      },
+      {
+        "title": "第一份现代报纸",
+        "description": "公元1609年，神圣罗马帝国地区的文化艺术领域取得了重要成就，第一份现代报纸成为这一时期的文化代表。",
+        "latitude": 48.58,
+        "longitude": 7.75,
+        "category": "文化",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      },
+      {
         "title": "荷发现曼哈顿岛",
-        "description": "哈德逊发现曼哈顿岛。",
+        "description": "公元1609年，荷兰的科技发展取得重要进展，荷发现曼哈顿岛推动了相关领域的技术进步。",
         "latitude": 40.7,
         "longitude": -74.0,
         "category": "科技",
-        "region": "尼德兰",
+        "region": "荷兰",
         "continent": "北美洲"
       }
     ]
@@ -497,30 +569,39 @@
     ],
     "events": [
       {
-        "title": "伽利略发现金星相位",
-        "description": "伽利略通过望远镜观测发现金星呈现类似月亮的相位变化，这一发现有力支持了日心说理论。",
-        "latitude": 43.8,
-        "longitude": 11.2,
-        "category": "科技",
-        "region": "佛罗伦萨",
+        "title": "不列颠殖民者",
+        "description": "公元1610年，在北美，不列颠殖民者。",
+        "latitude": 47.5,
+        "longitude": -52.5,
+        "category": "政治",
+        "region": "北美",
+        "continent": "北美洲"
+      },
+      {
+        "title": "中国茶叶传入欧洲",
+        "description": "公元1610年，英格兰文化领域的重要事件——中国茶叶传入欧洲，成为这一时期的文化标志。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "文化",
+        "region": "英格兰",
         "continent": "欧洲"
       },
       {
-        "title": "伽利略发现木星卫星",
-        "description": "伽利略用自制望远镜发现木星四大卫星。",
-        "latitude": 43.8,
-        "longitude": 11.3,
+        "title": "伽利略发现木卫",
+        "description": "公元1610年，意大利的科技发展取得重要进展，伽利略发现木卫推动了相关领域的技术进步。",
+        "latitude": 45.41,
+        "longitude": 11.88,
         "category": "科技",
         "region": "意大利",
         "continent": "欧洲"
       },
       {
-        "title": "中国茶叶传入欧洲",
-        "description": "茶叶。",
-        "latitude": 51.5,
-        "longitude": -0.1,
-        "category": "饮食",
-        "region": "英格兰",
+        "title": "伽利略发现金星相位",
+        "description": "公元1610年，佛罗伦萨的科技发展取得重要进展，伽利略发现金星相位推动了相关领域的技术进步。",
+        "latitude": 43.8,
+        "longitude": 11.2,
+        "category": "科技",
+        "region": "佛罗伦萨",
         "continent": "欧洲"
       }
     ]
@@ -537,21 +618,21 @@
     ],
     "events": [
       {
-        "title": "钦定版圣经出版",
-        "description": "英王詹姆斯一世下令翻译的英文圣经（钦定版）正式出版发行，对英语文学和语言发展产生深远影响。",
-        "latitude": 51.5,
-        "longitude": -0.1,
-        "category": "文化",
-        "region": "英格兰",
-        "continent": "欧洲"
-      },
-      {
         "title": "望远镜观测太阳黑子",
-        "description": "多位欧洲天文学家几乎同时使用望远镜观测到太阳黑子，其中包括伽利略、法布里修斯和沙伊纳，推动了太阳研究的发展。",
+        "description": "公元1611年，佛罗伦萨的科技发展取得重要进展，望远镜观测太阳黑子推动了相关领域的技术进步。",
         "latitude": 43.8,
         "longitude": 11.2,
         "category": "科技",
         "region": "佛罗伦萨",
+        "continent": "欧洲"
+      },
+      {
+        "title": "钦定版圣经出版",
+        "description": "公元1611年，英格兰地区的文化艺术领域取得了重要成就，钦定版圣经出版成为这一时期的文化代表。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "文化",
+        "region": "英格兰",
         "continent": "欧洲"
       }
     ]
@@ -569,7 +650,7 @@
     "events": [
       {
         "title": "伽利略观测海王星",
-        "description": "伽利略在观测木星卫星时无意中记录下了海王星的位置，但未意识到它是新行星，海王星直到1846年才被正式发现。",
+        "description": "公元1612年，佛罗伦萨的科技发展取得重要进展，伽利略观测海王星推动了相关领域的技术进步。",
         "latitude": 43.8,
         "longitude": 11.2,
         "category": "科技",
@@ -577,22 +658,22 @@
         "continent": "欧洲"
       },
       {
+        "title": "荷兰在曼哈顿建贸易站",
+        "description": "公元1612年，荷兰经济领域发生荷兰在曼哈顿建贸易站，对当时的经济生活产生了直接影响。",
+        "latitude": 40.7,
+        "longitude": -74.0,
+        "category": "经济",
+        "region": "荷兰",
+        "continent": "北美洲"
+      },
+      {
         "title": "莫卧儿帝国获英国贸易权",
-        "description": "英国东印度公司在莫卧儿帝国苏拉特击败葡萄牙舰队，获得贾汗吉尔皇帝的贸易许可，英印贸易关系正式建立。",
+        "description": "公元1612年，莫卧儿帝国开展莫卧儿帝国获英国贸易权，体现了当时的国际关系格局。",
         "latitude": 21.2,
         "longitude": 72.8,
         "category": "外交",
         "region": "莫卧儿帝国",
         "continent": "亚洲"
-      },
-      {
-        "title": "荷兰在曼哈顿建贸易站",
-        "description": "荷兰在曼哈顿设皮毛贸易站。",
-        "latitude": 40.7,
-        "longitude": -74.0,
-        "category": "经济",
-        "region": "尼德兰",
-        "continent": "北美洲"
       }
     ]
   },
@@ -609,11 +690,11 @@
     "events": [
       {
         "title": "罗曼诺夫王朝建立",
-        "description": "全俄缙绅会议推举米哈伊尔·罗曼诺夫为沙皇，俄国罗曼诺夫王朝开始，该王朝统治俄国直至1917年。",
+        "description": "公元1613年，罗曼诺夫王朝建立，标志着新的政治实体在俄国地区诞生。",
         "latitude": 55.8,
         "longitude": 37.6,
         "category": "政治",
-        "region": "俄罗斯",
+        "region": "俄国",
         "continent": "欧洲"
       }
     ]
@@ -631,7 +712,7 @@
     "events": [
       {
         "title": "大阪冬之阵",
-        "description": "德川家康发动大阪冬之阵，围攻丰臣秀赖据守的大阪城。经和谈后双方暂时议和，但德川家康趁机填平了大阪城的外壕。",
+        "description": "公元1614年，在日本，大阪冬之阵。",
         "latitude": 34.7,
         "longitude": 135.5,
         "category": "军事",
@@ -640,7 +721,7 @@
       },
       {
         "title": "纳皮尔发明对数",
-        "description": "苏格兰数学家约翰·纳皮尔发表《奇妙的对数定律的描述》，首次公布对数概念，极大简化了天文和航海中的复杂计算。",
+        "description": "公元1614年，苏格兰的科技发展取得重要进展，纳皮尔发明对数推动了相关领域的技术进步。",
         "latitude": 56.0,
         "longitude": -3.4,
         "category": "科技",
@@ -649,11 +730,11 @@
       },
       {
         "title": "荷兰攻占马六甲尝试",
-        "description": "荷葡在东南亚争夺马六甲。",
+        "description": "公元1614年，在荷兰，荷兰攻占马六甲尝试。",
         "latitude": 2.2,
         "longitude": 102.2,
         "category": "军事",
-        "region": "尼德兰",
+        "region": "荷兰",
         "continent": "亚洲"
       }
     ]
@@ -670,17 +751,17 @@
     ],
     "events": [
       {
-        "title": "梃击案",
-        "description": "一名持木棍的男子闯入太子朱常洛居住的慈庆宫，打伤守门太监。此案牵涉郑贵妃，成为明末三大宫廷疑案之首，反映朝中党争激烈。",
-        "latitude": 39.9,
-        "longitude": 116.4,
-        "category": "政治",
-        "region": "明",
+        "title": "大坂夏之阵",
+        "description": "公元1615年，在日本，大坂夏之阵。",
+        "latitude": 34.68,
+        "longitude": 135.52,
+        "category": "军事",
+        "region": "日本",
         "continent": "亚洲"
       },
       {
         "title": "大阪夏之阵与丰臣灭亡",
-        "description": "德川家康发动大阪夏之阵，攻破大阪城，丰臣秀赖自杀，丰臣氏彻底灭亡。德川幕府统一天下，再无对手。",
+        "description": "公元1615年，日本地区的大阪夏之阵与丰臣灭亡，一个时代由此终结。",
         "latitude": 34.7,
         "longitude": 135.5,
         "category": "军事",
@@ -689,7 +770,7 @@
       },
       {
         "title": "德川家康灭丰臣氏",
-        "description": "德川家康大阪之战灭丰臣氏。",
+        "description": "公元1615年，在日本，德川家康灭丰臣氏。",
         "latitude": 34.7,
         "longitude": 135.5,
         "category": "军事",
@@ -711,7 +792,7 @@
     "events": [
       {
         "title": "努尔哈赤建立后金",
-        "description": "女真首领努尔哈赤在赫图阿拉称汗，建立后金政权，年号天命，为日后清朝的建立奠定了基业。",
+        "description": "公元1616年，努尔哈赤建立后金，标志着新的政治实体在后金地区诞生。",
         "latitude": 41.8,
         "longitude": 124.1,
         "category": "政治",
@@ -719,17 +800,8 @@
         "continent": "亚洲"
       },
       {
-        "title": "哥白尼著作遭禁",
-        "description": "天主教会将哥白尼的《天体运行论》列入禁书目录，禁止其传播日心说，标志着科学与宗教的激烈冲突。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "宗教",
-        "region": "教皇国",
-        "continent": "欧洲"
-      },
-      {
         "title": "莎士比亚去世",
-        "description": "英国大文豪莎士比亚在家乡去世。",
+        "description": "公元1616年，莎士比亚去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 52.2,
         "longitude": -1.7,
         "category": "文化",
@@ -751,29 +823,29 @@
     "events": [
       {
         "title": "斯托尔博沃条约",
-        "description": "俄国与瑞典签订《斯托尔博沃条约》，俄国割让波罗的海出海口给瑞典，换取诺夫哥罗德，瑞典由此称霸波罗的海。",
+        "description": "公元1617年，斯托尔博沃条约，该协议的签署影响了相关国家的关系格局。",
         "latitude": 58.8,
         "longitude": 31.5,
         "category": "外交",
-        "region": "俄罗斯",
-        "continent": "欧洲"
-      },
-      {
-        "title": "纳皮尔筹发明",
-        "description": "苏格兰数学家约翰·纳皮尔发明“纳皮尔筹”，是一种用象牙或木材制作的乘法计算工具，推动了早期计算技术的发展。",
-        "latitude": 56.0,
-        "longitude": -3.4,
-        "category": "科技",
-        "region": "苏格兰",
+        "region": "俄国",
         "continent": "欧洲"
       },
       {
         "title": "烟草在欧洲流行",
-        "description": "烟草从美洲传入后风靡欧洲。",
+        "description": "公元1617年，欧洲经济领域发生烟草在欧洲流行，对当时的经济生活产生了直接影响。",
         "latitude": 50.0,
         "longitude": 5.0,
         "category": "经济",
         "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "纳皮尔筹发明",
+        "description": "公元1617年，苏格兰的科技发展取得重要进展，纳皮尔筹发明推动了相关领域的技术进步。",
+        "latitude": 56.0,
+        "longitude": -3.4,
+        "category": "科技",
+        "region": "苏格兰",
         "continent": "欧洲"
       }
     ]
@@ -791,7 +863,7 @@
     "events": [
       {
         "title": "三十年战争爆发",
-        "description": "神圣罗马帝国皇帝斐迪南二世推行天主教化政策，波希米亚新教徒发动布拉格抛窗事件，引发席卷欧洲的三十年战争。",
+        "description": "公元1618年，神圣罗马帝国爆发三十年战争爆发，战事在神圣罗马帝国地区全面展开。",
         "latitude": 50.1,
         "longitude": 14.4,
         "category": "军事",
@@ -800,7 +872,7 @@
       },
       {
         "title": "萨尔浒之战",
-        "description": "明朝分四路进攻后金，努尔哈赤集中兵力各个击破，明军大败，从此明朝对后金由战略进攻转为战略防御。",
+        "description": "公元1618年，明爆发萨尔浒之战，战事在明地区全面展开。",
         "latitude": 41.9,
         "longitude": 124.5,
         "category": "军事",
@@ -822,7 +894,7 @@
     "events": [
       {
         "title": "第一批非洲奴隶抵美",
-        "description": "一艘荷兰船只在弗吉尼亚詹姆斯敦出售了约20名非洲奴隶，这是有记录的第一批非洲奴隶抵达英属北美殖民地。",
+        "description": "公元1619年，英属北美社会领域出现第一批非洲奴隶抵美，反映了社会的发展变化。",
         "latitude": 37.2,
         "longitude": -76.8,
         "category": "社会",
@@ -831,11 +903,11 @@
       },
       {
         "title": "荷引黑人奴隶到北美",
-        "description": "荷兰船将首批黑人奴隶带到弗吉尼亚。",
+        "description": "公元1619年，荷兰社会领域出现荷引黑人奴隶到北美，反映了社会的发展变化。",
         "latitude": 37.2,
         "longitude": -76.8,
         "category": "社会",
-        "region": "尼德兰",
+        "region": "荷兰",
         "continent": "北美洲"
       }
     ]
@@ -852,26 +924,17 @@
     ],
     "events": [
       {
-        "title": "五月花号抵达北美",
-        "description": "102名英国清教徒乘坐五月花号帆船抵达马萨诸塞湾，签订《五月花号公约》，奠定了北美殖民地自治传统的基础。",
-        "latitude": 41.7,
-        "longitude": -70.0,
+        "title": "五月花号公约",
+        "description": "公元1620年，在北美，五月花号公约。",
+        "latitude": 41.96,
+        "longitude": -70.66,
         "category": "政治",
-        "region": "英属北美",
+        "region": "北美",
         "continent": "北美洲"
       },
       {
-        "title": "白山战役",
-        "description": "神圣罗马帝国军队在布拉格附近的白山击败波希米亚新教徒军队，波希米亚重新被哈布斯堡王朝控制。",
-        "latitude": 50.1,
-        "longitude": 14.4,
-        "category": "军事",
-        "region": "神圣罗马帝国",
-        "continent": "欧洲"
-      },
-      {
         "title": "五月花号到新大陆",
-        "description": "清教徒乘五月花号到普利茅斯。",
+        "description": "公元1620年，在英格兰，五月花号到新大陆。",
         "latitude": 42.0,
         "longitude": -70.7,
         "category": "政治",
@@ -879,12 +942,12 @@
         "continent": "北美洲"
       },
       {
-        "title": "欧洲咖啡文化",
-        "description": "咖啡馆。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "饮食",
-        "region": "法兰西",
+        "title": "白山战役",
+        "description": "公元1620年，神圣罗马帝国爆发白山战役，战事在神圣罗马帝国地区全面展开。",
+        "latitude": 50.1,
+        "longitude": 14.4,
+        "category": "军事",
+        "region": "神圣罗马帝国",
         "continent": "欧洲"
       }
     ]
@@ -902,7 +965,7 @@
     "events": [
       {
         "title": "努尔哈赤攻占辽沈",
-        "description": "努尔哈赤率后金军攻占沈阳和辽阳，明军辽东防线崩溃。努尔哈赤迁都辽阳，后金势力深入辽东腹地。",
+        "description": "公元1621年，在明，努尔哈赤攻占辽沈。",
         "latitude": 41.3,
         "longitude": 123.2,
         "category": "军事",
@@ -911,7 +974,7 @@
       },
       {
         "title": "荷兰西印度公司成立",
-        "description": "荷兰国会批准成立荷兰西印度公司，获得美洲和西非的贸易与殖民垄断权，成为荷兰在美洲扩张的主要力量。",
+        "description": "公元1621年，荷兰西印度公司成立，标志着新的政治实体在荷兰地区诞生。",
         "latitude": 52.4,
         "longitude": 4.9,
         "category": "经济",
@@ -932,8 +995,17 @@
     ],
     "events": [
       {
+        "title": "印第安人袭击詹姆斯敦",
+        "description": "公元1622年，英属北美社会领域出现印第安人袭击詹姆斯敦，反映了社会的发展变化。",
+        "latitude": 37.2,
+        "longitude": -76.8,
+        "category": "社会",
+        "region": "英属北美",
+        "continent": "北美洲"
+      },
+      {
         "title": "广宁之战",
-        "description": "后金军攻占明朝辽东重镇广宁（今辽宁北镇），熊廷弼、王化贞撤退入关，明朝丧失整个辽西。",
+        "description": "公元1622年，明爆发广宁之战，战事在明地区全面展开。",
         "latitude": 41.6,
         "longitude": 121.8,
         "category": "军事",
@@ -942,7 +1014,7 @@
       },
       {
         "title": "荷兰进攻澳门",
-        "description": "荷兰东印度公司舰队进攻葡萄牙占据的澳门，被澳门守军和耶稣会士组织的防御击退，葡萄牙保住了在远东的贸易据点。",
+        "description": "公元1622年，在葡萄牙澳门，荷兰进攻澳门。",
         "latitude": 22.2,
         "longitude": 113.5,
         "category": "军事",
@@ -950,17 +1022,8 @@
         "continent": "亚洲"
       },
       {
-        "title": "印第安人袭击詹姆斯敦",
-        "description": "波瓦坦联盟发动对弗吉尼亚詹姆斯敦殖民地的突袭，347名英国殖民者被杀，几乎摧毁了殖民地。",
-        "latitude": 37.2,
-        "longitude": -76.8,
-        "category": "社会",
-        "region": "英属北美",
-        "continent": "北美洲"
-      },
-      {
         "title": "葡萄牙受西班牙压制",
-        "description": "伊比利亚联盟下葡萄牙受压制。",
+        "description": "公元1622年，在西班牙，葡萄牙受西班牙压制。",
         "latitude": 38.7,
         "longitude": -9.1,
         "category": "政治",
@@ -981,17 +1044,8 @@
     ],
     "events": [
       {
-        "title": "魏忠贤提督东厂",
-        "description": "宦官魏忠贤受命提督东厂，掌握特务机构大权，与熹宗乳母客氏勾结，阉党势力迅速膨胀，朝政日益腐败。",
-        "latitude": 39.9,
-        "longitude": 116.4,
-        "category": "政治",
-        "region": "明",
-        "continent": "亚洲"
-      },
-      {
         "title": "安汶大屠杀",
-        "description": "荷兰东印度公司在安汶岛逮捕并处决数名英国东印度公司人员，激化了英荷在东南亚香料贸易中的矛盾。",
+        "description": "公元1623年，荷兰东印度公司社会领域出现安汶大屠杀，反映了社会的发展变化。",
         "latitude": -3.7,
         "longitude": 128.2,
         "category": "社会",
@@ -1000,11 +1054,20 @@
       },
       {
         "title": "荷在安汶岛杀英商",
-        "description": "荷兰在安汶处决英国商人。",
+        "description": "公元1623年，在荷兰，荷在安汶岛杀英商。",
         "latitude": -3.5,
         "longitude": 128.0,
         "category": "军事",
-        "region": "尼德兰",
+        "region": "荷兰",
+        "continent": "亚洲"
+      },
+      {
+        "title": "魏忠贤提督东厂",
+        "description": "公元1623年，在明，魏忠贤提督东厂。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "明",
         "continent": "亚洲"
       }
     ]
@@ -1021,21 +1084,30 @@
     ],
     "events": [
       {
+        "title": "荷兰建立新阿姆斯特丹",
+        "description": "公元1624年，荷兰建立新阿姆斯特丹，标志着新的政治实体在北美地区诞生。",
+        "latitude": 40.71,
+        "longitude": -74.01,
+        "category": "政治",
+        "region": "北美",
+        "continent": "北美洲"
+      },
+      {
+        "title": "荷兰据台湾",
+        "description": "公元1624年，在荷兰，荷兰据台湾。",
+        "latitude": 23.0,
+        "longitude": 120.0,
+        "category": "军事",
+        "region": "荷兰",
+        "continent": "亚洲"
+      },
+      {
         "title": "荷兰殖民台湾",
-        "description": "荷兰东印度公司派兵在台湾大员（今台南）登陆，建立热兰遮城，开始了对台湾南部长达38年的殖民统治。",
+        "description": "公元1624年，在明，荷兰殖民台湾。",
         "latitude": 23.0,
         "longitude": 120.2,
         "category": "政治",
         "region": "明",
-        "continent": "亚洲"
-      },
-      {
-        "title": "荷兰据台湾",
-        "description": "荷兰占台湾建热兰遮城。",
-        "latitude": 23.0,
-        "longitude": 120.0,
-        "category": "军事",
-        "region": "尼德兰",
         "continent": "亚洲"
       }
     ]
@@ -1053,7 +1125,7 @@
     "events": [
       {
         "title": "东林六君子被害",
-        "description": "魏忠贤罗织罪名将杨涟、左光斗、魏大中等六位东林党人迫害致死，史称“东林六君子之狱”，阉党专政达到顶峰。",
+        "description": "公元1625年，在明，东林六君子被害。",
         "latitude": 39.9,
         "longitude": 116.4,
         "category": "政治",
@@ -1061,17 +1133,8 @@
         "continent": "亚洲"
       },
       {
-        "title": "格劳秀斯发表《战争与和平法》",
-        "description": "荷兰法学家格劳秀斯发表国际法奠基之作《战争与和平法》，系统阐述了自然法和国际法理论，被誉为国际法之父。",
-        "latitude": 48.2,
-        "longitude": 11.6,
-        "category": "文化",
-        "region": "法兰西",
-        "continent": "欧洲"
-      },
-      {
         "title": "查理一世继位",
-        "description": "詹姆斯一世去世，其子查理一世继位为英国国王。查理一世坚持君权神授理念，与议会的矛盾不断加深。",
+        "description": "公元1625年，查理一世继位，开启了新的统治时期。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "政治",
@@ -1079,8 +1142,26 @@
         "continent": "欧洲"
       },
       {
+        "title": "格劳秀斯《战争与和平法》",
+        "description": "公元1625年，荷兰爆发格劳秀斯《战争与和平法》，战事在荷兰地区全面展开。",
+        "latitude": 52.09,
+        "longitude": 4.31,
+        "category": "法律",
+        "region": "荷兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "格劳秀斯发表《战争与和平法》",
+        "description": "公元1625年，法国爆发格劳秀斯发表《战争与和平法》，战事在法国地区全面展开。",
+        "latitude": 48.2,
+        "longitude": 11.6,
+        "category": "文化",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
         "title": "英詹姆斯一世去世",
-        "description": "查理一世继承英格兰王位。",
+        "description": "公元1625年，英詹姆斯一世去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "政治",
@@ -1102,7 +1183,7 @@
     "events": [
       {
         "title": "宁远之战",
-        "description": "袁崇焕坚守宁远城，使用红衣大炮击败后金军，努尔哈赤在此战中受重伤，不久后去世。",
+        "description": "公元1626年，明爆发宁远之战，战事在明地区全面展开。",
         "latitude": 40.7,
         "longitude": 120.2,
         "category": "军事",
@@ -1111,11 +1192,11 @@
       },
       {
         "title": "黎塞留任法首相",
-        "description": "黎塞留任法国首相强化王权。",
+        "description": "公元1626年，在法国，黎塞留任法首相。",
         "latitude": 48.9,
         "longitude": 2.3,
         "category": "政治",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "欧洲"
       }
     ]
@@ -1133,7 +1214,7 @@
     "events": [
       {
         "title": "明末农民起义爆发",
-        "description": "陕西大旱饥荒，澄城知县张斗耀催征钱粮，农民王二率众起义，揭开了明末大规模农民战争的序幕。",
+        "description": "公元1627年，明爆发明末农民起义爆发，对当局造成了巨大冲击。",
         "latitude": 34.5,
         "longitude": 109.8,
         "category": "社会",
@@ -1154,17 +1235,17 @@
     ],
     "events": [
       {
-        "title": "崇祯帝即位",
-        "description": "明熹宗去世，其弟朱由检即位，年号崇祯。崇祯帝励精图治，铲除魏忠贤阉党，但明王朝已积重难返。",
-        "latitude": 39.9,
-        "longitude": 116.4,
-        "category": "政治",
-        "region": "明",
-        "continent": "亚洲"
+        "title": "哈维发现血液循环",
+        "description": "公元1628年，英格兰的科技发展取得重要进展，哈维发现血液循环推动了相关领域的技术进步。",
+        "latitude": 51.51,
+        "longitude": -0.13,
+        "category": "科技",
+        "region": "英格兰",
+        "continent": "欧洲"
       },
       {
         "title": "哈维发表血液循环论",
-        "description": "英国医生威廉·哈维发表《心血运动论》，系统阐述了血液循环理论，开创了现代生理学研究的新纪元。",
+        "description": "公元1628年，英格兰的科技发展取得重要进展，哈维发表血液循环论推动了相关领域的技术进步。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "科技",
@@ -1172,8 +1253,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "崇祯帝即位",
+        "description": "公元1628年，崇祯帝即位，开启了新的统治时期。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
         "title": "明朝东林党冤案",
-        "description": "明朝阉党迫害东林党人。",
+        "description": "公元1628年，在明，明朝东林党冤案。",
         "latitude": 39.9,
         "longitude": 116.4,
         "category": "政治",
@@ -1195,7 +1285,7 @@
     "events": [
       {
         "title": "己巳之变",
-        "description": "后金皇太极率军绕道蒙古突破长城，直逼北京城下，明廷震动。袁崇焕率兵回援，在广渠门外与后金军激战退敌。",
+        "description": "公元1629年，在明，己巳之变。",
         "latitude": 39.9,
         "longitude": 116.4,
         "category": "军事",
@@ -1204,7 +1294,7 @@
       },
       {
         "title": "查理一世解散议会",
-        "description": "英国国王查理一世解散议会，开始了长达十一年的个人专制统治，被称为“十一年暴政时期”。",
+        "description": "公元1629年，在英格兰，查理一世解散议会。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "政治",
@@ -1225,17 +1315,17 @@
     ],
     "events": [
       {
-        "title": "瑞典加入三十年战争",
-        "description": "瑞典国王古斯塔夫二世·阿道夫率军登陆波美拉尼亚，加入新教阵营对抗哈布斯堡王朝，扭转了三十年战争的局势。",
-        "latitude": 54.4,
-        "longitude": 18.7,
-        "category": "军事",
-        "region": "瑞典",
-        "continent": "欧洲"
+        "title": "印度泰姬陵建造",
+        "description": "公元1630年，莫卧儿帝国文化领域的重要事件——印度泰姬陵建造，成为这一时期的文化标志。",
+        "latitude": 27.2,
+        "longitude": 78.0,
+        "category": "文化",
+        "region": "莫卧儿帝国",
+        "continent": "亚洲"
       },
       {
         "title": "清教徒大移民北美",
-        "description": "英国清教徒大规模移民北美。",
+        "description": "公元1630年，英格兰社会领域出现清教徒大移民北美，反映了社会的发展变化。",
         "latitude": 42.4,
         "longitude": -71.0,
         "category": "社会",
@@ -1243,13 +1333,22 @@
         "continent": "北美洲"
       },
       {
-        "title": "印度泰姬陵建造",
-        "description": "泰姬陵。",
-        "latitude": 27.2,
-        "longitude": 78.0,
-        "category": "建筑",
-        "region": "莫卧儿帝国",
-        "continent": "亚洲"
+        "title": "清教徒建立马萨诸塞湾殖民地",
+        "description": "公元1630年，清教徒建立马萨诸塞湾殖民地，标志着新的政治实体在北美地区诞生。",
+        "latitude": 42.36,
+        "longitude": -71.06,
+        "category": "政治",
+        "region": "北美",
+        "continent": "北美洲"
+      },
+      {
+        "title": "瑞典加入三十年战争",
+        "description": "公元1630年，瑞典爆发瑞典加入三十年战争，战事在瑞典地区全面展开。",
+        "latitude": 54.4,
+        "longitude": 18.7,
+        "category": "军事",
+        "region": "瑞典",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1266,7 +1365,7 @@
     "events": [
       {
         "title": "布莱登菲尔德会战",
-        "description": "瑞典国王古斯塔夫二世在布莱登菲尔德大败天主教联盟军队，这是新教阵营在三十年战争中的首次重大胜利，改变了战争走势。",
+        "description": "公元1631年，在神圣罗马帝国，布莱登菲尔德会战。",
         "latitude": 51.4,
         "longitude": 12.4,
         "category": "军事",
@@ -1275,7 +1374,7 @@
       },
       {
         "title": "李自成加入农民军",
-        "description": "李自成在陕西投靠闯王高迎祥，成为其部下闯将，从此走上农民革命的道路，逐渐成长为明末农民军领袖。",
+        "description": "公元1631年，明社会领域出现李自成加入农民军，反映了社会的发展变化。",
         "latitude": 37.4,
         "longitude": 110.2,
         "category": "社会",
@@ -1283,8 +1382,26 @@
         "continent": "亚洲"
       },
       {
+        "title": "泰姬陵修建",
+        "description": "公元1631年，莫卧儿帝国文化领域的重要事件——泰姬陵修建，成为这一时期的文化标志。",
+        "latitude": 27.17,
+        "longitude": 78.04,
+        "category": "文化",
+        "region": "莫卧儿帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "泰姬陵动工",
+        "description": "公元1631年，莫卧儿帝国地区的文化艺术领域取得了重要成就，泰姬陵动工成为这一时期的文化代表。",
+        "latitude": 27.17,
+        "longitude": 78.04,
+        "category": "文化",
+        "region": "莫卧儿帝国",
+        "continent": "亚洲"
+      },
+      {
         "title": "马格德堡被毁",
-        "description": "天主教军攻陷马格德堡大肆屠杀。",
+        "description": "公元1631年，在神圣罗马帝国，马格德堡被毁。",
         "latitude": 52.1,
         "longitude": 11.6,
         "category": "军事",
@@ -1305,17 +1422,8 @@
     ],
     "events": [
       {
-        "title": "吕岑会战",
-        "description": "瑞典国王古斯塔夫二世·阿道夫在吕岑会战中阵亡，但瑞典军最终击败了神圣罗马帝国军队，新教事业得以延续。",
-        "latitude": 51.3,
-        "longitude": 12.3,
-        "category": "军事",
-        "region": "神圣罗马帝国",
-        "continent": "欧洲"
-      },
-      {
         "title": "伽利略发表对话录",
-        "description": "伽利略发表《关于托勒密和哥白尼两大世界体系的对话》，以对话形式比较地心说与日心说，为此后被宗教法庭审判埋下伏笔。",
+        "description": "公元1632年，佛罗伦萨的科技发展取得重要进展，伽利略发表对话录推动了相关领域的技术进步。",
         "latitude": 43.8,
         "longitude": 11.2,
         "category": "科技",
@@ -1323,8 +1431,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "吕岑会战",
+        "description": "公元1632年，在神圣罗马帝国，吕岑会战。",
+        "latitude": 51.3,
+        "longitude": 12.3,
+        "category": "军事",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      },
+      {
         "title": "瑞典国王吕岑阵亡",
-        "description": "古斯塔夫二世·阿道夫在吕岑战死。",
+        "description": "公元1632年，在瑞典，瑞典国王吕岑阵亡。",
         "latitude": 51.2,
         "longitude": 12.1,
         "category": "军事",
@@ -1346,7 +1463,7 @@
     "events": [
       {
         "title": "伽利略被宗教法庭审判",
-        "description": "罗马天主教宗教法庭判处伽利略有异端嫌疑，迫使其公开宣布放弃日心说，此后被软禁直至去世。",
+        "description": "公元1633年，教皇国地区的宗教领域发生重要事件——伽利略被宗教法庭审判，对信众的精神生活产生了深刻影响。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "宗教",
@@ -1354,8 +1471,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "伽利略被审判",
+        "description": "公元1633年，意大利的科技发展取得重要进展，伽利略被审判推动了相关领域的技术进步。",
+        "latitude": 41.89,
+        "longitude": 12.5,
+        "category": "科技",
+        "region": "意大利",
+        "continent": "欧洲"
+      },
+      {
         "title": "徐光启去世",
-        "description": "明科学家徐光启编《崇祯历书》。",
+        "description": "公元1633年，徐光启去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 31.2,
         "longitude": 121.5,
         "category": "科技",
@@ -1376,17 +1502,8 @@
     ],
     "events": [
       {
-        "title": "纳德林根会战",
-        "description": "西班牙与神圣罗马帝国联军在纳德林根击败瑞典军队，此役扭转了三十年战争的局势，迫使法国直接参战。",
-        "latitude": 48.9,
-        "longitude": 10.5,
-        "category": "军事",
-        "region": "神圣罗马帝国",
-        "continent": "欧洲"
-      },
-      {
         "title": "明末农民军纵横中原",
-        "description": "高迎祥、李自成、张献忠等农民军在陕西、山西、河南、湖广等地流动作战，明廷调集重兵围剿却难以扑灭。",
+        "description": "公元1634年，在明，明末农民军纵横中原。",
         "latitude": 33.8,
         "longitude": 112.5,
         "category": "军事",
@@ -1395,11 +1512,20 @@
       },
       {
         "title": "法加入三十年战争",
-        "description": "法国公开加入三十年战争抗哈布斯堡。",
+        "description": "公元1634年，法国爆发法加入三十年战争，战事在法国地区全面展开。",
         "latitude": 48.9,
         "longitude": 2.3,
         "category": "军事",
-        "region": "法兰西",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "纳德林根会战",
+        "description": "公元1634年，在神圣罗马帝国，纳德林根会战。",
+        "latitude": 48.9,
+        "longitude": 10.5,
+        "category": "军事",
+        "region": "神圣罗马帝国",
         "continent": "欧洲"
       }
     ]
@@ -1416,8 +1542,26 @@
     ],
     "events": [
       {
+        "title": "日本锁国令",
+        "description": "公元1635年，在日本，日本锁国令。",
+        "latitude": 35.68,
+        "longitude": 139.75,
+        "category": "政治",
+        "region": "日本",
+        "continent": "亚洲"
+      },
+      {
+        "title": "法兰西学术院成立",
+        "description": "公元1635年，法兰西学术院成立，标志着新的政治实体在法国地区诞生。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "文化",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
         "title": "荥阳大会",
-        "description": "高迎祥召集十三家七十二营农民军首领在荥阳聚会，制定分兵定向、联合作战的策略，这是明末农民军规模最大的一次联合会议。",
+        "description": "公元1635年，在明，荥阳大会。",
         "latitude": 34.8,
         "longitude": 113.4,
         "category": "军事",
@@ -1425,21 +1569,12 @@
         "continent": "亚洲"
       },
       {
-        "title": "法兰西学术院成立",
-        "description": "法国首相黎塞留创立法兰西学术院，旨在规范法语和保护法国文学艺术，成为法国最重要的学术机构之一。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "文化",
-        "region": "法兰西",
-        "continent": "欧洲"
-      },
-      {
         "title": "荷垄断香料贸易",
-        "description": "荷兰东印度公司垄断肉豆蔻丁香。",
+        "description": "公元1635年，荷兰经济领域发生荷垄断香料贸易，对当时的经济生活产生了直接影响。",
         "latitude": -3.0,
         "longitude": 127.0,
         "category": "经济",
-        "region": "尼德兰",
+        "region": "荷兰",
         "continent": "亚洲"
       }
     ]
@@ -1456,8 +1591,17 @@
     ],
     "events": [
       {
+        "title": "哈佛学院成立",
+        "description": "公元1636年，哈佛学院成立，标志着新的政治实体在北美地区诞生。",
+        "latitude": 42.37,
+        "longitude": -71.12,
+        "category": "教育",
+        "region": "北美",
+        "continent": "北美洲"
+      },
+      {
         "title": "皇太极改国号为清",
-        "description": "后金汗皇太极在盛京称帝，改国号为大清，改族名为满洲，清朝正式建立，为入主中原做好了准备。",
+        "description": "公元1636年，在后金，皇太极改国号为清。",
         "latitude": 41.8,
         "longitude": 123.4,
         "category": "政治",
@@ -1479,7 +1623,7 @@
     "events": [
       {
         "title": "宋应星刊印《天工开物》",
-        "description": "明代科学家宋应锡刊印《天工开物》，系统总结了中国古代农业和手工业生产技术，被誉为中国17世纪的工艺百科全书。",
+        "description": "公元1637年，明的科技发展取得重要进展，宋应星刊印《天工开物》推动了相关领域的技术进步。",
         "latitude": 28.8,
         "longitude": 115.9,
         "category": "科技",
@@ -1487,22 +1631,31 @@
         "continent": "亚洲"
       },
       {
-        "title": "笛卡尔发表方法论",
-        "description": "法国哲学家笛卡尔发表《谈谈方法》，提出\"我思故我在\"的哲学命题，奠定了近代理性主义哲学的基础。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "文化",
-        "region": "法兰西",
-        "continent": "欧洲"
-      },
-      {
         "title": "日本岛原之乱",
-        "description": "日本天主教徒起义被镇压。",
+        "description": "公元1637年，日本社会领域出现日本岛原之乱，反映了社会的发展变化。",
         "latitude": 32.8,
         "longitude": 130.4,
         "category": "社会",
         "region": "日本",
         "continent": "亚洲"
+      },
+      {
+        "title": "笛卡尔发表方法论",
+        "description": "公元1637年，法国地区的文化艺术领域取得了重要成就，笛卡尔发表方法论成为这一时期的文化代表。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "文化",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "笛卡尔我思故我在",
+        "description": "公元1637年，荷兰文化领域的重要事件——笛卡尔我思故我在，成为这一时期的文化标志。",
+        "latitude": 52.37,
+        "longitude": 4.89,
+        "category": "文化",
+        "region": "荷兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1518,26 +1671,8 @@
     ],
     "events": [
       {
-        "title": "张献忠谷城受抚",
-        "description": "张献忠在谷城表面接受明朝招安，实则屯兵养锐。同时李自成在陕西潼关大败，仅以十余骑退入商洛山中。",
-        "latitude": 32.2,
-        "longitude": 110.7,
-        "category": "军事",
-        "region": "明",
-        "continent": "亚洲"
-      },
-      {
-        "title": "哈佛学院创立",
-        "description": "马萨诸塞殖民地议会创立哈佛学院（今哈佛大学前身），以纪念捐资牧师约翰·哈佛，成为北美最早的高等教育机构。",
-        "latitude": 42.4,
-        "longitude": -71.1,
-        "category": "文化",
-        "region": "英属北美",
-        "continent": "北美洲"
-      },
-      {
         "title": "伽利略发表《两种新科学》",
-        "description": "伽利略在软禁期间出版《关于两种新科学的对话》，建立了材料力学和运动学的基础，成为其最重要的科学著作。",
+        "description": "公元1638年，佛罗伦萨的科技发展取得重要进展，伽利略发表《两种新科学》推动了相关领域的技术进步。",
         "latitude": 43.5,
         "longitude": 11.3,
         "category": "科技",
@@ -1545,12 +1680,30 @@
         "continent": "欧洲"
       },
       {
+        "title": "哈佛学院创立",
+        "description": "公元1638年，英属北美地区的文化艺术领域取得了重要成就，哈佛学院创立成为这一时期的文化代表。",
+        "latitude": 42.4,
+        "longitude": -71.1,
+        "category": "文化",
+        "region": "英属北美",
+        "continent": "北美洲"
+      },
+      {
+        "title": "张献忠谷城受抚",
+        "description": "公元1638年，在明，张献忠谷城受抚。",
+        "latitude": 32.2,
+        "longitude": 110.7,
+        "category": "军事",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
         "title": "荷截西班牙银船",
-        "description": "荷兰在加勒比截获西班牙银船。",
+        "description": "公元1638年，在荷兰，荷截西班牙银船。",
         "latitude": 18.0,
         "longitude": -76.0,
         "category": "军事",
-        "region": "尼德兰",
+        "region": "荷兰",
         "continent": "北美洲"
       }
     ]
@@ -1567,17 +1720,8 @@
     ],
     "events": [
       {
-        "title": "张献忠谷城再起",
-        "description": "张献忠在谷城重举反旗，联合罗汝才等部农民军，大败明朝官军，明廷剿抚兼施策略彻底失败。",
-        "latitude": 32.2,
-        "longitude": 110.7,
-        "category": "军事",
-        "region": "明",
-        "continent": "亚洲"
-      },
-      {
         "title": "唐斯海战",
-        "description": "荷兰舰队在英吉利海峡唐斯锚地大败西班牙舰队，西班牙海上霸权彻底瓦解，荷兰成为欧洲第一海军强国。",
+        "description": "公元1639年，在荷兰，唐斯海战。",
         "latitude": 51.2,
         "longitude": 1.5,
         "category": "军事",
@@ -1585,8 +1729,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "张献忠谷城再起",
+        "description": "公元1639年，在明，张献忠谷城再起。",
+        "latitude": 32.2,
+        "longitude": 110.7,
+        "category": "军事",
+        "region": "明",
+        "continent": "亚洲"
+      },
+      {
         "title": "苏格兰人抗英国教",
-        "description": "苏格兰民众反对查理一世宗教政策。",
+        "description": "公元1639年，苏格兰人抗英国教，苏格兰的宗教发展进入新阶段。",
         "latitude": 55.9,
         "longitude": -3.2,
         "category": "军事",
@@ -1607,8 +1760,17 @@
     ],
     "events": [
       {
+        "title": "美洲可可巧克力",
+        "description": "公元1640年，西班牙文化领域的重要事件——美洲可可巧克力，成为这一时期的文化标志。",
+        "latitude": 19.4,
+        "longitude": -99.1,
+        "category": "文化",
+        "region": "西班牙",
+        "continent": "北美洲"
+      },
+      {
         "title": "英国长期议会召开",
-        "description": "查理一世为筹措军费被迫召开议会，这届议会存在至1660年，与国王展开激烈斗争，成为英国资产阶级革命的导火索。",
+        "description": "公元1640年，在英格兰，英国长期议会召开。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "政治",
@@ -1617,21 +1779,12 @@
       },
       {
         "title": "葡萄牙恢复独立",
-        "description": "葡萄牙光复独立。",
+        "description": "公元1640年，在葡萄牙，葡萄牙恢复独立。",
         "latitude": 38.7,
         "longitude": -9.1,
         "category": "政治",
         "region": "葡萄牙",
         "continent": "欧洲"
-      },
-      {
-        "title": "美洲可可巧克力",
-        "description": "巧克力。",
-        "latitude": 19.4,
-        "longitude": -99.1,
-        "category": "饮食",
-        "region": "西班牙",
-        "continent": "北美洲"
       }
     ]
   },
@@ -1648,7 +1801,7 @@
     "events": [
       {
         "title": "李自成攻破洛阳",
-        "description": "李自成率领农民军攻破洛阳，处死福王朱常洵，打开粮仓赈济饥民，农民军声势大振，迅速壮大。",
+        "description": "公元1641年，在明，李自成攻破洛阳。",
         "latitude": 34.6,
         "longitude": 112.5,
         "category": "军事",
@@ -1657,11 +1810,20 @@
       },
       {
         "title": "爱尔兰天主教起义",
-        "description": "爱尔兰天主教贵族反新教殖民。",
+        "description": "公元1641年，爱尔兰爆发爱尔兰天主教起义，对当局造成了巨大冲击。",
         "latitude": 53.5,
         "longitude": -7.0,
         "category": "军事",
         "region": "爱尔兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "笛卡尔《第一哲学沉思》",
+        "description": "公元1641年，荷兰文化领域的重要事件——笛卡尔《第一哲学沉思》，成为这一时期的文化标志。",
+        "latitude": 52.37,
+        "longitude": 4.89,
+        "category": "文化",
+        "region": "荷兰",
         "continent": "欧洲"
       }
     ]
@@ -1678,28 +1840,28 @@
     ],
     "events": [
       {
-        "title": "英国内战爆发",
-        "description": "查理一世在诺丁汉升起了国王军旗，向议会宣战，英国资产阶级革命进入军事对抗阶段，分为王党军和议会军。",
-        "latitude": 53.0,
-        "longitude": -1.1,
-        "category": "军事",
-        "region": "英格兰",
+        "title": "伦勃朗《夜巡》",
+        "description": "公元1642年，荷兰地区的文化艺术领域取得了重要成就，伦勃朗《夜巡》成为这一时期的文化代表。",
+        "latitude": 52.37,
+        "longitude": 4.89,
+        "category": "艺术",
+        "region": "荷兰",
         "continent": "欧洲"
       },
       {
-        "title": "松锦之战结束",
-        "description": "清军在松锦之战中击败明军主力，洪承畴被俘降清，明朝在山海关外的防线全面崩溃，关外仅存宁远孤城。",
-        "latitude": 40.9,
-        "longitude": 121.2,
-        "category": "军事",
-        "region": "明",
-        "continent": "亚洲"
+        "title": "塔斯曼发现新西兰",
+        "description": "公元1642年，塔斯曼发现新西兰，这是人类在新西兰取得的重要科技成就。",
+        "latitude": -41.0,
+        "longitude": 173.5,
+        "category": "科技",
+        "region": "新西兰",
+        "continent": "大洋洲"
       },
       {
-        "title": "英国内战开始",
-        "description": "英王查理一世与议会间内战爆发。",
-        "latitude": 52.0,
-        "longitude": -2.0,
+        "title": "英国内战爆发",
+        "description": "公元1642年，在英格兰，英国内战爆发。",
+        "latitude": 53.0,
+        "longitude": -1.1,
         "category": "军事",
         "region": "英格兰",
         "continent": "欧洲"
@@ -1718,8 +1880,17 @@
     ],
     "events": [
       {
+        "title": "托里拆利发明水银气压计",
+        "description": "公元1643年，意大利的科技发展取得重要进展，托里拆利发明水银气压计推动了相关领域的技术进步。",
+        "latitude": 43.77,
+        "longitude": 11.25,
+        "category": "科技",
+        "region": "意大利",
+        "continent": "欧洲"
+      },
+      {
         "title": "李自成建立大顺",
-        "description": "李自成在襄阳称新顺王，建立大顺政权，设置百官，为攻取北京做最后的准备。",
+        "description": "公元1643年，李自成建立大顺，标志着新的政治实体在明地区诞生。",
         "latitude": 32.1,
         "longitude": 112.2,
         "category": "政治",
@@ -1728,11 +1899,11 @@
       },
       {
         "title": "路易十四登基",
-        "description": "太阳王路易十四年幼登位。",
+        "description": "公元1643年，路易十四登基，开启了新的统治时期。",
         "latitude": 48.9,
         "longitude": 2.3,
         "category": "政治",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "欧洲"
       }
     ]
@@ -1756,7 +1927,7 @@
     "events": [
       {
         "title": "李自成攻破北京",
-        "description": "李自成率大顺军攻入北京，崇祯帝在煤山自缢，明朝灭亡。大顺政权短暂控制北京地区。",
+        "description": "公元1644年，在明，李自成攻破北京。",
         "latitude": 39.9,
         "longitude": 116.4,
         "category": "军事",
@@ -1765,7 +1936,7 @@
       },
       {
         "title": "清军入关",
-        "description": "清军在吴三桂接应下通过山海关进入中原，击败大顺军，占领北京，开始了清朝对中国的统治。",
+        "description": "公元1644年，清朝清军入关。",
         "latitude": 40.0,
         "longitude": 119.7,
         "category": "军事",
@@ -1774,7 +1945,7 @@
       },
       {
         "title": "顺治帝迁都北京",
-        "description": "清世祖顺治帝从盛京迁都北京，清朝正式定鼎中原，开始对全国实施统治。",
+        "description": "公元1644年，清朝顺治帝迁都北京。",
         "latitude": 39.9,
         "longitude": 116.4,
         "category": "政治",
@@ -1795,17 +1966,8 @@
     ],
     "events": [
       {
-        "title": "扬州十日",
-        "description": "清军攻破扬州后，多铎下令屠城十日，数十万军民遭屠杀，史称\"扬州十日\"，是清军南下最惨烈的暴行之一。",
-        "latitude": 32.4,
-        "longitude": 119.4,
-        "category": "军事",
-        "region": "清",
-        "continent": "亚洲"
-      },
-      {
         "title": "嘉定三屠",
-        "description": "清军颁布剃发令，激起江南民众强烈反抗。清军三次镇压嘉定抗清斗争，每次均大肆屠城，史称\"嘉定三屠\"。",
+        "description": "公元1645年，清朝嘉定三屠。",
         "latitude": 31.4,
         "longitude": 121.2,
         "category": "军事",
@@ -1813,8 +1975,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "扬州十日",
+        "description": "公元1645年，清朝扬州十日。",
+        "latitude": 32.4,
+        "longitude": 119.4,
+        "category": "军事",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
         "title": "李自成遇难",
-        "description": "大顺军领袖李自成在湖北通山县九宫山遇难，大顺政权瓦解，余部继续抗清。",
+        "description": "公元1645年，在大顺，李自成遇难。",
         "latitude": 29.6,
         "longitude": 114.5,
         "category": "军事",
@@ -1823,7 +1994,7 @@
       },
       {
         "title": "英纳斯比战役",
-        "description": "克伦威尔纳斯比大败王党军。",
+        "description": "公元1645年，英格兰爆发英纳斯比战役，战事在英格兰地区全面展开。",
         "latitude": 52.5,
         "longitude": -1.0,
         "category": "军事",
@@ -1845,7 +2016,7 @@
     "events": [
       {
         "title": "永历帝即位",
-        "description": "明桂王朱由榔在肇庆即位，年号永历。永历政权成为南明最后一个坚持较长时间的政权，在西南地区继续抗清十余年。",
+        "description": "公元1646年，永历帝即位，开启了新的统治时期。",
         "latitude": 23.1,
         "longitude": 112.5,
         "category": "政治",
@@ -1853,22 +2024,22 @@
         "continent": "亚洲"
       },
       {
-        "title": "莱布尼茨诞生",
-        "description": "德国哲学家、数学家莱布尼茨在莱比锡出生，日后独立发明微积分，提出单子论哲学，成为启蒙时代的重要思想家。",
-        "latitude": 51.3,
-        "longitude": 12.4,
-        "category": "文化",
-        "region": "神圣罗马帝国",
-        "continent": "欧洲"
-      },
-      {
         "title": "清推行剃发令",
-        "description": "清强制汉人剃发易服引发反抗。",
+        "description": "公元1646年，清朝清推行剃发令。",
         "latitude": 32.0,
         "longitude": 119.0,
         "category": "政治",
         "region": "清",
         "continent": "亚洲"
+      },
+      {
+        "title": "莱布尼茨诞生",
+        "description": "公元1646年，神圣罗马帝国地区的文化艺术领域取得了重要成就，莱布尼茨诞生成为这一时期的文化代表。",
+        "latitude": 51.3,
+        "longitude": 12.4,
+        "category": "文化",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1885,7 +2056,7 @@
     "events": [
       {
         "title": "张献忠战死",
-        "description": "明末农民军领袖张献忠在西充凤凰山与清军交战中中箭身亡，其建立的大西政权随之瓦解。",
+        "description": "公元1647年，在大西，张献忠战死。",
         "latitude": 31.0,
         "longitude": 105.9,
         "category": "军事",
@@ -1894,11 +2065,11 @@
       },
       {
         "title": "荷兰占好望角",
-        "description": "荷兰在非洲南端建补给站。",
+        "description": "公元1647年，在荷兰，荷兰占好望角。",
         "latitude": -33.9,
         "longitude": 18.5,
         "category": "政治",
-        "region": "尼德兰",
+        "region": "荷兰",
         "continent": "非洲"
       }
     ]
@@ -1916,7 +2087,7 @@
     "events": [
       {
         "title": "威斯特伐利亚和约",
-        "description": "三十年战争结束，签订《威斯特伐利亚和约》，确立了国家主权原则和欧洲国际关系新秩序，现代国际体系由此诞生。",
+        "description": "公元1648年，威斯特伐利亚和约，该协议的签署影响了相关国家的关系格局。",
         "latitude": 52.0,
         "longitude": 7.5,
         "category": "外交",
@@ -1938,9 +2109,18 @@
     "events": [
       {
         "title": "查理一世被处决",
-        "description": "英国国王查理一世以叛国罪被议会处决，英国成为共和国，克伦威尔掌握政权，这是历史上首次公开审判并处死君主。",
+        "description": "公元1649年，在英格兰，查理一世被处决。",
         "latitude": 51.5,
         "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "查理一世被斩首",
+        "description": "公元1649年，在英格兰，查理一世被斩首。",
+        "latitude": 51.51,
+        "longitude": -0.13,
         "category": "政治",
         "region": "英格兰",
         "continent": "欧洲"
@@ -1960,7 +2140,7 @@
     "events": [
       {
         "title": "多尔衮去世",
-        "description": "摄政王多尔衮在喀喇城狩猎时坠马受伤去世，追尊为成宗义皇帝。次年顺治帝亲政后清算多尔衮势力，削其封号。",
+        "description": "公元1650年，多尔衮去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 40.1,
         "longitude": 116.4,
         "category": "政治",
@@ -1968,26 +2148,8 @@
         "continent": "亚洲"
       },
       {
-        "title": "笛卡尔去世",
-        "description": "法国哲学家勒内·笛卡尔应瑞典女王邀请赴斯德哥尔摩任教，因不适应北欧严寒气候染肺炎去世。",
-        "latitude": 59.3,
-        "longitude": 18.1,
-        "category": "文化",
-        "region": "瑞典",
-        "continent": "欧洲"
-      },
-      {
-        "title": "黄金海岸奴隶堡垒建造",
-        "description": "欧洲列强在黄金海岸建造堡垒从事奴隶贸易。",
-        "latitude": 5.0,
-        "longitude": -1.0,
-        "category": "社会",
-        "region": "黄金海岸",
-        "continent": "非洲"
-      },
-      {
         "title": "新英格兰殖民自治",
-        "description": "北美清教徒殖民地建立自治。",
+        "description": "公元1650年，在英格兰，新英格兰殖民自治。",
         "latitude": 42.4,
         "longitude": -71.0,
         "category": "政治",
@@ -1996,12 +2158,30 @@
       },
       {
         "title": "欧洲巴洛克音乐",
-        "description": "巴洛克。",
+        "description": "公元1650年，欧洲文化领域的重要事件——欧洲巴洛克音乐，成为这一时期的文化标志。",
         "latitude": 48.0,
         "longitude": 2.0,
         "category": "音乐",
         "region": "欧洲",
         "continent": "欧洲"
+      },
+      {
+        "title": "笛卡尔去世",
+        "description": "公元1650年，笛卡尔去世，一个重要的历史人物离开了历史舞台。",
+        "latitude": 59.3,
+        "longitude": 18.1,
+        "category": "文化",
+        "region": "瑞典",
+        "continent": "欧洲"
+      },
+      {
+        "title": "黄金海岸奴隶堡垒建造",
+        "description": "公元1650年，黄金海岸社会领域出现黄金海岸奴隶堡垒建造，反映了社会的发展变化。",
+        "latitude": 5.0,
+        "longitude": -1.0,
+        "category": "社会",
+        "region": "黄金海岸",
+        "continent": "非洲"
       }
     ]
   },
@@ -2017,17 +2197,8 @@
     ],
     "events": [
       {
-        "title": "霍布斯发表《利维坦》",
-        "description": "英国哲学家托马斯·霍布斯出版《利维坦》，系统论述社会契约论和绝对主权理论，对政治哲学产生深远影响。",
-        "latitude": 51.5,
-        "longitude": -0.1,
-        "category": "文化",
-        "region": "英格兰",
-        "continent": "欧洲"
-      },
-      {
         "title": "舟山之战",
-        "description": "清军攻占南明鲁王政权据守的舟山群岛，鲁王朱以海逃亡。清军在舟山实施大规模屠杀，抗清力量遭受重创。",
+        "description": "公元1651年，清爆发舟山之战，战事在清地区全面展开。",
         "latitude": 30.0,
         "longitude": 122.1,
         "category": "军事",
@@ -2036,10 +2207,19 @@
       },
       {
         "title": "英国航海法",
-        "description": "英国通过航海法限制荷兰航运。",
+        "description": "公元1651年，英格兰经济领域发生英国航海法，对当时的经济生活产生了直接影响。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "经济",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "霍布斯发表《利维坦》",
+        "description": "公元1651年，英格兰地区的文化艺术领域取得了重要成就，霍布斯发表《利维坦》成为这一时期的文化代表。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "文化",
         "region": "英格兰",
         "continent": "欧洲"
       }
@@ -2058,7 +2238,7 @@
     "events": [
       {
         "title": "好望角殖民",
-        "description": "荷兰东印度公司在南非好望角建立补给站，后发展为开普敦殖民地，开启了欧洲人在南部非洲的殖民历史。",
+        "description": "公元1652年，在荷兰，好望角殖民。",
         "latitude": -33.9,
         "longitude": 18.4,
         "category": "政治",
@@ -2067,12 +2247,21 @@
       },
       {
         "title": "第一次英荷战争",
-        "description": "英荷在英吉利海峡交战。",
+        "description": "公元1652年，英格兰爆发第一次英荷战争，战事在英格兰地区全面展开。",
         "latitude": 52.0,
         "longitude": 2.0,
         "category": "军事",
         "region": "英格兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "荷兰建立开普殖民地",
+        "description": "公元1652年，荷兰建立开普殖民地，标志着新的政治实体在南非地区诞生。",
+        "latitude": -33.93,
+        "longitude": 18.42,
+        "category": "政治",
+        "region": "南非",
+        "continent": "非洲"
       }
     ]
   },
@@ -2089,7 +2278,7 @@
     "events": [
       {
         "title": "克伦威尔任护国公",
-        "description": "克伦威尔解散残余议会，就任英格兰、苏格兰和爱尔兰护国公，实行军事独裁统治，英国共和政体名存实亡。",
+        "description": "公元1653年，在英吉利共和国，克伦威尔任护国公。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "政治",
@@ -2110,17 +2299,17 @@
     ],
     "events": [
       {
-        "title": "马德堡半球实验",
-        "description": "德国物理学家格里克在马德堡进行著名的半球实验，用十六匹马拉开两个抽真空的半球，证明大气压强的巨大力量。",
-        "latitude": 52.1,
-        "longitude": 11.6,
-        "category": "科技",
-        "region": "神圣罗马帝国",
+        "title": "俄国保护乌克兰",
+        "description": "公元1654年，在俄国，俄国保护乌克兰。",
+        "latitude": 50.0,
+        "longitude": 30.0,
+        "category": "政治",
+        "region": "俄国",
         "continent": "欧洲"
       },
       {
         "title": "英荷第一次战争结束",
-        "description": "英国与荷兰签订《威斯敏斯特条约》，第一次英荷战争结束。荷兰承认英国航海条例，但双方在海洋贸易中的根本矛盾并未解决。",
+        "description": "公元1654年，英格兰爆发英荷第一次战争结束，战事在英格兰地区全面展开。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "外交",
@@ -2128,12 +2317,12 @@
         "continent": "欧洲"
       },
       {
-        "title": "俄国保护乌克兰",
-        "description": "赫梅利尼茨基寻求俄国保护。",
-        "latitude": 50.0,
-        "longitude": 30.0,
-        "category": "政治",
-        "region": "俄罗斯",
+        "title": "马德堡半球实验",
+        "description": "公元1654年，神圣罗马帝国的科技发展取得重要进展，马德堡半球实验推动了相关领域的技术进步。",
+        "latitude": 52.1,
+        "longitude": 11.6,
+        "category": "科技",
+        "region": "神圣罗马帝国",
         "continent": "欧洲"
       }
     ]
@@ -2151,7 +2340,7 @@
     "events": [
       {
         "title": "惠更斯发现土卫六",
-        "description": "荷兰科学家克里斯蒂安·惠更斯使用自制望远镜发现土星最大的卫星——土卫六（泰坦），这是太阳系中发现的第一颗行星卫星。",
+        "description": "公元1655年，荷兰的科技发展取得重要进展，惠更斯发现土卫六推动了相关领域的技术进步。",
         "latitude": 52.1,
         "longitude": 4.3,
         "category": "科技",
@@ -2160,7 +2349,7 @@
       },
       {
         "title": "第二次北方战争爆发",
-        "description": "瑞典国王卡尔十世入侵波兰，引发第二次北方战争（瑞典大洪水）。波兰遭受严重破坏，俄国、丹麦、勃兰登堡相继参战。",
+        "description": "公元1655年，波兰-立陶宛联邦爆发第二次北方战争爆发，战事在波兰-立陶宛联邦地区全面展开。",
         "latitude": 52.2,
         "longitude": 21.0,
         "category": "军事",
@@ -2169,7 +2358,7 @@
       },
       {
         "title": "英国夺牙买加",
-        "description": "英国从西班牙夺牙买加。",
+        "description": "公元1655年，在英格兰，英国夺牙买加。",
         "latitude": 18.0,
         "longitude": -77.0,
         "category": "军事",
@@ -2190,22 +2379,31 @@
     ],
     "events": [
       {
+        "title": "委拉斯开兹《宫娥》",
+        "description": "公元1656年，西班牙地区的文化艺术领域取得了重要成就，委拉斯开兹《宫娥》成为这一时期的文化代表。",
+        "latitude": 40.42,
+        "longitude": -3.7,
+        "category": "艺术",
+        "region": "西班牙",
+        "continent": "欧洲"
+      },
+      {
+        "title": "荷兰发现新西兰海岸",
+        "description": "公元1656年，荷兰的科技发展取得重要进展，荷兰发现新西兰海岸推动了相关领域的技术进步。",
+        "latitude": -42.0,
+        "longitude": 173.0,
+        "category": "科技",
+        "region": "荷兰",
+        "continent": "大洋洲"
+      },
+      {
         "title": "荷兰统治锡兰",
-        "description": "荷兰东印度公司从葡萄牙手中夺取锡兰（今斯里兰卡）沿海地区，控制了肉桂贸易，加强了在印度洋的海上霸权。",
+        "description": "公元1656年，在荷兰，荷兰统治锡兰。",
         "latitude": 6.9,
         "longitude": 79.9,
         "category": "军事",
         "region": "荷兰",
         "continent": "亚洲"
-      },
-      {
-        "title": "荷兰发现新西兰海岸",
-        "description": "塔斯曼环绕新西兰航行。",
-        "latitude": -42.0,
-        "longitude": 173.0,
-        "category": "科技",
-        "region": "尼德兰",
-        "continent": "大洋洲"
       }
     ]
   },
@@ -2222,7 +2420,7 @@
     "events": [
       {
         "title": "孙可望降清",
-        "description": "南明将领孙可望与李定国内讧兵败后投降清朝，向清廷献出云贵地形图和军事机密，加速了南明永历政权的覆灭。",
+        "description": "公元1657年，在南明，孙可望降清。",
         "latitude": 26.6,
         "longitude": 106.7,
         "category": "军事",
@@ -2231,7 +2429,7 @@
       },
       {
         "title": "惠更斯发明摆钟",
-        "description": "克里斯蒂安·惠更斯发明了世界上第一台摆钟并获专利，将计时精度从每天误差15分钟提高到15秒，彻底改变了计时技术。",
+        "description": "公元1657年，荷兰的科技发展取得重要进展，惠更斯发明摆钟推动了相关领域的技术进步。",
         "latitude": 52.1,
         "longitude": 4.3,
         "category": "科技",
@@ -2240,12 +2438,12 @@
       },
       {
         "title": "英国在印度设商馆",
-        "description": "东印度公司在加尔各答设商馆。",
+        "description": "公元1657年，英格兰经济领域发生英国在印度设商馆，对当时的经济生活产生了直接影响。",
         "latitude": 22.5,
         "longitude": 88.0,
         "category": "经济",
         "region": "英格兰",
-        "continent": "亚洲"
+        "continent": "欧洲"
       }
     ]
   },
@@ -2261,17 +2459,8 @@
     ],
     "events": [
       {
-        "title": "清军攻占云南",
-        "description": "清军三路入滇，攻占昆明，永历帝朱由榔逃往缅甸。明朝在大陆的最后一块基地丧失，南明名存实亡。",
-        "latitude": 25.0,
-        "longitude": 102.7,
-        "category": "军事",
-        "region": "清",
-        "continent": "亚洲"
-      },
-      {
         "title": "克伦威尔病逝",
-        "description": "英国护国公奥利弗·克伦威尔因病去世，其子理查德·克伦威尔继任护国公，但无力掌控局面，英吉利共和国摇摇欲坠。",
+        "description": "公元1658年，克伦威尔病逝，一个重要的历史人物离开了历史舞台。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "政治",
@@ -2280,7 +2469,7 @@
       },
       {
         "title": "奥朗则布囚父称帝",
-        "description": "莫卧儿帝国皇子奥朗则布囚禁其父沙贾汗于阿格拉堡，在德里登基称帝。他推行严格伊斯兰化政策，莫卧儿帝国疆域达到极盛。",
+        "description": "公元1658年，奥朗则布囚父称帝，开启了新的统治时期。",
         "latitude": 28.7,
         "longitude": 77.1,
         "category": "政治",
@@ -2289,11 +2478,20 @@
       },
       {
         "title": "奥朗则布篡位",
-        "description": "奥朗则布篡夺莫卧儿帝位囚禁沙贾汗。",
+        "description": "公元1658年，在莫卧儿帝国，奥朗则布篡位。",
         "latitude": 28.6,
         "longitude": 77.2,
         "category": "政治",
         "region": "莫卧儿帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "清军攻占云南",
+        "description": "公元1658年，清朝清军攻占云南。",
+        "latitude": 25.0,
+        "longitude": 102.7,
+        "category": "军事",
+        "region": "清",
         "continent": "亚洲"
       }
     ]
@@ -2311,30 +2509,30 @@
     "events": [
       {
         "title": "《比利牛斯条约》签订",
-        "description": "法国与西班牙签订《比利牛斯条约》，结束了两国持续二十余年的战争，法国获得鲁西永等地，取代西班牙成为欧洲陆上霸主。",
+        "description": "公元1659年，《比利牛斯条约》签订，该协议的签署影响了相关国家的关系格局。",
         "latitude": 42.5,
         "longitude": 2.8,
         "category": "外交",
-        "region": "法兰西",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法西比利牛斯和约",
+        "description": "公元1659年，法西比利牛斯和约，该协议的签署影响了相关国家的关系格局。",
+        "latitude": 43.0,
+        "longitude": -1.0,
+        "category": "外交",
+        "region": "法国",
         "continent": "欧洲"
       },
       {
         "title": "郑成功北伐",
-        "description": "郑成功率水师从厦门出发北伐，攻入长江口，包围南京，但因轻敌未能及时攻城，最终被清军援兵击败，退回厦门。",
+        "description": "公元1659年，在明郑，郑成功北伐。",
         "latitude": 32.1,
         "longitude": 118.8,
         "category": "军事",
         "region": "明郑",
         "continent": "亚洲"
-      },
-      {
-        "title": "法西比利牛斯和约",
-        "description": "法西两国签订和约。",
-        "latitude": 43.0,
-        "longitude": -1.0,
-        "category": "外交",
-        "region": "法兰西",
-        "continent": "欧洲"
       }
     ]
   },
@@ -2350,17 +2548,17 @@
     ],
     "events": [
       {
-        "title": "英国斯图亚特王朝复辟",
-        "description": "英国议会迎立查理二世回国登基，斯图亚特王朝复辟，结束了克伦威尔去世后的政治混乱局面。",
-        "latitude": 51.5,
-        "longitude": -0.1,
-        "category": "政治",
-        "region": "英格兰",
-        "continent": "欧洲"
+        "title": "中国盆景艺术",
+        "description": "公元1660年，清文化领域的重要事件——中国盆景艺术，成为这一时期的文化标志。",
+        "latitude": 30.0,
+        "longitude": 120.0,
+        "category": "文化",
+        "region": "清",
+        "continent": "亚洲"
       },
       {
         "title": "皇家学会成立",
-        "description": "英国皇家学会在伦敦正式成立，成为世界上历史最悠久的科学学会之一，推动了近代科学革命的发展。",
+        "description": "公元1660年，皇家学会成立，标志着新的政治实体在英格兰地区诞生。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "科技",
@@ -2368,13 +2566,13 @@
         "continent": "欧洲"
       },
       {
-        "title": "中国盆景艺术",
-        "description": "盆景。",
-        "latitude": 30.0,
-        "longitude": 120.0,
-        "category": "园林",
-        "region": "清",
-        "continent": "亚洲"
+        "title": "英国斯图亚特王朝复辟",
+        "description": "公元1660年，在英格兰，英国斯图亚特王朝复辟。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2390,8 +2588,17 @@
     ],
     "events": [
       {
+        "title": "波义耳提出元素概念",
+        "description": "公元1661年，英格兰的科技发展取得重要进展，波义耳提出元素概念推动了相关领域的技术进步。",
+        "latitude": 51.51,
+        "longitude": -0.13,
+        "category": "科技",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
         "title": "郑成功收复台湾",
-        "description": "郑成功率军围攻热兰遮城，击败荷兰守军，迫使荷兰东印度公司签署投降协议，结束了荷兰在台湾38年的殖民统治。",
+        "description": "公元1661年，在明郑，郑成功收复台湾。",
         "latitude": 23.0,
         "longitude": 120.2,
         "category": "军事",
@@ -2400,7 +2607,7 @@
       },
       {
         "title": "顺治帝去世",
-        "description": "清世祖顺治帝福临去世，年仅24岁。其第三子玄烨即位，即康熙帝，由鳌拜等四大臣辅政。",
+        "description": "公元1661年，顺治帝去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 39.9,
         "longitude": 116.4,
         "category": "政治",
@@ -2422,7 +2629,7 @@
     "events": [
       {
         "title": "康熙帝即位",
-        "description": "清圣祖康熙帝玄烨正式即位，年仅八岁，改元康熙，开启了长达61年的统治，清朝由此进入鼎盛时期。",
+        "description": "公元1662年，康熙帝即位，开启了新的统治时期。",
         "latitude": 39.9,
         "longitude": 116.4,
         "category": "政治",
@@ -2430,21 +2637,30 @@
         "continent": "亚洲"
       },
       {
-        "title": "郑成功逝世",
-        "description": "民族英雄郑成功在台湾病逝，年仅39岁。其子郑经继位继续经营台湾，坚持抗清立场。",
-        "latitude": 23.0,
-        "longitude": 120.2,
-        "category": "政治",
-        "region": "明郑",
-        "continent": "亚洲"
-      },
-      {
         "title": "清灭南明",
-        "description": "清军攻占昆明南明亡。",
+        "description": "公元1662年，清朝清灭南明。",
         "latitude": 25.0,
         "longitude": 102.7,
         "category": "军事",
         "region": "清",
+        "continent": "亚洲"
+      },
+      {
+        "title": "胡克发现细胞",
+        "description": "公元1662年，英格兰的科技发展取得重要进展，胡克发现细胞推动了相关领域的技术进步。",
+        "latitude": 51.51,
+        "longitude": -0.13,
+        "category": "科技",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "郑成功逝世",
+        "description": "公元1662年，郑成功逝世，一个重要的历史人物离开了历史舞台。",
+        "latitude": 23.0,
+        "longitude": 120.2,
+        "category": "政治",
+        "region": "明郑",
         "continent": "亚洲"
       }
     ]
@@ -2462,7 +2678,7 @@
     "events": [
       {
         "title": "夔东十三家覆灭",
-        "description": "清军攻破夔东山区抗清根据地，李来亨等最后一批大规模抗清武装被消灭，中国大陆上的武装抗清基本结束。",
+        "description": "公元1663年，清地区的夔东十三家覆灭，一个时代由此终结。",
         "latitude": 31.1,
         "longitude": 109.9,
         "category": "军事",
@@ -2471,7 +2687,7 @@
       },
       {
         "title": "奥斯曼进攻维也纳",
-        "description": "奥斯曼帝国大维齐尔法泽勒·艾哈迈德帕夏率军入侵哈布斯堡王朝领地，第七次奥土战争爆发，战事持续至1664年。",
+        "description": "公元1663年，在奥斯曼帝国，奥斯曼进攻维也纳。",
         "latitude": 47.5,
         "longitude": 19.0,
         "category": "军事",
@@ -2480,11 +2696,11 @@
       },
       {
         "title": "法设加拿大主权委员会",
-        "description": "新法兰西设主权委员会。",
+        "description": "公元1663年，在法国，法设加拿大主权委员会。",
         "latitude": 46.8,
         "longitude": -71.2,
         "category": "政治",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "北美洲"
       }
     ]
@@ -2502,11 +2718,20 @@
     "events": [
       {
         "title": "英军占领新阿姆斯特丹",
-        "description": "英国舰队占领荷兰在北美的殖民地新阿姆斯特丹，并将其更名为纽约，英国在北美的殖民地进一步扩大。",
+        "description": "公元1664年，在英属北美，英军占领新阿姆斯特丹。",
         "latitude": 40.7,
         "longitude": -74.0,
         "category": "军事",
         "region": "英属北美",
+        "continent": "北美洲"
+      },
+      {
+        "title": "英国占领新阿姆斯特丹",
+        "description": "公元1664年，在北美，英国占领新阿姆斯特丹。",
+        "latitude": 40.71,
+        "longitude": -74.01,
+        "category": "军事",
+        "region": "北美",
         "continent": "北美洲"
       }
     ]
@@ -2524,7 +2749,7 @@
     "events": [
       {
         "title": "伦敦大瘟疫",
-        "description": "伦敦爆发大规模鼠疫，持续至1666年，约有10万人死亡，占当时伦敦人口的五分之一，是英国历史上最严重的疫情之一。",
+        "description": "公元1665年，英格兰社会领域出现伦敦大瘟疫，反映了社会的发展变化。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "社会",
@@ -2533,9 +2758,18 @@
       },
       {
         "title": "牛顿发现万有引力",
-        "description": "牛顿在居家中开始研究重力。",
+        "description": "十七世纪中叶哥白尼日心说和开普勒行星运动定律已经为天文学革命做好了铺垫但没有人能够解释为什么行星会按照这些规律运行。英国剑桥大学的年轻学者艾萨克·牛顿在家乡躲避瘟疫期间看到苹果落地的现象触发了他的思考——月球为什么不落向地球？他逐渐认识到使苹果落地的力和使月球围绕地球旋转的力本质上是同一种力即万有引力。经过近二十年的数学推导和深入思考牛顿将他的发现系统整理在1687年出版的《自然哲学的数学原理》中。书中提出的万有引力定律表明宇宙中任意两个物体之间都有引力存在引力大小与质量的乘积成正比与距离的平方成反比。三大运动定律为力学建立了严谨的数学框架。牛顿的工作实现了人类认识自然规律的第一次伟大综合将天上和地下的运动统一在同一个理论框架之中。这部著作被公认为科学史上最伟大的著作奠定了经典物理学的基础为十八世纪的工业革命提供了理论支撑。",
         "latitude": 52.2,
         "longitude": 0.1,
+        "category": "科技",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英国皇家学会创办期刊",
+        "description": "公元1665年，英格兰的科技发展取得重要进展，英国皇家学会创办期刊推动了相关领域的技术进步。",
+        "latitude": 51.51,
+        "longitude": -0.13,
         "category": "科技",
         "region": "英格兰",
         "continent": "欧洲"
@@ -2555,7 +2789,7 @@
     "events": [
       {
         "title": "伦敦大火",
-        "description": "伦敦布丁巷面包房起火引发全城大火，持续四天，烧毁约13200座房屋和87座教堂，但也彻底消灭了鼠疫。",
+        "description": "公元1666年，英格兰社会领域出现伦敦大火，反映了社会的发展变化。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "社会",
@@ -2576,8 +2810,17 @@
     ],
     "events": [
       {
+        "title": "俄国波兰瓜分乌克兰（约）",
+        "description": "公元1667年，俄国开展俄国波兰瓜分乌克兰（约），体现了当时的国际关系格局。",
+        "latitude": 55.0,
+        "longitude": 36.0,
+        "category": "外交",
+        "region": "俄国",
+        "continent": "欧洲"
+      },
+      {
         "title": "康熙帝亲政",
-        "description": "康熙帝14岁开始亲政，但仍受辅政大臣鳌拜的掣肘。康熙决心铲除鳌拜势力，恢复皇权。",
+        "description": "公元1667年，清朝康熙帝亲政。",
         "latitude": 39.9,
         "longitude": 116.4,
         "category": "政治",
@@ -2585,12 +2828,12 @@
         "continent": "亚洲"
       },
       {
-        "title": "俄国波兰瓜分乌克兰（约）",
-        "description": "安德鲁索沃和约瓜分第聂伯河乌克兰。",
-        "latitude": 55.0,
-        "longitude": 36.0,
-        "category": "外交",
-        "region": "俄罗斯",
+        "title": "弥尔顿《失乐园》",
+        "description": "公元1667年，英格兰文化领域的重要事件——弥尔顿《失乐园》，成为这一时期的文化标志。",
+        "latitude": 51.51,
+        "longitude": -0.13,
+        "category": "文学",
+        "region": "英格兰",
         "continent": "欧洲"
       }
     ]
@@ -2607,17 +2850,8 @@
     ],
     "events": [
       {
-        "title": "牛顿制成反射望远镜",
-        "description": "艾萨克·牛顿在剑桥大学制成世界上第一架实用的反射望远镜，采用凹面镜代替透镜，彻底解决了折射望远镜的色差问题。",
-        "latitude": 52.2,
-        "longitude": 0.1,
-        "category": "科技",
-        "region": "英格兰",
-        "continent": "欧洲"
-      },
-      {
         "title": "三国同盟形成",
-        "description": "英国、瑞典、荷兰共和国结成三国同盟，共同遏制法国路易十四的扩张野心，为后来的法荷战争埋下伏笔。",
+        "description": "公元1668年，英格兰开展三国同盟形成，体现了当时的国际关系格局。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "外交",
@@ -2625,8 +2859,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "牛顿制成反射望远镜",
+        "description": "公元1668年，英格兰的科技发展取得重要进展，牛顿制成反射望远镜推动了相关领域的技术进步。",
+        "latitude": 52.2,
+        "longitude": 0.1,
+        "category": "科技",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
         "title": "西承认葡独立",
-        "description": "西班牙承认葡萄牙恢复独立。",
+        "description": "公元1668年，在西班牙，西承认葡独立。",
         "latitude": 38.7,
         "longitude": -9.1,
         "category": "政治",
@@ -2647,22 +2890,22 @@
     ],
     "events": [
       {
-        "title": "康熙擒鳌拜",
-        "description": "康熙帝用计在宫中擒拿权臣鳌拜，将其革职拘禁，真正掌握了朝政大权，展现了少年天子的政治才能。",
-        "latitude": 39.9,
-        "longitude": 116.4,
-        "category": "政治",
-        "region": "清",
-        "continent": "亚洲"
-      },
-      {
         "title": "奥斯曼夺克里特",
-        "description": "奥斯曼攻占威尼斯控克里特。",
+        "description": "公元1669年，在奥斯曼帝国，奥斯曼夺克里特。",
         "latitude": 35.0,
         "longitude": 25.0,
         "category": "军事",
         "region": "奥斯曼帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "康熙擒鳌拜",
+        "description": "公元1669年，清朝康熙擒鳌拜。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "清",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2678,17 +2921,8 @@
     ],
     "events": [
       {
-        "title": "哈德逊湾公司成立",
-        "description": "英国王室授予哈德逊湾公司在北美哈德逊湾流域的贸易垄断权，该公司控制了广阔的皮毛贸易区域，成为加拿大历史的重要推动力。",
-        "latitude": 51.0,
-        "longitude": -93.0,
-        "category": "经济",
-        "region": "英属北美",
-        "continent": "北美洲"
-      },
-      {
         "title": "《多佛尔密约》签订",
-        "description": "英王查理二世与法王路易十四签订《多佛尔密约》，查理二世秘密答应皈依天主教以换取法国的军事和财政支持。",
+        "description": "公元1670年，英格兰开展《多佛尔密约》签订，体现了当时的国际关系格局。",
         "latitude": 51.1,
         "longitude": 1.3,
         "category": "外交",
@@ -2697,7 +2931,7 @@
       },
       {
         "title": "东非斯瓦希里城邦繁荣",
-        "description": "蒙巴萨、桑给巴尔等城邦在印度洋贸易中繁荣。",
+        "description": "公元1670年，斯瓦希里经济领域发生东非斯瓦希里城邦繁荣，对当时的经济生活产生了直接影响。",
         "latitude": -4.0,
         "longitude": 39.5,
         "category": "经济",
@@ -2705,11 +2939,20 @@
         "continent": "非洲"
       },
       {
+        "title": "哈德逊湾公司成立",
+        "description": "公元1670年，哈德逊湾公司成立，标志着新的政治实体在英属北美地区诞生。",
+        "latitude": 51.0,
+        "longitude": -93.0,
+        "category": "经济",
+        "region": "英属北美",
+        "continent": "北美洲"
+      },
+      {
         "title": "欧洲报纸兴起",
-        "description": "新闻。",
+        "description": "公元1670年，英格兰文化领域的重要事件——欧洲报纸兴起，成为这一时期的文化标志。",
         "latitude": 51.5,
         "longitude": -0.1,
-        "category": "媒体",
+        "category": "文化",
         "region": "英格兰",
         "continent": "欧洲"
       }
@@ -2728,7 +2971,7 @@
     "events": [
       {
         "title": "吴三桂云南蓄势",
-        "description": "平西王吴三桂在云南经营逾十年，拥兵自重，俨然独立王国。康熙帝开始考虑撤藩以加强中央集权。",
+        "description": "公元1671年，清朝吴三桂云南蓄势。",
         "latitude": 25.0,
         "longitude": 102.7,
         "category": "政治",
@@ -2736,21 +2979,21 @@
         "continent": "亚洲"
       },
       {
+        "title": "法军事改革",
+        "description": "公元1671年，法国推行法军事改革，对当地政治经济制度产生了深远影响。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "军事",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
         "title": "莱布尼茨发明计算器",
-        "description": "德国数学家莱布尼茨发明了一台能进行加、减、乘、除四则运算的机械计算器，向英国皇家学会展示了这一装置。",
+        "description": "公元1671年，神圣罗马帝国的科技发展取得重要进展，莱布尼茨发明计算器推动了相关领域的技术进步。",
         "latitude": 51.3,
         "longitude": 12.4,
         "category": "科技",
         "region": "神圣罗马帝国",
-        "continent": "欧洲"
-      },
-      {
-        "title": "法军事改革",
-        "description": "路易十四和卢瓦改革法国陆军。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "军事",
-        "region": "法兰西",
         "continent": "欧洲"
       }
     ]
@@ -2767,21 +3010,21 @@
     ],
     "events": [
       {
+        "title": "法侵荷兰",
+        "description": "公元1672年，在法国，法侵荷兰。",
+        "latitude": 52.0,
+        "longitude": 5.0,
+        "category": "军事",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
         "title": "牛顿发表光学论文",
-        "description": "艾萨克·牛顿在英国皇家学会发表关于光和颜色的理论，提出白光由七种颜色组成的理论，开创了光学研究的新时代。",
+        "description": "公元1672年，英格兰的科技发展取得重要进展，牛顿发表光学论文推动了相关领域的技术进步。",
         "latitude": 51.8,
         "longitude": -1.3,
         "category": "科技",
         "region": "英格兰",
-        "continent": "欧洲"
-      },
-      {
-        "title": "法侵荷兰",
-        "description": "路易十四率军入侵荷兰。",
-        "latitude": 52.0,
-        "longitude": 5.0,
-        "category": "军事",
-        "region": "法兰西",
         "continent": "欧洲"
       }
     ]
@@ -2798,21 +3041,21 @@
     ],
     "events": [
       {
-        "title": "三藩之乱爆发",
-        "description": "康熙帝决定撤除三藩，平西王吴三桂在云南发动叛乱，耿精忠、尚之信先后响应，三藩之乱全面爆发。",
+        "title": "三藩之乱",
+        "description": "公元1673年，在清朝，三藩之乱。",
         "latitude": 25.0,
         "longitude": 102.7,
         "category": "军事",
-        "region": "清",
+        "region": "清朝",
         "continent": "亚洲"
       },
       {
         "title": "荷兰决堤阻法军",
-        "description": "荷兰掘海堤水淹国土阻法军。",
+        "description": "公元1673年，在荷兰，荷兰决堤阻法军。",
         "latitude": 52.0,
         "longitude": 5.0,
         "category": "军事",
-        "region": "尼德兰",
+        "region": "荷兰",
         "continent": "欧洲"
       }
     ]
@@ -2829,17 +3072,8 @@
     ],
     "events": [
       {
-        "title": "耿精忠尚之信响应叛乱",
-        "description": "靖南王耿精忠在福建起兵响应吴三桂，平南王尚之信随后在广东响应。三藩之乱席卷南方，清廷面临的局势空前严峻。",
-        "latitude": 26.1,
-        "longitude": 119.3,
-        "category": "军事",
-        "region": "清",
-        "continent": "亚洲"
-      },
-      {
         "title": "希瓦吉加冕为王",
-        "description": "马拉塔领袖希瓦吉在拉加德堡正式加冕为查特拉帕蒂（Chhatrapati），建立马拉塔帝国，成为莫卧儿帝国在南印度的强大对手。",
+        "description": "公元1674年，希瓦吉加冕为王，开启了新的统治时期。",
         "latitude": 18.5,
         "longitude": 73.9,
         "category": "政治",
@@ -2848,12 +3082,21 @@
       },
       {
         "title": "第三次英荷战争结束",
-        "description": "英荷战争以和约结束。",
+        "description": "公元1674年，英格兰爆发第三次英荷战争结束，战事在英格兰地区全面展开。",
         "latitude": 52.0,
         "longitude": 2.0,
         "category": "外交",
         "region": "英格兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "耿精忠尚之信响应叛乱",
+        "description": "公元1674年，清朝耿精忠尚之信响应叛乱。",
+        "latitude": 26.1,
+        "longitude": 119.3,
+        "category": "军事",
+        "region": "清",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2869,8 +3112,26 @@
     ],
     "events": [
       {
+        "title": "列文虎克发现微生物",
+        "description": "公元1675年，列文虎克发现微生物，这是人类在荷兰取得的重要科技成就。",
+        "latitude": 52.0,
+        "longitude": 4.5,
+        "category": "文化",
+        "region": "荷兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "新英格兰印第安战争",
+        "description": "公元1675年，北美印第安爆发新英格兰印第安战争，战事在北美印第安地区全面展开。",
+        "latitude": 42.0,
+        "longitude": -70.0,
+        "category": "军事",
+        "region": "北美印第安",
+        "continent": "北美洲"
+      },
+      {
         "title": "格林威治天文台建立",
-        "description": "英国国王查理二世下令在伦敦格林威治建造皇家天文台，旨在解决航海经度测量问题，推动了天文学和航海技术的发展。",
+        "description": "公元1675年，格林威治天文台建立，标志着新的政治实体在英格兰地区诞生。",
         "latitude": 51.5,
         "longitude": -0.0,
         "category": "科技",
@@ -2878,12 +3139,12 @@
         "continent": "欧洲"
       },
       {
-        "title": "新英格兰印第安战争",
-        "description": "菲利普王战争在新英格兰爆发。",
+        "title": "菲力普王战争",
+        "description": "公元1675年，北美爆发菲力普王战争，战事在北美地区全面展开。",
         "latitude": 42.0,
-        "longitude": -70.0,
+        "longitude": -71.0,
         "category": "军事",
-        "region": "北美印第安",
+        "region": "北美",
         "continent": "北美洲"
       }
     ]
@@ -2901,7 +3162,7 @@
     "events": [
       {
         "title": "教宗国与波兰联军维也纳之战",
-        "description": "波兰国王约翰三世率领波兰-神圣罗马帝国联军在维也纳击败奥斯曼帝国军队，阻止了奥斯曼帝国向欧洲中部的进一步扩张。",
+        "description": "公元1676年，波兰-立陶宛联邦爆发教宗国与波兰联军维也纳之战，战事在波兰-立陶宛联邦地区全面展开。",
         "latitude": 48.2,
         "longitude": 16.4,
         "category": "军事",
@@ -2910,11 +3171,11 @@
       },
       {
         "title": "法军卡塞勒战役",
-        "description": "法国在卡塞勒击败西班牙荷兰联军。",
+        "description": "公元1676年，法国爆发法军卡塞勒战役，战事在法国地区全面展开。",
         "latitude": 50.8,
         "longitude": 2.5,
         "category": "军事",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "欧洲"
       }
     ]
@@ -2931,17 +3192,17 @@
     ],
     "events": [
       {
-        "title": "清军收复江西湖南",
-        "description": "清军大举反攻，先后收复江西、湖南大部，吴三桂势力被压缩到云南、贵州，三藩之乱形势开始逆转。",
-        "latitude": 27.3,
-        "longitude": 112.4,
-        "category": "军事",
-        "region": "清",
-        "continent": "亚洲"
+        "title": "斯宾诺莎《伦理学》",
+        "description": "公元1677年，荷兰文化领域的重要事件——斯宾诺莎《伦理学》，成为这一时期的文化标志。",
+        "latitude": 52.09,
+        "longitude": 4.31,
+        "category": "文化",
+        "region": "荷兰",
+        "continent": "欧洲"
       },
       {
         "title": "斯宾诺莎逝世",
-        "description": "荷兰哲学家巴鲁赫·斯宾诺莎在海牙去世，年仅44岁。他的《伦理学》等著作对理性主义哲学和现代思想产生了深远影响。",
+        "description": "公元1677年，斯宾诺莎逝世，一个重要的历史人物离开了历史舞台。",
         "latitude": 52.1,
         "longitude": 4.3,
         "category": "文化",
@@ -2949,12 +3210,21 @@
         "continent": "欧洲"
       },
       {
+        "title": "清军收复江西湖南",
+        "description": "公元1677年，清朝清军收复江西湖南。",
+        "latitude": 27.3,
+        "longitude": 112.4,
+        "category": "军事",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
         "title": "荷英联合反法",
-        "description": "荷兰威廉三世联英抗法。",
+        "description": "公元1677年，荷兰开展荷英联合反法，体现了当时的国际关系格局。",
         "latitude": 52.0,
         "longitude": 4.0,
         "category": "外交",
-        "region": "尼德兰",
+        "region": "荷兰",
         "continent": "欧洲"
       }
     ]
@@ -2971,17 +3241,8 @@
     ],
     "events": [
       {
-        "title": "吴三桂衡州称帝",
-        "description": "吴三桂在军事形势不断恶化的情况下，在衡州（今衡阳）仓促称帝，国号大周。不久后吴三桂病逝，其孙吴世璠继位。",
-        "latitude": 26.9,
-        "longitude": 112.6,
-        "category": "政治",
-        "region": "大周",
-        "continent": "亚洲"
-      },
-      {
         "title": "《天路历程》出版",
-        "description": "英国作家约翰·班扬在狱中完成《天路历程》，以寓言形式讲述基督徒的天路旅程，成为最广泛阅读的基督教文学作品之一。",
+        "description": "公元1678年，英格兰地区的文化艺术领域取得了重要成就，《天路历程》出版成为这一时期的文化代表。",
         "latitude": 52.1,
         "longitude": -0.5,
         "category": "文化",
@@ -2989,12 +3250,21 @@
         "continent": "欧洲"
       },
       {
+        "title": "吴三桂衡州称帝",
+        "description": "公元1678年，吴三桂衡州称帝，开启了新的统治时期。",
+        "latitude": 26.9,
+        "longitude": 112.6,
+        "category": "政治",
+        "region": "大周",
+        "continent": "亚洲"
+      },
+      {
         "title": "尼姆维根和约",
-        "description": "法与荷西签和约结束法荷战争。",
+        "description": "公元1678年，尼姆维根和约，该协议的签署影响了相关国家的关系格局。",
         "latitude": 51.8,
         "longitude": 5.9,
         "category": "外交",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "欧洲"
       }
     ]
@@ -3012,7 +3282,7 @@
     "events": [
       {
         "title": "《人身保护法》通过",
-        "description": "英国议会通过《人身保护法》，规定未经法庭审判不得拘押公民，成为保障人身自由最重要的一项宪法性法律。",
+        "description": "公元1679年，在英格兰，《人身保护法》通过。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "政治",
@@ -3021,7 +3291,7 @@
       },
       {
         "title": "清军收复湖广",
-        "description": "清军攻占岳州、常德、长沙等战略要地，吴军节节败退，三藩之乱的平叛胜利在望。",
+        "description": "公元1679年，清朝清军收复湖广。",
         "latitude": 29.4,
         "longitude": 113.1,
         "category": "军事",
@@ -3030,7 +3300,7 @@
       },
       {
         "title": "清平三藩",
-        "description": "清军攻占昆明吴氏亡。",
+        "description": "公元1679年，清朝清平三藩。",
         "latitude": 25.0,
         "longitude": 102.7,
         "category": "军事",
@@ -3051,26 +3321,8 @@
     ],
     "events": [
       {
-        "title": "清军收复四川",
-        "description": "清军从川北和湖广两路进兵，攻占成都、重庆等四川要地，吴军在四川的抵抗基本被粉碎，三藩之乱接近尾声。",
-        "latitude": 30.6,
-        "longitude": 104.1,
-        "category": "军事",
-        "region": "清",
-        "continent": "亚洲"
-      },
-      {
-        "title": "普韦布洛起义",
-        "description": "新墨西哥的普韦布洛印第安人在波佩领导下发动起义，驱逐西班牙殖民者，占领圣菲城，成功维持自治长达12年之久。",
-        "latitude": 35.7,
-        "longitude": -106.0,
-        "category": "社会",
-        "region": "新西班牙",
-        "continent": "北美洲"
-      },
-      {
         "title": "印度马拉塔人壮大",
-        "description": "希瓦吉建马拉塔帝国抗莫卧儿。",
+        "description": "公元1680年，在马拉塔帝国，印度马拉塔人壮大。",
         "latitude": 18.0,
         "longitude": 73.0,
         "category": "政治",
@@ -3078,13 +3330,31 @@
         "continent": "亚洲"
       },
       {
+        "title": "普韦布洛起义",
+        "description": "公元1680年，新西班牙爆发普韦布洛起义，对当局造成了巨大冲击。",
+        "latitude": 35.7,
+        "longitude": -106.0,
+        "category": "社会",
+        "region": "新西班牙",
+        "continent": "北美洲"
+      },
+      {
         "title": "法国时尚产业",
-        "description": "时装。",
+        "description": "公元1680年，法国社会领域出现法国时尚产业，反映了社会的发展变化。",
         "latitude": 48.9,
         "longitude": 2.3,
-        "category": "时尚",
-        "region": "法兰西",
+        "category": "社会",
+        "region": "法国",
         "continent": "欧洲"
+      },
+      {
+        "title": "清军收复四川",
+        "description": "公元1680年，清朝清军收复四川。",
+        "latitude": 30.6,
+        "longitude": 104.1,
+        "category": "军事",
+        "region": "清",
+        "continent": "亚洲"
       }
     ]
   },
@@ -3100,8 +3370,8 @@
     ],
     "events": [
       {
-        "title": "三藩之乱平定",
-        "description": "清军攻破昆明，吴世璠自杀，历时八年的三藩之乱最终平定，清朝中央集权得到极大加强。",
+        "title": "康熙平定三藩",
+        "description": "公元1681年，清朝康熙平定三藩。",
         "latitude": 25.0,
         "longitude": 102.7,
         "category": "军事",
@@ -3110,7 +3380,7 @@
       },
       {
         "title": "德意志地区恢复",
-        "description": "三十年战争后德意志缓慢恢复。",
+        "description": "公元1681年，神圣罗马帝国经济领域发生德意志地区恢复，对当时的经济生活产生了直接影响。",
         "latitude": 52.0,
         "longitude": 10.0,
         "category": "经济",
@@ -3132,20 +3402,20 @@
     "events": [
       {
         "title": "拉辛起义失败",
-        "description": "俄国斯捷潘·拉辛领导的哥萨克农民大起义最终被沙皇政府镇压，拉辛在莫斯科被处决，但动摇了沙皇专制统治的基础。",
+        "description": "公元1682年，俄国爆发拉辛起义失败，对当局造成了巨大冲击。",
         "latitude": 55.8,
         "longitude": 37.6,
         "category": "社会",
-        "region": "俄罗斯",
+        "region": "俄国",
         "continent": "欧洲"
       },
       {
         "title": "法宫廷迁凡尔赛",
-        "description": "路易十四迁宫廷至凡尔赛。",
+        "description": "公元1682年，在法国，法宫廷迁凡尔赛。",
         "latitude": 48.8,
         "longitude": 2.1,
         "category": "政治",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "欧洲"
       }
     ]
@@ -3163,7 +3433,7 @@
     "events": [
       {
         "title": "清军攻占台湾",
-        "description": "福建水师提督施琅率清军舰队攻占澎湖，郑克塽投降，明郑政权灭亡，台湾正式纳入清朝版图。",
+        "description": "公元1683年，清朝清军攻占台湾。",
         "latitude": 23.0,
         "longitude": 120.2,
         "category": "军事",
@@ -3171,8 +3441,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "清统一台湾",
+        "description": "公元1683年，在清朝，清统一台湾。",
+        "latitude": 23.0,
+        "longitude": 120.2,
+        "category": "军事",
+        "region": "清朝",
+        "continent": "亚洲"
+      },
+      {
         "title": "维也纳之战",
-        "description": "波兰国王约翰三世率联军在维也纳大败奥斯曼帝国军队，解除了奥斯曼对欧洲的军事威胁，奥斯曼帝国开始衰落。",
+        "description": "公元1683年，奥斯曼帝国爆发维也纳之战，战事在奥斯曼帝国地区全面展开。",
         "latitude": 48.2,
         "longitude": 16.4,
         "category": "军事",
@@ -3194,7 +3473,7 @@
     "events": [
       {
         "title": "清朝设立台湾府",
-        "description": "清政府在台湾设立台湾府，隶属福建省，下辖台湾、凤山、诸罗三县，正式开始对台湾的行政管理。",
+        "description": "公元1684年，清朝清朝设立台湾府。",
         "latitude": 23.0,
         "longitude": 120.2,
         "category": "政治",
@@ -3203,7 +3482,7 @@
       },
       {
         "title": "神圣同盟成立",
-        "description": "教皇促成正教国家组神圣同盟。",
+        "description": "公元1684年，神圣同盟成立，标志着新的政治实体在教皇国地区诞生。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -3224,22 +3503,31 @@
     ],
     "events": [
       {
+        "title": "巴赫亨德尔诞生",
+        "description": "公元1685年，德国文化领域的重要事件——巴赫亨德尔诞生，成为这一时期的文化标志。",
+        "latitude": 51.0,
+        "longitude": 11.0,
+        "category": "音乐",
+        "region": "德国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "废除南特敕令",
+        "description": "公元1685年，法国地区的宗教领域发生重要事件——废除南特敕令，对信众的精神生活产生了深刻影响。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "宗教",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
         "title": "雅克萨之战",
-        "description": "清军围攻沙俄在黑龙江流域的据点雅克萨城，俄军投降。清军焚毁雅克萨城后撤回，为尼布楚谈判创造了条件。",
+        "description": "公元1685年，清爆发雅克萨之战，战事在清地区全面展开。",
         "latitude": 53.5,
         "longitude": 124.0,
         "category": "军事",
         "region": "清",
         "continent": "亚洲"
-      },
-      {
-        "title": "废除南特敕令",
-        "description": "路易十四废除南特敕令胡格诺流亡。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "宗教",
-        "region": "法兰西",
-        "continent": "欧洲"
       }
     ]
   },
@@ -3255,17 +3543,8 @@
     ],
     "events": [
       {
-        "title": "枫丹白露敕令",
-        "description": "法王路易十四颁布《枫丹白露敕令》，废除其祖父亨利四世颁布的《南特敕令》，剥夺法国胡格诺教徒的宗教自由，导致约20万新教徒逃离法国。",
-        "latitude": 48.4,
-        "longitude": 2.7,
-        "category": "宗教",
-        "region": "法兰西",
-        "continent": "欧洲"
-      },
-      {
         "title": "奥格斯堡同盟成立",
-        "description": "神圣罗马帝国皇帝、西班牙、瑞典等国组成奥格斯堡同盟，联合遏制法国扩张，为大同盟战争埋下伏笔。",
+        "description": "公元1686年，奥格斯堡同盟成立，标志着新的政治实体在神圣罗马帝国地区诞生。",
         "latitude": 48.4,
         "longitude": 10.9,
         "category": "外交",
@@ -3273,8 +3552,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "枫丹白露敕令",
+        "description": "公元1686年，法国地区的宗教领域发生重要事件——枫丹白露敕令，对信众的精神生活产生了深刻影响。",
+        "latitude": 48.4,
+        "longitude": 2.7,
+        "category": "宗教",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
         "title": "神圣同盟反攻",
-        "description": "神圣同盟军在匈牙利败奥斯曼。",
+        "description": "公元1686年，在神圣同盟，神圣同盟反攻。",
         "latitude": 47.5,
         "longitude": 19.0,
         "category": "军事",
@@ -3295,8 +3583,26 @@
     ],
     "events": [
       {
+        "title": "牛顿《数学原理》",
+        "description": "公元1687年，英格兰的科技发展取得重要进展，牛顿《数学原理》推动了相关领域的技术进步。",
+        "latitude": 51.51,
+        "longitude": -0.13,
+        "category": "科技",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "牛顿三大定律",
+        "description": "公元1687年，英格兰的科技发展取得重要进展，牛顿三大定律推动了相关领域的技术进步。",
+        "latitude": 51.51,
+        "longitude": -0.13,
+        "category": "科技",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
         "title": "牛顿发表《自然哲学的数学原理》",
-        "description": "艾萨克·牛顿发表划时代巨著《自然哲学的数学原理》，提出万有引力定律和三大运动定律，奠定了经典物理学的基础。",
+        "description": "公元1687年，英格兰的科技发展取得重要进展，牛顿发表《自然哲学的数学原理》推动了相关领域的技术进步。",
         "latitude": 51.8,
         "longitude": -1.3,
         "category": "科技",
@@ -3318,7 +3624,7 @@
     "events": [
       {
         "title": "英国光荣革命",
-        "description": "英国议会邀请荷兰执政威廉三世率军登陆英国，詹姆斯二世逃亡法国。这场不流血的政变确立了议会高于王权的君主立宪制原则。",
+        "description": "公元1688年，英格兰爆发英国光荣革命，动摇了既有统治秩序。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "政治",
@@ -3339,17 +3645,17 @@
     ],
     "events": [
       {
-        "title": "《尼布楚条约》签订",
-        "description": "中俄签订《尼布楚条约》，划定两国东段边界，这是中国与欧洲国家签订的第一个平等条约，维持了东北边疆近两百年的稳定。",
-        "latitude": 51.3,
-        "longitude": 119.9,
+        "title": "《尼布楚条约》",
+        "description": "公元1689年，《尼布楚条约》，该协议的签署影响了相关国家的关系格局。",
+        "latitude": 51.5,
+        "longitude": 119.5,
         "category": "外交",
-        "region": "清",
+        "region": "清朝",
         "continent": "亚洲"
       },
       {
         "title": "《权利法案》颁布",
-        "description": "英国议会通过《权利法案》，限制了国王权力，确立了议会的立法权和征税权，奠定了英国君主立宪制的法律基础。",
+        "description": "公元1689年，在英格兰，《权利法案》颁布。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "政治",
@@ -3357,8 +3663,26 @@
         "continent": "欧洲"
       },
       {
+        "title": "洛克《人类理解论》",
+        "description": "公元1689年，英格兰文化领域的重要事件——洛克《人类理解论》，成为这一时期的文化标志。",
+        "latitude": 51.51,
+        "longitude": -0.13,
+        "category": "文化",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英国《权利法案》",
+        "description": "公元1689年，在英格兰，英国《权利法案》。",
+        "latitude": 51.51,
+        "longitude": -0.13,
+        "category": "法律",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
         "title": "英权利法案",
-        "description": "国会通过权利法案立君主立宪。",
+        "description": "公元1689年，在英格兰，英权利法案。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "政治",
@@ -3380,7 +3704,7 @@
     "events": [
       {
         "title": "乌兰布通之战",
-        "description": "康熙帝御驾亲征噶尔丹，清军在乌兰布通以火炮击败准噶尔军，噶尔丹率残部西逃，清军取得重大胜利。",
+        "description": "公元1690年，清爆发乌兰布通之战，战事在清地区全面展开。",
         "latitude": 42.8,
         "longitude": 117.2,
         "category": "军事",
@@ -3389,7 +3713,7 @@
       },
       {
         "title": "博因河战役",
-        "description": "威廉三世在爱尔兰败詹姆斯二世。",
+        "description": "公元1690年，英格兰爆发博因河战役，战事在英格兰地区全面展开。",
         "latitude": 53.7,
         "longitude": -6.5,
         "category": "军事",
@@ -3398,10 +3722,10 @@
       },
       {
         "title": "欧洲海上保险",
-        "description": "保险。",
+        "description": "公元1690年，英格兰经济领域发生欧洲海上保险，对当时的经济生活产生了直接影响。",
         "latitude": 51.5,
         "longitude": -0.1,
-        "category": "金融",
+        "category": "经济",
         "region": "英格兰",
         "continent": "欧洲"
       }
@@ -3420,7 +3744,7 @@
     "events": [
       {
         "title": "多伦会盟",
-        "description": "康熙帝在多伦诺尔召集喀尔喀蒙古三部及内蒙古四十九旗王公会盟，正式将外蒙古纳入清朝版图，确立了对漠北蒙古的统治。",
+        "description": "公元1691年，清开展多伦会盟，体现了当时的国际关系格局。",
         "latitude": 42.2,
         "longitude": 116.5,
         "category": "外交",
@@ -3429,7 +3753,7 @@
       },
       {
         "title": "奥赫里姆战役",
-        "description": "威廉三世军在爱尔兰奥赫里姆大败詹姆斯二世党人军队，英王威廉三世彻底击败对手，结束了其在爱尔兰的统治。",
+        "description": "公元1691年，爱尔兰爆发奥赫里姆战役，战事在爱尔兰地区全面展开。",
         "latitude": 53.3,
         "longitude": -8.3,
         "category": "军事",
@@ -3438,11 +3762,11 @@
       },
       {
         "title": "法在加拿大设新据点",
-        "description": "法在五大湖区设新殖民据点。",
+        "description": "公元1691年，在法国，法在加拿大设新据点。",
         "latitude": 46.5,
         "longitude": -78.0,
         "category": "政治",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "北美洲"
       }
     ]
@@ -3459,22 +3783,31 @@
     ],
     "events": [
       {
-        "title": "康熙容教令",
-        "description": "康熙帝颁布容教令，允许天主教传教士在中国自由传教。此前传教士因科学贡献获得康熙帝的信任，中西文化交流进入新阶段。",
-        "latitude": 39.9,
-        "longitude": 116.4,
-        "category": "宗教",
-        "region": "清",
-        "continent": "亚洲"
+        "title": "塞勒姆女巫案",
+        "description": "公元1692年，北美社会领域出现塞勒姆女巫案，反映了社会的发展变化。",
+        "latitude": 42.52,
+        "longitude": -70.9,
+        "category": "社会",
+        "region": "北美",
+        "continent": "北美洲"
       },
       {
         "title": "塞勒姆审巫案",
-        "description": "北美马萨诸塞殖民地塞勒姆村爆发大规模审巫案，近200人被指控为巫师，20人被处死，成为北美历史上最著名的集体歇斯底里事件。",
+        "description": "公元1692年，英属北美社会领域出现塞勒姆审巫案，反映了社会的发展变化。",
         "latitude": 42.5,
         "longitude": -70.9,
         "category": "社会",
         "region": "英属北美",
         "continent": "北美洲"
+      },
+      {
+        "title": "康熙容教令",
+        "description": "公元1692年，清地区的宗教领域发生重要事件——康熙容教令，对信众的精神生活产生了深刻影响。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "宗教",
+        "region": "清",
+        "continent": "亚洲"
       }
     ]
   },
@@ -3490,21 +3823,21 @@
     ],
     "events": [
       {
+        "title": "概率论创立",
+        "description": "公元1693年，法国的科技发展取得重要进展，概率论创立推动了相关领域的技术进步。",
+        "latitude": 48.0,
+        "longitude": 2.0,
+        "category": "科技",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
         "title": "洛克发表《人类理解论》",
-        "description": "英国哲学家约翰·洛克发表《人类理解论》，提出心灵白板说，认为人的知识来源于经验，对启蒙运动产生了深远影响。",
+        "description": "公元1693年，英格兰地区的文化艺术领域取得了重要成就，洛克发表《人类理解论》成为这一时期的文化代表。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "文化",
         "region": "英格兰",
-        "continent": "欧洲"
-      },
-      {
-        "title": "概率论创立",
-        "description": "帕斯卡和费马创概率论。",
-        "latitude": 48.0,
-        "longitude": 2.0,
-        "category": "科技",
-        "region": "法兰西",
         "continent": "欧洲"
       }
     ]
@@ -3521,22 +3854,22 @@
     ],
     "events": [
       {
-        "title": "英格兰银行成立",
-        "description": "英国政府为筹措对法战争军费，在伦敦创立英格兰银行。它成为世界上最早的中央银行之一，奠定了英国金融霸权的基石。",
-        "latitude": 51.5,
-        "longitude": -0.1,
-        "category": "经济",
-        "region": "英格兰",
-        "continent": "欧洲"
-      },
-      {
         "title": "加尔各答建埠",
-        "description": "英国东印度公司在恒河三角洲的加尔各答建立贸易据点，后来发展成为英属印度的首都。",
+        "description": "公元1694年，莫卧儿帝国经济领域发生加尔各答建埠，对当时的经济生活产生了直接影响。",
         "latitude": 22.6,
         "longitude": 88.4,
         "category": "经济",
         "region": "莫卧儿帝国",
         "continent": "亚洲"
+      },
+      {
+        "title": "英格兰银行成立",
+        "description": "公元1694年，英格兰银行成立，标志着新的政治实体在英格兰地区诞生。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "经济",
+        "region": "英格兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -3552,31 +3885,22 @@
     ],
     "events": [
       {
+        "title": "俄国夺取亚速",
+        "description": "公元1695年，在俄国，俄国夺取亚速。",
+        "latitude": 47.1,
+        "longitude": 39.4,
+        "category": "军事",
+        "region": "俄国",
+        "continent": "欧洲"
+      },
+      {
         "title": "黄宗羲逝世",
-        "description": "明末清初思想家黄宗羲逝世。其著作《明夷待访录》批判君主专制，提出“天下为主，君为客”的思想，对后世启蒙思想产生深远影响。",
+        "description": "公元1695年，黄宗羲逝世，一个重要的历史人物离开了历史舞台。",
         "latitude": 29.7,
         "longitude": 121.0,
         "category": "文化",
         "region": "清",
         "continent": "亚洲"
-      },
-      {
-        "title": "俄国夺取亚速",
-        "description": "彼得大帝率俄军攻占奥斯曼帝国的亚速要塞，获得黑海出海口的第一步。这是俄国历史上首次向黑海方向的成功扩张。",
-        "latitude": 47.1,
-        "longitude": 39.4,
-        "category": "军事",
-        "region": "俄罗斯",
-        "continent": "欧洲"
-      },
-      {
-        "title": "彼得大帝改革",
-        "description": "彼得一世推行西化改革。",
-        "latitude": 55.8,
-        "longitude": 37.6,
-        "category": "政治",
-        "region": "俄罗斯",
-        "continent": "欧洲"
       }
     ]
   },
@@ -3592,19 +3916,19 @@
     ],
     "events": [
       {
-        "title": "昭莫多之战",
-        "description": "康熙帝再次亲征噶尔丹，清军在昭莫多（今蒙古乌兰巴托附近）大败准噶尔军，噶尔丹主力被歼灭。",
-        "latitude": 47.9,
-        "longitude": 106.9,
+        "title": "康熙征噶尔丹",
+        "description": "公元1696年，清朝康熙征噶尔丹。",
+        "latitude": 45.0,
+        "longitude": 110.0,
         "category": "军事",
         "region": "清",
         "continent": "亚洲"
       },
       {
-        "title": "康熙征噶尔丹",
-        "description": "康熙亲征准噶尔噶尔丹。",
-        "latitude": 45.0,
-        "longitude": 110.0,
+        "title": "昭莫多之战",
+        "description": "公元1696年，清爆发昭莫多之战，战事在清地区全面展开。",
+        "latitude": 47.9,
+        "longitude": 106.9,
         "category": "军事",
         "region": "清",
         "continent": "亚洲"
@@ -3623,21 +3947,21 @@
     ],
     "events": [
       {
+        "title": "俄征服堪察加",
+        "description": "公元1697年，在俄国，俄征服堪察加。",
+        "latitude": 56.0,
+        "longitude": 160.0,
+        "category": "军事",
+        "region": "俄国",
+        "continent": "亚洲"
+      },
+      {
         "title": "噶尔丹败亡",
-        "description": "准噶尔汗噶尔丹在清军围困中兵败自杀，漠北喀尔喀蒙古正式归附清朝，康熙帝巩固了对蒙古地区的控制。",
+        "description": "公元1697年，清朝噶尔丹败亡。",
         "latitude": 47.9,
         "longitude": 106.9,
         "category": "军事",
         "region": "清",
-        "continent": "亚洲"
-      },
-      {
-        "title": "俄征服堪察加",
-        "description": "俄国探险队征服堪察加半岛。",
-        "latitude": 56.0,
-        "longitude": 160.0,
-        "category": "军事",
-        "region": "俄罗斯",
         "continent": "亚洲"
       }
     ]
@@ -3655,20 +3979,20 @@
     "events": [
       {
         "title": "彼得大帝改革",
-        "description": "沙皇彼得大帝结束西欧考察返回俄国，开始全面推行西化改革，涉及军事、行政、教育、科技等领域，俄国加速现代化。",
+        "description": "公元1698年，俄国推行彼得大帝改革，对当地政治经济制度产生了深远影响。",
         "latitude": 55.8,
         "longitude": 37.6,
         "category": "政治",
-        "region": "俄罗斯",
+        "region": "俄国",
         "continent": "欧洲"
       },
       {
         "title": "彼得大帝访西欧",
-        "description": "彼得一世微服访问西欧考察。",
+        "description": "公元1698年，在俄国，彼得大帝访西欧。",
         "latitude": 52.0,
         "longitude": 5.0,
         "category": "政治",
-        "region": "俄罗斯",
+        "region": "俄国",
         "continent": "欧洲"
       }
     ]
@@ -3685,8 +4009,17 @@
     ],
     "events": [
       {
+        "title": "卡尔洛维茨条约",
+        "description": "公元1699年，卡尔洛维茨条约，该协议的签署影响了相关国家的关系格局。",
+        "latitude": 45.2,
+        "longitude": 19.6,
+        "category": "政治",
+        "region": "奥斯曼帝国",
+        "continent": "欧洲"
+      },
+      {
         "title": "卡洛维茨条约",
-        "description": "奥斯曼帝国与神圣联盟签订《卡洛维茨条约》，被迫割让匈牙利、特兰西瓦尼亚等地给奥地利，奥斯曼帝国在欧洲的扩张终结。",
+        "description": "公元1699年，卡洛维茨条约，该协议的签署影响了相关国家的关系格局。",
         "latitude": 45.3,
         "longitude": 19.0,
         "category": "外交",
@@ -3708,7 +4041,7 @@
     "events": [
       {
         "title": "大北方战争爆发",
-        "description": "俄国、丹麦、波兰-萨克森联军向瑞典宣战，大北方战争开始。18岁的瑞典国王卡尔十二世在纳尔瓦战役中以少胜多击败俄军。",
+        "description": "公元1700年，瑞典爆发大北方战争爆发，战事在瑞典地区全面展开。",
         "latitude": 59.4,
         "longitude": 28.1,
         "category": "军事",
@@ -3717,7 +4050,7 @@
       },
       {
         "title": "西班牙王位继承危机",
-        "description": "西班牙国王卡洛斯二世去世，无嗣，遗嘱将王位传给法国波旁家族的腓力。欧洲列强围绕西班牙王位继承问题展开外交博弈，战争一触即发。",
+        "description": "公元1700年，在西班牙，西班牙王位继承危机。",
         "latitude": 40.4,
         "longitude": -3.7,
         "category": "政治",

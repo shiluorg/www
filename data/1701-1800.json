@@ -11,44 +11,17 @@
     ],
     "events": [
       {
-        "title": "西班牙王位继承战争爆发",
-        "description": "西班牙国王卡洛斯二世无嗣去世，法国波旁王朝与奥地利哈布斯堡王朝为争夺西班牙王位爆发战争，欧洲多国卷入。",
-        "latitude": 40.4,
-        "longitude": -3.7,
-        "category": "军事",
-        "region": "西班牙",
-        "continent": "欧洲"
-      },
-      {
         "title": "俄国彼得大帝改革",
-        "description": "俄国在彼得大帝和叶卡捷琳娜大帝治理下成为欧洲强国。",
+        "description": "公元1701年，俄国推行俄国彼得大帝改革，对当地政治经济制度产生了深远影响。",
         "latitude": 55.8,
         "longitude": 37.6,
         "category": "政治",
-        "region": "俄罗斯",
+        "region": "俄国",
         "continent": "欧洲"
-      },
-      {
-        "title": "法国大革命影响",
-        "description": "法国革命思想在欧洲和美洲传播。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "政治",
-        "region": "法兰西",
-        "continent": "欧洲"
-      },
-      {
-        "title": "清朝修撰四库全书",
-        "description": "清朝编纂四库全书整理典籍。",
-        "latitude": 39.9,
-        "longitude": 116.4,
-        "category": "文化",
-        "region": "清",
-        "continent": "亚洲"
       },
       {
         "title": "太平洋探索",
-        "description": "库克等欧洲航海家探索太平洋群岛。",
+        "description": "公元1701年，欧洲的科技发展取得重要进展，太平洋探索推动了相关领域的技术进步。",
         "latitude": -20.0,
         "longitude": -160.0,
         "category": "科技",
@@ -56,26 +29,17 @@
         "continent": "大洋洲"
       },
       {
-        "title": "列强全球殖民竞争",
-        "description": "英法西荷在全球范围争夺殖民地。",
-        "latitude": 20.0,
-        "longitude": -20.0,
-        "category": "政治",
-        "region": "欧洲",
-        "continent": "欧洲"
-      },
-      {
-        "title": "美洲殖民经济发展",
-        "description": "美洲殖民地种植园矿业经济发展。",
-        "latitude": 20.0,
-        "longitude": -70.0,
-        "category": "经济",
-        "region": "美洲",
+        "title": "耶鲁学院成立",
+        "description": "公元1701年，耶鲁学院成立，标志着新的政治实体在北美地区诞生。",
+        "latitude": 41.31,
+        "longitude": -72.92,
+        "category": "教育",
+        "region": "北美",
         "continent": "北美洲"
       },
       {
         "title": "英王威廉三世去世",
-        "description": "威廉三世坠马去世安妮女王继位。",
+        "description": "公元1701年，英王威廉三世去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "政治",
@@ -84,11 +48,20 @@
       },
       {
         "title": "荷兰与英国盟约",
-        "description": "海牙盟约抗法。",
+        "description": "公元1701年，荷兰与英国盟约，该协议的签署影响了相关国家的关系格局。",
         "latitude": 52.1,
         "longitude": 4.3,
         "category": "外交",
-        "region": "尼德兰",
+        "region": "荷兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "西班牙王位继承战争爆发",
+        "description": "公元1701年，西班牙爆发西班牙王位继承战争爆发，战事在西班牙地区全面展开。",
+        "latitude": 40.4,
+        "longitude": -3.7,
+        "category": "军事",
+        "region": "西班牙",
         "continent": "欧洲"
       }
     ]
@@ -105,53 +78,17 @@
     ],
     "events": [
       {
-        "title": "清朝康乾盛世",
-        "description": "清朝康熙、雍正、乾隆三朝统治，中国进入繁荣时期。",
-        "latitude": 39.9,
-        "longitude": 116.4,
-        "category": "政治",
-        "region": "清",
-        "continent": "亚洲"
-      },
-      {
-        "title": "欧洲启蒙运动传播",
-        "description": "启蒙思想在欧洲各国广泛传播。",
-        "latitude": 48.0,
-        "longitude": 2.0,
+        "title": "《每日新闻》创刊",
+        "description": "公元1702年，英格兰地区的文化艺术领域取得了重要成就，《每日新闻》创刊成为这一时期的文化代表。",
+        "latitude": 51.51,
+        "longitude": -0.13,
         "category": "文化",
-        "region": "欧洲",
-        "continent": "欧洲"
-      },
-      {
-        "title": "日本文化经济繁荣",
-        "description": "江户时期日本城市商业文化繁荣。",
-        "latitude": 35.7,
-        "longitude": 139.7,
-        "category": "文化",
-        "region": "日本",
-        "continent": "亚洲"
-      },
-      {
-        "title": "英国占领梅诺卡岛",
-        "description": "英国海军占领地中海梅诺卡岛。",
-        "latitude": 40.0,
-        "longitude": 4.0,
-        "category": "军事",
-        "region": "英格兰",
-        "continent": "欧洲"
-      },
-      {
-        "title": "英国西班牙海战",
-        "description": "英西海战。",
-        "latitude": 40.0,
-        "longitude": -3.0,
-        "category": "军事",
         "region": "英格兰",
         "continent": "欧洲"
       },
       {
         "title": "安妮女王即位",
-        "description": "安妮女王成英王。",
+        "description": "公元1702年，安妮女王即位，开启了新的统治时期。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "政治",
@@ -159,8 +96,35 @@
         "continent": "欧洲"
       },
       {
+        "title": "欧洲启蒙运动传播",
+        "description": "公元1702年，欧洲地区的文化艺术领域取得了重要成就，欧洲启蒙运动传播成为这一时期的文化代表。",
+        "latitude": 48.0,
+        "longitude": 2.0,
+        "category": "文化",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "清朝康乾盛世",
+        "description": "公元1702年，清朝清朝康乾盛世。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "政治",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
+        "title": "英国占领梅诺卡岛",
+        "description": "公元1702年，在英格兰，英国占领梅诺卡岛。",
+        "latitude": 40.0,
+        "longitude": 4.0,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
         "title": "英西加的斯海战",
-        "description": "英荷攻西班牙。",
+        "description": "公元1702年，在英格兰，英西加的斯海战。",
         "latitude": 36.5,
         "longitude": -6.3,
         "category": "军事",
@@ -182,38 +146,29 @@
     "events": [
       {
         "title": "圣彼得堡建城",
-        "description": "沙皇彼得大帝在波罗的海沿岸的涅瓦河三角洲建立圣彼得堡，1712年迁都至此，成为俄国面向西方的窗口。",
+        "description": "公元1703年，在俄国，圣彼得堡建城。",
         "latitude": 59.9,
         "longitude": 30.3,
         "category": "政治",
-        "region": "俄罗斯",
-        "continent": "欧洲"
-      },
-      {
-        "title": "法国大革命",
-        "description": "法国大革命爆发，推翻封建专制制度。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "政治",
-        "region": "法兰西",
-        "continent": "欧洲"
-      },
-      {
-        "title": "葡萄牙加入反法同盟",
-        "description": "葡萄牙签约。",
-        "latitude": 38.7,
-        "longitude": -9.1,
-        "category": "外交",
-        "region": "葡萄牙",
+        "region": "俄国",
         "continent": "欧洲"
       },
       {
         "title": "萨伏伊加入反法同盟",
-        "description": "萨伏伊转向。",
+        "description": "公元1703年，萨伏伊开展萨伏伊加入反法同盟，体现了当时的国际关系格局。",
         "latitude": 45.1,
         "longitude": 7.5,
         "category": "外交",
         "region": "萨伏伊",
+        "continent": "欧洲"
+      },
+      {
+        "title": "葡萄牙加入反法同盟",
+        "description": "公元1703年，葡萄牙开展葡萄牙加入反法同盟，体现了当时的国际关系格局。",
+        "latitude": 38.7,
+        "longitude": -9.1,
+        "category": "外交",
+        "region": "葡萄牙",
         "continent": "欧洲"
       }
     ]
@@ -230,44 +185,8 @@
     ],
     "events": [
       {
-        "title": "布伦海姆战役",
-        "description": "马尔伯勒公爵率领英荷联军在布伦海姆大败法巴伐利亚联军，阻止了法国称霸欧洲的野心，此役为西班牙王位继承战争转折点。",
-        "latitude": 48.7,
-        "longitude": 10.9,
-        "category": "军事",
-        "region": "巴伐利亚",
-        "continent": "欧洲"
-      },
-      {
-        "title": "工业革命前夜",
-        "description": "英国纺织业技术进步，为工业革命奠定基础。",
-        "latitude": 52.0,
-        "longitude": -2.0,
-        "category": "科技",
-        "region": "英格兰",
-        "continent": "欧洲"
-      },
-      {
-        "title": "非洲部落王国发展",
-        "description": "阿散蒂达荷美等非洲王国扩张。",
-        "latitude": 7.0,
-        "longitude": -2.0,
-        "category": "政治",
-        "region": "西非",
-        "continent": "非洲"
-      },
-      {
-        "title": "欧洲重商主义",
-        "description": "欧洲各国推行重商主义经济政策。",
-        "latitude": 50.0,
-        "longitude": 8.0,
-        "category": "经济",
-        "region": "欧洲",
-        "continent": "欧洲"
-      },
-      {
         "title": "印度帝国邦国林立",
-        "description": "莫卧儿帝国衰弱后各地方邦国独立。",
+        "description": "公元1704年，在印度，印度帝国邦国林立。",
         "latitude": 25.0,
         "longitude": 80.0,
         "category": "政治",
@@ -275,21 +194,39 @@
         "continent": "亚洲"
       },
       {
-        "title": "英国占直布罗陀",
-        "description": "英占直布罗陀。",
-        "latitude": 36.1,
-        "longitude": -5.4,
-        "category": "军事",
-        "region": "英格兰",
-        "continent": "欧洲"
-      },
-      {
         "title": "奥地利王子欧根亲王",
-        "description": "欧根战功。",
+        "description": "公元1704年，在奥地利，奥地利王子欧根亲王。",
         "latitude": 48.2,
         "longitude": 16.4,
         "category": "军事",
         "region": "奥地利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "工业革命前夜",
+        "description": "公元1704年，英格兰的科技发展取得重要进展，工业革命前夜推动了相关领域的技术进步。",
+        "latitude": 52.0,
+        "longitude": -2.0,
+        "category": "科技",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "布伦海姆战役",
+        "description": "公元1704年，巴伐利亚爆发布伦海姆战役，战事在巴伐利亚地区全面展开。",
+        "latitude": 48.7,
+        "longitude": 10.9,
+        "category": "军事",
+        "region": "巴伐利亚",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英国占直布罗陀",
+        "description": "公元1704年，在英格兰，英国占直布罗陀。",
+        "latitude": 36.1,
+        "longitude": -5.4,
+        "category": "军事",
+        "region": "英格兰",
         "continent": "欧洲"
       }
     ]
@@ -306,8 +243,17 @@
     ],
     "events": [
       {
+        "title": "俄国向西扩张",
+        "description": "公元1705年，在俄国，俄国向西扩张。",
+        "latitude": 55.8,
+        "longitude": 37.6,
+        "category": "政治",
+        "region": "俄国",
+        "continent": "欧洲"
+      },
+      {
         "title": "康熙帝南巡",
-        "description": "康熙帝第五次南巡，视察河工，考察民情，沿途召见江南士绅，加强了对江南地区的统治和文化笼络。",
+        "description": "公元1705年，清朝康熙帝南巡。",
         "latitude": 32.1,
         "longitude": 118.8,
         "category": "政治",
@@ -315,44 +261,8 @@
         "continent": "亚洲"
       },
       {
-        "title": "美国独立与建国",
-        "description": "北美十三州独立，美国建国并确立共和制度。",
-        "latitude": 38.9,
-        "longitude": -77.0,
-        "category": "政治",
-        "region": "美国",
-        "continent": "北美洲"
-      },
-      {
-        "title": "俄国向西扩张",
-        "description": "俄罗斯帝国在欧洲和亚洲扩张领土。",
-        "latitude": 55.8,
-        "longitude": 37.6,
-        "category": "政治",
-        "region": "俄罗斯",
-        "continent": "欧洲"
-      },
-      {
-        "title": "美洲种植园经济",
-        "description": "美洲殖民地甘蔗烟草棉花种植园经济繁荣。",
-        "latitude": 30.0,
-        "longitude": -85.0,
-        "category": "经济",
-        "region": "美洲",
-        "continent": "北美洲"
-      },
-      {
-        "title": "非洲王国贸易",
-        "description": "西非中非各王国与欧洲人的贸易。",
-        "latitude": 6.0,
-        "longitude": 2.0,
-        "category": "经济",
-        "region": "非洲",
-        "continent": "非洲"
-      },
-      {
         "title": "清朝修撰古今图书集成",
-        "description": "康熙下令编纂古今图书集成。",
+        "description": "公元1705年，清地区的文化艺术领域取得了重要成就，清朝修撰古今图书集成成为这一时期的文化代表。",
         "latitude": 39.9,
         "longitude": 116.4,
         "category": "文化",
@@ -361,7 +271,7 @@
       },
       {
         "title": "清朝查禁私钱",
-        "description": "康乾。",
+        "description": "公元1705年，清经济领域发生清朝查禁私钱，对当时的经济生活产生了直接影响。",
         "latitude": 39.9,
         "longitude": 116.4,
         "category": "经济",
@@ -369,22 +279,40 @@
         "continent": "亚洲"
       },
       {
-        "title": "维也纳宫廷繁荣",
-        "description": "约瑟夫一世。",
-        "latitude": 48.2,
-        "longitude": 16.4,
-        "category": "文化",
-        "region": "奥地利",
-        "continent": "欧洲"
+        "title": "美国独立与建国",
+        "description": "公元1705年，美国独立与建国，标志着新的政治实体在美国地区诞生。",
+        "latitude": 38.9,
+        "longitude": -77.0,
+        "category": "政治",
+        "region": "美国",
+        "continent": "北美洲"
+      },
+      {
+        "title": "美洲种植园经济",
+        "description": "公元1705年，美洲经济领域发生美洲种植园经济，对当时的经济生活产生了直接影响。",
+        "latitude": 30.0,
+        "longitude": -85.0,
+        "category": "经济",
+        "region": "美洲",
+        "continent": "北美洲"
       },
       {
         "title": "西班牙王位战在意大利",
-        "description": "意大利战役。",
+        "description": "公元1705年，在西班牙，西班牙王位战在意大利。",
         "latitude": 45.0,
         "longitude": 10.0,
         "category": "军事",
         "region": "西班牙",
         "continent": "欧洲"
+      },
+      {
+        "title": "非洲王国贸易",
+        "description": "公元1705年，非洲经济领域发生非洲王国贸易，对当时的经济生活产生了直接影响。",
+        "latitude": 6.0,
+        "longitude": 2.0,
+        "category": "经济",
+        "region": "非洲",
+        "continent": "非洲"
       }
     ]
   },
@@ -400,17 +328,8 @@
     ],
     "events": [
       {
-        "title": "本杰明·富兰克林出生",
-        "description": "美国开国元勋富兰克林出生。",
-        "latitude": 39.9,
-        "longitude": -75.2,
-        "category": "文化",
-        "region": "英属北美",
-        "continent": "北美洲"
-      },
-      {
         "title": "康熙帝平定西藏",
-        "description": "清定西藏。",
+        "description": "公元1706年，清朝康熙帝平定西藏。",
         "latitude": 30.0,
         "longitude": 90.0,
         "category": "军事",
@@ -419,7 +338,7 @@
       },
       {
         "title": "拉米伊战役",
-        "description": "马尔伯勒胜。",
+        "description": "公元1706年，英格兰爆发拉米伊战役，战事在英格兰地区全面展开。",
         "latitude": 50.6,
         "longitude": 5.5,
         "category": "军事",
@@ -427,8 +346,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "本杰明·富兰克林出生",
+        "description": "公元1706年，英属北美地区的文化艺术领域取得了重要成就，本杰明·富兰克林出生成为这一时期的文化代表。",
+        "latitude": 39.9,
+        "longitude": -75.2,
+        "category": "文化",
+        "region": "英属北美",
+        "continent": "北美洲"
+      },
+      {
         "title": "都灵战役",
-        "description": "欧根胜法。",
+        "description": "公元1706年，奥地利爆发都灵战役，战事在奥地利地区全面展开。",
         "latitude": 45.1,
         "longitude": 7.5,
         "category": "军事",
@@ -450,25 +378,25 @@
     "events": [
       {
         "title": "《1707年联合法案》",
-        "description": "英格兰和苏格兰议会分别通过《联合法案》，正式合并为大不列颠王国，统一议会，英国走向统一。",
+        "description": "公元1707年，在英国，《1707年联合法案》。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "政治",
-        "region": "大不列颠",
+        "region": "英国",
         "continent": "欧洲"
       },
       {
-        "title": "莫卧儿帝国分裂",
-        "description": "莫卧儿帝国皇帝奥朗则布去世，帝国随即陷入分裂和内战，马拉塔人、锡克教徒等势力崛起，帝国走向衰落。",
-        "latitude": 27.2,
-        "longitude": 78.0,
-        "category": "政治",
-        "region": "莫卧儿帝国",
-        "continent": "亚洲"
+        "title": "奥法停战",
+        "description": "公元1707年，奥地利开展奥法停战，体现了当时的国际关系格局。",
+        "latitude": 48.0,
+        "longitude": 7.0,
+        "category": "外交",
+        "region": "奥地利",
+        "continent": "欧洲"
       },
       {
         "title": "欧洲启蒙运动",
-        "description": "伏尔泰、卢梭、狄德罗等启蒙思想家批判旧制度。",
+        "description": "公元1707年，欧洲地区的文化艺术领域取得了重要成就，欧洲启蒙运动成为这一时期的文化代表。",
         "latitude": 48.9,
         "longitude": 2.3,
         "category": "文化",
@@ -476,17 +404,8 @@
         "continent": "欧洲"
       },
       {
-        "title": "英格兰苏格兰合并为大不列颠",
-        "description": "英格兰与苏格兰正式合并为大不列颠王国。",
-        "latitude": 51.5,
-        "longitude": -0.1,
-        "category": "政治",
-        "region": "英格兰",
-        "continent": "欧洲"
-      },
-      {
         "title": "联合法案英苏格兰合并",
-        "description": "大不列颠。",
+        "description": "公元1707年，在英格兰，联合法案英苏格兰合并。",
         "latitude": 55.9,
         "longitude": -3.2,
         "category": "政治",
@@ -494,13 +413,22 @@
         "continent": "欧洲"
       },
       {
-        "title": "奥法停战",
-        "description": "暂时休战。",
-        "latitude": 48.0,
-        "longitude": 7.0,
-        "category": "外交",
-        "region": "奥地利",
+        "title": "英格兰苏格兰合并为大不列颠",
+        "description": "公元1707年，在英格兰，英格兰苏格兰合并为大不列颠。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "莫卧儿帝国分裂",
+        "description": "公元1707年，在莫卧儿帝国，莫卧儿帝国分裂。",
+        "latitude": 27.2,
+        "longitude": 78.0,
+        "category": "政治",
+        "region": "莫卧儿帝国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -516,39 +444,39 @@
     ],
     "events": [
       {
-        "title": "法军占领撒丁岛",
-        "description": "西班牙王位继承战中法军占领撒丁。",
-        "latitude": 39.0,
-        "longitude": 9.0,
+        "title": "俄瑞战争在芬兰",
+        "description": "公元1708年，俄国爆发俄瑞战争在芬兰，战事在俄国地区全面展开。",
+        "latitude": 62.0,
+        "longitude": 26.0,
         "category": "军事",
-        "region": "法兰西",
+        "region": "俄国",
         "continent": "欧洲"
       },
       {
         "title": "俄罗斯瑞典战争",
-        "description": "彼得与查尔斯。",
+        "description": "公元1708年，俄国爆发俄罗斯瑞典战争，战事在俄国地区全面展开。",
         "latitude": 60.0,
         "longitude": 30.0,
         "category": "军事",
-        "region": "俄罗斯",
+        "region": "俄国",
         "continent": "欧洲"
       },
       {
-        "title": "俄瑞战争在芬兰",
-        "description": "俄军入芬兰。",
-        "latitude": 62.0,
-        "longitude": 26.0,
+        "title": "法军占领撒丁岛",
+        "description": "公元1708年，在法国，法军占领撒丁岛。",
+        "latitude": 39.0,
+        "longitude": 9.0,
         "category": "军事",
-        "region": "俄罗斯",
+        "region": "法国",
         "continent": "欧洲"
       },
       {
         "title": "法国在西班牙攻势",
-        "description": "法西联军。",
+        "description": "公元1708年，在法国，法国在西班牙攻势。",
         "latitude": 41.7,
         "longitude": -2.0,
         "category": "军事",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "欧洲"
       }
     ]
@@ -565,30 +493,39 @@
     ],
     "events": [
       {
-        "title": "波尔塔瓦战役",
-        "description": "彼得大帝率领俄军在乌克兰波尔塔瓦击败瑞典国王查理十二世的军队，瑞典从此失去北欧霸主地位，俄国崛起为欧洲强国。",
-        "latitude": 49.6,
-        "longitude": 34.5,
-        "category": "军事",
-        "region": "俄罗斯",
-        "continent": "欧洲"
-      },
-      {
-        "title": "瑞典查理十二世逃亡",
-        "description": "查理至土耳其。",
-        "latitude": 41.0,
-        "longitude": 29.0,
-        "category": "政治",
-        "region": "瑞典",
-        "continent": "欧洲"
-      },
-      {
         "title": "丹麦反瑞典",
-        "description": "丹麦参战。",
+        "description": "公元1709年，在丹麦，丹麦反瑞典。",
         "latitude": 56.0,
         "longitude": 10.0,
         "category": "军事",
         "region": "丹麦",
+        "continent": "欧洲"
+      },
+      {
+        "title": "彼得大帝波尔塔瓦大捷",
+        "description": "公元1709年，在俄国，彼得大帝波尔塔瓦大捷。",
+        "latitude": 49.59,
+        "longitude": 34.55,
+        "category": "军事",
+        "region": "俄国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "波尔塔瓦战役",
+        "description": "公元1709年，俄国爆发波尔塔瓦战役，战事在俄国地区全面展开。",
+        "latitude": 49.6,
+        "longitude": 34.5,
+        "category": "军事",
+        "region": "俄国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "瑞典查理十二世逃亡",
+        "description": "公元1709年，在瑞典，瑞典查理十二世逃亡。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "瑞典",
         "continent": "欧洲"
       }
     ]
@@ -606,7 +543,7 @@
     "events": [
       {
         "title": "《皇舆全览图》完成",
-        "description": "康熙帝主持测绘的《皇舆全览图》完成，这是中国第一幅采用经纬度测绘的全国地图，由传教士白晋等人参与绘制。",
+        "description": "公元1710年，清的科技发展取得重要进展，《皇舆全览图》完成推动了相关领域的技术进步。",
         "latitude": 39.9,
         "longitude": 116.4,
         "category": "科技",
@@ -615,7 +552,7 @@
       },
       {
         "title": "康熙帝组织绘制皇舆全览图",
-        "description": "康熙命传教士测绘全国地图。",
+        "description": "公元1710年，清的科技发展取得重要进展，康熙帝组织绘制皇舆全览图推动了相关领域的技术进步。",
         "latitude": 39.9,
         "longitude": 116.4,
         "category": "科技",
@@ -623,8 +560,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "康熙推行赋税改革",
+        "description": "公元1710年，清推行康熙推行赋税改革，对当地政治经济制度产生了深远影响。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "经济",
+        "region": "清",
+        "continent": "亚洲"
+      },
+      {
         "title": "英国托利党主政",
-        "description": "反战派。",
+        "description": "公元1710年，在英格兰，英国托利党主政。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "政治",
@@ -632,13 +578,13 @@
         "continent": "欧洲"
       },
       {
-        "title": "康熙推行赋税改革",
-        "description": "滋生人丁永不加赋。",
-        "latitude": 39.9,
-        "longitude": 116.4,
-        "category": "经济",
-        "region": "清",
-        "continent": "亚洲"
+        "title": "莱布尼茨《单子论》",
+        "description": "公元1710年，德国文化领域的重要事件——莱布尼茨《单子论》，成为这一时期的文化标志。",
+        "latitude": 52.52,
+        "longitude": 13.4,
+        "category": "文化",
+        "region": "德国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -654,31 +600,31 @@
     ],
     "events": [
       {
+        "title": "俄国打通波罗的海",
+        "description": "公元1711年，在俄国，俄国打通波罗的海。",
+        "latitude": 56.9,
+        "longitude": 24.1,
+        "category": "军事",
+        "region": "俄国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "俄土战争",
+        "description": "公元1711年，俄国爆发俄土战争，战事在俄国地区全面展开。",
+        "latitude": 47.0,
+        "longitude": 28.0,
+        "category": "军事",
+        "region": "俄国",
+        "continent": "欧洲"
+      },
+      {
         "title": "英国南海公司成立",
-        "description": "英国南海公司在南美贸易。",
+        "description": "公元1711年，英国南海公司成立，标志着新的政治实体在英格兰地区诞生。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "经济",
         "region": "英格兰",
         "continent": "南美洲"
-      },
-      {
-        "title": "西班牙王位战终结",
-        "description": "和平谈判。",
-        "latitude": 52.1,
-        "longitude": 5.1,
-        "category": "外交",
-        "region": "欧洲",
-        "continent": "欧洲"
-      },
-      {
-        "title": "俄国打通波罗的海",
-        "description": "俄占里加。",
-        "latitude": 56.9,
-        "longitude": 24.1,
-        "category": "军事",
-        "region": "俄罗斯",
-        "continent": "欧洲"
       }
     ]
   },
@@ -694,17 +640,8 @@
     ],
     "events": [
       {
-        "title": "纽科门蒸汽机发明",
-        "description": "英国工程师托马斯·纽科门发明了大气式蒸汽机，用于煤矿排水，这是世界上第一台实用的蒸汽机，拉开了工业革命的序幕。",
-        "latitude": 52.5,
-        "longitude": -2.0,
-        "category": "科技",
-        "region": "大不列颠",
-        "continent": "欧洲"
-      },
-      {
         "title": "康熙帝废除圈地",
-        "description": "停止圈地。",
+        "description": "公元1712年，清社会领域出现康熙帝废除圈地，反映了社会的发展变化。",
         "latitude": 39.9,
         "longitude": 116.4,
         "category": "社会",
@@ -712,8 +649,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "纽科门蒸汽机发明",
+        "description": "公元1712年，英国的科技发展取得重要进展，纽科门蒸汽机发明推动了相关领域的技术进步。",
+        "latitude": 52.5,
+        "longitude": -2.0,
+        "category": "科技",
+        "region": "英国",
+        "continent": "欧洲"
+      },
+      {
         "title": "英国南海公司丑闻",
-        "description": "南海泡沫。",
+        "description": "公元1712年，英格兰经济领域发生英国南海公司丑闻，对当时的经济生活产生了直接影响。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "经济",
@@ -735,7 +681,7 @@
     "events": [
       {
         "title": "《乌得勒支和约》签订",
-        "description": "西班牙王位继承战争结束，签订《乌得勒支和约》，西班牙将直布罗陀等地割让给英国，英国获得海上贸易优势。",
+        "description": "公元1713年，《乌得勒支和约》签订，该协议的签署影响了相关国家的关系格局。",
         "latitude": 52.1,
         "longitude": 5.1,
         "category": "外交",
@@ -743,21 +689,21 @@
         "continent": "欧洲"
       },
       {
-        "title": "西班牙王位战和约",
-        "description": "乌得勒支。",
-        "latitude": 52.1,
-        "longitude": 5.1,
-        "category": "外交",
-        "region": "欧洲",
-        "continent": "欧洲"
-      },
-      {
         "title": "普鲁士王国",
-        "description": "腓特烈一世。",
+        "description": "公元1713年，在普鲁士，普鲁士王国。",
         "latitude": 52.5,
         "longitude": 13.5,
         "category": "政治",
         "region": "普鲁士",
+        "continent": "欧洲"
+      },
+      {
+        "title": "西班牙王位战和约",
+        "description": "公元1713年，西班牙王位战和约，该协议的签署影响了相关国家的关系格局。",
+        "latitude": 52.1,
+        "longitude": 5.1,
+        "category": "外交",
+        "region": "欧洲",
         "continent": "欧洲"
       }
     ]
@@ -775,7 +721,7 @@
     "events": [
       {
         "title": "乔治一世即英王位",
-        "description": "汉诺威王朝开始。",
+        "description": "公元1714年，在英格兰，乔治一世即英王位。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "政治",
@@ -784,7 +730,7 @@
       },
       {
         "title": "巴伐利亚选帝侯",
-        "description": "巴伐利亚。",
+        "description": "公元1714年，在神圣罗马帝国，巴伐利亚选帝侯。",
         "latitude": 48.1,
         "longitude": 11.6,
         "category": "政治",
@@ -793,7 +739,7 @@
       },
       {
         "title": "英国辉格党执政",
-        "description": "辉格党。",
+        "description": "公元1714年，在英格兰，英国辉格党执政。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "政治",
@@ -814,31 +760,31 @@
     ],
     "events": [
       {
-        "title": "法国路易十四去世",
-        "description": "法国波旁王朝国王路易十四在凡尔赛宫去世，在位72年之久。其统治时期法国成为欧洲第一强国，专制王权达到顶峰。",
-        "latitude": 48.8,
-        "longitude": 2.1,
-        "category": "政治",
-        "region": "法兰西",
-        "continent": "欧洲"
-      },
-      {
-        "title": "法国摄政时代",
-        "description": "奥尔良公爵。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "政治",
-        "region": "法兰西",
-        "continent": "欧洲"
-      },
-      {
         "title": "康熙平西藏",
-        "description": "清军入藏。",
+        "description": "公元1715年，清朝康熙平西藏。",
         "latitude": 30.0,
         "longitude": 90.0,
         "category": "军事",
         "region": "清",
         "continent": "亚洲"
+      },
+      {
+        "title": "法国摄政时代",
+        "description": "公元1715年，在法国，法国摄政时代。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法国路易十四去世",
+        "description": "公元1715年，法国路易十四去世，一个重要的历史人物离开了历史舞台。",
+        "latitude": 48.8,
+        "longitude": 2.1,
+        "category": "政治",
+        "region": "法国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -854,26 +800,26 @@
     ],
     "events": [
       {
-        "title": "法国摄政奥尔良公爵掌权",
-        "description": "路易十五幼年由奥尔良公爵摄政。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "政治",
-        "region": "法兰西",
+        "title": "奥斯曼攻希腊",
+        "description": "公元1716年，在奥斯曼帝国，奥斯曼攻希腊。",
+        "latitude": 38.0,
+        "longitude": 22.0,
+        "category": "军事",
+        "region": "奥斯曼帝国",
         "continent": "欧洲"
       },
       {
-        "title": "詹姆斯党起义",
-        "description": "苏格兰反叛。",
-        "latitude": 57.0,
-        "longitude": -5.0,
-        "category": "军事",
-        "region": "苏格兰",
+        "title": "法国摄政奥尔良公爵掌权",
+        "description": "公元1716年，在法国，法国摄政奥尔良公爵掌权。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法国",
         "continent": "欧洲"
       },
       {
         "title": "英国反叛乱法案",
-        "description": "七年期限。",
+        "description": "公元1716年，在英格兰，英国反叛乱法案。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "法律",
@@ -881,12 +827,12 @@
         "continent": "欧洲"
       },
       {
-        "title": "奥斯曼攻希腊",
-        "description": "土军攻。",
-        "latitude": 38.0,
-        "longitude": 22.0,
+        "title": "詹姆斯党起义",
+        "description": "公元1716年，苏格兰爆发詹姆斯党起义，对当局造成了巨大冲击。",
+        "latitude": 57.0,
+        "longitude": -5.0,
         "category": "军事",
-        "region": "奥斯曼帝国",
+        "region": "苏格兰",
         "continent": "欧洲"
       }
     ]
@@ -903,17 +849,17 @@
     ],
     "events": [
       {
-        "title": "西班牙夺回撒丁岛",
-        "description": "西班牙重新占领撒丁岛。",
-        "latitude": 39.0,
-        "longitude": 9.0,
-        "category": "军事",
-        "region": "西班牙",
+        "title": "南海公司骗局",
+        "description": "公元1717年，英格兰经济领域发生南海公司骗局，对当时的经济生活产生了直接影响。",
+        "latitude": 51.51,
+        "longitude": -0.13,
+        "category": "经济",
+        "region": "英格兰",
         "continent": "欧洲"
       },
       {
         "title": "反天主教法案",
-        "description": "英国限制。",
+        "description": "公元1717年，反天主教法案，英格兰的宗教发展进入新阶段。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "政治",
@@ -922,11 +868,20 @@
       },
       {
         "title": "法国摄政外交",
-        "description": "奥尔良。",
+        "description": "公元1717年，法国开展法国摄政外交，体现了当时的国际关系格局。",
         "latitude": 48.9,
         "longitude": 2.3,
         "category": "外交",
-        "region": "法兰西",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "西班牙夺回撒丁岛",
+        "description": "公元1717年，在西班牙，西班牙夺回撒丁岛。",
+        "latitude": 39.0,
+        "longitude": 9.0,
+        "category": "军事",
+        "region": "西班牙",
         "continent": "欧洲"
       }
     ]
@@ -943,8 +898,17 @@
     ],
     "events": [
       {
+        "title": "奥地利攻土耳其",
+        "description": "公元1718年，在奥地利，奥地利攻土耳其。",
+        "latitude": 45.0,
+        "longitude": 19.0,
+        "category": "军事",
+        "region": "奥地利",
+        "continent": "欧洲"
+      },
+      {
         "title": "新奥尔良建城",
-        "description": "法国殖民者在密西西比河口建立新奥尔良城，成为法国在北美路易斯安那殖民地的首府和重要贸易港口。",
+        "description": "公元1718年，在法属路易斯安那，新奥尔良建城。",
         "latitude": 30.0,
         "longitude": -90.1,
         "category": "政治",
@@ -952,17 +916,8 @@
         "continent": "北美洲"
       },
       {
-        "title": "西班牙王位战终结",
-        "description": "四国同盟。",
-        "latitude": 40.4,
-        "longitude": -3.7,
-        "category": "外交",
-        "region": "西班牙",
-        "continent": "欧洲"
-      },
-      {
         "title": "英西海战",
-        "description": "拜恩海战。",
+        "description": "公元1718年，在英格兰，英西海战。",
         "latitude": 38.0,
         "longitude": -2.0,
         "category": "军事",
@@ -970,12 +925,12 @@
         "continent": "欧洲"
       },
       {
-        "title": "奥地利攻土耳其",
-        "description": "奥土战争。",
-        "latitude": 45.0,
-        "longitude": 19.0,
-        "category": "军事",
-        "region": "奥地利",
+        "title": "西班牙王位战终结",
+        "description": "公元1718年，西班牙地区的西班牙王位战终结，一个时代由此终结。",
+        "latitude": 40.4,
+        "longitude": -3.7,
+        "category": "外交",
+        "region": "西班牙",
         "continent": "欧洲"
       }
     ]
@@ -992,8 +947,26 @@
     ],
     "events": [
       {
+        "title": "瑞典女王乌尔丽卡",
+        "description": "公元1719年，在瑞典，瑞典女王乌尔丽卡。",
+        "latitude": 59.3,
+        "longitude": 18.1,
+        "category": "政治",
+        "region": "瑞典",
+        "continent": "欧洲"
+      },
+      {
+        "title": "笛福《鲁滨逊漂流记》",
+        "description": "公元1719年，英格兰文化领域的重要事件——笛福《鲁滨逊漂流记》，成为这一时期的文化标志。",
+        "latitude": 51.51,
+        "longitude": -0.13,
+        "category": "文学",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
         "title": "笛福著《鲁滨逊漂流记》",
-        "description": "丹尼尔·笛福出版《鲁滨逊漂流记》。",
+        "description": "公元1719年，英格兰地区的文化艺术领域取得了重要成就，笛福著《鲁滨逊漂流记》成为这一时期的文化代表。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "文化",
@@ -1002,21 +975,12 @@
       },
       {
         "title": "西班牙佛洛里达",
-        "description": "西占。",
+        "description": "公元1719年，在西班牙，西班牙佛洛里达。",
         "latitude": 30.0,
         "longitude": -84.0,
         "category": "军事",
         "region": "西班牙",
         "continent": "北美洲"
-      },
-      {
-        "title": "瑞典女王乌尔丽卡",
-        "description": "乌尔丽卡。",
-        "latitude": 59.3,
-        "longitude": 18.1,
-        "category": "政治",
-        "region": "瑞典",
-        "continent": "欧洲"
       }
     ]
   },
@@ -1032,8 +996,8 @@
     ],
     "events": [
       {
-        "title": "南海泡沫破灭",
-        "description": "英国南海公司股价崩溃引发金融危机。",
+        "title": "南海泡沫崩盘",
+        "description": "公元1720年，英格兰经济领域发生南海泡沫崩盘，对当时的经济生活产生了直接影响。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "经济",
@@ -1041,8 +1005,26 @@
         "continent": "欧洲"
       },
       {
+        "title": "南海泡沫破灭",
+        "description": "公元1720年，英格兰经济领域发生南海泡沫破灭，对当时的经济生活产生了直接影响。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "经济",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法国密西西比泡沫",
+        "description": "公元1720年，法国经济领域发生法国密西西比泡沫，对当时的经济生活产生了直接影响。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "经济",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
         "title": "清朝多败准噶尔",
-        "description": "清平西北。",
+        "description": "公元1720年，清朝清朝多败准噶尔。",
         "latitude": 45.0,
         "longitude": 90.0,
         "category": "军事",
@@ -1050,21 +1032,12 @@
         "continent": "亚洲"
       },
       {
-        "title": "南海泡沫崩盘",
-        "description": "英国股灾。",
-        "latitude": 51.5,
-        "longitude": -0.1,
-        "category": "金融",
-        "region": "英格兰",
-        "continent": "欧洲"
-      },
-      {
-        "title": "法国密西西比泡沫",
-        "description": "约翰劳。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "金融",
-        "region": "法兰西",
+        "title": "维瓦尔第《四季》",
+        "description": "公元1720年，意大利文化领域的重要事件——维瓦尔第《四季》，成为这一时期的文化标志。",
+        "latitude": 45.44,
+        "longitude": 12.32,
+        "category": "音乐",
+        "region": "意大利",
         "continent": "欧洲"
       }
     ]
@@ -1081,8 +1054,17 @@
     ],
     "events": [
       {
+        "title": "俄罗斯对外扩张",
+        "description": "公元1721年，俄国开展俄罗斯对外扩张，体现了当时的国际关系格局。",
+        "latitude": 60.0,
+        "longitude": 30.0,
+        "category": "外交",
+        "region": "俄国",
+        "continent": "欧洲"
+      },
+      {
         "title": "沃波尔首任英首相",
-        "description": "罗伯特·沃波尔任英国首任首相。",
+        "description": "公元1721年，在英格兰，沃波尔首任英首相。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "政治",
@@ -1090,20 +1072,20 @@
         "continent": "欧洲"
       },
       {
-        "title": "俄罗斯对外扩张",
-        "description": "尼什塔特和约。",
-        "latitude": 60.0,
-        "longitude": 30.0,
-        "category": "外交",
-        "region": "俄罗斯",
-        "continent": "欧洲"
-      },
-      {
         "title": "瑞典失去波罗的海霸权",
-        "description": "瑞典衰落。",
+        "description": "公元1721年，在瑞典，瑞典失去波罗的海霸权。",
         "latitude": 59.3,
         "longitude": 18.1,
         "category": "政治",
+        "region": "瑞典",
+        "continent": "欧洲"
+      },
+      {
+        "title": "瑞典帝国衰落",
+        "description": "公元1721年，在瑞典，瑞典帝国衰落。",
+        "latitude": 59.33,
+        "longitude": 18.07,
+        "category": "军事",
         "region": "瑞典",
         "continent": "欧洲"
       }
@@ -1122,20 +1104,20 @@
     "events": [
       {
         "title": "俄皇彼得大帝晚年",
-        "description": "彼得临终。",
+        "description": "公元1722年，在俄国，俄皇彼得大帝晚年。",
         "latitude": 55.8,
         "longitude": 37.6,
         "category": "政治",
-        "region": "俄罗斯",
+        "region": "俄国",
         "continent": "欧洲"
       },
       {
         "title": "荷兰衰落",
-        "description": "海上马车夫。",
+        "description": "公元1722年，荷兰经济领域发生荷兰衰落，对当时的经济生活产生了直接影响。",
         "latitude": 52.4,
         "longitude": 4.9,
         "category": "经济",
-        "region": "尼德兰",
+        "region": "荷兰",
         "continent": "欧洲"
       }
     ]
@@ -1153,16 +1135,16 @@
     "events": [
       {
         "title": "法国发展重商主义",
-        "description": "法国路易十五推行重商主义经济。",
+        "description": "公元1723年，法国经济领域发生法国发展重商主义，对当时的经济生活产生了直接影响。",
         "latitude": 48.9,
         "longitude": 2.3,
         "category": "经济",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "欧洲"
       },
       {
         "title": "波兰王位继承",
-        "description": "奥古斯特。",
+        "description": "公元1723年，在波兰，波兰王位继承。",
         "latitude": 52.2,
         "longitude": 21.0,
         "category": "政治",
@@ -1171,7 +1153,7 @@
       },
       {
         "title": "清朝年羹尧平青海",
-        "description": "雍正年。",
+        "description": "公元1723年，清朝清朝年羹尧平青海。",
         "latitude": 36.6,
         "longitude": 101.8,
         "category": "军事",
@@ -1193,7 +1175,7 @@
     "events": [
       {
         "title": "康德出生",
-        "description": "德国哲学家伊曼努尔·康德出生。",
+        "description": "公元1724年，普鲁士地区的文化艺术领域取得了重要成就，康德出生成为这一时期的文化代表。",
         "latitude": 54.7,
         "longitude": 20.5,
         "category": "文化",
@@ -1201,8 +1183,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "法国耶稣会巴黎",
+        "description": "公元1724年，法国地区的宗教领域发生重要事件——法国耶稣会巴黎，对信众的精神生活产生了深刻影响。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "宗教",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
         "title": "清朝出兵准噶尔",
-        "description": "雍正西征。",
+        "description": "公元1724年，清朝清朝出兵准噶尔。",
         "latitude": 43.0,
         "longitude": 87.0,
         "category": "军事",
@@ -1210,17 +1201,8 @@
         "continent": "亚洲"
       },
       {
-        "title": "法国耶稣会巴黎",
-        "description": "耶稣会。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "宗教",
-        "region": "法兰西",
-        "continent": "欧洲"
-      },
-      {
         "title": "雍正推行耗羡归公",
-        "description": "财政改革。",
+        "description": "公元1724年，清经济领域发生雍正推行耗羡归公，对当时的经济生活产生了直接影响。",
         "latitude": 39.9,
         "longitude": 116.4,
         "category": "经济",
@@ -1242,16 +1224,16 @@
     "events": [
       {
         "title": "叶卡捷琳娜一世即俄皇位",
-        "description": "彼得大帝之妻继承皇位。",
+        "description": "公元1725年，在俄国，叶卡捷琳娜一世即俄皇位。",
         "latitude": 55.8,
         "longitude": 37.6,
         "category": "政治",
-        "region": "俄罗斯",
+        "region": "俄国",
         "continent": "欧洲"
       },
       {
         "title": "西班牙奥地利条约",
-        "description": "维也纳条约。",
+        "description": "公元1725年，西班牙奥地利条约，该协议的签署影响了相关国家的关系格局。",
         "latitude": 48.2,
         "longitude": 16.4,
         "category": "外交",
@@ -1272,35 +1254,35 @@
     ],
     "events": [
       {
-        "title": "清朝出兵准噶尔",
-        "description": "雍正帝派兵征讨准噶尔部。",
-        "latitude": 45.0,
-        "longitude": 90.0,
-        "category": "军事",
-        "region": "清",
-        "continent": "亚洲"
-      },
-      {
         "title": "伏尔泰在英",
-        "description": "伏尔泰流亡。",
+        "description": "公元1726年，法国地区的文化艺术领域取得了重要成就，伏尔泰在英成为这一时期的文化代表。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "文化",
-        "region": "法兰西",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "斯威夫特《格列佛游记》",
+        "description": "公元1726年，英格兰文化领域的重要事件——斯威夫特《格列佛游记》，成为这一时期的文化标志。",
+        "latitude": 51.51,
+        "longitude": -0.13,
+        "category": "文学",
+        "region": "英格兰",
         "continent": "欧洲"
       },
       {
         "title": "法国红衣主教弗勒里",
-        "description": "弗勒里。",
+        "description": "公元1726年，法国红衣主教弗勒里，法国的宗教发展进入新阶段。",
         "latitude": 48.9,
         "longitude": 2.3,
         "category": "政治",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "欧洲"
       },
       {
         "title": "清朝军机处设立",
-        "description": "雍正军机。",
+        "description": "公元1726年，清朝清朝军机处设立。",
         "latitude": 39.9,
         "longitude": 116.4,
         "category": "政治",
@@ -1321,8 +1303,17 @@
     ],
     "events": [
       {
+        "title": "俄奥同盟",
+        "description": "公元1727年，俄国开展俄奥同盟，体现了当时的国际关系格局。",
+        "latitude": 55.8,
+        "longitude": 37.6,
+        "category": "外交",
+        "region": "俄国",
+        "continent": "欧洲"
+      },
+      {
         "title": "牛顿去世",
-        "description": "艾萨克·牛顿在伦敦去世。",
+        "description": "公元1727年，牛顿去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "科技",
@@ -1331,20 +1322,11 @@
       },
       {
         "title": "英王乔治二世即位",
-        "description": "乔治二世。",
+        "description": "公元1727年，英王乔治二世即位，开启了新的统治时期。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "政治",
         "region": "英格兰",
-        "continent": "欧洲"
-      },
-      {
-        "title": "俄奥同盟",
-        "description": "维也纳同盟。",
-        "latitude": 55.8,
-        "longitude": 37.6,
-        "category": "外交",
-        "region": "俄罗斯",
         "continent": "欧洲"
       }
     ]
@@ -1361,8 +1343,17 @@
     ],
     "events": [
       {
+        "title": "《乞丐歌剧》首演",
+        "description": "公元1728年，英格兰地区的文化艺术领域取得了重要成就，《乞丐歌剧》首演成为这一时期的文化代表。",
+        "latitude": 51.51,
+        "longitude": -0.13,
+        "category": "艺术",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
         "title": "北京建设圆明园",
-        "description": "清雍正扩建圆明园。",
+        "description": "公元1728年，清地区的文化艺术领域取得了重要成就，北京建设圆明园成为这一时期的文化代表。",
         "latitude": 39.9,
         "longitude": 116.4,
         "category": "文化",
@@ -1370,22 +1361,22 @@
         "continent": "亚洲"
       },
       {
-        "title": "西班牙围直布罗陀",
-        "description": "西围。",
-        "latitude": 36.1,
-        "longitude": -5.4,
-        "category": "军事",
-        "region": "西班牙",
-        "continent": "欧洲"
-      },
-      {
         "title": "清朝与准噶尔和谈",
-        "description": "雍正和。",
+        "description": "公元1728年，清开展清朝与准噶尔和谈，体现了当时的国际关系格局。",
         "latitude": 43.0,
         "longitude": 87.0,
         "category": "外交",
         "region": "清",
         "continent": "亚洲"
+      },
+      {
+        "title": "西班牙围直布罗陀",
+        "description": "公元1728年，在西班牙，西班牙围直布罗陀。",
+        "latitude": 36.1,
+        "longitude": -5.4,
+        "category": "军事",
+        "region": "西班牙",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1402,7 +1393,7 @@
     "events": [
       {
         "title": "南美新格拉纳达副王区设立",
-        "description": "西班牙在南美设新格拉纳达副王区。",
+        "description": "公元1729年，在西班牙，南美新格拉纳达副王区设立。",
         "latitude": 4.6,
         "longitude": -74.1,
         "category": "政治",
@@ -1411,7 +1402,7 @@
       },
       {
         "title": "清朝改土归流",
-        "description": "云贵改土。",
+        "description": "公元1729年，清朝清朝改土归流。",
         "latitude": 26.0,
         "longitude": 105.0,
         "category": "政治",
@@ -1420,10 +1411,10 @@
       },
       {
         "title": "琼斯医生种痘",
-        "description": "天花预防。",
+        "description": "公元1729年，英格兰文化领域的重要事件——琼斯医生种痘，成为这一时期的文化标志。",
         "latitude": 51.5,
         "longitude": -0.1,
-        "category": "医学",
+        "category": "文化",
         "region": "英格兰",
         "continent": "欧洲"
       }
@@ -1442,7 +1433,7 @@
     "events": [
       {
         "title": "普鲁士王国军事改革",
-        "description": "腓特烈·威廉一世强化普鲁士军力。",
+        "description": "公元1730年，普鲁士推行普鲁士王国军事改革，对当地政治经济制度产生了深远影响。",
         "latitude": 52.5,
         "longitude": 13.0,
         "category": "军事",
@@ -1451,7 +1442,7 @@
       },
       {
         "title": "普鲁士王腓特烈威廉",
-        "description": "士兵王。",
+        "description": "公元1730年，在普鲁士，普鲁士王腓特烈威廉。",
         "latitude": 52.5,
         "longitude": 13.0,
         "category": "政治",
@@ -1460,7 +1451,7 @@
       },
       {
         "title": "维也纳条约确认",
-        "description": "奥西。",
+        "description": "公元1730年，维也纳条约确认，该协议的签署影响了相关国家的关系格局。",
         "latitude": 48.2,
         "longitude": 16.4,
         "category": "外交",
@@ -1482,7 +1473,7 @@
     "events": [
       {
         "title": "欧洲各国重商主义",
-        "description": "欧洲列强普遍推行重商主义。",
+        "description": "公元1731年，欧洲经济领域发生欧洲各国重商主义，对当时的经济生活产生了直接影响。",
         "latitude": 50.0,
         "longitude": 8.0,
         "category": "经济",
@@ -1490,8 +1481,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "欧洲商业公司法",
+        "description": "公元1731年，英格兰经济领域发生欧洲商业公司法，对当时的经济生活产生了直接影响。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "经济",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
         "title": "欧洲音乐巴洛克",
-        "description": "巴赫。",
+        "description": "公元1731年，神圣罗马帝国文化领域的重要事件——欧洲音乐巴洛克，成为这一时期的文化标志。",
         "latitude": 51.5,
         "longitude": 10.0,
         "category": "音乐",
@@ -1499,17 +1499,8 @@
         "continent": "欧洲"
       },
       {
-        "title": "欧洲商业公司法",
-        "description": "股份公司。",
-        "latitude": 51.5,
-        "longitude": -0.1,
-        "category": "商业",
-        "region": "英格兰",
-        "continent": "欧洲"
-      },
-      {
         "title": "清廷禁天主教",
-        "description": "雍正禁教。",
+        "description": "公元1731年，清地区的宗教领域发生重要事件——清廷禁天主教，对信众的精神生活产生了深刻影响。",
         "latitude": 39.9,
         "longitude": 116.4,
         "category": "宗教",
@@ -1530,17 +1521,17 @@
     ],
     "events": [
       {
-        "title": "华盛顿出生",
-        "description": "美国国父乔治·华盛顿出生。",
-        "latitude": 38.1,
-        "longitude": -77.0,
-        "category": "政治",
-        "region": "英属北美",
-        "continent": "北美洲"
+        "title": "伏尔泰著哲学通信",
+        "description": "公元1732年，法国文化领域的重要事件——伏尔泰著哲学通信，成为这一时期的文化标志。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "文化",
+        "region": "法国",
+        "continent": "欧洲"
       },
       {
         "title": "北美殖民地富兰克林",
-        "description": "费城。",
+        "description": "公元1732年，英属北美地区的文化艺术领域取得了重要成就，北美殖民地富兰克林成为这一时期的文化代表。",
         "latitude": 39.9,
         "longitude": -75.2,
         "category": "文化",
@@ -1548,13 +1539,13 @@
         "continent": "北美洲"
       },
       {
-        "title": "伏尔泰著哲学通信",
-        "description": "英伦通信。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "哲学",
-        "region": "法兰西",
-        "continent": "欧洲"
+        "title": "华盛顿出生",
+        "description": "公元1732年，在英属北美，华盛顿出生。",
+        "latitude": 38.1,
+        "longitude": -77.0,
+        "category": "政治",
+        "region": "英属北美",
+        "continent": "北美洲"
       }
     ]
   },
@@ -1571,7 +1562,7 @@
     "events": [
       {
         "title": "波兰王位继承战争",
-        "description": "欧洲列强围绕波兰王位战争。",
+        "description": "公元1733年，欧洲爆发波兰王位继承战争，战事在欧洲地区全面展开。",
         "latitude": 52.0,
         "longitude": 20.0,
         "category": "军事",
@@ -1580,7 +1571,7 @@
       },
       {
         "title": "英国殖民地制糖",
-        "description": "西印度。",
+        "description": "公元1733年，英格兰经济领域发生英国殖民地制糖，对当时的经济生活产生了直接影响。",
         "latitude": 20.0,
         "longitude": -75.0,
         "category": "经济",
@@ -1601,21 +1592,21 @@
     ],
     "events": [
       {
-        "title": "法国洛林地区归属",
-        "description": "法国逐步控制洛林地区。",
-        "latitude": 48.5,
-        "longitude": 6.0,
-        "category": "政治",
-        "region": "法兰西",
-        "continent": "欧洲"
-      },
-      {
         "title": "俄国波兰王位",
-        "description": "俄佐奥古斯特。",
+        "description": "公元1734年，俄国开展俄国波兰王位，体现了当时的国际关系格局。",
         "latitude": 55.8,
         "longitude": 37.6,
         "category": "外交",
-        "region": "俄罗斯",
+        "region": "俄国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法国洛林地区归属",
+        "description": "公元1734年，在法国，法国洛林地区归属。",
+        "latitude": 48.5,
+        "longitude": 6.0,
+        "category": "政治",
+        "region": "法国",
         "continent": "欧洲"
       }
     ]
@@ -1632,40 +1623,40 @@
     ],
     "events": [
       {
-        "title": "约翰·亚当斯出生",
-        "description": "美国第二任总统亚当斯出生。",
-        "latitude": 42.4,
-        "longitude": -71.0,
-        "category": "政治",
-        "region": "英属北美",
-        "continent": "北美洲"
-      },
-      {
-        "title": "瑞典自然分类学",
-        "description": "林奈。",
-        "latitude": 59.8,
-        "longitude": 17.6,
-        "category": "科学",
-        "region": "瑞典",
-        "continent": "欧洲"
-      },
-      {
         "title": "欧洲自然哲学",
-        "description": "霍尔巴赫。",
+        "description": "公元1735年，法国文化领域的重要事件——欧洲自然哲学，成为这一时期的文化标志。",
         "latitude": 48.9,
         "longitude": 2.3,
-        "category": "哲学",
-        "region": "法兰西",
+        "category": "文化",
+        "region": "法国",
         "continent": "欧洲"
       },
       {
         "title": "清朝驱逐耶稣会士",
-        "description": "雍禁。",
+        "description": "公元1735年，清地区的宗教领域发生重要事件——清朝驱逐耶稣会士，对信众的精神生活产生了深刻影响。",
         "latitude": 39.9,
         "longitude": 116.4,
         "category": "宗教",
         "region": "清",
         "continent": "亚洲"
+      },
+      {
+        "title": "瑞典自然分类学",
+        "description": "公元1735年，瑞典文化领域的重要事件——瑞典自然分类学，成为这一时期的文化标志。",
+        "latitude": 59.8,
+        "longitude": 17.6,
+        "category": "文化",
+        "region": "瑞典",
+        "continent": "欧洲"
+      },
+      {
+        "title": "约翰·亚当斯出生",
+        "description": "公元1735年，在英属北美，约翰·亚当斯出生。",
+        "latitude": 42.4,
+        "longitude": -71.0,
+        "category": "政治",
+        "region": "英属北美",
+        "continent": "北美洲"
       }
     ]
   },
@@ -1682,25 +1673,16 @@
     "events": [
       {
         "title": "俄国与奥斯曼战争",
-        "description": "俄国与奥斯曼争夺黑海出海口。",
+        "description": "公元1736年，俄国爆发俄国与奥斯曼战争，战事在俄国地区全面展开。",
         "latitude": 47.0,
         "longitude": 35.0,
         "category": "军事",
-        "region": "俄罗斯",
-        "continent": "欧洲"
-      },
-      {
-        "title": "俄土战争",
-        "description": "俄攻克里米亚。",
-        "latitude": 46.0,
-        "longitude": 34.0,
-        "category": "军事",
-        "region": "俄罗斯",
+        "region": "俄国",
         "continent": "欧洲"
       },
       {
         "title": "波斯纳迪尔沙",
-        "description": "纳迪尔。",
+        "description": "公元1736年，在波斯，波斯纳迪尔沙。",
         "latitude": 35.0,
         "longitude": 55.0,
         "category": "政治",
@@ -1722,16 +1704,16 @@
     "events": [
       {
         "title": "伏尔泰著《牛顿哲学原理》",
-        "description": "伏尔泰向法国介绍牛顿科学。",
+        "description": "公元1737年，法国地区的文化艺术领域取得了重要成就，伏尔泰著《牛顿哲学原理》成为这一时期的文化代表。",
         "latitude": 48.9,
         "longitude": 2.3,
         "category": "文化",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "欧洲"
       },
       {
         "title": "奥地利与土耳其战",
-        "description": "奥土。",
+        "description": "公元1737年，在奥地利，奥地利与土耳其战。",
         "latitude": 45.0,
         "longitude": 19.0,
         "category": "军事",
@@ -1740,7 +1722,7 @@
       },
       {
         "title": "西班牙那不勒斯",
-        "description": "波旁。",
+        "description": "公元1737年，在西班牙，西班牙那不勒斯。",
         "latitude": 40.9,
         "longitude": 14.3,
         "category": "政治",
@@ -1762,29 +1744,29 @@
     "events": [
       {
         "title": "海上马车夫荷兰衰落",
-        "description": "荷兰在西欧列强中相对衰落。",
+        "description": "公元1738年，荷兰经济领域发生海上马车夫荷兰衰落，对当时的经济生活产生了直接影响。",
         "latitude": 52.4,
         "longitude": 4.9,
         "category": "经济",
-        "region": "尼德兰",
-        "continent": "欧洲"
-      },
-      {
-        "title": "维也纳和约",
-        "description": "波兰王位战止。",
-        "latitude": 48.2,
-        "longitude": 16.4,
-        "category": "外交",
-        "region": "欧洲",
+        "region": "荷兰",
         "continent": "欧洲"
       },
       {
         "title": "瑞典自然学家林奈",
-        "description": "分类学。",
+        "description": "公元1738年，瑞典文化领域的重要事件——瑞典自然学家林奈，成为这一时期的文化标志。",
         "latitude": 59.8,
         "longitude": 17.6,
-        "category": "科学",
+        "category": "文化",
         "region": "瑞典",
+        "continent": "欧洲"
+      },
+      {
+        "title": "维也纳和约",
+        "description": "公元1738年，维也纳和约，该协议的签署影响了相关国家的关系格局。",
+        "latitude": 48.2,
+        "longitude": 16.4,
+        "category": "外交",
+        "region": "欧洲",
         "continent": "欧洲"
       }
     ]
@@ -1801,22 +1783,22 @@
     ],
     "events": [
       {
-        "title": "英国与西班牙詹金斯耳朵战争",
-        "description": "英国西班牙为美洲贸易开战。",
-        "latitude": 18.0,
-        "longitude": -77.0,
-        "category": "军事",
-        "region": "英格兰",
-        "continent": "北美洲"
-      },
-      {
         "title": "奥斯曼与俄奥和约",
-        "description": "贝尔格莱德和约。",
+        "description": "公元1739年，奥斯曼与俄奥和约，该协议的签署影响了相关国家的关系格局。",
         "latitude": 44.8,
         "longitude": 20.5,
         "category": "外交",
         "region": "奥斯曼帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "英国与西班牙詹金斯耳朵战争",
+        "description": "公元1739年，英格兰爆发英国与西班牙詹金斯耳朵战争，战事在英格兰地区全面展开。",
+        "latitude": 18.0,
+        "longitude": -77.0,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "北美洲"
       }
     ]
   },
@@ -1832,26 +1814,17 @@
     ],
     "events": [
       {
-        "title": "普鲁士腓特烈大帝即位",
-        "description": "腓特烈二世成为普鲁士国王。",
-        "latitude": 52.5,
-        "longitude": 13.0,
-        "category": "政治",
-        "region": "普鲁士",
-        "continent": "欧洲"
-      },
-      {
-        "title": "欧洲农业革命",
-        "description": "轮作。",
-        "latitude": 52.0,
-        "longitude": -1.0,
-        "category": "农业",
+        "title": "休谟《人性论》",
+        "description": "公元1740年，英格兰文化领域的重要事件——休谟《人性论》，成为这一时期的文化标志。",
+        "latitude": 51.51,
+        "longitude": -0.13,
+        "category": "文化",
         "region": "英格兰",
         "continent": "欧洲"
       },
       {
         "title": "奥地利女继承战争",
-        "description": "玛丽亚特蕾莎。",
+        "description": "公元1740年，奥地利爆发奥地利女继承战争，战事在奥地利地区全面展开。",
         "latitude": 48.2,
         "longitude": 16.4,
         "category": "政治",
@@ -1860,11 +1833,29 @@
       },
       {
         "title": "普鲁士攻占西里西亚",
-        "description": "腓特烈。",
+        "description": "公元1740年，在普鲁士，普鲁士攻占西里西亚。",
         "latitude": 51.0,
         "longitude": 17.0,
         "category": "军事",
         "region": "普鲁士",
+        "continent": "欧洲"
+      },
+      {
+        "title": "普鲁士腓特烈大帝即位",
+        "description": "公元1740年，普鲁士腓特烈大帝即位，开启了新的统治时期。",
+        "latitude": 52.5,
+        "longitude": 13.0,
+        "category": "政治",
+        "region": "普鲁士",
+        "continent": "欧洲"
+      },
+      {
+        "title": "欧洲农业革命",
+        "description": "公元1740年，英格兰爆发欧洲农业革命，动摇了既有统治秩序。",
+        "latitude": 52.0,
+        "longitude": -1.0,
+        "category": "经济",
+        "region": "英格兰",
         "continent": "欧洲"
       }
     ]
@@ -1881,8 +1872,17 @@
     ],
     "events": [
       {
+        "title": "亨德尔《弥赛亚》",
+        "description": "公元1741年，爱尔兰文化领域的重要事件——亨德尔《弥赛亚》，成为这一时期的文化标志。",
+        "latitude": 53.35,
+        "longitude": -6.26,
+        "category": "音乐",
+        "region": "爱尔兰",
+        "continent": "欧洲"
+      },
+      {
         "title": "奥地利王位继承战",
-        "description": "玛丽亚·特蕾莎继承奥地利引发全欧战争。",
+        "description": "公元1741年，在奥地利，奥地利王位继承战。",
         "latitude": 48.2,
         "longitude": 16.4,
         "category": "军事",
@@ -1890,22 +1890,22 @@
         "continent": "欧洲"
       },
       {
+        "title": "法国参战反奥",
+        "description": "公元1741年，在法国，法国参战反奥。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "军事",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
         "title": "西班牙在美洲",
-        "description": "西班牙殖民地。",
+        "description": "公元1741年，在西班牙，西班牙在美洲。",
         "latitude": 10.0,
         "longitude": -70.0,
         "category": "政治",
         "region": "西班牙",
         "continent": "南美洲"
-      },
-      {
-        "title": "法国参战反奥",
-        "description": "法助普鲁士。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "军事",
-        "region": "法兰西",
-        "continent": "欧洲"
       }
     ]
   },
@@ -1922,7 +1922,7 @@
     "events": [
       {
         "title": "亨德尔《弥赛亚》首演",
-        "description": "亨德尔著名清唱剧在都柏林公演。",
+        "description": "公元1742年，英格兰地区的文化艺术领域取得了重要成就，亨德尔《弥赛亚》首演成为这一时期的文化代表。",
         "latitude": 53.3,
         "longitude": -6.3,
         "category": "文化",
@@ -1930,21 +1930,21 @@
         "continent": "欧洲"
       },
       {
-        "title": "英国首相沃波尔辞职",
-        "description": "沃波尔下台。",
-        "latitude": 51.5,
-        "longitude": -0.1,
-        "category": "政治",
-        "region": "英格兰",
-        "continent": "欧洲"
-      },
-      {
         "title": "奥地利与普鲁士和约",
-        "description": "布雷斯劳。",
+        "description": "公元1742年，奥地利与普鲁士和约，该协议的签署影响了相关国家的关系格局。",
         "latitude": 51.1,
         "longitude": 17.0,
         "category": "外交",
         "region": "奥地利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "英国首相沃波尔辞职",
+        "description": "公元1742年，在英格兰，英国首相沃波尔辞职。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
         "continent": "欧洲"
       }
     ]
@@ -1961,31 +1961,31 @@
     ],
     "events": [
       {
+        "title": "俄罗斯与瑞典战争",
+        "description": "公元1743年，俄国爆发俄罗斯与瑞典战争，战事在俄国地区全面展开。",
+        "latitude": 60.0,
+        "longitude": 30.0,
+        "category": "军事",
+        "region": "俄国",
+        "continent": "欧洲"
+      },
+      {
         "title": "法国路易十五参战",
-        "description": "法国加入奥地利王位继承战。",
+        "description": "公元1743年，在法国，法国路易十五参战。",
         "latitude": 48.9,
         "longitude": 2.3,
         "category": "军事",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "欧洲"
       },
       {
         "title": "英法战争在北美",
-        "description": "肯色兰。",
+        "description": "公元1743年，英格兰爆发英法战争在北美，战事在英格兰地区全面展开。",
         "latitude": 45.0,
         "longitude": -73.0,
         "category": "军事",
         "region": "英格兰",
         "continent": "北美洲"
-      },
-      {
-        "title": "俄罗斯与瑞典战争",
-        "description": "俄胜。",
-        "latitude": 60.0,
-        "longitude": 30.0,
-        "category": "军事",
-        "region": "俄罗斯",
-        "continent": "欧洲"
       }
     ]
   },
@@ -2001,8 +2001,8 @@
     ],
     "events": [
       {
-        "title": "普鲁士占领西里西亚",
-        "description": "普鲁士在西里西亚战争获胜。",
+        "title": "普鲁士再攻奥地利",
+        "description": "公元1744年，在普鲁士，普鲁士再攻奥地利。",
         "latitude": 51.0,
         "longitude": 17.0,
         "category": "军事",
@@ -2010,8 +2010,8 @@
         "continent": "欧洲"
       },
       {
-        "title": "普鲁士再攻奥地利",
-        "description": "第二次西里西亚。",
+        "title": "普鲁士占领西里西亚",
+        "description": "公元1744年，在普鲁士，普鲁士占领西里西亚。",
         "latitude": 51.0,
         "longitude": 17.0,
         "category": "军事",
@@ -2020,11 +2020,11 @@
       },
       {
         "title": "法国企图入侵英国",
-        "description": "法舰队。",
+        "description": "公元1744年，在法国，法国企图入侵英国。",
         "latitude": 50.0,
         "longitude": -2.0,
         "category": "军事",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "欧洲"
       }
     ]
@@ -2041,30 +2041,30 @@
     ],
     "events": [
       {
-        "title": "詹姆斯党人起义",
-        "description": "查理·爱德华在苏格兰起义。",
-        "latitude": 57.0,
-        "longitude": -5.0,
-        "category": "军事",
-        "region": "苏格兰",
-        "continent": "欧洲"
-      },
-      {
-        "title": "苏格兰詹姆斯党人起义",
-        "description": "查理王子。",
-        "latitude": 57.0,
-        "longitude": -4.0,
-        "category": "军事",
-        "region": "苏格兰",
-        "continent": "欧洲"
-      },
-      {
         "title": "奥地利与萨克森盟",
-        "description": "抗普鲁士。",
+        "description": "公元1745年，奥地利开展奥地利与萨克森盟，体现了当时的国际关系格局。",
         "latitude": 51.0,
         "longitude": 13.0,
         "category": "外交",
         "region": "奥地利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "莱顿瓶发明",
+        "description": "公元1745年，荷兰的科技发展取得重要进展，莱顿瓶发明推动了相关领域的技术进步。",
+        "latitude": 52.16,
+        "longitude": 4.49,
+        "category": "科技",
+        "region": "荷兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "詹姆斯党人起义",
+        "description": "公元1745年，苏格兰爆发詹姆斯党人起义，对当局造成了巨大冲击。",
+        "latitude": 57.0,
+        "longitude": -5.0,
+        "category": "军事",
+        "region": "苏格兰",
         "continent": "欧洲"
       }
     ]
@@ -2082,25 +2082,34 @@
     "events": [
       {
         "title": "俄国女皇伊丽莎白即位",
-        "description": "彼得大帝之女伊丽莎白即位。",
+        "description": "公元1746年，俄国女皇伊丽莎白即位，开启了新的统治时期。",
         "latitude": 55.8,
         "longitude": 37.6,
         "category": "政治",
-        "region": "俄罗斯",
+        "region": "俄国",
         "continent": "欧洲"
       },
       {
+        "title": "普林斯顿大学成立",
+        "description": "公元1746年，普林斯顿大学成立，标志着新的政治实体在北美地区诞生。",
+        "latitude": 40.34,
+        "longitude": -74.66,
+        "category": "教育",
+        "region": "北美",
+        "continent": "北美洲"
+      },
+      {
         "title": "英法在印度战争",
-        "description": "卡尔纳提克。",
+        "description": "公元1746年，英格兰爆发英法在印度战争，战事在英格兰地区全面展开。",
         "latitude": 12.0,
         "longitude": 80.0,
         "category": "军事",
         "region": "英格兰",
-        "continent": "亚洲"
+        "continent": "欧洲"
       },
       {
         "title": "西班牙与葡萄牙殖民地",
-        "description": "南美。",
+        "description": "公元1746年，在西班牙，西班牙与葡萄牙殖民地。",
         "latitude": -30.0,
         "longitude": -55.0,
         "category": "政治",
@@ -2121,30 +2130,39 @@
     ],
     "events": [
       {
-        "title": "清朝平定大小金川",
-        "description": "乾隆帝平定四川大小金川之乱。",
-        "latitude": 31.0,
-        "longitude": 102.0,
-        "category": "军事",
-        "region": "清",
+        "title": "曹雪芹著《红楼梦》",
+        "description": "公元1747年，清朝文化领域的重要事件——曹雪芹著《红楼梦》，成为这一时期的文化标志。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "文学",
+        "region": "清朝",
         "continent": "亚洲"
       },
       {
         "title": "法军攻荷兰",
-        "description": "法入尼德兰。",
+        "description": "公元1747年，在法国，法军攻荷兰。",
         "latitude": 51.5,
         "longitude": 5.0,
         "category": "军事",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "欧洲"
       },
       {
         "title": "波斯阿夫沙尔王朝",
-        "description": "纳迪尔。",
+        "description": "公元1747年，在波斯，波斯阿夫沙尔王朝。",
         "latitude": 35.0,
         "longitude": 55.0,
         "category": "政治",
         "region": "波斯",
+        "continent": "亚洲"
+      },
+      {
+        "title": "清朝平定大小金川",
+        "description": "公元1747年，清朝清朝平定大小金川。",
+        "latitude": 31.0,
+        "longitude": 102.0,
+        "category": "军事",
+        "region": "清",
         "continent": "亚洲"
       }
     ]
@@ -2162,7 +2180,7 @@
     "events": [
       {
         "title": "亚琛和约结束战争",
-        "description": "奥地利王位继承战结束。",
+        "description": "公元1748年，欧洲爆发亚琛和约结束战争，战事在欧洲地区全面展开。",
         "latitude": 50.8,
         "longitude": 6.1,
         "category": "外交",
@@ -2171,11 +2189,11 @@
       },
       {
         "title": "法国启蒙思想家孟德斯鸠",
-        "description": "论法的精神。",
+        "description": "公元1748年，在法国，法国启蒙思想家孟德斯鸠。",
         "latitude": 48.9,
         "longitude": 2.3,
         "category": "法律",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "欧洲"
       }
     ]
@@ -2192,8 +2210,26 @@
     ],
     "events": [
       {
+        "title": "奥兰普德古热",
+        "description": "公元1749年，在法国，奥兰普德古热。",
+        "latitude": 48.86,
+        "longitude": 2.35,
+        "category": "政治",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "巴赫《赋格的艺术》",
+        "description": "公元1749年，德国文化领域的重要事件——巴赫《赋格的艺术》，成为这一时期的文化标志。",
+        "latitude": 51.34,
+        "longitude": 12.38,
+        "category": "音乐",
+        "region": "德国",
+        "continent": "欧洲"
+      },
+      {
         "title": "歌德出生",
-        "description": "德国大文豪歌德出生。",
+        "description": "公元1749年，神圣罗马帝国地区的文化艺术领域取得了重要成就，歌德出生成为这一时期的文化代表。",
         "latitude": 50.1,
         "longitude": 8.7,
         "category": "文化",
@@ -2202,7 +2238,7 @@
       },
       {
         "title": "瑞典贵族宪法",
-        "description": "自由时代。",
+        "description": "公元1749年，在瑞典，瑞典贵族宪法。",
         "latitude": 59.3,
         "longitude": 18.1,
         "category": "政治",
@@ -2211,12 +2247,21 @@
       },
       {
         "title": "英国北美移民",
-        "description": "殖民地。",
+        "description": "公元1749年，英属北美社会领域出现英国北美移民，反映了社会的发展变化。",
         "latitude": 40.0,
         "longitude": -75.0,
         "category": "社会",
         "region": "英属北美",
         "continent": "北美洲"
+      },
+      {
+        "title": "菲尔丁《汤姆琼斯》",
+        "description": "公元1749年，英格兰文化领域的重要事件——菲尔丁《汤姆琼斯》，成为这一时期的文化标志。",
+        "latitude": 51.51,
+        "longitude": -0.13,
+        "category": "文学",
+        "region": "英格兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2232,39 +2277,48 @@
     ],
     "events": [
       {
+        "title": "巴赫去世",
+        "description": "公元1750年，巴赫去世，一个重要的历史人物离开了历史舞台。",
+        "latitude": 51.34,
+        "longitude": 12.38,
+        "category": "音乐",
+        "region": "德国",
+        "continent": "欧洲"
+      },
+      {
         "title": "欧洲启蒙运动高峰",
-        "description": "狄德罗编《百科全书》标志启蒙鼎盛。",
+        "description": "公元1750年，法国地区的文化艺术领域取得了重要成就，欧洲启蒙运动高峰成为这一时期的文化代表。",
         "latitude": 48.9,
         "longitude": 2.3,
         "category": "文化",
-        "region": "法兰西",
-        "continent": "欧洲"
-      },
-      {
-        "title": "百科全书出版",
-        "description": "狄德罗。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "学术",
-        "region": "法兰西",
-        "continent": "欧洲"
-      },
-      {
-        "title": "葡萄牙庞巴尔改革",
-        "description": "葡萄牙。",
-        "latitude": 38.7,
-        "longitude": -9.1,
-        "category": "政治",
-        "region": "葡萄牙",
+        "region": "法国",
         "continent": "欧洲"
       },
       {
         "title": "法国物理学家实验",
-        "description": "电学。",
+        "description": "公元1750年，法国文化领域的重要事件——法国物理学家实验，成为这一时期的文化标志。",
         "latitude": 48.0,
         "longitude": 2.0,
-        "category": "科学",
-        "region": "法兰西",
+        "category": "文化",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "百科全书出版",
+        "description": "公元1750年，法国文化领域的重要事件——百科全书出版，成为这一时期的文化标志。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "文化",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "葡萄牙庞巴尔改革",
+        "description": "公元1750年，葡萄牙推行葡萄牙庞巴尔改革，对当地政治经济制度产生了深远影响。",
+        "latitude": 38.7,
+        "longitude": -9.1,
+        "category": "政治",
+        "region": "葡萄牙",
         "continent": "欧洲"
       }
     ]
@@ -2281,21 +2335,21 @@
     ],
     "events": [
       {
-        "title": "狄德罗《百科全书》出版",
-        "description": "法国《百科全书》第一卷出版。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "文化",
-        "region": "法兰西",
-        "continent": "欧洲"
-      },
-      {
         "title": "普鲁士腓特烈法典",
-        "description": "腓特烈法。",
+        "description": "公元1751年，在普鲁士，普鲁士腓特烈法典。",
         "latitude": 52.5,
         "longitude": 13.0,
         "category": "法律",
         "region": "普鲁士",
+        "continent": "欧洲"
+      },
+      {
+        "title": "狄德罗《百科全书》出版",
+        "description": "公元1751年，法国地区的文化艺术领域取得了重要成就，狄德罗《百科全书》出版成为这一时期的文化代表。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "文化",
+        "region": "法国",
         "continent": "欧洲"
       }
     ]
@@ -2312,29 +2366,20 @@
     ],
     "events": [
       {
-        "title": "英属北美殖民发展",
-        "description": "北美十三州人口经济持续增长。",
-        "latitude": 40.0,
-        "longitude": -75.0,
-        "category": "经济",
-        "region": "英属北美",
-        "continent": "北美洲"
-      },
-      {
-        "title": "本杰明富兰克林风筝实验",
-        "description": "富兰克林电。",
-        "latitude": 39.9,
-        "longitude": -75.2,
-        "category": "科学",
-        "region": "英属北美",
+        "title": "富兰克林风筝实验",
+        "description": "公元1752年，北美的科技发展取得重要进展，富兰克林风筝实验推动了相关领域的技术进步。",
+        "latitude": 39.95,
+        "longitude": -75.16,
+        "category": "科技",
+        "region": "北美",
         "continent": "北美洲"
       },
       {
         "title": "英国格雷欣历法改革",
-        "description": "历法。",
+        "description": "公元1752年，英格兰推行英国格雷欣历法改革，对当地政治经济制度产生了深远影响。",
         "latitude": 51.5,
         "longitude": -0.1,
-        "category": "历法",
+        "category": "科技",
         "region": "英格兰",
         "continent": "欧洲"
       }
@@ -2352,17 +2397,8 @@
     ],
     "events": [
       {
-        "title": "英法北美领土冲突",
-        "description": "英法在俄亥俄河谷争夺领土。",
-        "latitude": 40.0,
-        "longitude": -80.0,
-        "category": "政治",
-        "region": "英格兰",
-        "continent": "北美洲"
-      },
-      {
         "title": "大英博物馆成立",
-        "description": "大英博物馆。",
+        "description": "公元1753年，大英博物馆成立，标志着新的政治实体在英格兰地区诞生。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "文化",
@@ -2371,12 +2407,21 @@
       },
       {
         "title": "瑞典植物分类",
-        "description": "林奈种。",
+        "description": "公元1753年，瑞典文化领域的重要事件——瑞典植物分类，成为这一时期的文化标志。",
         "latitude": 59.8,
         "longitude": 17.6,
-        "category": "科学",
+        "category": "文化",
         "region": "瑞典",
         "continent": "欧洲"
+      },
+      {
+        "title": "英法北美领土冲突",
+        "description": "公元1753年，在英格兰，英法北美领土冲突。",
+        "latitude": 40.0,
+        "longitude": -80.0,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "北美洲"
       }
     ]
   },
@@ -2393,7 +2438,7 @@
     "events": [
       {
         "title": "七年战争北美序幕",
-        "description": "华盛顿在俄亥俄地区与法军冲突。",
+        "description": "公元1754年，英属北美爆发七年战争北美序幕，战事在英属北美地区全面展开。",
         "latitude": 40.0,
         "longitude": -80.0,
         "category": "军事",
@@ -2401,21 +2446,30 @@
         "continent": "北美洲"
       },
       {
-        "title": "英法北美之争",
-        "description": "七年战争前。",
-        "latitude": 40.0,
-        "longitude": -80.0,
-        "category": "政治",
-        "region": "英格兰",
+        "title": "七年战争北美战场",
+        "description": "公元1754年，北美爆发七年战争北美战场，战事在北美地区全面展开。",
+        "latitude": 39.8,
+        "longitude": -79.5,
+        "category": "军事",
+        "region": "北美",
         "continent": "北美洲"
       },
       {
         "title": "北美殖民地代表会议",
-        "description": "奥尔巴尼。",
+        "description": "公元1754年，在英属北美，北美殖民地代表会议。",
         "latitude": 42.7,
         "longitude": -73.8,
         "category": "政治",
         "region": "英属北美",
+        "continent": "北美洲"
+      },
+      {
+        "title": "英法北美之争",
+        "description": "公元1754年，在英格兰，英法北美之争。",
+        "latitude": 40.0,
+        "longitude": -80.0,
+        "category": "政治",
+        "region": "英格兰",
         "continent": "北美洲"
       }
     ]
@@ -2432,21 +2486,21 @@
     ],
     "events": [
       {
+        "title": "英国公路收费",
+        "description": "公元1755年，英格兰在科技领域取得重要进展——英国公路收费，推动了相关领域的进步。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "科技",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
         "title": "里斯本大地震",
-        "description": "葡萄牙里斯本发生强烈地震。",
+        "description": "公元1755年，葡萄牙社会领域出现里斯本大地震，反映了社会的发展变化。",
         "latitude": 38.7,
         "longitude": -9.1,
         "category": "社会",
         "region": "葡萄牙",
-        "continent": "欧洲"
-      },
-      {
-        "title": "英国公路收费",
-        "description": "收费路。",
-        "latitude": 51.5,
-        "longitude": -0.1,
-        "category": "交通",
-        "region": "英格兰",
         "continent": "欧洲"
       }
     ]
@@ -2463,8 +2517,8 @@
     ],
     "events": [
       {
-        "title": "七年战争爆发",
-        "description": "英法普奥在全球范围开战。",
+        "title": "七年战争",
+        "description": "公元1756年，欧洲爆发七年战争，战事在欧洲地区全面展开。",
         "latitude": 50.0,
         "longitude": 10.0,
         "category": "军事",
@@ -2473,12 +2527,12 @@
       },
       {
         "title": "黑太子之战",
-        "description": "印度英法。",
+        "description": "公元1756年，英格兰爆发黑太子之战，战事在英格兰地区全面展开。",
         "latitude": 12.0,
         "longitude": 80.0,
         "category": "军事",
         "region": "英格兰",
-        "continent": "亚洲"
+        "continent": "欧洲"
       }
     ]
   },
@@ -2495,16 +2549,25 @@
     "events": [
       {
         "title": "普拉西战役",
-        "description": "英国东印度公司在印度击败孟加拉。",
+        "description": "公元1757年，英格兰爆发普拉西战役，战事在英格兰地区全面展开。",
         "latitude": 23.0,
         "longitude": 88.0,
         "category": "军事",
         "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "缅甸贡榜王朝建立",
+        "description": "公元1757年，缅甸贡榜王朝建立，标志着新的政治实体在缅甸地区诞生。",
+        "latitude": 21.97,
+        "longitude": 96.12,
+        "category": "政治",
+        "region": "缅甸",
         "continent": "亚洲"
       },
       {
         "title": "罗斯巴赫战役",
-        "description": "普鲁士胜。",
+        "description": "公元1757年，普鲁士爆发罗斯巴赫战役，战事在普鲁士地区全面展开。",
         "latitude": 51.3,
         "longitude": 11.9,
         "category": "军事",
@@ -2526,7 +2589,7 @@
     "events": [
       {
         "title": "普鲁士罗斯巴赫战役",
-        "description": "腓特烈大帝在罗斯巴赫击败法军。",
+        "description": "公元1758年，普鲁士爆发普鲁士罗斯巴赫战役，战事在普鲁士地区全面展开。",
         "latitude": 51.3,
         "longitude": 11.9,
         "category": "军事",
@@ -2535,11 +2598,11 @@
       },
       {
         "title": "法国政治理论",
-        "description": "爱尔维修。",
+        "description": "公元1758年，法国文化领域的重要事件——法国政治理论，成为这一时期的文化标志。",
         "latitude": 48.9,
         "longitude": 2.3,
-        "category": "哲学",
-        "region": "法兰西",
+        "category": "文化",
+        "region": "法国",
         "continent": "欧洲"
       }
     ]
@@ -2556,17 +2619,8 @@
     ],
     "events": [
       {
-        "title": "英国占魁北克",
-        "description": "英军在亚伯拉罕平原击败法军。",
-        "latitude": 46.8,
-        "longitude": -71.2,
-        "category": "军事",
-        "region": "英格兰",
-        "continent": "北美洲"
-      },
-      {
         "title": "亚伯拉罕平原战役",
-        "description": "英取魁北克。",
+        "description": "公元1759年，英格兰爆发亚伯拉罕平原战役，战事在英格兰地区全面展开。",
         "latitude": 46.8,
         "longitude": -71.2,
         "category": "军事",
@@ -2575,12 +2629,21 @@
       },
       {
         "title": "法国启蒙哲人",
-        "description": "狄德罗。",
+        "description": "公元1759年，法国文化领域的重要事件——法国启蒙哲人，成为这一时期的文化标志。",
         "latitude": 48.9,
         "longitude": 2.3,
-        "category": "哲学",
-        "region": "法兰西",
+        "category": "文化",
+        "region": "法国",
         "continent": "欧洲"
+      },
+      {
+        "title": "英国占魁北克",
+        "description": "公元1759年，在英格兰，英国占魁北克。",
+        "latitude": 46.8,
+        "longitude": -71.2,
+        "category": "军事",
+        "region": "英格兰",
+        "continent": "北美洲"
       }
     ]
   },
@@ -2596,17 +2659,8 @@
     ],
     "events": [
       {
-        "title": "英国工业革命开始",
-        "description": "英国纺织业机械化进程加速。",
-        "latitude": 53.0,
-        "longitude": -2.0,
-        "category": "科技",
-        "region": "英格兰",
-        "continent": "欧洲"
-      },
-      {
         "title": "乔治三世即英王位",
-        "description": "乔治三世成为英国国王。",
+        "description": "公元1760年，在英格兰，乔治三世即英王位。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "政治",
@@ -2614,21 +2668,39 @@
         "continent": "欧洲"
       },
       {
-        "title": "英国运河建设",
-        "description": "运河。",
-        "latitude": 53.0,
-        "longitude": -2.0,
-        "category": "工程",
+        "title": "俄国柏林之占",
+        "description": "公元1760年，在俄国，俄国柏林之占。",
+        "latitude": 52.5,
+        "longitude": 13.4,
+        "category": "军事",
+        "region": "俄国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "工业革命",
+        "description": "公元1760年，英格兰爆发工业革命，动摇了既有统治秩序。",
+        "latitude": 53.5,
+        "longitude": -2.2,
+        "category": "经济",
         "region": "英格兰",
         "continent": "欧洲"
       },
       {
-        "title": "俄国柏林之占",
-        "description": "俄入柏林。",
-        "latitude": 52.5,
-        "longitude": 13.4,
+        "title": "法国失去魁北克",
+        "description": "公元1760年，在加拿大，法国失去魁北克。",
+        "latitude": 46.81,
+        "longitude": -71.21,
         "category": "军事",
-        "region": "俄罗斯",
+        "region": "加拿大",
+        "continent": "北美洲"
+      },
+      {
+        "title": "英国运河建设",
+        "description": "公元1760年，英格兰在科技领域取得重要进展——英国运河建设，推动了相关领域的进步。",
+        "latitude": 53.0,
+        "longitude": -2.0,
+        "category": "科技",
+        "region": "英格兰",
         "continent": "欧洲"
       }
     ]
@@ -2645,26 +2717,35 @@
     ],
     "events": [
       {
+        "title": "卢梭《新爱洛伊丝》",
+        "description": "公元1761年，法国文化领域的重要事件——卢梭《新爱洛伊丝》，成为这一时期的文化标志。",
+        "latitude": 48.86,
+        "longitude": 2.35,
+        "category": "文学",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
         "title": "法国在新法兰西投降",
-        "description": "法国在北美向英军投降。",
+        "description": "公元1761年，在法国，法国在新法兰西投降。",
         "latitude": 45.5,
         "longitude": -73.6,
         "category": "军事",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "北美洲"
       },
       {
         "title": "英占印度本地治里",
-        "description": "法印失。",
+        "description": "公元1761年，在英格兰，英占印度本地治里。",
         "latitude": 12.0,
         "longitude": 80.0,
         "category": "军事",
         "region": "英格兰",
-        "continent": "亚洲"
+        "continent": "欧洲"
       },
       {
         "title": "西班牙参战七年战争",
-        "description": "西加盟。",
+        "description": "公元1761年，西班牙爆发西班牙参战七年战争，战事在西班牙地区全面展开。",
         "latitude": 40.4,
         "longitude": -3.7,
         "category": "军事",
@@ -2686,20 +2767,38 @@
     "events": [
       {
         "title": "俄国叶卡捷琳娜二世即位",
-        "description": "叶卡捷琳娜大帝成为俄国女皇。",
+        "description": "公元1762年，俄国叶卡捷琳娜二世即位，开启了新的统治时期。",
         "latitude": 55.8,
         "longitude": 37.6,
         "category": "政治",
-        "region": "俄罗斯",
+        "region": "俄国",
         "continent": "欧洲"
       },
       {
         "title": "俄国彼得三世",
-        "description": "彼得三世。",
+        "description": "公元1762年，在俄国，俄国彼得三世。",
         "latitude": 55.8,
         "longitude": 37.6,
         "category": "政治",
-        "region": "俄罗斯",
+        "region": "俄国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "卢梭《社会契约论》",
+        "description": "公元1762年，法国地区的文化艺术领域取得了重要成就，卢梭《社会契约论》成为这一时期的文化代表。",
+        "latitude": 48.86,
+        "longitude": 2.35,
+        "category": "文化",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "卢梭出版《社会契约论》",
+        "description": "公元1762年，法国地区的文化艺术领域取得了重要成就，卢梭出版《社会契约论》成为这一时期的文化代表。",
+        "latitude": 48.86,
+        "longitude": 2.35,
+        "category": "文化",
+        "region": "法国",
         "continent": "欧洲"
       }
     ]
@@ -2717,20 +2816,38 @@
     "events": [
       {
         "title": "巴黎和约结束七年战争",
-        "description": "法国将加拿大和印度领地割让给英。",
+        "description": "公元1763年，法国爆发巴黎和约结束七年战争，战事在法国地区全面展开。",
         "latitude": 48.9,
         "longitude": 2.3,
         "category": "外交",
-        "region": "法兰西",
+        "region": "法国",
+        "continent": "北美洲"
+      },
+      {
+        "title": "庞蒂亚克战争",
+        "description": "公元1763年，北美大湖爆发庞蒂亚克战争，战事在北美大湖地区全面展开。",
+        "latitude": 42.0,
+        "longitude": -83.0,
+        "category": "军事",
+        "region": "北美大湖",
         "continent": "北美洲"
       },
       {
         "title": "庞蒂亚克起义",
-        "description": "印第安。",
+        "description": "公元1763年，北美印第安爆发庞蒂亚克起义，对当局造成了巨大冲击。",
         "latitude": 42.0,
         "longitude": -83.0,
         "category": "军事",
         "region": "北美印第安",
+        "continent": "北美洲"
+      },
+      {
+        "title": "英法北美战争结束",
+        "description": "公元1763年，北美爆发英法北美战争结束，战事在北美地区全面展开。",
+        "latitude": 51.51,
+        "longitude": -0.13,
+        "category": "政治",
+        "region": "北美",
         "continent": "北美洲"
       }
     ]
@@ -2747,17 +2864,8 @@
     ],
     "events": [
       {
-        "title": "英国食糖法案",
-        "description": "英国对北美殖民地征糖税。",
-        "latitude": 51.5,
-        "longitude": -0.1,
-        "category": "经济",
-        "region": "英格兰",
-        "continent": "北美洲"
-      },
-      {
         "title": "英国糖税法",
-        "description": "殖民地税。",
+        "description": "公元1764年，英格兰经济领域发生英国糖税法，对当时的经济生活产生了直接影响。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "经济",
@@ -2765,13 +2873,13 @@
         "continent": "北美洲"
       },
       {
-        "title": "瓦特改进蒸汽机",
-        "description": "瓦特。",
-        "latitude": 55.9,
-        "longitude": -4.3,
-        "category": "科技",
+        "title": "英国食糖法案",
+        "description": "公元1764年，英格兰经济领域发生英国食糖法案，对当时的经济生活产生了直接影响。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "经济",
         "region": "英格兰",
-        "continent": "欧洲"
+        "continent": "北美洲"
       }
     ]
   },
@@ -2787,21 +2895,21 @@
     ],
     "events": [
       {
-        "title": "英国印花税法案",
-        "description": "英国对北美殖民地征印花税激怒殖民者。",
-        "latitude": 51.5,
-        "longitude": -0.1,
-        "category": "经济",
-        "region": "英格兰",
-        "continent": "北美洲"
-      },
-      {
         "title": "北美殖民地合法抵制",
-        "description": "反印花税。",
+        "description": "公元1765年，英属北美社会领域出现北美殖民地合法抵制，反映了社会的发展变化。",
         "latitude": 40.0,
         "longitude": -75.0,
         "category": "社会",
         "region": "英属北美",
+        "continent": "北美洲"
+      },
+      {
+        "title": "英国印花税法案",
+        "description": "公元1765年，英格兰经济领域发生英国印花税法案，对当时的经济生活产生了直接影响。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "经济",
+        "region": "英格兰",
         "continent": "北美洲"
       }
     ]
@@ -2818,22 +2926,22 @@
     ],
     "events": [
       {
-        "title": "英国废除印花税",
-        "description": "英国迫于压力废除印花税法。",
-        "latitude": 51.5,
-        "longitude": -0.1,
-        "category": "政治",
-        "region": "英格兰",
-        "continent": "北美洲"
-      },
-      {
         "title": "唐朝法律西传",
-        "description": "中国法。",
+        "description": "公元1766年，清地区的文化艺术领域取得了重要成就，唐朝法律西传成为这一时期的文化代表。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "文化",
         "region": "清",
         "continent": "亚洲"
+      },
+      {
+        "title": "英国废除印花税",
+        "description": "公元1766年，在英格兰，英国废除印花税。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "北美洲"
       }
     ]
   },
@@ -2849,8 +2957,17 @@
     ],
     "events": [
       {
+        "title": "暹罗复国",
+        "description": "公元1767年，在暹罗，暹罗复国。",
+        "latitude": 13.72,
+        "longitude": 100.49,
+        "category": "政治",
+        "region": "暹罗",
+        "continent": "亚洲"
+      },
+      {
         "title": "英国汤森法案",
-        "description": "英国对北美征玻璃铅茶等税。",
+        "description": "公元1767年，英格兰经济领域发生英国汤森法案，对当时的经济生活产生了直接影响。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "经济",
@@ -2859,7 +2976,7 @@
       },
       {
         "title": "菲律宾西班牙总督",
-        "description": "西统。",
+        "description": "公元1767年，在西班牙，菲律宾西班牙总督。",
         "latitude": 14.6,
         "longitude": 121.0,
         "category": "政治",
@@ -2880,8 +2997,35 @@
     ],
     "events": [
       {
+        "title": "俄罗斯与土耳其战争",
+        "description": "公元1768年，俄国爆发俄罗斯与土耳其战争，战事在俄国地区全面展开。",
+        "latitude": 47.0,
+        "longitude": 35.0,
+        "category": "军事",
+        "region": "俄国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "库克船长首次远航",
+        "description": "公元1768年，澳大利亚在科技领域取得重要进展——库克船长首次远航，推动了相关领域的进步。",
+        "latitude": -33.86,
+        "longitude": 151.21,
+        "category": "科技",
+        "region": "澳大利亚",
+        "continent": "大洋洲"
+      },
+      {
+        "title": "库克首航太平洋",
+        "description": "公元1768年，英格兰在科技领域取得重要进展——库克首航太平洋，推动了相关领域的进步。",
+        "latitude": 50.37,
+        "longitude": -4.14,
+        "category": "科技",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
         "title": "清朝征缅甸",
-        "description": "乾隆帝派兵征讨缅甸。",
+        "description": "公元1768年，清朝清朝征缅甸。",
         "latitude": 22.0,
         "longitude": 96.0,
         "category": "军事",
@@ -2889,17 +3033,8 @@
         "continent": "亚洲"
       },
       {
-        "title": "俄罗斯与土耳其战争",
-        "description": "俄土战。",
-        "latitude": 47.0,
-        "longitude": 35.0,
-        "category": "军事",
-        "region": "俄罗斯",
-        "continent": "欧洲"
-      },
-      {
         "title": "英国皇家艺术院",
-        "description": "雷诺兹。",
+        "description": "公元1768年，英格兰地区的文化艺术领域取得了重要成就，英国皇家艺术院成为这一时期的文化代表。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "艺术",
@@ -2921,16 +3056,25 @@
     "events": [
       {
         "title": "拿破仑·波拿巴出生",
-        "description": "未来法国皇帝拿破仑在科西嘉出生。",
+        "description": "公元1769年，在法国，拿破仑·波拿巴出生。",
         "latitude": 41.9,
         "longitude": 8.7,
         "category": "政治",
-        "region": "法兰西",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "蒸汽机改良",
+        "description": "公元1769年，苏格兰的科技发展取得重要进展，蒸汽机改良推动了相关领域的技术进步。",
+        "latitude": 55.86,
+        "longitude": -4.26,
+        "category": "科技",
+        "region": "苏格兰",
         "continent": "欧洲"
       },
       {
         "title": "詹姆斯瓦特专利",
-        "description": "蒸汽机。",
+        "description": "公元1769年，苏格兰的科技发展取得重要进展，詹姆斯瓦特专利推动了相关领域的技术进步。",
         "latitude": 55.9,
         "longitude": -4.3,
         "category": "科技",
@@ -2951,26 +3095,44 @@
     ],
     "events": [
       {
-        "title": "波士顿屠杀",
-        "description": "英军向波士顿示威群众开枪。",
-        "latitude": 42.4,
-        "longitude": -71.1,
-        "category": "政治",
-        "region": "英属北美",
-        "continent": "北美洲"
+        "title": "库克抵澳大利亚东海岸",
+        "description": "公元1770年，澳大利亚在科技领域取得重要进展——库克抵澳大利亚东海岸，推动了相关领域的进步。",
+        "latitude": -33.86,
+        "longitude": 151.21,
+        "category": "科技",
+        "region": "澳大利亚",
+        "continent": "大洋洲"
       },
       {
         "title": "欧洲人口增长",
-        "description": "人口。",
+        "description": "公元1770年，欧洲社会领域出现欧洲人口增长，反映了社会的发展变化。",
         "latitude": 50.0,
         "longitude": 8.0,
-        "category": "人口",
+        "category": "社会",
         "region": "欧洲",
         "continent": "欧洲"
       },
       {
-        "title": "英诺森三世",
-        "description": "波士顿惨案。",
+        "title": "法国自然博物学",
+        "description": "公元1770年，法国文化领域的重要事件——法国自然博物学，成为这一时期的文化标志。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "文化",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "波士顿倾茶事件",
+        "description": "公元1770年，在北美，波士顿倾茶事件。",
+        "latitude": 42.36,
+        "longitude": -71.06,
+        "category": "政治",
+        "region": "北美",
+        "continent": "北美洲"
+      },
+      {
+        "title": "波士顿屠杀",
+        "description": "公元1770年，在英属北美，波士顿屠杀。",
         "latitude": 42.4,
         "longitude": -71.1,
         "category": "政治",
@@ -2978,13 +3140,13 @@
         "continent": "北美洲"
       },
       {
-        "title": "法国自然博物学",
-        "description": "布丰。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "科学",
-        "region": "法兰西",
-        "continent": "欧洲"
+        "title": "英诺森三世",
+        "description": "公元1770年，在英属北美，英诺森三世。",
+        "latitude": 42.4,
+        "longitude": -71.1,
+        "category": "政治",
+        "region": "英属北美",
+        "continent": "北美洲"
       }
     ]
   },
@@ -3000,29 +3162,38 @@
     ],
     "events": [
       {
-        "title": "英国印花税废除",
-        "description": "英政府撤回大部分税收法案。",
-        "latitude": 51.5,
-        "longitude": -0.1,
-        "category": "政治",
+        "title": "俄国征服克里米亚",
+        "description": "公元1771年，在俄国，俄国征服克里米亚。",
+        "latitude": 45.0,
+        "longitude": 34.0,
+        "category": "军事",
+        "region": "俄国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "土尔扈特部东归",
+        "description": "公元1771年，清朝文化领域的重要事件——土尔扈特部东归，成为这一时期的文化标志。",
+        "latitude": 43.9,
+        "longitude": 81.3,
+        "category": "文化",
+        "region": "清朝",
+        "continent": "亚洲"
+      },
+      {
+        "title": "第一台水力纺机",
+        "description": "公元1771年，英格兰经济领域发生第一台水力纺机，对当时的经济生活产生了直接影响。",
+        "latitude": 53.0,
+        "longitude": -1.3,
+        "category": "经济",
         "region": "英格兰",
         "continent": "欧洲"
       },
       {
-        "title": "俄国征服克里米亚",
-        "description": "俄扩。",
-        "latitude": 45.0,
-        "longitude": 34.0,
-        "category": "军事",
-        "region": "俄罗斯",
-        "continent": "欧洲"
-      },
-      {
-        "title": "第一台水力纺机",
-        "description": "阿克莱特。",
-        "latitude": 53.0,
-        "longitude": -1.3,
-        "category": "工业",
+        "title": "英国印花税废除",
+        "description": "公元1771年，在英格兰，英国印花税废除。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "政治",
         "region": "英格兰",
         "continent": "欧洲"
       }
@@ -3040,21 +3211,21 @@
     ],
     "events": [
       {
+        "title": "波兰第一次瓜分",
+        "description": "公元1772年，在俄国，波兰第一次瓜分。",
+        "latitude": 52.2,
+        "longitude": 21.0,
+        "category": "政治",
+        "region": "俄国",
+        "continent": "欧洲"
+      },
+      {
         "title": "瑞典古斯塔夫三世改革",
-        "description": "古斯塔夫三世加强王权推行改革。",
+        "description": "公元1772年，瑞典推行瑞典古斯塔夫三世改革，对当地政治经济制度产生了深远影响。",
         "latitude": 59.3,
         "longitude": 18.1,
         "category": "政治",
         "region": "瑞典",
-        "continent": "欧洲"
-      },
-      {
-        "title": "波兰第一次瓜分",
-        "description": "俄普奥分。",
-        "latitude": 52.2,
-        "longitude": 21.0,
-        "category": "政治",
-        "region": "俄罗斯",
         "continent": "欧洲"
       }
     ]
@@ -3071,17 +3242,8 @@
     ],
     "events": [
       {
-        "title": "波士顿倾茶事件",
-        "description": "北美殖民者将英国茶叶倒入海港。",
-        "latitude": 42.4,
-        "longitude": -71.1,
-        "category": "政治",
-        "region": "英属北美",
-        "continent": "北美洲"
-      },
-      {
         "title": "东印度公司法案",
-        "description": "波士顿茶。",
+        "description": "公元1773年，英格兰经济领域发生东印度公司法案，对当时的经济生活产生了直接影响。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "经济",
@@ -3090,11 +3252,11 @@
       },
       {
         "title": "俄罗斯普加乔夫起义",
-        "description": "普加乔夫。",
+        "description": "公元1773年，俄国爆发俄罗斯普加乔夫起义，对当局造成了巨大冲击。",
         "latitude": 53.0,
         "longitude": 50.0,
         "category": "社会",
-        "region": "俄罗斯",
+        "region": "俄国",
         "continent": "欧洲"
       }
     ]
@@ -3112,7 +3274,7 @@
     "events": [
       {
         "title": "不可容忍法案",
-        "description": "英国关闭波士顿港加强管制。",
+        "description": "公元1774年，在英格兰，不可容忍法案。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "政治",
@@ -3120,8 +3282,17 @@
         "continent": "北美洲"
       },
       {
+        "title": "凯勒化学发现",
+        "description": "公元1774年，凯勒化学发现，这是人类在英格兰取得的重要科技成就。",
+        "latitude": 52.0,
+        "longitude": -2.0,
+        "category": "文化",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
         "title": "北美大陆会议",
-        "description": "费城。",
+        "description": "公元1774年，在美国，北美大陆会议。",
         "latitude": 39.9,
         "longitude": -75.2,
         "category": "政治",
@@ -3129,12 +3300,21 @@
         "continent": "北美洲"
       },
       {
-        "title": "凯勒化学发现",
-        "description": "氧。",
-        "latitude": 52.0,
-        "longitude": -2.0,
-        "category": "科学",
+        "title": "普里斯特利发现氧气",
+        "description": "公元1774年，英格兰的科技发展取得重要进展，普里斯特利发现氧气推动了相关领域的技术进步。",
+        "latitude": 51.51,
+        "longitude": -0.13,
+        "category": "科技",
         "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "歌德《少年维特之烦恼》",
+        "description": "公元1774年，德国文化领域的重要事件——歌德《少年维特之烦恼》，成为这一时期的文化标志。",
+        "latitude": 50.94,
+        "longitude": 6.96,
+        "category": "文学",
+        "region": "德国",
         "continent": "欧洲"
       }
     ]
@@ -3151,8 +3331,17 @@
     ],
     "events": [
       {
+        "title": "列克星敦枪声",
+        "description": "公元1775年，在北美，列克星敦枪声。",
+        "latitude": 42.45,
+        "longitude": -71.3,
+        "category": "军事",
+        "region": "北美",
+        "continent": "北美洲"
+      },
+      {
         "title": "美国独立战争开始",
-        "description": "莱克星顿枪声标志独立战争开始。",
+        "description": "公元1775年，美国爆发美国独立战争开始，战事在美国地区全面展开。",
         "latitude": 42.4,
         "longitude": -71.3,
         "category": "军事",
@@ -3161,10 +3350,10 @@
       },
       {
         "title": "詹姆斯科克太平洋",
-        "description": "库克船长。",
+        "description": "公元1775年，英格兰在科技领域取得重要进展——詹姆斯科克太平洋，推动了相关领域的进步。",
         "latitude": -20.0,
         "longitude": -160.0,
-        "category": "探索",
+        "category": "科技",
         "region": "英格兰",
         "continent": "大洋洲"
       }
@@ -3182,31 +3371,40 @@
     ],
     "events": [
       {
-        "title": "独立宣言发表",
-        "description": "北美十三州宣布独立。",
-        "latitude": 39.9,
-        "longitude": -75.2,
-        "category": "政治",
-        "region": "美国",
-        "continent": "北美洲"
+        "title": "《国富论》出版",
+        "description": "公元1776年，苏格兰地区的文化艺术领域取得了重要成就，《国富论》出版成为这一时期的文化代表。",
+        "latitude": 55.95,
+        "longitude": -3.2,
+        "category": "文化",
+        "region": "苏格兰",
+        "continent": "欧洲"
       },
       {
-        "title": "美国独立宣言",
-        "description": "独立宣言。",
-        "latitude": 39.9,
-        "longitude": -75.2,
+        "title": "《独立宣言》",
+        "description": "公元1776年，在美国，《独立宣言》。",
+        "latitude": 39.95,
+        "longitude": -75.16,
         "category": "政治",
         "region": "美国",
         "continent": "北美洲"
       },
       {
         "title": "亚当斯密国富论",
-        "description": "经济学。",
+        "description": "公元1776年，苏格兰经济领域发生亚当斯密国富论，对当时的经济生活产生了直接影响。",
         "latitude": 55.9,
         "longitude": -3.2,
         "category": "经济",
         "region": "苏格兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "美国独立",
+        "description": "公元1776年，在美国，美国独立。",
+        "latitude": 39.9,
+        "longitude": -75.2,
+        "category": "政治",
+        "region": "美国",
+        "continent": "北美洲"
       }
     ]
   },
@@ -3222,22 +3420,22 @@
     ],
     "events": [
       {
+        "title": "北极星报",
+        "description": "公元1777年，英格兰文化领域的重要事件——北极星报，成为这一时期的文化标志。",
+        "latitude": 51.5,
+        "longitude": -0.1,
+        "category": "文化",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
         "title": "萨拉托加战役",
-        "description": "美军在萨拉托加大捷鼓舞士气。",
+        "description": "公元1777年，美国爆发萨拉托加战役，战事在美国地区全面展开。",
         "latitude": 42.9,
         "longitude": -73.6,
         "category": "军事",
         "region": "美国",
         "continent": "北美洲"
-      },
-      {
-        "title": "北极星报",
-        "description": "期刊。",
-        "latitude": 51.5,
-        "longitude": -0.1,
-        "category": "媒体",
-        "region": "英格兰",
-        "continent": "欧洲"
       }
     ]
   },
@@ -3253,31 +3451,40 @@
     ],
     "events": [
       {
+        "title": "喀山大学",
+        "description": "公元1778年，在俄国，喀山大学。",
+        "latitude": 55.8,
+        "longitude": 49.0,
+        "category": "教育",
+        "region": "俄国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "库克到达夏威夷",
+        "description": "公元1778年，夏威夷在科技领域取得重要进展——库克到达夏威夷，推动了相关领域的进步。",
+        "latitude": 21.5,
+        "longitude": -158.0,
+        "category": "科技",
+        "region": "夏威夷",
+        "continent": "大洋洲"
+      },
+      {
         "title": "法国承认美国独立",
-        "description": "法国签约与美国同盟抗英。",
+        "description": "公元1778年，法国开展法国承认美国独立，体现了当时的国际关系格局。",
         "latitude": 48.9,
         "longitude": 2.3,
         "category": "外交",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "北美洲"
       },
       {
         "title": "法国美国同盟",
-        "description": "法助美。",
+        "description": "公元1778年，法国开展法国美国同盟，体现了当时的国际关系格局。",
         "latitude": 48.9,
         "longitude": 2.3,
         "category": "外交",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "北美洲"
-      },
-      {
-        "title": "喀山大学",
-        "description": "俄教育。",
-        "latitude": 55.8,
-        "longitude": 49.0,
-        "category": "教育",
-        "region": "俄罗斯",
-        "continent": "欧洲"
       }
     ]
   },
@@ -3293,22 +3500,22 @@
     ],
     "events": [
       {
+        "title": "英国工业革命棉纺",
+        "description": "公元1779年，英格兰爆发英国工业革命棉纺，动摇了既有统治秩序。",
+        "latitude": 53.0,
+        "longitude": -2.0,
+        "category": "经济",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
         "title": "西班牙参战反英",
-        "description": "西班牙加入北美独立战争抗英。",
+        "description": "公元1779年，在西班牙，西班牙参战反英。",
         "latitude": 40.4,
         "longitude": -3.7,
         "category": "军事",
         "region": "西班牙",
         "continent": "北美洲"
-      },
-      {
-        "title": "英国工业革命棉纺",
-        "description": "纱厂。",
-        "latitude": 53.0,
-        "longitude": -2.0,
-        "category": "工业",
-        "region": "英格兰",
-        "continent": "欧洲"
       }
     ]
   },
@@ -3325,16 +3532,16 @@
     "events": [
       {
         "title": "俄国武装中立联盟",
-        "description": "叶卡捷琳娜组织武装中立保护航运。",
+        "description": "公元1780年，俄国开展俄国武装中立联盟，体现了当时的国际关系格局。",
         "latitude": 55.8,
         "longitude": 37.6,
         "category": "外交",
-        "region": "俄罗斯",
+        "region": "俄国",
         "continent": "欧洲"
       },
       {
         "title": "欧洲儿童教育变革",
-        "description": "教育。",
+        "description": "公元1780年，欧洲儿童教育变革，欧洲的宗教发展进入新阶段。",
         "latitude": 48.0,
         "longitude": 2.0,
         "category": "教育",
@@ -3343,7 +3550,7 @@
       },
       {
         "title": "秘鲁印第安起义",
-        "description": "图帕克。",
+        "description": "公元1780年，秘鲁爆发秘鲁印第安起义，对当局造成了巨大冲击。",
         "latitude": -14.0,
         "longitude": -72.0,
         "category": "社会",
@@ -3364,8 +3571,26 @@
     ],
     "events": [
       {
+        "title": "康德《纯粹理性批判》",
+        "description": "公元1781年，普鲁士文化领域的重要事件——康德《纯粹理性批判》，成为这一时期的文化标志。",
+        "latitude": 54.71,
+        "longitude": 20.51,
+        "category": "文化",
+        "region": "普鲁士",
+        "continent": "欧洲"
+      },
+      {
+        "title": "星盘发明",
+        "description": "公元1781年，法国的科技发展取得重要进展，星盘发明推动了相关领域的技术进步。",
+        "latitude": 48.0,
+        "longitude": -4.0,
+        "category": "科技",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
         "title": "约克镇战役",
-        "description": "英军主力在约克镇投降。",
+        "description": "公元1781年，美国爆发约克镇战役，战事在美国地区全面展开。",
         "latitude": 37.2,
         "longitude": -76.5,
         "category": "军事",
@@ -3374,21 +3599,12 @@
       },
       {
         "title": "英军约克镇投降",
-        "description": "美胜。",
+        "description": "公元1781年，在美国，英军约克镇投降。",
         "latitude": 37.2,
         "longitude": -76.5,
         "category": "军事",
         "region": "美国",
         "continent": "北美洲"
-      },
-      {
-        "title": "星盘发明",
-        "description": "航海仪。",
-        "latitude": 48.0,
-        "longitude": -4.0,
-        "category": "科技",
-        "region": "法兰西",
-        "continent": "欧洲"
       }
     ]
   },
@@ -3404,22 +3620,22 @@
     ],
     "events": [
       {
-        "title": "荷兰承认美国独立",
-        "description": "荷兰是美国在欧洲最早承认的列强。",
-        "latitude": 52.4,
-        "longitude": 4.9,
-        "category": "外交",
-        "region": "美国",
-        "continent": "北美洲"
-      },
-      {
         "title": "暹罗却克里王朝",
-        "description": "拉玛一世。",
+        "description": "公元1782年，在暹罗，暹罗却克里王朝。",
         "latitude": 14.0,
         "longitude": 100.0,
         "category": "政治",
         "region": "暹罗",
         "continent": "亚洲"
+      },
+      {
+        "title": "荷兰承认美国独立",
+        "description": "公元1782年，美国开展荷兰承认美国独立，体现了当时的国际关系格局。",
+        "latitude": 52.4,
+        "longitude": 4.9,
+        "category": "外交",
+        "region": "美国",
+        "continent": "北美洲"
       }
     ]
   },
@@ -3436,7 +3652,7 @@
     "events": [
       {
         "title": "巴黎和约结束独立战争",
-        "description": "英国承认美国独立。",
+        "description": "公元1783年，美国爆发巴黎和约结束独立战争，战事在美国地区全面展开。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "外交",
@@ -3444,12 +3660,21 @@
         "continent": "北美洲"
       },
       {
+        "title": "拉瓦锡推翻燃素说",
+        "description": "公元1783年，法国的科技发展取得重要进展，拉瓦锡推翻燃素说推动了相关领域的技术进步。",
+        "latitude": 48.86,
+        "longitude": 2.35,
+        "category": "科技",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
         "title": "蒙特哥费尔热气球",
-        "description": "飞行。",
+        "description": "公元1783年，法国的科技发展取得重要进展，蒙特哥费尔热气球推动了相关领域的技术进步。",
         "latitude": 48.9,
         "longitude": 2.3,
         "category": "科技",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "欧洲"
       }
     ]
@@ -3466,8 +3691,17 @@
     ],
     "events": [
       {
+        "title": "北美西北领地",
+        "description": "公元1784年，在美国，北美西北领地。",
+        "latitude": 40.0,
+        "longitude": -85.0,
+        "category": "政治",
+        "region": "美国",
+        "continent": "北美洲"
+      },
+      {
         "title": "美国联邦条例",
-        "description": "美国在邦联时期逐步建立制度。",
+        "description": "公元1784年，在美国，美国联邦条例。",
         "latitude": 38.9,
         "longitude": -77.0,
         "category": "政治",
@@ -3476,21 +3710,12 @@
       },
       {
         "title": "英国水力纺纱机",
-        "description": "克朗普顿。",
+        "description": "公元1784年，英格兰经济领域发生英国水力纺纱机，对当时的经济生活产生了直接影响。",
         "latitude": 53.5,
         "longitude": -2.2,
-        "category": "工业",
+        "category": "经济",
         "region": "英格兰",
         "continent": "欧洲"
-      },
-      {
-        "title": "北美西北领地",
-        "description": "美国扩张。",
-        "latitude": 40.0,
-        "longitude": -85.0,
-        "category": "政治",
-        "region": "美国",
-        "continent": "北美洲"
       }
     ]
   },
@@ -3507,30 +3732,39 @@
     "events": [
       {
         "title": "俄国设黑海舰队",
-        "description": "俄国在黑海建设海军基地。",
+        "description": "公元1785年，在俄国，俄国设黑海舰队。",
         "latitude": 44.6,
         "longitude": 33.5,
         "category": "军事",
-        "region": "俄罗斯",
+        "region": "俄国",
         "continent": "欧洲"
       },
       {
-        "title": "英国铁桥",
-        "description": "第一铁桥。",
-        "latitude": 52.6,
-        "longitude": -2.5,
-        "category": "工程",
-        "region": "英格兰",
+        "title": "库仑定律",
+        "description": "公元1785年，法国的科技发展取得重要进展，库仑定律推动了相关领域的技术进步。",
+        "latitude": 48.86,
+        "longitude": 2.35,
+        "category": "科技",
+        "region": "法国",
         "continent": "欧洲"
       },
       {
         "title": "美国土地法令",
-        "description": "西部。",
+        "description": "公元1785年，在美国，美国土地法令。",
         "latitude": 38.9,
         "longitude": -77.0,
         "category": "法律",
         "region": "美国",
         "continent": "北美洲"
+      },
+      {
+        "title": "英国铁桥",
+        "description": "公元1785年，英格兰在科技领域取得重要进展——英国铁桥，推动了相关领域的进步。",
+        "latitude": 52.6,
+        "longitude": -2.5,
+        "category": "科技",
+        "region": "英格兰",
+        "continent": "欧洲"
       }
     ]
   },
@@ -3546,22 +3780,22 @@
     ],
     "events": [
       {
-        "title": "谢司起义",
-        "description": "马萨诸塞州农民起义抗税。",
-        "latitude": 42.4,
-        "longitude": -72.5,
-        "category": "社会",
-        "region": "美国",
-        "continent": "北美洲"
-      },
-      {
         "title": "普鲁士腓特烈大帝去世",
-        "description": "腓特烈死。",
+        "description": "公元1786年，普鲁士腓特烈大帝去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 52.5,
         "longitude": 13.0,
         "category": "政治",
         "region": "普鲁士",
         "continent": "欧洲"
+      },
+      {
+        "title": "谢司起义",
+        "description": "公元1786年，美国爆发谢司起义，对当局造成了巨大冲击。",
+        "latitude": 42.4,
+        "longitude": -72.5,
+        "category": "社会",
+        "region": "美国",
+        "continent": "北美洲"
       }
     ]
   },
@@ -3577,8 +3811,17 @@
     ],
     "events": [
       {
+        "title": "法国巴黎高等法院",
+        "description": "公元1787年，在法国，法国巴黎高等法院。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
         "title": "美国制宪会议",
-        "description": "美国各州代表在费城制定宪法。",
+        "description": "公元1787年，在美国，美国制宪会议。",
         "latitude": 39.9,
         "longitude": -75.2,
         "category": "政治",
@@ -3587,21 +3830,12 @@
       },
       {
         "title": "美国宪法制定",
-        "description": "费城会议。",
+        "description": "公元1787年，在美国，美国宪法制定。",
         "latitude": 39.9,
         "longitude": -75.2,
         "category": "法律",
         "region": "美国",
         "continent": "北美洲"
-      },
-      {
-        "title": "法国巴黎高等法院",
-        "description": "革命前。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "政治",
-        "region": "法兰西",
-        "continent": "欧洲"
       }
     ]
   },
@@ -3617,8 +3851,26 @@
     ],
     "events": [
       {
+        "title": "康德《实践理性批判》",
+        "description": "公元1788年，普鲁士文化领域的重要事件——康德《实践理性批判》，成为这一时期的文化标志。",
+        "latitude": 54.71,
+        "longitude": 20.51,
+        "category": "文化",
+        "region": "普鲁士",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法国财政危机",
+        "description": "公元1788年，法国经济领域发生法国财政危机，对当时的经济生活产生了直接影响。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "经济",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
         "title": "英国在澳洲流放罪犯",
-        "description": "英国首批罪犯流放悉尼。",
+        "description": "公元1788年，在英格兰，英国在澳洲流放罪犯。",
         "latitude": -33.9,
         "longitude": 151.2,
         "category": "政治",
@@ -3626,22 +3878,22 @@
         "continent": "大洋洲"
       },
       {
-        "title": "英国殖民澳洲",
-        "description": "悉尼流放。",
-        "latitude": -33.9,
-        "longitude": 151.2,
-        "category": "殖民",
-        "region": "英格兰",
+        "title": "英国殖民澳大利亚",
+        "description": "公元1788年，在澳大利亚，英国殖民澳大利亚。",
+        "latitude": -33.86,
+        "longitude": 151.21,
+        "category": "政治",
+        "region": "澳大利亚",
         "continent": "大洋洲"
       },
       {
-        "title": "法国财政危机",
-        "description": "革命前夕。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "经济",
-        "region": "法兰西",
-        "continent": "欧洲"
+        "title": "英国殖民澳洲",
+        "description": "公元1788年，在英格兰，英国殖民澳洲。",
+        "latitude": -33.9,
+        "longitude": 151.2,
+        "category": "政治",
+        "region": "英格兰",
+        "continent": "大洋洲"
       }
     ]
   },
@@ -3657,31 +3909,31 @@
     ],
     "events": [
       {
-        "title": "法国大革命爆发",
-        "description": "巴黎人民攻陷巴士底狱。",
+        "title": "法国三级会议",
+        "description": "公元1789年，在法国，法国三级会议。",
         "latitude": 48.9,
         "longitude": 2.3,
         "category": "政治",
-        "region": "法兰西",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法国大革命",
+        "description": "18世纪末法国的封建等级制度已经严重阻碍了社会的发展。全国居民被分为三个等级——教士属于第一等级贵族属于第二等级占人口百分之九十八的农民工匠和资产阶级属于第三等级。第三等级承担着全部的国家赋税却没有任何政治权利。1788年法国农业因自然灾害而歉收面包价格飞涨人民陷入饥荒。路易十六为征收新税被迫召开自1614年以来从未召开的三级会议。第三等级代表要求按人头计票并改革制度遭拒绝后自行宣布成立国民议会并在一处室内网球场发誓不制定出宪法绝不散会。路易十六表面上让步暗中集结军队准备武力镇压。1789年7月14日巴黎人民得知国王罢免了改革派大臣内克尔并调兵包围巴黎后自发武装起义攻占了巴士底狱——这座象征封建专制暴政的国家监狱拉下了法国大革命的帷幕。制宪议会随后颁布了《人权宣言》宣布人生而自由平等财产权不可侵犯主权在民法律面前人人平等。革命后的法国建立了君主立宪制后又废除了君主制成立了共和国。虽然革命过程中经历了恐怖统治和拿破仑军事独裁等曲折但自由民主平等的理念最终战胜了黑暗的旧制度为世界范围内的资产阶级革命树立了光辉的榜样。",
+        "latitude": 48.86,
+        "longitude": 2.35,
+        "category": "政治",
+        "region": "法国",
         "continent": "欧洲"
       },
       {
         "title": "美国联邦政府成立",
-        "description": "华盛顿就职。",
+        "description": "公元1789年，美国联邦政府成立，标志着新的政治实体在美国地区诞生。",
         "latitude": 40.7,
         "longitude": -74.0,
         "category": "政治",
         "region": "美国",
         "continent": "北美洲"
-      },
-      {
-        "title": "法国三级会议",
-        "description": "革命起点。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "政治",
-        "region": "法兰西",
-        "continent": "欧洲"
       }
     ]
   },
@@ -3698,7 +3950,7 @@
     "events": [
       {
         "title": "华盛顿就任首任美总统",
-        "description": "乔治·华盛顿就任第一任总统。",
+        "description": "公元1790年，在美国，华盛顿就任首任美总统。",
         "latitude": 40.7,
         "longitude": -74.0,
         "category": "政治",
@@ -3706,17 +3958,8 @@
         "continent": "北美洲"
       },
       {
-        "title": "欧洲浪漫主义",
-        "description": "浪漫。",
-        "latitude": 48.0,
-        "longitude": 2.0,
-        "category": "文学",
-        "region": "欧洲",
-        "continent": "欧洲"
-      },
-      {
         "title": "华盛顿特区建",
-        "description": "首都。",
+        "description": "公元1790年，在美国，华盛顿特区建。",
         "latitude": 38.9,
         "longitude": -77.0,
         "category": "政治",
@@ -3724,13 +3967,31 @@
         "continent": "北美洲"
       },
       {
+        "title": "欧洲浪漫主义",
+        "description": "公元1790年，欧洲文化领域的重要事件——欧洲浪漫主义，成为这一时期的文化标志。",
+        "latitude": 48.0,
+        "longitude": 2.0,
+        "category": "文学",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
         "title": "法国国民议会改革",
-        "description": "废封建。",
+        "description": "公元1790年，法国推行法国国民议会改革，对当地政治经济制度产生了深远影响。",
         "latitude": 48.9,
         "longitude": 2.3,
         "category": "政治",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "欧洲"
+      },
+      {
+        "title": "潘赫斯特号抵达诺福克岛",
+        "description": "公元1790年，在诺福克岛，潘赫斯特号抵达诺福克岛。",
+        "latitude": -29.03,
+        "longitude": 167.95,
+        "category": "政治",
+        "region": "诺福克岛",
+        "continent": "大洋洲"
       }
     ]
   },
@@ -3746,26 +4007,44 @@
     ],
     "events": [
       {
-        "title": "法国宪法颁布",
-        "description": "法国颁布君主立宪制宪法。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "政治",
-        "region": "法兰西",
-        "continent": "欧洲"
+        "title": "《红楼梦》刊行",
+        "description": "公元1791年，清朝文化领域的重要事件——《红楼梦》刊行，成为这一时期的文化标志。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "文学",
+        "region": "清朝",
+        "continent": "亚洲"
       },
       {
         "title": "法国1791宪法",
-        "description": "君主立宪。",
+        "description": "公元1791年，在法国，法国1791宪法。",
         "latitude": 48.9,
         "longitude": 2.3,
         "category": "法律",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "欧洲"
       },
       {
+        "title": "法国宪法颁布",
+        "description": "公元1791年，在法国，法国宪法颁布。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "美国权利法案通过",
+        "description": "公元1791年，在美国，美国权利法案通过。",
+        "latitude": 38.9,
+        "longitude": -77.04,
+        "category": "法律",
+        "region": "美国",
+        "continent": "北美洲"
+      },
+      {
         "title": "莫扎特去世",
-        "description": "安魂曲。",
+        "description": "公元1791年，莫扎特去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 52.0,
         "longitude": 0.0,
         "category": "音乐",
@@ -3787,25 +4066,25 @@
     "events": [
       {
         "title": "法国共和元年",
-        "description": "法国废除君主制建立共和国。",
+        "description": "公元1792年，在法国，法国共和元年。",
         "latitude": 48.9,
         "longitude": 2.3,
         "category": "政治",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "欧洲"
       },
       {
         "title": "法国第一共和国",
-        "description": "共和元年。",
+        "description": "公元1792年，在法国，法国第一共和国。",
         "latitude": 48.9,
         "longitude": 2.3,
         "category": "政治",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "欧洲"
       },
       {
         "title": "美国政党形成",
-        "description": "民主共和。",
+        "description": "公元1792年，在美国，美国政党形成。",
         "latitude": 38.9,
         "longitude": -77.0,
         "category": "政治",
@@ -3826,30 +4105,30 @@
     ],
     "events": [
       {
-        "title": "法王路易十六被处死",
-        "description": "法国国王被送上断头台。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "政治",
-        "region": "法兰西",
-        "continent": "欧洲"
-      },
-      {
-        "title": "路易十六上断头台",
-        "description": "法王死。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "政治",
-        "region": "法兰西",
-        "continent": "欧洲"
-      },
-      {
         "title": "英国第一次反法联盟",
-        "description": "反法。",
+        "description": "公元1793年，英格兰开展英国第一次反法联盟，体现了当时的国际关系格局。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "外交",
         "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "路易十六上断头台",
+        "description": "公元1793年，在法国，路易十六上断头台。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "路易十六被处死",
+        "description": "1792年法国大革命已经推翻了君主制成立了法兰西第一共和国。国王路易十六被关押在巴黎的坦普尔监狱中。国民公会在吉伦特派和山岳派的激烈辩论后决定审判路易十六。审判自12月11日开始持续了一个多月路易十六对各项指控进行了辩护。1793年1月15日国民公会以七百二十六票一致通过认定路易十六犯有叛国罪。次日以三百八十七票对三百三十四票的微弱多数通过了对路易十六执行死刑的判决。新上台的山岳派急于消灭君主制度的象征以免保皇党人有复辟的希望。1793年1月21日上午十时路易十六被押赴巴黎革命广场（今协和广场）。他发表了简短的讲话声称自己无罪原谅所有敌人并祈求上帝宽恕法国人民。随后他从容地将头放在断头台的砧板上沉重的铡刀落下断头台前响起了巨大欢呼声。路易十六的死讯传遍欧洲各国君主惊恐不已迅速组成了第一次反法同盟武装干涉法国革命。法国大革命从此进入了更加激进暴烈的雅各宾派专政时期。",
+        "latitude": 48.86,
+        "longitude": 2.35,
+        "category": "政治",
+        "region": "法国",
         "continent": "欧洲"
       }
     ]
@@ -3866,22 +4145,22 @@
     ],
     "events": [
       {
-        "title": "法国热月政变",
-        "description": "罗伯斯庇尔被推翻大恐怖结束。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "政治",
-        "region": "法兰西",
-        "continent": "欧洲"
-      },
-      {
         "title": "威士忌叛乱",
-        "description": "美国税。",
+        "description": "公元1794年，美国社会领域出现威士忌叛乱，反映了社会的发展变化。",
         "latitude": 40.0,
         "longitude": -80.0,
         "category": "社会",
         "region": "美国",
         "continent": "北美洲"
+      },
+      {
+        "title": "法国热月政变",
+        "description": "公元1794年，在法国，法国热月政变。",
+        "latitude": 48.9,
+        "longitude": 2.3,
+        "category": "政治",
+        "region": "法国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -3898,20 +4177,20 @@
     "events": [
       {
         "title": "法国督政成立",
-        "description": "法国督政开始统治。",
+        "description": "公元1795年，法国督政成立，标志着新的政治实体在法国地区诞生。",
         "latitude": 48.9,
         "longitude": 2.3,
         "category": "政治",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "欧洲"
       },
       {
         "title": "波兰第三次瓜分",
-        "description": "波兰亡。",
+        "description": "公元1795年，在俄国，波兰第三次瓜分。",
         "latitude": 52.2,
         "longitude": 21.0,
         "category": "政治",
-        "region": "俄罗斯",
+        "region": "俄国",
         "continent": "欧洲"
       }
     ]
@@ -3929,19 +4208,28 @@
     "events": [
       {
         "title": "拿破仑任意大利方面军司令",
-        "description": "拿破仑·波拿巴首次领军。",
+        "description": "公元1796年，在法国，拿破仑任意大利方面军司令。",
         "latitude": 43.8,
         "longitude": 11.3,
         "category": "军事",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "欧洲"
       },
       {
         "title": "英国詹纳种牛痘",
-        "description": "疫苗。",
+        "description": "公元1796年，英格兰文化领域的重要事件——英国詹纳种牛痘，成为这一时期的文化标志。",
         "latitude": 52.0,
         "longitude": -2.0,
-        "category": "医学",
+        "category": "文化",
+        "region": "英格兰",
+        "continent": "欧洲"
+      },
+      {
+        "title": "詹纳发明牛痘疫苗",
+        "description": "公元1796年，詹纳发明牛痘疫苗，这是人类在英格兰取得的重要科技成就。",
+        "latitude": 52.07,
+        "longitude": -2.17,
+        "category": "文化",
         "region": "英格兰",
         "continent": "欧洲"
       }
@@ -3960,16 +4248,16 @@
     "events": [
       {
         "title": "法国坎波福尔米奥和约",
-        "description": "拿破仑打败奥地利签订和约。",
+        "description": "公元1797年，法国坎波福尔米奥和约，该协议的签署影响了相关国家的关系格局。",
         "latitude": 45.5,
         "longitude": 12.0,
         "category": "外交",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "欧洲"
       },
       {
         "title": "英国海军纳尔逊",
-        "description": "纳尔逊。",
+        "description": "公元1797年，在英格兰，英国海军纳尔逊。",
         "latitude": 48.0,
         "longitude": -5.0,
         "category": "军事",
@@ -3991,28 +4279,28 @@
     "events": [
       {
         "title": "拿破仑远征埃及",
-        "description": "拿破仑率军远征埃及。",
+        "description": "公元1798年，在法国，拿破仑远征埃及。",
         "latitude": 30.0,
         "longitude": 31.0,
         "category": "军事",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "非洲"
       },
       {
         "title": "法国远征埃及",
-        "description": "拿破仑埃及。",
+        "description": "公元1798年，在法国，法国远征埃及。",
         "latitude": 30.0,
         "longitude": 31.0,
         "category": "军事",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "非洲"
       },
       {
         "title": "英国所得税",
-        "description": "战争税。",
+        "description": "公元1798年，英格兰经济领域发生英国所得税，对当时的经济生活产生了直接影响。",
         "latitude": 51.5,
         "longitude": -0.1,
-        "category": "金融",
+        "category": "经济",
         "region": "英格兰",
         "continent": "欧洲"
       }
@@ -4030,22 +4318,22 @@
     ],
     "events": [
       {
-        "title": "拿破仑发动雾月政变",
-        "description": "拿破仑推翻执政掌握法国权力。",
-        "latitude": 48.9,
-        "longitude": 2.3,
-        "category": "政治",
-        "region": "法兰西",
-        "continent": "欧洲"
-      },
-      {
         "title": "罗斯塔石碑发现",
-        "description": "象形文字。",
+        "description": "公元1799年，罗斯塔石碑发现，这是人类在法国取得的重要科技成就。",
         "latitude": 31.2,
         "longitude": 29.9,
-        "category": "考古",
-        "region": "法兰西",
+        "category": "文化",
+        "region": "法国",
         "continent": "非洲"
+      },
+      {
+        "title": "雾月政变",
+        "description": "公元1799年，在法国，雾月政变。",
+        "latitude": 48.86,
+        "longitude": 2.35,
+        "category": "政治",
+        "region": "法国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -4061,17 +4349,26 @@
     ],
     "events": [
       {
-        "title": "清朝白莲教起义",
-        "description": "清朝中期白莲教大规模起义。",
-        "latitude": 32.0,
-        "longitude": 110.0,
-        "category": "社会",
-        "region": "清",
-        "continent": "亚洲"
+        "title": "伏特发明电池",
+        "description": "公元1800年，意大利的科技发展取得重要进展，伏特发明电池推动了相关领域的技术进步。",
+        "latitude": 45.81,
+        "longitude": 9.08,
+        "category": "科技",
+        "region": "意大利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "意大利伏打电堆",
+        "description": "公元1800年，意大利的科技发展取得重要进展，意大利伏打电堆推动了相关领域的技术进步。",
+        "latitude": 45.0,
+        "longitude": 9.0,
+        "category": "科技",
+        "region": "意大利",
+        "continent": "欧洲"
       },
       {
         "title": "欧洲城市化",
-        "description": "城市。",
+        "description": "公元1800年，英格兰社会领域出现欧洲城市化，反映了社会的发展变化。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "社会",
@@ -4079,13 +4376,13 @@
         "continent": "欧洲"
       },
       {
-        "title": "意大利伏打电堆",
-        "description": "电池。",
-        "latitude": 45.0,
-        "longitude": 9.0,
-        "category": "科技",
-        "region": "意大利",
-        "continent": "欧洲"
+        "title": "清朝白莲教起义",
+        "description": "公元1800年，清爆发清朝白莲教起义，对当局造成了巨大冲击。",
+        "latitude": 32.0,
+        "longitude": 110.0,
+        "category": "社会",
+        "region": "清",
+        "continent": "亚洲"
       }
     ]
   }

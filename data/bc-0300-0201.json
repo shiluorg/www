@@ -11,17 +11,44 @@
     ],
     "events": [
       {
-        "title": "麦加斯梯尼出使印度",
-        "description": "塞琉古帝国派希腊学者麦加斯梯尼作为使者前往印度孔雀王朝，在首都华氏城觐见月护王。他后来撰写《印度志》一书，是西方了解印度的重要早期文献。",
-        "latitude": 25.6,
-        "longitude": 85.1,
-        "category": "外交",
-        "region": "孔雀王朝",
+        "title": "伊壁鸠鲁学派",
+        "description": "公元前300年在希腊的思想天空中出现了一颗明亮的星辰哲学思考是人类对宇宙人生根本问题的追问和探索。伟大的哲学思想总是回应着时代提出的深刻问题并为人们认识世界和改造世界提供方法论和价值观的指导。希腊的哲学智慧对后世产生了深远的影响。哲学思想的影响力不会局限于它产生的时代和地域伟大的哲学命题总是不断被后人重新思考和诠释。希腊的哲学贡献丰富了人类思想宝库。",
+        "latitude": 37.97,
+        "longitude": 23.72,
+        "category": "文化",
+        "region": "希腊",
+        "continent": "欧洲"
+      },
+      {
+        "title": "古希腊哲学家欧几里德",
+        "description": "公元前300年，希腊化世界的科技发展取得重要进展，古希腊哲学家欧几里德推动了相关领域的技术进步。",
+        "latitude": 31.2,
+        "longitude": 29.9,
+        "category": "科技",
+        "region": "希腊化世界",
+        "continent": "非洲"
+      },
+      {
+        "title": "希腊化王国竞争",
+        "description": "公元前300年，在希腊化世界，希腊化王国竞争。",
+        "latitude": 40.0,
+        "longitude": 35.0,
+        "category": "政治",
+        "region": "希腊化世界",
+        "continent": "亚洲"
+      },
+      {
+        "title": "帕拉瓦王国",
+        "description": "公元前300年，斯里兰卡地区的宗教领域发生重要事件——帕拉瓦王国，对信众的精神生活产生了深刻影响。",
+        "latitude": 8.35,
+        "longitude": 80.4,
+        "category": "宗教",
+        "region": "斯里兰卡",
         "continent": "亚洲"
       },
       {
         "title": "斯多葛学派创立",
-        "description": "腓尼基裔哲学家芝诺在雅典的斯多阿（彩色柱廊）讲学，创立斯多葛学派。该学派主张顺应自然、克制欲望、追求理性与德性，在希腊化时代和罗马时期影响深远。",
+        "description": "公元前300年，雅典地区的文化艺术领域取得了重要成就，斯多葛学派创立成为这一时期的文化代表。",
         "latitude": 37.9,
         "longitude": 23.7,
         "category": "文化",
@@ -30,7 +57,7 @@
       },
       {
         "title": "秦国商鞅变法成果",
-        "description": "商鞅变法使秦国国力远超六国。",
+        "description": "公元前300年，秦推行秦国商鞅变法成果，对当地政治经济制度产生了深远影响。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -38,17 +65,8 @@
         "continent": "亚洲"
       },
       {
-        "title": "希腊化王国竞争",
-        "description": "亚历山大后继诸王国进行领土争夺。",
-        "latitude": 40.0,
-        "longitude": 35.0,
-        "category": "政治",
-        "region": "希腊化世界",
-        "continent": "亚洲"
-      },
-      {
         "title": "罗马道路建设",
-        "description": "罗马共和国建造驶向意大利各地的道路。",
+        "description": "公元前300年，罗马共和国的科技发展取得重要进展，罗马道路建设推动了相关领域的技术进步。",
         "latitude": 41.5,
         "longitude": 13.0,
         "category": "科技",
@@ -56,22 +74,13 @@
         "continent": "欧洲"
       },
       {
-        "title": "印度贸易网络",
-        "description": "孔雀王朝促进南亚次大陆内部贸易。",
-        "latitude": 22.0,
-        "longitude": 78.0,
-        "category": "经济",
+        "title": "麦加斯梯尼出使印度",
+        "description": "公元前300年，孔雀王朝开展麦加斯梯尼出使印度，体现了当时的国际关系格局。",
+        "latitude": 25.6,
+        "longitude": 85.1,
+        "category": "外交",
         "region": "孔雀王朝",
         "continent": "亚洲"
-      },
-      {
-        "title": "古希腊哲学家欧几里德",
-        "description": "欧几里德著《几何原本》成为经典。",
-        "latitude": 31.2,
-        "longitude": 29.9,
-        "category": "科技",
-        "region": "希腊化世界",
-        "continent": "非洲"
       }
     ]
   },
@@ -87,31 +96,31 @@
     ],
     "events": [
       {
-        "title": "齐楚韩魏攻秦",
-        "description": "齐湣王联合楚、韩、魏三国合纵攻秦，联军攻至函谷关。秦被迫割地求和，退还侵占魏国和韩国的一部分领土。这是战国后期最大规模的合纵行动之一。",
-        "latitude": 34.5,
-        "longitude": 110.0,
-        "category": "军事",
+        "title": "张仪连横破纵",
+        "description": "公元前299年，在秦国，张仪连横破纵。",
+        "latitude": 34.3,
+        "longitude": 108.7,
+        "category": "政治",
         "region": "秦国",
         "continent": "亚洲"
       },
       {
-        "title": "希腊化文化交流",
-        "description": "希腊文化在东方诸国广泛传播。",
-        "latitude": 35.0,
-        "longitude": 35.0,
-        "category": "文化",
-        "region": "希腊化世界",
-        "continent": "亚洲"
-      },
-      {
         "title": "罗马与萨莫奈人和约",
-        "description": "罗马与萨莫奈人停战。",
+        "description": "公元前299年，罗马与萨莫奈人和约，该协议的签署影响了相关国家的关系格局。",
         "latitude": 41.5,
         "longitude": 14.5,
         "category": "外交",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "齐楚韩魏攻秦",
+        "description": "公元前299年，在秦国，齐楚韩魏攻秦。",
+        "latitude": 34.5,
+        "longitude": 110.0,
+        "category": "军事",
+        "region": "秦国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -127,22 +136,22 @@
     ],
     "events": [
       {
-        "title": "第三次萨莫奈战争爆发",
-        "description": "罗马与萨莫奈人之间的第三次萨莫奈战争爆发。萨莫奈人联合高卢人和伊特鲁里亚人组成反罗马联盟，试图阻止罗马在意大利中部的扩张。",
-        "latitude": 41.5,
-        "longitude": 14.0,
-        "category": "军事",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
         "title": "孔雀王朝统治印度",
-        "description": "孔雀王朝在阿育王治理下达到鼎盛。",
+        "description": "公元前298年，在孔雀王朝，孔雀王朝统治印度。",
         "latitude": 22.0,
         "longitude": 78.0,
         "category": "政治",
         "region": "孔雀王朝",
         "continent": "亚洲"
+      },
+      {
+        "title": "第三次萨莫奈战争爆发",
+        "description": "公元前298年，罗马共和国爆发第三次萨莫奈战争爆发，战事在罗马共和国地区全面展开。",
+        "latitude": 41.5,
+        "longitude": 14.0,
+        "category": "军事",
+        "region": "罗马共和国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -159,7 +168,7 @@
     "events": [
       {
         "title": "塞琉古一世巩固帝国",
-        "description": "塞琉古一世在安条克建立新都，巩固塞琉古帝国在叙利亚和小亚细亚的统治。",
+        "description": "公元前297年，在塞琉古帝国，塞琉古一世巩固帝国。",
         "latitude": 36.2,
         "longitude": 36.8,
         "category": "政治",
@@ -181,7 +190,7 @@
     "events": [
       {
         "title": "罗马征服意大利中部",
-        "description": "罗马共和国在意大利中部击败萨莫奈人和伊特鲁里亚人，巩固在意大利半岛的霸权。",
+        "description": "公元前296年，罗马征服意大利中部，罗马共和国的军事力量向目标地区推进。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "军事",
@@ -202,21 +211,21 @@
     ],
     "events": [
       {
-        "title": "森提努姆战役",
-        "description": "罗马军队在执政官德西乌斯·穆斯的率领下在森提努姆击败萨莫奈-高卢-伊特鲁里亚联军。德西乌斯·穆斯在战斗中献身祭神。此战是罗马征服意大利最具决定性的战役之一。",
-        "latitude": 43.5,
-        "longitude": 12.8,
-        "category": "军事",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
         "title": "希腊化时代艺术",
-        "description": "希腊化艺术在亚历山大帝国后继国家中得到发展。",
+        "description": "公元前295年，希腊化世界地区的文化艺术领域取得了重要成就，希腊化时代艺术成为这一时期的文化代表。",
         "latitude": 38.0,
         "longitude": 27.0,
         "category": "文化",
         "region": "希腊化世界",
+        "continent": "欧洲"
+      },
+      {
+        "title": "森提努姆战役",
+        "description": "公元前295年，罗马共和国地区爆发森提努姆战役，交战双方为争夺战略要地展开激烈战斗。",
+        "latitude": 43.5,
+        "longitude": 12.8,
+        "category": "军事",
+        "region": "罗马共和国",
         "continent": "欧洲"
       }
     ]
@@ -233,8 +242,17 @@
     ],
     "events": [
       {
+        "title": "凯尔特人文化",
+        "description": "公元前294年，凯尔特人地区的文化艺术领域取得了重要成就，凯尔特人文化成为这一时期的文化代表。",
+        "latitude": 48.0,
+        "longitude": 6.0,
+        "category": "文化",
+        "region": "凯尔特人",
+        "continent": "欧洲"
+      },
+      {
         "title": "德米特里一世称王马其顿",
-        "description": "德米特里一世在马其顿称王，继续推行希腊化扩张政策。",
+        "description": "公元前294年，在马其顿王国，德米特里一世称王马其顿。",
         "latitude": 40.6,
         "longitude": 22.9,
         "category": "政治",
@@ -243,20 +261,11 @@
       },
       {
         "title": "罗马与迦太基争夺西西里",
-        "description": "第一次布匿战争爆发，罗马与迦太基争夺地中海霸权。",
+        "description": "公元前294年，在罗马共和国，罗马与迦太基争夺西西里。",
         "latitude": 37.0,
         "longitude": 14.0,
         "category": "军事",
         "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
-        "title": "凯尔特人文化",
-        "description": "凯尔特部落在中欧西欧发展独特铁器文化。",
-        "latitude": 48.0,
-        "longitude": 6.0,
-        "category": "文化",
-        "region": "凯尔特人",
         "continent": "欧洲"
       }
     ]
@@ -274,7 +283,7 @@
     "events": [
       {
         "title": "伊阙之战",
-        "description": "秦国名将白起在伊阙（今洛阳龙门）大败韩、魏联军。白起采用避实击虚战术，先击溃较弱的魏军再围歼韩军，歼灭联军二十四万人。韩、魏元气大伤，秦国东进道路畅通无阻。",
+        "description": "公元前293年，秦国爆发伊阙之战，战事在秦国地区全面展开。",
         "latitude": 34.5,
         "longitude": 112.5,
         "category": "军事",
@@ -283,7 +292,7 @@
       },
       {
         "title": "罗马殖民扩土",
-        "description": "罗马在意大利中部建殖民地。",
+        "description": "公元前293年，在罗马共和国，罗马殖民扩土。",
         "latitude": 42.0,
         "longitude": 13.0,
         "category": "政治",
@@ -304,8 +313,17 @@
     ],
     "events": [
       {
+        "title": "德米特里称王马其顿",
+        "description": "公元前292年，在马其顿王国，德米特里称王马其顿。",
+        "latitude": 40.5,
+        "longitude": 23.0,
+        "category": "政治",
+        "region": "马其顿王国",
+        "continent": "欧洲"
+      },
+      {
         "title": "托勒密一世巩固埃及",
-        "description": "托勒密一世巩固在埃及的统治，建设亚历山大城，发展文化事业。",
+        "description": "公元前292年，在托勒密埃及，托勒密一世巩固埃及。",
         "latitude": 31.2,
         "longitude": 29.9,
         "category": "政治",
@@ -314,21 +332,12 @@
       },
       {
         "title": "秦国崛起与统一",
-        "description": "秦国通过商鞅变法逐步强大。",
+        "description": "公元前292年，在秦，秦国崛起与统一。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
         "region": "秦",
         "continent": "亚洲"
-      },
-      {
-        "title": "德米特里称王马其顿",
-        "description": "德米特里一世在马其顿称王。",
-        "latitude": 40.5,
-        "longitude": 23.0,
-        "category": "政治",
-        "region": "马其顿王国",
-        "continent": "欧洲"
       }
     ]
   },
@@ -345,7 +354,7 @@
     "events": [
       {
         "title": "印度孔雀王朝扩张",
-        "description": "印度孔雀王朝在宾头娑罗王统治下继续向南扩张，控制印度次大陆大部地区。",
+        "description": "公元前291年，在孔雀王朝，印度孔雀王朝扩张。",
         "latitude": 22.0,
         "longitude": 78.0,
         "category": "军事",
@@ -354,7 +363,7 @@
       },
       {
         "title": "马其顿统治希腊",
-        "description": "德米特里控制雅典。",
+        "description": "公元前291年，在马其顿王国，马其顿统治希腊。",
         "latitude": 38.0,
         "longitude": 23.7,
         "category": "政治",
@@ -375,22 +384,22 @@
     ],
     "events": [
       {
-        "title": "第三次萨莫奈战争结束",
-        "description": "罗马彻底击败萨莫奈人，第三次萨莫奈战争结束。萨莫奈人被迫与罗马签订同盟条约，丧失独立地位。罗马基本完成了对意大利中部的征服。",
-        "latitude": 41.5,
-        "longitude": 14.0,
-        "category": "军事",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
         "title": "托勒密埃及文化",
-        "description": "亚历山大博物馆学术兴盛。",
+        "description": "公元前290年，托勒密埃及地区的文化艺术领域取得了重要成就，托勒密埃及文化成为这一时期的文化代表。",
         "latitude": 31.2,
         "longitude": 29.9,
         "category": "文化",
         "region": "托勒密埃及",
         "continent": "非洲"
+      },
+      {
+        "title": "第三次萨莫奈战争结束",
+        "description": "公元前290年，罗马共和国爆发第三次萨莫奈战争结束，战事在罗马共和国地区全面展开。",
+        "latitude": 41.5,
+        "longitude": 14.0,
+        "category": "军事",
+        "region": "罗马共和国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -404,26 +413,7 @@
         "era": ""
       }
     ],
-    "events": [
-      {
-        "title": "墨翟学派发展",
-        "description": "战国时期墨家学派在宋国和楚国一带广泛传播，提倡兼爱非攻。",
-        "latitude": 34.0,
-        "longitude": 115.0,
-        "category": "文化",
-        "region": "战国",
-        "continent": "亚洲"
-      },
-      {
-        "title": "希腊哲学流派发展",
-        "description": "伊壁鸠鲁学派和斯多葛学派盛行。",
-        "latitude": 38.0,
-        "longitude": 23.7,
-        "category": "文化",
-        "region": "古希腊",
-        "continent": "欧洲"
-      }
-    ]
+    "events": []
   },
   {
     "year": -288,
@@ -438,7 +428,7 @@
     "events": [
       {
         "title": "秦昭襄王称西帝",
-        "description": "秦昭襄王与齐湣王相约称帝，秦为西帝齐为东帝，后因各国反对取消。",
+        "description": "公元前288年，在秦，秦昭襄王称西帝。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -447,7 +437,7 @@
       },
       {
         "title": "罗马设高卢防御",
-        "description": "罗马在高卢边境防御。",
+        "description": "公元前288年，在罗马共和国，罗马设高卢防御。",
         "latitude": 43.5,
         "longitude": 11.5,
         "category": "军事",
@@ -469,7 +459,7 @@
     "events": [
       {
         "title": "罗马《霍滕修斯法》",
-        "description": "罗马通过《霍滕修斯法》，规定平民会议（部落会议）的决议无需元老院批准即对全体罗马公民具有法律效力。这标志着罗马平民与贵族长达两个世纪的政治斗争以平民的胜利告终。",
+        "description": "公元前287年，在罗马共和国，罗马《霍滕修斯法》。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -478,7 +468,7 @@
       },
       {
         "title": "罗马赫塔尔法",
-        "description": "罗马法规定公民大会立法权。",
+        "description": "公元前287年，在罗马共和国，罗马赫塔尔法。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -499,21 +489,21 @@
     ],
     "events": [
       {
-        "title": "罗马通过奥古尔尼法",
-        "description": "罗马通过《奥古尔尼法》，允许平民担任原本由贵族独占的祭司职位。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "政治",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
         "title": "伊庇鲁斯皮洛士入侵意大利",
-        "description": "皮洛士率军助塔兰托抗罗马。",
+        "description": "公元前286年，在伊庇鲁斯，伊庇鲁斯皮洛士入侵意大利。",
         "latitude": 40.5,
         "longitude": 17.5,
         "category": "军事",
         "region": "伊庇鲁斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "罗马通过奥古尔尼法",
+        "description": "公元前286年，在罗马共和国，罗马通过奥古尔尼法。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马共和国",
         "continent": "欧洲"
       }
     ]
@@ -531,7 +521,7 @@
     "events": [
       {
         "title": "托勒密一世去世",
-        "description": "埃及托勒密王朝开国君主托勒密一世在亚历山大城去世，享年约八十二岁。他是亚历山大大帝的部将，建立托勒密王朝，在亚历山大城建立了图书馆和博物馆，使埃及成为希腊化文化的中心。",
+        "description": "公元前285年，托勒密一世去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 31.2,
         "longitude": 29.9,
         "category": "政治",
@@ -553,7 +543,7 @@
     "events": [
       {
         "title": "乐毅伐齐",
-        "description": "燕昭王以乐毅为上将军，联合赵、魏、韩、楚、秦五国大举伐齐。乐毅率联军在济西大败齐军主将，随即攻破齐都临淄，半年内攻下齐国七十余城，仅剩即墨和莒城未被攻陷。",
+        "description": "公元前284年，在燕国，乐毅伐齐。",
         "latitude": 36.0,
         "longitude": 117.0,
         "category": "军事",
@@ -575,7 +565,7 @@
     "events": [
       {
         "title": "田单即墨坚守",
-        "description": "齐将田单在即墨城率军民坚守抗燕。他团结将士、激励士气，与乐毅对峙长达数年。燕昭王去世后继位的燕惠王听信谗言，以骑劫取代乐毅。",
+        "description": "公元前283年，在齐国，田单即墨坚守。",
         "latitude": 36.4,
         "longitude": 120.3,
         "category": "军事",
@@ -584,7 +574,7 @@
       },
       {
         "title": "罗马与伊庇鲁斯继续战争",
-        "description": "双方在意大利持续交兵。",
+        "description": "公元前283年，罗马共和国发生罗马与伊庇鲁斯继续战争，对当地军事格局产生了重要影响。",
         "latitude": 41.0,
         "longitude": 16.0,
         "category": "军事",
@@ -606,7 +596,7 @@
     "events": [
       {
         "title": "托勒密二世即位",
-        "description": "托勒密二世·费拉德尔甫斯即位，埃及进入文化繁荣时期，亚历山大图书馆兴盛。",
+        "description": "公元前282年，托勒密二世即位，开启了新的统治时期。",
         "latitude": 31.2,
         "longitude": 29.9,
         "category": "文化",
@@ -615,7 +605,7 @@
       },
       {
         "title": "本都王国兴起",
-        "description": "本都王国在小亚细亚发展。",
+        "description": "公元前282年，在本都王国，本都王国兴起。",
         "latitude": 41.5,
         "longitude": 35.0,
         "category": "政治",
@@ -636,22 +626,22 @@
     ],
     "events": [
       {
-        "title": "皮洛士战争爆发",
-        "description": "希腊伊庇鲁斯国王皮洛士应意大利南部希腊城邦塔林敦的请求，率约两万五千名士兵和二十头战象渡海进入意大利，与罗马共和国开战。皮洛士是当时公认的军事天才。",
-        "latitude": 40.5,
-        "longitude": 17.2,
-        "category": "军事",
-        "region": "伊庇鲁斯",
-        "continent": "欧洲"
-      },
-      {
         "title": "塞琉古一世被刺",
-        "description": "塞琉古帝国开创者被杀。",
+        "description": "公元前281年，在塞琉古帝国，塞琉古一世被刺。",
         "latitude": 35.0,
         "longitude": 37.5,
         "category": "政治",
         "region": "塞琉古帝国",
         "continent": "亚洲"
+      },
+      {
+        "title": "皮洛士战争爆发",
+        "description": "公元前281年，伊庇鲁斯爆发了皮洛士战争爆发，这场战争对地区格局产生了深远影响。",
+        "latitude": 40.5,
+        "longitude": 17.2,
+        "category": "军事",
+        "region": "伊庇鲁斯",
+        "continent": "欧洲"
       }
     ]
   },
@@ -667,17 +657,17 @@
     ],
     "events": [
       {
-        "title": "赫拉克利亚战役",
-        "description": "皮洛士在赫拉克利亚与罗马军队交战。他利用战象冲击罗马骑兵阵线，经过苦战后击败罗马军。但皮洛士自身也损失惨重，感叹'再这样胜利一次，我就没有军队了'——'皮洛士式胜利'典故由此而来。",
-        "latitude": 40.2,
-        "longitude": 16.7,
+        "title": "伊庇鲁斯皮洛士退兵",
+        "description": "公元前280年，伊庇鲁斯发生伊庇鲁斯皮洛士退兵，对当地军事格局产生了重要影响。",
+        "latitude": 40.5,
+        "longitude": 17.5,
         "category": "军事",
         "region": "伊庇鲁斯",
         "continent": "欧洲"
       },
       {
         "title": "田单火牛阵复国",
-        "description": "齐将田单在即墨以火牛阵大败燕军。他在一千多头牛角上绑利刃、牛尾缚浸油芦苇，夜间点燃使牛群冲向燕军，五千精兵随后掩杀。燕军大败，齐军乘胜收复全部失地。田单迎齐襄王回临淄。",
+        "description": "公元前280年，在齐国，田单火牛阵复国。",
         "latitude": 36.4,
         "longitude": 120.3,
         "category": "军事",
@@ -685,10 +675,10 @@
         "continent": "亚洲"
       },
       {
-        "title": "伊庇鲁斯皮洛士退兵",
-        "description": "皮洛士离开意大利。",
-        "latitude": 40.5,
-        "longitude": 17.5,
+        "title": "赫拉克利亚战役",
+        "description": "公元前280年，伊庇鲁斯爆发赫拉克利亚战役，战事在伊庇鲁斯地区全面展开。",
+        "latitude": 40.2,
+        "longitude": 16.7,
         "category": "军事",
         "region": "伊庇鲁斯",
         "continent": "欧洲"
@@ -708,7 +698,7 @@
     "events": [
       {
         "title": "阿斯库卢姆战役",
-        "description": "皮洛士在阿斯库卢姆再次击败罗马军队。罗马军改进了对付战象的战术，使用火焰和长矛攻击战象。皮洛士虽胜但损失三千五百名精锐，又一次'皮洛士式胜利'。",
+        "description": "公元前279年，伊庇鲁斯爆发阿斯库卢姆战役，战事在伊庇鲁斯地区全面展开。",
         "latitude": 41.2,
         "longitude": 15.7,
         "category": "军事",
@@ -717,7 +707,7 @@
       },
       {
         "title": "高卢人入侵巴尔干",
-        "description": "凯尔特人劫掠德尔斐。",
+        "description": "公元前279年，在凯尔特人，高卢人入侵巴尔干。",
         "latitude": 38.5,
         "longitude": 22.5,
         "category": "军事",
@@ -738,17 +728,17 @@
     ],
     "events": [
       {
-        "title": "皮洛士转战西西里",
-        "description": "皮洛士应西西里希腊城邦邀请前往西西里，与迦太基人作战。他曾在西西里取得一系列胜利，但因其专横作风失去了希腊人的支持。",
-        "latitude": 37.5,
-        "longitude": 13.5,
-        "category": "军事",
-        "region": "伊庇鲁斯",
-        "continent": "欧洲"
+        "title": "屈原投江",
+        "description": "公元前278年，楚国文化领域的重要事件——屈原投江，成为这一时期的文化标志。",
+        "latitude": 28.8,
+        "longitude": 112.9,
+        "category": "文学",
+        "region": "楚国",
+        "continent": "亚洲"
       },
       {
         "title": "屈原投汨罗江",
-        "description": "楚国伟大诗人屈原在秦将白起攻破郢都后，悲愤绝望，在农历五月初五投汨罗江自尽。屈原开创了'楚辞'文体，代表作《离骚》是中国古代最长的抒情诗，对后世文学影响深远。",
+        "description": "公元前278年，楚国地区的文化艺术领域取得了重要成就，屈原投汨罗江成为这一时期的文化代表。",
         "latitude": 28.8,
         "longitude": 112.9,
         "category": "文化",
@@ -757,12 +747,21 @@
       },
       {
         "title": "白起攻破郢都",
-        "description": "秦国名将白起率军攻破楚国都城郢（今湖北荆州），火烧楚国先王陵墓夷陵。楚顷襄王被迫迁都至陈（今河南淮阳），楚国从此一蹶不振。",
+        "description": "公元前278年，在秦国，白起攻破郢都。",
         "latitude": 30.3,
         "longitude": 112.2,
         "category": "军事",
         "region": "秦国",
         "continent": "亚洲"
+      },
+      {
+        "title": "皮洛士转战西西里",
+        "description": "公元前278年，在伊庇鲁斯，皮洛士转战西西里。",
+        "latitude": 37.5,
+        "longitude": 13.5,
+        "category": "军事",
+        "region": "伊庇鲁斯",
+        "continent": "欧洲"
       }
     ]
   },
@@ -779,7 +778,7 @@
     "events": [
       {
         "title": "皮洛士战争结束",
-        "description": "伊庇鲁斯国王皮洛士撤离意大利，罗马完全控制大希腊地区。",
+        "description": "公元前277年，罗马共和国爆发皮洛士战争结束，战事在罗马共和国地区全面展开。",
         "latitude": 37.5,
         "longitude": 15.0,
         "category": "军事",
@@ -788,7 +787,7 @@
       },
       {
         "title": "罗马完全控制意大利南部",
-        "description": "他林敦归降罗马。",
+        "description": "公元前277年，在罗马共和国，罗马完全控制意大利南部。",
         "latitude": 40.5,
         "longitude": 17.5,
         "category": "军事",
@@ -810,7 +809,7 @@
     "events": [
       {
         "title": "安条克一世即位",
-        "description": "安条克一世·索特尔继承塞琉古帝国王位，应对高卢人入侵小亚细亚的威胁。",
+        "description": "公元前276年，安条克一世即位，开启了新的统治时期。",
         "latitude": 33.5,
         "longitude": 36.3,
         "category": "政治",
@@ -818,21 +817,21 @@
         "continent": "亚洲"
       },
       {
-        "title": "高卢人入侵小亚细亚",
-        "description": "高卢人部落迁徙至小亚细亚中部，建立加拉太地区，不断侵扰希腊化城市。",
-        "latitude": 39.0,
-        "longitude": 33.0,
-        "category": "军事",
-        "region": "加拉太",
-        "continent": "欧洲"
-      },
-      {
         "title": "皮洛士返意大利再战",
-        "description": "皮洛士再返意大利攻势失利。",
+        "description": "公元前276年，在伊庇鲁斯，皮洛士返意大利再战。",
         "latitude": 41.0,
         "longitude": 16.0,
         "category": "军事",
         "region": "伊庇鲁斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "高卢人入侵小亚细亚",
+        "description": "公元前276年，在加拉太，高卢人入侵小亚细亚。",
+        "latitude": 39.0,
+        "longitude": 33.0,
+        "category": "军事",
+        "region": "加拉太",
         "continent": "欧洲"
       }
     ]
@@ -850,7 +849,7 @@
     "events": [
       {
         "title": "贝内文图姆战役",
-        "description": "皮洛士在贝内文图姆被罗马军队击败，被迫撤离意大利返回伊庇鲁斯。罗马拒绝了皮洛士的和平建议，坚持战斗到底。此战标志着罗马彻底确立了在意大利的霸权。",
+        "description": "公元前275年，罗马共和国地区爆发贝内文图姆战役，交战双方为争夺战略要地展开激烈战斗。",
         "latitude": 41.1,
         "longitude": 14.8,
         "category": "军事",
@@ -871,21 +870,21 @@
     ],
     "events": [
       {
-        "title": "第一次叙利亚战争爆发",
-        "description": "托勒密埃及与塞琉古帝国为争夺叙利亚南部爆发第一次叙利亚战争。",
-        "latitude": 33.0,
-        "longitude": 36.0,
-        "category": "军事",
-        "region": "东地中海",
-        "continent": "亚洲"
-      },
-      {
         "title": "托勒密二世与塞琉古战争",
-        "description": "第一次叙利亚战争。",
+        "description": "公元前274年，托勒密埃及爆发托勒密二世与塞琉古战争，战事在托勒密埃及地区全面展开。",
         "latitude": 33.0,
         "longitude": 36.0,
         "category": "军事",
         "region": "托勒密埃及",
+        "continent": "亚洲"
+      },
+      {
+        "title": "第一次叙利亚战争爆发",
+        "description": "公元前274年，东地中海爆发第一次叙利亚战争爆发，战事在东地中海地区全面展开。",
+        "latitude": 33.0,
+        "longitude": 36.0,
+        "category": "军事",
+        "region": "东地中海",
         "continent": "亚洲"
       }
     ]
@@ -902,22 +901,22 @@
     ],
     "events": [
       {
-        "title": "罗马与托勒密埃及建交",
-        "description": "罗马共和国派遣使团访问亚历山大城，与托勒密二世建立外交关系。",
-        "latitude": 31.2,
-        "longitude": 29.9,
-        "category": "外交",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
         "title": "楚考烈王即位，春申君辅政",
-        "description": "楚考烈王即位，任用春申君黄歇为令尹，战国四公子之一的春申君辅佐楚国复兴。",
+        "description": "公元前273年，楚考烈王即位，春申君辅政，开启了新的统治时期。",
         "latitude": 30.6,
         "longitude": 114.3,
         "category": "政治",
         "region": "楚",
         "continent": "亚洲"
+      },
+      {
+        "title": "罗马与托勒密埃及建交",
+        "description": "公元前273年，罗马共和国开展罗马与托勒密埃及建交，体现了当时的国际关系格局。",
+        "latitude": 31.2,
+        "longitude": 29.9,
+        "category": "外交",
+        "region": "罗马共和国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -934,7 +933,7 @@
     "events": [
       {
         "title": "皮洛士之死与塔林敦投降",
-        "description": "皮洛士在远征伯罗奔尼撒时进攻阿尔戈斯城，在巷战中被一名老妇扔下的瓦片砸中头部坠马而死。塔林敦随后向罗马投降，罗马完成了对整个意大利半岛南部的征服。",
+        "description": "公元前272年，在罗马共和国，皮洛士之死与塔林敦投降。",
         "latitude": 37.6,
         "longitude": 22.8,
         "category": "军事",
@@ -943,12 +942,21 @@
       },
       {
         "title": "罗马征服意大利南部",
-        "description": "意大利半岛全部归罗马。",
+        "description": "公元前272年，在罗马共和国，罗马征服意大利南部。",
         "latitude": 40.5,
         "longitude": 17.5,
         "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "阿育王即位",
+        "description": "公元前272年，阿育王即位，开启了新的统治时期。",
+        "latitude": 25.6,
+        "longitude": 85.1,
+        "category": "宗教",
+        "region": "孔雀帝国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -964,21 +972,21 @@
     ],
     "events": [
       {
-        "title": "罗马征服萨莫奈",
-        "description": "罗马共和国彻底征服萨莫奈人，巩固在意大利中部的统治。",
-        "latitude": 41.5,
-        "longitude": 14.5,
-        "category": "军事",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
         "title": "伊庇鲁斯王国衰落",
-        "description": "皮洛士去世伊庇鲁斯衰。",
+        "description": "公元前271年，在伊庇鲁斯，伊庇鲁斯王国衰落。",
         "latitude": 39.5,
         "longitude": 20.5,
         "category": "政治",
         "region": "伊庇鲁斯",
+        "continent": "欧洲"
+      },
+      {
+        "title": "罗马征服萨莫奈",
+        "description": "公元前271年，在罗马共和国，罗马征服萨莫奈。",
+        "latitude": 41.5,
+        "longitude": 14.5,
+        "category": "军事",
+        "region": "罗马共和国",
         "continent": "欧洲"
       }
     ]
@@ -996,7 +1004,7 @@
     "events": [
       {
         "title": "希耶罗二世统治叙拉古",
-        "description": "叙拉古僭主希耶罗二世巩固政权，与罗马建立友好关系。他在位期间叙拉古保持和平繁荣，成为西西里最强大的希腊城邦，阿基米德是其宫廷科学家。",
+        "description": "公元前270年，在叙拉古，希耶罗二世统治叙拉古。",
         "latitude": 37.1,
         "longitude": 15.3,
         "category": "政治",
@@ -1005,7 +1013,7 @@
       },
       {
         "title": "罗马币制改革",
-        "description": "罗马铸造钱币。",
+        "description": "公元前270年，罗马共和国推行罗马币制改革，对当地政治经济制度产生了深远影响。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "经济",
@@ -1026,22 +1034,22 @@
     ],
     "events": [
       {
-        "title": "阿育王继位",
-        "description": "印度孔雀王朝瓶头王逝世，其子阿育王继位。阿育王在位初期推行扩张政策，向南印度大规模征伐，使孔雀王朝进入鼎盛时期。",
-        "latitude": 25.6,
-        "longitude": 85.1,
-        "category": "政治",
-        "region": "孔雀王朝",
-        "continent": "亚洲"
-      },
-      {
         "title": "意大利同盟体系",
-        "description": "罗马与意大利同盟形成。",
+        "description": "公元前269年，在罗马共和国，意大利同盟体系。",
         "latitude": 42.0,
         "longitude": 13.0,
         "category": "政治",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "阿育王继位",
+        "description": "公元前269年，阿育王继位，开启了新的统治时期。",
+        "latitude": 25.6,
+        "longitude": 85.1,
+        "category": "政治",
+        "region": "孔雀王朝",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1057,20 +1065,20 @@
     ],
     "events": [
       {
-        "title": "罗马铸造银币",
-        "description": "罗马共和国开始铸造标准银币第纳尔，推动地中海贸易发展。",
-        "latitude": 41.9,
+        "title": "罗马殖民里米尼",
+        "description": "公元前268年，在罗马共和国，罗马殖民里米尼。",
+        "latitude": 44.0,
         "longitude": 12.5,
-        "category": "经济",
+        "category": "政治",
         "region": "罗马共和国",
         "continent": "欧洲"
       },
       {
-        "title": "罗马殖民里米尼",
-        "description": "罗马在意大利北部建殖民地。",
-        "latitude": 44.0,
+        "title": "罗马铸造银币",
+        "description": "公元前268年，罗马共和国经济领域发生罗马铸造银币，对当时的经济生活产生了直接影响。",
+        "latitude": 41.9,
         "longitude": 12.5,
-        "category": "政治",
+        "category": "经济",
         "region": "罗马共和国",
         "continent": "欧洲"
       }
@@ -1089,7 +1097,7 @@
     "events": [
       {
         "title": "秦灭西周",
-        "description": "秦国攻灭西周残余势力，周王室最后残余势力被清除，战国格局发生重大变化。",
+        "description": "公元前267年，在秦，秦灭西周。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -1098,7 +1106,7 @@
       },
       {
         "title": "罗马与迦太基岛屿摩擦",
-        "description": "迦太基与罗马在西西里摩擦增加。",
+        "description": "公元前267年，罗马共和国发生罗马与迦太基岛屿摩擦，对当地军事格局产生了重要影响。",
         "latitude": 37.5,
         "longitude": 14.0,
         "category": "军事",
@@ -1119,22 +1127,22 @@
     ],
     "events": [
       {
-        "title": "范雎入秦拜相",
-        "description": "魏国人范雎历经磨难逃至秦国，向秦昭襄王献'远交近攻'之策——先交好远国、攻打近邻，逐步蚕食六国。秦昭襄王拜范雎为相，从此秦国确立了统一天下的战略方针。",
-        "latitude": 34.3,
-        "longitude": 108.7,
-        "category": "政治",
-        "region": "秦国",
-        "continent": "亚洲"
-      },
-      {
         "title": "托勒密二世治下繁荣",
-        "description": "埃及托勒密二世治下经济繁荣。",
+        "description": "公元前266年，托勒密埃及经济领域发生托勒密二世治下繁荣，对当时的经济生活产生了直接影响。",
         "latitude": 31.2,
         "longitude": 29.9,
         "category": "经济",
         "region": "托勒密埃及",
         "continent": "非洲"
+      },
+      {
+        "title": "范雎入秦拜相",
+        "description": "公元前266年，在秦国，范雎入秦拜相。",
+        "latitude": 34.3,
+        "longitude": 108.7,
+        "category": "政治",
+        "region": "秦国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1151,7 +1159,7 @@
     "events": [
       {
         "title": "秦国攻韩",
-        "description": "秦昭襄王采纳范雎'远交近攻'之策，大举进攻韩国。秦军攻占韩国少曲、高平等地，韩国被迫割让上党郡以求和，但上党郡守冯亭不愿降秦，转而降赵，引发长平之战。",
+        "description": "公元前265年，秦国发生秦国攻韩，对当地军事格局产生了重要影响。",
         "latitude": 35.5,
         "longitude": 113.0,
         "category": "军事",
@@ -1160,7 +1168,7 @@
       },
       {
         "title": "罗马统一意大利",
-        "description": "意大利全境纳入罗马势力范围。",
+        "description": "公元前265年，在罗马共和国，罗马统一意大利。",
         "latitude": 42.0,
         "longitude": 13.0,
         "category": "政治",
@@ -1181,17 +1189,17 @@
     ],
     "events": [
       {
-        "title": "第一次布匿战争爆发",
-        "description": "罗马与迦太基因争夺西西里岛的控制权爆发第一次布匿战争。战争的导火索是'墨西拿事件'——一群意大利雇佣兵占领了墨西拿，罗马和迦太基先后介入。",
-        "latitude": 38.2,
-        "longitude": 15.5,
+        "title": "第一次布匿战争",
+        "description": "公元前264年，地中海爆发第一次布匿战争，战事在地中海地区全面展开。",
+        "latitude": 37.5,
+        "longitude": 14.0,
         "category": "军事",
-        "region": "罗马共和国",
+        "region": "地中海",
         "continent": "欧洲"
       },
       {
         "title": "罗马首次举办角斗比赛",
-        "description": "罗马在布鲁图斯家族的葬礼上首次举办了有记载的角斗士比赛。三对角斗士在牛市场决斗，这一活动后来发展为罗马人最热衷的娱乐形式。",
+        "description": "公元前264年，罗马共和国社会领域出现罗马首次举办角斗比赛，反映了社会的发展变化。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "社会",
@@ -1212,22 +1220,22 @@
     ],
     "events": [
       {
-        "title": "阿育王弘扬佛教",
-        "description": "印度孔雀王朝阿育王大力弘扬佛教，派遣僧侣前往斯里兰卡等地传播佛法。",
-        "latitude": 22.0,
-        "longitude": 78.0,
-        "category": "宗教",
-        "region": "孔雀王朝",
-        "continent": "亚洲"
-      },
-      {
         "title": "罗马海军建设",
-        "description": "罗马创建舰队。",
+        "description": "公元前263年，在罗马共和国，罗马海军建设。",
         "latitude": 41.0,
         "longitude": 15.0,
         "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "阿育王弘扬佛教",
+        "description": "公元前263年，孔雀王朝地区的宗教领域发生重要事件——阿育王弘扬佛教，对信众的精神生活产生了深刻影响。",
+        "latitude": 22.0,
+        "longitude": 78.0,
+        "category": "宗教",
+        "region": "孔雀王朝",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1244,7 +1252,7 @@
     "events": [
       {
         "title": "罗马围攻阿格里真托",
-        "description": "罗马军队在西西里围攻迦太基的主要据点阿格里真托。围城持续七个月，罗马军最终攻克该城，大量居民被卖为奴隶。此役是罗马取得的一次重大胜利。",
+        "description": "公元前262年，在罗马共和国，罗马围攻阿格里真托。",
         "latitude": 37.3,
         "longitude": 13.6,
         "category": "军事",
@@ -1266,7 +1274,7 @@
     "events": [
       {
         "title": "罗马决定建立海军",
-        "description": "意识到制海权的关键作用，罗马决定建造一支大型舰队。罗马人以一艘搁浅的迦太基五列桨战舰为蓝本，在短短两个月内建造了一百艘战舰，并发明了'乌鸦吊桥'以发挥陆战优势。",
+        "description": "公元前261年，罗马决定建立海军，标志着新的政治实体在罗马共和国地区诞生。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "军事",
@@ -1275,7 +1283,7 @@
       },
       {
         "title": "罗马海军训练",
-        "description": "罗马训练划桨手。",
+        "description": "公元前261年，在罗马共和国，罗马海军训练。",
         "latitude": 41.0,
         "longitude": 15.0,
         "category": "军事",
@@ -1296,8 +1304,17 @@
     ],
     "events": [
       {
+        "title": "米莱海战",
+        "description": "公元前260年，在罗马共和国，米莱海战。",
+        "latitude": 38.0,
+        "longitude": 15.0,
+        "category": "军事",
+        "region": "罗马共和国",
+        "continent": "欧洲"
+      },
+      {
         "title": "迈利海战",
-        "description": "罗马新建海军在执政官杜伊利乌斯指挥下，在迈利（米拉佐）附近首次与迦太基舰队交战。罗马利用'乌鸦吊桥'勾住敌舰进行接舷战，大败迦太基舰队。这标志着罗马海军的首次重大胜利。",
+        "description": "公元前260年，在罗马共和国，迈利海战。",
         "latitude": 38.2,
         "longitude": 15.2,
         "category": "军事",
@@ -1305,8 +1322,8 @@
         "continent": "欧洲"
       },
       {
-        "title": "长平之战——秦赵对峙",
-        "description": "秦国攻取韩国上党郡，赵军进驻上党，秦赵两军在长平（今山西高平）形成对峙。赵国名将廉颇坚守不出，与秦军相持三年。秦国用反间计使赵王以赵括取代廉颇。",
+        "title": "长平之战",
+        "description": "公元前260年，秦国爆发长平之战，战事在秦国地区全面展开。",
         "latitude": 35.8,
         "longitude": 112.9,
         "category": "军事",
@@ -1315,21 +1332,12 @@
       },
       {
         "title": "阿育王征服羯陵伽",
-        "description": "阿育王征服羯陵伽后受佛教感化，推行和平政策。",
+        "description": "公元前260年，在孔雀王朝，阿育王征服羯陵伽。",
         "latitude": 20.5,
         "longitude": 85.8,
         "category": "军事",
         "region": "孔雀王朝",
         "continent": "亚洲"
-      },
-      {
-        "title": "米莱海战",
-        "description": "罗马首次大海战获胜。",
-        "latitude": 38.0,
-        "longitude": 15.0,
-        "category": "军事",
-        "region": "罗马共和国",
-        "continent": "欧洲"
       }
     ]
   },
@@ -1345,17 +1353,8 @@
     ],
     "events": [
       {
-        "title": "罗马与迦太基争夺西西里",
-        "description": "罗马在第一次布匿战争前夕扩大海军建设，为跨海作战做准备。",
-        "latitude": 37.6,
-        "longitude": 14.0,
-        "category": "军事",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
         "title": "罗马侵撒丁尼亚科西嘉",
-        "description": "罗马占领两大岛。",
+        "description": "公元前259年，在罗马共和国，罗马侵撒丁尼亚科西嘉。",
         "latitude": 40.0,
         "longitude": 9.0,
         "category": "军事",
@@ -1377,11 +1376,20 @@
     "events": [
       {
         "title": "白起攻楚",
-        "description": "秦将白起率军进攻楚国，攻占楚国都城郢，楚国被迫迁都。",
+        "description": "公元前258年，秦发生白起攻楚，对当地军事格局产生了重要影响。",
         "latitude": 30.6,
         "longitude": 114.3,
         "category": "军事",
         "region": "秦",
+        "continent": "亚洲"
+      },
+      {
+        "title": "邯郸之战",
+        "description": "公元前258年，赵国爆发邯郸之战，战事在赵国地区全面展开。",
+        "latitude": 36.6,
+        "longitude": 114.5,
+        "category": "军事",
+        "region": "赵国",
         "continent": "亚洲"
       }
     ]
@@ -1398,17 +1406,8 @@
     ],
     "events": [
       {
-        "title": "白起自杀",
-        "description": "秦昭襄王因白起拒绝再次出任长平之战后的统帅而恼怒，强令白起离开咸阳。行至杜邮时，秦昭襄王赐剑令其自刎。白起是战国第一名将，一生攻城七十余座，未有过败绩。",
-        "latitude": 34.3,
-        "longitude": 108.7,
-        "category": "政治",
-        "region": "秦国",
-        "continent": "亚洲"
-      },
-      {
         "title": "信陵君窃符救赵",
-        "description": "秦军围困赵国都城邯郸。魏国信陵君魏无忌在魏王畏惧不进的情况下，通过如姬盗取魏王兵符，率八万精兵驰援赵国。楚军亦前来救援，秦军大败撤围邯郸。",
+        "description": "公元前257年，在魏国，信陵君窃符救赵。",
         "latitude": 36.6,
         "longitude": 114.5,
         "category": "军事",
@@ -1416,8 +1415,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "白起自杀",
+        "description": "公元前257年，在秦国，白起自杀。",
+        "latitude": 34.3,
+        "longitude": 108.7,
+        "category": "政治",
+        "region": "秦国",
+        "continent": "亚洲"
+      },
+      {
         "title": "罗马登陆非洲",
-        "description": "罗马远征军登陆北非。",
+        "description": "公元前257年，在罗马共和国，罗马登陆非洲。",
         "latitude": 37.0,
         "longitude": 10.5,
         "category": "军事",
@@ -1438,22 +1446,22 @@
     ],
     "events": [
       {
-        "title": "秦国灭西周",
-        "description": "秦昭襄王派军攻灭西周国，周赧王被贬为庶人，九鼎宝器被迁至咸阳。立国八百余年的周朝正式宣告灭亡，名义上的天下共主不复存在。",
-        "latitude": 34.5,
-        "longitude": 112.5,
-        "category": "政治",
-        "region": "秦国",
-        "continent": "亚洲"
-      },
-      {
         "title": "埃克诺穆斯角海战",
-        "description": "罗马与迦太基在西西里南部的埃克诺穆斯角进行古代史上规模最大的海战之一。罗马出动约三百三十艘战舰，迦太基约三百五十艘。罗马利用'乌鸦吊桥'再次获胜，打开了入侵非洲的通道。",
+        "description": "公元前256年，在罗马共和国，埃克诺穆斯角海战。",
         "latitude": 37.0,
         "longitude": 14.0,
         "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "秦国灭西周",
+        "description": "公元前256年，在秦国，秦国灭西周。",
+        "latitude": 34.5,
+        "longitude": 112.5,
+        "category": "政治",
+        "region": "秦国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1469,17 +1477,8 @@
     ],
     "events": [
       {
-        "title": "雷古卢斯被俘",
-        "description": "入侵非洲的罗马执政官雷古卢斯在战场上被迦太基军队击败并俘虏。斯巴达雇佣兵指挥官克桑提帕斯帮助迦太基重组了军队。雷古卢斯被俘后，罗马舰队在撤退时遭遇风暴损失惨重。",
-        "latitude": 36.5,
-        "longitude": 10.0,
-        "category": "军事",
-        "region": "罗马共和国",
-        "continent": "非洲"
-      },
-      {
         "title": "埃及托勒密王朝发展",
-        "description": "托勒密王朝在埃及巩固统治。",
+        "description": "公元前255年，在托勒密埃及，埃及托勒密王朝发展。",
         "latitude": 31.2,
         "longitude": 29.9,
         "category": "政治",
@@ -1488,11 +1487,20 @@
       },
       {
         "title": "迦太基反攻",
-        "description": "迦太基击败北非罗马军。",
+        "description": "公元前255年，在迦太基，迦太基反攻。",
         "latitude": 37.0,
         "longitude": 10.5,
         "category": "军事",
         "region": "迦太基",
+        "continent": "非洲"
+      },
+      {
+        "title": "雷古卢斯被俘",
+        "description": "公元前255年，在罗马共和国，雷古卢斯被俘。",
+        "latitude": 36.5,
+        "longitude": 10.0,
+        "category": "军事",
+        "region": "罗马共和国",
         "continent": "非洲"
       }
     ]
@@ -1510,7 +1518,7 @@
     "events": [
       {
         "title": "罗马海军训练改进",
-        "description": "罗马共和国改进海军战术和训练方式，在第一次布匿战争中逐渐掌握海上优势。",
+        "description": "公元前254年，在罗马共和国，罗马海军训练改进。",
         "latitude": 38.0,
         "longitude": 13.0,
         "category": "军事",
@@ -1519,7 +1527,7 @@
       },
       {
         "title": "罗马重建舰队",
-        "description": "罗马新建舰队。",
+        "description": "公元前254年，在罗马共和国，罗马重建舰队。",
         "latitude": 41.0,
         "longitude": 15.0,
         "category": "军事",
@@ -1540,22 +1548,22 @@
     ],
     "events": [
       {
-        "title": "秦灭魏国",
-        "description": "秦国大将王龁攻灭魏国，战国格局进一步向秦统一方向倾斜。",
-        "latitude": 34.8,
-        "longitude": 114.3,
-        "category": "军事",
-        "region": "秦",
-        "continent": "亚洲"
-      },
-      {
         "title": "帕诺尔穆斯战役",
-        "description": "罗马西西里重要胜利。",
+        "description": "公元前253年，罗马共和国爆发帕诺尔穆斯战役，战事在罗马共和国地区全面展开。",
         "latitude": 38.1,
         "longitude": 13.4,
         "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "秦灭魏国",
+        "description": "公元前253年，在秦，秦灭魏国。",
+        "latitude": 34.8,
+        "longitude": 114.3,
+        "category": "军事",
+        "region": "秦",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1572,7 +1580,7 @@
     "events": [
       {
         "title": "托勒密埃及修建菲莱神庙",
-        "description": "托勒密二世在尼罗河第一瀑布附近开始修建菲莱神庙，供奉伊西斯女神。",
+        "description": "公元前252年，托勒密埃及地区的文化艺术领域取得了重要成就，托勒密埃及修建菲莱神庙成为这一时期的文化代表。",
         "latitude": 24.0,
         "longitude": 32.9,
         "category": "文化",
@@ -1581,7 +1589,7 @@
       },
       {
         "title": "罗马与迦太基谈判",
-        "description": "双方和谈未成。",
+        "description": "公元前252年，罗马共和国开展罗马与迦太基谈判，体现了当时的国际关系格局。",
         "latitude": 37.5,
         "longitude": 14.0,
         "category": "外交",
@@ -1603,7 +1611,7 @@
     "events": [
       {
         "title": "帕诺莫斯战役",
-        "description": "罗马执政官梅特鲁斯在西西里的帕诺莫斯（巴勒莫）击败迦太基军队，俘获约一百二十头战象。此战使罗马在西西里的优势地位得到巩固。",
+        "description": "公元前251年，罗马共和国爆发帕诺莫斯战役，战事在罗马共和国地区全面展开。",
         "latitude": 38.1,
         "longitude": 13.4,
         "category": "军事",
@@ -1624,8 +1632,17 @@
     ],
     "events": [
       {
+        "title": "帕提亚阿尔沙克一世",
+        "description": "公元前250年，在帕提亚帝国，帕提亚阿尔沙克一世。",
+        "latitude": 37.5,
+        "longitude": 57.0,
+        "category": "政治",
+        "region": "帕提亚帝国",
+        "continent": "亚洲"
+      },
+      {
         "title": "第一个巴克特里亚王国独立",
-        "description": "希腊化世界的巴克特里亚（今阿富汗北部）总督狄奥多图斯一世宣布脱离塞琉古帝国独立，建立希腊-巴克特里亚王国。希腊文化在东方进一步传播并与当地文化融合。",
+        "description": "公元前250年，在巴克特里亚，第一个巴克特里亚王国独立。",
         "latitude": 36.7,
         "longitude": 68.8,
         "category": "政治",
@@ -1634,20 +1651,11 @@
       },
       {
         "title": "阿育王派遣佛教使团",
-        "description": "阿育王向斯里兰卡和东南亚派遣佛教传教士。",
+        "description": "公元前250年，孔雀王朝地区的宗教领域发生重要事件——阿育王派遣佛教使团，对信众的精神生活产生了深刻影响。",
         "latitude": 22.0,
         "longitude": 78.0,
         "category": "宗教",
         "region": "孔雀王朝",
-        "continent": "亚洲"
-      },
-      {
-        "title": "帕提亚阿尔沙克一世",
-        "description": "帕提亚王国建立。",
-        "latitude": 37.5,
-        "longitude": 57.0,
-        "category": "政治",
-        "region": "帕提亚帝国",
         "continent": "亚洲"
       }
     ]
@@ -1665,7 +1673,7 @@
     "events": [
       {
         "title": "德雷帕纳海战",
-        "description": "迦太基舰队在德雷帕纳海战中大败罗马舰队。罗马执政官克劳狄乌斯轻敌冒进，被迦太基舰队从两侧夹击，约八十艘罗马战舰被俘或击沉。这是第一次布匿战争中迦太基最大的一次海战胜利。",
+        "description": "公元前249年，在迦太基，德雷帕纳海战。",
         "latitude": 38.0,
         "longitude": 12.5,
         "category": "军事",
@@ -1674,7 +1682,7 @@
       },
       {
         "title": "秦国灭东周",
-        "description": "秦庄襄王派吕不韦率军攻灭东周残余势力（东周国），周朝最后残余的封国被彻底铲除。吕不韦因功被任命为秦相国。",
+        "description": "公元前249年，在秦国，秦国灭东周。",
         "latitude": 34.5,
         "longitude": 112.5,
         "category": "政治",
@@ -1683,7 +1691,7 @@
       },
       {
         "title": "罗马海军失利",
-        "description": "迦太基在德雷帕纳海战获胜。",
+        "description": "公元前249年，在迦太基，罗马海军失利。",
         "latitude": 38.0,
         "longitude": 12.5,
         "category": "军事",
@@ -1705,7 +1713,7 @@
     "events": [
       {
         "title": "帕提亚独立建国",
-        "description": "帕尼部落首领阿尔萨息斯在伊朗东北部建立帕提亚帝国（安息帝国），反抗塞琉古统治。",
+        "description": "公元前248年，帕提亚独立建国，标志着新的政治实体在帕提亚帝国地区诞生。",
         "latitude": 37.0,
         "longitude": 57.0,
         "category": "政治",
@@ -1714,7 +1722,7 @@
       },
       {
         "title": "迦太基哈米尔卡指挥",
-        "description": "哈米尔卡·巴卡率军。",
+        "description": "公元前248年，迦太基发生迦太基哈米尔卡指挥，对当地军事格局产生了重要影响。",
         "latitude": 37.5,
         "longitude": 14.0,
         "category": "军事",
@@ -1735,8 +1743,17 @@
     ],
     "events": [
       {
+        "title": "哈米尔卡·巴卡在西西里",
+        "description": "公元前247年，在迦太基，哈米尔卡·巴卡在西西里。",
+        "latitude": 38.0,
+        "longitude": 12.5,
+        "category": "军事",
+        "region": "迦太基",
+        "continent": "欧洲"
+      },
+      {
         "title": "嬴政即位为秦王",
-        "description": "秦庄襄王去世，十三岁的嬴政继承王位，由相国吕不韦和太后赵姬掌权。嬴政后来统一中国，成为千古一帝秦始皇。",
+        "description": "公元前247年，嬴政即位为秦王，开启了新的统治时期。",
         "latitude": 34.3,
         "longitude": 108.7,
         "category": "政治",
@@ -1744,13 +1761,13 @@
         "continent": "亚洲"
       },
       {
-        "title": "哈米尔卡·巴卡在西西里",
-        "description": "迦太基名将哈米尔卡·巴卡在西西里指挥对罗马的战争。他以游击战术骚扰罗马军队，坚守迦太基在西西里的最后一个据点，为迦太基争取了有利的和谈条件。",
-        "latitude": 38.0,
-        "longitude": 12.5,
-        "category": "军事",
-        "region": "迦太基",
-        "continent": "欧洲"
+        "title": "帕提亚帝国建立",
+        "description": "公元前247年，帕提亚帝国建立，标志着新的政治实体在帕提亚帝国地区诞生。",
+        "latitude": 35.0,
+        "longitude": 54.0,
+        "category": "政治",
+        "region": "帕提亚帝国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1767,7 +1784,7 @@
     "events": [
       {
         "title": "托勒密三世即位",
-        "description": "托勒密三世在埃及即位，托勒密王朝进入鼎盛时期。他远征塞琉古帝国，一度攻入巴比伦，使托勒密王朝的版图达到最大。同期他还大力赞助亚历山大图书馆的建设。",
+        "description": "公元前246年，托勒密三世即位，开启了新的统治时期。",
         "latitude": 31.2,
         "longitude": 29.9,
         "category": "政治",
@@ -1776,7 +1793,7 @@
       },
       {
         "title": "郑国渠开工",
-        "description": "韩国派水工郑国赴秦建议修建大型水利工程，意图消耗秦国国力。秦人识破计谋后仍令郑国继续施工。郑国渠引泾水灌溉关中四万多公顷盐碱地，使关中成为沃野良田。",
+        "description": "公元前246年，秦国的科技发展取得重要进展，郑国渠开工推动了相关领域的技术进步。",
         "latitude": 34.5,
         "longitude": 108.5,
         "category": "科技",
@@ -1798,7 +1815,7 @@
     "events": [
       {
         "title": "第三次叙利亚战争",
-        "description": "托勒密胜塞琉古。",
+        "description": "公元前245年，托勒密埃及爆发第三次叙利亚战争，战事在托勒密埃及地区全面展开。",
         "latitude": 33.0,
         "longitude": 36.0,
         "category": "军事",
@@ -1820,7 +1837,7 @@
     "events": [
       {
         "title": "罗马民间募资建舰队",
-        "description": "因国家财政枯竭，罗马贵族和富商自发集资为罗马新建了一支约二百艘战舰的舰队。这一爱国举动使罗马海军得以重建。",
+        "description": "公元前244年，罗马共和国社会领域出现罗马民间募资建舰队，反映了社会的发展变化。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "社会",
@@ -1829,7 +1846,7 @@
       },
       {
         "title": "罗马财政改革",
-        "description": "罗马筹款继续战争。",
+        "description": "公元前244年，罗马共和国推行罗马财政改革，对当地政治经济制度产生了深远影响。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "经济",
@@ -1850,22 +1867,22 @@
     ],
     "events": [
       {
-        "title": "秦灭赵国",
-        "description": "秦国大将王翦采用反间计配合军事进攻，最终攻灭赵国，俘虏赵王迁。",
-        "latitude": 38.0,
-        "longitude": 114.5,
-        "category": "军事",
-        "region": "秦",
-        "continent": "亚洲"
-      },
-      {
         "title": "哈米尔卡退守西西里西部",
-        "description": "迦太基仅控西西里西角。",
+        "description": "公元前243年，迦太基发生哈米尔卡退守西西里西部，对当地军事格局产生了重要影响。",
         "latitude": 37.5,
         "longitude": 14.0,
         "category": "军事",
         "region": "迦太基",
         "continent": "欧洲"
+      },
+      {
+        "title": "秦灭赵国",
+        "description": "公元前243年，在秦，秦灭赵国。",
+        "latitude": 38.0,
+        "longitude": 114.5,
+        "category": "军事",
+        "region": "秦",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1882,7 +1899,7 @@
     "events": [
       {
         "title": "埃加迪群岛海战",
-        "description": "罗马新建舰队在埃加迪群岛附近与迦太基舰队决战。罗马执政官卢塔提乌斯·卡图卢斯指挥舰队大获全胜，迦太基损失约一百二十艘战舰。此战彻底摧毁了迦太基的海军力量。",
+        "description": "公元前242年，在罗马共和国，埃加迪群岛海战。",
         "latitude": 37.9,
         "longitude": 12.4,
         "category": "军事",
@@ -1891,7 +1908,7 @@
       },
       {
         "title": "罗马新建舰队决战",
-        "description": "罗马新建200艘战舰。",
+        "description": "公元前242年，在罗马共和国，罗马新建舰队决战。",
         "latitude": 41.0,
         "longitude": 15.0,
         "category": "军事",
@@ -1912,22 +1929,22 @@
     ],
     "events": [
       {
-        "title": "第一次布匿战争结束",
-        "description": "迦太基因无力再战被迫向罗马求和，签订和约。迦太基放弃西西里，支付巨额赔款。西西里成为罗马的第一个海外行省。罗马从此从一个意大利城邦开始向地中海强国转变。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "外交",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
         "title": "吕不韦编纂《吕氏春秋》",
-        "description": "秦相国吕不韦召集门客编纂《吕氏春秋》，汇集先秦诸子百家学说，以道家思想为主，兼采儒、墨、法、兵各家。书成后悬于咸阳城门，声称能改一字者赏千金。",
+        "description": "公元前241年，秦国地区的文化艺术领域取得了重要成就，吕不韦编纂《吕氏春秋》成为这一时期的文化代表。",
         "latitude": 34.3,
         "longitude": 108.7,
         "category": "文化",
         "region": "秦国",
         "continent": "亚洲"
+      },
+      {
+        "title": "第一次布匿战争结束",
+        "description": "公元前241年，罗马共和国爆发第一次布匿战争结束，战事在罗马共和国地区全面展开。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "外交",
+        "region": "罗马共和国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -1943,22 +1960,31 @@
     ],
     "events": [
       {
-        "title": "迦太基雇佣兵起义",
-        "description": "迦太基因第一次布匿战争后无法支付雇佣军军饷，引发大规模雇佣兵起义。起义军在利比亚人马托斯和斯彭狄乌斯领导下围攻迦太基城。哈米尔卡·巴卡率军残酷镇压，历时三年半才平定。",
-        "latitude": 36.9,
-        "longitude": 10.3,
-        "category": "军事",
-        "region": "迦太基",
+        "title": "埃拉托色尼测量地球周长",
+        "description": "公元前240年，埃及的科技发展取得重要进展，埃拉托色尼测量地球周长推动了相关领域的技术进步。",
+        "latitude": 31.2,
+        "longitude": 29.92,
+        "category": "科技",
+        "region": "埃及",
         "continent": "非洲"
       },
       {
         "title": "迦太基丧失西西里",
-        "description": "西西里成为罗马行省。",
+        "description": "公元前240年，在罗马共和国，迦太基丧失西西里。",
         "latitude": 37.5,
         "longitude": 14.0,
         "category": "政治",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "迦太基雇佣兵起义",
+        "description": "公元前240年，迦太基爆发迦太基雇佣兵起义，对当局造成了巨大冲击。",
+        "latitude": 36.9,
+        "longitude": 10.3,
+        "category": "军事",
+        "region": "迦太基",
+        "continent": "非洲"
       }
     ]
   },
@@ -1974,22 +2000,22 @@
     ],
     "events": [
       {
-        "title": "罗马发动雇佣兵战争",
-        "description": "迦太基雇佣兵因薪酬问题发动大规模叛乱，罗马借机干预撒丁岛事务。",
-        "latitude": 36.9,
-        "longitude": 10.3,
-        "category": "军事",
-        "region": "迦太基",
-        "continent": "非洲"
-      },
-      {
         "title": "罗马占领撒丁岛科西嘉",
-        "description": "罗马夺取撒丁。",
+        "description": "公元前239年，在罗马共和国，罗马占领撒丁岛科西嘉。",
         "latitude": 40.0,
         "longitude": 9.0,
         "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "罗马发动雇佣兵战争",
+        "description": "公元前239年，迦太基爆发罗马发动雇佣兵战争，战事在迦太基地区全面展开。",
+        "latitude": 36.9,
+        "longitude": 10.3,
+        "category": "军事",
+        "region": "迦太基",
+        "continent": "非洲"
       }
     ]
   },
@@ -2005,22 +2031,22 @@
     ],
     "events": [
       {
+        "title": "嬴政亲政",
+        "description": "公元前238年，在秦国，嬴政亲政。",
+        "latitude": 34.5,
+        "longitude": 109.0,
+        "category": "政治",
+        "region": "秦国",
+        "continent": "亚洲"
+      },
+      {
         "title": "罗马吞并撒丁岛和科西嘉岛",
-        "description": "罗马趁迦太基雇佣兵起义之机，以迦太基煽动撒丁岛居民反抗为由，强行占领了撒丁岛和科西嘉岛。迦太基无力反抗，被迫割让。罗马设立了撒丁-科西嘉行省。",
+        "description": "公元前238年，在罗马共和国，罗马吞并撒丁岛和科西嘉岛。",
         "latitude": 40.0,
         "longitude": 9.0,
         "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
-      },
-      {
-        "title": "汉朝科技发展",
-        "description": "中国农田灌溉技术改进。",
-        "latitude": 34.0,
-        "longitude": 114.0,
-        "category": "科技",
-        "region": "秦",
-        "continent": "亚洲"
       }
     ]
   },
@@ -2037,7 +2063,7 @@
     "events": [
       {
         "title": "哈米尔卡·巴卡远征西班牙",
-        "description": "迦太基名将哈米尔卡·巴卡率军前往伊比利亚半岛（西班牙），以补偿迦太基在第一次布匿战争中的损失。他在西班牙建立殖民地、开发银矿、招募土著兵员，为迦太基复兴奠定基础。",
+        "description": "公元前237年，在迦太基，哈米尔卡·巴卡远征西班牙。",
         "latitude": 37.5,
         "longitude": -4.0,
         "category": "军事",
@@ -2058,22 +2084,22 @@
     ],
     "events": [
       {
-        "title": "秦灭燕国",
-        "description": "秦将王翦率军攻灭燕国，俘获燕王喜，六国仅存齐楚。",
-        "latitude": 39.9,
-        "longitude": 116.4,
-        "category": "军事",
-        "region": "秦",
-        "continent": "亚洲"
-      },
-      {
         "title": "哈米尔卡西班牙扩张",
-        "description": "迦太基控制西班牙南部。",
+        "description": "公元前236年，在迦太基，哈米尔卡西班牙扩张。",
         "latitude": 37.5,
         "longitude": -5.5,
         "category": "政治",
         "region": "迦太基",
         "continent": "欧洲"
+      },
+      {
+        "title": "秦灭燕国",
+        "description": "公元前236年，在秦，秦灭燕国。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "军事",
+        "region": "秦",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2089,17 +2115,8 @@
     ],
     "events": [
       {
-        "title": "汉尼拔开始在西班牙活动",
-        "description": "迦太基名将汉尼拔在父亲哈米尔卡麾下开始在伊比利亚半岛的军事活动。",
-        "latitude": 37.4,
-        "longitude": -5.9,
-        "category": "军事",
-        "region": "迦太基",
-        "continent": "欧洲"
-      },
-      {
         "title": "印度阿育王石柱",
-        "description": "阿育王在印度各地树立石柱弘扬佛教。",
+        "description": "公元前235年，孔雀王朝地区的文化艺术领域取得了重要成就，印度阿育王石柱成为这一时期的文化代表。",
         "latitude": 25.0,
         "longitude": 80.0,
         "category": "文化",
@@ -2107,8 +2124,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "汉尼拔开始在西班牙活动",
+        "description": "公元前235年，在迦太基，汉尼拔开始在西班牙活动。",
+        "latitude": 37.4,
+        "longitude": -5.9,
+        "category": "军事",
+        "region": "迦太基",
+        "continent": "欧洲"
+      },
+      {
         "title": "罗马雅努斯神庙关闭",
-        "description": "罗马和平关闭战争神庙。",
+        "description": "公元前235年，在罗马共和国，罗马雅努斯神庙关闭。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -2129,22 +2155,22 @@
     ],
     "events": [
       {
-        "title": "秦国大规模东进",
-        "description": "秦王嬴政亲政前，秦国在吕不韦主持下继续大规模东进，攻占韩、魏、赵大片领土。秦国的统一之势已不可阻挡。",
-        "latitude": 34.5,
-        "longitude": 110.0,
-        "category": "军事",
-        "region": "秦国",
-        "continent": "亚洲"
-      },
-      {
         "title": "哈米尔卡阵亡",
-        "description": "哈米尔卡在西班牙战死。",
+        "description": "公元前234年，在迦太基，哈米尔卡阵亡。",
         "latitude": 38.0,
         "longitude": -5.0,
         "category": "军事",
         "region": "迦太基",
         "continent": "欧洲"
+      },
+      {
+        "title": "秦国大规模东进",
+        "description": "公元前234年，在秦国，秦国大规模东进。",
+        "latitude": 34.5,
+        "longitude": 110.0,
+        "category": "军事",
+        "region": "秦国",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2160,22 +2186,22 @@
     ],
     "events": [
       {
-        "title": "秦灭楚国",
-        "description": "秦将王翦率六十万大军攻灭楚国，占领长江中下游广大地区。",
-        "latitude": 30.6,
-        "longitude": 114.3,
-        "category": "军事",
-        "region": "秦",
-        "continent": "亚洲"
-      },
-      {
         "title": "汉尼拔被立为继承人",
-        "description": "汉尼拔年少随军西班牙。",
+        "description": "公元前233年，在迦太基，汉尼拔被立为继承人。",
         "latitude": 37.5,
         "longitude": -5.5,
         "category": "政治",
         "region": "迦太基",
         "continent": "欧洲"
+      },
+      {
+        "title": "秦灭楚国",
+        "description": "公元前233年，在秦，秦灭楚国。",
+        "latitude": 30.6,
+        "longitude": 114.3,
+        "category": "军事",
+        "region": "秦",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2191,22 +2217,22 @@
     ],
     "events": [
       {
-        "title": "阿育王去世",
-        "description": "印度孔雀王朝最伟大的君主阿育王去世，孔雀王朝随后迅速衰落。阿育王在统治后期推行佛教，在全国树立石柱和摩崖法敕，对印度历史和文化产生了深远影响。",
-        "latitude": 25.6,
-        "longitude": 85.1,
-        "category": "政治",
-        "region": "孔雀王朝",
-        "continent": "亚洲"
-      },
-      {
         "title": "罗马高卢战争持续",
-        "description": "罗马与高卢部落战斗。",
+        "description": "公元前232年，罗马共和国爆发罗马高卢战争持续，战事在罗马共和国地区全面展开。",
         "latitude": 44.0,
         "longitude": 11.0,
         "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "阿育王去世",
+        "description": "公元前232年，阿育王去世，一个重要的历史人物离开了历史舞台。",
+        "latitude": 25.6,
+        "longitude": 85.1,
+        "category": "政治",
+        "region": "孔雀王朝",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2222,20 +2248,20 @@
     ],
     "events": [
       {
-        "title": "罗马元老院关注迦太基崛起",
-        "description": "罗马元老院密切关注迦太基在西班牙的扩张，波西米亚远征引发担忧。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "政治",
+        "title": "罗马与伊利里亚海盗",
+        "description": "公元前231年，罗马共和国发生罗马与伊利里亚海盗，对当地军事格局产生了重要影响。",
+        "latitude": 42.5,
+        "longitude": 16.0,
+        "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
       },
       {
-        "title": "罗马与伊利里亚海盗",
-        "description": "罗马清剿亚得里亚海盗。",
-        "latitude": 42.5,
-        "longitude": 16.0,
-        "category": "军事",
+        "title": "罗马元老院关注迦太基崛起",
+        "description": "公元前231年，在罗马共和国，罗马元老院关注迦太基崛起。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
         "region": "罗马共和国",
         "continent": "欧洲"
       }
@@ -2254,7 +2280,7 @@
     "events": [
       {
         "title": "秦国灭韩",
-        "description": "秦王嬴政派内史腾率军攻韩。韩国无力抵抗，韩王安投降，韩国灭亡，其地被设为颍川郡。韩国是战国七雄中最弱的一国，也是第一个被秦国灭亡的诸侯国。",
+        "description": "公元前230年，在秦国，秦国灭韩。",
         "latitude": 34.5,
         "longitude": 113.5,
         "category": "政治",
@@ -2263,7 +2289,7 @@
       },
       {
         "title": "秦国蜀郡建设",
-        "description": "李冰修都江堰。",
+        "description": "公元前230年，秦的科技发展取得重要进展，秦国蜀郡建设推动了相关领域的技术进步。",
         "latitude": 31.0,
         "longitude": 103.5,
         "category": "科技",
@@ -2284,22 +2310,22 @@
     ],
     "events": [
       {
-        "title": "第一次伊利里亚战争",
-        "description": "罗马因伊利里亚（今巴尔干西部）海盗袭击意大利商船而发动第一次伊利里亚战争。罗马军队在科西嘉和伊利里亚沿岸击败了伊利里亚女王特乌塔的舰队。",
-        "latitude": 42.0,
-        "longitude": 19.0,
-        "category": "军事",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
         "title": "秦国灭赵",
-        "description": "秦将王翦、杨端和率军攻赵。赵将李牧、司马尚率军坚守。秦用反间计使赵王迁杀害李牧。三个月后秦军攻破邯郸，赵王迁投降，赵国灭亡。公子嘉逃往代郡自立为代王。",
+        "description": "公元前229年，秦国发生秦国灭赵，对当地军事格局产生了重要影响。",
         "latitude": 38.0,
         "longitude": 114.5,
         "category": "军事",
         "region": "秦国",
         "continent": "亚洲"
+      },
+      {
+        "title": "第一次伊利里亚战争",
+        "description": "公元前229年，罗马共和国爆发第一次伊利里亚战争，战事在罗马共和国地区全面展开。",
+        "latitude": 42.0,
+        "longitude": 19.0,
+        "category": "军事",
+        "region": "罗马共和国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2316,7 +2342,7 @@
     "events": [
       {
         "title": "哈斯德鲁巴遇刺",
-        "description": "迦太基在西班牙的统帅哈斯德鲁巴遇刺身亡。年轻的汉尼拔·巴卡被士兵推举为新统帅，年仅二十六岁。汉尼拔是哈米尔卡·巴卡之子，从小立誓与罗马不共戴天。",
+        "description": "公元前228年，哈斯德鲁巴遇刺，一个重要的历史人物离开了历史舞台。",
         "latitude": 37.5,
         "longitude": -4.0,
         "category": "政治",
@@ -2325,7 +2351,7 @@
       },
       {
         "title": "罗马在亚得里亚海建立势力",
-        "description": "罗马遏制伊利里亚。",
+        "description": "公元前228年，罗马在亚得里亚海建立势力，标志着新的政治实体在罗马共和国地区诞生。",
         "latitude": 42.5,
         "longitude": 16.5,
         "category": "政治",
@@ -2347,7 +2373,7 @@
     "events": [
       {
         "title": "汉尼拔征服西班牙部落",
-        "description": "汉尼拔·巴卡在西班牙迅速巩固权力，通过军事征服和外交手段控制了伊比鲁斯河以南的广大地区。他娶西班牙公主为妻，赢得当地部落的忠诚，为日后远征意大利打下了基础。",
+        "description": "公元前227年，汉尼拔征服西班牙部落，迦太基的军事力量向目标地区推进。",
         "latitude": 39.0,
         "longitude": -3.0,
         "category": "军事",
@@ -2356,7 +2382,7 @@
       },
       {
         "title": "荆轲刺秦王",
-        "description": "燕太子丹派刺客荆轲携燕国地图和秦叛将樊於期首级赴咸阳刺杀秦王嬴政。荆轲在殿上'图穷匕见'，但刺杀未遂，被秦卫士当场斩杀。嬴政大怒，下令大举伐燕。",
+        "description": "公元前227年，在燕国，荆轲刺秦王。",
         "latitude": 34.3,
         "longitude": 108.7,
         "category": "政治",
@@ -2365,7 +2391,7 @@
       },
       {
         "title": "迦太基西班牙城扩展",
-        "description": "迦太基在西班牙建新迦太基城。",
+        "description": "公元前227年，在迦太基，迦太基西班牙城扩展。",
         "latitude": 37.5,
         "longitude": -1.0,
         "category": "政治",
@@ -2386,17 +2412,8 @@
     ],
     "events": [
       {
-        "title": "秦国灭燕",
-        "description": "秦王嬴政派王翦率军大举攻燕，在易水以西大败燕太子丹率领的燕军。秦军攻破燕都蓟城（今北京）。燕王喜和太子丹逃往辽东，秦军追击不止。燕王被迫杀太子丹求和。",
-        "latitude": 39.9,
-        "longitude": 116.4,
-        "category": "军事",
-        "region": "秦国",
-        "continent": "亚洲"
-      },
-      {
         "title": "汉尼拔围攻萨贡托",
-        "description": "汉尼拔在西班牙围攻亲罗马的城邦萨贡托。罗马派使者警告汉尼拔不得进攻，但汉尼拔置之不理。围城持续八个月，萨贡托陷落。此事成为第二次布匿战争的直接导火索。",
+        "description": "公元前226年，在迦太基，汉尼拔围攻萨贡托。",
         "latitude": 39.7,
         "longitude": -0.3,
         "category": "军事",
@@ -2404,8 +2421,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "秦国灭燕",
+        "description": "公元前226年，在秦国，秦国灭燕。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "军事",
+        "region": "秦国",
+        "continent": "亚洲"
+      },
+      {
         "title": "罗马迦太基约定边界",
-        "description": "罗马与迦太基以埃布罗河为界。",
+        "description": "公元前226年，罗马共和国开展罗马迦太基约定边界，体现了当时的国际关系格局。",
         "latitude": 41.0,
         "longitude": 0.5,
         "category": "外交",
@@ -2427,7 +2453,7 @@
     "events": [
       {
         "title": "特拉蒙战役",
-        "description": "高卢人南下入侵意大利，约七万大军直逼罗马。罗马执政官埃米利乌斯和阿提利乌斯率军迎战，在特拉蒙（今托斯卡纳）击败高卢军，约四万高卢人被杀。此战使罗马控制了意大利北部波河流域。",
+        "description": "公元前225年，罗马共和国地区爆发特拉蒙战役，交战双方为争夺战略要地展开激烈战斗。",
         "latitude": 42.8,
         "longitude": 11.0,
         "category": "军事",
@@ -2435,8 +2461,8 @@
         "continent": "欧洲"
       },
       {
-        "title": "秦国灭魏",
-        "description": "秦将王贲率军进攻魏国。魏都大梁城固守难攻，秦军引黄河和鸿沟水灌大梁城长达三个月。城墙坍塌，魏王假投降，魏国灭亡。",
+        "title": "秦攻灭魏国",
+        "description": "公元前225年，在秦国，秦攻灭魏国。",
         "latitude": 34.8,
         "longitude": 114.3,
         "category": "军事",
@@ -2445,7 +2471,7 @@
       },
       {
         "title": "高卢入侵意大利",
-        "description": "高卢人大规模南下。",
+        "description": "公元前225年，高卢入侵意大利，高卢人的军事力量向目标地区推进。",
         "latitude": 44.0,
         "longitude": 11.0,
         "category": "军事",
@@ -2467,7 +2493,7 @@
     "events": [
       {
         "title": "秦灭楚——初战失利",
-        "description": "秦王嬴政问诸将灭楚需多少兵力，李信说二十万，王翦说非六十万不可。嬴政以李信、蒙恬率二十万伐楚。楚将项燕大败李信军，秦军损失惨重。嬴政亲自向王翦道歉，请其出征。",
+        "description": "公元前224年，在秦国，秦灭楚——初战失利。",
         "latitude": 32.0,
         "longitude": 114.0,
         "category": "军事",
@@ -2488,17 +2514,8 @@
     ],
     "events": [
       {
-        "title": "秦灭楚",
-        "description": "王翦率六十万大军大举伐楚。楚将项燕全力抵抗。王翦采用坚壁不出的战术消耗楚军锐气，待楚军东撤时发动突袭，大败楚军。楚王负刍被俘，项燕自杀，楚国灭亡。",
-        "latitude": 32.0,
-        "longitude": 114.0,
-        "category": "军事",
-        "region": "秦国",
-        "continent": "亚洲"
-      },
-      {
         "title": "罗马征服波平原",
-        "description": "罗马控制意大利北部。",
+        "description": "公元前223年，在罗马共和国，罗马征服波平原。",
         "latitude": 45.0,
         "longitude": 10.0,
         "category": "军事",
@@ -2520,7 +2537,7 @@
     "events": [
       {
         "title": "秦灭燕、代",
-        "description": "秦将王贲率军攻取辽东，俘虏燕王喜，燕国彻底灭亡。随后王贲回师攻取代郡，俘虏代王赵嘉。至此六国已灭其五，只剩下东方最后的齐国。",
+        "description": "公元前222年，在秦国，秦灭燕、代。",
         "latitude": 40.0,
         "longitude": 124.0,
         "category": "军事",
@@ -2529,7 +2546,7 @@
       },
       {
         "title": "罗马大胜高卢",
-        "description": "罗马击败高卢完成意大利征服。",
+        "description": "公元前222年，罗马共和国发生罗马大胜高卢，对当地军事格局产生了重要影响。",
         "latitude": 45.0,
         "longitude": 10.0,
         "category": "军事",
@@ -2550,8 +2567,26 @@
     ],
     "events": [
       {
+        "title": "秦始皇推行中央集权",
+        "description": "公元前221年，在秦朝，秦始皇推行中央集权。",
+        "latitude": 34.3,
+        "longitude": 108.7,
+        "category": "政治",
+        "region": "秦朝",
+        "continent": "亚洲"
+      },
+      {
+        "title": "秦始皇统一天下",
+        "description": "公元前221年，在秦朝，秦始皇统一天下。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "秦朝",
+        "continent": "亚洲"
+      },
+      {
         "title": "秦灭齐，统一中国",
-        "description": "秦将王贲从燕地南下攻齐，齐王建不战而降。秦国以十年时间先后灭韩、赵、魏、楚、燕、齐六国，结束了长达五百余年的诸侯割据局面。嬴政自称'始皇帝'，中国历史上第一个大一统帝国——秦朝建立。",
+        "description": "公元前221年，在秦国，秦灭齐，统一中国。",
         "latitude": 36.0,
         "longitude": 118.0,
         "category": "政治",
@@ -2559,10 +2594,10 @@
         "continent": "亚洲"
       },
       {
-        "title": "秦始皇推行中央集权",
-        "description": "秦始皇废除分封制，推行郡县制，分天下为三十六郡。统一文字（小篆）、度量衡、货币（半两钱），车同轨，书同文。焚书坑儒虽在后世争议极大，但各项统一措施对中华文明影响深远。",
+        "title": "秦统一六国",
+        "description": "公元前221年，在秦朝，秦统一六国。",
         "latitude": 34.3,
-        "longitude": 108.7,
+        "longitude": 108.9,
         "category": "政治",
         "region": "秦朝",
         "continent": "亚洲"
@@ -2581,17 +2616,8 @@
     ],
     "events": [
       {
-        "title": "秦始皇修筑驰道",
-        "description": "秦始皇下令修筑以咸阳为中心的全国驰道系统，东通燕齐、南达吴楚。驰道宽约五十步（约合今七十米），路基夯实，两旁植树，是中国历史上第一条国家级交通干线网络。",
-        "latitude": 34.3,
-        "longitude": 108.7,
-        "category": "科技",
-        "region": "秦朝",
-        "continent": "亚洲"
-      },
-      {
         "title": "汉尼拔备战罗马",
-        "description": "汉尼拔在西班牙完成了对罗马的战争准备。他精心筹划了一个大胆的计划——从西班牙翻越阿尔卑斯山进入意大利本土，从背后攻击罗马。其军队包括步兵约九万、骑兵约一万二千和三十七头战象。",
+        "description": "公元前220年，迦太基发生汉尼拔备战罗马，对当地军事格局产生了重要影响。",
         "latitude": 39.0,
         "longitude": -3.0,
         "category": "军事",
@@ -2599,8 +2625,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "秦始皇修筑驰道",
+        "description": "公元前220年，秦朝的科技发展取得重要进展，秦始皇修筑驰道推动了相关领域的技术进步。",
+        "latitude": 34.3,
+        "longitude": 108.7,
+        "category": "科技",
+        "region": "秦朝",
+        "continent": "亚洲"
+      },
+      {
         "title": "秦始皇统一制度",
-        "description": "秦始皇推行郡县制统一文字度量衡。",
+        "description": "公元前220年，在秦，秦始皇统一制度。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -2621,22 +2656,22 @@
     ],
     "events": [
       {
-        "title": "秦始皇泰山封禅",
-        "description": "秦始皇东巡至泰山举行封禅大典，在泰山顶上筑坛祭天，在山下梁父山辟基祭地。封禅途中遇暴风雨，遭儒生讥讽。秦始皇遂在泰山和琅琊刻石立碑，宣扬自己的功绩。",
-        "latitude": 36.3,
-        "longitude": 117.1,
-        "category": "宗教",
-        "region": "秦朝",
-        "continent": "亚洲"
-      },
-      {
         "title": "汉尼拔攻萨贡托",
-        "description": "汉尼拔攻埃布罗河以南城。",
+        "description": "公元前219年，在迦太基，汉尼拔攻萨贡托。",
         "latitude": 39.5,
         "longitude": -0.5,
         "category": "军事",
         "region": "迦太基",
         "continent": "欧洲"
+      },
+      {
+        "title": "秦始皇泰山封禅",
+        "description": "公元前219年，秦朝地区的宗教领域发生重要事件——秦始皇泰山封禅，对信众的精神生活产生了深刻影响。",
+        "latitude": 36.3,
+        "longitude": 117.1,
+        "category": "宗教",
+        "region": "秦朝",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2652,17 +2687,17 @@
     ],
     "events": [
       {
-        "title": "第二次布匿战争爆发",
-        "description": "罗马向迦太基宣战，第二次布匿战争爆发。罗马计划兵分两路——一路进攻西班牙牵制汉尼拔，一路进攻北非迦太基本土。但汉尼拔抢先行动，率军从西班牙出发，开始了震惊世界的远征。",
-        "latitude": 41.9,
-        "longitude": 12.5,
+        "title": "提契诺河和特雷比亚河战役",
+        "description": "公元前218年，迦太基地区爆发提契诺河和特雷比亚河战役，交战双方为争夺战略要地展开激烈战斗。",
+        "latitude": 45.0,
+        "longitude": 9.0,
         "category": "军事",
-        "region": "罗马共和国",
+        "region": "迦太基",
         "continent": "欧洲"
       },
       {
         "title": "汉尼拔翻越阿尔卑斯山",
-        "description": "汉尼拔率约五万步兵、九千骑兵和三十七头战象从西班牙出发，在渡过罗讷河后翻越阿尔卑斯山。在极端恶劣的气候和地形条件下，汉尼拔付出了巨大牺牲——过半士兵和大量战象死于严寒和山崩，仅约两万六千人和少量战象抵达意大利。",
+        "description": "公元前218年，在迦太基，汉尼拔翻越阿尔卑斯山。",
         "latitude": 45.0,
         "longitude": 7.0,
         "category": "军事",
@@ -2670,12 +2705,12 @@
         "continent": "欧洲"
       },
       {
-        "title": "提契诺河和特雷比亚河战役",
-        "description": "汉尼拔在波河流域的提契诺河击败罗马执政官西庇阿。随后在特雷比亚河利用埋伏战术大败罗马执政官隆古斯率领的约四万大军，罗马军损失约二万人。",
-        "latitude": 45.0,
-        "longitude": 9.0,
+        "title": "第二次布匿战争爆发",
+        "description": "公元前218年，罗马共和国爆发第二次布匿战争爆发，战事在罗马共和国地区全面展开。",
+        "latitude": 41.9,
+        "longitude": 12.5,
         "category": "军事",
-        "region": "迦太基",
+        "region": "罗马共和国",
         "continent": "欧洲"
       }
     ]
@@ -2693,7 +2728,7 @@
     "events": [
       {
         "title": "特拉西梅诺湖战役",
-        "description": "汉尼拔在伊特鲁里亚的特拉西梅诺湖设伏。他利用晨雾将军队隐蔽在湖边的山丘后，当罗马执政官弗拉米尼乌斯率军通过狭窄湖畔时发动三面夹击。约一万五千名罗马士兵阵亡或溺水而亡。这是汉尼拔最经典的伏击战之一。",
+        "description": "公元前217年，迦太基地区爆发特拉西梅诺湖战役，交战双方为争夺战略要地展开激烈战斗。",
         "latitude": 43.2,
         "longitude": 12.0,
         "category": "军事",
@@ -2702,7 +2737,7 @@
       },
       {
         "title": "费边任罗马独裁官",
-        "description": "罗马在特拉西梅诺湖惨败后任命费边为独裁官。费边采取'拖延战术'——避免与汉尼拔正面决战，尾随骚扰其补给线，消耗敌军锐气。这一策略后来被称为'费边战术'。",
+        "description": "公元前217年，在罗马共和国，费边任罗马独裁官。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -2724,7 +2759,7 @@
     "events": [
       {
         "title": "坎尼战役",
-        "description": "罗马集结约八万六千人的最大规模军队在坎尼与汉尼拔约五万人决战。汉尼拔采用经典的双翼包抄战术——中央步兵诱敌深入，两翼骑兵击溃罗马骑兵后从后方包围罗马军。约七万罗马士兵阵亡，包括八十名元老院议员。坎尼战役被誉为军事史上最伟大的歼灭战之一。",
+        "description": "公元前216年，迦太基爆发坎尼战役，战事在迦太基地区全面展开。",
         "latitude": 41.3,
         "longitude": 16.0,
         "category": "军事",
@@ -2745,17 +2780,8 @@
     ],
     "events": [
       {
-        "title": "第一次马其顿战争",
-        "description": "马其顿国王腓力五世与汉尼拔结盟，共同对抗罗马。罗马为牵制腓力五世，派舰队进入伊利里亚，在希腊发动反马其顿的外交活动。第一次马其顿战争开始，但双方均未取得决定性战果。",
-        "latitude": 40.5,
-        "longitude": 22.5,
-        "category": "军事",
-        "region": "马其顿",
-        "continent": "欧洲"
-      },
-      {
         "title": "秦始皇派蒙恬北击匈奴",
-        "description": "秦始皇派大将蒙恬率三十万大军北伐匈奴，收复河套地区（河南地）。蒙恬将战国时期秦、赵、燕三国的北部长城连接起来，修筑了西起临洮、东至辽东的万里长城。",
+        "description": "公元前215年，在秦朝，秦始皇派蒙恬北击匈奴。",
         "latitude": 38.0,
         "longitude": 108.0,
         "category": "军事",
@@ -2763,8 +2789,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "第一次马其顿战争",
+        "description": "公元前215年，马其顿爆发第一次马其顿战争，战事在马其顿地区全面展开。",
+        "latitude": 40.5,
+        "longitude": 22.5,
+        "category": "军事",
+        "region": "马其顿",
+        "continent": "欧洲"
+      },
+      {
         "title": "马其顿与迦太基结盟",
-        "description": "腓力五世与汉尼拔结盟抗罗马。",
+        "description": "公元前215年，在马其顿王国，马其顿与迦太基结盟。",
         "latitude": 40.5,
         "longitude": 23.0,
         "category": "军事",
@@ -2785,8 +2820,17 @@
     ],
     "events": [
       {
+        "title": "修筑万里长城",
+        "description": "公元前214年，秦朝发生修筑万里长城，对当地军事格局产生了重要影响。",
+        "latitude": 40.8,
+        "longitude": 111.0,
+        "category": "军事",
+        "region": "秦朝",
+        "continent": "亚洲"
+      },
+      {
         "title": "灵渠开凿",
-        "description": "秦始皇为征服岭南地区，派监御史禄主持开凿灵渠，连接湘江和漓江。灵渠长约三十余公里，设有陡门（船闸雏形），是世界上最古老的运河之一，沟通了长江水系和珠江水系。",
+        "description": "公元前214年，秦朝的科技发展取得重要进展，灵渠开凿推动了相关领域的技术进步。",
         "latitude": 25.5,
         "longitude": 110.5,
         "category": "科技",
@@ -2795,7 +2839,7 @@
       },
       {
         "title": "罗马围攻叙拉古",
-        "description": "叙拉古在希耶罗二世去世后倒向迦太基。罗马派执政官克劳狄乌斯和马塞卢斯围攻叙拉古。科学家阿基米德为叙拉古设计了多种防御机械——巨型投石机、铁爪起重机等，使罗马军久攻不下。",
+        "description": "公元前214年，罗马共和国发生罗马围攻叙拉古，对当地军事格局产生了重要影响。",
         "latitude": 37.1,
         "longitude": 15.3,
         "category": "军事",
@@ -2817,7 +2861,7 @@
     "events": [
       {
         "title": "秦始皇焚书",
-        "description": "李斯建议秦始皇焚烧《诗》《书》、百家语及各国史书，以统一思想、巩固统治。秦始皇采纳其建议，下令除秦国史书、医药、卜筮、种树等实用书籍外，民间所藏各类典籍一律焚毁。",
+        "description": "公元前213年，秦朝地区的文化艺术领域取得了重要成就，秦始皇焚书成为这一时期的文化代表。",
         "latitude": 34.3,
         "longitude": 108.7,
         "category": "文化",
@@ -2838,8 +2882,17 @@
     ],
     "events": [
       {
+        "title": "卡普亚陷落",
+        "description": "公元前212年，在罗马共和国，卡普亚陷落。",
+        "latitude": 41.1,
+        "longitude": 14.2,
+        "category": "军事",
+        "region": "罗马共和国",
+        "continent": "欧洲"
+      },
+      {
         "title": "秦始皇坑儒",
-        "description": "秦始皇因方士侯生、卢生非议朝政后逃亡，下令追查咸阳诸生。御史审理后，四百六十余名儒生和方士被以'妖言惑众'罪名坑杀于咸阳。史称'焚书坑儒'。",
+        "description": "公元前212年，在秦朝，秦始皇坑儒。",
         "latitude": 34.3,
         "longitude": 108.7,
         "category": "政治",
@@ -2848,20 +2901,11 @@
       },
       {
         "title": "阿基米德之死",
-        "description": "罗马军队经过两年围城最终攻破叙拉古。罗马将军马塞卢斯命令活捉阿基米德，但一名罗马士兵冲入阿基米德家中时，正在沙盘上研究几何图形的阿基米德说'不要弄乱我的圆'，被士兵当场刺死。",
+        "description": "公元前212年，叙拉古地区的文化艺术领域取得了重要成就，阿基米德之死成为这一时期的文化代表。",
         "latitude": 37.1,
         "longitude": 15.3,
         "category": "文化",
         "region": "叙拉古",
-        "continent": "欧洲"
-      },
-      {
-        "title": "卡普亚陷落",
-        "description": "罗马开始反攻，围攻倒向汉尼拔的意大利第二大城市卡普亚。汉尼拔试图引开罗马军未果，卡普亚在饥饿中投降。罗马对卡普亚进行了严厉惩罚。",
-        "latitude": 41.1,
-        "longitude": 14.2,
-        "category": "军事",
-        "region": "罗马共和国",
         "continent": "欧洲"
       }
     ]
@@ -2878,22 +2922,22 @@
     ],
     "events": [
       {
-        "title": "秦灭齐国，六国统一",
-        "description": "秦将王贲攻灭齐国，俘齐王建。至此六国全部灭亡，秦国统一中国。",
-        "latitude": 36.7,
-        "longitude": 117.0,
-        "category": "军事",
-        "region": "秦",
-        "continent": "亚洲"
-      },
-      {
         "title": "汉尼拔进军罗马城",
-        "description": "汉尼拔率直到罗马城下。",
+        "description": "公元前211年，在迦太基，汉尼拔进军罗马城。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "军事",
         "region": "迦太基",
         "continent": "欧洲"
+      },
+      {
+        "title": "秦灭齐国，六国统一",
+        "description": "公元前211年，在秦，秦灭齐国，六国统一。",
+        "latitude": 36.7,
+        "longitude": 117.0,
+        "category": "军事",
+        "region": "秦",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2909,17 +2953,8 @@
     ],
     "events": [
       {
-        "title": "秦始皇病逝沙丘",
-        "description": "秦始皇第五次东巡途中在沙丘平台（今河北广宗）病逝，享年五十岁。临终前遗诏命长子扶苏继位。但赵高、李斯篡改遗诏，立少子胡亥为太子，赐死扶苏和蒙恬。",
-        "latitude": 36.9,
-        "longitude": 115.2,
-        "category": "政治",
-        "region": "秦朝",
-        "continent": "亚洲"
-      },
-      {
         "title": "秦二世胡亥即位",
-        "description": "胡亥在赵高和李斯的扶持下即位为秦二世。他昏庸无道，听信赵高谗言，大肆屠杀兄弟姐妹和朝中大臣，加重赋税劳役，秦朝统治迅速走向崩溃。",
+        "description": "公元前210年，秦二世胡亥即位，开启了新的统治时期。",
         "latitude": 34.3,
         "longitude": 108.7,
         "category": "政治",
@@ -2927,22 +2962,40 @@
         "continent": "亚洲"
       },
       {
-        "title": "西庇阿在西班牙",
-        "description": "罗马年轻将领普布利乌斯·科尔内利乌斯·西庇阿（后称'阿非利加努斯'）在父亲和叔父战死后自荐担任西班牙罗马军统帅。他年仅二十五岁即被任命为西班牙司令官。",
-        "latitude": 37.5,
-        "longitude": -4.0,
-        "category": "军事",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
         "title": "秦始皇去世",
-        "description": "秦始皇巡游途中去世。",
+        "description": "公元前210年，秦始皇去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
         "region": "秦",
         "continent": "亚洲"
+      },
+      {
+        "title": "秦始皇病逝沙丘",
+        "description": "公元前210年，秦始皇病逝沙丘，一个重要的历史人物离开了历史舞台。",
+        "latitude": 36.9,
+        "longitude": 115.2,
+        "category": "政治",
+        "region": "秦朝",
+        "continent": "亚洲"
+      },
+      {
+        "title": "秦始皇驾崩",
+        "description": "公元前210年，秦始皇驾崩，一个重要的历史人物离开了历史舞台。",
+        "latitude": 36.9,
+        "longitude": 115.1,
+        "category": "政治",
+        "region": "秦朝",
+        "continent": "亚洲"
+      },
+      {
+        "title": "西庇阿在西班牙",
+        "description": "公元前210年，在罗马共和国，西庇阿在西班牙。",
+        "latitude": 37.5,
+        "longitude": -4.0,
+        "category": "军事",
+        "region": "罗马共和国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2958,17 +3011,8 @@
     ],
     "events": [
       {
-        "title": "陈胜吴广起义",
-        "description": "陈胜、吴广等九百余名戍卒在蕲县大泽乡遇大雨延误行期，按秦律当斩。陈胜、吴广遂率众起义，提出'王侯将相宁有种乎'的口号。起义军迅速攻占陈县，陈胜称王，国号'张楚'。这是中国历史上第一次大规模平民起义。",
-        "latitude": 33.0,
-        "longitude": 116.0,
-        "category": "政治",
-        "region": "秦朝",
-        "continent": "亚洲"
-      },
-      {
         "title": "西庇阿攻占新迦太基",
-        "description": "罗马青年统帅西庇阿在西班牙发动奇袭，一举攻占了迦太基在西班牙的大本营——新迦太基（今卡塔赫纳）。他获得了大量金银、军需物资和西班牙人质的支持，罗马在西班牙的局势彻底逆转。",
+        "description": "公元前209年，在罗马共和国，西庇阿攻占新迦太基。",
         "latitude": 37.6,
         "longitude": -1.0,
         "category": "军事",
@@ -2977,12 +3021,21 @@
       },
       {
         "title": "西班牙迦太基军失利",
-        "description": "罗马攻占新迦太基。",
+        "description": "公元前209年，在罗马共和国，西班牙迦太基军失利。",
         "latitude": 37.5,
         "longitude": -1.0,
         "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "陈胜吴广起义",
+        "description": "公元前209年，秦朝爆发陈胜吴广起义，对当局造成了巨大冲击。",
+        "latitude": 33.0,
+        "longitude": 116.0,
+        "category": "政治",
+        "region": "秦朝",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2998,17 +3051,17 @@
     ],
     "events": [
       {
-        "title": "项梁定陶阵亡",
-        "description": "原楚国将领项梁在陈胜死后率八千江东子弟渡江反秦，立楚怀王孙心为楚王。项梁在东阿、定陶等地屡败秦军，但因骄傲轻敌，在定陶被秦将章邯夜袭，战死沙场。其侄项羽和刘邦继续抗秦。",
-        "latitude": 35.0,
-        "longitude": 115.5,
+        "title": "大西庇阿在西班牙",
+        "description": "公元前208年，在罗马共和国，大西庇阿在西班牙。",
+        "latitude": 37.5,
+        "longitude": -1.0,
         "category": "军事",
-        "region": "楚军",
-        "continent": "亚洲"
+        "region": "罗马共和国",
+        "continent": "欧洲"
       },
       {
         "title": "贝库拉战役",
-        "description": "西庇阿在西班牙的贝库拉击败汉尼拔之弟哈斯德鲁巴的军队。哈斯德鲁巴率残部翻越阿尔卑斯山前往意大利增援汉尼拔，但损失了大量兵力。",
+        "description": "公元前208年，罗马共和国爆发贝库拉战役，战事在罗马共和国地区全面展开。",
         "latitude": 38.0,
         "longitude": -3.0,
         "category": "军事",
@@ -3016,13 +3069,13 @@
         "continent": "欧洲"
       },
       {
-        "title": "大西庇阿在西班牙",
-        "description": "罗马取西班牙。",
-        "latitude": 37.5,
-        "longitude": -1.0,
+        "title": "项梁定陶阵亡",
+        "description": "公元前208年，在楚军，项梁定陶阵亡。",
+        "latitude": 35.0,
+        "longitude": 115.5,
         "category": "军事",
-        "region": "罗马共和国",
-        "continent": "欧洲"
+        "region": "楚军",
+        "continent": "亚洲"
       }
     ]
   },
@@ -3039,7 +3092,7 @@
     "events": [
       {
         "title": "巨鹿之战",
-        "description": "楚将项羽率军在巨鹿与秦将章邯、王离主力决战。项羽破釜沉舟，率楚军九战九捷，大败秦军。王离被俘，章邯投降。此战消灭了秦军主力，项羽从此成为反秦联军实际领袖。",
+        "description": "公元前207年，楚军爆发巨鹿之战，战事在楚军地区全面展开。",
         "latitude": 37.0,
         "longitude": 115.0,
         "category": "军事",
@@ -3048,7 +3101,7 @@
       },
       {
         "title": "梅陶鲁斯河战役",
-        "description": "哈斯德鲁巴率军翻越阿尔卑斯山进入意大利支援汉尼拔。罗马执政官尼禄和萨利纳托在梅陶鲁斯河截击哈斯德鲁巴，哈斯德鲁巴战死。汉尼拔得知弟弟首级被掷入营中后哀叹命运。",
+        "description": "公元前207年，罗马共和国爆发梅陶鲁斯河战役，战事在罗马共和国地区全面展开。",
         "latitude": 43.8,
         "longitude": 13.0,
         "category": "军事",
@@ -3070,7 +3123,7 @@
     "events": [
       {
         "title": "刘邦入咸阳，秦朝灭亡",
-        "description": "刘邦率军攻入武关，秦王子婴素车白马、系颈以组出降，秦朝灭亡。刘邦进入咸阳后与百姓约法三章——'杀人者死，伤人及盗抵罪'，废除秦朝苛法，大得民心。",
+        "description": "公元前206年，汉军地区的刘邦入咸阳，秦朝灭亡，一个时代由此终结。",
         "latitude": 34.3,
         "longitude": 108.7,
         "category": "政治",
@@ -3078,22 +3131,31 @@
         "continent": "亚洲"
       },
       {
-        "title": "项羽鸿门宴",
-        "description": "项羽率四十万大军入关中，进驻鸿门。刘邦以十万兵力驻霸上。项羽谋士范增劝其除掉刘邦。项羽在鸿门设宴，项庄舞剑意在沛公，后项羽犹豫未杀刘邦。刘邦趁机脱逃，留下历史上著名的鸿门宴故事。",
+        "title": "刘邦进咸阳",
+        "description": "公元前206年，在西汉，刘邦进咸阳。",
         "latitude": 34.3,
-        "longitude": 108.9,
+        "longitude": 108.86,
         "category": "政治",
-        "region": "楚军",
+        "region": "西汉",
         "continent": "亚洲"
       },
       {
         "title": "汉尼拔退守意大利最南端",
-        "description": "汉尼拔兵力耗竭。",
+        "description": "公元前206年，迦太基发生汉尼拔退守意大利最南端，对当地军事格局产生了重要影响。",
         "latitude": 39.5,
         "longitude": 17.0,
         "category": "军事",
         "region": "迦太基",
         "continent": "欧洲"
+      },
+      {
+        "title": "项羽鸿门宴",
+        "description": "公元前206年，在楚军，项羽鸿门宴。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "楚军",
+        "continent": "亚洲"
       }
     ]
   },
@@ -3109,17 +3171,17 @@
     ],
     "events": [
       {
-        "title": "项羽分封天下",
-        "description": "项羽分天下为十八国，尊楚怀王为义帝，自立为西楚霸王，都彭城。封刘邦为汉王，管辖巴蜀、汉中。刘邦赴汉中途中烧毁栈道以表示无意东归。此后刘邦在韩信辅佐下暗度陈仓，还定三秦。",
-        "latitude": 34.3,
-        "longitude": 108.7,
-        "category": "政治",
-        "region": "西楚",
-        "continent": "亚洲"
+        "title": "西庇阿计划攻北非",
+        "description": "公元前205年，在罗马共和国，西庇阿计划攻北非。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "军事",
+        "region": "罗马共和国",
+        "continent": "欧洲"
       },
       {
         "title": "韩信暗度陈仓",
-        "description": "汉王刘邦采纳大将韩信'明修栈道、暗度陈仓'之策，表面上修复栈道迷惑敌军，暗中率军从陈仓道突袭雍王章邯。章邯兵败自杀，刘邦迅速平定关中三秦之地。",
+        "description": "公元前205年，汉军发生韩信暗度陈仓，对当地军事格局产生了重要影响。",
         "latitude": 34.4,
         "longitude": 107.0,
         "category": "军事",
@@ -3127,13 +3189,13 @@
         "continent": "欧洲"
       },
       {
-        "title": "西庇阿计划攻北非",
-        "description": "大西庇阿准备远征迦太基。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "军事",
-        "region": "罗马共和国",
-        "continent": "欧洲"
+        "title": "项羽分封天下",
+        "description": "公元前205年，在西楚，项羽分封天下。",
+        "latitude": 34.3,
+        "longitude": 108.7,
+        "category": "政治",
+        "region": "西楚",
+        "continent": "亚洲"
       }
     ]
   },
@@ -3149,22 +3211,22 @@
     ],
     "events": [
       {
-        "title": "韩信背水一战",
-        "description": "韩信率数万汉军攻赵，在井陉口背水列阵。赵军二十万人大笑汉军不懂兵法。但韩信设伏兵抢旗，正面背水无退路的汉军殊死战斗，伏兵乘机插入赵军大营拔旗换帜。赵军大乱溃败。这是以少胜多的经典战例。",
-        "latitude": 38.0,
-        "longitude": 114.0,
-        "category": "军事",
-        "region": "汉军",
-        "continent": "亚洲"
-      },
-      {
         "title": "西庇阿入侵非洲",
-        "description": "西庇阿从西西里渡海入侵迦太基本土。迦太基紧急召回汉尼拔回援。西庇阿在乌提卡附近击败迦太基军队，并争取到努米底亚国王马西尼萨的结盟。",
+        "description": "公元前204年，西庇阿入侵非洲，罗马共和国的军事力量向目标地区推进。",
         "latitude": 37.0,
         "longitude": 10.0,
         "category": "军事",
         "region": "罗马共和国",
         "continent": "非洲"
+      },
+      {
+        "title": "韩信背水一战",
+        "description": "公元前204年，在汉军，韩信背水一战。",
+        "latitude": 38.0,
+        "longitude": 114.0,
+        "category": "军事",
+        "region": "汉军",
+        "continent": "亚洲"
       }
     ]
   },
@@ -3180,17 +3242,8 @@
     ],
     "events": [
       {
-        "title": "汉尼拔从意大利回师",
-        "description": "汉尼拔在意大利征战十五年后奉命撤回非洲驰援迦太基。他离开时深感不甘，据说在意大利土地上留下深深的脚印。汉尼拔的撤离标志着罗马在第二次布匿战争中终于取得主动权。",
-        "latitude": 38.0,
-        "longitude": 15.0,
-        "category": "军事",
-        "region": "迦太基",
-        "continent": "欧洲"
-      },
-      {
         "title": "大平原战役",
-        "description": "西庇阿与马西尼萨联手在巴格拉达斯河的大平原击败迦太基和努米底亚联军。迦太基被迫接受和谈条件，但又在汉尼拔返回后撕毁和约，继续战争。",
+        "description": "公元前203年，罗马共和国爆发大平原战役，战事在罗马共和国地区全面展开。",
         "latitude": 36.5,
         "longitude": 9.5,
         "category": "军事",
@@ -3198,8 +3251,17 @@
         "continent": "非洲"
       },
       {
+        "title": "汉尼拔从意大利回师",
+        "description": "公元前203年，在迦太基，汉尼拔从意大利回师。",
+        "latitude": 38.0,
+        "longitude": 15.0,
+        "category": "军事",
+        "region": "迦太基",
+        "continent": "欧洲"
+      },
+      {
         "title": "汉尼拔被召回北非",
-        "description": "迦太基召回汉尼拔保卫。",
+        "description": "公元前203年，在迦太基，汉尼拔被召回北非。",
         "latitude": 37.0,
         "longitude": 10.5,
         "category": "军事",
@@ -3220,17 +3282,8 @@
     ],
     "events": [
       {
-        "title": "垓下之战与项羽自刎",
-        "description": "刘邦与韩信、彭越、英布等各路汉军共约三十万在垓下包围项羽十万楚军。四面楚歌中项羽率八百壮士突围至乌江边，因无颜见江东父老而不愿渡江，自刎而死。历时四年的楚汉战争以刘邦胜利告终。",
-        "latitude": 33.6,
-        "longitude": 117.5,
-        "category": "军事",
-        "region": "汉军",
-        "continent": "亚洲"
-      },
-      {
         "title": "刘邦称帝建立西汉",
-        "description": "刘邦在定陶氾水之阳即皇帝位，定国号为汉，定都洛阳（后迁长安），史称西汉。刘邦即汉高祖。西汉是中国历史上最强盛的王朝之一，延续四百余年。",
+        "description": "公元前202年，刘邦称帝建立西汉，标志着新的政治实体在西汉地区诞生。",
         "latitude": 35.0,
         "longitude": 115.5,
         "category": "政治",
@@ -3238,8 +3291,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "垓下之战与项羽自刎",
+        "description": "公元前202年，汉军地区爆发垓下之战与项羽自刎，交战双方为争夺战略要地展开激烈战斗。",
+        "latitude": 33.6,
+        "longitude": 117.5,
+        "category": "军事",
+        "region": "汉军",
+        "continent": "亚洲"
+      },
+      {
         "title": "扎马战役",
-        "description": "西庇阿与汉尼拔在扎马（迦太基以南约一百二十公里）进行决战。这是两位军事天才的首次也是唯一一次正面交锋。西庇阿利用灵活队形避开汉尼拔战象的冲击，骑兵迂回攻击后方。汉尼拔首次在战场上被击败。",
+        "description": "公元前202年，罗马共和国爆发扎马战役，战事在罗马共和国地区全面展开。",
         "latitude": 36.0,
         "longitude": 9.5,
         "category": "军事",
@@ -3260,17 +3322,8 @@
     ],
     "events": [
       {
-        "title": "第二次布匿战争结束",
-        "description": "迦太基被迫与罗马签订和约。迦太基交出全部战象和大部分舰队，支付巨额赔款，未经罗马允许不得对外发动战争。迦太基丧失了独立强国地位，而罗马成为西地中海无可争议的霸主。",
-        "latitude": 36.9,
-        "longitude": 10.3,
-        "category": "外交",
-        "region": "罗马共和国",
-        "continent": "非洲"
-      },
-      {
         "title": "刘邦封建功臣",
-        "description": "汉高祖刘邦分封韩信、彭越、英布等七位功臣为诸侯王，同时推行郡县制与封国制并行的体制。这些异姓诸侯王拥有相当大的自治权，后来成为中央集权的隐患。",
+        "description": "公元前201年，在西汉，刘邦封建功臣。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -3278,8 +3331,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "第二次布匿战争结束",
+        "description": "公元前201年，罗马共和国爆发第二次布匿战争结束，战事在罗马共和国地区全面展开。",
+        "latitude": 36.9,
+        "longitude": 10.3,
+        "category": "外交",
+        "region": "罗马共和国",
+        "continent": "非洲"
+      },
+      {
         "title": "迦太基沦为罗马附庸",
-        "description": "迦太基丧失海外领土赔款。",
+        "description": "公元前201年，在迦太基，迦太基沦为罗马附庸。",
         "latitude": 36.9,
         "longitude": 10.3,
         "category": "政治",

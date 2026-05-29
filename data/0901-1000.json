@@ -11,8 +11,8 @@
     ],
     "events": [
       {
-        "title": "朱温完全控制朝廷",
-        "description": "朱温率军入关，诛杀宦官七百余人，彻底铲除唐朝宦官势力。唐昭宗成为朱温的傀儡，唐朝军政大权完全落入朱温之手。",
+        "title": "唐昭宗被杀朱温专权",
+        "description": "公元901年，在唐，唐昭宗被杀朱温专权。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -20,17 +20,17 @@
         "continent": "亚洲"
       },
       {
-        "title": "耶律阿保机被选为契丹可汗",
-        "description": "契丹迭剌部首领耶律阿保机被推选为契丹部落联盟可汗。他统一契丹八部，建立辽政权的雏形，开始向中原方向发展。",
-        "latitude": 43.7,
-        "longitude": 122.3,
+        "title": "朱温完全控制朝廷",
+        "description": "公元901年，在唐，朱温完全控制朝廷。",
+        "latitude": 34.3,
+        "longitude": 108.9,
         "category": "政治",
-        "region": "契丹",
+        "region": "唐",
         "continent": "亚洲"
       },
       {
         "title": "玛雅文明后古典时期",
-        "description": "玛雅文明在奇琴伊察等城邦延续繁荣。",
+        "description": "公元901年，玛雅地区的文化艺术领域取得了重要成就，玛雅文明后古典时期成为这一时期的文化代表。",
         "latitude": 20.7,
         "longitude": -88.0,
         "category": "文化",
@@ -38,22 +38,22 @@
         "continent": "北美洲"
       },
       {
+        "title": "耶律阿保机被选为契丹可汗",
+        "description": "公元901年，在契丹，耶律阿保机被选为契丹可汗。",
+        "latitude": 43.7,
+        "longitude": 122.3,
+        "category": "政治",
+        "region": "契丹",
+        "continent": "亚洲"
+      },
+      {
         "title": "西欧封建城堡建设",
-        "description": "欧洲各地贵族建造石头城堡加强统治。",
+        "description": "公元901年，在西欧，西欧封建城堡建设。",
         "latitude": 48.0,
         "longitude": 2.0,
         "category": "军事",
         "region": "西欧",
         "continent": "欧洲"
-      },
-      {
-        "title": "唐昭宗被杀朱温专权",
-        "description": "唐朝名存实亡。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
-        "region": "唐",
-        "continent": "亚洲"
       }
     ]
   },
@@ -69,17 +69,17 @@
     ],
     "events": [
       {
-        "title": "李茂贞围攻凤翔，昭宗被挟持",
-        "description": "朱温攻打凤翔李茂贞，李茂贞挟持唐昭宗登城抵抗。凤翔被围一年多，城中粮尽，冻饿死者无数。李茂贞被迫杀宦官求和。",
-        "latitude": 34.5,
-        "longitude": 107.4,
-        "category": "军事",
-        "region": "唐",
-        "continent": "亚洲"
+        "title": "克罗地亚王国建立",
+        "description": "公元902年，克罗地亚王国建立，标志着新的政治实体在克罗地亚地区诞生。",
+        "latitude": 45.0,
+        "longitude": 16.0,
+        "category": "政治",
+        "region": "克罗地亚",
+        "continent": "欧洲"
       },
       {
         "title": "吴国建立",
-        "description": "唐朝封杨行密为吴王，吴国政权正式建立。吴国以扬州为都，占据江淮富庶之地，成为南方最强大的割据政权。",
+        "description": "公元902年，吴国建立，标志着新的政治实体在吴地区诞生。",
         "latitude": 32.4,
         "longitude": 119.4,
         "category": "政治",
@@ -87,26 +87,8 @@
         "continent": "亚洲"
       },
       {
-        "title": "神圣罗马帝国建立",
-        "description": "奥托一世加冕神圣罗马帝国皇帝，帝国统治德意志地区。",
-        "latitude": 51.5,
-        "longitude": 10.0,
-        "category": "政治",
-        "region": "神圣罗马帝国",
-        "continent": "欧洲"
-      },
-      {
-        "title": "欧洲封建庄园经济",
-        "description": "欧洲庄园经济自给自足。",
-        "latitude": 48.0,
-        "longitude": 3.0,
-        "category": "经济",
-        "region": "欧洲",
-        "continent": "欧洲"
-      },
-      {
         "title": "宋朝文官制度建立",
-        "description": "宋朝重用文官抑制武将制度形成。",
+        "description": "公元902年，宋朝文官制度建立，标志着新的政治实体在北宋地区诞生。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -114,12 +96,30 @@
         "continent": "亚洲"
       },
       {
-        "title": "克罗地亚王国建立",
-        "description": "托米斯拉夫统一。",
-        "latitude": 45.0,
-        "longitude": 16.0,
+        "title": "李茂贞围攻凤翔，昭宗被挟持",
+        "description": "公元902年，在唐，李茂贞围攻凤翔，昭宗被挟持。",
+        "latitude": 34.5,
+        "longitude": 107.4,
+        "category": "军事",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "欧洲封建庄园经济",
+        "description": "公元902年，欧洲经济领域发生欧洲封建庄园经济，对当时的经济生活产生了直接影响。",
+        "latitude": 48.0,
+        "longitude": 3.0,
+        "category": "经济",
+        "region": "欧洲",
+        "continent": "欧洲"
+      },
+      {
+        "title": "神圣罗马帝国建立",
+        "description": "公元902年，神圣罗马帝国建立，标志着新的政治实体在神圣罗马帝国地区诞生。",
+        "latitude": 51.5,
+        "longitude": 10.0,
         "category": "政治",
-        "region": "克罗地亚",
+        "region": "神圣罗马帝国",
         "continent": "欧洲"
       }
     ]
@@ -136,26 +136,8 @@
     ],
     "events": [
       {
-        "title": "朱温尽诛宦官",
-        "description": "朱温挟昭宗返回长安后，将宫中宦官八百余人全部诛杀。唐朝中后期延续一百余年的宦官专权局面至此终结。诏命各省政务改由士人掌管。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
-        "title": "宋朝市镇经济",
-        "description": "宋代草市和镇市经济日益繁荣。",
-        "latitude": 34.0,
-        "longitude": 117.0,
-        "category": "经济",
-        "region": "北宋",
-        "continent": "亚洲"
-      },
-      {
         "title": "东非海岸城邦兴起",
-        "description": "东非斯瓦希里海岸贸易城邦兴起。",
+        "description": "公元903年，在斯瓦希里，东非海岸城邦兴起。",
         "latitude": -6.0,
         "longitude": 39.0,
         "category": "政治",
@@ -163,8 +145,26 @@
         "continent": "非洲"
       },
       {
+        "title": "宋朝市镇经济",
+        "description": "公元903年，北宋经济领域发生宋朝市镇经济，对当时的经济生活产生了直接影响。",
+        "latitude": 34.0,
+        "longitude": 117.0,
+        "category": "经济",
+        "region": "北宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "朱温尽诛宦官",
+        "description": "公元903年，在唐，朱温尽诛宦官。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
         "title": "诺曼王国形成",
-        "description": "罗洛创诺曼底公国。",
+        "description": "公元903年，在诺曼底公国，诺曼王国形成。",
         "latitude": 49.5,
         "longitude": 1.0,
         "category": "政治",
@@ -185,17 +185,8 @@
     ],
     "events": [
       {
-        "title": "朱温弑唐昭宗",
-        "description": "朱温为篡位扫清障碍，指使人杀害唐昭宗李晔，立其年仅十三岁的儿子李柷为帝，是为唐哀帝。朱温随即强行将都城迁往洛阳。",
-        "latitude": 34.7,
-        "longitude": 112.5,
-        "category": "政治",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
-        "title": "中国五代十国时期",
-        "description": "中国处于分裂割据的五代十国时期。",
+        "title": "五代十国时期开始",
+        "description": "公元904年，在中国，五代十国时期开始。",
         "latitude": 35.0,
         "longitude": 114.0,
         "category": "政治",
@@ -203,35 +194,8 @@
         "continent": "亚洲"
       },
       {
-        "title": "阿拉伯商业网络扩张",
-        "description": "阿拉伯商人从地中海延伸到印度洋。",
-        "latitude": 35.0,
-        "longitude": 35.0,
-        "category": "经济",
-        "region": "阿拉伯帝国",
-        "continent": "亚洲"
-      },
-      {
-        "title": "拜占庭马其顿王朝复兴",
-        "description": "拜占庭帝国军事和文化复兴。",
-        "latitude": 41.0,
-        "longitude": 29.0,
-        "category": "政治",
-        "region": "拜占庭帝国",
-        "continent": "欧洲"
-      },
-      {
-        "title": "撒哈拉商路贸易",
-        "description": "撒哈拉沙漠商队贸易沟通北非和西非。",
-        "latitude": 23.0,
-        "longitude": 5.0,
-        "category": "经济",
-        "region": "非洲",
-        "continent": "非洲"
-      },
-      {
-        "title": "伊斯兰科学黄金时代",
-        "description": "阿拉伯天文学数学医学达到高峰。",
+        "title": "阿拉伯科学黄金时代",
+        "description": "公元904年，阿拉伯帝国的科技发展取得重要进展，伊斯兰科学黄金时代推动了相关领域的技术进步。",
         "latitude": 33.3,
         "longitude": 44.4,
         "category": "科技",
@@ -240,10 +204,46 @@
       },
       {
         "title": "伊斯兰苏菲派著作",
-        "description": "苏菲经典。",
+        "description": "公元904年，阿拉伯帝国地区的文化艺术领域取得了重要成就，伊斯兰苏菲派著作成为这一时期的文化代表。",
         "latitude": 33.3,
         "longitude": 44.4,
         "category": "文化",
+        "region": "阿拉伯帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "拜占庭马其顿王朝复兴",
+        "description": "公元904年，在拜占庭帝国，拜占庭马其顿王朝复兴。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "政治",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "撒哈拉商路贸易",
+        "description": "公元904年，非洲经济领域发生撒哈拉商路贸易，对当时的经济生活产生了直接影响。",
+        "latitude": 23.0,
+        "longitude": 5.0,
+        "category": "经济",
+        "region": "非洲",
+        "continent": "非洲"
+      },
+      {
+        "title": "朱温弑唐昭宗",
+        "description": "公元904年，在唐，朱温弑唐昭宗。",
+        "latitude": 34.7,
+        "longitude": 112.5,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
+        "title": "阿拉伯商业网络扩张",
+        "description": "公元904年，阿拉伯帝国经济领域发生阿拉伯商业网络扩张，对当时的经济生活产生了直接影响。",
+        "latitude": 35.0,
+        "longitude": 35.0,
+        "category": "经济",
         "region": "阿拉伯帝国",
         "continent": "亚洲"
       }
@@ -261,17 +261,8 @@
     ],
     "events": [
       {
-        "title": "白马驿之祸",
-        "description": "朱温在白马驿（今河南滑县）将唐廷朝臣裴枢、独孤损等三十余人全部处死，投尸黄河，称“此辈常自谓清流，宜投之黄河，使为浊流”。唐朝统治核心被彻底摧毁。",
-        "latitude": 35.6,
-        "longitude": 114.5,
-        "category": "政治",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
         "title": "基督教传入北欧",
-        "description": "丹麦、挪威和瑞典逐渐接受基督教。",
+        "description": "公元905年，北欧地区的宗教领域发生重要事件——基督教传入北欧，对信众的精神生活产生了深刻影响。",
         "latitude": 56.0,
         "longitude": 12.0,
         "category": "宗教",
@@ -280,7 +271,7 @@
       },
       {
         "title": "欧洲封建制度成熟",
-        "description": "欧洲封建领主制度和附庸关系成熟。",
+        "description": "公元905年，在欧洲，欧洲封建制度成熟。",
         "latitude": 48.0,
         "longitude": 3.0,
         "category": "政治",
@@ -288,8 +279,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "白马驿之祸",
+        "description": "公元905年，在唐，白马驿之祸。",
+        "latitude": 35.6,
+        "longitude": 114.5,
+        "category": "政治",
+        "region": "唐",
+        "continent": "亚洲"
+      },
+      {
         "title": "阿拉伯哲法拉比",
-        "description": "法拉比哲学。",
+        "description": "公元905年，阿拉伯帝国地区的文化艺术领域取得了重要成就，阿拉伯哲法拉比成为这一时期的文化代表。",
         "latitude": 33.3,
         "longitude": 44.4,
         "category": "文化",
@@ -311,7 +311,7 @@
     "events": [
       {
         "title": "唐末朱温篡唐",
-        "description": "朱温在消灭各大藩镇后准备代唐称帝，唐朝名存实亡。",
+        "description": "公元906年，在唐，唐末朱温篡唐。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -319,8 +319,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "拜占庭纳尔森海军",
+        "description": "公元906年，在拜占庭帝国，拜占庭纳尔森海军。",
+        "latitude": 39.0,
+        "longitude": 26.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
         "title": "新罗后期佛教艺术",
-        "description": "朝鲜半岛佛教石塔和寺庙建筑繁荣。",
+        "description": "公元906年，新罗地区的文化艺术领域取得了重要成就，新罗后期佛教艺术成为这一时期的文化代表。",
         "latitude": 37.6,
         "longitude": 127.0,
         "category": "文化",
@@ -329,21 +338,12 @@
       },
       {
         "title": "新罗末期农民起义",
-        "description": "新罗末期各地农民起义削弱王朝。",
+        "description": "公元906年，新罗爆发新罗末期农民起义，对当局造成了巨大冲击。",
         "latitude": 36.0,
         "longitude": 128.0,
         "category": "社会",
         "region": "新罗",
         "continent": "亚洲"
-      },
-      {
-        "title": "拜占庭纳尔森海军",
-        "description": "拜占庭海战。",
-        "latitude": 39.0,
-        "longitude": 26.0,
-        "category": "军事",
-        "region": "拜占庭帝国",
-        "continent": "欧洲"
       }
     ]
   },
@@ -366,7 +366,16 @@
     "events": [
       {
         "title": "唐朝灭亡，后梁建立",
-        "description": "朱温逼唐哀帝禅让，登基称帝，国号梁，定都开封，史称后梁。立国二百八十九年的唐朝灭亡，五代十国时期开始。",
+        "description": "公元907年，唐朝灭亡，后梁建立，标志着新的政治实体在后梁地区诞生。",
+        "latitude": 34.8,
+        "longitude": 114.3,
+        "category": "政治",
+        "region": "后梁",
+        "continent": "亚洲"
+      },
+      {
+        "title": "朱温篡唐",
+        "description": "公元907年，在后梁，朱温篡唐。",
         "latitude": 34.8,
         "longitude": 114.3,
         "category": "政治",
@@ -375,7 +384,7 @@
       },
       {
         "title": "耶律阿保机统一契丹",
-        "description": "耶律阿保机在统一契丹八部后，正式建立契丹国，为日后辽朝的建立奠定基础。契丹不断扩张，吞并奚、室韦等部。",
+        "description": "公元907年，在契丹，耶律阿保机统一契丹。",
         "latitude": 43.7,
         "longitude": 122.3,
         "category": "政治",
@@ -384,20 +393,11 @@
       },
       {
         "title": "越南独立建国",
-        "description": "越南脱离中国统治，丁朝、前黎朝相继建立。",
+        "description": "公元907年，越南独立建国，标志着新的政治实体在越南地区诞生。",
         "latitude": 21.0,
         "longitude": 106.0,
         "category": "政治",
         "region": "越南",
-        "continent": "亚洲"
-      },
-      {
-        "title": "朱温篡唐建梁",
-        "description": "朱温称帝灭唐。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
-        "region": "后梁",
         "continent": "亚洲"
       }
     ]
@@ -420,21 +420,21 @@
     ],
     "events": [
       {
-        "title": "李克用病逝，李存勖继位",
-        "description": "晋王李克用病逝，临终嘱托其子李存勖三支箭，代表三件未了心愿：灭梁、伐燕、逐契丹。李存勖继晋王位，成为后梁的劲敌。",
-        "latitude": 37.9,
-        "longitude": 112.5,
-        "category": "政治",
-        "region": "晋",
-        "continent": "亚洲"
-      },
-      {
         "title": "五代十国分立",
-        "description": "中国进入五代。",
+        "description": "公元908年，在中国，五代十国分立。",
         "latitude": 35.0,
         "longitude": 115.0,
         "category": "政治",
         "region": "中国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "李克用病逝，李存勖继位",
+        "description": "公元908年，李克用病逝，李存勖继位，开启了新的统治时期。",
+        "latitude": 37.9,
+        "longitude": 112.5,
+        "category": "政治",
+        "region": "晋",
         "continent": "亚洲"
       }
     ]
@@ -452,7 +452,7 @@
     "events": [
       {
         "title": "后梁迁都洛阳",
-        "description": "朱温将后梁都城从开封迁至洛阳，以利于防御晋军的进攻。但迁都之后，朱温日益猜忌，残杀功臣宿将，后梁内部矛盾加剧。",
+        "description": "公元909年，在后梁，后梁迁都洛阳。",
         "latitude": 34.7,
         "longitude": 112.5,
         "category": "政治",
@@ -460,22 +460,22 @@
         "continent": "亚洲"
       },
       {
-        "title": "西班牙后倭马亚王朝",
-        "description": "后倭马亚王朝在科尔多瓦创造繁荣文明。",
-        "latitude": 37.9,
-        "longitude": -4.8,
-        "category": "文化",
-        "region": "后倭马亚",
-        "continent": "欧洲"
-      },
-      {
         "title": "法蒂玛王朝北非建",
-        "description": "法蒂玛在突尼斯。",
+        "description": "公元909年，在法蒂玛王朝，法蒂玛王朝北非建。",
         "latitude": 34.0,
         "longitude": 9.0,
         "category": "政治",
         "region": "法蒂玛王朝",
         "continent": "非洲"
+      },
+      {
+        "title": "西班牙后倭马亚王朝",
+        "description": "公元909年，后倭马亚地区的文化艺术领域取得了重要成就，西班牙后倭马亚王朝成为这一时期的文化代表。",
+        "latitude": 37.9,
+        "longitude": -4.8,
+        "category": "文化",
+        "region": "后倭马亚",
+        "continent": "欧洲"
       }
     ]
   },
@@ -492,11 +492,11 @@
     "events": [
       {
         "title": "克吕尼修道院改革",
-        "description": "阿基坦公爵威廉一世捐赠克吕尼修道院，以严守本笃会规著称。",
+        "description": "公元910年，法国推行克吕尼修道院改革，对当地政治经济制度产生了深远影响。",
         "latitude": 46.4,
         "longitude": 4.7,
         "category": "宗教",
-        "region": "法兰西",
+        "region": "法国",
         "continent": "欧洲"
       }
     ]
@@ -513,22 +513,22 @@
     ],
     "events": [
       {
-        "title": "高季兴割据荆南",
-        "description": "高季兴被后梁封为渤海王，据有荆南（今湖北荆州）一带。荆南国地盘狭小，但地处交通要冲，靠征收商税和与各国周旋立国。",
-        "latitude": 30.3,
-        "longitude": 112.2,
-        "category": "政治",
-        "region": "荆南",
-        "continent": "亚洲"
-      },
-      {
         "title": "诺曼底公国正式",
-        "description": "罗洛受封诺曼底。",
+        "description": "公元911年，在诺曼底公国，诺曼底公国正式。",
         "latitude": 49.5,
         "longitude": 1.0,
         "category": "政治",
         "region": "诺曼底公国",
         "continent": "欧洲"
+      },
+      {
+        "title": "高季兴割据荆南",
+        "description": "公元911年，在荆南，高季兴割据荆南。",
+        "latitude": 30.3,
+        "longitude": 112.2,
+        "category": "政治",
+        "region": "荆南",
+        "continent": "亚洲"
       }
     ]
   },
@@ -545,7 +545,7 @@
     "events": [
       {
         "title": "朱温被其子所杀",
-        "description": "后梁太祖朱温因欲传位于养子朱友文，其亲子朱友珪发动政变，杀朱温自立。朱温从称帝到被杀仅五年，后梁统治不稳。",
+        "description": "公元912年，在后梁，朱温被其子所杀。",
         "latitude": 34.7,
         "longitude": 112.5,
         "category": "政治",
@@ -554,7 +554,7 @@
       },
       {
         "title": "法蒂玛王朝攻埃及",
-        "description": "法蒂玛东进。",
+        "description": "公元912年，在法蒂玛王朝，法蒂玛王朝攻埃及。",
         "latitude": 30.0,
         "longitude": 31.0,
         "category": "军事",
@@ -575,22 +575,22 @@
     ],
     "events": [
       {
-        "title": "朱友贞杀兄继位",
-        "description": "朱友珪称帝后荒淫无度，朱温之婿赵岩等发动政变，杀朱友珪。朱温第三子朱友贞即位，是为后梁末帝。后梁内部更加混乱。",
-        "latitude": 34.7,
-        "longitude": 112.5,
-        "category": "政治",
-        "region": "后梁",
-        "continent": "亚洲"
-      },
-      {
         "title": "拜占庭恢复",
-        "description": "拜占庭皇位更替。",
+        "description": "公元913年，在拜占庭帝国，拜占庭恢复。",
         "latitude": 41.0,
         "longitude": 29.0,
         "category": "政治",
         "region": "拜占庭帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "朱友贞杀兄继位",
+        "description": "公元913年，朱友贞杀兄继位，开启了新的统治时期。",
+        "latitude": 34.7,
+        "longitude": 112.5,
+        "category": "政治",
+        "region": "后梁",
+        "continent": "亚洲"
       }
     ]
   },
@@ -606,22 +606,22 @@
     ],
     "events": [
       {
-        "title": "拜占庭与保加利亚战争",
-        "description": "拜占庭帝国与保加利亚西美昂大帝持续交战。",
-        "latitude": 42.0,
-        "longitude": 26.0,
-        "category": "军事",
-        "region": "拜占庭帝国",
-        "continent": "欧洲"
-      },
-      {
         "title": "后梁朱友珪杀父",
-        "description": "宫廷政变。",
+        "description": "公元914年，在后梁，后梁朱友珪杀父。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
         "region": "后梁",
         "continent": "亚洲"
+      },
+      {
+        "title": "拜占庭与保加利亚战争",
+        "description": "公元914年，拜占庭帝国爆发拜占庭与保加利亚战争，战事在拜占庭帝国地区全面展开。",
+        "latitude": 42.0,
+        "longitude": 26.0,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -644,20 +644,11 @@
     "events": [
       {
         "title": "李存勖与后梁决战",
-        "description": "晋王李存勖在杨刘（今山东东阿）与后梁军交战，大败梁军。此后双方在黄河沿岸反复拉锯，晋军逐渐占据优势。",
+        "description": "公元915年，在晋，李存勖与后梁决战。",
         "latitude": 36.2,
         "longitude": 116.1,
         "category": "军事",
         "region": "晋",
-        "continent": "亚洲"
-      },
-      {
-        "title": "阿拉伯天文学繁荣",
-        "description": "巴塔尼星表。",
-        "latitude": 33.3,
-        "longitude": 44.4,
-        "category": "科技",
-        "region": "阿拉伯帝国",
         "continent": "亚洲"
       }
     ]
@@ -681,7 +672,7 @@
     "events": [
       {
         "title": "耶律阿保机称帝建立辽朝",
-        "description": "耶律阿保机正式称帝，建元神册，国号契丹（后改辽）。辽朝成为与中原王朝并立的强大帝国，控制蒙古高原和东北地区。",
+        "description": "公元916年，耶律阿保机称帝建立辽朝，标志着新的政治实体在辽地区诞生。",
         "latitude": 43.7,
         "longitude": 122.3,
         "category": "政治",
@@ -702,21 +693,21 @@
     ],
     "events": [
       {
-        "title": "大辽国建立",
-        "description": "契丹首领耶律阿保机在统一契丹各部后建立辽国。",
-        "latitude": 43.5,
-        "longitude": 122.0,
-        "category": "政治",
-        "region": "辽",
-        "continent": "亚洲"
-      },
-      {
         "title": "南汉建国",
-        "description": "刘䶮广州称帝。",
+        "description": "公元917年，南汉建国，标志着新的政治实体在南汉地区诞生。",
         "latitude": 23.0,
         "longitude": 113.0,
         "category": "政治",
         "region": "南汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "大辽国建立",
+        "description": "公元917年，大辽国建立，标志着新的政治实体在辽地区诞生。",
+        "latitude": 43.5,
+        "longitude": 122.0,
+        "category": "政治",
+        "region": "辽",
         "continent": "亚洲"
       }
     ]
@@ -739,21 +730,21 @@
     ],
     "events": [
       {
-        "title": "王建建立高丽王朝",
-        "description": "高丽大将王建推翻后三国时代的新罗，在开京（今开城）称王，建立高丽王朝。高丽统一朝鲜半岛后三国，延续近五百年。",
-        "latitude": 37.9,
-        "longitude": 126.5,
-        "category": "政治",
-        "region": "高丽",
-        "continent": "亚洲"
-      },
-      {
         "title": "前蜀王建称帝",
-        "description": "王建成都立。",
+        "description": "公元918年，前蜀王建称帝，开启了新的统治时期。",
         "latitude": 30.6,
         "longitude": 104.0,
         "category": "政治",
         "region": "前蜀",
+        "continent": "亚洲"
+      },
+      {
+        "title": "王建建立高丽王朝",
+        "description": "公元918年，王建建立高丽王朝，标志着新的政治实体在高丽地区诞生。",
+        "latitude": 37.9,
+        "longitude": 126.5,
+        "category": "政治",
+        "region": "高丽",
         "continent": "亚洲"
       }
     ]
@@ -771,7 +762,7 @@
     "events": [
       {
         "title": "杨隆演称吴国王",
-        "description": "吴王杨隆演正式称吴国王，改元武义。吴国采用天子礼仪，建立独立于中原王朝的政权体系。",
+        "description": "公元919年，在吴，杨隆演称吴国王。",
         "latitude": 32.4,
         "longitude": 119.4,
         "category": "政治",
@@ -780,7 +771,7 @@
       },
       {
         "title": "西法兰克查理三世",
-        "description": "查理简单者。",
+        "description": "公元919年，在西法兰克，西法兰克查理三世。",
         "latitude": 49.0,
         "longitude": 4.0,
         "category": "政治",
@@ -807,26 +798,8 @@
     ],
     "events": [
       {
-        "title": "辽创制契丹文字",
-        "description": "耶律阿保机命耶律突吕不创制契丹大字，并下诏颁行。契丹文字的创制标志着契丹民族文明程度的大幅提升。",
-        "latitude": 43.7,
-        "longitude": 122.3,
-        "category": "文化",
-        "region": "辽",
-        "continent": "亚洲"
-      },
-      {
-        "title": "室利佛逝衰落",
-        "description": "室利佛逝在爪哇和印度朱罗帝国的夹击下衰落。",
-        "latitude": -2.8,
-        "longitude": 104.0,
-        "category": "政治",
-        "region": "室利佛逝",
-        "continent": "亚洲"
-      },
-      {
         "title": "喀喇汗王朝建立",
-        "description": "回鹘人在中亚建立喀喇汗王朝。",
+        "description": "公元920年，喀喇汗王朝建立，标志着新的政治实体在喀喇汗地区诞生。",
         "latitude": 42.0,
         "longitude": 75.0,
         "category": "政治",
@@ -834,13 +807,31 @@
         "continent": "亚洲"
       },
       {
+        "title": "室利佛逝衰落",
+        "description": "公元920年，在室利佛逝，室利佛逝衰落。",
+        "latitude": -2.8,
+        "longitude": 104.0,
+        "category": "政治",
+        "region": "室利佛逝",
+        "continent": "亚洲"
+      },
+      {
         "title": "德意志亨利一世",
-        "description": "亨利捕鸟者。",
+        "description": "公元920年，在东法兰克，德意志亨利一世。",
         "latitude": 51.5,
         "longitude": 10.0,
         "category": "政治",
         "region": "东法兰克",
         "continent": "欧洲"
+      },
+      {
+        "title": "辽创制契丹文字",
+        "description": "公元920年，辽地区的文化艺术领域取得了重要成就，辽创制契丹文字成为这一时期的文化代表。",
+        "latitude": 43.7,
+        "longitude": 122.3,
+        "category": "文化",
+        "region": "辽",
+        "continent": "亚洲"
       }
     ]
   },
@@ -862,20 +853,20 @@
     ],
     "events": [
       {
-        "title": "辽攻幽州",
-        "description": "耶律阿保机率契丹军大举进攻幽州（今北京）。晋王李存勖调兵救援，契丹军撤走。辽与中原政权的军事冲突开始常态化。",
-        "latitude": 39.9,
-        "longitude": 116.4,
-        "category": "军事",
+        "title": "耶律阿保机建城",
+        "description": "公元921年，在辽，耶律阿保机建城。",
+        "latitude": 43.5,
+        "longitude": 122.0,
+        "category": "政治",
         "region": "辽",
         "continent": "亚洲"
       },
       {
-        "title": "耶律阿保机建城",
-        "description": "辽上京建成。",
-        "latitude": 43.5,
-        "longitude": 122.0,
-        "category": "政治",
+        "title": "辽攻幽州",
+        "description": "公元921年，在辽，辽攻幽州。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "军事",
         "region": "辽",
         "continent": "亚洲"
       }
@@ -893,20 +884,20 @@
     ],
     "events": [
       {
-        "title": "阿拉伯旅行家伊本·法德兰出访伏尔加保加利亚",
-        "description": "阿拔斯哈里发派遣伊本·法德兰出访伏尔加保加利亚，留下珍贵旅行记录。",
-        "latitude": 55.0,
-        "longitude": 49.0,
-        "category": "文化",
+        "title": "阿拉伯医学家拉齐",
+        "description": "公元922年，阿拉伯帝国的科技发展取得重要进展，阿拉伯医学家拉齐推动了相关领域的技术进步。",
+        "latitude": 33.5,
+        "longitude": 44.4,
+        "category": "科技",
         "region": "阿拉伯帝国",
         "continent": "亚洲"
       },
       {
-        "title": "阿拉伯医学家拉齐",
-        "description": "拉齐医学百科全书。",
-        "latitude": 33.5,
-        "longitude": 44.4,
-        "category": "科技",
+        "title": "阿拉伯旅行家伊本·法德兰出访伏尔加保加利亚",
+        "description": "公元922年，阿拉伯帝国地区的文化艺术领域取得了重要成就，阿拉伯旅行家伊本·法德兰出访伏尔加保加利亚成为这一时期的文化代表。",
+        "latitude": 55.0,
+        "longitude": 49.0,
+        "category": "文化",
         "region": "阿拉伯帝国",
         "continent": "亚洲"
       }
@@ -925,7 +916,7 @@
     "events": [
       {
         "title": "李存勖灭后梁，建立后唐",
-        "description": "晋王李存勖在魏州（今河北大名）称帝，国号唐，史称后唐。随即率军攻入开封，后梁末帝朱友贞自杀。后梁灭亡，后唐统一华北。",
+        "description": "公元923年，李存勖灭后梁，建立后唐，标志着新的政治实体在后唐地区诞生。",
         "latitude": 36.3,
         "longitude": 115.1,
         "category": "政治",
@@ -934,7 +925,7 @@
       },
       {
         "title": "西法兰克隆者路易",
-        "description": "西法兰克内战。",
+        "description": "公元923年，在西法兰克，西法兰克隆者路易。",
         "latitude": 49.0,
         "longitude": 4.0,
         "category": "政治",
@@ -955,22 +946,22 @@
     ],
     "events": [
       {
-        "title": "李存勖宠信伶人",
-        "description": "李存勖灭梁后沉迷享乐，宠信伶人宦官，疏远大臣。伶人景进等把持朝政，功臣宿将受到猜忌，后唐朝政迅速败坏。",
-        "latitude": 34.7,
-        "longitude": 112.5,
-        "category": "政治",
-        "region": "后唐",
-        "continent": "亚洲"
-      },
-      {
         "title": "东法兰克亨利击马扎尔",
-        "description": "亨利胜马扎尔。",
+        "description": "公元924年，在东法兰克，东法兰克亨利击马扎尔。",
         "latitude": 52.0,
         "longitude": 12.0,
         "category": "军事",
         "region": "东法兰克",
         "continent": "欧洲"
+      },
+      {
+        "title": "李存勖宠信伶人",
+        "description": "公元924年，在后唐，李存勖宠信伶人。",
+        "latitude": 34.7,
+        "longitude": 112.5,
+        "category": "政治",
+        "region": "后唐",
+        "continent": "亚洲"
       }
     ]
   },
@@ -987,7 +978,7 @@
     "events": [
       {
         "title": "后唐灭前蜀",
-        "description": "后唐命李继岌、郭崇韬率军攻蜀。前蜀后主王衍投降，前蜀灭亡。后唐尽有四川之地，势力达到鼎盛。",
+        "description": "公元925年，在后唐，后唐灭前蜀。",
         "latitude": 30.6,
         "longitude": 104.0,
         "category": "军事",
@@ -996,7 +987,7 @@
       },
       {
         "title": "后唐灭后梁",
-        "description": "李存勖统一北方。",
+        "description": "公元925年，在后唐，后唐灭后梁。",
         "latitude": 34.0,
         "longitude": 114.0,
         "category": "军事",
@@ -1024,7 +1015,7 @@
     "events": [
       {
         "title": "李存勖被杀，李嗣源即位",
-        "description": "后唐发生兵变，李存勖被乱兵射杀。养子李嗣源即位，是为后唐明宗。明宗清除伶人势力，减轻赋税，后唐政局趋于稳定。",
+        "description": "公元926年，李存勖被杀，李嗣源即位，开启了新的统治时期。",
         "latitude": 34.7,
         "longitude": 112.5,
         "category": "政治",
@@ -1032,20 +1023,20 @@
         "continent": "亚洲"
       },
       {
-        "title": "耶律阿保机去世",
-        "description": "辽太祖耶律阿保机在征讨渤海国后病逝。其次子耶律德光继位，是为辽太宗。辽朝进入太宗统治时期，开始更多介入中原事务。",
-        "latitude": 43.7,
-        "longitude": 122.3,
-        "category": "政治",
+        "title": "渤海国灭亡",
+        "description": "公元926年，辽地区的渤海国灭亡，一个时代由此终结。",
+        "latitude": 44.0,
+        "longitude": 128.0,
+        "category": "军事",
         "region": "辽",
         "continent": "亚洲"
       },
       {
-        "title": "渤海国灭亡",
-        "description": "辽太祖耶律阿保机攻灭渤海国（今东北地区），改其地为东丹国。享国二百二十九年的渤海国灭亡，东北地区纳入辽朝版图。",
-        "latitude": 44.0,
-        "longitude": 128.0,
-        "category": "军事",
+        "title": "耶律阿保机去世",
+        "description": "公元926年，耶律阿保机去世，一个重要的历史人物离开了历史舞台。",
+        "latitude": 43.7,
+        "longitude": 122.3,
+        "category": "政治",
         "region": "辽",
         "continent": "亚洲"
       }
@@ -1063,22 +1054,22 @@
     ],
     "events": [
       {
-        "title": "高丽统一后三国",
-        "description": "高丽王王建灭新罗，又灭后百济，统一朝鲜半岛。高丽仿唐制建立中央集权体制，定佛教为国教，朝鲜半岛进入高丽王朝时期。",
-        "latitude": 37.9,
-        "longitude": 126.5,
-        "category": "政治",
-        "region": "高丽",
-        "continent": "亚洲"
-      },
-      {
         "title": "英格兰王埃塞尔斯坦",
-        "description": "威塞克斯统一。",
+        "description": "公元927年，在英格兰，英格兰王埃塞尔斯坦。",
         "latitude": 52.0,
         "longitude": -2.0,
         "category": "政治",
         "region": "英格兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "高丽统一后三国",
+        "description": "公元927年，在高丽，高丽统一后三国。",
+        "latitude": 37.9,
+        "longitude": 126.5,
+        "category": "政治",
+        "region": "高丽",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1100,21 +1091,21 @@
     ],
     "events": [
       {
-        "title": "辽向南扩张",
-        "description": "辽太宗耶律德光派兵南下，攻占后唐的平州（今河北卢龙）等地。辽朝开始有计划地向南扩张，与中原王朝争夺幽云地区。",
-        "latitude": 39.9,
-        "longitude": 118.8,
-        "category": "军事",
-        "region": "辽",
-        "continent": "亚洲"
-      },
-      {
         "title": "吴越王钱镠治浙江",
-        "description": "吴越保境安民。",
+        "description": "公元928年，在吴越，吴越王钱镠治浙江。",
         "latitude": 30.3,
         "longitude": 120.2,
         "category": "政治",
         "region": "吴越",
+        "continent": "亚洲"
+      },
+      {
+        "title": "辽向南扩张",
+        "description": "公元928年，在辽，辽向南扩张。",
+        "latitude": 39.9,
+        "longitude": 118.8,
+        "category": "军事",
+        "region": "辽",
         "continent": "亚洲"
       }
     ]
@@ -1132,7 +1123,7 @@
     "events": [
       {
         "title": "楚王马殷去世",
-        "description": "楚王马殷病逝，其子马希声继位。楚国以湖南为中心，延续马殷时期的经济政策，鼓励种茶和丝织业，发展对外贸易。",
+        "description": "公元929年，楚王马殷去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 28.2,
         "longitude": 113.0,
         "category": "政治",
@@ -1141,7 +1132,7 @@
       },
       {
         "title": "法蒂玛迁都马赫迪耶",
-        "description": "法蒂玛兴建。",
+        "description": "公元929年，在法蒂玛王朝，法蒂玛迁都马赫迪耶。",
         "latitude": 35.5,
         "longitude": 11.0,
         "category": "政治",
@@ -1162,22 +1153,22 @@
     ],
     "events": [
       {
-        "title": "明宗整顿财政",
-        "description": "后唐明宗整顿财政，削除各道额外加征，减轻百姓负担。同时允许民间铸钱，开放铁禁。后唐经济有所恢复。",
-        "latitude": 34.7,
-        "longitude": 112.5,
-        "category": "经济",
-        "region": "后唐",
-        "continent": "亚洲"
-      },
-      {
         "title": "冰岛议会成立",
-        "description": "世界最早议会。",
+        "description": "公元930年，冰岛议会成立，标志着新的政治实体在冰岛地区诞生。",
         "latitude": 64.0,
         "longitude": -20.0,
         "category": "政治",
         "region": "冰岛",
         "continent": "欧洲"
+      },
+      {
+        "title": "明宗整顿财政",
+        "description": "公元930年，后唐经济领域发生明宗整顿财政，对当时的经济生活产生了直接影响。",
+        "latitude": 34.7,
+        "longitude": 112.5,
+        "category": "经济",
+        "region": "后唐",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1193,19 +1184,19 @@
     ],
     "events": [
       {
-        "title": "孟知祥据蜀",
-        "description": "后唐西川节度使孟知祥在蜀中练兵积粮，逐步摆脱朝廷控制。后唐无力西顾，孟知祥实际已独立。",
-        "latitude": 30.6,
-        "longitude": 104.0,
+        "title": "后唐明宗改革",
+        "description": "公元931年，后唐推行后唐明宗改革，对当地政治经济制度产生了深远影响。",
+        "latitude": 34.0,
+        "longitude": 114.0,
         "category": "政治",
         "region": "后唐",
         "continent": "亚洲"
       },
       {
-        "title": "后唐明宗改革",
-        "description": "明宗治世。",
-        "latitude": 34.0,
-        "longitude": 114.0,
+        "title": "孟知祥据蜀",
+        "description": "公元931年，在后唐，孟知祥据蜀。",
+        "latitude": 30.6,
+        "longitude": 104.0,
         "category": "政治",
         "region": "后唐",
         "continent": "亚洲"
@@ -1225,7 +1216,7 @@
     "events": [
       {
         "title": "后唐雕印《九经》",
-        "description": "后唐明宗命国子监雕版印刷儒家经典《九经》，由田敏主持。这是中国历史上首次由官方组织的大规模印刷儒家经典，对文化传播意义重大。",
+        "description": "公元932年，后唐地区的文化艺术领域取得了重要成就，后唐雕印《九经》成为这一时期的文化代表。",
         "latitude": 34.7,
         "longitude": 112.5,
         "category": "文化",
@@ -1234,7 +1225,7 @@
       },
       {
         "title": "科尔多瓦哈里发国极盛",
-        "description": "后倭马亚强盛。",
+        "description": "公元932年，在后倭马亚，科尔多瓦哈里发国极盛。",
         "latitude": 37.9,
         "longitude": -4.8,
         "category": "政治",
@@ -1256,7 +1247,7 @@
     "events": [
       {
         "title": "后唐明宗去世",
-        "description": "后唐明宗李嗣源病逝。明宗在位七年间，年谷丰收，兵戈罕用，是五代中难得的平静时期。其子李从厚继位，是为后唐闵帝。",
+        "description": "公元933年，后唐明宗去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 34.7,
         "longitude": 112.5,
         "category": "政治",
@@ -1265,7 +1256,7 @@
       },
       {
         "title": "罗斯与拜占庭条约",
-        "description": "基辅贸易约。",
+        "description": "公元933年，罗斯与拜占庭条约，该协议的签署影响了相关国家的关系格局。",
         "latitude": 41.0,
         "longitude": 29.0,
         "category": "外交",
@@ -1284,7 +1275,7 @@
         "era": "应顺元年"
       },
       {
-        "dynastyId": "shu",
+        "dynastyId": "wudai",
         "name": "后蜀",
         "ruler": "后蜀高祖孟知祥",
         "era": ""
@@ -1293,7 +1284,7 @@
     "events": [
       {
         "title": "后唐内乱，李从珂夺位",
-        "description": "后唐闵帝李从厚猜忌凤翔节度使李从珂，李从珂起兵攻入洛阳，废杀闵帝自立为帝，是为后唐末帝。后唐统治更加动荡。",
+        "description": "公元934年，在后唐，后唐内乱，李从珂夺位。",
         "latitude": 34.7,
         "longitude": 112.5,
         "category": "政治",
@@ -1302,7 +1293,7 @@
       },
       {
         "title": "孟知祥建后蜀",
-        "description": "孟知祥在成都称帝，建立后蜀。后蜀占地利之便，偏安西南，经济文化繁荣。孟知祥在位仅半年即病逝，其子孟昶继位。",
+        "description": "公元934年，在后蜀，孟知祥建后蜀。",
         "latitude": 30.6,
         "longitude": 104.0,
         "category": "政治",
@@ -1311,7 +1302,7 @@
       },
       {
         "title": "德王亨利击丹麦",
-        "description": "亨利扩疆。",
+        "description": "公元934年，在东法兰克，德王亨利击丹麦。",
         "latitude": 54.0,
         "longitude": 10.0,
         "category": "军事",
@@ -1339,7 +1330,7 @@
     "events": [
       {
         "title": "闽国内乱",
-        "description": "闽王王延钧称帝后荒淫暴虐，被长子王继鹏所杀。闽国陷入内乱，诸子争立，国势日衰。",
+        "description": "公元935年，在闽，闽国内乱。",
         "latitude": 26.1,
         "longitude": 119.3,
         "category": "政治",
@@ -1348,7 +1339,7 @@
       },
       {
         "title": "高丽统一朝鲜",
-        "description": "王建灭后百济。",
+        "description": "公元935年，在高丽，高丽统一朝鲜。",
         "latitude": 37.6,
         "longitude": 127.0,
         "category": "政治",
@@ -1376,7 +1367,7 @@
     "events": [
       {
         "title": "石敬瑭割让燕云十六州",
-        "description": "后唐河东节度使石敬瑭以割让燕云十六州、称儿皇帝为条件，向辽太宗借兵灭后唐。辽军南下击败后唐军，石敬瑭建立后晋，割幽云十六州予辽。",
+        "description": "公元936年，在后晋，石敬瑭割让燕云十六州。",
         "latitude": 39.9,
         "longitude": 116.4,
         "category": "政治",
@@ -1398,7 +1389,7 @@
     "events": [
       {
         "title": "南唐建立",
-        "description": "吴国权臣徐知诰废吴帝杨溥，自立为帝，国号大齐。后改名为李昪，改国号为唐，史称南唐。南唐以金陵（今南京）为都，为南方最强政权。",
+        "description": "公元937年，南唐建立，标志着新的政治实体在南唐地区诞生。",
         "latitude": 32.1,
         "longitude": 118.8,
         "category": "政治",
@@ -1407,7 +1398,7 @@
       },
       {
         "title": "德国奥托一世即位",
-        "description": "奥托大帝继。",
+        "description": "公元937年，德国奥托一世即位，开启了新的统治时期。",
         "latitude": 51.5,
         "longitude": 10.0,
         "category": "政治",
@@ -1434,22 +1425,22 @@
     ],
     "events": [
       {
-        "title": "石敬瑭称辽太宗为父皇帝",
-        "description": "石敬瑭向辽太宗上尊号，自称“儿皇帝”，每年进贡大量财物。此举虽然保住了后晋政权，但中原王朝从此在北方强邻面前处于屈辱地位。",
-        "latitude": 39.9,
-        "longitude": 116.4,
-        "category": "外交",
-        "region": "后晋",
-        "continent": "亚洲"
-      },
-      {
         "title": "奥托一世击波西米亚",
-        "description": "奥托扩张。",
+        "description": "公元938年，在东法兰克，奥托一世击波西米亚。",
         "latitude": 50.0,
         "longitude": 14.0,
         "category": "军事",
         "region": "东法兰克",
         "continent": "欧洲"
+      },
+      {
+        "title": "石敬瑭称辽太宗为父皇帝",
+        "description": "公元938年，后晋开展石敬瑭称辽太宗为父皇帝，体现了当时的国际关系格局。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "外交",
+        "region": "后晋",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1466,7 +1457,7 @@
     "events": [
       {
         "title": "交趾独立，吴权称王",
-        "description": "交趾（今越南北部）将领吴权击败南汉军队，自称吴王，建立吴朝。越南自此脱离中原王朝的直接统治，走向独立发展之路。",
+        "description": "公元939年，在交趾，交趾独立，吴权称王。",
         "latitude": 21.0,
         "longitude": 105.8,
         "category": "政治",
@@ -1475,7 +1466,7 @@
       },
       {
         "title": "拜占庭收复克里特",
-        "description": "拜占庭反攻。",
+        "description": "公元939年，在拜占庭帝国，拜占庭收复克里特。",
         "latitude": 35.4,
         "longitude": 25.0,
         "category": "军事",
@@ -1497,7 +1488,7 @@
     "events": [
       {
         "title": "后蜀广政通宝",
-        "description": "后蜀后主孟昶铸造“广政通宝”钱，发展经济。后蜀在孟昶治下社会安定，文化繁荣，成为五代十国时期最安宁的地区之一。",
+        "description": "公元940年，后蜀经济领域发生后蜀广政通宝，对当时的经济生活产生了直接影响。",
         "latitude": 30.6,
         "longitude": 104.0,
         "category": "经济",
@@ -1506,7 +1497,7 @@
       },
       {
         "title": "孟加拉帕拉王朝",
-        "description": "帕拉佛教兴。",
+        "description": "公元940年，帕拉王朝地区的宗教领域发生重要事件——孟加拉帕拉王朝，对信众的精神生活产生了深刻影响。",
         "latitude": 24.0,
         "longitude": 89.0,
         "category": "宗教",
@@ -1528,7 +1519,7 @@
     "events": [
       {
         "title": "基辅罗斯攻打君士坦丁堡",
-        "description": "基辅大公伊戈尔率军攻打君士坦丁堡，拜占庭使用希腊火击退罗斯舰队。",
+        "description": "公元941年，在基辅罗斯，基辅罗斯攻打君士坦丁堡。",
         "latitude": 41.0,
         "longitude": 29.0,
         "category": "军事",
@@ -1550,7 +1541,7 @@
     "events": [
       {
         "title": "石敬瑭去世",
-        "description": "后晋高祖石敬瑭病逝，其侄石重贵继位，是为后晋出帝。出帝拒绝向辽称臣，辽晋关系迅速恶化。",
+        "description": "公元942年，石敬瑭去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 34.8,
         "longitude": 114.3,
         "category": "政治",
@@ -1559,7 +1550,7 @@
       },
       {
         "title": "阿拉伯百年翻译运动尾",
-        "description": "科学著作丰。",
+        "description": "公元942年，阿拉伯帝国地区的文化艺术领域取得了重要成就，阿拉伯百年翻译运动尾成为这一时期的文化代表。",
         "latitude": 33.3,
         "longitude": 44.4,
         "category": "文化",
@@ -1586,22 +1577,22 @@
     ],
     "events": [
       {
-        "title": "辽晋战争爆发",
-        "description": "后晋出帝石重贵拒绝向辽称臣，辽太宗耶律德光率军南征。后晋军在澶州（今河南濮阳）击败辽军，但双方陷入长期战争。",
-        "latitude": 35.7,
-        "longitude": 115.0,
-        "category": "军事",
-        "region": "后晋",
-        "continent": "亚洲"
-      },
-      {
         "title": "玛雅文明式微",
-        "description": "玛雅低地衰。",
+        "description": "公元943年，玛雅社会领域出现玛雅文明式微，反映了社会的发展变化。",
         "latitude": 17.0,
         "longitude": -90.0,
         "category": "社会",
         "region": "玛雅",
         "continent": "北美洲"
+      },
+      {
+        "title": "辽晋战争爆发",
+        "description": "公元943年，后晋爆发辽晋战争爆发，战事在后晋地区全面展开。",
+        "latitude": 35.7,
+        "longitude": 115.0,
+        "category": "军事",
+        "region": "后晋",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1623,18 +1614,18 @@
     ],
     "events": [
       {
-        "title": "辽军大举南侵",
-        "description": "辽太宗再次率军大规模南侵，连克幽州、邢州等地。后晋军在戚城（今河南濮阳北）与辽军激战，双方胜负未分。",
-        "latitude": 35.8,
+        "title": "后晋与辽战争",
+        "description": "公元944年，后晋爆发后晋与辽战争，战事在后晋地区全面展开。",
+        "latitude": 38.0,
         "longitude": 115.0,
         "category": "军事",
         "region": "后晋",
         "continent": "亚洲"
       },
       {
-        "title": "后晋与辽战争",
-        "description": "石重贵抗辽。",
-        "latitude": 38.0,
+        "title": "辽军大举南侵",
+        "description": "公元944年，在后晋，辽军大举南侵。",
+        "latitude": 35.8,
         "longitude": 115.0,
         "category": "军事",
         "region": "后晋",
@@ -1661,21 +1652,12 @@
     "events": [
       {
         "title": "阳城之战，后晋大破辽军",
-        "description": "后晋军在阳城（今河北保定西南）与辽军决战，后晋将杜重威率军大破辽军，辽太宗仓皇北逃。但后晋内部矛盾重重，胜利未能持久。",
+        "description": "公元945年，后晋爆发阳城之战，后晋大破辽军，战事在后晋地区全面展开。",
         "latitude": 38.9,
         "longitude": 115.5,
         "category": "军事",
         "region": "后晋",
         "continent": "亚洲"
-      },
-      {
-        "title": "西非贸易繁荣",
-        "description": "加纳黄金。",
-        "latitude": 15.0,
-        "longitude": -8.0,
-        "category": "经济",
-        "region": "加纳王国",
-        "continent": "非洲"
       }
     ]
   },
@@ -1698,7 +1680,7 @@
     "events": [
       {
         "title": "后晋灭亡",
-        "description": "后晋大将杜重威在滹沱河投降辽朝，辽太宗率军直驱开封。后晋出帝石重贵投降，后晋灭亡。辽太宗进入开封，以中原皇帝身份接受朝拜。",
+        "description": "公元946年，后晋地区的后晋灭亡，一个时代由此终结。",
         "latitude": 34.8,
         "longitude": 114.3,
         "category": "军事",
@@ -1707,7 +1689,7 @@
       },
       {
         "title": "辽灭后晋",
-        "description": "辽入开封。",
+        "description": "公元946年，在辽，辽灭后晋。",
         "latitude": 34.8,
         "longitude": 114.3,
         "category": "军事",
@@ -1734,8 +1716,8 @@
     ],
     "events": [
       {
-        "title": "辽太宗北撤，后汉建立",
-        "description": "辽太宗在开封称帝后因中原军民反抗，被迫北返，病逝于栾城（今河北）。后晋河东节度使刘知远在太原称帝，建立后汉，随即攻占开封。",
+        "title": "刘知远建立后汉",
+        "description": "公元947年，刘知远建立后汉，标志着新的政治实体在后汉地区诞生。",
         "latitude": 37.9,
         "longitude": 112.5,
         "category": "政治",
@@ -1743,8 +1725,8 @@
         "continent": "亚洲"
       },
       {
-        "title": "刘知远建立后汉",
-        "description": "刘知远太原称帝。",
+        "title": "辽太宗北撤，后汉建立",
+        "description": "公元947年，辽太宗北撤，后汉建立，标志着新的政治实体在后汉地区诞生。",
         "latitude": 37.9,
         "longitude": 112.5,
         "category": "政治",
@@ -1766,7 +1748,7 @@
     "events": [
       {
         "title": "刘知远去世，隐帝即位",
-        "description": "后汉高祖刘知远病逝，其子刘承祐即位，是为后汉隐帝。隐帝年仅十八岁，由杨邠、史弘肇、王章等大臣辅政。",
+        "description": "公元948年，刘知远去世，隐帝即位，开启了新的统治时期。",
         "latitude": 34.8,
         "longitude": 114.3,
         "category": "政治",
@@ -1775,7 +1757,7 @@
       },
       {
         "title": "奥托一世击西法兰克",
-        "description": "奥托干涉。",
+        "description": "公元948年，在东法兰克，奥托一世击西法兰克。",
         "latitude": 49.0,
         "longitude": 4.0,
         "category": "军事",
@@ -1797,7 +1779,7 @@
     "events": [
       {
         "title": "后汉诸将镇守各方",
-        "description": "后汉以郭威为邺都留守、天雄军节度使，镇守河北。郭威治军有方，深得民心。同时赵匡胤开始在郭威帐下任职。",
+        "description": "公元949年，在后汉，后汉诸将镇守各方。",
         "latitude": 36.0,
         "longitude": 114.0,
         "category": "政治",
@@ -1806,7 +1788,7 @@
       },
       {
         "title": "大宋前夜",
-        "description": "郭威建后周。",
+        "description": "公元949年，在后周，大宋前夜。",
         "latitude": 34.0,
         "longitude": 114.0,
         "category": "政治",
@@ -1827,17 +1809,8 @@
     ],
     "events": [
       {
-        "title": "隐帝杀大臣，郭威起兵",
-        "description": "后汉隐帝猜忌大臣，杀杨邠、史弘肇、王章。又遣使赴邺都杀郭威，郭威被迫起兵。隐帝在开封郊外战死，后汉灭亡。",
-        "latitude": 34.8,
-        "longitude": 114.3,
-        "category": "政治",
-        "region": "后汉",
-        "continent": "亚洲"
-      },
-      {
-        "title": "中国火药配方记载",
-        "description": "宋代军事著作记载火药配方。",
+        "title": "火药配方记载",
+        "description": "公元950年，北宋的科技发展取得重要进展，中国火药配方记载推动了相关领域的技术进步。",
         "latitude": 34.0,
         "longitude": 115.0,
         "category": "科技",
@@ -1845,8 +1818,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "周世宗柴荣改革",
+        "description": "公元950年，后周推行周世宗柴荣改革，对当地政治经济制度产生了深远影响。",
+        "latitude": 34.0,
+        "longitude": 114.0,
+        "category": "政治",
+        "region": "后周",
+        "continent": "亚洲"
+      },
+      {
         "title": "基卢瓦成为东非贸易中心",
-        "description": "基卢瓦岛成为印度洋贸易重要中转站。",
+        "description": "公元950年，斯瓦希里经济领域发生基卢瓦成为东非贸易中心，对当时的经济生活产生了直接影响。",
         "latitude": -9.0,
         "longitude": 39.3,
         "category": "经济",
@@ -1854,12 +1836,12 @@
         "continent": "非洲"
       },
       {
-        "title": "周世宗柴荣改革",
-        "description": "后周改革。",
-        "latitude": 34.0,
-        "longitude": 114.0,
+        "title": "隐帝杀大臣，郭威起兵",
+        "description": "公元950年，在后汉，隐帝杀大臣，郭威起兵。",
+        "latitude": 34.8,
+        "longitude": 114.3,
         "category": "政治",
-        "region": "后周",
+        "region": "后汉",
         "continent": "亚洲"
       }
     ]
@@ -1882,17 +1864,8 @@
     ],
     "events": [
       {
-        "title": "郭威建立后周",
-        "description": "郭威在开封称帝，建立后周，是为后周太祖。郭威出身贫寒，深知民间疾苦，在位期间节俭爱民，改革税制，废除酷刑。",
-        "latitude": 34.8,
-        "longitude": 114.3,
-        "category": "政治",
-        "region": "后周",
-        "continent": "亚洲"
-      },
-      {
         "title": "刘旻建北汉",
-        "description": "后汉宗室刘旻在太原称帝，建立北汉。北汉依附辽朝，与后周对抗。十国格局中唯一位于北方的政权形成。",
+        "description": "公元951年，在北汉，刘旻建北汉。",
         "latitude": 37.9,
         "longitude": 112.5,
         "category": "政治",
@@ -1901,10 +1874,19 @@
       },
       {
         "title": "后周灭后汉",
-        "description": "后周统一北方。",
+        "description": "公元951年，在后周，后周灭后汉。",
         "latitude": 35.0,
         "longitude": 115.0,
         "category": "军事",
+        "region": "后周",
+        "continent": "亚洲"
+      },
+      {
+        "title": "郭威建立后周",
+        "description": "公元951年，郭威建立后周，标志着新的政治实体在后周地区诞生。",
+        "latitude": 34.8,
+        "longitude": 114.3,
+        "category": "政治",
         "region": "后周",
         "continent": "亚洲"
       }
@@ -1929,7 +1911,7 @@
     "events": [
       {
         "title": "后周平定慕容彦超之乱",
-        "description": "泰宁节度使慕容彦超勾结北汉和南唐反周，后周太祖郭威亲征，一举平定叛乱。后周政权进一步巩固。",
+        "description": "公元952年，在后周，后周平定慕容彦超之乱。",
         "latitude": 35.4,
         "longitude": 117.0,
         "category": "军事",
@@ -1938,7 +1920,7 @@
       },
       {
         "title": "奥托大帝征意大利",
-        "description": "奥托南下。",
+        "description": "公元952年，在东法兰克，奥托大帝征意大利。",
         "latitude": 45.0,
         "longitude": 10.0,
         "category": "军事",
@@ -1960,7 +1942,7 @@
     "events": [
       {
         "title": "奥托一世加冕为德意志国王",
-        "description": "东法兰克国王奥托一世巩固王权，后加冕为神圣罗马帝国皇帝。",
+        "description": "公元953年，奥托一世加冕为德意志国王，开启了新的统治时期。",
         "latitude": 51.5,
         "longitude": 10.0,
         "category": "政治",
@@ -1969,12 +1951,12 @@
       },
       {
         "title": "拜占庭收复哈马丹",
-        "description": "拜占庭东进。",
+        "description": "公元953年，在拜占庭帝国，拜占庭收复哈马丹。",
         "latitude": 37.5,
         "longitude": 43.0,
         "category": "军事",
         "region": "拜占庭帝国",
-        "continent": "亚洲"
+        "continent": "欧洲"
       }
     ]
   },
@@ -1996,8 +1978,17 @@
     ],
     "events": [
       {
+        "title": "周世宗征南唐",
+        "description": "公元954年，在后周，周世宗征南唐。",
+        "latitude": 32.0,
+        "longitude": 119.0,
+        "category": "军事",
+        "region": "后周",
+        "continent": "亚洲"
+      },
+      {
         "title": "郭威去世，柴荣即位",
-        "description": "后周太祖郭威病逝，养子柴荣即位，是为后周世宗。柴荣是五代最杰出的皇帝，立志“十年开拓天下，十年养百姓，十年致太平”。",
+        "description": "公元954年，郭威去世，柴荣即位，开启了新的统治时期。",
         "latitude": 34.8,
         "longitude": 114.3,
         "category": "政治",
@@ -2006,18 +1997,9 @@
       },
       {
         "title": "高平之战",
-        "description": "北汉联合辽军大举南侵，柴荣亲征，在高平（今山西高平）激战。后周军初战不利，柴荣亲自督战，斩临阵退缩的大将樊爱能、何徽等，振奋士气，大破北汉。",
+        "description": "公元954年，后周爆发高平之战，战事在后周地区全面展开。",
         "latitude": 35.8,
         "longitude": 112.9,
-        "category": "军事",
-        "region": "后周",
-        "continent": "亚洲"
-      },
-      {
-        "title": "周世宗征南唐",
-        "description": "淮南之战。",
-        "latitude": 32.0,
-        "longitude": 119.0,
         "category": "军事",
         "region": "后周",
         "continent": "亚洲"
@@ -2042,8 +2024,8 @@
     ],
     "events": [
       {
-        "title": "后周世宗灭佛",
-        "description": "柴荣下诏限制佛教，废除寺院三千余所，令僧尼还俗。销毁佛像铸钱，得铜数万斤。此举增加了财政收入，为统一战争奠定经济基础。",
+        "title": "周世宗灭佛",
+        "description": "公元955年，后周地区的宗教领域发生重要事件——周世宗灭佛，对信众的精神生活产生了深刻影响。",
         "latitude": 34.8,
         "longitude": 114.3,
         "category": "宗教",
@@ -2052,7 +2034,7 @@
       },
       {
         "title": "阿勒颇哈姆丹王朝",
-        "description": "汉达尼王朝。",
+        "description": "公元955年，叙利亚地区的文化艺术领域取得了重要成就，阿勒颇哈姆丹王朝成为这一时期的文化代表。",
         "latitude": 36.2,
         "longitude": 37.2,
         "category": "文化",
@@ -2074,7 +2056,7 @@
     "events": [
       {
         "title": "后周征伐南唐",
-        "description": "柴荣亲征南唐，在淮河流域屡败南唐军。夺取滁州、扬州等地。南唐被迫割让江北十四州。后周疆域大幅扩展，统一局面初显。",
+        "description": "公元956年，在后周，后周征伐南唐。",
         "latitude": 32.3,
         "longitude": 118.3,
         "category": "军事",
@@ -2083,7 +2065,7 @@
       },
       {
         "title": "神圣罗马帝国奥托称帝",
-        "description": "奥托加冕。",
+        "description": "公元956年，神圣罗马帝国奥托称帝，开启了新的统治时期。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -2105,21 +2087,12 @@
     "events": [
       {
         "title": "柴荣三征南唐",
-        "description": "柴荣第三次征南唐，攻破寿州（今安徽寿县），南唐清淮节度使刘仁赡战死。南唐中主李璟请和，割让江北全部领土。",
+        "description": "公元957年，在后周，柴荣三征南唐。",
         "latitude": 32.6,
         "longitude": 116.8,
         "category": "军事",
         "region": "后周",
         "continent": "亚洲"
-      },
-      {
-        "title": "拜占庭收复克里特岛",
-        "description": "拜占庭胜。",
-        "latitude": 35.4,
-        "longitude": 25.0,
-        "category": "军事",
-        "region": "拜占庭帝国",
-        "continent": "欧洲"
       }
     ]
   },
@@ -2136,7 +2109,7 @@
     "events": [
       {
         "title": "南唐称臣于后周",
-        "description": "南唐中主李璟向后周称臣，去帝号称国主，用后周年号。李璟忧惧而死，其子李煜继位，是为南唐后主。",
+        "description": "公元958年，在南唐，南唐称臣于后周。",
         "latitude": 32.1,
         "longitude": 118.8,
         "category": "政治",
@@ -2145,7 +2118,7 @@
       },
       {
         "title": "科尔多瓦清真寺扩建",
-        "description": "西班牙伊斯兰。",
+        "description": "公元958年，后倭马亚地区的文化艺术领域取得了重要成就，科尔多瓦清真寺扩建成为这一时期的文化代表。",
         "latitude": 37.9,
         "longitude": -4.8,
         "category": "文化",
@@ -2172,8 +2145,17 @@
     ],
     "events": [
       {
+        "title": "拜占庭收复阿勒颇",
+        "description": "公元959年，在拜占庭帝国，拜占庭收复阿勒颇。",
+        "latitude": 36.2,
+        "longitude": 37.2,
+        "category": "军事",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
         "title": "柴荣北伐契丹",
-        "description": "柴荣率军北伐辽朝，收复宁州、莫州、瀛州三州和瓦桥关三关。正准备进取幽州时，柴荣突然重病，被迫回师。五代最有雄才大略的君主英年早逝。",
+        "description": "公元959年，在后周，柴荣北伐契丹。",
         "latitude": 39.0,
         "longitude": 116.0,
         "category": "军事",
@@ -2182,20 +2164,11 @@
       },
       {
         "title": "柴荣驾崩，幼主即位",
-        "description": "后周世宗柴荣病逝，享年三十九岁。七岁幼子柴宗训继位，由宰相范质、王溥辅政。后周主少国疑，政权不稳固。",
+        "description": "公元959年，柴荣驾崩，幼主即位，开启了新的统治时期。",
         "latitude": 34.8,
         "longitude": 114.3,
         "category": "政治",
         "region": "后周",
-        "continent": "亚洲"
-      },
-      {
-        "title": "拜占庭收复阿勒颇",
-        "description": "拜占庭扩。",
-        "latitude": 36.2,
-        "longitude": 37.2,
-        "category": "军事",
-        "region": "拜占庭帝国",
         "continent": "亚洲"
       }
     ]
@@ -2218,35 +2191,8 @@
     ],
     "events": [
       {
-        "title": "陈桥兵变，北宋建立",
-        "description": "后周殿前都点检赵匡胤在陈桥驿（今河南封丘）被部下黄袍加身，率军回开封。后周幼主禅让，赵匡胤称帝，建国号宋，是为宋太祖。五代结束。",
-        "latitude": 34.9,
-        "longitude": 114.3,
-        "category": "政治",
-        "region": "北宋",
-        "continent": "亚洲"
-      },
-      {
-        "title": "宋太祖“一榻之外皆他人家”",
-        "description": "赵匡胤即位后，面对南方诸国和北方强辽，感叹“一榻之外，皆他人家”。他确立“先南后北”的统一方略，开始着手统一全国。",
-        "latitude": 34.8,
-        "longitude": 114.3,
-        "category": "政治",
-        "region": "北宋",
-        "continent": "亚洲"
-      },
-      {
-        "title": "占婆与越南冲突",
-        "description": "占婆王国与越南丁朝在边境交战。",
-        "latitude": 15.0,
-        "longitude": 108.0,
-        "category": "军事",
-        "region": "占婆",
-        "continent": "亚洲"
-      },
-      {
         "title": "伽色尼王朝建立",
-        "description": "突厥奴隶将军阿勒普特勤在阿富汗建立伽色尼王朝。",
+        "description": "公元960年，伽色尼王朝建立，标志着新的政治实体在伽色尼地区诞生。",
         "latitude": 33.0,
         "longitude": 66.0,
         "category": "政治",
@@ -2254,10 +2200,28 @@
         "continent": "亚洲"
       },
       {
-        "title": "赵匡胤陈桥兵变建宋",
-        "description": "赵匡胤黄袍加身。",
+        "title": "占婆与越南冲突",
+        "description": "公元960年，在占婆，占婆与越南冲突。",
+        "latitude": 15.0,
+        "longitude": 108.0,
+        "category": "军事",
+        "region": "占婆",
+        "continent": "亚洲"
+      },
+      {
+        "title": "宋太祖“一榻之外皆他人家”",
+        "description": "公元960年，在北宋，宋太祖“一榻之外皆他人家”。",
         "latitude": 34.8,
         "longitude": 114.3,
+        "category": "政治",
+        "region": "北宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "陈桥兵变",
+        "description": "后周世宗柴荣英年早逝留下七岁的恭帝柴宗训即位主少国疑难堪大任。此时北汉和契丹联军南下边关告急。殿前都点检赵匡胤奉命率禁军主力北上御敌。大军行至开封东北四十里的陈桥驿时天色已晚就地宿营。赵匡胤的弟弟赵光义和归德军掌书记赵普等人受天命之说影响认为赵匡胤才是真命天子于是一夜之间在军中散布流言说点检做天子是上天的旨意。次日黎明将士们群情激昂拥向赵匡胤的寝帐将预先准备好的黄龙袍披在他身上齐呼万岁。赵匡胤被迫被黄袍加身。他随即约法三章——回到开封后不得惊犯太后和幼主不得凌辱朝中大臣不得掠夺府库和百姓。大军返回开封后周宰相范质王溥等人在兵临城下之际被迫承认赵匡胤为帝。后周恭帝禅让赵匡胤即皇帝位建国号宋定都开封史称北宋。赵匡胤即宋太祖。",
+        "latitude": 35.0,
+        "longitude": 114.5,
         "category": "政治",
         "region": "北宋",
         "continent": "亚洲"
@@ -2283,19 +2247,10 @@
     "events": [
       {
         "title": "杯酒释兵权",
-        "description": "赵匡胤设宴将石守信、高怀德等将领的酒，劝其交出兵权，赏赐良田美宅使其安享富贵。宋太祖以和平方式解决了武将拥兵自重的历史难题。",
+        "description": "公元961年，在北宋，杯酒释兵权。",
         "latitude": 34.8,
         "longitude": 114.3,
         "category": "政治",
-        "region": "北宋",
-        "continent": "亚洲"
-      },
-      {
-        "title": "辽宋对峙开始",
-        "description": "宋辽关系。",
-        "latitude": 39.0,
-        "longitude": 116.0,
-        "category": "外交",
         "region": "北宋",
         "continent": "亚洲"
       }
@@ -2320,7 +2275,7 @@
     "events": [
       {
         "title": "奥托一世加冕神圣罗马帝国皇帝",
-        "description": "德意志国王奥托一世在罗马由教皇约翰十二世加冕为“罗马皇帝”，神圣罗马帝国正式建立。奥托一世是查理曼之后又一位强大的西欧君主。",
+        "description": "公元962年，奥托一世加冕神圣罗马帝国皇帝，开启了新的统治时期。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -2329,7 +2284,7 @@
       },
       {
         "title": "宋太祖改革中枢",
-        "description": "赵匡胤改革中央官制，设参知政事为副宰相，分割宰相权力；设枢密院掌军政；设三司掌财政。宋代二府三司体制初步形成。",
+        "description": "公元962年，北宋推行宋太祖改革中枢，对当地政治经济制度产生了深远影响。",
         "latitude": 34.8,
         "longitude": 114.3,
         "category": "政治",
@@ -2357,7 +2312,7 @@
     "events": [
       {
         "title": "宋灭荆南、湖南",
-        "description": "北宋发动统一战争，先灭荆南（南平），又灭湖南武平政权。宋军不费吹灰之力取两湖之地，南方诸国震恐。统一战争首战告捷。",
+        "description": "公元963年，在北宋，宋灭荆南、湖南。",
         "latitude": 30.3,
         "longitude": 112.2,
         "category": "军事",
@@ -2366,7 +2321,7 @@
       },
       {
         "title": "赵匡胤杯酒释兵权",
-        "description": "宋太祖收兵权。",
+        "description": "公元963年，在北宋，赵匡胤杯酒释兵权。",
         "latitude": 34.8,
         "longitude": 114.3,
         "category": "政治",
@@ -2394,7 +2349,7 @@
     "events": [
       {
         "title": "宋攻后蜀",
-        "description": "宋太祖命王全斌、曹彬分兵两路伐后蜀。宋军势如破竹，后蜀军队节节败退。后蜀末帝孟昶组织抵抗无效。",
+        "description": "公元964年，在北宋，宋攻后蜀。",
         "latitude": 30.6,
         "longitude": 104.0,
         "category": "军事",
@@ -2403,7 +2358,7 @@
       },
       {
         "title": "西里西亚基督教化",
-        "description": "波西米亚信教。",
+        "description": "公元964年，波西米亚地区的宗教领域发生重要事件——西里西亚基督教化，对信众的精神生活产生了深刻影响。",
         "latitude": 50.0,
         "longitude": 16.0,
         "category": "宗教",
@@ -2431,7 +2386,7 @@
     "events": [
       {
         "title": "后蜀灭亡",
-        "description": "后蜀后主孟昶投降北宋，后蜀灭亡。孟昶被俘送开封，七天后死去。后蜀富庶的四川盆地纳入北宋版图。",
+        "description": "公元965年，北宋地区的后蜀灭亡，一个时代由此终结。",
         "latitude": 30.6,
         "longitude": 104.0,
         "category": "军事",
@@ -2440,7 +2395,7 @@
       },
       {
         "title": "基辅罗斯东正教",
-        "description": "奥丽加信教。",
+        "description": "公元965年，基辅罗斯地区的宗教领域发生重要事件——基辅罗斯东正教，对信众的精神生活产生了深刻影响。",
         "latitude": 50.5,
         "longitude": 30.5,
         "category": "宗教",
@@ -2467,20 +2422,20 @@
     ],
     "events": [
       {
-        "title": "宋太祖完善科举制度",
-        "description": "宋太祖改革科举，废除公荐制度，实行糊名、誊录、殿试等制度。科举取士更加公平，大量寒门子弟得以进入仕途，推动宋代文官政治发展。",
-        "latitude": 34.8,
-        "longitude": 114.3,
-        "category": "政治",
+        "title": "北宋统一南方",
+        "description": "公元966年，在北宋，北宋统一南方。",
+        "latitude": 30.0,
+        "longitude": 104.0,
+        "category": "军事",
         "region": "北宋",
         "continent": "亚洲"
       },
       {
-        "title": "北宋统一南方",
-        "description": "宋灭后蜀南唐。",
-        "latitude": 30.0,
-        "longitude": 104.0,
-        "category": "军事",
+        "title": "宋太祖完善科举制度",
+        "description": "公元966年，在北宋，宋太祖完善科举制度。",
+        "latitude": 34.8,
+        "longitude": 114.3,
+        "category": "政治",
         "region": "北宋",
         "continent": "亚洲"
       }
@@ -2505,7 +2460,7 @@
     "events": [
       {
         "title": "南汉与宋对峙",
-        "description": "北宋灭后蜀后，开始准备进攻南汉。南汉君主刘鋹暴虐无道，国力衰弱，但恃岭南险阻，拒绝向北宋称臣。",
+        "description": "公元967年，在南汉，南汉与宋对峙。",
         "latitude": 23.1,
         "longitude": 113.3,
         "category": "政治",
@@ -2514,7 +2469,7 @@
       },
       {
         "title": "法蒂玛王朝入埃及",
-        "description": "法蒂玛夺埃及。",
+        "description": "公元967年，在法蒂玛王朝，法蒂玛王朝入埃及。",
         "latitude": 30.0,
         "longitude": 31.0,
         "category": "军事",
@@ -2542,7 +2497,7 @@
     "events": [
       {
         "title": "宋灭北汉之战开始",
-        "description": "宋太祖首次征伐北汉，围攻太原。辽朝派兵救援，宋军退兵。此后宋与北汉、辽之间在山西地区展开拉锯战。",
+        "description": "公元968年，北宋爆发宋灭北汉之战开始，战事在北宋地区全面展开。",
         "latitude": 37.9,
         "longitude": 112.5,
         "category": "军事",
@@ -2551,7 +2506,7 @@
       },
       {
         "title": "开罗建城",
-        "description": "法蒂玛建开罗。",
+        "description": "公元968年，在法蒂玛王朝，开罗建城。",
         "latitude": 30.0,
         "longitude": 31.2,
         "category": "政治",
@@ -2578,17 +2533,8 @@
     ],
     "events": [
       {
-        "title": "辽穆宗被杀，景宗即位",
-        "description": "辽穆宗耶律璟酗酒嗜杀，被近侍所杀。辽景宗耶律贤继位，在位期间励精图治，辽朝开始进入中兴时期。",
-        "latitude": 43.7,
-        "longitude": 122.3,
-        "category": "政治",
-        "region": "辽",
-        "continent": "亚洲"
-      },
-      {
         "title": "宋再征北汉",
-        "description": "宋太祖二次亲征北汉，围攻太原。辽将耶律沙率军救援，宋军再次无功而返。北宋调整战略，转而先攻南方。",
+        "description": "公元969年，在北宋，宋再征北汉。",
         "latitude": 37.9,
         "longitude": 112.5,
         "category": "军事",
@@ -2597,11 +2543,29 @@
       },
       {
         "title": "拜占庭收复安条克",
-        "description": "拜占庭胜。",
+        "description": "公元969年，在拜占庭帝国，拜占庭收复安条克。",
         "latitude": 36.2,
         "longitude": 36.8,
         "category": "军事",
         "region": "拜占庭帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "法蒂玛王朝征服埃及",
+        "description": "公元969年，在法蒂玛王朝，法蒂玛王朝征服埃及。",
+        "latitude": 30.04,
+        "longitude": 31.23,
+        "category": "政治",
+        "region": "法蒂玛王朝",
+        "continent": "非洲"
+      },
+      {
+        "title": "辽穆宗被杀，景宗即位",
+        "description": "公元969年，辽穆宗被杀，景宗即位，开启了新的统治时期。",
+        "latitude": 43.7,
+        "longitude": 122.3,
+        "category": "政治",
+        "region": "辽",
         "continent": "亚洲"
       }
     ]
@@ -2625,7 +2589,7 @@
     "events": [
       {
         "title": "宋灭南汉",
-        "description": "宋将潘美率军攻南汉，南汉末帝刘鋹投降。北宋进占广州，南汉灭亡，岭南地区纳入北宋版图。",
+        "description": "公元970年，在北宋，宋灭南汉。",
         "latitude": 23.1,
         "longitude": 113.3,
         "category": "军事",
@@ -2634,7 +2598,7 @@
       },
       {
         "title": "挪威王奥拉夫一世",
-        "description": "奥拉夫信教。",
+        "description": "公元970年，在挪威，挪威王奥拉夫一世。",
         "latitude": 60.0,
         "longitude": 10.0,
         "category": "政治",
@@ -2662,7 +2626,7 @@
     "events": [
       {
         "title": "南汉灭亡后的岭南治理",
-        "description": "北宋平定南汉后，废除南汉的苛捐杂税，安抚岭南百姓。宋太祖任命贤能官吏管理岭南，促进中原与岭南的经济文化交流。",
+        "description": "公元971年，北宋地区的南汉灭亡后的岭南治理，一个时代由此终结。",
         "latitude": 23.1,
         "longitude": 113.3,
         "category": "政治",
@@ -2671,7 +2635,7 @@
       },
       {
         "title": "斯堪的纳维亚基督教",
-        "description": "丹麦挪威。",
+        "description": "公元971年，北欧地区的宗教领域发生重要事件——斯堪的纳维亚基督教，对信众的精神生活产生了深刻影响。",
         "latitude": 57.0,
         "longitude": 10.0,
         "category": "宗教",
@@ -2699,7 +2663,7 @@
     "events": [
       {
         "title": "北宋整顿禁军",
-        "description": "宋太祖加强禁军建设，选天下精兵充实禁军，制定更戍法，使“兵不识将，将不识兵”，防止武将专权。宋代军事体制基本确立。",
+        "description": "公元972年，在北宋，北宋整顿禁军。",
         "latitude": 34.8,
         "longitude": 114.3,
         "category": "军事",
@@ -2708,7 +2672,7 @@
       },
       {
         "title": "奥托二世继位",
-        "description": "奥托二世帝。",
+        "description": "公元972年，奥托二世继位，开启了新的统治时期。",
         "latitude": 51.5,
         "longitude": 10.0,
         "category": "政治",
@@ -2736,7 +2700,7 @@
     "events": [
       {
         "title": "宋太祖与赵普“雪夜定策”",
-        "description": "宋太祖雪夜访赵普，商定“先南后北”统一方略的细节。赵普建议暂缓攻北汉，先取南方诸国。此策决定了北宋初年的军事布局。",
+        "description": "公元973年，在北宋，宋太祖与赵普“雪夜定策”。",
         "latitude": 34.8,
         "longitude": 114.3,
         "category": "政治",
@@ -2745,7 +2709,7 @@
       },
       {
         "title": "科尔多瓦哈里发希沙姆二世",
-        "description": "希沙姆年幼。",
+        "description": "公元973年，在后倭马亚，科尔多瓦哈里发希沙姆二世。",
         "latitude": 37.9,
         "longitude": -4.8,
         "category": "政治",
@@ -2773,19 +2737,10 @@
     "events": [
       {
         "title": "宋灭南唐之战",
-        "description": "宋太祖以曹彬为主帅，潘美为副帅，率十万大军攻南唐。宋军在采石矶搭浮桥渡江，包围金陵（今南京）。南唐后主李煜派使求和，宋太祖不允。",
+        "description": "公元974年，北宋爆发宋灭南唐之战，战事在北宋地区全面展开。",
         "latitude": 32.1,
         "longitude": 118.8,
         "category": "军事",
-        "region": "北宋",
-        "continent": "亚洲"
-      },
-      {
-        "title": "北宋政治稳定",
-        "description": "宋统一南方诸国。",
-        "latitude": 34.8,
-        "longitude": 114.3,
-        "category": "政治",
         "region": "北宋",
         "continent": "亚洲"
       }
@@ -2810,7 +2765,7 @@
     "events": [
       {
         "title": "南唐灭亡，李煜被俘",
-        "description": "北宋军攻破金陵，南唐后主李煜投降。“春花秋月何时了，往事知多少”成为绝唱。南唐灭亡，江南大片领土纳入北宋版图。",
+        "description": "公元975年，北宋地区的南唐灭亡，李煜被俘，一个时代由此终结。",
         "latitude": 32.1,
         "longitude": 118.8,
         "category": "军事",
@@ -2819,7 +2774,7 @@
       },
       {
         "title": "罗斯弗拉基米尔即位",
-        "description": "基辅新君。",
+        "description": "公元975年，罗斯弗拉基米尔即位，开启了新的统治时期。",
         "latitude": 50.5,
         "longitude": 30.5,
         "category": "政治",
@@ -2847,7 +2802,7 @@
     "events": [
       {
         "title": "宋太祖驾崩，太宗即位",
-        "description": "宋太祖赵匡胤突然驾崩，“斧声烛影”成千古之谜。皇弟赵光义即位，是为宋太宗。太宗继续统一事业，同时进一步加强文官政治。",
+        "description": "公元976年，宋太祖驾崩，太宗即位，开启了新的统治时期。",
         "latitude": 34.8,
         "longitude": 114.3,
         "category": "政治",
@@ -2856,7 +2811,7 @@
       },
       {
         "title": "赵光义即位宋太宗",
-        "description": "宋太宗继位。",
+        "description": "公元976年，赵光义即位宋太宗，开启了新的统治时期。",
         "latitude": 34.8,
         "longitude": 114.3,
         "category": "政治",
@@ -2883,22 +2838,22 @@
     ],
     "events": [
       {
-        "title": "陈洪进纳土归宋",
-        "description": "割据漳州、泉州的陈洪进向北宋献出领土，福建全境纳入北宋版图。吴越王钱俶也随之纳土归朝。南方割据政权基本扫清。",
-        "latitude": 24.9,
-        "longitude": 118.6,
-        "category": "政治",
-        "region": "北宋",
-        "continent": "亚洲"
-      },
-      {
         "title": "奥托二世击拜占庭争南意大利",
-        "description": "奥托南下。",
+        "description": "公元977年，在神圣罗马帝国，奥托二世击拜占庭争南意大利。",
         "latitude": 40.5,
         "longitude": 17.0,
         "category": "军事",
         "region": "神圣罗马帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "陈洪进纳土归宋",
+        "description": "公元977年，在北宋，陈洪进纳土归宋。",
+        "latitude": 24.9,
+        "longitude": 118.6,
+        "category": "政治",
+        "region": "北宋",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2921,7 +2876,7 @@
     "events": [
       {
         "title": "吴越纳土归宋",
-        "description": "吴越国王钱俶被迫赴开封朝见宋太宗，献上吴越十三州土地。吴越正式灭亡，两浙地区纳入北宋版图，南方统一基本完成。",
+        "description": "公元978年，在吴越，吴越纳土归宋。",
         "latitude": 30.3,
         "longitude": 120.2,
         "category": "政治",
@@ -2930,7 +2885,7 @@
       },
       {
         "title": "宋灭北汉统一中国",
-        "description": "十国结束。",
+        "description": "公元978年，在北宋，宋灭北汉统一中国。",
         "latitude": 37.9,
         "longitude": 112.5,
         "category": "军事",
@@ -2958,7 +2913,7 @@
     "events": [
       {
         "title": "北宋灭北汉，统一基本完成",
-        "description": "宋太宗亲征北汉，辽朝派兵救援被宋军击退。北汉主刘继元投降，立国二十八年的北汉灭亡。北宋基本完成统一大业（除燕云十六州外）。",
+        "description": "公元979年，在北宋，北宋灭北汉，统一基本完成。",
         "latitude": 37.9,
         "longitude": 112.5,
         "category": "军事",
@@ -2966,21 +2921,21 @@
         "continent": "亚洲"
       },
       {
-        "title": "高粱河之战，宋太宗北伐惨败",
-        "description": "宋太宗乘灭北汉之势，进攻辽朝试图收复幽云十六州。宋军围攻幽州（今北京），在高粱河与辽军决战，宋军大败。宋太宗乘驴车逃走。",
-        "latitude": 39.9,
-        "longitude": 116.4,
+        "title": "北宋统一全国",
+        "description": "公元979年，在北宋，北宋统一全国。",
+        "latitude": 37.87,
+        "longitude": 112.56,
         "category": "军事",
         "region": "北宋",
         "continent": "亚洲"
       },
       {
-        "title": "维吾尔文献发展",
-        "description": "高昌回鹘文化。",
-        "latitude": 43.0,
-        "longitude": 89.0,
-        "category": "文化",
-        "region": "回鹘",
+        "title": "高粱河之战，宋太宗北伐惨败",
+        "description": "公元979年，北宋爆发高粱河之战，宋太宗北伐惨败，战事在北宋地区全面展开。",
+        "latitude": 39.9,
+        "longitude": 116.4,
+        "category": "军事",
+        "region": "北宋",
         "continent": "亚洲"
       }
     ]
@@ -3003,17 +2958,17 @@
     ],
     "events": [
       {
-        "title": "辽军南侵，宋辽边境激战",
-        "description": "辽景宗派耶律休哥率军南侵，宋辽在雁门、满城等地交战。宋将杨业在雁门关大破辽军。宋辽边境冲突持续不断。",
-        "latitude": 39.0,
-        "longitude": 113.0,
-        "category": "军事",
-        "region": "北宋",
-        "continent": "亚洲"
+        "title": "基辅罗斯弗拉基米尔受洗",
+        "description": "公元980年，基辅罗斯地区的宗教领域发生重要事件——基辅罗斯弗拉基米尔受洗，对信众的精神生活产生了深刻影响。",
+        "latitude": 50.5,
+        "longitude": 30.5,
+        "category": "宗教",
+        "region": "基辅罗斯",
+        "continent": "欧洲"
       },
       {
         "title": "基辅罗斯接受东正教",
-        "description": "弗拉基米尔大公接受东正教为国教。",
+        "description": "公元980年，基辅罗斯地区的宗教领域发生重要事件——基辅罗斯接受东正教，对信众的精神生活产生了深刻影响。",
         "latitude": 50.5,
         "longitude": 30.5,
         "category": "宗教",
@@ -3022,7 +2977,7 @@
       },
       {
         "title": "桑海帝国早期形成",
-        "description": "桑海人在尼日尔河沿岸建立早期政权。",
+        "description": "公元980年，在桑海帝国，桑海帝国早期形成。",
         "latitude": 16.0,
         "longitude": 0.0,
         "category": "政治",
@@ -3030,13 +2985,13 @@
         "continent": "非洲"
       },
       {
-        "title": "基辅罗斯弗拉基米尔受洗",
-        "description": "基辅入东正教。",
-        "latitude": 50.5,
-        "longitude": 30.5,
-        "category": "宗教",
-        "region": "基辅罗斯",
-        "continent": "欧洲"
+        "title": "辽军南侵，宋辽边境激战",
+        "description": "公元980年，在北宋，辽军南侵，宋辽边境激战。",
+        "latitude": 39.0,
+        "longitude": 113.0,
+        "category": "军事",
+        "region": "北宋",
+        "continent": "亚洲"
       }
     ]
   },
@@ -3058,20 +3013,20 @@
     ],
     "events": [
       {
-        "title": "宋修《太平御览》",
-        "description": "宋太宗命李昉等编纂大型类书《太平御览》一千卷。全书引用经史子集各类书籍一千六百余种，是中国古代规模最大的百科全书之一。",
-        "latitude": 34.8,
-        "longitude": 114.3,
-        "category": "文化",
+        "title": "北宋筑城",
+        "description": "公元981年，在北宋，北宋筑城。",
+        "latitude": 39.0,
+        "longitude": 116.0,
+        "category": "军事",
         "region": "北宋",
         "continent": "亚洲"
       },
       {
-        "title": "北宋筑城",
-        "description": "宋边防。",
-        "latitude": 39.0,
-        "longitude": 116.0,
-        "category": "军事",
+        "title": "宋修《太平御览》",
+        "description": "公元981年，北宋地区的文化艺术领域取得了重要成就，宋修《太平御览》成为这一时期的文化代表。",
+        "latitude": 34.8,
+        "longitude": 114.3,
+        "category": "文化",
         "region": "北宋",
         "continent": "亚洲"
       }
@@ -3095,17 +3050,17 @@
     ],
     "events": [
       {
-        "title": "辽景宗去世，圣宗即位",
-        "description": "辽景宗耶律贤病逝，其子耶律隆绪即位，是为辽圣宗。圣宗年仅十二岁，由萧太后摄政。萧太后是辽朝著名的女政治家。",
-        "latitude": 43.7,
-        "longitude": 122.3,
+        "title": "拜占庭巴西尔二世",
+        "description": "公元982年，在拜占庭帝国，拜占庭巴西尔二世。",
+        "latitude": 41.0,
+        "longitude": 29.0,
         "category": "政治",
-        "region": "辽",
-        "continent": "亚洲"
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
       },
       {
         "title": "李继迁叛宋，西夏前身崛起",
-        "description": "党项族首领李继迁因不满宋朝政策，逃往地斤泽（今内蒙古鄂尔多斯）起兵抗宋。李继迁成为西夏建国的奠基人。",
+        "description": "公元982年，在西夏，李继迁叛宋，西夏前身崛起。",
         "latitude": 38.0,
         "longitude": 108.0,
         "category": "军事",
@@ -3113,13 +3068,22 @@
         "continent": "亚洲"
       },
       {
-        "title": "拜占庭巴西尔二世",
-        "description": "巴西尔二世。",
-        "latitude": 41.0,
-        "longitude": 29.0,
+        "title": "红发埃里克发现格陵兰",
+        "description": "公元982年，红发埃里克发现格陵兰，这是人类在格陵兰取得的重要科技成就。",
+        "latitude": 61.0,
+        "longitude": -45.0,
+        "category": "科技",
+        "region": "格陵兰",
+        "continent": "北美洲"
+      },
+      {
+        "title": "辽景宗去世，圣宗即位",
+        "description": "公元982年，辽景宗去世，圣宗即位，开启了新的统治时期。",
+        "latitude": 43.7,
+        "longitude": 122.3,
         "category": "政治",
-        "region": "拜占庭帝国",
-        "continent": "欧洲"
+        "region": "辽",
+        "continent": "亚洲"
       }
     ]
   },
@@ -3141,22 +3105,22 @@
     ],
     "events": [
       {
-        "title": "辽改元统和，萧太后摄政",
-        "description": "辽圣宗改元统和，萧绰（萧太后）正式摄政。萧太后重用韩德让等汉臣，推行汉化改革，整顿吏治，辽朝进入鼎盛时期。",
-        "latitude": 43.7,
-        "longitude": 122.3,
-        "category": "政治",
-        "region": "辽",
-        "continent": "亚洲"
-      },
-      {
         "title": "法蒂玛王朝沙漠艺术",
-        "description": "开罗繁荣。",
+        "description": "公元983年，法蒂玛王朝地区的文化艺术领域取得了重要成就，法蒂玛王朝沙漠艺术成为这一时期的文化代表。",
         "latitude": 30.0,
         "longitude": 31.2,
         "category": "文化",
         "region": "法蒂玛王朝",
         "continent": "非洲"
+      },
+      {
+        "title": "辽改元统和，萧太后摄政",
+        "description": "公元983年，在辽，辽改元统和，萧太后摄政。",
+        "latitude": 43.7,
+        "longitude": 122.3,
+        "category": "政治",
+        "region": "辽",
+        "continent": "亚洲"
       }
     ]
   },
@@ -3178,22 +3142,22 @@
     ],
     "events": [
       {
-        "title": "宋太宗改元雍熙",
-        "description": "宋太宗改元雍熙，社会经济持续发展，文化繁荣。太宗更大規模开科取士，举办大规模科举考试，录取进士近五百人。",
-        "latitude": 34.8,
-        "longitude": 114.3,
-        "category": "政治",
-        "region": "北宋",
-        "continent": "亚洲"
-      },
-      {
         "title": "奥托三世幼年",
-        "description": "奥托三世继。",
+        "description": "公元984年，在神圣罗马帝国，奥托三世幼年。",
         "latitude": 51.5,
         "longitude": 10.0,
         "category": "政治",
         "region": "神圣罗马帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "宋太宗改元雍熙",
+        "description": "公元984年，在北宋，宋太宗改元雍熙。",
+        "latitude": 34.8,
+        "longitude": 114.3,
+        "category": "政治",
+        "region": "北宋",
+        "continent": "亚洲"
       }
     ]
   },
@@ -3215,17 +3179,17 @@
     ],
     "events": [
       {
-        "title": "李继迁降辽",
-        "description": "党项首领李继迁在对抗宋朝不利后，转而向辽朝称臣。辽朝册封李继迁为夏国王，以联姻方式笼络。党项势力借助辽朝支持继续发展。",
-        "latitude": 38.0,
-        "longitude": 108.0,
-        "category": "外交",
-        "region": "辽",
+        "title": "宋辽战争初起",
+        "description": "公元985年，北宋爆发宋辽战争初起，战事在北宋地区全面展开。",
+        "latitude": 39.0,
+        "longitude": 116.0,
+        "category": "军事",
+        "region": "北宋",
         "continent": "亚洲"
       },
       {
         "title": "朱罗帝国扩张",
-        "description": "拉贾拉贾一世即位，朱罗帝国进入鼎盛时期。",
+        "description": "公元985年，在朱罗帝国，朱罗帝国扩张。",
         "latitude": 10.8,
         "longitude": 79.1,
         "category": "政治",
@@ -3233,12 +3197,12 @@
         "continent": "亚洲"
       },
       {
-        "title": "宋辽战争初起",
-        "description": "宋太宗征辽。",
-        "latitude": 39.0,
-        "longitude": 116.0,
-        "category": "军事",
-        "region": "北宋",
+        "title": "李继迁降辽",
+        "description": "公元985年，辽开展李继迁降辽，体现了当时的国际关系格局。",
+        "latitude": 38.0,
+        "longitude": 108.0,
+        "category": "外交",
+        "region": "辽",
         "continent": "亚洲"
       }
     ]
@@ -3261,17 +3225,17 @@
     ],
     "events": [
       {
-        "title": "雍熙北伐，杨业殉国",
-        "description": "宋太宗派曹彬、潘美、田重进分三路北伐辽朝，试图收复幽云十六州。初期取得胜利，但由于各路协调不力，在岐沟关遭遇惨败。杨业被俘绝食而死。",
-        "latitude": 39.5,
-        "longitude": 115.0,
+        "title": "拜占庭征服保加利亚",
+        "description": "公元986年，在拜占庭帝国，拜占庭征服保加利亚。",
+        "latitude": 42.7,
+        "longitude": 25.0,
         "category": "军事",
-        "region": "北宋",
-        "continent": "亚洲"
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
       },
       {
         "title": "杨业被俘绝食殉国",
-        "description": "宋将杨业在陈家谷口被辽军包围，因主帅潘美未按约定接应，杨业重伤被俘，绝食三日而死。杨业被誉为“杨无敌”，其事迹演化为杨家将的传奇故事。",
+        "description": "公元986年，在北宋，杨业被俘绝食殉国。",
         "latitude": 39.5,
         "longitude": 113.0,
         "category": "军事",
@@ -3279,13 +3243,13 @@
         "continent": "亚洲"
       },
       {
-        "title": "拜占庭征服保加利亚",
-        "description": "巴西尔战。",
-        "latitude": 42.7,
-        "longitude": 25.0,
+        "title": "雍熙北伐，杨业殉国",
+        "description": "公元986年，在北宋，雍熙北伐，杨业殉国。",
+        "latitude": 39.5,
+        "longitude": 115.0,
         "category": "军事",
-        "region": "拜占庭帝国",
-        "continent": "欧洲"
+        "region": "北宋",
+        "continent": "亚洲"
       }
     ]
   },
@@ -3308,7 +3272,7 @@
     "events": [
       {
         "title": "宋对辽转入战略防御",
-        "description": "雍熙北伐失败后，北宋对辽朝转入守势。宋太宗下令沿边州郡修固城池，推行“守内虚外”政策。北宋军事实力由攻转守。",
+        "description": "公元987年，在北宋，宋对辽转入战略防御。",
         "latitude": 34.8,
         "longitude": 114.3,
         "category": "政治",
@@ -3316,22 +3280,22 @@
         "continent": "亚洲"
       },
       {
-        "title": "托尔特克人占领奇琴伊察",
-        "description": "托尔特克人从中墨西哥来到尤卡坦，影响奇琴伊察。",
-        "latitude": 20.7,
-        "longitude": -88.0,
-        "category": "政治",
-        "region": "玛雅-托尔特克",
-        "continent": "北美洲"
-      },
-      {
         "title": "弗拉基米尔基督教化基辅",
-        "description": "罗斯大公受洗。",
+        "description": "公元987年，基辅罗斯地区的宗教领域发生重要事件——弗拉基米尔基督教化基辅，对信众的精神生活产生了深刻影响。",
         "latitude": 50.5,
         "longitude": 30.5,
         "category": "宗教",
         "region": "基辅罗斯",
         "continent": "欧洲"
+      },
+      {
+        "title": "托尔特克人占领奇琴伊察",
+        "description": "公元987年，在玛雅-托尔特克，托尔特克人占领奇琴伊察。",
+        "latitude": 20.7,
+        "longitude": -88.0,
+        "category": "政治",
+        "region": "玛雅-托尔特克",
+        "continent": "北美洲"
       }
     ]
   },
@@ -3353,8 +3317,17 @@
     ],
     "events": [
       {
+        "title": "丹麦瑞典王基督教",
+        "description": "公元988年，北欧地区的宗教领域发生重要事件——丹麦瑞典王基督教，对信众的精神生活产生了深刻影响。",
+        "latitude": 57.0,
+        "longitude": 15.0,
+        "category": "宗教",
+        "region": "北欧",
+        "continent": "欧洲"
+      },
+      {
         "title": "基辅罗斯受洗",
-        "description": "基辅大公弗拉基米尔一世在赫尔松接受东正教洗礼，下令基辅全城居民在第聂伯河受洗。基辅罗斯正式皈依东正教，开启了俄罗斯的基督教化进程。",
+        "description": "公元988年，基辅罗斯地区的宗教领域发生重要事件——基辅罗斯受洗，对信众的精神生活产生了深刻影响。",
         "latitude": 50.5,
         "longitude": 30.5,
         "category": "宗教",
@@ -3362,12 +3335,12 @@
         "continent": "欧洲"
       },
       {
-        "title": "丹麦瑞典王基督教",
-        "description": "奥拉夫等。",
-        "latitude": 57.0,
-        "longitude": 15.0,
+        "title": "基辅罗斯基督教化",
+        "description": "公元988年，基辅罗斯地区的宗教领域发生重要事件——基辅罗斯基督教化，对信众的精神生活产生了深刻影响。",
+        "latitude": 50.45,
+        "longitude": 30.52,
         "category": "宗教",
-        "region": "北欧",
+        "region": "基辅罗斯",
         "continent": "欧洲"
       }
     ]
@@ -3391,7 +3364,7 @@
     "events": [
       {
         "title": "宋太宗诏求直言",
-        "description": "雍熙北伐惨败后，宋太宗下诏求直言，群臣纷纷上书建言边防之策。宰相赵普等建议实行积极的防御策略，但太宗已无意再战。",
+        "description": "公元989年，在北宋，宋太宗诏求直言。",
         "latitude": 34.8,
         "longitude": 114.3,
         "category": "政治",
@@ -3400,7 +3373,7 @@
       },
       {
         "title": "宋辽冲突升级",
-        "description": "宋太宗志北。",
+        "description": "公元989年，在北宋，宋辽冲突升级。",
         "latitude": 39.0,
         "longitude": 116.0,
         "category": "军事",
@@ -3427,17 +3400,8 @@
     ],
     "events": [
       {
-        "title": "李继迁被辽封为夏国王",
-        "description": "辽圣宗正式册封李继迁为夏国王，将宗室女嫁其子李德明。李继迁获得辽朝支持后，实力大增，不断侵扰宋朝西北边境。",
-        "latitude": 38.0,
-        "longitude": 108.0,
-        "category": "外交",
-        "region": "西夏",
-        "continent": "亚洲"
-      },
-      {
         "title": "俄罗斯基辅与拜占庭联姻",
-        "description": "基辅大公弗拉基米尔与拜占庭公主安娜结婚。",
+        "description": "公元990年，基辅罗斯开展俄罗斯基辅与拜占庭联姻，体现了当时的国际关系格局。",
         "latitude": 50.5,
         "longitude": 30.5,
         "category": "外交",
@@ -3446,7 +3410,7 @@
       },
       {
         "title": "托尔特克首都图拉繁荣",
-        "description": "托尔特克人在图拉城建造金字塔和武士雕像。",
+        "description": "公元990年，托尔特克地区的文化艺术领域取得了重要成就，托尔特克首都图拉繁荣成为这一时期的文化代表。",
         "latitude": 20.0,
         "longitude": -99.0,
         "category": "文化",
@@ -3454,13 +3418,13 @@
         "continent": "北美洲"
       },
       {
-        "title": "拜占庭保加利亚战争",
-        "description": "拜占庭攻。",
-        "latitude": 42.0,
-        "longitude": 24.0,
-        "category": "军事",
-        "region": "拜占庭帝国",
-        "continent": "欧洲"
+        "title": "李继迁被辽封为夏国王",
+        "description": "公元990年，西夏开展李继迁被辽封为夏国王，体现了当时的国际关系格局。",
+        "latitude": 38.0,
+        "longitude": 108.0,
+        "category": "外交",
+        "region": "西夏",
+        "continent": "亚洲"
       }
     ]
   },
@@ -3483,7 +3447,7 @@
     "events": [
       {
         "title": "王禹偁上《端拱箴》",
-        "description": "宋代文学家王禹偁上《端拱箴》规劝宋太宗勤政爱民，革除弊端。王禹偁以直言敢谏著称，是北宋初期重要的政治家和文学家。",
+        "description": "公元991年，北宋地区的文化艺术领域取得了重要成就，王禹偁上《端拱箴》成为这一时期的文化代表。",
         "latitude": 34.8,
         "longitude": 114.3,
         "category": "文化",
@@ -3492,7 +3456,7 @@
       },
       {
         "title": "神圣罗马帝国封建制",
-        "description": "奥托三世。",
+        "description": "公元991年，在神圣罗马帝国，神圣罗马帝国封建制。",
         "latitude": 51.5,
         "longitude": 10.0,
         "category": "政治",
@@ -3519,22 +3483,22 @@
     ],
     "events": [
       {
-        "title": "高丽与辽朝战争",
-        "description": "辽圣宗征伐高丽，高丽王王治请降。高丽从此在宋辽之间采取平衡外交，同时向辽称臣，但与北宋保持密切的文化和贸易关系。",
-        "latitude": 37.9,
-        "longitude": 126.5,
-        "category": "军事",
-        "region": "高丽",
-        "continent": "亚洲"
-      },
-      {
         "title": "波兰波列斯瓦夫一世",
-        "description": "波兰王。",
+        "description": "公元992年，在波兰，波兰波列斯瓦夫一世。",
         "latitude": 52.0,
         "longitude": 20.0,
         "category": "政治",
         "region": "波兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "高丽与辽朝战争",
+        "description": "公元992年，高丽爆发高丽与辽朝战争，战事在高丽地区全面展开。",
+        "latitude": 37.9,
+        "longitude": 126.5,
+        "category": "军事",
+        "region": "高丽",
+        "continent": "亚洲"
       }
     ]
   },
@@ -3556,17 +3520,17 @@
     ],
     "events": [
       {
-        "title": "王小波、李顺起义",
-        "description": "四川青城人王小波以“吾疾贫富不均，今为汝均之”为号召发动起义。王小波战死后，李顺继领义军，攻占成都，建立大蜀政权。",
-        "latitude": 30.9,
-        "longitude": 103.5,
-        "category": "军事",
-        "region": "北宋",
-        "continent": "亚洲"
+        "title": "拜占庭教育复兴",
+        "description": "公元993年，拜占庭帝国地区的文化艺术领域取得了重要成就，拜占庭教育复兴成为这一时期的文化代表。",
+        "latitude": 41.0,
+        "longitude": 29.0,
+        "category": "文化",
+        "region": "拜占庭帝国",
+        "continent": "欧洲"
       },
       {
         "title": "朱罗入侵斯里兰卡",
-        "description": "朱罗帝国入侵斯里兰卡阿努拉德普勒王国。",
+        "description": "公元993年，在朱罗帝国，朱罗入侵斯里兰卡。",
         "latitude": 8.0,
         "longitude": 80.0,
         "category": "军事",
@@ -3574,13 +3538,13 @@
         "continent": "亚洲"
       },
       {
-        "title": "拜占庭教育复兴",
-        "description": "巴西尔二世文。",
-        "latitude": 41.0,
-        "longitude": 29.0,
-        "category": "文化",
-        "region": "拜占庭帝国",
-        "continent": "欧洲"
+        "title": "王小波、李顺起义",
+        "description": "公元993年，北宋爆发王小波、李顺起义，对当局造成了巨大冲击。",
+        "latitude": 30.9,
+        "longitude": 103.5,
+        "category": "军事",
+        "region": "北宋",
+        "continent": "亚洲"
       }
     ]
   },
@@ -3602,17 +3566,8 @@
     ],
     "events": [
       {
-        "title": "李顺起义被镇压",
-        "description": "宋太宗派王继恩率军入川镇压，攻破成都。李顺失踪或被杀（一说逃脱）。王小波李顺起义虽被镇压，但沉重打击了北宋统治。",
-        "latitude": 30.6,
-        "longitude": 104.0,
-        "category": "军事",
-        "region": "北宋",
-        "continent": "亚洲"
-      },
-      {
         "title": "宋太宗整顿四川",
-        "description": "起义平息后，宋太宗对四川实行减免赋税、安抚流亡的政策。张咏任益州知州，整顿民生，恢复社会秩序。",
+        "description": "公元994年，在北宋，宋太宗整顿四川。",
         "latitude": 30.6,
         "longitude": 104.0,
         "category": "政治",
@@ -3620,8 +3575,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "李顺起义被镇压",
+        "description": "公元994年，北宋爆发李顺起义被镇压，对当局造成了巨大冲击。",
+        "latitude": 30.6,
+        "longitude": 104.0,
+        "category": "军事",
+        "region": "北宋",
+        "continent": "亚洲"
+      },
+      {
         "title": "法蒂玛王朝极盛",
-        "description": "法蒂玛鼎盛。",
+        "description": "公元994年，在法蒂玛王朝，法蒂玛王朝极盛。",
         "latitude": 30.0,
         "longitude": 31.2,
         "category": "政治",
@@ -3649,7 +3613,7 @@
     "events": [
       {
         "title": "宋太宗立太子",
-        "description": "宋太宗立第三子赵恒为太子。太宗晚年为立储之事犹豫多年，最终在寇准等人的劝谏下确立太子。赵恒后来成为宋真宗。",
+        "description": "公元995年，在北宋，宋太宗立太子。",
         "latitude": 34.8,
         "longitude": 114.3,
         "category": "政治",
@@ -3658,7 +3622,7 @@
       },
       {
         "title": "挪威奥拉夫一世基督教化",
-        "description": "挪威基督教。",
+        "description": "公元995年，挪威地区的宗教领域发生重要事件——挪威奥拉夫一世基督教化，对信众的精神生活产生了深刻影响。",
         "latitude": 60.0,
         "longitude": 10.0,
         "category": "宗教",
@@ -3686,7 +3650,7 @@
     "events": [
       {
         "title": "李继迁攻占灵州",
-        "description": "党项李继迁攻占北宋西北重镇灵州（今宁夏灵武），杀守将。宋太宗派兵五路征讨，因诸路协调不力无功而返。党项对西北的威胁日益加剧。",
+        "description": "公元996年，在北宋，李继迁攻占灵州。",
         "latitude": 38.0,
         "longitude": 106.3,
         "category": "军事",
@@ -3695,12 +3659,12 @@
       },
       {
         "title": "金边堡垒",
-        "description": "拜占庭边疆。",
+        "description": "公元996年，在拜占庭帝国，金边堡垒。",
         "latitude": 39.0,
         "longitude": 33.0,
         "category": "军事",
         "region": "拜占庭帝国",
-        "continent": "亚洲"
+        "continent": "欧洲"
       }
     ]
   },
@@ -3723,7 +3687,7 @@
     "events": [
       {
         "title": "宋太宗去世，真宗即位",
-        "description": "宋太宗赵光义病逝，太子赵恒即位，是为宋真宗。真宗即位之初，以吕端、李沆为相，政治较为清明。",
+        "description": "公元997年，宋太宗去世，真宗即位，开启了新的统治时期。",
         "latitude": 34.8,
         "longitude": 114.3,
         "category": "政治",
@@ -3732,7 +3696,7 @@
       },
       {
         "title": "格林纳达地区",
-        "description": "西班牙阿拉伯。",
+        "description": "公元997年，在后倭马亚，格林纳达地区。",
         "latitude": 37.2,
         "longitude": -3.6,
         "category": "政治",
@@ -3760,7 +3724,7 @@
     "events": [
       {
         "title": "宋真宗改元咸平",
-        "description": "宋真宗改元咸平，推行宽政，减轻赋税，发展农业生产。咸平年间政治稳定，经济持续增长，史称“咸平之治”。",
+        "description": "公元998年，在北宋，宋真宗改元咸平。",
         "latitude": 34.8,
         "longitude": 114.3,
         "category": "政治",
@@ -3769,7 +3733,7 @@
       },
       {
         "title": "玛雅奇琴伊察",
-        "description": "玛雅后古典。",
+        "description": "公元998年，玛雅地区的文化艺术领域取得了重要成就，玛雅奇琴伊察成为这一时期的文化代表。",
         "latitude": 20.7,
         "longitude": -88.0,
         "category": "文化",
@@ -3797,7 +3761,7 @@
     "events": [
       {
         "title": "奥托三世远征",
-        "description": "神圣罗马帝国皇帝奥托三世远征意大利，试图复兴以罗马为中心的基督教帝国。奥托三世重用学者，推动“罗马复兴”运动，但政绩昙花一现。",
+        "description": "公元999年，在神圣罗马帝国，奥托三世远征。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -3806,7 +3770,7 @@
       },
       {
         "title": "欧洲千年恐慌",
-        "description": "千年说。",
+        "description": "公元999年，欧洲社会领域出现欧洲千年恐慌，反映了社会的发展变化。",
         "latitude": 48.0,
         "longitude": 3.0,
         "category": "社会",
@@ -3833,8 +3797,53 @@
     ],
     "events": [
       {
+        "title": "《源氏物语》创作",
+        "description": "公元1000年，日本文化领域的重要事件——《源氏物语》创作，成为这一时期的文化标志。",
+        "latitude": 35.0,
+        "longitude": 135.75,
+        "category": "文学",
+        "region": "日本",
+        "continent": "亚洲"
+      },
+      {
+        "title": "中国瓷器技术成熟",
+        "description": "公元1000年，北宋的科技发展取得重要进展，中国瓷器技术成熟推动了相关领域的技术进步。",
+        "latitude": 29.3,
+        "longitude": 117.2,
+        "category": "科技",
+        "region": "北宋",
+        "continent": "亚洲"
+      },
+      {
+        "title": "塞尔柱突厥帝国繁荣",
+        "description": "公元1000年，在塞尔柱帝国，塞尔柱突厥帝国繁荣。",
+        "latitude": 35.0,
+        "longitude": 45.0,
+        "category": "政治",
+        "region": "塞尔柱帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "奇琴伊察成为尤卡坦强权",
+        "description": "公元1000年，在玛雅，奇琴伊察成为尤卡坦强权。",
+        "latitude": 20.7,
+        "longitude": -88.0,
+        "category": "政治",
+        "region": "玛雅",
+        "continent": "北美洲"
+      },
+      {
+        "title": "奥托三世罗马帝国",
+        "description": "公元1000年，在神圣罗马帝国，奥托三世罗马帝国。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "神圣罗马帝国",
+        "continent": "欧洲"
+      },
+      {
         "title": "宋辽瀛州之战",
-        "description": "辽军攻瀛州（今河北河间），宋军守将拒城死守。宋真宗亲征至大名府督战，辽军久攻不下撤军北还。宋辽战争进入关键期。",
+        "description": "公元1000年，北宋爆发宋辽瀛州之战，战事在北宋地区全面展开。",
         "latitude": 38.4,
         "longitude": 116.1,
         "category": "军事",
@@ -3842,22 +3851,58 @@
         "continent": "亚洲"
       },
       {
-        "title": "世界人口约三亿",
-        "description": "据估算，公元1000年世界人口约三亿。其中北宋约六千万，辽朝约九百万，阿拉伯帝国约两千万，西欧约三千万。中国占世界人口约五分之一。",
-        "latitude": 34.8,
-        "longitude": 114.3,
-        "category": "社会",
-        "region": "北宋",
+        "title": "意大利面食传统",
+        "description": "公元1000年，意大利地区的文化艺术领域取得了重要成就，意大利面食传统成为这一时期的文化代表。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "文化",
+        "region": "意大利",
+        "continent": "欧洲"
+      },
+      {
+        "title": "莱夫埃里克森到达北美",
+        "description": "公元1000年，文兰在科技领域取得重要进展——莱夫埃里克森到达北美，推动了相关领域的进步。",
+        "latitude": 49.5,
+        "longitude": -55.5,
+        "category": "科技",
+        "region": "文兰",
+        "continent": "北美洲"
+      },
+      {
+        "title": "诺曼人统治西西里",
+        "description": "公元1000年，在诺曼人，诺曼人统治西西里。",
+        "latitude": 37.5,
+        "longitude": 14.0,
+        "category": "军事",
+        "region": "诺曼人",
+        "continent": "欧洲"
+      },
+      {
+        "title": "伊斯兰苏菲派传播",
+        "description": "公元1000年，伊斯兰世界地区的宗教领域发生重要事件——伊斯兰苏菲派传播，对信众的精神生活产生了深刻影响。",
+        "latitude": 35.0,
+        "longitude": 40.0,
+        "category": "宗教",
+        "region": "伊斯兰世界",
         "continent": "亚洲"
       },
       {
-        "title": "奥托三世罗马帝国",
-        "description": "奥托三世罗马。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "政治",
-        "region": "神圣罗马帝国",
+        "title": "芬兰部落定居",
+        "description": "公元1000年，芬兰社会领域出现芬兰部落定居，反映了社会的发展变化。",
+        "latitude": 62.0,
+        "longitude": 26.0,
+        "category": "社会",
+        "region": "芬兰",
         "continent": "欧洲"
+      },
+      {
+        "title": "辽国佛教传播",
+        "description": "公元1000年，辽地区的宗教领域发生重要事件——辽国佛教传播，对信众的精神生活产生了深刻影响。",
+        "latitude": 42.0,
+        "longitude": 122.0,
+        "category": "宗教",
+        "region": "辽",
+        "continent": "亚洲"
       }
     ]
   }

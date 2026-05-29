@@ -49,8 +49,21 @@
     <header id="header">
       <h1 id="site-title">实录</h1>
       <div id="rule-quote"></div>
-      <button id="shortcut-btn" class="icon-btn" title="键盘快捷键">⌨</button>
+      <div id="header-actions">
+        <button id="search-btn" class="icon-btn" title="搜索事件">🔍</button>
+        <button id="shortcut-btn" class="icon-btn" title="键盘快捷键">⌨</button>
+      </div>
     </header>
+
+    <div id="search-panel" class="hidden">
+      <div id="search-input-wrap">
+        <span id="search-icon">🔍</span>
+        <input id="search-input" type="text" placeholder="搜索事件标题、地区、描述…" autocomplete="off">
+        <button id="search-clear" class="icon-btn" title="清除">✕</button>
+      </div>
+      <div id="search-results"></div>
+      <div id="search-status"></div>
+    </div>
 
     <div id="timeline-area">
       <div id="dynasty-timeline-container">
@@ -103,7 +116,7 @@
     </div>
 
     <footer id="copyright">
-      <span>&copy; 2026 实录 shilu.org 铭记人类文明的每一年</span>
+      <span>&copy; 2026 实录 shilu.org 铭记人类在4153年中的7243件事</span>
     </footer>
 
     <div id="loading-overlay" class="hidden">
@@ -120,6 +133,7 @@
       <ul>
         <li><kbd>←</kbd> <kbd>→</kbd> 切换年份</li>
         <li><kbd>Shift</kbd> + <kbd>←</kbd> <kbd>→</kbd> 快进/快退10年</li>
+        <li><kbd>/</kbd> 或 <kbd>Ctrl+F</kbd> 搜索事件</li>
       </ul>
     </div>
   </div>

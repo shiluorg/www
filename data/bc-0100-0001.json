@@ -11,8 +11,26 @@
     ],
     "events": [
       {
+        "title": "希腊哲学在罗马",
+        "description": "公元前100年，罗马共和国地区的文化艺术领域取得了重要成就，希腊哲学在罗马成为这一时期的文化代表。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "文化",
+        "region": "罗马共和国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "汉朝太学教育",
+        "description": "公元前100年，西汉地区的文化艺术领域取得了重要成就，汉朝太学教育成为这一时期的文化代表。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "文化",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "汉武帝改元天汉",
-        "description": "汉武帝刘彻改元'天汉'，取'银河'之意，象征汉朝与天相连。此年苏武已出使匈奴被扣留。",
+        "description": "公元前100年，汉武帝改年号为天汉，寓意以天命征伐四方。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -21,7 +39,7 @@
       },
       {
         "title": "罗马与安息对峙",
-        "description": "罗马共和国在东方的扩张与安息帝国（帕提亚）在美索不达米亚地区持续对峙，双方在幼发拉底河一带频繁发生小规模冲突。",
+        "description": "公元前100年，罗马共和国与安息帝国在叙利亚和美索不达米亚地区形成军事对峙。",
         "latitude": 35.0,
         "longitude": 40.0,
         "category": "军事",
@@ -29,22 +47,13 @@
         "continent": "亚洲"
       },
       {
-        "title": "汉朝太学教育",
-        "description": "汉朝太学传授儒家经典培养官员。",
+        "title": "苏武出使匈奴",
+        "description": "公元前100年，西汉开展苏武出使匈奴，体现了当时的国际关系格局。",
         "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "文化",
+        "longitude": 108.86,
+        "category": "外交",
         "region": "西汉",
         "continent": "亚洲"
-      },
-      {
-        "title": "希腊哲学在罗马",
-        "description": "希腊各种哲学流派在罗马贵族中传播。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "文化",
-        "region": "罗马共和国",
-        "continent": "欧洲"
       }
     ]
   },
@@ -60,17 +69,8 @@
     ],
     "events": [
       {
-        "title": "李陵兵败降匈奴",
-        "description": "西汉名将李陵率五千步兵出击匈奴，在浚稽山遭遇单于主力八万骑兵，激战八日，杀敌万余，终因箭尽援绝被俘投降。司马迁因替李陵辩护受宫刑。",
-        "latitude": 43.0,
-        "longitude": 108.0,
-        "category": "军事",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "司马迁受宫刑",
-        "description": "司马迁因在朝堂上为李陵辩护，触怒汉武帝，被判处宫刑。此后司马迁忍辱负重，专心著述《史记》。",
+        "description": "天汉二年李陵兵败投降匈奴的消息传到长安后朝野震动。汉武帝在盛怒之下询问太史令司马迁的看法。司马迁依据李陵平日的为人品格和这次战役的实际情况进行公正评价认为李陵以五千步兵对抗八万骑兵坚持了八昼夜杀伤敌军万余人虽败犹荣他投降匈奴一定是迫不得已将来有机会一定会报答汉朝。但这番话被汉武帝理解为在为李陵辩护并借机批评贰师将军李广利（李广利是武帝宠妃李夫人的哥哥）。武帝将司马迁逮捕下狱并判处死刑。按汉律死刑有两种替代方式——缴纳五十万钱赎罪或以宫刑代替。司马迁家贫拿不出赎金而宫刑对他来说是比死更难忍受的奇耻大辱。但他想到自己尚未完成的史书——父亲的遗愿和毕生的心血——《史记》只初具雏形尚未定稿。在生与死的抉择中司马迁选择了忍辱含垢活下去。他在狱中给任安写信说人固有一死或重于泰山或轻于鸿毛。身受宫刑之后他发愤著述以刑余之身在蚕室中继续写作历时十四年终于完成了中国第一部纪传体通史《史记》。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "文化",
@@ -78,31 +78,40 @@
         "continent": "亚洲"
       },
       {
-        "title": "罗马共和国末期政治斗争",
-        "description": "罗马元老院与平民派之间政治斗争持续激化。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "政治",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
-        "title": "罗马元老院外交",
-        "description": "罗马元老院处理外交事务和战争决策。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "政治",
-        "region": "罗马共和国",
-        "continent": "欧洲"
+        "title": "李陵兵败降匈奴",
+        "description": "天汉二年，贰师将军李广利率三万骑兵出征匈奴，汉武帝命李陵为李广利押送辎重。李陵自请率五千步兵从居延出塞牵制匈奴兵力。他率部北行三十日到达浚稽山，遭遇了匈奴且鞮侯单于的八万主力骑兵。李陵率部以战车为营列阵迎敌，千弩齐发匈奴应弦而倒。激战数日后李陵部退入山谷间，匈奴骑兵紧追不舍。李陵军杀伤敌人数千，但箭矢消耗殆尽，援军迟迟不至。最后李陵在突围无望的情况下被迫投降。汉武帝闻讯大怒——他原以为李陵战死，后来得知李陵投降更是怒火中烧。满朝文武无人敢为李陵说话，唯有太史令司马迁挺身而出，认为李陵以五千步兵对抗八万骑兵杀敌过万足可告慰天下。汉武帝认为司马迁在为李陵开脱，将其下狱并处以宫刑。李陵投降后单于将女儿嫁给他封他为右校王，但他终其一生未能回到故土。",
+        "latitude": 43.0,
+        "longitude": 108.0,
+        "category": "军事",
+        "region": "西汉",
+        "continent": "亚洲"
       },
       {
         "title": "汉朝西域音乐",
-        "description": "西域乐器。",
+        "description": "公元前99年在西汉的音乐艺术领域发生了值得关注的事件。音乐作为最直接的情感表达方式能穿透时空打动人心。这一事件对西汉的历史发展产生了不可忽视的影响值得我们今天认真回顾和反思。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "音乐",
         "region": "西汉",
         "continent": "亚洲"
+      },
+      {
+        "title": "罗马元老院外交",
+        "description": "公元前99年，罗马元老院在处理对外关系方面发挥重要作用。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马共和国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "罗马共和国末期政治斗争",
+        "description": "公元前99年，罗马共和国末期政治斗争激烈，权力逐渐向少数军事强人集中。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马共和国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -118,26 +127,8 @@
     ],
     "events": [
       {
-        "title": "汉朝推行算缗告缗",
-        "description": "汉武帝继续推行'算缗'和'告缗'政策，加强对工商业者的税收征管，打击富商大贾，增加朝廷财政收入以支持对匈奴的战争。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "经济",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
-        "title": "安息帝国西拓",
-        "description": "安息帝国（帕提亚）在密特拉达梯二世统治下继续向西扩张，巩固对美索不达米亚的统治，与罗马在叙利亚的势力范围形成直接接触。",
-        "latitude": 33.0,
-        "longitude": 44.0,
-        "category": "军事",
-        "region": "安息帝国",
-        "continent": "亚洲"
-      },
-      {
         "title": "丝绸之路沿线城市繁荣",
-        "description": "中亚城市如撒马尔罕等因丝绸之路贸易繁荣。",
+        "description": "公元前98年，丝绸之路沿线城市商业繁荣，东西方贸易和文化交流日益频繁。",
         "latitude": 39.7,
         "longitude": 66.9,
         "category": "经济",
@@ -146,12 +137,30 @@
       },
       {
         "title": "埃及希腊化农业",
-        "description": "托勒密埃及推广希腊灌溉和耕作技术。",
+        "description": "公元前98年，埃及的科技发展取得重要进展，埃及希腊化农业推动了相关领域的技术进步。",
         "latitude": 26.0,
         "longitude": 32.0,
         "category": "科技",
         "region": "埃及",
         "continent": "非洲"
+      },
+      {
+        "title": "安息帝国西拓",
+        "description": "公元前98年，安息帝国向西扩张领土，与罗马帝国在美索不达米亚形成对峙。",
+        "latitude": 33.0,
+        "longitude": 44.0,
+        "category": "军事",
+        "region": "安息帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉朝推行算缗告缗",
+        "description": "公元前98年，西汉经济领域发生汉朝推行算缗告缗，对当时的经济生活产生了直接影响。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "经济",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -168,7 +177,7 @@
     "events": [
       {
         "title": "汉朝再次征兵伐匈奴",
-        "description": "汉武帝派遣贰师将军李广利、公孙敖等分路出击匈奴，但未能取得重大战果。汉朝因连年征战，国力消耗巨大。",
+        "description": "公元前97年，汉武帝再次大规模征兵，发动对匈奴的军事进攻。",
         "latitude": 42.0,
         "longitude": 110.0,
         "category": "军事",
@@ -176,21 +185,21 @@
         "continent": "亚洲"
       },
       {
+        "title": "罗马公共浴场",
+        "description": "公元前97年，罗马帝国建造了规模宏大的公共浴场，成为罗马人社会生活的重要场所。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "文化",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
         "title": "罗马社会矛盾加剧",
-        "description": "罗马共和国元老院与平民阶层的矛盾日益尖锐，土地兼并问题严重，格拉古兄弟改革失败后的社会动荡仍在持续。",
+        "description": "公元前97年，罗马共和国社会领域出现罗马社会矛盾加剧，反映了社会的发展变化。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "社会",
         "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
-        "title": "罗马公共浴场",
-        "description": "卡拉卡拉。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "建筑",
-        "region": "罗马帝国",
         "continent": "欧洲"
       }
     ]
@@ -207,17 +216,17 @@
     ],
     "events": [
       {
-        "title": "汉武帝改元太始",
-        "description": "汉武帝改元'太始'，取'万物更始'之意。此年汉朝调整对外策略，暂时放缓了对匈奴的大规模征伐。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
+        "title": "匈奴西域活动",
+        "description": "公元前96年，在匈奴，匈奴西域活动。",
+        "latitude": 42.0,
+        "longitude": 83.0,
+        "category": "军事",
+        "region": "匈奴",
         "continent": "亚洲"
       },
       {
         "title": "塞琉古帝国灭亡",
-        "description": "塞琉古帝国在安息帝国和罗马的双重打击下最终灭亡，叙利亚地区被罗马将军庞培纳入罗马行省体系，标志着希腊化时代的进一步终结。",
+        "description": "公元前96年，塞琉古帝国地区的塞琉古帝国灭亡，一个时代由此终结。",
         "latitude": 33.5,
         "longitude": 36.3,
         "category": "政治",
@@ -226,7 +235,7 @@
       },
       {
         "title": "希腊哲学在罗马传播",
-        "description": "斯多葛和伊壁鸠鲁学派在罗马贵族中广泛传播。",
+        "description": "公元前96年，罗马共和国地区的文化艺术领域取得了重要成就，希腊哲学在罗马传播成为这一时期的文化代表。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "文化",
@@ -234,20 +243,20 @@
         "continent": "欧洲"
       },
       {
-        "title": "匈奴西域活动",
-        "description": "匈奴在西域与汉朝争夺控制权。",
-        "latitude": 42.0,
-        "longitude": 83.0,
-        "category": "军事",
-        "region": "匈奴",
-        "continent": "亚洲"
-      },
-      {
         "title": "汉武帝乐府",
-        "description": "武帝制乐府。",
+        "description": "公元前96年，西汉地区的文化艺术领域取得了重要成就，汉武帝乐府成为这一时期的文化代表。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "文化",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉武帝改元太始",
+        "description": "公元前96年，在西汉，汉武帝改元太始。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
         "region": "西汉",
         "continent": "亚洲"
       }
@@ -265,35 +274,8 @@
     ],
     "events": [
       {
-        "title": "汉朝休养生息",
-        "description": "汉武帝推行休养生息政策，减少大规模军事行动，鼓励农业生产，恢复因连年战争而消耗的国力。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "经济",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
-        "title": "罗马建马尔斯神庙",
-        "description": "罗马共和国在战神广场（Campus Martius）修建新的马尔斯神庙，彰显罗马军事传统。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "文化",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
-        "title": "汉朝与西域各国往来",
-        "description": "汉朝加强西域都护府管理，与中亚各国保持贸易。",
-        "latitude": 40.0,
-        "longitude": 85.0,
-        "category": "外交",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "汉朝与匈奴和亲继续",
-        "description": "联姻。",
+        "description": "公元前95年，西汉开展汉朝与匈奴和亲继续，体现了当时的国际关系格局。",
         "latitude": 42.0,
         "longitude": 110.0,
         "category": "外交",
@@ -301,11 +283,38 @@
         "continent": "亚洲"
       },
       {
+        "title": "汉朝与西域各国往来",
+        "description": "公元前95年，西汉开展汉朝与西域各国往来，体现了当时的国际关系格局。",
+        "latitude": 40.0,
+        "longitude": 85.0,
+        "category": "外交",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉朝休养生息",
+        "description": "公元前95年，西汉经济领域发生汉朝休养生息，对当时的经济生活产生了直接影响。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "经济",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "罗马修辞学教育",
-        "description": "西塞罗。",
+        "description": "公元前95年，罗马修辞学教育，罗马共和国的宗教发展进入新阶段。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "教育",
+        "region": "罗马共和国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "罗马建马尔斯神庙",
+        "description": "公元前95年，罗马共和国地区的文化艺术领域取得了重要成就，罗马建马尔斯神庙成为这一时期的文化代表。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "文化",
         "region": "罗马共和国",
         "continent": "欧洲"
       }
@@ -323,17 +332,8 @@
     ],
     "events": [
       {
-        "title": "汉武帝得皇子",
-        "description": "汉武帝晚年得幼子刘弗陵（即后来的汉昭帝），极为宠爱。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "匈奴内部分化",
-        "description": "匈奴单于且鞮侯去世后，匈奴内部出现权力争斗，为汉朝提供了一定的战略喘息空间。",
+        "description": "公元前94年，在匈奴，匈奴内部分化。",
         "latitude": 44.0,
         "longitude": 112.0,
         "category": "政治",
@@ -341,8 +341,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "汉武帝得皇子",
+        "description": "公元前94年，在西汉，汉武帝得皇子。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "苏武在匈奴",
-        "description": "持节牧羊。",
+        "description": "公元前94年，西汉社会领域出现苏武在匈奴，反映了社会的发展变化。",
         "latitude": 45.0,
         "longitude": 110.0,
         "category": "社会",
@@ -363,26 +372,8 @@
     ],
     "events": [
       {
-        "title": "汉朝边疆稳定",
-        "description": "经过数年休整，汉朝北部边疆相对稳定，汉匈之间未有大规模战事。汉朝在河西走廊加强屯田和边防建设。",
-        "latitude": 38.0,
-        "longitude": 100.0,
-        "category": "军事",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
-        "title": "本都王国与罗马冲突",
-        "description": "小亚细亚的本都王国与罗马共和国在安纳托利亚地区发生摩擦，预示新一轮东方战争。",
-        "latitude": 39.0,
-        "longitude": 35.0,
-        "category": "军事",
-        "region": "本都王国",
-        "continent": "亚洲"
-      },
-      {
         "title": "司马迁著史记",
-        "description": "史记将成。",
+        "description": "公元前93年，西汉地区的文化艺术领域取得了重要成就，司马迁著史记成为这一时期的文化代表。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "文化",
@@ -390,8 +381,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "本都王国与罗马冲突",
+        "description": "公元前93年，在本都王国，本都王国与罗马冲突。",
+        "latitude": 39.0,
+        "longitude": 35.0,
+        "category": "军事",
+        "region": "本都王国",
+        "continent": "亚洲"
+      },
+      {
         "title": "汉朝边塞诗",
-        "description": "诗歌。",
+        "description": "公元前93年，西汉文化领域的重要事件——汉朝边塞诗，成为这一时期的文化标志。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "文学",
@@ -413,7 +413,7 @@
     "events": [
       {
         "title": "巫蛊之祸始起",
-        "description": "汉武帝晚年多疑，巫蛊之祸开始。丞相公孙贺父子被诬陷以巫蛊诅咒皇帝，下狱死，株连大批朝臣。此为西汉最大政治冤案的开端。",
+        "description": "公元前92年，在西汉，巫蛊之祸始起。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -422,7 +422,7 @@
       },
       {
         "title": "汉武帝疑心渐重",
-        "description": "汉武帝因年老多病，怀疑左右有人以巫蛊之术诅咒他，下令严查，导致京城长安人人自危。",
+        "description": "公元前92年，西汉社会领域出现汉武帝疑心渐重，反映了社会的发展变化。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "社会",
@@ -431,7 +431,7 @@
       },
       {
         "title": "汉武轮台诏",
-        "description": "止息兵戈。",
+        "description": "公元前92年，在西汉，汉武轮台诏。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -452,20 +452,20 @@
     ],
     "events": [
       {
-        "title": "巫蛊之祸太子冤死",
-        "description": "江充诬陷太子刘据以巫蛊诅咒汉武帝。太子被迫起兵诛杀江充，与丞相刘屈氂战于长安。汉武帝误信太子谋反，派兵镇压。太子兵败逃亡，最终自杀。皇后卫子夫亦自杀。此案牵连数十万人。",
+        "title": "司马迁著《史记》",
+        "description": "公元前91年，西汉地区的文化艺术领域取得了重要成就，司马迁著《史记》成为这一时期的文化代表。",
         "latitude": 34.304,
         "longitude": 108.856,
-        "category": "政治",
+        "category": "文化",
         "region": "西汉",
         "continent": "亚洲"
       },
       {
-        "title": "司马迁著《史记》",
-        "description": "司马迁在受宫刑后发愤著述，此时《史记》已基本完成。全书上起黄帝，下至汉武帝太初年间，共130篇，52万余字，为中国第一部纪传体通史。",
+        "title": "巫蛊之祸太子冤死",
+        "description": "公元前91年，在西汉，巫蛊之祸太子冤死。",
         "latitude": 34.304,
         "longitude": 108.856,
-        "category": "文化",
+        "category": "政治",
         "region": "西汉",
         "continent": "亚洲"
       }
@@ -484,7 +484,7 @@
     "events": [
       {
         "title": "李广利兵败降匈奴",
-        "description": "贰师将军李广利率七万大军出击匈奴，因家眷涉入巫蛊案而军心不稳，战败后投降匈奴。汉军损失惨重，汉武帝大为震怒。",
+        "description": "公元前90年，西汉发生李广利兵败降匈奴，对当地军事格局产生了重要影响。",
         "latitude": 43.0,
         "longitude": 108.0,
         "category": "军事",
@@ -493,7 +493,7 @@
       },
       {
         "title": "汉武帝反思征战",
-        "description": "连年征战失利和巫蛊之祸的打击使汉武帝开始反思自己的治国方略，意识到连年征伐给百姓带来的苦难。",
+        "description": "公元前90年，在西汉，汉武帝反思征战。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -502,7 +502,7 @@
       },
       {
         "title": "汉武帝求仙",
-        "description": "武帝求长生。",
+        "description": "公元前90年，西汉地区的宗教领域发生重要事件——汉武帝求仙，对信众的精神生活产生了深刻影响。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "宗教",
@@ -511,10 +511,10 @@
       },
       {
         "title": "罗马大会堂建筑",
-        "description": "巴西利卡。",
+        "description": "公元前90年，罗马共和国文化领域的重要事件——罗马大会堂建筑，成为这一时期的文化标志。",
         "latitude": 41.9,
         "longitude": 12.5,
-        "category": "建筑",
+        "category": "文化",
         "region": "罗马共和国",
         "continent": "欧洲"
       }
@@ -533,7 +533,7 @@
     "events": [
       {
         "title": "汉武帝下轮台罪己诏",
-        "description": "汉武帝颁布《轮台罪己诏》，公开承认自己连年征战、劳民伤财的错误，宣布停止对外征伐，转向休养生息、发展农业的国策。此诏标志汉武帝晚年政策的根本转变。",
+        "description": "公元前89年，在西汉，汉武帝下轮台罪己诏。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -541,17 +541,8 @@
         "continent": "亚洲"
       },
       {
-        "title": "汉武帝封禅泰山",
-        "description": "汉武帝最后一次封禅泰山，祈求国泰民安。随后宣布'不复出军'，全面转向与民休息的政策。",
-        "latitude": 36.2,
-        "longitude": 117.1,
-        "category": "文化",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "赵过推广代田法",
-        "description": "搜粟都尉赵过总结推广'代田法'，改进农业生产技术，提高粮食产量，缓解了汉朝的粮食危机。",
+        "description": "公元前89年，西汉经济领域发生赵过推广代田法，对当时的经济生活产生了直接影响。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "经济",
@@ -572,26 +563,17 @@
     ],
     "events": [
       {
-        "title": "汉武帝立刘弗陵为太子",
-        "description": "汉武帝立年仅七岁的幼子刘弗陵为太子，因担心主少母壮，赐死其母钩弋夫人，以防外戚干政。同时任命霍光、金日磾、上官桀等为辅政大臣。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
-        "title": "汉武帝清理朝政",
-        "description": "汉武帝在去世前一年清理朝政，诛杀或罢免了一批不法权臣，为幼主继位扫清障碍。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
+        "title": "同盟者战争",
+        "description": "公元前88年在罗马共和国发生了同盟者战争这一历史事件。这一事件对罗马共和国的历史发展产生了不可忽视的影响值得我们今天认真回顾和反思。",
+        "latitude": 42.0,
+        "longitude": 12.5,
+        "category": "军事",
+        "region": "罗马共和国",
+        "continent": "欧洲"
       },
       {
         "title": "汉朝盐铁专卖",
-        "description": "经济垄断。",
+        "description": "公元前88年，西汉经济领域发生汉朝盐铁专卖，对当时的经济生活产生了直接影响。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "经济",
@@ -599,13 +581,22 @@
         "continent": "亚洲"
       },
       {
-        "title": "同盟者战争",
-        "description": "意大利。",
-        "latitude": 42.0,
-        "longitude": 12.5,
-        "category": "战争",
-        "region": "罗马共和国",
-        "continent": "欧洲"
+        "title": "汉武帝清理朝政",
+        "description": "公元前88年，在西汉，汉武帝清理朝政。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉武帝立刘弗陵为太子",
+        "description": "公元前88年，在西汉，汉武帝立刘弗陵为太子。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -627,8 +618,8 @@
     ],
     "events": [
       {
-        "title": "汉武帝驾崩",
-        "description": "汉武帝刘彻驾崩，在位54年，享年约70岁。他北击匈奴、南定百越、东并朝鲜、西通西域，使汉朝疆域空前扩大。但其晚年穷兵黩武、巫蛊之祸也备受争议。",
+        "title": "汉昭帝即位霍光辅政",
+        "description": "公元前87年，汉昭帝即位霍光辅政，开启了新的统治时期。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -636,8 +627,8 @@
         "continent": "亚洲"
       },
       {
-        "title": "汉昭帝即位霍光辅政",
-        "description": "年仅八岁的汉昭帝刘弗陵即位，大司马大将军霍光受遗诏辅政，与金日磾、上官桀共同掌管朝政，开启'昭宣中兴'的序幕。",
+        "title": "汉武帝驾崩",
+        "description": "公元前87年，汉武帝驾崩，一个重要的历史人物离开了历史舞台。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -646,7 +637,7 @@
       },
       {
         "title": "苏武在匈奴牧羊",
-        "description": "苏武被匈奴扣留已近十四年，在北海（今贝加尔湖）牧羊，始终手持汉节，坚守汉臣气节。",
+        "description": "公元前87年，匈奴开展苏武在匈奴牧羊，体现了当时的国际关系格局。",
         "latitude": 53.0,
         "longitude": 108.0,
         "category": "外交",
@@ -667,21 +658,21 @@
     ],
     "events": [
       {
-        "title": "霍光辅政稳定朝局",
-        "description": "霍光作为首席辅政大臣，秉持汉武帝遗诏治国。他采取与民休息的政策，减轻赋税，减少徭役，使得汉朝社会逐渐从武帝晚年的动荡中恢复。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "匈奴入侵乌桓",
-        "description": "匈奴趁汉朝帝位更替之际，出兵攻打乌桓部落。乌桓求救于汉，霍光决定派兵支援。",
+        "description": "公元前86年，在匈奴，匈奴入侵乌桓。",
         "latitude": 42.0,
         "longitude": 118.0,
         "category": "军事",
         "region": "匈奴",
+        "continent": "亚洲"
+      },
+      {
+        "title": "霍光辅政稳定朝局",
+        "description": "公元前86年，在西汉，霍光辅政稳定朝局。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
         "continent": "亚洲"
       }
     ]
@@ -699,7 +690,7 @@
     "events": [
       {
         "title": "汉朝减轻赋税",
-        "description": "霍光辅政后推行轻徭薄赋政策，下令免除部分赋税，鼓励农耕，恢复因武帝连年征战而凋敝的农村经济。",
+        "description": "公元前85年，西汉经济领域发生汉朝减轻赋税，对当时的经济生活产生了直接影响。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "经济",
@@ -707,22 +698,22 @@
         "continent": "亚洲"
       },
       {
+        "title": "米特拉达梯战争",
+        "description": "公元前85年在罗马共和国发生了米特拉达梯战争这一历史事件。这一事件对罗马共和国的历史发展产生了不可忽视的影响值得我们今天认真回顾和反思。",
+        "latitude": 40.0,
+        "longitude": 35.0,
+        "category": "军事",
+        "region": "罗马共和国",
+        "continent": "亚洲"
+      },
+      {
         "title": "罗马元老院加强权力",
-        "description": "罗马共和国元老院在马略与苏拉的派系斗争间隙，暂时恢复了对国家事务的主导权。",
+        "description": "公元前85年，在罗马共和国，罗马元老院加强权力。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
         "region": "罗马共和国",
         "continent": "欧洲"
-      },
-      {
-        "title": "米特拉达梯战争",
-        "description": "本都。",
-        "latitude": 40.0,
-        "longitude": 35.0,
-        "category": "战争",
-        "region": "罗马共和国",
-        "continent": "亚洲"
       }
     ]
   },
@@ -739,7 +730,7 @@
     "events": [
       {
         "title": "汉朝移民实边",
-        "description": "汉朝继续在河西走廊和北部边境推行移民实边政策，将内地贫民迁徙至边境屯田，既巩固边防又缓解内地土地压力。",
+        "description": "公元前84年，西汉经济领域发生汉朝移民实边，对当时的经济生活产生了直接影响。",
         "latitude": 38.5,
         "longitude": 101.0,
         "category": "经济",
@@ -748,7 +739,7 @@
       },
       {
         "title": "苏拉与马略斗争白热化",
-        "description": "罗马共和国贵族派（苏拉）与平民派（马略）之间的政治斗争日益激化，为日后罗马内战的全面爆发埋下伏笔。",
+        "description": "公元前84年，在罗马共和国，苏拉与马略斗争白热化。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -770,7 +761,7 @@
     "events": [
       {
         "title": "汉朝修复与周边关系",
-        "description": "霍光采取稳健的外交政策，派遣使者与匈奴、乌桓、西域各国修复关系，为汉朝赢得和平发展环境。",
+        "description": "公元前83年，西汉开展汉朝修复与周边关系，体现了当时的国际关系格局。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "外交",
@@ -779,7 +770,7 @@
       },
       {
         "title": "苏拉进军罗马",
-        "description": "苏拉率领军队向罗马进军，开创了罗马军队进攻首都的恶例。苏拉击败政敌，夺取政权，自任独裁官。",
+        "description": "公元前83年，在罗马共和国，苏拉进军罗马。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "军事",
@@ -801,7 +792,7 @@
     "events": [
       {
         "title": "汉朝社会逐渐安定",
-        "description": "经过数年休养生息，汉朝社会经济明显恢复，百姓生活改善，流民减少，社会稳定。",
+        "description": "公元前82年，西汉社会领域出现汉朝社会逐渐安定，反映了社会的发展变化。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "社会",
@@ -810,7 +801,7 @@
       },
       {
         "title": "苏拉建立独裁统治",
-        "description": "苏拉在罗马建立独裁统治，发布'公敌宣告'，大规模清洗政敌。他改革元老院和法庭系统，加强贵族权力。",
+        "description": "公元前82年，苏拉建立独裁统治，标志着新的政治实体在罗马共和国地区诞生。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -819,7 +810,7 @@
       },
       {
         "title": "苏拉独裁",
-        "description": "苏拉。",
+        "description": "公元前82年，在罗马共和国，苏拉独裁。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -841,7 +832,7 @@
     "events": [
       {
         "title": "盐铁之议",
-        "description": "汉昭帝召开'盐铁会议'，召集各地贤良文学六十余人，与御史大夫桑弘羊等朝廷官员辩论盐铁官营等经济政策的利弊。会议内容后被桓宽整理为《盐铁论》。",
+        "description": "公元前81年，西汉经济领域发生盐铁之议，对当时的经济生活产生了直接影响。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "经济",
@@ -849,22 +840,22 @@
         "continent": "亚洲"
       },
       {
-        "title": "苏武归汉",
-        "description": "在匈奴被扣留十九年的苏武终于回到长安。汉昭帝派使者与匈奴交涉，以'汉天子射雁得苏武书信'为由迫使匈奴放人。苏武出使时壮年，归来已须发皆白，尽显汉臣气节。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "外交",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "苏拉退隐",
-        "description": "罗马独裁官苏拉在完成政治改革后主动辞去独裁官职位，退隐乡间，次年去世。其独裁统治为日后凯撒等军事独裁者开创了先例。",
+        "description": "公元前81年，在罗马共和国，苏拉退隐。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "苏武归汉",
+        "description": "公元前81年，西汉开展苏武归汉，体现了当时的国际关系格局。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "外交",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -881,7 +872,7 @@
     "events": [
       {
         "title": "上官桀谋反被诛",
-        "description": "上官桀与霍光争权，联合燕王刘旦、盖长公主等人密谋诛杀霍光并废黜汉昭帝。阴谋败露后，上官桀、桑弘羊等被灭族，燕王刘旦自杀。霍光权威更加巩固。",
+        "description": "公元前80年，在西汉，上官桀谋反被诛。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -889,8 +880,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "中国桑蚕业",
+        "description": "公元前80年在西汉的农业发展中是一个值得关注的时期。农业是古代社会最重要的生产部门直接关系到国计民生。这一事件对西汉的历史发展产生了不可忽视的影响值得我们今天认真回顾和反思。",
+        "latitude": 34.0,
+        "longitude": 118.0,
+        "category": "经济",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "罗马政局动荡",
-        "description": "苏拉退隐后，罗马共和国各大政治派系重新洗牌，克拉苏、庞培等新兴政治人物开始崛起。",
+        "description": "公元前80年，在罗马共和国，罗马政局动荡。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -898,11 +898,11 @@
         "continent": "欧洲"
       },
       {
-        "title": "中国桑蚕业",
-        "description": "丝绸技术。",
-        "latitude": 34.0,
-        "longitude": 118.0,
-        "category": "农业",
+        "title": "霍光辅政",
+        "description": "公元前80年，在西汉，霍光辅政。",
+        "latitude": 34.3,
+        "longitude": 108.86,
+        "category": "政治",
         "region": "西汉",
         "continent": "亚洲"
       }
@@ -921,7 +921,7 @@
     "events": [
       {
         "title": "罗马镇压反抗",
-        "description": "罗马独裁结束后的过渡时期，元老院采取措施镇压意大利各地的反抗活动，巩固罗马对意大利半岛的控制。",
+        "description": "公元前79年，在罗马共和国，罗马镇压反抗。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "军事",
@@ -943,7 +943,7 @@
     "events": [
       {
         "title": "匈奴内乱削弱",
-        "description": "匈奴内部发生分裂，左贤王与单于之间矛盾加剧，匈奴实力进一步削弱，减轻了对汉朝边界的压力。",
+        "description": "公元前78年，在匈奴，匈奴内乱削弱。",
         "latitude": 44.0,
         "longitude": 112.0,
         "category": "政治",
@@ -952,7 +952,7 @@
       },
       {
         "title": "塞多留起义爆发",
-        "description": "罗马在西班牙的总督塞多留发动起义，反对罗马元老院的统治，建立独立政权，罗马派庞培率军前往镇压。",
+        "description": "公元前78年，罗马共和国发生塞多留起义爆发，起义者反抗统治者的压迫。",
         "latitude": 40.4,
         "longitude": -3.7,
         "category": "军事",
@@ -961,7 +961,7 @@
       },
       {
         "title": "罗马骑士阶层",
-        "description": "骑士。",
+        "description": "公元前78年，罗马共和国社会领域出现罗马骑士阶层，反映了社会的发展变化。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "社会",
@@ -982,22 +982,22 @@
     ],
     "events": [
       {
-        "title": "汉昭帝亲政",
-        "description": "汉昭帝刘弗陵年满十八岁，开始亲理朝政，但仍倚重霍光的辅佐。昭帝虽年轻但明察善断，君臣关系融洽。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "庞培征战西班牙",
-        "description": "罗马将军庞培率军远征西班牙，与塞多留的起义军展开长期拉锯战，庞培逐渐取得战场优势。",
+        "description": "公元前77年，在罗马共和国，庞培征战西班牙。",
         "latitude": 40.4,
         "longitude": -3.7,
         "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "汉昭帝亲政",
+        "description": "公元前77年，在西汉，汉昭帝亲政。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1013,21 +1013,21 @@
     ],
     "events": [
       {
-        "title": "汉朝边疆屯田成果显著",
-        "description": "汉朝在河西走廊和西域的屯田政策取得显著成效，粮食产量大幅提高，有效保障了边防军队的物资供应。",
-        "latitude": 38.5,
-        "longitude": 101.0,
-        "category": "经济",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "安息帝国与汉朝通好",
-        "description": "安息帝国（帕提亚）派遣使者到汉朝，希望加强与汉朝的贸易联系，丝绸之路上的交流日益频繁。",
+        "description": "公元前76年，安息帝国开展安息帝国与汉朝通好，体现了当时的国际关系格局。",
         "latitude": 33.0,
         "longitude": 44.0,
         "category": "外交",
         "region": "安息帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉朝边疆屯田成果显著",
+        "description": "公元前76年，西汉经济领域发生汉朝边疆屯田成果显著，对当时的经济生活产生了直接影响。",
+        "latitude": 38.5,
+        "longitude": 101.0,
+        "category": "经济",
+        "region": "西汉",
         "continent": "亚洲"
       }
     ]
@@ -1045,7 +1045,7 @@
     "events": [
       {
         "title": "汉朝文化教育复兴",
-        "description": "霍光等人重视文化教育，在长安兴办太学，选拔贤良文学之士入朝为官，推动了儒学在汉朝的进一步发展。",
+        "description": "公元前75年，西汉地区的文化艺术领域取得了重要成就，汉朝文化教育复兴成为这一时期的文化代表。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "文化",
@@ -1054,7 +1054,7 @@
       },
       {
         "title": "罗马角斗士学校兴起",
-        "description": "罗马共和国各地角斗士学校蓬勃发展，角斗比赛成为罗马公民最热衷的娱乐活动，卡普阿城建立了著名的角斗士训练学校。",
+        "description": "公元前75年，罗马共和国社会领域出现罗马角斗士学校兴起，反映了社会的发展变化。",
         "latitude": 41.1,
         "longitude": 14.2,
         "category": "社会",
@@ -1075,17 +1075,8 @@
     ],
     "events": [
       {
-        "title": "汉昭帝驾崩",
-        "description": "汉昭帝刘弗陵驾崩，年仅二十一岁。昭帝在位十三年，在霍光辅佐下与民休息、恢复经济，为'昭宣中兴'奠定了基础。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "昌邑王刘贺被废",
-        "description": "霍光等立昌邑王刘贺为帝，但刘贺在位仅二十七日便因荒淫无度被霍光等大臣废黜。随后迎立流落民间的汉武帝曾孙刘询为帝，是为汉宣帝。",
+        "description": "公元前74年，在西汉，昌邑王刘贺被废。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -1094,7 +1085,16 @@
       },
       {
         "title": "汉宣帝刘询即位",
-        "description": "汉宣帝刘询（原名刘病已）即位，改元本始。宣帝自幼生长民间，深知百姓疾苦，即位后励精图治。",
+        "description": "公元前74年，汉宣帝刘询即位，开启了新的统治时期。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉昭帝驾崩",
+        "description": "公元前74年，汉昭帝驾崩，一个重要的历史人物离开了历史舞台。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -1115,22 +1115,22 @@
     ],
     "events": [
       {
+        "title": "斯巴达克起义",
+        "description": "公元前73年，罗马共和国爆发斯巴达克起义，对当局造成了巨大冲击。",
+        "latitude": 40.55,
+        "longitude": 14.25,
+        "category": "军事",
+        "region": "罗马共和国",
+        "continent": "欧洲"
+      },
+      {
         "title": "汉宣帝论功行赏",
-        "description": "汉宣帝论定策之功，封赏霍光等拥立有功大臣。霍光继续执掌朝政，宣帝对霍光表面尊崇，内心则保持警惕。",
+        "description": "公元前73年，在西汉，汉宣帝论功行赏。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
         "region": "西汉",
         "continent": "亚洲"
-      },
-      {
-        "title": "斯巴达克起义酝酿",
-        "description": "罗马共和国卡普阿城的角斗士学校中，斯巴达克与其他角斗士秘密策划起义，反抗罗马奴隶主的压迫。",
-        "latitude": 41.1,
-        "longitude": 14.2,
-        "category": "社会",
-        "region": "罗马共和国",
-        "continent": "欧洲"
       }
     ]
   },
@@ -1147,7 +1147,7 @@
     "events": [
       {
         "title": "汉宣帝褒赏吏治",
-        "description": "汉宣帝注重地方吏治，下诏褒赏各地良吏，严惩贪官污吏。宣帝出身民间，深知吏治好坏直接关系百姓疾苦。",
+        "description": "公元前72年，在西汉，汉宣帝褒赏吏治。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -1156,7 +1156,7 @@
       },
       {
         "title": "罗马远征本都",
-        "description": "罗马共和国派军远征小亚细亚的本都王国，试图彻底消除本都国王密特拉达梯六世对罗马东方行省的威胁。",
+        "description": "公元前72年，在罗马共和国，罗马远征本都。",
         "latitude": 39.0,
         "longitude": 35.0,
         "category": "军事",
@@ -1178,21 +1178,12 @@
     "events": [
       {
         "title": "霍光妻毒杀许皇后",
-        "description": "霍光之妻霍显为使自己女儿成为皇后，指使女医淳于衍在汉宣帝原配许皇后分娩时下毒，许皇后暴崩。此事当时未被察觉。",
+        "description": "公元前71年，在西汉，霍光妻毒杀许皇后。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
         "region": "西汉",
         "continent": "亚洲"
-      },
-      {
-        "title": "斯巴达克起义爆发",
-        "description": "角斗士斯巴达克在卡普阿城领导角斗士起义，率领七十余名角斗士逃亡维苏威火山。大量奴隶和贫民纷纷加入，起义军迅速壮大至数万人。",
-        "latitude": 40.8,
-        "longitude": 14.4,
-        "category": "军事",
-        "region": "罗马共和国",
-        "continent": "欧洲"
       }
     ]
   },
@@ -1208,17 +1199,8 @@
     ],
     "events": [
       {
-        "title": "汉宣帝立霍氏为后",
-        "description": "许皇后去世后，汉宣帝在霍光等人的压力下立霍光之女霍成君为皇后。宣帝虽表面应允，内心对霍家已有芥蒂。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "斯巴达克起义军壮大",
-        "description": "斯巴达克率领的起义军多次击败罗马军队，横扫意大利南部。起义军人数增至十二万人，引起罗马元老院的极大恐慌。",
+        "description": "公元前70年，罗马共和国发生斯巴达克起义军壮大，起义者反抗统治者的压迫。",
         "latitude": 40.5,
         "longitude": 15.5,
         "category": "军事",
@@ -1226,8 +1208,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "汉宣帝立霍氏为后",
+        "description": "公元前70年，在西汉，汉宣帝立霍氏为后。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "维吉尔出生",
-        "description": "罗马最伟大的诗人之一维吉尔（普布留斯·维吉留斯·马罗）在意大利北部出生。他后来创作了《埃涅阿斯纪》，成为罗马民族史诗。",
+        "description": "公元前70年，罗马共和国地区的文化艺术领域取得了重要成就，维吉尔出生成为这一时期的文化代表。",
         "latitude": 45.1,
         "longitude": 10.8,
         "category": "文化",
@@ -1248,22 +1239,22 @@
     ],
     "events": [
       {
-        "title": "汉宣帝改元地节",
-        "description": "汉宣帝改元地节，继续推行与民休息的政策。宣帝亲理朝政，对霍光保持表面恭敬但实际开始培养自己的政治力量。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "斯巴达克起义被镇压",
-        "description": "罗马元老院任命克拉苏为统帅，率八个军团镇压斯巴达克起义。克拉苏在布鲁提乌姆筑长城困住起义军。斯巴达克在决战中英勇战死，六千余名起义奴隶被钉死在十字架上，沿阿皮亚大道示众。",
+        "description": "公元前69年，罗马共和国爆发斯巴达克起义被镇压，对当局造成了巨大冲击。",
         "latitude": 40.3,
         "longitude": 16.0,
         "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "汉宣帝改元地节",
+        "description": "公元前69年，在西汉，汉宣帝改元地节。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1279,31 +1270,31 @@
     ],
     "events": [
       {
-        "title": "霍光去世",
-        "description": "大司马大将军霍光病逝。霍光辅佐汉朝二十余年，历经武帝、昭帝、宣帝三朝，为'昭宣中兴'做出了重要贡献，但其家族专权跋扈也埋下了祸根。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
-        "title": "汉宣帝开始亲政",
-        "description": "霍光去世后，汉宣帝开始真正亲政。他采取一系列措施逐步削弱霍家的权力，提拔自己的亲信。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "克拉苏与庞培争权",
-        "description": "镇压斯巴达克起义后，克拉苏与庞培在罗马展开权力角逐，两人都试图成为罗马最有权势的人。",
+        "description": "公元前68年，在罗马共和国，克拉苏与庞培争权。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "汉宣帝开始亲政",
+        "description": "公元前68年，在西汉，汉宣帝开始亲政。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "霍光去世",
+        "description": "公元前68年，霍光去世，一个重要的历史人物离开了历史舞台。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1319,22 +1310,22 @@
     ],
     "events": [
       {
-        "title": "汉宣帝清算霍氏",
-        "description": "汉宣帝开始清算霍氏家族的势力，解除霍家子弟的兵权和官职。霍家预感大祸临头，密谋废帝。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "庞培受命清剿海盗",
-        "description": "罗马元老院授予庞培特别权力，命其清剿地中海猖獗的海盗。庞培仅用三个月就完成了任务，声望大增。",
+        "description": "公元前67年，在罗马共和国，庞培受命清剿海盗。",
         "latitude": 36.0,
         "longitude": 22.0,
         "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "汉宣帝清算霍氏",
+        "description": "公元前67年，在西汉，汉宣帝清算霍氏。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1350,21 +1341,21 @@
     ],
     "events": [
       {
-        "title": "霍氏谋反被灭族",
-        "description": "霍家子弟密谋废黜汉宣帝的阴谋败露。汉宣帝下令逮捕霍氏家族，霍山、霍云等人自杀，霍皇后被废。霍光家族被满门抄斩，牵连数千家。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "庞培出征东方",
-        "description": "罗马将军庞培被任命为东方战场统帅，率军出征本都王国和塞琉古地区，开启了他的东方征服之旅。",
+        "description": "公元前66年，在罗马共和国，庞培出征东方。",
         "latitude": 39.0,
         "longitude": 35.0,
         "category": "军事",
         "region": "罗马共和国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "霍氏谋反被灭族",
+        "description": "公元前66年，在西汉，霍氏谋反被灭族。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
         "continent": "亚洲"
       }
     ]
@@ -1382,7 +1373,7 @@
     "events": [
       {
         "title": "汉宣帝改元元康",
-        "description": "汉宣帝亲政后改元元康，励精图治。他继续实行轻徭薄赋、与民休息的政策，同时注重选拔清廉能干的官员治理地方。",
+        "description": "公元前65年，在西汉，汉宣帝改元元康。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -1391,7 +1382,7 @@
       },
       {
         "title": "汉宣帝表彰循吏",
-        "description": "汉宣帝大力表彰各地'循吏'（清廉能干的官员），如黄霸、龚遂等人，开创了西汉吏治的黄金时期。",
+        "description": "公元前65年，在西汉，汉宣帝表彰循吏。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -1400,7 +1391,7 @@
       },
       {
         "title": "贺拉斯出生",
-        "description": "罗马著名诗人贺拉斯（昆图斯·贺拉提乌斯·弗拉库斯）在意大利南部出生。他后来成为奥古斯都时代的代表性诗人之一。",
+        "description": "公元前65年，罗马共和国地区的文化艺术领域取得了重要成就，贺拉斯出生成为这一时期的文化代表。",
         "latitude": 40.3,
         "longitude": 15.9,
         "category": "文化",
@@ -1421,21 +1412,21 @@
     ],
     "events": [
       {
-        "title": "汉朝经济持续恢复",
-        "description": "汉宣帝推行的一系列休养生息政策成效显著，农业丰收，粮价低廉，百姓安居乐业，社会呈现繁荣景象。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "经济",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "庞培征服叙利亚",
-        "description": "罗马将军庞培征服叙利亚地区，将其正式设立为罗马行省。塞琉古帝国残余势力被彻底消灭。",
+        "description": "公元前64年，在罗马共和国，庞培征服叙利亚。",
         "latitude": 33.5,
         "longitude": 36.3,
         "category": "军事",
         "region": "罗马共和国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉朝经济持续恢复",
+        "description": "公元前64年，西汉经济领域发生汉朝经济持续恢复，对当时的经济生活产生了直接影响。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "经济",
+        "region": "西汉",
         "continent": "亚洲"
       }
     ]
@@ -1452,8 +1443,17 @@
     ],
     "events": [
       {
+        "title": "屋大维出生",
+        "description": "公元前63年，在罗马共和国，屋大维出生。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马共和国",
+        "continent": "欧洲"
+      },
+      {
         "title": "汉朝重视司法公正",
-        "description": "汉宣帝下诏要求各级官员秉公执法，平反冤狱，减轻刑罚。宣帝曾因'戾太子'案（其祖父刘据的冤案）而流落民间，深知司法不公的危害。",
+        "description": "公元前63年，在西汉，汉朝重视司法公正。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -1462,16 +1462,7 @@
       },
       {
         "title": "西塞罗任执政官",
-        "description": "罗马著名政治家西塞罗当选为执政官。他在任内揭露并镇压了喀提林阴谋，巩固了元老院共和体制。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "政治",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
-        "title": "屋大维出生",
-        "description": "罗马帝国开国皇帝屋大维（盖乌斯·屋大维·图里努斯）在罗马出生。他后来结束了罗马内战，开创了罗马帝国和'罗马和平'时代。",
+        "description": "公元前63年，在罗马共和国，西塞罗任执政官。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -1492,22 +1483,22 @@
     ],
     "events": [
       {
-        "title": "汉朝边疆安宁",
-        "description": "在汉宣帝的治理下，汉朝北部边疆保持和平，匈奴因内部纷争无力南侵，汉朝得以集中精力发展内政。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "军事",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "喀提林阴谋失败",
-        "description": "西塞罗成功镇压了喀提林领导的叛乱阴谋。喀提林在皮斯托亚战役中被杀，罗马共和体制暂时得到维护。",
+        "description": "公元前62年，在罗马共和国，喀提林阴谋失败。",
         "latitude": 43.9,
         "longitude": 10.9,
         "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "汉朝边疆安宁",
+        "description": "公元前62年，在西汉，汉朝边疆安宁。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "军事",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1523,22 +1514,22 @@
     ],
     "events": [
       {
-        "title": "汉朝在西域用兵",
-        "description": "汉宣帝派遣军队在西域地区展开军事行动，巩固汉朝在西域的势力范围，震慑西域诸国。",
-        "latitude": 40.0,
-        "longitude": 85.0,
-        "category": "军事",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "凯撒出任西班牙总督",
-        "description": "尤利乌斯·凯撒被任命为西班牙行省总督，在任内展现出卓越的军事才能和政治手腕，为其日后崛起积累了资本。",
+        "description": "公元前61年，在罗马共和国，凯撒出任西班牙总督。",
         "latitude": 40.4,
         "longitude": -3.7,
         "category": "政治",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "汉朝在西域用兵",
+        "description": "公元前61年，在西汉，汉朝在西域用兵。",
+        "latitude": 40.0,
+        "longitude": 85.0,
+        "category": "军事",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1554,17 +1545,17 @@
     ],
     "events": [
       {
-        "title": "西域都护府设立",
-        "description": "汉宣帝在西域设立西域都护府，任命郑吉为首任西域都护。这是中国历史上中央政府首次在西域地区正式设立行政机构，标志着西域正式纳入汉朝版图。",
-        "latitude": 41.5,
-        "longitude": 82.0,
-        "category": "政治",
+        "title": "丝绸之路畅通",
+        "description": "公元前60年，西汉经济领域发生丝绸之路畅通，对当时的经济生活产生了直接影响。",
+        "latitude": 40.0,
+        "longitude": 80.0,
+        "category": "经济",
         "region": "西汉",
         "continent": "亚洲"
       },
       {
         "title": "罗马前三头同盟形成",
-        "description": "克拉苏、庞培和凯撒秘密结成'前三头同盟'，共同控制罗马政局。三人约定互相支持、共享权力，实际上架空了元老院。",
+        "description": "公元前60年，在罗马共和国，罗马前三头同盟形成。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -1572,11 +1563,11 @@
         "continent": "欧洲"
       },
       {
-        "title": "丝绸之路畅通",
-        "description": "随着西域都护府的设立，丝绸之路更加畅通。汉朝的丝绸、漆器、铁器等商品大量西运，西域的葡萄、苜蓿、良马等也传入中原。",
-        "latitude": 40.0,
-        "longitude": 80.0,
-        "category": "经济",
+        "title": "西域都护府设立",
+        "description": "公元前60年，在西汉，西域都护府设立。",
+        "latitude": 41.5,
+        "longitude": 82.0,
+        "category": "政治",
         "region": "西汉",
         "continent": "亚洲"
       }
@@ -1594,8 +1585,17 @@
     ],
     "events": [
       {
+        "title": "凯撒当选执政官",
+        "description": "公元前59年，在罗马共和国，凯撒当选执政官。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马共和国",
+        "continent": "欧洲"
+      },
+      {
         "title": "汉朝治理西域成效显著",
-        "description": "西域都护郑吉有效地管理西域各国，维护了丝绸之路的安全与畅通。汉朝与西域各国的贸易和文化交流日益频繁。",
+        "description": "公元前59年，在西汉，汉朝治理西域成效显著。",
         "latitude": 41.5,
         "longitude": 82.0,
         "category": "政治",
@@ -1603,11 +1603,11 @@
         "continent": "亚洲"
       },
       {
-        "title": "凯撒当选执政官",
-        "description": "在三头同盟的支持下，凯撒当选为罗马执政官。他在任内推行土地法等一系列改革，为老兵和贫民分配土地，赢得了平民的广泛支持。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "政治",
+        "title": "罗马每日纪事",
+        "description": "公元前59年，罗马共和国地区的文化艺术领域取得了重要成就，罗马每日纪事成为这一时期的文化代表。",
+        "latitude": 41.89,
+        "longitude": 12.49,
+        "category": "文化",
         "region": "罗马共和国",
         "continent": "欧洲"
       }
@@ -1625,17 +1625,8 @@
     ],
     "events": [
       {
-        "title": "汉朝吏治清明",
-        "description": "汉宣帝重视地方吏治，多次下诏表彰政绩优异的郡守。黄霸、龚遂等成为汉代'循吏'的典范，郡县治理井然有序。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "凯撒征服高卢开始",
-        "description": "凯撒出任山南高卢和伊利里库姆总督，率军出征高卢。他在高卢战争中运用卓越的军事策略，连战连捷，逐步征服高卢各部族。",
+        "description": "公元前58年，凯撒征服高卢开始，罗马共和国的军事力量向目标地区推进。",
         "latitude": 47.0,
         "longitude": 4.0,
         "category": "军事",
@@ -1643,8 +1634,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "汉朝吏治清明",
+        "description": "公元前58年，在西汉，汉朝吏治清明。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "高卢部落反抗",
-        "description": "海尔维第人试图穿越罗马领土迁徙，遭到凯撒军队的迎头痛击。凯撒在高卢的征服战争由此全面展开。",
+        "description": "公元前58年，在高卢，高卢部落反抗。",
         "latitude": 46.5,
         "longitude": 6.5,
         "category": "军事",
@@ -1665,17 +1665,8 @@
     ],
     "events": [
       {
-        "title": "汉宣帝改元五凤",
-        "description": "汉宣帝改元五凤，继续推行德政。此时汉朝国力强盛、社会稳定、边疆安宁，史称'昭宣中兴'。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "凯撒击败比利其人",
-        "description": "凯撒在高卢战争中击败了强大的比利时部族联盟，罗马的统治范围延伸到高卢北部地区。",
+        "description": "公元前57年，罗马共和国发生凯撒击败比利其人，对当地军事格局产生了重要影响。",
         "latitude": 50.5,
         "longitude": 4.0,
         "category": "军事",
@@ -1684,11 +1675,20 @@
       },
       {
         "title": "新罗建国传说",
-        "description": "据朝鲜半岛历史记载，朴赫居世在此年前后建立了新罗国（传说）。朝鲜半岛进入三国时代前夜。",
+        "description": "公元前57年，新罗建国传说，标志着新的政治实体在朝鲜半岛地区诞生。",
         "latitude": 35.9,
         "longitude": 129.0,
         "category": "政治",
         "region": "朝鲜半岛",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉宣帝改元五凤",
+        "description": "公元前57年，在西汉，汉宣帝改元五凤。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
         "continent": "亚洲"
       }
     ]
@@ -1705,17 +1705,17 @@
     ],
     "events": [
       {
-        "title": "匈奴分裂加剧",
-        "description": "匈奴内部矛盾激化，各部族首领争权夺利，呼韩邪单于和郅支单于分别割据，匈奴正式分裂为南北两部。",
-        "latitude": 44.0,
-        "longitude": 112.0,
+        "title": "三头同盟卢卡会议",
+        "description": "公元前56年，在罗马共和国，三头同盟卢卡会议。",
+        "latitude": 43.8,
+        "longitude": 10.5,
         "category": "政治",
-        "region": "匈奴",
-        "continent": "亚洲"
+        "region": "罗马共和国",
+        "continent": "欧洲"
       },
       {
         "title": "凯撒远征不列颠",
-        "description": "凯撒率领罗马军队首次远征不列颠岛，虽然未能完全征服，但罗马军队的登陆对不列颠各部落产生了巨大的震慑作用。",
+        "description": "公元前56年，在罗马共和国，凯撒远征不列颠。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "军事",
@@ -1723,13 +1723,13 @@
         "continent": "欧洲"
       },
       {
-        "title": "三头同盟卢卡会议",
-        "description": "凯撒、庞培和克拉苏在卢卡举行秘密会议，重新确认了三头同盟，瓜分罗马行省：凯撒续任高卢总督，庞培和克拉苏分任西班牙和叙利亚总督。",
-        "latitude": 43.8,
-        "longitude": 10.5,
+        "title": "匈奴分裂加剧",
+        "description": "公元前56年，在匈奴，匈奴分裂加剧。",
+        "latitude": 44.0,
+        "longitude": 112.0,
         "category": "政治",
-        "region": "罗马共和国",
-        "continent": "欧洲"
+        "region": "匈奴",
+        "continent": "亚洲"
       }
     ]
   },
@@ -1745,17 +1745,17 @@
     ],
     "events": [
       {
-        "title": "汉朝与南匈奴和好",
-        "description": "匈奴呼韩邪单于因被郅支单于击败，南下归附汉朝。汉宣帝以礼相待，给予丰厚赏赐，南匈奴成为汉朝屏障。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "外交",
-        "region": "西汉",
+        "title": "克拉苏出征安息",
+        "description": "公元前55年，在罗马共和国，克拉苏出征安息。",
+        "latitude": 35.0,
+        "longitude": 40.0,
+        "category": "军事",
+        "region": "罗马共和国",
         "continent": "亚洲"
       },
       {
         "title": "凯撒再次远征不列颠",
-        "description": "凯撒率领更大规模的军队再次远征不列颠，深入内陆，击败不列颠部落联军，但最终因高卢局势不稳而撤回。",
+        "description": "公元前55年，在罗马共和国，凯撒再次远征不列颠。",
         "latitude": 51.5,
         "longitude": -0.1,
         "category": "军事",
@@ -1763,12 +1763,12 @@
         "continent": "欧洲"
       },
       {
-        "title": "克拉苏出征安息",
-        "description": "克拉苏为获取军功和财富，率军出征东方的安息帝国（帕提亚），不顾凯撒和庞培的劝阻，贸然东征。",
-        "latitude": 35.0,
-        "longitude": 40.0,
-        "category": "军事",
-        "region": "罗马共和国",
+        "title": "汉朝与南匈奴和好",
+        "description": "公元前55年，西汉开展汉朝与南匈奴和好，体现了当时的国际关系格局。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "外交",
+        "region": "西汉",
         "continent": "亚洲"
       }
     ]
@@ -1785,17 +1785,8 @@
     ],
     "events": [
       {
-        "title": "汉朝国力达到鼎盛",
-        "description": "在汉宣帝的治理下，西汉国力达到鼎盛。府库充实、粮仓丰盈、百姓富足、社会安定，史载'吏称其职，民安其业'。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "经济",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "克拉苏惨败卡莱",
-        "description": "克拉苏率罗马大军在卡莱（今土耳其哈兰附近）与安息军队决战。安息骑兵采用游击战术，罗马军团大败。克拉苏兵败被杀，罗马军旗被夺。此役罗马损失约两万人。",
+        "description": "公元前54年，在罗马共和国，克拉苏惨败卡莱。",
         "latitude": 36.9,
         "longitude": 39.0,
         "category": "军事",
@@ -1803,8 +1794,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "汉朝国力达到鼎盛",
+        "description": "公元前54年，西汉经济领域发生汉朝国力达到鼎盛，对当时的经济生活产生了直接影响。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "经济",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "罗马东方扩张受挫",
-        "description": "卡莱战役的惨败使罗马在东方的扩张受到严重挫折，安息帝国成功阻止了罗马向美索不达米亚的推进，双方恢复幼发拉底河边界。",
+        "description": "公元前54年，在安息帝国，罗马东方扩张受挫。",
         "latitude": 35.0,
         "longitude": 40.0,
         "category": "政治",
@@ -1826,7 +1826,7 @@
     "events": [
       {
         "title": "汉宣帝改元甘露",
-        "description": "汉宣帝改元甘露，寓意天降祥瑞。此时汉朝政治清明、经济繁荣，宣帝着手整理儒家经典，推动文化发展。",
+        "description": "公元前53年，在西汉，汉宣帝改元甘露。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -1835,7 +1835,7 @@
       },
       {
         "title": "高卢人反抗加剧",
-        "description": "凯撒在高卢的征服战争遇到强大阻力，高卢各部族在维钦托利的领导下联合起来，准备发动规模空前的反抗运动。",
+        "description": "公元前53年，在高卢，高卢人反抗加剧。",
         "latitude": 47.0,
         "longitude": 4.0,
         "category": "军事",
@@ -1857,7 +1857,7 @@
     "events": [
       {
         "title": "呼韩邪单于朝汉",
-        "description": "南匈奴呼韩邪单于亲自到长安朝见汉宣帝。宣帝以藩王礼仪接待，赐予玺绶、冠带、金银等物。这是历史上匈奴单于首次亲自入朝。",
+        "description": "公元前52年，西汉开展呼韩邪单于朝汉，体现了当时的国际关系格局。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "外交",
@@ -1865,21 +1865,21 @@
         "continent": "亚洲"
       },
       {
-        "title": "维钦托利领导高卢起义",
-        "description": "高卢领袖维钦托利发动大规模起义，统一指挥高卢各部族军队，采取焦土战术与凯撒周旋。凯撒陷入困境。",
-        "latitude": 46.5,
-        "longitude": 3.0,
-        "category": "军事",
-        "region": "高卢",
-        "continent": "欧洲"
-      },
-      {
         "title": "秦那就任罗马执政官",
-        "description": "凯撒在罗马的支持者就任重要职务，为凯撒在高卢的军事行动提供政治支持。",
+        "description": "公元前52年，在罗马共和国，秦那就任罗马执政官。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
         "region": "罗马共和国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "维钦托利领导高卢起义",
+        "description": "公元前52年，高卢发生维钦托利领导高卢起义，起义者反抗统治者的压迫。",
+        "latitude": 46.5,
+        "longitude": 3.0,
+        "category": "军事",
+        "region": "高卢",
         "continent": "欧洲"
       }
     ]
@@ -1896,17 +1896,8 @@
     ],
     "events": [
       {
-        "title": "汉宣帝图画功臣于麒麟阁",
-        "description": "汉宣帝为表彰霍光、张安世、韩增、赵充国等十一名功臣，命人将其画像悬挂于麒麟阁。这是中国历史上第一次为功臣画像纪念的盛事。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "文化",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "凯撒彻底征服高卢",
-        "description": "凯撒在阿莱西亚战役中击败维钦托利领导的高卢起义军。凯撒包围阿莱西亚城，击退高卢援军，维钦托利被迫投降。高卢全境被罗马征服。",
+        "description": "公元前51年，在罗马共和国，凯撒彻底征服高卢。",
         "latitude": 47.5,
         "longitude": 4.5,
         "category": "军事",
@@ -1914,8 +1905,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "汉宣帝图画功臣于麒麟阁",
+        "description": "公元前51年，西汉地区的文化艺术领域取得了重要成就，汉宣帝图画功臣于麒麟阁成为这一时期的文化代表。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "文化",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "石渠阁经学会议",
-        "description": "汉宣帝在未央宫石渠阁召开经学会议，召集著名儒生讨论五经异同，确立儒家经典的官方解释，推动经学发展。",
+        "description": "公元前51年，西汉地区的文化艺术领域取得了重要成就，石渠阁经学会议成为这一时期的文化代表。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "文化",
@@ -1936,17 +1936,8 @@
     ],
     "events": [
       {
-        "title": "汉朝与匈奴和平共处",
-        "description": "呼韩邪单于归附汉朝后，汉匈之间实现了真正意义上的和平。汉朝减少边境驻军，节省大量军费开支。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "外交",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "凯撒返回罗马",
-        "description": "凯撒完成高卢征服后返回罗马，带来了大量财富和精锐的军队。其声望如日中天，与庞培的矛盾开始显现。",
+        "description": "公元前50年，在罗马共和国，凯撒返回罗马。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -1954,8 +1945,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "汉朝与匈奴和平共处",
+        "description": "公元前50年，西汉开展汉朝与匈奴和平共处，体现了当时的国际关系格局。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "外交",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "西塞罗发表演说",
-        "description": "西塞罗在罗马发表重要演说，捍卫共和体制，对军事独裁倾向提出警告，呼吁恢复元老院的权威。",
+        "description": "公元前50年，罗马共和国地区的文化艺术领域取得了重要成就，西塞罗发表演说成为这一时期的文化代表。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "文化",
@@ -1976,17 +1976,8 @@
     ],
     "events": [
       {
-        "title": "汉宣帝驾崩",
-        "description": "汉宣帝刘询驾崩，在位二十五年。宣帝中兴汉朝，使西汉国力达到武帝之后的又一顶峰。其施政'霸王道杂之'，既有法治严明，又以仁德服人。太子刘奭即位，是为汉元帝。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "凯撒渡过卢比孔河",
-        "description": "凯撒率军渡过卢比孔河，打破罗马法规定。他高呼'骰子已经掷下'，率军进攻罗马。庞培和元老院贵族仓皇逃离罗马，罗马内战全面爆发。",
+        "description": "公元前49年，在罗马共和国，凯撒渡过卢比孔河。",
         "latitude": 44.1,
         "longitude": 12.4,
         "category": "军事",
@@ -1995,7 +1986,16 @@
       },
       {
         "title": "汉元帝即位",
-        "description": "汉元帝刘奭即位，改元初元。元帝柔懦好儒，改变了宣帝'霸王道杂之'的治国方针，重用儒生，朝政开始转向。",
+        "description": "公元前49年，汉元帝即位，开启了新的统治时期。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉宣帝驾崩",
+        "description": "公元前49年，汉宣帝驾崩，一个重要的历史人物离开了历史舞台。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -2016,17 +2016,8 @@
     ],
     "events": [
       {
-        "title": "汉元帝改革朝政",
-        "description": "汉元帝大量提拔儒生入朝为官，重用萧望之、刘向等儒臣，试图以儒家'仁政'理念改革朝政，削弱宦官和外戚势力。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "凯撒追击庞培",
-        "description": "凯撒在击败庞培在西班牙的军队后，率军渡过亚得里亚海，追击逃往希腊的庞培。双方在希腊境内展开一系列战役。",
+        "description": "公元前48年，在罗马共和国，凯撒追击庞培。",
         "latitude": 40.0,
         "longitude": 22.0,
         "category": "军事",
@@ -2034,8 +2025,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "汉元帝改革朝政",
+        "description": "公元前48年，西汉推行汉元帝改革朝政，对当地政治经济制度产生了深远影响。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "法萨卢斯战役",
-        "description": "凯撒与庞培在希腊法萨卢斯进行决战。凯撒以劣势兵力击败庞培的大军，庞培逃往埃及。凯撒成为罗马世界的霸主。",
+        "description": "公元前48年，罗马共和国地区爆发法萨卢斯战役，交战双方为争夺战略要地展开激烈战斗。",
         "latitude": 39.5,
         "longitude": 22.3,
         "category": "军事",
@@ -2056,17 +2056,8 @@
     ],
     "events": [
       {
-        "title": "宦官石显得势",
-        "description": "汉元帝因体弱多病，逐渐将朝政委托给宦官石显。石显善于逢迎，开始把持朝政，排挤萧望之等正直大臣。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "凯撒与埃及艳后",
-        "description": "凯撒追击庞培至埃及，介入埃及王位继承战争。他支持克利奥帕特拉七世夺取王位，两人成为情人。凯撒在亚历山大城被围困数月。",
+        "description": "公元前47年，在埃及，凯撒与埃及艳后。",
         "latitude": 30.0,
         "longitude": 31.2,
         "category": "政治",
@@ -2074,8 +2065,17 @@
         "continent": "非洲"
       },
       {
+        "title": "宦官石显得势",
+        "description": "公元前47年，在西汉，宦官石显得势。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "托勒密王朝内乱",
-        "description": "埃及托勒密王朝内部爆发王位继承战争，克利奥帕特拉七世与其弟托勒密十三世争夺王位。罗马介入使埃及局势更加复杂。",
+        "description": "公元前47年，在埃及，托勒密王朝内乱。",
         "latitude": 30.0,
         "longitude": 31.2,
         "category": "政治",
@@ -2096,17 +2096,17 @@
     ],
     "events": [
       {
-        "title": "萧望之被迫自杀",
-        "description": "宦官石显诬陷大臣萧望之，汉元帝听信谗言，萧望之被逼自杀。朝中正直之士大为寒心，宦官势力进一步膨胀。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
+        "title": "凯撒击败庞培残余",
+        "description": "公元前46年，在罗马共和国，凯撒击败庞培残余。",
+        "latitude": 36.5,
+        "longitude": 10.0,
+        "category": "军事",
+        "region": "罗马共和国",
+        "continent": "非洲"
       },
       {
         "title": "凯撒改革罗马历法",
-        "description": "凯撒在埃及天文学家索西琴尼的协助下，颁布新的罗马历法——儒略历。该历法一年为365.25天，设闰年，是今天公历的前身。",
+        "description": "公元前46年，罗马共和国推行凯撒改革罗马历法，对当地政治经济制度产生了深远影响。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "文化",
@@ -2114,13 +2114,13 @@
         "continent": "欧洲"
       },
       {
-        "title": "凯撒击败庞培残余",
-        "description": "凯撒在非洲击败庞培残余势力的军队，彻底消灭了庞培派的反抗力量。凯撒返回罗马被任命为终身独裁官。",
-        "latitude": 36.5,
-        "longitude": 10.0,
-        "category": "军事",
-        "region": "罗马共和国",
-        "continent": "非洲"
+        "title": "萧望之被迫自杀",
+        "description": "公元前46年，在西汉，萧望之被迫自杀。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2136,17 +2136,8 @@
     ],
     "events": [
       {
-        "title": "汉朝天灾频发",
-        "description": "汉元帝在位期间自然灾害频发，多地出现地震、水灾、旱灾。朝廷拨发粮款赈灾，但因宦官当政，赈灾效果不佳。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "社会",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "凯撒终结西班牙反抗",
-        "description": "凯撒在西班牙的蒙达战役中击败庞培之子领导的最后反抗力量，彻底结束了罗马内战。",
+        "description": "公元前45年，罗马共和国地区的凯撒终结西班牙反抗，一个时代由此终结。",
         "latitude": 37.5,
         "longitude": -4.5,
         "category": "军事",
@@ -2155,12 +2146,21 @@
       },
       {
         "title": "凯撒被任命为终身独裁官",
-        "description": "凯撒被罗马元老院任命为终身独裁官，获得近乎绝对的权力。他推行一系列改革，包括扩大公民权、改革行政体系、兴建公共工程。",
+        "description": "公元前45年，在罗马共和国，凯撒被任命为终身独裁官。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "汉朝天灾频发",
+        "description": "公元前45年，西汉社会领域出现汉朝天灾频发，反映了社会的发展变化。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "社会",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2176,8 +2176,17 @@
     ],
     "events": [
       {
+        "title": "凯撒遇刺",
+        "description": "公元前44年，凯撒遇刺，一个重要的历史人物离开了历史舞台。",
+        "latitude": 41.89,
+        "longitude": 12.49,
+        "category": "政治",
+        "region": "罗马共和国",
+        "continent": "欧洲"
+      },
+      {
         "title": "汉元帝罢省节俭",
-        "description": "汉元帝下诏罢省宫内不必要的开支，减少皇家苑囿，节约用度，以减轻百姓负担。但宦官石显仍把持朝政，诏令多不能落实。",
+        "description": "公元前44年，在西汉，汉元帝罢省节俭。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -2185,17 +2194,8 @@
         "continent": "亚洲"
       },
       {
-        "title": "凯撒遇刺身亡",
-        "description": "罗马独裁官凯撒在元老院议事厅被布鲁图、卡西乌斯为首的共和派元老刺死，身中二十三刀。凯撒之死震惊了整个罗马世界。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "政治",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
         "title": "罗马后三头同盟形成",
-        "description": "凯撒死后，其养子屋大维、部将安东尼和雷必达结成'后三头同盟'，共同讨伐共和派。罗马进入新的内战时期。",
+        "description": "公元前44年，在罗马共和国，罗马后三头同盟形成。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -2204,7 +2204,7 @@
       },
       {
         "title": "西塞罗发表《腓力比克》",
-        "description": "西塞罗在元老院发表著名的《腓力比克》演说，猛烈抨击安东尼，捍卫共和制度。这些演说成为拉丁文学的经典之作。",
+        "description": "公元前44年，罗马共和国地区的文化艺术领域取得了重要成就，西塞罗发表《腓力比克》成为这一时期的文化代表。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "文化",
@@ -2225,17 +2225,8 @@
     ],
     "events": [
       {
-        "title": "汉元帝改元永光",
-        "description": "汉元帝改元永光。此年汉朝因连年灾害导致财政困难，朝廷下令减少官员俸禄，压缩行政开支。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "后三头发布公敌宣告",
-        "description": "屋大维、安东尼和雷必达在罗马发布'公敌宣告'，大规模清洗政敌。西塞罗被安东尼派兵追杀而死，其头颅和双手被钉在罗马广场示众。",
+        "description": "公元前43年，在罗马共和国，后三头发布公敌宣告。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -2244,12 +2235,21 @@
       },
       {
         "title": "布鲁图招募军队",
-        "description": "刺杀凯撒的共和派领袖布鲁图和卡西乌斯在希腊和马其顿招募军队，准备与后三头同盟决一死战。",
+        "description": "公元前43年，在罗马共和国，布鲁图招募军队。",
         "latitude": 40.0,
         "longitude": 22.0,
         "category": "军事",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "汉元帝改元永光",
+        "description": "公元前43年，在西汉，汉元帝改元永光。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2265,8 +2265,17 @@
     ],
     "events": [
       {
+        "title": "后三头瓜分罗马",
+        "description": "公元前42年，在罗马共和国，后三头瓜分罗马。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马共和国",
+        "continent": "欧洲"
+      },
+      {
         "title": "汉朝边境羌人叛乱",
-        "description": "陇西一带的羌人部落发生叛乱，汉元帝派遣军队前往镇压，冯奉世率军击败羌人，稳定了西部边境。",
+        "description": "公元前42年，在西汉，汉朝边境羌人叛乱。",
         "latitude": 35.0,
         "longitude": 104.0,
         "category": "军事",
@@ -2275,19 +2284,10 @@
       },
       {
         "title": "腓立比战役",
-        "description": "屋大维和安东尼联军在希腊腓立比与布鲁图和卡西乌斯的共和派军队决战。布鲁图和卡西乌斯兵败自杀，共和派势力被彻底消灭。",
+        "description": "公元前42年，罗马共和国爆发腓立比战役，战事在罗马共和国地区全面展开。",
         "latitude": 41.0,
         "longitude": 24.5,
         "category": "军事",
-        "region": "罗马共和国",
-        "continent": "欧洲"
-      },
-      {
-        "title": "后三头瓜分罗马",
-        "description": "腓立比战役后，后三头同盟重新瓜分势力范围：屋大维统治西方，安东尼统治东方，雷必达统治非洲。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "政治",
         "region": "罗马共和国",
         "continent": "欧洲"
       }
@@ -2305,17 +2305,8 @@
     ],
     "events": [
       {
-        "title": "汉朝经济困难加重",
-        "description": "汉元帝时期财政持续困难，朝廷被迫削减公共工程开支。各地流民增多，社会不稳定因素增加。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "经济",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "安东尼与克利奥帕特拉",
-        "description": "安东尼在东方塔尔苏斯召见埃及女王克利奥帕特拉七世，被她深深吸引。两人坠入爱河，安东尼长期滞留亚历山大城。",
+        "description": "公元前41年，在埃及，安东尼与克利奥帕特拉。",
         "latitude": 36.9,
         "longitude": 34.9,
         "category": "政治",
@@ -2324,12 +2315,21 @@
       },
       {
         "title": "屋大维在意大利的土地分配",
-        "description": "屋大维在意大利为退伍老兵分配土地，引发当地居民的不满和反抗。安东尼的兄弟在意大利制造骚乱，与屋大维的矛盾加剧。",
+        "description": "公元前41年，罗马共和国社会领域出现屋大维在意大利的土地分配，反映了社会的发展变化。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "社会",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "汉朝经济困难加重",
+        "description": "公元前41年，西汉经济领域发生汉朝经济困难加重，对当时的经济生活产生了直接影响。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "经济",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2345,17 +2345,17 @@
     ],
     "events": [
       {
-        "title": "汉元帝废黜部分苛政",
-        "description": "汉元帝下诏废除了一些武帝时期遗留下的苛政严法，减轻刑罚，试图缓和日益尖锐的社会矛盾。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
+        "title": "安息帝国入侵叙利亚",
+        "description": "公元前40年，在安息帝国，安息帝国入侵叙利亚。",
+        "latitude": 35.0,
+        "longitude": 40.0,
+        "category": "军事",
+        "region": "安息帝国",
         "continent": "亚洲"
       },
       {
         "title": "布鲁顿同盟条约",
-        "description": "安东尼和屋大维在布鲁顿达成新的协议，安东尼娶屋大维的姐姐屋大维娅为妻。罗马三大巨头之间的关系暂时缓和。",
+        "description": "公元前40年，布鲁顿同盟条约，该协议的签署影响了相关国家的关系格局。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -2363,12 +2363,12 @@
         "continent": "欧洲"
       },
       {
-        "title": "安息帝国入侵叙利亚",
-        "description": "安息帝国趁罗马内乱之机，入侵罗马控制下的叙利亚和小亚细亚地区，罗马在东方的统治受到严重威胁。",
-        "latitude": 35.0,
-        "longitude": 40.0,
-        "category": "军事",
-        "region": "安息帝国",
+        "title": "汉元帝废黜部分苛政",
+        "description": "公元前40年，在西汉，汉元帝废黜部分苛政。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
         "continent": "亚洲"
       }
     ]
@@ -2385,17 +2385,8 @@
     ],
     "events": [
       {
-        "title": "汉朝儒学兴盛",
-        "description": "汉元帝大力推崇儒学，增广太学学生名额，令各郡国举荐通晓经书的儒生入仕。儒学在政治生活中的影响力进一步扩大。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "文化",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "安东尼反击安息",
-        "description": "安东尼率罗马军队在东方对安息帝国展开反击，夺回部分被占领的领土，但未能彻底击败安息军队。",
+        "description": "公元前39年，在罗马共和国，安东尼反击安息。",
         "latitude": 35.0,
         "longitude": 40.0,
         "category": "军事",
@@ -2404,7 +2395,7 @@
       },
       {
         "title": "希律被立为犹太王",
-        "description": "罗马扶植希律（大希律）成为犹太地区的国王。希律在罗马的支持下统治犹太地区，开始了其长达三十余年的统治。",
+        "description": "公元前39年，在犹太，希律被立为犹太王。",
         "latitude": 31.8,
         "longitude": 35.2,
         "category": "政治",
@@ -2425,17 +2416,8 @@
     ],
     "events": [
       {
-        "title": "汉元帝改元建昭",
-        "description": "汉元帝改元建昭。此时宦官石显把持朝政，朝中正直之士多受排挤，西汉政治开始走向黑暗。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "安东尼东征受挫",
-        "description": "安东尼对安息帝国的远征遭遇重大挫折，损失大量军队。他被迫撤退，与克利奥帕特拉在埃及会合。",
+        "description": "公元前38年，在罗马共和国，安东尼东征受挫。",
         "latitude": 36.0,
         "longitude": 42.0,
         "category": "军事",
@@ -2444,12 +2426,21 @@
       },
       {
         "title": "屋大维在西方巩固权力",
-        "description": "屋大维在高卢和西班牙行省巩固统治，整顿行政体系，为罗马西部带来稳定。他的声望逐渐超越安东尼。",
+        "description": "公元前38年，在罗马共和国，屋大维在西方巩固权力。",
         "latitude": 45.0,
         "longitude": 2.0,
         "category": "政治",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "汉元帝改元建昭",
+        "description": "公元前38年，在西汉，汉元帝改元建昭。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2465,17 +2456,8 @@
     ],
     "events": [
       {
-        "title": "汉朝平息羌乱",
-        "description": "汉元帝派遣军队在陇西一带彻底平定羌人叛乱，巩固了汉朝在西部地区的统治。",
-        "latitude": 35.0,
-        "longitude": 104.0,
-        "category": "军事",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "安东尼与克利奥帕特拉结婚",
-        "description": "安东尼与克利奥帕特拉七世在亚历山大城正式结婚，并宣布将罗马东方领土分封给克利奥帕特拉所生的子女。此举激怒了罗马元老院和屋大维。",
+        "description": "公元前37年，在埃及，安东尼与克利奥帕特拉结婚。",
         "latitude": 30.0,
         "longitude": 31.2,
         "category": "政治",
@@ -2484,12 +2466,21 @@
       },
       {
         "title": "屋大维重修罗马城",
-        "description": "屋大维开始大规模重修罗马城，修建神庙、广场、水道等公共设施，提升罗马城的城市面貌。",
+        "description": "公元前37年，罗马共和国地区的文化艺术领域取得了重要成就，屋大维重修罗马城成为这一时期的文化代表。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "文化",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "汉朝平息羌乱",
+        "description": "公元前37年，在西汉，汉朝平息羌乱。",
+        "latitude": 35.0,
+        "longitude": 104.0,
+        "category": "军事",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2505,17 +2496,8 @@
     ],
     "events": [
       {
-        "title": "汉元帝沉溺酒色",
-        "description": "汉元帝因体弱且性格优柔寡断，逐渐沉溺酒色，将国事完全交给宦官石显处理，朝政日益败坏。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "屋大维击败庞培之子",
-        "description": "屋大维的部将阿格里帕在西西里海域击败庞培之子塞克斯图斯·庞培的海上势力，肃清了地中海的海盗。",
+        "description": "公元前36年，在罗马共和国，屋大维击败庞培之子。",
         "latitude": 38.0,
         "longitude": 13.5,
         "category": "军事",
@@ -2523,8 +2505,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "汉元帝沉溺酒色",
+        "description": "公元前36年，在西汉，汉元帝沉溺酒色。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "雷必达失势",
-        "description": "后三头之一的雷必达因试图争夺西西里控制权，被屋大维剥夺军权，仅保留祭司长头衔。后三头同盟实际上只剩下屋大维和安东尼两强对峙。",
+        "description": "公元前36年，在罗马共和国，雷必达失势。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -2546,7 +2537,7 @@
     "events": [
       {
         "title": "安东尼与屋大维关系恶化",
-        "description": "安东尼休弃了屋大维的姐姐屋大维娅，公开与克利奥帕特拉生活在一起。屋大维以此为契机在罗马发动反安东尼的宣传攻势。",
+        "description": "公元前35年，在罗马共和国，安东尼与屋大维关系恶化。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -2555,7 +2546,7 @@
       },
       {
         "title": "安息帝国巩固东方",
-        "description": "安息帝国弗拉特斯四世在东线巩固统治，抵御来自中亚游牧民族的侵扰，同时维持与罗马的对峙态势。",
+        "description": "公元前35年，在安息帝国，安息帝国巩固东方。",
         "latitude": 35.0,
         "longitude": 50.0,
         "category": "军事",
@@ -2576,17 +2567,8 @@
     ],
     "events": [
       {
-        "title": "汉元帝废除部分宫室",
-        "description": "汉元帝下诏废除部分奢华宫室建筑，节省开支以用于赈灾和民生。但此举措无法从根本上扭转日渐衰颓的国势。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "安东尼征服亚美尼亚",
-        "description": "安东尼率军征服亚美尼亚王国，将其并入罗马版图。他在亚历山大城举行凯旋式，将战利品献给克利奥帕特拉，引起罗马人强烈不满。",
+        "description": "公元前34年，在罗马共和国，安东尼征服亚美尼亚。",
         "latitude": 40.0,
         "longitude": 44.0,
         "category": "军事",
@@ -2594,8 +2576,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "汉元帝废除部分宫室",
+        "description": "公元前34年，在西汉，汉元帝废除部分宫室。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "汉成帝出生",
-        "description": "汉元帝之子刘骜（即后来的汉成帝）此时逐渐长大。刘骜喜好玩乐，不喜读书，为日后西汉衰败埋下伏笔。",
+        "description": "公元前34年，在西汉，汉成帝出生。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -2616,20 +2607,20 @@
     ],
     "events": [
       {
-        "title": "王昭君出塞",
-        "description": "汉元帝将宫女王昭君赐予南匈奴呼韩邪单于为阏氏（王后）。昭君出塞促进了汉匈和平，使北部边境数十年无战事。相传昭君因不肯贿赂画师毛延寿而被丑化，出塞时元帝才惊见其美貌。",
+        "title": "汉元帝驾崩",
+        "description": "公元前33年，汉元帝驾崩，一个重要的历史人物离开了历史舞台。",
         "latitude": 34.304,
         "longitude": 108.856,
-        "category": "外交",
+        "category": "政治",
         "region": "西汉",
         "continent": "亚洲"
       },
       {
-        "title": "汉元帝驾崩",
-        "description": "汉元帝刘奭驾崩，在位十六年。元帝柔懦好儒，却因重用宦官石显导致朝政败坏，西汉由此由盛转衰。太子刘骜即位，是为汉成帝。",
+        "title": "王昭君出塞",
+        "description": "公元前33年，西汉开展王昭君出塞，体现了当时的国际关系格局。",
         "latitude": 34.304,
         "longitude": 108.856,
-        "category": "政治",
+        "category": "外交",
         "region": "西汉",
         "continent": "亚洲"
       }
@@ -2647,8 +2638,17 @@
     ],
     "events": [
       {
+        "title": "屋大维与安东尼决战前夕",
+        "description": "公元前32年，在罗马共和国，屋大维与安东尼决战前夕。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马共和国",
+        "continent": "欧洲"
+      },
+      {
         "title": "汉成帝即位",
-        "description": "汉成帝刘骜即位，改元建始。成帝即位后罢免宦官石显，朝中正直之士一度振奋。但成帝本人喜好游乐，并无治国雄心。",
+        "description": "公元前32年，汉成帝即位，开启了新的统治时期。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -2657,21 +2657,12 @@
       },
       {
         "title": "西汉外戚势力抬头",
-        "description": "汉成帝即位后，其母王政君被尊为皇太后，王氏外戚开始崛起。王政君的兄弟王凤、王商等人相继被封侯，逐渐掌控朝政。",
+        "description": "公元前32年，在西汉，西汉外戚势力抬头。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
         "region": "西汉",
         "continent": "亚洲"
-      },
-      {
-        "title": "屋大维与安东尼决战前夕",
-        "description": "罗马两大巨头屋大维和安东尼之间的矛盾已经不可调和。屋大维在罗马煽动对埃及宣战，双方积极备战，准备进行最后决战。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "政治",
-        "region": "罗马共和国",
-        "continent": "欧洲"
       }
     ]
   },
@@ -2687,17 +2678,8 @@
     ],
     "events": [
       {
-        "title": "汉成帝崇信儒术",
-        "description": "汉成帝虽喜好游乐，但在表面上仍尊崇儒术，征召名儒入朝，增加博士弟子员名额，儒学在此时达到极盛。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "文化",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "亚克兴海战",
-        "description": "屋大维与安东尼在希腊西部的亚克兴海域进行决定性海战。阿格里帕指挥的屋大维舰队大败安东尼-埃及联合舰队。克利奥帕特拉率埃及舰队先行撤离，安东尼随即逃离战场。",
+        "description": "公元前31年，在罗马共和国，亚克兴海战。",
         "latitude": 38.9,
         "longitude": 20.7,
         "category": "军事",
@@ -2706,12 +2688,21 @@
       },
       {
         "title": "安东尼败走埃及",
-        "description": "亚克兴海战失败后，安东尼和克利奥帕特拉逃回埃及亚历山大城。屋大维乘胜追击，准备进攻埃及。",
+        "description": "公元前31年，在埃及，安东尼败走埃及。",
         "latitude": 30.0,
         "longitude": 31.2,
         "category": "军事",
         "region": "埃及",
         "continent": "非洲"
+      },
+      {
+        "title": "汉成帝崇信儒术",
+        "description": "公元前31年，西汉地区的文化艺术领域取得了重要成就，汉成帝崇信儒术成为这一时期的文化代表。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "文化",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2727,17 +2718,8 @@
     ],
     "events": [
       {
-        "title": "汉成帝荒于政事",
-        "description": "汉成帝不理朝政，终日与嬖臣张放等人微服出游，斗鸡走马。朝中大权逐渐落入外戚王凤手中。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "安东尼与克利奥帕特拉自杀",
-        "description": "屋大维攻入埃及亚历山大城。安东尼得知克利奥帕特拉已死的假消息后自杀。克利奥帕特拉试图以美色诱惑屋大维未果，最终用毒蛇自杀身亡。托勒密王朝终结。",
+        "description": "公元前30年，在埃及，安东尼与克利奥帕特拉自杀。",
         "latitude": 30.0,
         "longitude": 31.2,
         "category": "政治",
@@ -2745,26 +2727,17 @@
         "continent": "非洲"
       },
       {
-        "title": "埃及成为罗马行省",
-        "description": "屋大维将埃及正式并入罗马版图，设为罗马行省。埃及的粮食和财富成为罗马帝国的重要经济支柱。",
-        "latitude": 30.0,
-        "longitude": 31.2,
+        "title": "汉成帝荒于政事",
+        "description": "公元前30年，在西汉，汉成帝荒于政事。",
+        "latitude": 34.304,
+        "longitude": 108.856,
         "category": "政治",
-        "region": "罗马共和国",
-        "continent": "非洲"
-      },
-      {
-        "title": "罗马内战结束",
-        "description": "屋大维消灭了最后一个政敌安东尼，结束了罗马长达一个世纪的内战。他成为罗马世界的唯一主宰者。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "军事",
-        "region": "罗马共和国",
-        "continent": "欧洲"
+        "region": "西汉",
+        "continent": "亚洲"
       },
       {
         "title": "贵霜帝国建立",
-        "description": "大月氏贵霜翕侯统一各部建立贵霜帝国。",
+        "description": "公元前30年，贵霜帝国建立，标志着新的政治实体在贵霜帝国地区诞生。",
         "latitude": 37.0,
         "longitude": 70.0,
         "category": "政治",
@@ -2785,17 +2758,8 @@
     ],
     "events": [
       {
-        "title": "王凤独揽大权",
-        "description": "外戚王凤以大将军身份独揽朝政，排挤异己。汉成帝对此听之任之，西汉政治进一步败坏。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "屋大维凯旋罗马",
-        "description": "屋大维返回罗马举行盛大凯旋式，庆祝征服埃及。雅努斯神庙大门关闭，象征着罗马和平的到来。",
+        "description": "公元前29年，在罗马共和国，屋大维凯旋罗马。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -2804,12 +2768,21 @@
       },
       {
         "title": "屋大维开始共和制改革",
-        "description": "屋大维在罗马表面上恢复共和制度，宣布归还元老院和人民的权力，接受'元首'称号。实际上他保留了军权，开创了元首制。",
+        "description": "公元前29年，罗马共和国推行屋大维开始共和制改革，对当地政治经济制度产生了深远影响。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
         "region": "罗马共和国",
         "continent": "欧洲"
+      },
+      {
+        "title": "王凤独揽大权",
+        "description": "公元前29年，在西汉，王凤独揽大权。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -2825,8 +2798,17 @@
     ],
     "events": [
       {
+        "title": "屋大维进行人口普查",
+        "description": "公元前28年，在罗马帝国，屋大维进行人口普查。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
         "title": "汉成帝改元河平",
-        "description": "汉成帝改元河平。黄河决口泛滥成灾，成帝命王延世等人治理黄河，王延世用'堵口法'成功堵住决口。",
+        "description": "公元前28年，西汉社会领域出现汉成帝改元河平，反映了社会的发展变化。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "社会",
@@ -2835,21 +2817,12 @@
       },
       {
         "title": "黄河泛滥治理",
-        "description": "黄河在东郡决口，洪水淹没大片农田和村庄。汉朝征调数万民夫堵口修堤，历时数月才控制住水患。",
+        "description": "公元前28年，西汉经济领域发生黄河泛滥治理，对当时的经济生活产生了直接影响。",
         "latitude": 35.5,
         "longitude": 115.0,
         "category": "经济",
         "region": "西汉",
         "continent": "亚洲"
-      },
-      {
-        "title": "屋大维进行人口普查",
-        "description": "屋大维在罗马帝国境内进行大规模人口普查，以掌握全国人口和经济状况，为建立高效的行政管理体系奠定基础。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "政治",
-        "region": "罗马帝国",
-        "continent": "欧洲"
       }
     ]
   },
@@ -2865,17 +2838,8 @@
     ],
     "events": [
       {
-        "title": "王氏五侯封爵",
-        "description": "汉成帝同日封王谭、王商、王立、王根、王逢时兄弟五人为侯，时称'王氏五侯'。王氏外戚势力极度膨胀，朝政完全被外戚掌控。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
-        "title": "屋大维获封奥古斯都",
-        "description": "罗马元老院授予屋大维'奥古斯都'（至尊至圣者）尊号。屋大维正式成为罗马帝国的第一位皇帝，罗马共和国终结，罗马帝国开始。",
+        "title": "奥古斯都改革罗马",
+        "description": "公元前27年，罗马帝国推行奥古斯都改革罗马，对当地政治经济制度产生了深远影响。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -2883,10 +2847,28 @@
         "continent": "欧洲"
       },
       {
-        "title": "奥古斯都改革罗马",
-        "description": "奥古斯都（屋大维）开始全面改革罗马的行政、军事和财政体系。他建立常备军和禁卫军，设立行省管理制度。",
+        "title": "屋大维获封奥古斯都",
+        "description": "公元前27年，在罗马帝国，屋大维获封奥古斯都。",
         "latitude": 41.9,
         "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "王氏五侯封爵",
+        "description": "公元前27年，在西汉，王氏五侯封爵。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "罗马帝国建立",
+        "description": "公元前1世纪中叶罗马共和国陷入了长达二十年的内战。前三头同盟解体后凯撒与庞培决战并胜出成为终身独裁官但随即被元老院共和派刺杀。凯撒的养子屋大维与安东尼和雷必达组成后三头同盟在腓立比战役中打败了刺杀凯撒的共和派。随后屋大维与安东尼的联盟破裂公元前31年屋大维的舰队在希腊西海岸的亚克兴海战中大败安东尼和埃及女王克利奥帕特拉的联军。安东尼和克利奥帕特拉相继自杀埃及托勒密王朝灭亡。屋大维成为罗马世界的唯一主宰者。公元前27年1月16日屋大维在元老院宣布恢复共和但他同时接受了元老院授予的奥古斯都尊号和一系列非常权力——终身保民官大祭司长最高统帅和行省总督权。他自称第一公民保留了共和制度的外壳但实际掌握了军事行政和宗教的最高权力。罗马从共和国变成了帝国奥古斯都开创了延续两百年的罗马和平时期。",
+        "latitude": 41.89,
+        "longitude": 12.49,
         "category": "政治",
         "region": "罗马帝国",
         "continent": "欧洲"
@@ -2906,7 +2888,7 @@
     "events": [
       {
         "title": "刘向校勘群书",
-        "description": "汉成帝命刘向负责校勘宫中藏书。刘向对大量先秦古籍进行了系统整理和校勘，编撰《别录》，为中国目录学之祖。",
+        "description": "公元前26年，西汉地区的文化艺术领域取得了重要成就，刘向校勘群书成为这一时期的文化代表。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "文化",
@@ -2914,22 +2896,22 @@
         "continent": "亚洲"
       },
       {
-        "title": "奥古斯都巡视高卢",
-        "description": "奥古斯都巡视高卢行省，整顿行政和税收体系，为罗马帝国西部各省的繁荣奠定基础。",
-        "latitude": 47.0,
-        "longitude": 4.0,
-        "category": "政治",
-        "region": "罗马帝国",
-        "continent": "欧洲"
-      },
-      {
         "title": "古埃及神庙建筑",
-        "description": "在罗马统治下的埃及，仍在埃德富等地继续修建古埃及风格的神庙建筑，托勒密王朝开始的丹德拉神庙等工程持续进行。",
+        "description": "公元前26年，埃及地区的文化艺术领域取得了重要成就，古埃及神庙建筑成为这一时期的文化代表。",
         "latitude": 26.1,
         "longitude": 32.7,
         "category": "文化",
         "region": "埃及",
         "continent": "非洲"
+      },
+      {
+        "title": "奥古斯都巡视高卢",
+        "description": "公元前26年，在罗马帝国，奥古斯都巡视高卢。",
+        "latitude": 47.0,
+        "longitude": 4.0,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
       }
     ]
   },
@@ -2945,17 +2927,17 @@
     ],
     "events": [
       {
-        "title": "汉朝改革币制",
-        "description": "汉成帝时期因财政困难，朝廷试图改革币制，但因操作不当导致物价波动，反而加重了百姓负担。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "经济",
-        "region": "西汉",
-        "continent": "亚洲"
+        "title": "加拉提亚成为罗马行省",
+        "description": "公元前25年，在罗马帝国，加拉提亚成为罗马行省。",
+        "latitude": 39.0,
+        "longitude": 33.0,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
       },
       {
         "title": "奥古斯都远征西班牙",
-        "description": "奥古斯都亲征西班牙北部的坎塔布里亚部落，率军平定西班牙西北部的蛮族叛乱，完成了对伊比利亚半岛的彻底征服。",
+        "description": "公元前25年，在罗马帝国，奥古斯都远征西班牙。",
         "latitude": 43.0,
         "longitude": -5.0,
         "category": "军事",
@@ -2963,12 +2945,12 @@
         "continent": "欧洲"
       },
       {
-        "title": "加拉提亚成为罗马行省",
-        "description": "小亚细亚的加拉提亚王国末代国王阿米塔斯去世后，奥古斯都将加拉提亚设为罗马行省，进一步巩固了罗马在安纳托利亚的统治。",
-        "latitude": 39.0,
-        "longitude": 33.0,
-        "category": "政治",
-        "region": "罗马帝国",
+        "title": "汉朝改革币制",
+        "description": "公元前25年，西汉推行汉朝改革币制，对当地政治经济制度产生了深远影响。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "经济",
+        "region": "西汉",
         "continent": "亚洲"
       }
     ]
@@ -2985,17 +2967,17 @@
     ],
     "events": [
       {
-        "title": "汉成帝改元阳朔",
-        "description": "汉成帝改元阳朔。成帝更加沉溺酒色，常与嬖臣微服出行。王凤以大将军身份总揽朝政，权倾朝野。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
+        "title": "埃塞俄比亚入侵埃及",
+        "description": "公元前24年，在库什王国，埃塞俄比亚入侵埃及。",
+        "latitude": 24.0,
+        "longitude": 33.0,
+        "category": "军事",
+        "region": "库什王国",
+        "continent": "非洲"
       },
       {
         "title": "奥古斯都改革司法",
-        "description": "奥古斯都在罗马推行司法改革，加强对行省总督的监督，整顿法庭秩序，颁布一系列法律改善罗马社会风气。",
+        "description": "公元前24年，罗马帝国推行奥古斯都改革司法，对当地政治经济制度产生了深远影响。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -3003,13 +2985,13 @@
         "continent": "欧洲"
       },
       {
-        "title": "埃塞俄比亚入侵埃及",
-        "description": "库什王国（埃塞俄比亚）的军队北上入侵罗马统治下的埃及南部，被罗马驻埃及总督盖乌斯·佩特罗尼乌斯击败。",
-        "latitude": 24.0,
-        "longitude": 33.0,
-        "category": "军事",
-        "region": "库什王国",
-        "continent": "非洲"
+        "title": "汉成帝改元阳朔",
+        "description": "公元前24年，在西汉，汉成帝改元阳朔。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -3025,17 +3007,8 @@
     ],
     "events": [
       {
-        "title": "王凤排挤王商",
-        "description": "王凤诬陷丞相王商，将其罢免。丞相王商被免职后含恨而死。王氏外戚彻底把持朝政，西汉政治黑暗不堪。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "奥古斯都重病",
-        "description": "奥古斯都患重病，自感将不久于人世。他将权力象征物交给执政官，但最终康复。这一事件促使他更加重视继承人的培养。",
+        "description": "公元前23年，在罗马帝国，奥古斯都重病。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -3043,8 +3016,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "王凤排挤王商",
+        "description": "公元前23年，在西汉，王凤排挤王商。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "马库斯·克劳狄乌斯·马塞卢斯去世",
-        "description": "奥古斯都的外甥和指定继承人马塞卢斯病逝，年仅十九岁。奥古斯都深受打击，阿格里帕随后被指定为主要继承人。",
+        "description": "公元前23年，马库斯·克劳狄乌斯·马塞卢斯去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -3065,17 +3047,8 @@
     ],
     "events": [
       {
-        "title": "王凤去世王音继任",
-        "description": "权臣王凤病重去世，临终前推荐其从弟王音继任大司马大将军。王氏外戚权势依旧，铁打的外戚流水的皇帝。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "奥古斯都巡视东方",
-        "description": "奥古斯都前往东方巡视帝国东部行省，视察希腊、小亚细亚等地，调整行省管理，加强与东方贵族的联系。",
+        "description": "公元前22年，在罗马帝国，奥古斯都巡视东方。",
         "latitude": 38.0,
         "longitude": 24.0,
         "category": "政治",
@@ -3084,11 +3057,20 @@
       },
       {
         "title": "安息帝国归还罗马军旗",
-        "description": "安息帝国弗拉特斯四世为示好奥古斯都，归还了当年在卡莱战役中夺取的罗马军团战旗和战俘。这一外交胜利极大提升了奥古斯都的声望。",
+        "description": "公元前22年，安息帝国开展安息帝国归还罗马军旗，体现了当时的国际关系格局。",
         "latitude": 35.0,
         "longitude": 50.0,
         "category": "外交",
         "region": "安息帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "王凤去世王音继任",
+        "description": "公元前22年，王凤去世王音继任，一个重要的历史人物离开了历史舞台。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
         "continent": "亚洲"
       }
     ]
@@ -3105,17 +3087,8 @@
     ],
     "events": [
       {
-        "title": "汉成帝宠爱赵飞燕姐妹",
-        "description": "汉成帝在阳阿公主府中见到赵飞燕，惊为天人，召入宫中。赵飞燕与其妹赵合德皆受成帝宠爱，两人在宫中权势日益熏天。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "奥古斯都推动罗马建设",
-        "description": "奥古斯都大力推动罗马城的建设，修复和新建大量神庙、广场、剧场等公共建筑。他自称'将砖造的罗马变成了大理石的城市'。",
+        "description": "公元前21年，罗马帝国地区的文化艺术领域取得了重要成就，奥古斯都推动罗马建设成为这一时期的文化代表。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "文化",
@@ -3123,8 +3096,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "汉成帝宠爱赵飞燕姐妹",
+        "description": "公元前21年，在西汉，汉成帝宠爱赵飞燕姐妹。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "阿格里帕娶朱莉娅",
-        "description": "奥古斯都将女儿朱莉娅嫁给部将阿格里帕。阿格里帕成为奥古斯都的继承人和帝国第二大人物。",
+        "description": "公元前21年，在罗马帝国，阿格里帕娶朱莉娅。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -3145,31 +3127,22 @@
     ],
     "events": [
       {
+        "title": "奥古斯都与安息签订和约",
+        "description": "公元前20年，奥古斯都与安息签订和约，该协议的签署影响了相关国家的关系格局。",
+        "latitude": 35.0,
+        "longitude": 40.0,
+        "category": "外交",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
         "title": "汉成帝改元鸿嘉",
-        "description": "汉成帝改元鸿嘉。赵飞燕被立为皇后，赵合德被封为昭仪。成帝对赵氏姐妹言听计从，朝政更加腐败。",
+        "description": "公元前20年，在西汉，汉成帝改元鸿嘉。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
         "region": "西汉",
         "continent": "亚洲"
-      },
-      {
-        "title": "奥古斯都与安息签订和约",
-        "description": "奥古斯都正式与安息帝国签订和平条约，以幼发拉底河为界划分势力范围。罗马东疆获得稳定，'罗马和平'扩展到整个地中海世界。",
-        "latitude": 35.0,
-        "longitude": 40.0,
-        "category": "外交",
-        "region": "罗马帝国",
-        "continent": "亚洲"
-      },
-      {
-        "title": "罗马诗人创作活跃",
-        "description": "奥古斯都时代的文学繁荣达到高峰。维吉尔创作《牧歌》和《农事诗》，贺拉斯创作《颂歌集》，罗马文学进入黄金时代。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "文化",
-        "region": "罗马帝国",
-        "continent": "欧洲"
       }
     ]
   },
@@ -3186,7 +3159,7 @@
     "events": [
       {
         "title": "汉成帝耽于享乐",
-        "description": "汉成帝不理朝政，大兴土木建造宵游宫、飞行殿等奢华宫殿供其与赵氏姐妹享乐。朝政完全被外戚王音等人把持。",
+        "description": "公元前19年，在西汉，汉成帝耽于享乐。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -3195,7 +3168,7 @@
       },
       {
         "title": "维吉尔去世",
-        "description": "罗马伟大诗人维吉尔在布林迪西去世，葬于那不勒斯。他未完成的史诗《埃涅阿斯纪》由奥古斯都下令出版，成为罗马民族史诗和拉丁文学的巅峰之作。",
+        "description": "公元前19年，维吉尔去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 40.6,
         "longitude": 17.9,
         "category": "文化",
@@ -3204,7 +3177,7 @@
       },
       {
         "title": "罗马完成西班牙征服",
-        "description": "奥古斯都彻底完成了对伊比利亚半岛的征服，罗马在西班牙设立三个行省，建立了完善的行政管理体系。",
+        "description": "公元前19年，在罗马帝国，罗马完成西班牙征服。",
         "latitude": 40.4,
         "longitude": -3.7,
         "category": "军事",
@@ -3225,17 +3198,8 @@
     ],
     "events": [
       {
-        "title": "赵飞燕诬陷许皇后",
-        "description": "赵飞燕为争夺皇后之位，诬陷许皇后以巫蛊诅咒宫中嫔妃。汉成帝废黜许皇后，将其打入冷宫。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "奥古斯都颁布《尤利乌斯法》",
-        "description": "奥古斯都颁布一系列社会改革法律（《尤利乌斯法》），鼓励婚姻和生育，惩罚通奸，试图恢复罗马传统道德风尚。",
+        "description": "公元前18年，在罗马帝国，奥古斯都颁布《尤利乌斯法》。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -3244,11 +3208,20 @@
       },
       {
         "title": "希律重建耶路撒冷圣殿",
-        "description": "犹太国王大希律在耶路撒冷开始大规模重建犹太教第二圣殿，将其扩建为宏伟的建筑群，史称'希律圣殿'。",
+        "description": "公元前18年，犹太地区的文化艺术领域取得了重要成就，希律重建耶路撒冷圣殿成为这一时期的文化代表。",
         "latitude": 31.8,
         "longitude": 35.2,
         "category": "文化",
         "region": "犹太",
+        "continent": "亚洲"
+      },
+      {
+        "title": "赵飞燕诬陷许皇后",
+        "description": "公元前18年，在西汉，赵飞燕诬陷许皇后。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
         "continent": "亚洲"
       }
     ]
@@ -3265,17 +3238,8 @@
     ],
     "events": [
       {
-        "title": "汉朝广开言路",
-        "description": "汉成帝在各地天灾频发的情况下，下诏广开言路，允许百姓上书言事，但多为表面文章，并未有实际改革。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "奥古斯都举行百年祭",
-        "description": "奥古斯都在罗马举行盛大的'百年祭'庆典（Ludi Saeculares），庆祝罗马和平繁荣的新时代。贺拉斯为此创作了《世纪之歌》。",
+        "description": "公元前17年，罗马帝国地区的文化艺术领域取得了重要成就，奥古斯都举行百年祭成为这一时期的文化代表。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "文化",
@@ -3283,8 +3247,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "汉朝广开言路",
+        "description": "公元前17年，在西汉，汉朝广开言路。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "阿格里帕修建万神殿",
-        "description": "阿格里帕在罗马开始修建万神殿（Pantheon），后成为古罗马最著名的建筑之一。奥古斯都时代的罗马城市建设达到顶峰。",
+        "description": "公元前17年，罗马帝国地区的文化艺术领域取得了重要成就，阿格里帕修建万神殿成为这一时期的文化代表。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "文化",
@@ -3305,17 +3278,8 @@
     ],
     "events": [
       {
-        "title": "赵飞燕被立为皇后",
-        "description": "汉成帝正式立赵飞燕为皇后。赵飞燕以舞姿轻盈著称，传说能在手掌上跳舞。其妹赵合德被封为昭仪，姐妹二人专宠后宫十余年。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "汉成帝无嗣危机",
-        "description": "汉成帝宠幸赵氏姐妹，但赵氏姐妹为固宠而残害其他嫔妃所生皇子，导致成帝无子嗣，西汉皇位继承出现危机。",
+        "description": "公元前16年，在西汉，汉成帝无嗣危机。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -3324,12 +3288,21 @@
       },
       {
         "title": "罗马日耳曼战争爆发",
-        "description": "罗马军队在日耳曼地区遭遇部落反抗，奥古斯都派军前往镇压。罗马与日耳曼诸部落之间的冲突成为此后数十年罗马的重大军事挑战。",
+        "description": "公元前16年，罗马帝国爆发罗马日耳曼战争爆发，战事在罗马帝国地区全面展开。",
         "latitude": 51.0,
         "longitude": 8.0,
         "category": "军事",
         "region": "罗马帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "赵飞燕被立为皇后",
+        "description": "公元前16年，在西汉，赵飞燕被立为皇后。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -3345,8 +3318,17 @@
     ],
     "events": [
       {
+        "title": "日耳曼部落反抗罗马",
+        "description": "公元前15年，在罗马帝国，日耳曼部落反抗罗马。",
+        "latitude": 48.0,
+        "longitude": 12.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
         "title": "汉朝连年灾荒",
-        "description": "西汉多地连年发生水旱灾害，粮食歉收，米价飞涨。各地流民涌入关中求食，社会秩序日益混乱。",
+        "description": "公元前15年，西汉社会领域出现汉朝连年灾荒，反映了社会的发展变化。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "社会",
@@ -3355,19 +3337,10 @@
       },
       {
         "title": "罗马设立内高卢行省",
-        "description": "奥古斯都在阿尔卑斯山以南设立内高卢行省（阿尔卑斯山地区），加强对意大利北部边境的控制。",
+        "description": "公元前15年，在罗马帝国，罗马设立内高卢行省。",
         "latitude": 45.5,
         "longitude": 7.0,
         "category": "政治",
-        "region": "罗马帝国",
-        "continent": "欧洲"
-      },
-      {
-        "title": "日耳曼部落反抗罗马",
-        "description": "日耳曼部落不断袭击罗马边境，罗马将军提比略（奥古斯都的继子）率军在多瑙河地区展开军事行动，抵御日耳曼人的侵袭。",
-        "latitude": 48.0,
-        "longitude": 12.0,
-        "category": "军事",
         "region": "罗马帝国",
         "continent": "欧洲"
       }
@@ -3385,17 +3358,8 @@
     ],
     "events": [
       {
-        "title": "西汉铁官徒起义",
-        "description": "西汉各地铁官徒（在铁器官营工场劳动的刑徒）因不堪压迫，在申屠圣等人领导下发动起义，攻占县城，释放囚徒。起义虽被镇压，但反映了社会矛盾的激化。",
-        "latitude": 34.0,
-        "longitude": 110.0,
-        "category": "社会",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "奥古斯都推行币制改革",
-        "description": "奥古斯都进行罗马货币制度改革，统一铸造金币（奥里斯）、银币（德纳留斯）和铜币，建立标准化的罗马货币体系。",
+        "description": "公元前14年，罗马帝国推行奥古斯都推行币制改革，对当地政治经济制度产生了深远影响。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "经济",
@@ -3404,12 +3368,21 @@
       },
       {
         "title": "提比略征战潘诺尼亚",
-        "description": "提比略在巴尔干地区的潘诺尼亚展开军事行动，镇压当地部落的反抗，巩固罗马在多瑙河中游地区的统治。",
+        "description": "公元前14年，罗马帝国发生提比略征战潘诺尼亚，对当地军事格局产生了重要影响。",
         "latitude": 45.0,
         "longitude": 18.0,
         "category": "军事",
         "region": "罗马帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "西汉铁官徒起义",
+        "description": "公元前14年，西汉爆发西汉铁官徒起义，对当局造成了巨大冲击。",
+        "latitude": 34.0,
+        "longitude": 110.0,
+        "category": "社会",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -3425,17 +3398,8 @@
     ],
     "events": [
       {
-        "title": "汉成帝罢免王音",
-        "description": "汉成帝因灾异频发而下诏自责，罢免王音的大将军职务，但不久又重新起用。外戚专权局面未有根本改变。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "奥古斯都兴建和平祭坛",
-        "description": "罗马元老院决定修建和平祭坛（Ara Pacis），以纪念奥古斯都为罗马带来的和平。该祭坛是奥古斯都时代艺术的杰出代表。",
+        "description": "公元前13年，罗马帝国地区的文化艺术领域取得了重要成就，奥古斯都兴建和平祭坛成为这一时期的文化代表。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "文化",
@@ -3443,8 +3407,17 @@
         "continent": "欧洲"
       },
       {
+        "title": "汉成帝罢免王音",
+        "description": "公元前13年，在西汉，汉成帝罢免王音。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "阿格里帕巡视东方",
-        "description": "阿格里帕奉奥古斯都之命巡视东方行省，处理与安息帝国的边界事务，整顿东方各省的行政管理。",
+        "description": "公元前13年，在罗马帝国，阿格里帕巡视东方。",
         "latitude": 38.0,
         "longitude": 24.0,
         "category": "政治",
@@ -3465,8 +3438,17 @@
     ],
     "events": [
       {
+        "title": "提比略与朱莉娅结婚",
+        "description": "公元前12年，在罗马帝国，提比略与朱莉娅结婚。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
         "title": "汉成帝改元元延",
-        "description": "汉成帝改元元延。成帝依然沉溺酒色，赵飞燕、赵合德姐妹专宠后宫。外戚王商、王根相继掌权，朝政日非。",
+        "description": "公元前12年，在西汉，汉成帝改元元延。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -3475,18 +3457,9 @@
       },
       {
         "title": "阿格里帕去世",
-        "description": "奥古斯都的得力助手和女婿阿格里帕在坎帕尼亚去世。阿格里帕是奥古斯都最信赖的将领，曾指挥亚克兴海战，主持罗马建设。他的去世是奥古斯都的重大损失。",
+        "description": "公元前12年，阿格里帕去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 40.8,
         "longitude": 14.2,
-        "category": "政治",
-        "region": "罗马帝国",
-        "continent": "欧洲"
-      },
-      {
-        "title": "提比略与朱莉娅结婚",
-        "description": "阿格里帕去世后，奥古斯都强迫继子提比略与其女儿朱莉娅结婚。提比略被迫与心爱的妻子离婚，夫妻感情不睦。",
-        "latitude": 41.9,
-        "longitude": 12.5,
         "category": "政治",
         "region": "罗马帝国",
         "continent": "欧洲"
@@ -3505,17 +3478,8 @@
     ],
     "events": [
       {
-        "title": "汉朝吏治腐败",
-        "description": "汉成帝时期吏治极度腐败，地方官员贪赃枉法、鱼肉百姓。朝廷虽多次下诏整饬吏治，但收效甚微。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "奥古斯都建立日耳曼防线",
-        "description": "奥古斯都下令在莱茵河和多瑙河沿岸建立永久性军事防线，设立多个军事基地，以防御日耳曼部落的侵袭。",
+        "description": "公元前11年，奥古斯都建立日耳曼防线，标志着新的政治实体在罗马帝国地区诞生。",
         "latitude": 50.0,
         "longitude": 8.0,
         "category": "军事",
@@ -3524,12 +3488,21 @@
       },
       {
         "title": "提比略征战伊利里库姆",
-        "description": "提比略在巴尔干地区的伊利里库姆（今克罗地亚一带）发动大规模军事行动，镇压当地部落的叛乱。",
+        "description": "公元前11年，在罗马帝国，提比略征战伊利里库姆。",
         "latitude": 44.0,
         "longitude": 16.0,
         "category": "军事",
         "region": "罗马帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "汉朝吏治腐败",
+        "description": "公元前11年，在西汉，汉朝吏治腐败。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -3545,17 +3518,8 @@
     ],
     "events": [
       {
-        "title": "汉成帝微服出游",
-        "description": "汉成帝与嬖臣张放等人常微服出宫，在长安城中寻欢作乐。一次出游中，成帝自称张放家人，以避人耳目。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "社会",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "奥古斯都在高卢建新城",
-        "description": "奥古斯都在高卢建立新的城市奥古斯托杜努姆（今欧坦），作为罗马在高卢的文化中心。该城建有罗马式剧院、神庙等设施。",
+        "description": "公元前10年，罗马帝国地区的文化艺术领域取得了重要成就，奥古斯都在高卢建新城成为这一时期的文化代表。",
         "latitude": 47.0,
         "longitude": 4.0,
         "category": "文化",
@@ -3564,11 +3528,20 @@
       },
       {
         "title": "安息帝国内乱",
-        "description": "安息帝国弗拉特斯四世被其王后穆萨和儿子弗拉特斯五世阴谋杀害，安息爆发内乱，为罗马提供了战略优势。",
+        "description": "公元前10年，在安息帝国，安息帝国内乱。",
         "latitude": 35.0,
         "longitude": 50.0,
         "category": "政治",
         "region": "安息帝国",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉成帝微服出游",
+        "description": "公元前10年，西汉社会领域出现汉成帝微服出游，反映了社会的发展变化。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "社会",
+        "region": "西汉",
         "continent": "亚洲"
       }
     ]
@@ -3585,29 +3558,20 @@
     ],
     "events": [
       {
-        "title": "汉朝太学兴盛",
-        "description": "汉成帝时期太学规模进一步扩大，博士弟子员达到数千人。太学成为培养官员和传播儒学的重要机构。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "文化",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
-        "title": "罗马建造和平祭坛落成",
-        "description": "罗马和平祭坛（Ara Pacis）在战神广场正式落成。祭坛浮雕精美绝伦，描绘了奥古斯都家族和元老们的庄严行列，是罗马艺术的瑰宝。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "文化",
+        "title": "提比略征服潘诺尼亚",
+        "description": "公元前9年，在罗马帝国，提比略征服潘诺尼亚。",
+        "latitude": 45.0,
+        "longitude": 18.0,
+        "category": "军事",
         "region": "罗马帝国",
         "continent": "欧洲"
       },
       {
-        "title": "提比略征服潘诺尼亚",
-        "description": "提比略经过数年征战，彻底征服了多瑙河中游的潘诺尼亚地区，将其正式纳入罗马版图。",
-        "latitude": 45.0,
-        "longitude": 18.0,
-        "category": "军事",
+        "title": "罗马建造和平祭坛落成",
+        "description": "公元前9年，罗马帝国地区的文化艺术领域取得了重要成就，罗马建造和平祭坛落成成为这一时期的文化代表。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "文化",
         "region": "罗马帝国",
         "continent": "欧洲"
       }
@@ -3625,8 +3589,17 @@
     ],
     "events": [
       {
+        "title": "奥古斯都改革元老院",
+        "description": "公元前8年，罗马帝国推行奥古斯都改革元老院，对当地政治经济制度产生了深远影响。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
         "title": "汉成帝改元绥和",
-        "description": "汉成帝改元绥和。此时朝政更加混乱，外戚王根推荐其侄王莽继任大司马。王莽开始登上政治舞台。",
+        "description": "公元前8年，在西汉，汉成帝改元绥和。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -3635,7 +3608,7 @@
       },
       {
         "title": "王莽受封大司马",
-        "description": "王莽在王根推荐下出任大司马大将军，时年三十八岁。王莽谦恭下士、生活俭朴，名声极佳，朝野称颂。",
+        "description": "公元前8年，在西汉，王莽受封大司马。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -3644,19 +3617,10 @@
       },
       {
         "title": "贺拉斯去世",
-        "description": "罗马著名诗人贺拉斯在罗马去世，享年五十七岁。他是奥古斯都时代最重要的诗人之一，其《颂歌集》《书札集》等作品对后世欧洲文学影响深远。",
+        "description": "公元前8年，贺拉斯去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "文化",
-        "region": "罗马帝国",
-        "continent": "欧洲"
-      },
-      {
-        "title": "奥古斯都改革元老院",
-        "description": "奥古斯都进行元老院改革，重新审定元老资格，将元老人数限制在六百人。他自任'首席元老'，实际控制元老院的决策。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "政治",
         "region": "罗马帝国",
         "continent": "欧洲"
       }
@@ -3674,26 +3638,8 @@
     ],
     "events": [
       {
-        "title": "汉成帝暴崩",
-        "description": "汉成帝刘骜在未央宫暴崩。民间传言成帝因服用赵合德进献的过度春药而纵欲身亡。赵合德被迫自杀。赵飞燕因曾拥立汉哀帝而暂时保全。成帝无嗣，皇位由侄子刘欣继承。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
-        "title": "汉哀帝即位",
-        "description": "汉哀帝刘欣即位，改元建平。哀帝即位后提拔自己的外戚傅氏、丁氏家族，与王氏外戚展开权力斗争。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "刘歆整理古籍",
-        "description": "刘歆继承其父刘向的事业，在皇家图书馆继续校勘古籍。他撰成《七略》，为中国第一部系统的图书分类目录。",
+        "description": "公元前7年，西汉地区的文化艺术领域取得了重要成就，刘歆整理古籍成为这一时期的文化代表。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "文化",
@@ -3702,12 +3648,30 @@
       },
       {
         "title": "提比略退隐罗德岛",
-        "description": "提比略因厌倦罗马宫廷斗争，主动退出政坛，隐居希腊罗德岛。奥古斯都对此大为不满。",
+        "description": "公元前7年，在罗马帝国，提比略退隐罗德岛。",
         "latitude": 36.4,
         "longitude": 28.2,
         "category": "政治",
         "region": "罗马帝国",
         "continent": "欧洲"
+      },
+      {
+        "title": "汉哀帝即位",
+        "description": "公元前7年，汉哀帝即位，开启了新的统治时期。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "汉成帝暴崩",
+        "description": "公元前7年，在西汉，汉成帝暴崩。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
       }
     ]
   },
@@ -3723,8 +3687,17 @@
     ],
     "events": [
       {
+        "title": "奥古斯都的孙子们成长",
+        "description": "公元前6年，在罗马帝国，奥古斯都的孙子们成长。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "政治",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
         "title": "汉哀帝抑制外戚",
-        "description": "汉哀帝力图抑制王氏外戚的势力，罢免王莽大司马职务，王莽被迫隐居南阳。哀帝尊崇祖母傅太后和母亲丁姬家族，傅氏、丁氏外戚崛起。",
+        "description": "公元前6年，在西汉，汉哀帝抑制外戚。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -3733,19 +3706,10 @@
       },
       {
         "title": "罗马设立造币厂",
-        "description": "奥古斯都在罗马城内的朱诺神庙设立国家造币厂，统一管理帝国的货币铸造，加强对经济体系的控制。",
+        "description": "公元前6年，罗马帝国经济领域发生罗马设立造币厂，对当时的经济生活产生了直接影响。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "经济",
-        "region": "罗马帝国",
-        "continent": "欧洲"
-      },
-      {
-        "title": "奥古斯都的孙子们成长",
-        "description": "奥古斯都着力培养其外孙盖乌斯·凯撒和卢基乌斯·凯撒（阿格里帕与朱莉娅之子），安排他们逐步参与公务，为继承做准备。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "政治",
         "region": "罗马帝国",
         "continent": "欧洲"
       }
@@ -3763,8 +3727,8 @@
     ],
     "events": [
       {
-        "title": "汉哀帝改元建平",
-        "description": "汉哀帝亲政后试图有所作为，推行一系列改革措施，如限制土地兼并、释放官奴婢等。但遭贵族官僚抵制，改革有名无实。",
+        "title": "汉哀帝宠幸董贤",
+        "description": "公元前5年，在西汉，汉哀帝宠幸董贤。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -3772,8 +3736,8 @@
         "continent": "亚洲"
       },
       {
-        "title": "汉哀帝宠幸董贤",
-        "description": "汉哀帝宠爱侍中董贤，两人关系亲密。哀帝甚至想把皇位让给董贤。董贤年仅二十二岁便官至大司马，权倾朝野。",
+        "title": "汉哀帝改元建平",
+        "description": "公元前5年，在西汉，汉哀帝改元建平。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -3782,7 +3746,7 @@
       },
       {
         "title": "盖乌斯·凯撒初涉政坛",
-        "description": "奥古斯都的外孙盖乌斯·凯撒成年后开始参与政务，被元老院授予荣誉头衔，被视为奥古斯都的继承人。",
+        "description": "公元前5年，在罗马帝国，盖乌斯·凯撒初涉政坛。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -3803,8 +3767,17 @@
     ],
     "events": [
       {
+        "title": "奥古斯都的边疆政策",
+        "description": "公元前4年，在罗马帝国，奥古斯都的边疆政策。",
+        "latitude": 50.0,
+        "longitude": 8.0,
+        "category": "军事",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
         "title": "汉朝政局动荡",
-        "description": "汉哀帝时期朝局混乱，傅太后和丁太后相继干政，外戚、宦官、宠臣争权夺利，朝政一片混乱。",
+        "description": "公元前4年，在西汉，汉朝政局动荡。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -3813,21 +3786,12 @@
       },
       {
         "title": "犹太地区政治动荡",
-        "description": "犹太国王大希律统治末期，国内矛盾激化。希律患重病，其子嗣之间为继承权激烈争斗。奥古斯都密切关注犹太局势。",
+        "description": "公元前4年，在犹太，犹太地区政治动荡。",
         "latitude": 31.8,
         "longitude": 35.2,
         "category": "政治",
         "region": "犹太",
         "continent": "亚洲"
-      },
-      {
-        "title": "奥古斯都的边疆政策",
-        "description": "奥古斯都继续推行以莱茵河和多瑙河为罗马帝国北部边界的战略方针，在边境地区修建军事道路和堡垒群。",
-        "latitude": 50.0,
-        "longitude": 8.0,
-        "category": "军事",
-        "region": "罗马帝国",
-        "continent": "欧洲"
       }
     ]
   },
@@ -3843,17 +3807,8 @@
     ],
     "events": [
       {
-        "title": "汉哀帝忧惧天灾",
-        "description": "汉哀帝在位期间天灾频发，各地出现日食、地震等异象。哀帝迷信方术，屡次下诏罪己，大赦天下，但无实效。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "社会",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "大希律王去世",
-        "description": "犹太国王大希律在耶利哥去世，享年约七十岁。他统治犹太地区三十余年，以大规模建筑（如圣殿扩建）和残暴统治而闻名。其王国被分给三个儿子。",
+        "description": "公元前3年，大希律王去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 31.9,
         "longitude": 35.5,
         "category": "政治",
@@ -3861,8 +3816,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "汉哀帝忧惧天灾",
+        "description": "公元前3年，西汉社会领域出现汉哀帝忧惧天灾，反映了社会的发展变化。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "社会",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "盖乌斯·凯撒被派往东方",
-        "description": "奥古斯都派外孙盖乌斯·凯撒前往东方处理安息事务，让他积累外交和军事经验，为将来继承帝位做准备。",
+        "description": "公元前3年，在罗马帝国，盖乌斯·凯撒被派往东方。",
         "latitude": 38.0,
         "longitude": 24.0,
         "category": "政治",
@@ -3883,26 +3847,8 @@
     ],
     "events": [
       {
-        "title": "汉哀帝改元元寿",
-        "description": "汉哀帝改元元寿。哀帝因无子嗣，皇位继承问题日益紧迫。王莽在南阳隐居期间声望不降反升，朝野多呼吁重新起用王莽。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
-        "title": "董贤封侯",
-        "description": "汉哀帝封董贤为高安侯，官至大司马卫将军。董贤虽位极人臣，但并无治国才能，朝政更加混乱。百姓生活困苦，社会危机四伏。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
         "title": "奥古斯都担任首席元首",
-        "description": "奥古斯都被元老院授予'祖国之父'（Pater Patriae）称号，这是罗马历史上最高的荣誉。奥古斯都时代的罗马达到空前繁荣。",
+        "description": "公元前2年，在罗马帝国，奥古斯都担任首席元首。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -3910,12 +3856,30 @@
         "continent": "欧洲"
       },
       {
+        "title": "汉哀帝改元元寿",
+        "description": "公元前2年，在西汉，汉哀帝改元元寿。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
         "title": "盖乌斯·凯撒与安息会晤",
-        "description": "盖乌斯·凯撒在幼发拉底河与安息国王弗拉特斯五世举行会谈，双方确认了以幼发拉底河为界的和平协议。",
+        "description": "公元前2年，罗马帝国开展盖乌斯·凯撒与安息会晤，体现了当时的国际关系格局。",
         "latitude": 35.0,
         "longitude": 40.0,
         "category": "外交",
         "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "董贤封侯",
+        "description": "公元前2年，在西汉，董贤封侯。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
         "continent": "亚洲"
       }
     ]
@@ -3933,16 +3897,7 @@
     "events": [
       {
         "title": "汉哀帝驾崩",
-        "description": "汉哀帝刘欣驾崩，年仅二十六岁。哀帝在位七年，虽有整顿朝政之心，但受制于宠臣和外戚，无所作为。死后无嗣，皇太后王政君收回玉玺。",
-        "latitude": 34.304,
-        "longitude": 108.856,
-        "category": "政治",
-        "region": "西汉",
-        "continent": "亚洲"
-      },
-      {
-        "title": "王莽复起掌权",
-        "description": "汉哀帝去世后，王政君以太皇太后身份临朝称制，重新起用王莽为大司马。王莽与王政君共立年仅九岁的中山王刘衎为帝，是为汉平帝。王莽把持朝政。",
+        "description": "公元前1年，汉哀帝驾崩，一个重要的历史人物离开了历史舞台。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -3951,7 +3906,25 @@
       },
       {
         "title": "汉平帝即位",
-        "description": "汉平帝刘衎（原名刘箕子）即位，改元元始。平帝年幼，王莽以大司马身份辅政，实为傀儡。西汉政权实际上已落入王莽手中。",
+        "description": "公元前1年，汉平帝即位，开启了新的统治时期。",
+        "latitude": 34.304,
+        "longitude": 108.856,
+        "category": "政治",
+        "region": "西汉",
+        "continent": "亚洲"
+      },
+      {
+        "title": "狄奥尼修斯·哈利卡纳苏斯著史",
+        "description": "公元前1年，罗马帝国地区的文化艺术领域取得了重要成就，狄奥尼修斯·哈利卡纳苏斯著史成为这一时期的文化代表。",
+        "latitude": 41.9,
+        "longitude": 12.5,
+        "category": "文化",
+        "region": "罗马帝国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "王莽复起掌权",
+        "description": "公元前1年，在西汉，王莽复起掌权。",
         "latitude": 34.304,
         "longitude": 108.856,
         "category": "政治",
@@ -3960,19 +3933,10 @@
       },
       {
         "title": "盖乌斯·凯撒在东方受伤",
-        "description": "奥古斯都的继承人盖乌斯·凯撒在亚美尼亚围攻一座要塞时受重伤。他的受伤和后来的去世引发奥古斯都继承危机。",
+        "description": "公元前1年，在罗马帝国，盖乌斯·凯撒在东方受伤。",
         "latitude": 40.0,
         "longitude": 44.0,
         "category": "军事",
-        "region": "罗马帝国",
-        "continent": "亚洲"
-      },
-      {
-        "title": "狄奥尼修斯·哈利卡纳苏斯著史",
-        "description": "希腊史学家狄奥尼修斯·哈利卡纳苏斯完成《罗马古史》的写作，详细记述了罗马从起源到第一次布匿战争的历史。",
-        "latitude": 41.9,
-        "longitude": 12.5,
-        "category": "文化",
         "region": "罗马帝国",
         "continent": "欧洲"
       }

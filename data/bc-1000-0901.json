@@ -11,8 +11,26 @@
     ],
     "events": [
       {
+        "title": "北美原住民农业革命",
+        "description": "公元前1000年在北美东部的农业发展中是一个值得关注的时期。农业是古代社会最重要的生产部门直接关系到国计民生。这一事件对北美东部的历史发展产生了不可忽视的影响值得我们今天认真回顾和反思。",
+        "latitude": 35.0,
+        "longitude": -90.0,
+        "category": "经济",
+        "region": "北美东部",
+        "continent": "北美洲"
+      },
+      {
+        "title": "古代军事冲突与城邦争霸",
+        "description": "公元前1000年，在古代世界，古代军事冲突与城邦争霸。",
+        "latitude": 37.0,
+        "longitude": 32.0,
+        "category": "军事",
+        "region": "古代世界",
+        "continent": "亚洲"
+      },
+      {
         "title": "古代农业生产和耕作技术进步",
-        "description": "世界各地农业生产技术持续进步，铁制农具推广。",
+        "description": "公元前1000年，古代世界的科技发展取得重要进展，古代农业生产和耕作技术进步推动了相关领域的技术进步。",
         "latitude": 35.0,
         "longitude": 30.0,
         "category": "科技",
@@ -20,13 +38,13 @@
         "continent": "亚洲"
       },
       {
-        "title": "古代军事冲突与城邦争霸",
-        "description": "古代各文明之间和内部发生政治军事冲突。",
-        "latitude": 37.0,
-        "longitude": 32.0,
-        "category": "军事",
-        "region": "古代世界",
-        "continent": "亚洲"
+        "title": "汤加帝国建立",
+        "description": "公元前1000年，汤加帝国建立，标志着新的政治实体在汤加地区诞生。",
+        "latitude": -21.13,
+        "longitude": -175.2,
+        "category": "政治",
+        "region": "汤加",
+        "continent": "大洋洲"
       }
     ]
   },
@@ -43,7 +61,7 @@
     "events": [
       {
         "title": "以色列王国鼎盛",
-        "description": "大卫和所罗门统治时期以色列王国强盛。",
+        "description": "公元前999年，在以色列王国，以色列王国鼎盛。",
         "latitude": 31.8,
         "longitude": 35.2,
         "category": "政治",
@@ -51,22 +69,22 @@
         "continent": "亚洲"
       },
       {
-        "title": "希腊铁器时代",
-        "description": "希腊使用铁器，早期城邦逐步形成。",
-        "latitude": 38.0,
-        "longitude": 23.0,
-        "category": "文化",
-        "region": "古希腊",
-        "continent": "欧洲"
-      },
-      {
         "title": "古代城市建筑和手工业发展",
-        "description": "古代城市建筑和手工业技艺代代传承发展。",
+        "description": "公元前999年，古代世界地区的文化艺术领域取得了重要成就，古代城市建筑和手工业发展成为这一时期的文化代表。",
         "latitude": 36.0,
         "longitude": 35.0,
         "category": "文化",
         "region": "古代世界",
         "continent": "亚洲"
+      },
+      {
+        "title": "希腊铁器时代",
+        "description": "公元前999年，古希腊地区的文化艺术领域取得了重要成就，希腊铁器时代成为这一时期的文化代表。",
+        "latitude": 38.0,
+        "longitude": 23.0,
+        "category": "文化",
+        "region": "古希腊",
+        "continent": "欧洲"
       }
     ]
   },
@@ -106,17 +124,8 @@
     ],
     "events": [
       {
-        "title": "周康王去世，周昭王即位",
-        "description": "周康王姬钊去世，其子姬瑕即位，是为周昭王。成康之治至此结束，西周开始由盛转衰。",
-        "latitude": 34.7,
-        "longitude": 112.5,
-        "category": "政治",
-        "region": "周",
-        "continent": "亚洲"
-      },
-      {
         "title": "以色列联合王国",
-        "description": "大卫和所罗门统治以色列联合王国。",
+        "description": "公元前996年，在以色列王国，以色列联合王国。",
         "latitude": 31.8,
         "longitude": 35.2,
         "category": "政治",
@@ -124,8 +133,17 @@
         "continent": "亚洲"
       },
       {
+        "title": "周康王去世，周昭王即位",
+        "description": "公元前996年，周康王去世，周昭王即位，开启了新的统治时期。",
+        "latitude": 34.7,
+        "longitude": 112.5,
+        "category": "政治",
+        "region": "周",
+        "continent": "亚洲"
+      },
+      {
         "title": "希腊黑暗时代",
-        "description": "迈锡尼文明后的希腊恢复发展。",
+        "description": "公元前996年，古希腊社会领域出现希腊黑暗时代，反映了社会的发展变化。",
         "latitude": 38.0,
         "longitude": 23.0,
         "category": "社会",
@@ -147,7 +165,7 @@
     "events": [
       {
         "title": "周朝初期统治",
-        "description": "周朝初期武成康盛世。",
+        "description": "公元前995年，在西周，周朝初期统治。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -169,20 +187,11 @@
     "events": [
       {
         "title": "腓尼基建城",
-        "description": "推罗西顿等腓尼基城邦繁荣。",
+        "description": "公元前994年，腓尼基经济领域发生腓尼基建城，对当时的经济生活产生了直接影响。",
         "latitude": 33.5,
         "longitude": 35.5,
         "category": "经济",
         "region": "腓尼基",
-        "continent": "亚洲"
-      },
-      {
-        "title": "古代商贸路线和文化交流",
-        "description": "古代各文明通过贸易路线交换商品和技术。",
-        "latitude": 38.0,
-        "longitude": 33.0,
-        "category": "经济",
-        "region": "古代世界",
         "continent": "亚洲"
       }
     ]
@@ -296,7 +305,7 @@
     "events": [
       {
         "title": "腓尼基人开始西地中海殖民",
-        "description": "腓尼基人开始在西地中海（西班牙南部、北非、西西里等地）建立贸易据点和殖民城市。",
+        "description": "公元前985年，在腓尼基，腓尼基人开始西地中海殖民。",
         "latitude": 37.0,
         "longitude": 5.0,
         "category": "政治",
@@ -402,7 +411,7 @@
     "events": [
       {
         "title": "周昭王南征荆楚",
-        "description": "周昭王第三次南征荆楚，渡汉水时因当地百姓献胶船，船沉于汉水中，昭王及随从溺水而亡，周军丧六师。",
+        "description": "公元前977年，在楚，周昭王南征荆楚。",
         "latitude": 30.6,
         "longitude": 113.8,
         "category": "军事",
@@ -424,7 +433,7 @@
     "events": [
       {
         "title": "周穆王即位",
-        "description": "周昭王之子姬满即位为周穆王，时年约五十岁。穆王在位期间致力于四方征伐，开拓疆域，是西周最具传奇色彩的君主之一。",
+        "description": "公元前976年，周穆王即位，开启了新的统治时期。",
         "latitude": 34.7,
         "longitude": 112.5,
         "category": "政治",
@@ -506,7 +515,7 @@
     "events": [
       {
         "title": "所罗门王即位",
-        "description": "以色列国王所罗门即位，以色列王国进入黄金时代。",
+        "description": "公元前970年，所罗门王即位，开启了新的统治时期。",
         "latitude": 31.8,
         "longitude": 35.2,
         "category": "政治",
@@ -515,7 +524,7 @@
       },
       {
         "title": "所罗门王统治以色列",
-        "description": "以色列国王所罗门统治时期，王国达到鼎盛，与推罗国王希兰一世合作关系密切。",
+        "description": "公元前970年，在以色列王国，所罗门王统治以色列。",
         "latitude": 31.8,
         "longitude": 35.2,
         "category": "政治",
@@ -573,7 +582,7 @@
     "events": [
       {
         "title": "所罗门圣殿开工",
-        "description": "以色列国王所罗门在耶路撒冷开始建造第一圣殿。",
+        "description": "公元前966年，以色列王国地区的文化艺术领域取得了重要成就，所罗门圣殿开工成为这一时期的文化代表。",
         "latitude": 31.8,
         "longitude": 35.2,
         "category": "文化",
@@ -607,7 +616,7 @@
     "events": [
       {
         "title": "周穆王西征犬戎",
-        "description": "周穆王率大军西征犬戎，大获全胜，俘获犬戎五王，将部分戎人迁至太原（今甘肃东部），稳定了西部边疆。",
+        "description": "公元前964年，在犬戎，周穆王西征犬戎。",
         "latitude": 35.5,
         "longitude": 105.5,
         "category": "军事",
@@ -664,8 +673,17 @@
     ],
     "events": [
       {
+        "title": "所罗门圣殿建成",
+        "description": "公元前960年，以色列文化领域的重要事件——所罗门圣殿建成，成为这一时期的文化标志。",
+        "latitude": 31.78,
+        "longitude": 35.24,
+        "category": "文化",
+        "region": "以色列",
+        "continent": "亚洲"
+      },
+      {
         "title": "第一圣殿在耶路撒冷建成",
-        "description": "所罗门王在耶路撒冷建造第一圣殿，成为犹太民族的宗教中心。",
+        "description": "公元前960年，以色列王国地区的宗教领域发生重要事件——第一圣殿在耶路撒冷建成，对信众的精神生活产生了深刻影响。",
         "latitude": 31.8,
         "longitude": 35.2,
         "category": "宗教",
@@ -687,7 +705,7 @@
     "events": [
       {
         "title": "周穆王西巡昆仑",
-        "description": "周穆王西巡至昆仑丘，会见西王母，双方互赠礼物。《穆天子传》详细记载了此次西行，涉及今甘肃、青海至中亚的行程。",
+        "description": "公元前959年，西域开展周穆王西巡昆仑，体现了当时的国际关系格局。",
         "latitude": 36.5,
         "longitude": 96.5,
         "category": "外交",
@@ -721,7 +739,7 @@
     "events": [
       {
         "title": "所罗门圣殿在耶路撒冷建成",
-        "description": "以色列王国国王所罗门在耶路撒冷建成第一圣殿，历时七年，成为犹太教的宗教中心，存放约柜的至圣所位于圣殿核心。",
+        "description": "公元前957年，以色列地区的宗教领域发生重要事件——所罗门圣殿在耶路撒冷建成，对信众的精神生活产生了深刻影响。",
         "latitude": 31.8,
         "longitude": 35.2,
         "category": "宗教",
@@ -814,17 +832,17 @@
     ],
     "events": [
       {
-        "title": "费尼基字母传播",
-        "description": "腓尼基字母在地中海沿岸广泛传播，为希腊字母和拉丁字母的起源。",
-        "latitude": 34.0,
-        "longitude": 35.0,
+        "title": "以色列所罗门圣殿",
+        "description": "公元前950年，以色列王国地区的文化艺术领域取得了重要成就，以色列所罗门圣殿成为这一时期的文化代表。",
+        "latitude": 31.8,
+        "longitude": 35.2,
         "category": "文化",
-        "region": "腓尼基",
+        "region": "以色列王国",
         "continent": "亚洲"
       },
       {
         "title": "以色列王国分裂",
-        "description": "所罗门王去世后，以色列王国分裂为北方的以色列王国和南方的犹大王国。",
+        "description": "公元前950年，在以色列王国，以色列王国分裂。",
         "latitude": 31.8,
         "longitude": 35.2,
         "category": "政治",
@@ -832,22 +850,22 @@
         "continent": "亚洲"
       },
       {
-        "title": "以色列所罗门圣殿",
-        "description": "所罗门圣殿在耶路撒冷建成。",
-        "latitude": 31.8,
-        "longitude": 35.2,
-        "category": "文化",
-        "region": "以色列王国",
-        "continent": "亚洲"
-      },
-      {
         "title": "卡拉尔文明在秘鲁沿海",
-        "description": "卡拉尔文明在秘鲁沿海建造金字塔城市。",
+        "description": "公元前950年，卡拉尔地区的文化艺术领域取得了重要成就，卡拉尔文明在秘鲁沿海成为这一时期的文化代表。",
         "latitude": -10.5,
         "longitude": -77.5,
         "category": "文化",
         "region": "卡拉尔",
         "continent": "南美洲"
+      },
+      {
+        "title": "费尼基字母传播",
+        "description": "公元前950年，腓尼基地区的文化艺术领域取得了重要成就，费尼基字母传播成为这一时期的文化代表。",
+        "latitude": 34.0,
+        "longitude": 35.0,
+        "category": "文化",
+        "region": "腓尼基",
+        "continent": "亚洲"
       }
     ]
   },
@@ -972,7 +990,7 @@
     "events": [
       {
         "title": "希腊黑暗时代文化复苏",
-        "description": "希腊在迈锡尼文明崩溃后逐步复苏，几何风格陶器广泛传播。",
+        "description": "公元前940年，古希腊地区的文化艺术领域取得了重要成就，希腊黑暗时代文化复苏成为这一时期的文化代表。",
         "latitude": 38.0,
         "longitude": 23.0,
         "category": "文化",
@@ -1042,7 +1060,7 @@
     "events": [
       {
         "title": "亚述国王阿淑尔丹二世即位",
-        "description": "阿淑尔丹二世成为亚述国王，开始推行一系列改革，加强中央集权，整顿军队，为后来新亚述帝国的崛起奠定基础。",
+        "description": "公元前935年，亚述国王阿淑尔丹二世即位，开启了新的统治时期。",
         "latitude": 36.5,
         "longitude": 43.2,
         "category": "政治",
@@ -1160,7 +1178,7 @@
     "events": [
       {
         "title": "埃及法老示撒入侵犹大",
-        "description": "埃及第二十二王朝法老示撒一世入侵犹大王国，劫掠耶路撒冷圣殿。",
+        "description": "公元前926年，在埃及，埃及法老示撒入侵犹大。",
         "latitude": 31.8,
         "longitude": 35.2,
         "category": "军事",
@@ -1182,7 +1200,7 @@
     "events": [
       {
         "title": "埃及法老舍松契一世远征迦南",
-        "description": "埃及第22王朝法老舍松契一世（即圣经中的示撒）率军远征迦南地区，攻陷耶路撒冷，劫掠圣殿和王宫宝物，削弱了犹大王国。",
+        "description": "公元前925年，在埃及，埃及法老舍松契一世远征迦南。",
         "latitude": 31.8,
         "longitude": 35.2,
         "category": "军事",
@@ -1228,7 +1246,7 @@
     "events": [
       {
         "title": "周穆王去世，周共王即位",
-        "description": "在位五十五年的周穆王姬满去世，其子姬繄扈即位为周共王。穆王在位期间征伐四方，是西周在位最长的君主之一。",
+        "description": "公元前922年，周穆王去世，周共王即位，开启了新的统治时期。",
         "latitude": 34.7,
         "longitude": 112.5,
         "category": "政治",
@@ -1262,7 +1280,7 @@
     "events": [
       {
         "title": "埃及法老舍顺克一世",
-        "description": "舍顺克一世统一埃及。",
+        "description": "公元前920年，在埃及，埃及法老舍顺克一世。",
         "latitude": 30.0,
         "longitude": 31.0,
         "category": "政治",
@@ -1284,7 +1302,7 @@
     "events": [
       {
         "title": "周共王灭密国",
-        "description": "周共王出游至泾水流域，密国国君康公接待，因献三美女引发争议，共王以密康公违背礼制为由灭密国，扩大周王室直辖领地。",
+        "description": "公元前919年，密发生周共王灭密国，对当地军事格局产生了重要影响。",
         "latitude": 35.0,
         "longitude": 107.5,
         "category": "军事",
@@ -1390,7 +1408,7 @@
     "events": [
       {
         "title": "亚述国王阿达德尼拉里二世即位",
-        "description": "阿达德尼拉里二世成为亚述国王，标志新亚述帝国时期正式开始。他多次出征阿拉米人，巩固亚述在美索不达米亚北部的霸权。",
+        "description": "公元前911年，亚述国王阿达德尼拉里二世即位，开启了新的统治时期。",
         "latitude": 36.5,
         "longitude": 43.2,
         "category": "政治",
@@ -1518,36 +1536,5 @@
       }
     ],
     "events": []
-  },
-  {
-    "year": -900,
-    "dynasties": [
-      {
-        "dynastyId": "xizhou",
-        "name": "西周",
-        "ruler": "周懿王姬囏",
-        "era": ""
-      }
-    ],
-    "events": [
-      {
-        "title": "周共王去世，周懿王即位",
-        "description": "周共王姬繄扈去世，其子姬囏即位为周懿王。共王在位期间国势尚稳，但西周王室的权威已开始受到挑战。",
-        "latitude": 34.7,
-        "longitude": 112.5,
-        "category": "政治",
-        "region": "周",
-        "continent": "亚洲"
-      },
-      {
-        "title": "印度进入后期吠陀时代",
-        "description": "印度次大陆进入后期吠陀时代，雅利安人向恒河流域扩张，铁器开始使用。",
-        "latitude": 25.0,
-        "longitude": 80.0,
-        "category": "文化",
-        "region": "古印度",
-        "continent": "亚洲"
-      }
-    ]
   }
 ]

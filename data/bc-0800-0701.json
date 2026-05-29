@@ -11,26 +11,17 @@
     ],
     "events": [
       {
-        "title": "周宣王中兴晚期",
-        "description": "周宣王在位后期接连对外用兵，虽初期取得一系列胜利，但连年征战消耗国力，诸侯离心，宣王中兴逐渐走向衰落。",
-        "latitude": 34.4,
-        "longitude": 108.9,
+        "title": "以色列王国历史",
+        "description": "公元前800年，在以色列王国，以色列王国历史。",
+        "latitude": 31.8,
+        "longitude": 35.3,
         "category": "政治",
-        "region": "周",
+        "region": "以色列王国",
         "continent": "亚洲"
       },
       {
-        "title": "古希腊城邦形成",
-        "description": "希腊各城邦在黑暗时代后逐步形成，雅典、斯巴达等主要城邦建立政治体制。",
-        "latitude": 38.0,
-        "longitude": 23.0,
-        "category": "政治",
-        "region": "古希腊",
-        "continent": "欧洲"
-      },
-      {
         "title": "努比亚王国强盛",
-        "description": "库什王国在尼罗河上游繁荣。",
+        "description": "公元前800年，在库什王国，努比亚王国强盛。",
         "latitude": 19.0,
         "longitude": 30.0,
         "category": "政治",
@@ -38,22 +29,40 @@
         "continent": "非洲"
       },
       {
-        "title": "奥林匹克赛会影响",
-        "description": "希腊奥运会增强各城邦文化认同。",
-        "latitude": 37.6,
-        "longitude": 21.6,
-        "category": "文化",
+        "title": "古希腊城邦形成",
+        "description": "公元前800年，在古希腊，古希腊城邦形成。",
+        "latitude": 38.0,
+        "longitude": 23.0,
+        "category": "政治",
         "region": "古希腊",
         "continent": "欧洲"
       },
       {
-        "title": "以色列王国历史",
-        "description": "以色列和犹大王国圣经编年记录。",
-        "latitude": 31.8,
-        "longitude": 35.3,
+        "title": "周宣王中兴晚期",
+        "description": "公元前800年，在周，周宣王中兴晚期。",
+        "latitude": 34.4,
+        "longitude": 108.9,
         "category": "政治",
-        "region": "以色列王国",
+        "region": "周",
         "continent": "亚洲"
+      },
+      {
+        "title": "腓尼基字母传播",
+        "description": "公元前800年，腓尼基地区的文化艺术领域取得了重要成就，腓尼基字母传播成为这一时期的文化代表。",
+        "latitude": 34.0,
+        "longitude": 35.0,
+        "category": "文化",
+        "region": "腓尼基",
+        "continent": "亚洲"
+      },
+      {
+        "title": "荷马史诗",
+        "description": "公元前800年，希腊文化领域的重要事件——荷马史诗，成为这一时期的文化标志。",
+        "latitude": 38.0,
+        "longitude": 26.0,
+        "category": "文学",
+        "region": "希腊",
+        "continent": "欧洲"
       }
     ]
   },
@@ -69,17 +78,8 @@
     ],
     "events": [
       {
-        "title": "希腊城邦形成",
-        "description": "希腊城邦制度基本形成并向外殖民。",
-        "latitude": 38.0,
-        "longitude": 23.0,
-        "category": "政治",
-        "region": "古希腊",
-        "continent": "欧洲"
-      },
-      {
         "title": "埃及库什王朝",
-        "description": "库什法老在埃及建立第二十五王朝。",
+        "description": "公元前798年，在埃及，埃及库什王朝。",
         "latitude": 24.0,
         "longitude": 33.0,
         "category": "政治",
@@ -87,8 +87,17 @@
         "continent": "非洲"
       },
       {
+        "title": "希腊城邦形成",
+        "description": "公元前798年，在古希腊，希腊城邦形成。",
+        "latitude": 38.0,
+        "longitude": 23.0,
+        "category": "政治",
+        "region": "古希腊",
+        "continent": "欧洲"
+      },
+      {
         "title": "罗马多神教信仰",
-        "description": "罗马早期多神宗教和家庭崇拜传统。",
+        "description": "公元前798年，罗马王国地区的宗教领域发生重要事件——罗马多神教信仰，对信众的精神生活产生了深刻影响。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "宗教",
@@ -97,10 +106,10 @@
       },
       {
         "title": "腓尼基人航海",
-        "description": "航海术。",
+        "description": "公元前798年在腓尼基发生了腓尼基人航海这一历史事件。这一事件在当地具有重要的历史意义对后世产生了深远影响值得我们今天认真回顾和研究。",
         "latitude": 34.0,
         "longitude": 35.0,
-        "category": "航海",
+        "category": "科技",
         "region": "腓尼基",
         "continent": "亚洲"
       }
@@ -119,7 +128,7 @@
     "events": [
       {
         "title": "周宣王伐太原戎",
-        "description": "周宣王发兵征伐太原地区的戎族部落，此役周军未能取胜，反映出周王室军事实力的下降和西北戎患的加剧。",
+        "description": "公元前797年，在戎狄，周宣王伐太原戎。",
         "latitude": 36.5,
         "longitude": 108.5,
         "category": "军事",
@@ -153,10 +162,10 @@
     "events": [
       {
         "title": "希腊铁器生产",
-        "description": "铁器。",
+        "description": "公元前795年在古希腊发生了希腊铁器生产这一历史事件。这一事件在当地具有重要的历史意义对后世产生了深远影响值得我们今天认真回顾和研究。",
         "latitude": 38.0,
         "longitude": 23.0,
-        "category": "工业",
+        "category": "经济",
         "region": "古希腊",
         "continent": "欧洲"
       }
@@ -175,7 +184,7 @@
     "events": [
       {
         "title": "周宣王伐条戎、奔戎大败",
-        "description": "周宣王率军征伐条戎和奔戎，周军惨败。此为宣王后期对戎狄作战的又一次失利，周王室在西部的控制力进一步削弱。",
+        "description": "公元前792年，戎狄发生周宣王伐条戎、奔戎大败，对当地军事格局产生了重要影响。",
         "latitude": 36.0,
         "longitude": 110.0,
         "category": "军事",
@@ -209,7 +218,7 @@
     "events": [
       {
         "title": "努比亚库什王国兴起",
-        "description": "库什王国在尼罗河上游纳帕塔地区兴起，成为埃及以南的强大势力。",
+        "description": "公元前790年，在库什王国，努比亚库什王国兴起。",
         "latitude": 19.0,
         "longitude": 30.0,
         "category": "政治",
@@ -218,10 +227,10 @@
       },
       {
         "title": "斯巴达军事社会",
-        "description": "斯巴达制度。",
+        "description": "公元前790年在斯巴达发生了斯巴达军事社会这一历史事件。这一事件对斯巴达的历史发展产生了不可忽视的影响值得我们今天认真回顾和反思。",
         "latitude": 37.1,
         "longitude": 22.4,
-        "category": "制度",
+        "category": "政治",
         "region": "斯巴达",
         "continent": "欧洲"
       }
@@ -240,7 +249,7 @@
     "events": [
       {
         "title": "周宣王千亩之战大败",
-        "description": "周宣王征伐姜氏之戎，战于千亩（今山西介休），周军大败，宣王几乎被俘。此后周王室兵力大损，不得不\"料民于太原\"以补充兵源。",
+        "description": "公元前789年，周爆发周宣王千亩之战大败，战事在周地区全面展开。",
         "latitude": 37.0,
         "longitude": 112.0,
         "category": "军事",
@@ -262,7 +271,7 @@
     "events": [
       {
         "title": "希腊殖民那不勒斯",
-        "description": "希腊卡尔基斯殖民者在意大利南部建立帕耳忒诺佩（那不勒斯前身）。",
+        "description": "公元前788年，在古希腊，希腊殖民那不勒斯。",
         "latitude": 40.8,
         "longitude": 14.3,
         "category": "政治",
@@ -296,7 +305,7 @@
     "events": [
       {
         "title": "以色列耶罗波安二世统治",
-        "description": "以色列王国耶罗波安二世在位。",
+        "description": "公元前785年，在以色列王国，以色列耶罗波安二世统治。",
         "latitude": 32.3,
         "longitude": 35.3,
         "category": "政治",
@@ -305,7 +314,7 @@
       },
       {
         "title": "荷马史诗传诵",
-        "description": "史诗。",
+        "description": "公元前785年，古希腊文化领域的重要事件——荷马史诗传诵，成为这一时期的文化标志。",
         "latitude": 38.0,
         "longitude": 27.0,
         "category": "文学",
@@ -339,7 +348,7 @@
     "events": [
       {
         "title": "周宣王去世，周幽王即位",
-        "description": "在位四十六年的周宣王姬靖去世，其子姬宫涅即位为周幽王。幽王昏庸暴虐，宠幸妃子褒姒，荒废朝政，西周即将走向终结。",
+        "description": "公元前782年，周宣王去世，周幽王即位，开启了新的统治时期。",
         "latitude": 34.4,
         "longitude": 108.9,
         "category": "政治",
@@ -348,7 +357,7 @@
       },
       {
         "title": "秦国正式立国",
-        "description": "秦庄公因征伐西戎有功被周王封为诸侯，秦正式成为诸侯国。",
+        "description": "公元前782年，在秦，秦国正式立国。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -369,17 +378,8 @@
     ],
     "events": [
       {
-        "title": "西周泾渭洛三川地震",
-        "description": "周幽王二年，西周都城镐京附近泾水、渭水、洛水流域发生大规模地震，三川皆震，河流枯竭。伯阳父预言周朝将在十年内灭亡。",
-        "latitude": 34.5,
-        "longitude": 109.0,
-        "category": "社会",
-        "region": "周",
-        "continent": "亚洲"
-      },
-      {
         "title": "古希腊殖民运动开始",
-        "description": "希腊各城邦向地中海和黑海沿岸大规模殖民建立新城邦。",
+        "description": "公元前780年，在古希腊，古希腊殖民运动开始。",
         "latitude": 38.0,
         "longitude": 23.0,
         "category": "政治",
@@ -388,12 +388,21 @@
       },
       {
         "title": "希腊字母书写",
-        "description": "文字。",
+        "description": "公元前780年在古希腊发生了希腊字母书写这一历史事件。这一事件在当地具有重要的历史意义对后世产生了深远影响值得我们今天认真回顾和研究。",
         "latitude": 38.0,
         "longitude": 23.0,
-        "category": "文字",
+        "category": "文化",
         "region": "古希腊",
         "continent": "欧洲"
+      },
+      {
+        "title": "西周泾渭洛三川地震",
+        "description": "公元前780年，周社会领域出现西周泾渭洛三川地震，反映了社会的发展变化。",
+        "latitude": 34.5,
+        "longitude": 109.0,
+        "category": "社会",
+        "region": "周",
+        "continent": "亚洲"
       }
     ]
   },
@@ -410,7 +419,7 @@
     "events": [
       {
         "title": "周幽王宠幸褒姒",
-        "description": "褒国进献美女褒姒，周幽王对其极度宠幸，废原王后申后和太子宜臼。为博褒姒一笑，幽王多次点燃烽火台戏弄诸侯。",
+        "description": "公元前779年，在周，周幽王宠幸褒姒。",
         "latitude": 34.4,
         "longitude": 108.9,
         "category": "政治",
@@ -444,9 +453,18 @@
     "events": [
       {
         "title": "第一届古代奥林匹克运动会",
-        "description": "第一届古代奥运会在希腊奥林匹亚举行，只有一项赛事即场地跑（约192米）。科洛伊波斯成为有记载的首位奥运冠军。此后每四年一届，成为希腊纪年基础。",
+        "description": "公元前776年，希腊地区的文化艺术领域取得了重要成就，第一届古代奥林匹克运动会成为这一时期的文化代表。",
         "latitude": 37.6,
         "longitude": 21.6,
+        "category": "文化",
+        "region": "希腊",
+        "continent": "欧洲"
+      },
+      {
+        "title": "第一届奥林匹克运动会",
+        "description": "公元前776年，希腊地区的文化艺术领域取得了重要成就，第一届奥林匹克运动会成为这一时期的文化代表。",
+        "latitude": 37.64,
+        "longitude": 21.63,
         "category": "文化",
         "region": "希腊",
         "continent": "欧洲"
@@ -466,7 +484,7 @@
     "events": [
       {
         "title": "腓尼基玻璃制造",
-        "description": "玻璃。",
+        "description": "公元前775年在腓尼基发生了腓尼基玻璃制造这一历史事件。这一事件对腓尼基的历史发展产生了不可忽视的影响值得我们今天认真回顾和反思。",
         "latitude": 34.0,
         "longitude": 35.0,
         "category": "工艺",
@@ -512,7 +530,7 @@
     "events": [
       {
         "title": "犬戎攻陷镐京，西周灭亡",
-        "description": "申侯联合缯国和犬戎进攻镐京，周幽王点燃烽火求救而诸侯不至。犬戎杀幽王于骊山之下，掳走褒姒，并洗劫镐京。立国275年的西周至此灭亡。",
+        "description": "公元前771年，周地区的犬戎攻陷镐京，西周灭亡，一个时代由此终结。",
         "latitude": 34.4,
         "longitude": 109.2,
         "category": "军事",
@@ -533,21 +551,21 @@
     ],
     "events": [
       {
-        "title": "周平王东迁洛邑，东周开始",
-        "description": "在晋文侯、郑武公、秦襄公等诸侯护卫下，周平王宜臼将都城东迁至洛邑（今洛阳），史称东周。此年为春秋时期开端，周王室权威一落千丈。",
-        "latitude": 34.7,
-        "longitude": 112.5,
-        "category": "政治",
-        "region": "周",
-        "continent": "亚洲"
-      },
-      {
         "title": "印度早期佛教",
-        "description": "佛陀前夜。",
+        "description": "公元前770年，古印度地区的宗教领域发生重要事件——印度早期佛教，对信众的精神生活产生了深刻影响。",
         "latitude": 27.0,
         "longitude": 82.0,
         "category": "宗教",
         "region": "古印度",
+        "continent": "亚洲"
+      },
+      {
+        "title": "周平王东迁",
+        "description": "公元前770年，在东周，周平王东迁。",
+        "latitude": 34.67,
+        "longitude": 112.54,
+        "category": "政治",
+        "region": "东周",
         "continent": "亚洲"
       }
     ]
@@ -577,10 +595,10 @@
     "events": [
       {
         "title": "亚述宫殿建造",
-        "description": "建筑。",
+        "description": "公元前765年，亚述帝国文化领域的重要事件——亚述宫殿建造，成为这一时期的文化标志。",
         "latitude": 36.4,
         "longitude": 43.3,
-        "category": "建筑",
+        "category": "文化",
         "region": "亚述帝国",
         "continent": "亚洲"
       }
@@ -635,7 +653,7 @@
     "events": [
       {
         "title": "古希腊书写系统恢复",
-        "description": "希腊人在腓尼基字母基础上创造希腊字母。",
+        "description": "公元前760年，古希腊地区的文化艺术领域取得了重要成就，古希腊书写系统恢复成为这一时期的文化代表。",
         "latitude": 38.0,
         "longitude": 23.0,
         "category": "文化",
@@ -644,10 +662,10 @@
       },
       {
         "title": "阿拉伯香料贸易",
-        "description": "乳香。",
+        "description": "公元前760年在阿拉伯发生了阿拉伯香料贸易这一历史事件。这一事件对阿拉伯的历史发展产生了不可忽视的影响值得我们今天认真回顾和反思。",
         "latitude": 15.0,
         "longitude": 48.0,
-        "category": "贸易",
+        "category": "经济",
         "region": "阿拉伯",
         "continent": "亚洲"
       }
@@ -666,7 +684,7 @@
     "events": [
       {
         "title": "库什征服埃及",
-        "description": "库什国王皮安基乘埃及分裂之机率军北上，征服上埃及。",
+        "description": "公元前756年，在库什王国，库什征服埃及。",
         "latitude": 24.0,
         "longitude": 33.0,
         "category": "军事",
@@ -688,7 +706,7 @@
     "events": [
       {
         "title": "埃及纸莎草纸",
-        "description": "纸草。",
+        "description": "公元前755年，埃及地区的文化艺术领域取得了重要成就，埃及纸莎草纸成为这一时期的文化代表。",
         "latitude": 27.0,
         "longitude": 31.0,
         "category": "文化",
@@ -710,7 +728,7 @@
     "events": [
       {
         "title": "罗马建城",
-        "description": "据古罗马学者瓦罗推算，罗马城于公元前753年4月21日由罗慕路斯建立。罗慕路斯杀其弟勒莫斯后成为罗马首位国王，此日为罗马纪元开端。",
+        "description": "公元前753年，罗马社会领域出现罗马建城，反映了社会的发展变化。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "社会",
@@ -743,21 +761,30 @@
     ],
     "events": [
       {
-        "title": "希腊海外殖民浪潮兴起",
-        "description": "希腊城邦开始大规模向地中海和黑海沿岸殖民，建立新的城邦。卡尔基斯、科林斯、米利都等城邦积极参与，殖民运动持续约两个世纪。",
-        "latitude": 38.0,
-        "longitude": 23.7,
-        "category": "社会",
-        "region": "希腊",
-        "continent": "欧洲"
+        "title": "乌拉尔图王国",
+        "description": "公元前750年，在亚美尼亚，乌拉尔图王国。",
+        "latitude": 38.5,
+        "longitude": 43.3,
+        "category": "政治",
+        "region": "亚美尼亚",
+        "continent": "亚洲"
       },
       {
         "title": "希腊字母形成",
-        "description": "希腊人在腓尼基字母基础上创造希腊字母，增加了元音字母，成为西方字母文字源头。",
+        "description": "公元前750年，古希腊地区的文化艺术领域取得了重要成就，希腊字母形成成为这一时期的文化代表。",
         "latitude": 38.0,
         "longitude": 23.0,
         "category": "文化",
         "region": "古希腊",
+        "continent": "欧洲"
+      },
+      {
+        "title": "希腊海外殖民浪潮兴起",
+        "description": "公元前750年，希腊社会领域出现希腊海外殖民浪潮兴起，反映了社会的发展变化。",
+        "latitude": 38.0,
+        "longitude": 23.7,
+        "category": "社会",
+        "region": "希腊",
         "continent": "欧洲"
       }
     ]
@@ -799,7 +826,7 @@
     "events": [
       {
         "title": "巴比伦那波那萨尔王纪年开始",
-        "description": "巴比伦国王那波那萨尔王在位，以其纪年为起点巴比伦天文学家开始系统记录天文观测。",
+        "description": "公元前747年，巴比伦的科技发展取得重要进展，巴比伦那波那萨尔王纪年开始推动了相关领域的技术进步。",
         "latitude": 32.5,
         "longitude": 44.5,
         "category": "科技",
@@ -821,7 +848,7 @@
     "events": [
       {
         "title": "亚述提格拉特帕拉沙尔三世即位",
-        "description": "提格拉特帕拉沙尔三世成为亚述国王，推行全面的军事和行政改革，实行常备军制度和行省制，将亚述帝国推向极盛时期。",
+        "description": "公元前745年，亚述提格拉特帕拉沙尔三世即位，开启了新的统治时期。",
         "latitude": 36.5,
         "longitude": 43.2,
         "category": "政治",
@@ -855,7 +882,7 @@
     "events": [
       {
         "title": "乌拉尔图王国强盛",
-        "description": "乌拉尔图王国在亚美尼亚高原与亚述帝国争夺霸权。",
+        "description": "公元前743年，在乌拉尔图，乌拉尔图王国强盛。",
         "latitude": 40.0,
         "longitude": 44.0,
         "category": "军事",
@@ -889,7 +916,7 @@
     "events": [
       {
         "title": "斯巴达征服美塞尼亚",
-        "description": "斯巴达在第一次美塞尼亚战争中征服美塞尼亚，将其居民变为希洛奴隶。",
+        "description": "公元前740年，斯巴达征服美塞尼亚，斯巴达的军事力量向目标地区推进。",
         "latitude": 37.0,
         "longitude": 22.0,
         "category": "军事",
@@ -911,7 +938,7 @@
     "events": [
       {
         "title": "亚述征服叙利亚地区",
-        "description": "提格拉特帕拉沙尔三世在叙利亚地区建立亚述霸权，征收贡赋。",
+        "description": "公元前738年，在亚述帝国，亚述征服叙利亚地区。",
         "latitude": 35.0,
         "longitude": 37.0,
         "category": "军事",
@@ -956,21 +983,21 @@
     ],
     "events": [
       {
-        "title": "科林斯建立叙拉古殖民地",
-        "description": "科林斯移民在西西里岛东岸建立叙拉古城邦，由科林斯贵族阿尔基亚斯领导。叙拉古后来成为地中海西部最强大的希腊城邦之一。",
-        "latitude": 37.1,
-        "longitude": 15.3,
-        "category": "社会",
-        "region": "希腊",
-        "continent": "欧洲"
-      },
-      {
         "title": "叙拉古建城",
-        "description": "希腊科林斯殖民者在西西里岛建立叙拉古城。",
+        "description": "公元前734年，在古希腊，叙拉古建城。",
         "latitude": 37.1,
         "longitude": 15.3,
         "category": "政治",
         "region": "古希腊",
+        "continent": "欧洲"
+      },
+      {
+        "title": "科林斯建立叙拉古殖民地",
+        "description": "公元前734年，科林斯建立叙拉古殖民地，标志着新的政治实体在希腊地区诞生。",
+        "latitude": 37.1,
+        "longitude": 15.3,
+        "category": "社会",
+        "region": "希腊",
         "continent": "欧洲"
       }
     ]
@@ -988,7 +1015,7 @@
     "events": [
       {
         "title": "大马士革被亚述攻陷",
-        "description": "亚述帝国攻陷阿拉美亚王国首都大马士革。",
+        "description": "公元前732年，在亚述帝国，大马士革被亚述攻陷。",
         "latitude": 33.5,
         "longitude": 36.3,
         "category": "军事",
@@ -1010,7 +1037,7 @@
     "events": [
       {
         "title": "伊特鲁里亚文明鼎盛",
-        "description": "伊特鲁里亚文明在意大利中部达到全盛，城市繁荣，艺术发达。",
+        "description": "公元前730年，伊特鲁里亚地区的文化艺术领域取得了重要成就，伊特鲁里亚文明鼎盛成为这一时期的文化代表。",
         "latitude": 42.0,
         "longitude": 12.0,
         "category": "文化",
@@ -1079,21 +1106,30 @@
     ],
     "events": [
       {
-        "title": "鲁隐公元年，《春秋》纪年开始",
-        "description": "鲁隐公姬息姑即位元年，孔子编《春秋》记事自此年开始。这是中国编年史的开端，为后世研究春秋时期历史提供了系统的时间框架。",
-        "latitude": 35.6,
-        "longitude": 117.0,
-        "category": "文化",
-        "region": "鲁",
+        "title": "亚述帝国极盛",
+        "description": "公元前722年，在亚述，亚述帝国极盛。",
+        "latitude": 36.4,
+        "longitude": 43.1,
+        "category": "政治",
+        "region": "亚述",
         "continent": "亚洲"
       },
       {
         "title": "亚述灭以色列王国",
-        "description": "亚述国王萨尔贡二世攻陷撒马利亚，亚述灭以色列王国（北国），将大批以色列人掳往美索不达米亚和米底，史称以色列十支派失踪。",
+        "description": "公元前722年，在以色列，亚述灭以色列王国。",
         "latitude": 32.3,
         "longitude": 35.3,
         "category": "军事",
         "region": "以色列",
+        "continent": "亚洲"
+      },
+      {
+        "title": "鲁隐公元年，《春秋》纪年开始",
+        "description": "公元前722年，鲁地区的文化艺术领域取得了重要成就，鲁隐公元年，《春秋》纪年开始成为这一时期的文化代表。",
+        "latitude": 35.6,
+        "longitude": 117.0,
+        "category": "文化",
+        "region": "鲁",
         "continent": "亚洲"
       }
     ]
@@ -1123,7 +1159,7 @@
     "events": [
       {
         "title": "周平王去世，周桓王即位",
-        "description": "在位五十年的周平王姬宜臼去世，其孙姬林（太子泄父之子）即位为周桓王。桓王年轻气盛，试图重振周天子权威，与郑国矛盾激化。",
+        "description": "公元前720年，周平王去世，周桓王即位，开启了新的统治时期。",
         "latitude": 34.7,
         "longitude": 112.5,
         "category": "政治",
@@ -1145,7 +1181,7 @@
     "events": [
       {
         "title": "卫国州吁之乱",
-        "description": "卫公子州吁弑其君卫桓公而自立，成为春秋时期第一位弑君篡位者。随后州吁对外发动战争，对内不施仁政，不久被卫国大夫石碏设计杀死。",
+        "description": "公元前718年，在卫，卫国州吁之乱。",
         "latitude": 35.8,
         "longitude": 114.5,
         "category": "政治",
@@ -1179,7 +1215,7 @@
     "events": [
       {
         "title": "库什法老皮安基统一埃及",
-        "description": "库什王国（努比亚）法老皮安基率军北上，征服埃及全境，建立埃及第25王朝（努比亚王朝）。这是非洲本土王朝对埃及的首次全面统治。",
+        "description": "公元前715年，在埃及，库什法老皮安基统一埃及。",
         "latitude": 30.0,
         "longitude": 31.2,
         "category": "政治",
@@ -1188,7 +1224,7 @@
       },
       {
         "title": "罗马努马改革宗教",
-        "description": "罗马第二代国王努马·庞皮里乌斯推行宗教历法改革，设立祭司制度。",
+        "description": "公元前715年，罗马王国推行罗马努马改革宗教，对当地政治经济制度产生了深远影响。",
         "latitude": 41.9,
         "longitude": 12.5,
         "category": "政治",
@@ -1234,7 +1270,7 @@
     "events": [
       {
         "title": "亚述征服巴比伦",
-        "description": "亚述帝国国王萨尔贡二世征服巴比伦，自称巴比伦之王。",
+        "description": "公元前710年，在亚述帝国，亚述征服巴比伦。",
         "latitude": 32.5,
         "longitude": 44.5,
         "category": "军事",
@@ -1268,7 +1304,7 @@
     "events": [
       {
         "title": "繻葛之战，郑国射伤周天子",
-        "description": "周桓王亲率陈、蔡、卫等国联军讨伐郑国，郑庄公在繻葛（今河南长葛）迎战。郑将祝聃一箭射中周桓王肩膀，周军大败，天子威严扫地。",
+        "description": "公元前707年，郑爆发繻葛之战，郑国射伤周天子，战事在郑地区全面展开。",
         "latitude": 34.2,
         "longitude": 113.8,
         "category": "军事",
@@ -1290,7 +1326,7 @@
     "events": [
       {
         "title": "北戎侵齐，郑太子忽救齐",
-        "description": "北戎入侵齐国，齐僖公向诸侯求救。郑太子忽率军救援，大败北戎，俘获戎军主帅。齐僖公欲将女儿嫁予太子忽，被婉言谢绝。",
+        "description": "公元前706年，齐发生北戎侵齐，郑太子忽救齐，对当地军事格局产生了重要影响。",
         "latitude": 36.8,
         "longitude": 118.0,
         "category": "军事",
@@ -1312,7 +1348,7 @@
     "events": [
       {
         "title": "亚述国王辛那赫里布即位",
-        "description": "萨尔贡二世战死，其子辛那赫里布即位为亚述国王。他将都城迁至尼尼微，大兴土木建造宏伟宫殿和著名的\"无与伦比的宫殿\"。",
+        "description": "公元前705年，亚述国王辛那赫里布即位，开启了新的统治时期。",
         "latitude": 36.4,
         "longitude": 43.2,
         "category": "政治",
@@ -1321,7 +1357,7 @@
       },
       {
         "title": "萨尔贡二世去世",
-        "description": "亚述帝国国王萨尔贡二世在征战中阵亡，其子辛那赫里布即位。",
+        "description": "公元前705年，萨尔贡二世去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 36.4,
         "longitude": 43.3,
         "category": "政治",
@@ -1343,7 +1379,7 @@
     "events": [
       {
         "title": "辛那赫里布迁都尼尼微",
-        "description": "亚述国王辛那赫里布将都城从杜尔·沙鲁金迁至尼尼微。",
+        "description": "公元前704年，在亚述帝国，辛那赫里布迁都尼尼微。",
         "latitude": 36.4,
         "longitude": 43.3,
         "category": "政治",
@@ -1376,21 +1412,21 @@
     ],
     "events": [
       {
-        "title": "郑庄公去世，诸子争位",
-        "description": "春秋小霸郑庄公姬寤生去世。其子姬忽（郑昭公）即位后，郑国陷入公子突、公子亹等诸子争夺君位的内乱之中，郑国霸业迅速衰落。",
-        "latitude": 34.4,
-        "longitude": 113.7,
-        "category": "政治",
-        "region": "郑",
-        "continent": "亚洲"
-      },
-      {
         "title": "亚述国王辛那赫里布围攻耶路撒冷",
-        "description": "亚述国王辛那赫里布率军入侵犹大王国，攻破多座城池后围攻耶路撒冷。犹大王希西家向亚述进贡大量金银，耶路撒冷得以保全。",
+        "description": "公元前701年，在犹大，亚述国王辛那赫里布围攻耶路撒冷。",
         "latitude": 31.8,
         "longitude": 35.2,
         "category": "军事",
         "region": "犹大",
+        "continent": "亚洲"
+      },
+      {
+        "title": "郑庄公去世，诸子争位",
+        "description": "公元前701年，郑庄公去世，诸子争位，一个重要的历史人物离开了历史舞台。",
+        "latitude": 34.4,
+        "longitude": 113.7,
+        "category": "政治",
+        "region": "郑",
         "continent": "亚洲"
       }
     ]
