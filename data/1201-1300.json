@@ -24,15 +24,6 @@
         "category": "宗教",
         "region": "教皇国",
         "continent": "欧洲"
-      },
-      {
-        "title": "越南陈朝抗击蒙古",
-        "description": "公元1201年，在越南，越南陈朝抗击蒙古。",
-        "latitude": 21.0,
-        "longitude": 106.0,
-        "category": "军事",
-        "region": "越南",
-        "continent": "亚洲"
       }
     ]
   },
@@ -53,15 +44,6 @@
       }
     ],
     "events": [
-      {
-        "title": "中亚帖木儿帝国前身",
-        "description": "公元1202年，在中亚，中亚帖木儿帝国前身。",
-        "latitude": 40.0,
-        "longitude": 66.0,
-        "category": "政治",
-        "region": "中亚",
-        "continent": "亚洲"
-      },
       {
         "title": "第四次十字军东征",
         "description": "公元1202年，在拜占庭，第四次十字军东征。",

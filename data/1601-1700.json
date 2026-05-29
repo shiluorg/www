@@ -69,24 +69,6 @@
         "continent": "欧洲"
       },
       {
-        "title": "清朝初定中原",
-        "description": "公元1602年，清朝清朝初定中原。",
-        "latitude": 39.9,
-        "longitude": 116.4,
-        "category": "政治",
-        "region": "清",
-        "continent": "亚洲"
-      },
-      {
-        "title": "清朝制度巩固",
-        "description": "公元1602年，清朝清朝制度巩固。",
-        "latitude": 39.9,
-        "longitude": 116.4,
-        "category": "政治",
-        "region": "清",
-        "continent": "亚洲"
-      },
-      {
         "title": "荷兰东印度公司成立",
         "description": "公元1602年，荷兰东印度公司成立，标志着新的政治实体在荷兰地区诞生。",
         "latitude": 52.4,
@@ -1921,7 +1903,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清世祖福临",
-        "era": "顺治元年"
+        "era": "顺治1年"
       }
     ],
     "events": [
@@ -1961,7 +1943,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清世祖福临",
-        "era": "顺治二年"
+        "era": "顺治2年"
       }
     ],
     "events": [
@@ -2010,7 +1992,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清世祖福临",
-        "era": "顺治三年"
+        "era": "顺治3年"
       }
     ],
     "events": [
@@ -2050,7 +2032,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清世祖福临",
-        "era": "顺治四年"
+        "era": "顺治4年"
       }
     ],
     "events": [
@@ -2081,7 +2063,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清世祖福临",
-        "era": "顺治五年"
+        "era": "顺治5年"
       }
     ],
     "events": [
@@ -2103,7 +2085,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清世祖福临",
-        "era": "顺治六年"
+        "era": "顺治6年"
       }
     ],
     "events": [
@@ -2134,7 +2116,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清世祖福临",
-        "era": "顺治七年"
+        "era": "顺治7年"
       }
     ],
     "events": [
@@ -2192,7 +2174,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清世祖福临",
-        "era": "顺治八年"
+        "era": "顺治8年"
       }
     ],
     "events": [
@@ -2232,7 +2214,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清世祖福临",
-        "era": "顺治九年"
+        "era": "顺治9年"
       }
     ],
     "events": [
@@ -2272,7 +2254,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清世祖福临",
-        "era": "顺治十年"
+        "era": "顺治10年"
       }
     ],
     "events": [
@@ -2294,7 +2276,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清世祖福临",
-        "era": "顺治十一年"
+        "era": "顺治11年"
       }
     ],
     "events": [
@@ -2334,7 +2316,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清世祖福临",
-        "era": "顺治十二年"
+        "era": "顺治12年"
       }
     ],
     "events": [
@@ -2374,7 +2356,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清世祖福临",
-        "era": "顺治十三年"
+        "era": "顺治13年"
       }
     ],
     "events": [
@@ -2414,7 +2396,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清世祖福临",
-        "era": "顺治十四年"
+        "era": "顺治14年"
       }
     ],
     "events": [
@@ -2454,7 +2436,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清世祖福临",
-        "era": "顺治十五年"
+        "era": "顺治15年"
       }
     ],
     "events": [
@@ -2503,7 +2485,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清世祖福临",
-        "era": "顺治十六年"
+        "era": "顺治16年"
       }
     ],
     "events": [
@@ -2543,7 +2525,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清世祖福临",
-        "era": "顺治十七年"
+        "era": "顺治17年"
       }
     ],
     "events": [
@@ -2583,7 +2565,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清世祖福临",
-        "era": "顺治十八年"
+        "era": "顺治18年"
       }
     ],
     "events": [
@@ -2623,7 +2605,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙元年"
+        "era": "康熙1年"
       }
     ],
     "events": [
@@ -2672,7 +2654,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙二年"
+        "era": "康熙2年"
       }
     ],
     "events": [
@@ -2712,7 +2694,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙三年"
+        "era": "康熙3年"
       }
     ],
     "events": [
@@ -2743,7 +2725,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙四年"
+        "era": "康熙4年"
       }
     ],
     "events": [
@@ -2783,7 +2765,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙五年"
+        "era": "康熙5年"
       }
     ],
     "events": [
@@ -2805,7 +2787,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙六年"
+        "era": "康熙6年"
       }
     ],
     "events": [
@@ -2845,7 +2827,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙七年"
+        "era": "康熙7年"
       }
     ],
     "events": [
@@ -2885,7 +2867,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙八年"
+        "era": "康熙8年"
       }
     ],
     "events": [
@@ -2916,7 +2898,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙九年"
+        "era": "康熙9年"
       }
     ],
     "events": [
@@ -2965,7 +2947,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙十年"
+        "era": "康熙10年"
       }
     ],
     "events": [
@@ -3005,7 +2987,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙十一年"
+        "era": "康熙11年"
       }
     ],
     "events": [
@@ -3036,7 +3018,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙十二年"
+        "era": "康熙12年"
       }
     ],
     "events": [
@@ -3067,7 +3049,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙十三年"
+        "era": "康熙13年"
       }
     ],
     "events": [
@@ -3107,7 +3089,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙十四年"
+        "era": "康熙14年"
       }
     ],
     "events": [
@@ -3156,7 +3138,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙十五年"
+        "era": "康熙15年"
       }
     ],
     "events": [
@@ -3187,7 +3169,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙十六年"
+        "era": "康熙16年"
       }
     ],
     "events": [
@@ -3236,7 +3218,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙十七年"
+        "era": "康熙17年"
       }
     ],
     "events": [
@@ -3276,7 +3258,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙十八年"
+        "era": "康熙18年"
       }
     ],
     "events": [
@@ -3316,7 +3298,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙十九年"
+        "era": "康熙19年"
       }
     ],
     "events": [
@@ -3365,7 +3347,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙二十年"
+        "era": "康熙20年"
       }
     ],
     "events": [
@@ -3396,7 +3378,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙二十一年"
+        "era": "康熙21年"
       }
     ],
     "events": [
@@ -3427,7 +3409,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙二十二年"
+        "era": "康熙22年"
       }
     ],
     "events": [
@@ -3467,7 +3449,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙二十三年"
+        "era": "康熙23年"
       }
     ],
     "events": [
@@ -3498,7 +3480,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙二十四年"
+        "era": "康熙24年"
       }
     ],
     "events": [
@@ -3538,7 +3520,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙二十五年"
+        "era": "康熙25年"
       }
     ],
     "events": [
@@ -3578,7 +3560,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙二十六年"
+        "era": "康熙26年"
       }
     ],
     "events": [
@@ -3618,7 +3600,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙二十七年"
+        "era": "康熙27年"
       }
     ],
     "events": [
@@ -3640,7 +3622,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙二十八年"
+        "era": "康熙28年"
       }
     ],
     "events": [
@@ -3698,7 +3680,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙二十九年"
+        "era": "康熙29年"
       }
     ],
     "events": [
@@ -3738,7 +3720,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙三十年"
+        "era": "康熙30年"
       }
     ],
     "events": [
@@ -3778,7 +3760,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙三十一年"
+        "era": "康熙31年"
       }
     ],
     "events": [
@@ -3818,7 +3800,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙三十二年"
+        "era": "康熙32年"
       }
     ],
     "events": [
@@ -3849,7 +3831,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙三十三年"
+        "era": "康熙33年"
       }
     ],
     "events": [
@@ -3880,7 +3862,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙三十四年"
+        "era": "康熙34年"
       }
     ],
     "events": [
@@ -3911,7 +3893,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙三十五年"
+        "era": "康熙35年"
       }
     ],
     "events": [
@@ -3942,7 +3924,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙三十六年"
+        "era": "康熙36年"
       }
     ],
     "events": [
@@ -3973,7 +3955,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙三十七年"
+        "era": "康熙37年"
       }
     ],
     "events": [
@@ -4004,7 +3986,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙三十八年"
+        "era": "康熙38年"
       }
     ],
     "events": [
@@ -4035,7 +4017,7 @@
         "dynastyId": "qing",
         "name": "清",
         "ruler": "清圣祖玄烨",
-        "era": "康熙三十九年"
+        "era": "康熙39年"
       }
     ],
     "events": [

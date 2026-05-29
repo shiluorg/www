@@ -781,8 +781,19 @@ kbd {
     --dynasty-row-height: 16px;
     --dynasty-timeline-height: 28px;
     --calendar-timeline-height: 30px;
-    --event-list-height: 100px;
+    --event-list-height: 140px;
     --header-height: 34px;
+  }
+
+  #map-area {
+    flex: 3;
+    min-height: 35vh;
+  }
+
+  #event-list-panel {
+    flex: 2;
+    max-height: 50vh;
+    overflow-y: auto;
   }
 
   #header {

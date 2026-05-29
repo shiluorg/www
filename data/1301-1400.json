@@ -158,15 +158,6 @@
     ],
     "events": [
       {
-        "title": "帖木儿帝国扩张",
-        "description": "公元1304年，在帖木儿帝国，帖木儿帝国扩张。",
-        "latitude": 39.0,
-        "longitude": 66.0,
-        "category": "军事",
-        "region": "帖木儿帝国",
-        "continent": "亚洲"
-      },
-      {
         "title": "欧洲民族语言兴起",
         "description": "公元1304年，欧洲地区的文化艺术领域取得了重要成就，欧洲民族语言兴起成为这一时期的文化代表。",
         "latitude": 44.0,

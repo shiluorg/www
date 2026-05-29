@@ -78,15 +78,6 @@
         "continent": "北美洲"
       },
       {
-        "title": "宗教改革与反改革",
-        "description": "公元1502年，欧洲推行宗教改革与反改革，对当地政治经济制度产生了深远影响。",
-        "latitude": 51.5,
-        "longitude": 12.0,
-        "category": "宗教",
-        "region": "欧洲",
-        "continent": "欧洲"
-      },
-      {
         "title": "欧洲列强争夺殖民地",
         "description": "公元1502年，在欧洲，欧洲列强争夺殖民地。",
         "latitude": 40.0,
@@ -702,6 +693,15 @@
         "longitude": 12.64,
         "category": "宗教",
         "region": "德国",
+        "continent": "欧洲"
+      },
+      {
+        "title": "宗教改革与反改革",
+        "description": "公元1502年，欧洲推行宗教改革与反改革，对当地政治经济制度产生了深远影响。",
+        "latitude": 51.5,
+        "longitude": 12.0,
+        "category": "宗教",
+        "region": "欧洲",
         "continent": "欧洲"
       }
     ]

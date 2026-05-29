@@ -11,15 +11,6 @@
     ],
     "events": [
       {
-        "title": "大运河贯通南北",
-        "description": "公元601年，隋经济领域发生大运河贯通南北，对当时的经济生活产生了直接影响。",
-        "latitude": 35.0,
-        "longitude": 116.0,
-        "category": "经济",
-        "region": "隋",
-        "continent": "亚洲"
-      },
-      {
         "title": "欧洲早期农业工具",
         "description": "公元601年，欧洲经济领域发生欧洲早期农业工具，对当时的经济生活产生了直接影响。",
         "latitude": 50.0,
@@ -27,15 +18,6 @@
         "category": "经济",
         "region": "欧洲",
         "continent": "欧洲"
-      },
-      {
-        "title": "隋文帝去世",
-        "description": "公元601年，隋文帝去世，一个重要的历史人物离开了历史舞台。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
-        "region": "隋",
-        "continent": "亚洲"
       },
       {
         "title": "隋文帝改元仁寿",
@@ -66,15 +48,6 @@
         "longitude": 90.0,
         "category": "政治",
         "region": "吐蕃",
-        "continent": "亚洲"
-      },
-      {
-        "title": "唐朝兴盛与对外扩张",
-        "description": "公元602年，在唐，唐朝兴盛与对外扩张。",
-        "latitude": 34.3,
-        "longitude": 108.9,
-        "category": "政治",
-        "region": "唐",
         "continent": "亚洲"
       },
       {
@@ -176,17 +149,17 @@
         "continent": "欧洲"
       },
       {
-        "title": "阿拉伯半岛统一战争",
-        "description": "公元604年，阿拉伯帝国爆发阿拉伯半岛统一战争，战事在阿拉伯帝国地区全面展开。",
-        "latitude": 24.0,
-        "longitude": 42.0,
-        "category": "军事",
-        "region": "阿拉伯帝国",
+        "title": "隋文帝驾崩，炀帝即位",
+        "description": "公元604年，隋文帝驾崩，炀帝即位，开启了新的统治时期。",
+        "latitude": 34.3,
+        "longitude": 108.9,
+        "category": "政治",
+        "region": "隋",
         "continent": "亚洲"
       },
       {
-        "title": "隋文帝驾崩，炀帝即位",
-        "description": "公元604年，隋文帝驾崩，炀帝即位，开启了新的统治时期。",
+        "title": "隋文帝去世",
+        "description": "公元601年，隋文帝去世，一个重要的历史人物离开了历史舞台。",
         "latitude": 34.3,
         "longitude": 108.9,
         "category": "政治",
@@ -206,15 +179,6 @@
       }
     ],
     "events": [
-      {
-        "title": "大运河开工",
-        "description": "公元605年，隋的科技发展取得重要进展，大运河开工推动了相关领域的技术进步。",
-        "latitude": 35.0,
-        "longitude": 116.0,
-        "category": "科技",
-        "region": "隋",
-        "continent": "亚洲"
-      },
       {
         "title": "拜占庭巴尔干防御",
         "description": "公元605年，在拜占庭帝国，拜占庭巴尔干防御。",
@@ -252,15 +216,6 @@
         "continent": "亚洲"
       },
       {
-        "title": "隋唐大运河建设",
-        "description": "公元605年，唐的科技发展取得重要进展，隋唐大运河建设推动了相关领域的技术进步。",
-        "latitude": 35.0,
-        "longitude": 116.0,
-        "category": "科技",
-        "region": "唐",
-        "continent": "亚洲"
-      },
-      {
         "title": "隋炀帝开凿大运河",
         "description": "公元605年，隋朝的科技发展取得重要进展，隋炀帝开凿大运河推动了相关领域的技术进步。",
         "latitude": 34.5,
@@ -270,10 +225,10 @@
         "continent": "亚洲"
       },
       {
-        "title": "隋炀帝改元大业，开凿大运河",
-        "description": "公元605年，隋经济领域发生隋炀帝改元大业，开凿大运河，对当时的经济生活产生了直接影响。",
-        "latitude": 34.6,
-        "longitude": 112.4,
+        "title": "大运河贯通南北",
+        "description": "公元601年，隋经济领域发生大运河贯通南北，对当时的经济生活产生了直接影响。",
+        "latitude": 35.0,
+        "longitude": 116.0,
         "category": "经济",
         "region": "隋",
         "continent": "亚洲"
@@ -3665,15 +3620,6 @@
         "category": "宗教",
         "region": "日耳曼",
         "continent": "欧洲"
-      },
-      {
-        "title": "杜甫创作诗歌高峰",
-        "description": "公元700年，唐朝文化领域的重要事件——杜甫创作诗歌高峰，成为这一时期的文化标志。",
-        "latitude": 34.31,
-        "longitude": 108.94,
-        "category": "文学",
-        "region": "唐朝",
-        "continent": "亚洲"
       },
       {
         "title": "狄仁杰去世",
