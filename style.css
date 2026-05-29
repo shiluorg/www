@@ -786,13 +786,13 @@ kbd {
   }
 
   #map-area {
-    flex: 3;
-    min-height: 35vh;
+    flex: 5;
+    min-height: 50vh;
   }
 
   #event-list-panel {
     flex: 2;
-    max-height: 50vh;
+    max-height: 35vh;
     overflow-y: auto;
   }
 
