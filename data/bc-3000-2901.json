@@ -4,17 +4,8 @@
     "dynasties": [],
     "events": [
       {
-        "title": "中国丝织起源",
-        "description": "公元前3000年，中国的科技发展取得重要进展，中国丝织起源推动了相关领域的技术进步。",
-        "latitude": 30.5,
-        "longitude": 120.0,
-        "category": "科技",
-        "region": "中国",
-        "continent": "亚洲"
-      },
-      {
         "title": "拉皮塔文化",
-        "description": "公元前3000年，南太平洋地区的文化艺术领域取得了重要成就，拉皮塔文化成为这一时期的文化代表。",
+        "description": "公元前3000年在南太平洋地区，拉皮塔文化。这一文化成果在当时和后世都具有重要意义。",
         "latitude": -20.0,
         "longitude": 170.0,
         "category": "文化",

@@ -41,7 +41,10 @@
   </script>
 
   <link rel="canonical" href="https://shilu.org">
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="preconnect" href="https://unpkg.com" crossorigin>
+  <link rel="dns-prefetch" href="https://unpkg.com">
+  <link rel="preload" as="style" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"></noscript>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -116,8 +119,10 @@
     </div>
 
     <footer id="copyright">
-      <span>&copy; 2026 实录 shilu.org 在5061年中的7243件事</span>
+      <span>&copy; 2026 实录 shilu.org 在5062年中的7237件事</span>
     </footer>
+
+    <div id="bg-progress"></div>
 
     <div id="loading-overlay" class="hidden">
       <div class="spinner"></div>
@@ -138,7 +143,7 @@
     </div>
   </div>
 
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script src="app.js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" defer></script>
+  <script src="app.js" defer></script>
 </body>
 </html>

@@ -248,7 +248,7 @@ html, body {
   background: var(--color-surface);
   border-left: 1px solid var(--color-border);
   box-shadow: var(--shadow-lg);
-  z-index: 600;
+  z-index: 1001;
   display: flex;
   flex-direction: column;
   transition: transform var(--transition-normal);
@@ -454,14 +454,53 @@ html, body {
 
 #loading-overlay {
   position: fixed;
-  inset: 0;
-  background: rgba(13, 17, 23, 0.85);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--color-bg);
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  z-index: 1000;
-  gap: var(--spacing-md);
+  z-index: 9999;
+  transition: opacity 0.3s ease;
+}
+
+#loading-overlay.hidden {
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* Background progress bar for data preload */
+#bg-progress {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 2px;
+  background: linear-gradient(90deg, var(--color-accent), var(--color-dynasty));
+  z-index: 100;
+  transition: width 0.3s ease;
+  width: 0;
+}
+
+#bg-progress.active {
+  width: 100%;
+}
+
+#bg-progress.complete {
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+/* Initial content fade-in */
+#app {
+  opacity: 0;
+  animation: app-fade-in 0.5s ease forwards;
+}
+
+@keyframes app-fade-in {
+  to { opacity: 1; }
 }
 
 #loading-overlay.hidden {
@@ -785,6 +824,11 @@ kbd {
     --header-height: 34px;
   }
 
+  #event-detail-panel {
+    width: 85vw;
+    z-index: 1001;
+  }
+
   #map-area {
     flex: 3;
     min-height: 50vh;
@@ -801,6 +845,10 @@ kbd {
   }
 
   #shortcut-btn {
+    display: none;
+  }
+
+  .rule-year {
     display: none;
   }
 
