@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>历史趣味问答 - 实录 shilu.org</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎯</text></svg>">
+  <link rel="stylesheet" href="common.css">
+  <style>
+    #app { max-width:720px; margin:0 auto; min-height:100vh; display:flex; flex-direction:column; }
+    .page-header { border-bottom: 1px solid var(--color-border); }
+
+    #game {
+      flex:1; display:flex; flex-direction:column; padding:20px 16px;
+    }
+    #game.hidden { display:none; }
+
+    #level-section {
+      text-align:center; margin-bottom:24px;
+    }
+    #level-title { font-size:13px; color:var(--color-text-muted); margin-bottom:4px; }
+    #level-display {
+      display:flex; align-items:center; justify-content:center; gap:10px;
+      transition: all 0.3s ease;
+    }
+    #level-icon {
+      font-size:28px; transition: all 0.3s ease;
+    }
+    #level-name {
+      font-size:24px; font-weight:700;
+      transition: all 0.3s ease;
+    }
+    #level-progress { margin-top:8px; display:flex; align-items:center; gap:8px; justify-content:center; }
+    #level-bar-bg { width:200px; height:6px; background:var(--color-border); border-radius:3px; overflow:hidden; }
+    #level-bar-fill { height:100%; width:0%; background:linear-gradient(90deg,var(--color-accent),var(--color-dynasty)); border-radius:3px; transition:width 0.3s; }
+    #level-percent { font-size:11px; color:var(--color-text-muted); min-width:30px; }
+
+    #question-section { flex:1; display:flex; flex-direction:column; }
+    #question-type { font-size:11px; color:var(--color-text-muted); margin-bottom:4px; }
+    #question-text { font-size:16px; font-weight:500; margin-bottom:20px; line-height:1.6; min-height:48px; }
+    .question-highlight { color:var(--color-dynasty); font-weight:600; }
+
+    #options { display:flex; flex-direction:column; gap:8px; margin-bottom:20px; }
+    .option-btn {
+      display:block; width:100%; text-align:left; padding:12px 16px;
+      background:var(--color-surface); border:1px solid var(--color-border);
+      border-radius:var(--radius-md); font-size:14px; font-family:inherit;
+      cursor:pointer; transition:all 0.15s; line-height:1.4;
+    }
+    .option-btn:hover:not(.disabled) { background:var(--color-surface-hover); border-color:var(--color-accent); }
+    .option-btn.selected { border-color:var(--color-accent); background:rgba(88,166,255,0.1); }
+    .option-btn.correct { border-color:var(--color-success); background:rgba(63,185,80,0.15); color:var(--color-success); }
+    .option-btn.wrong { border-color:var(--color-danger); background:rgba(248,81,73,0.15); color:var(--color-danger); }
+    .option-btn.disabled { cursor:default; opacity:0.7; }
+    .option-btn .opt-label { font-size:11px; color:var(--color-text-muted); margin-right:8px; }
+
+    #feedback {
+      padding:12px 16px; border-radius:var(--radius-md); font-size:13px; margin-bottom:16px; display:none;
+    }
+    #feedback.correct { display:block; background:rgba(63,185,80,0.1); border:1px solid rgba(63,185,80,0.3); color:var(--color-success); }
+    #feedback.wrong { display:block; background:rgba(248,81,73,0.1); border:1px solid rgba(248,81,73,0.3); color:var(--color-danger); }
+
+    #next-btn {
+      display:none; width:100%; padding:10px; background:var(--color-accent);
+      color:#fff; border:none; border-radius:var(--radius-md); font-size:14px; font-family:inherit;
+      cursor:pointer; font-weight:600; transition:opacity 0.15s;
+    }
+    #next-btn:hover { opacity:0.9; }
+    #next-btn.show { display:block; }
+
+    #reset-section { text-align:center; margin-top:24px; padding-top:16px; border-top:1px solid var(--color-border); flex-shrink:0; }
+    #reset-btn { font-size:11px; color:var(--color-text-muted); background:none; border:1px solid var(--color-border); padding:4px 12px; border-radius:var(--radius-sm); cursor:pointer; font-family:inherit; }
+    #reset-btn:hover { color:var(--color-danger); border-color:var(--color-danger); }
+
+    .level-up { animation:levelUp 0.5s ease; }
+    @keyframes levelUp {
+      0% { transform:scale(1); }
+      50% { transform:scale(1.15); }
+      100% { transform:scale(1); }
+    }
+
+    @media (max-width:480px) {
+      #game { padding:12px 12px; }
+      #question-text { font-size:15px; }
+      .option-btn { padding:10px 12px; font-size:13px; }
+    }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <header class="page-header">
+      <h1>历史趣味问答</h1>
+      <div class="header-right">
+        <button id="theme-toggle" title="亮/暗切换">🌙</button>
+        <a href="all-events.html">事件列表</a>
+        <a href="index.html">返回首页</a>
+      </div>
+    </header>
+
+    <div id="loading">
+      <div class="spinner"></div>
+      <span>加载全站事件数据中...</span>
+    </div>
+
+    <div id="game" class="hidden">
+      <div id="level-section">
+        <div id="level-title">当前修为</div>
+        <div id="level-display">
+          <span id="level-icon">🧘</span>
+          <span id="level-name">炼气一层</span>
+        </div>
+        <div id="level-progress">
+          <span id="level-percent">0%</span>
+          <div id="level-bar-bg"><div id="level-bar-fill"></div></div>
+        </div>
+      </div>
+
+      <div id="question-section">
+        <div id="question-type"></div>
+        <div id="question-text"></div>
+        <div id="options"></div>
+        <div id="feedback"></div>
+        <button id="next-btn">下一题</button>
+      </div>
+
+      <div id="reset-section">
+        <button id="reset-btn">重置修为</button>
+      </div>
+    </div>
+
+    <footer id="copyright">
+      <span>&copy; 2026 实录 shilu.org 游弋在人类文明的5062年中</span>
+    </footer>
+  </div>
+
+  <script src="theme.js"></script>
+  <script>
+    (async function() {
+      const DATA_FILES = [
+        'data/bc-3200-3101.json','data/bc-3000-2901.json','data/bc-2700-2601.json',
+        'data/bc-2600-2501.json','data/bc-2500-2401.json','data/bc-2200-2101.json',
+        'data/bc-2100-2001.json','data/bc-2000-1901.json','data/bc-1900-1801.json',
+        'data/bc-1800-1701.json','data/bc-1700-1601.json','data/bc-1600-1501.json',
+        'data/bc-1500-1401.json','data/bc-1400-1301.json','data/bc-1300-1201.json',
+        'data/bc-1200-1101.json','data/bc-1100-1001.json','data/bc-1000-0901.json',
+        'data/bc-0900-0801.json','data/bc-0800-0701.json','data/bc-0700-0601.json',
+        'data/bc-0600-0501.json','data/bc-0500-0401.json','data/bc-0400-0301.json',
+        'data/bc-0300-0201.json','data/bc-0200-0101.json','data/bc-0100-0001.json',
+        'data/0001-0100.json','data/0101-0200.json','data/0201-0300.json',
+        'data/0301-0400.json','data/0401-0500.json','data/0501-0600.json',
+        'data/0601-0700.json','data/0701-0800.json','data/0801-0900.json',
+        'data/0901-1000.json','data/1001-1100.json','data/1101-1200.json',
+        'data/1201-1300.json','data/1301-1400.json','data/1401-1500.json',
+        'data/1501-1600.json','data/1601-1700.json','data/1701-1800.json',
+        'data/1801-1900.json','data/1901-2000.json'
+      ]
+
+      const LEVELS = [
+        '炼气一层','炼气二层','炼气三层','炼气四层','炼气五层','炼气六层','炼气七层','炼气八层','炼气九层','炼气十层',
+        '炼气十一层','炼气十二层','炼气十三层',
+        '筑基初期','筑基中期','筑基后期','筑基巅峰',
+        '结丹初期','结丹中期','结丹后期','结丹巅峰',
+        '元婴初期','元婴中期','元婴后期','元婴巅峰',
+        '化神初期','化神中期','化神后期','化神巅峰',
+        '炼虚初期','炼虚中期','炼虚后期','炼虚巅峰',
+        '合体初期','合体中期','合体后期','合体巅峰',
+        '大乘初期','大乘中期','大乘后期','大乘巅峰',
+        '渡劫期',
+        '真仙初期','真仙中期','真仙后期','真仙巅峰',
+        '金仙初期','金仙中期','金仙后期','金仙巅峰',
+        '太乙仙初期','太乙仙中期','太乙仙后期','太乙仙巅峰',
+        '大罗仙初期','大罗仙中期','大罗仙后期','大罗仙巅峰',
+        '大罗仙圆满',
+        '道祖'
+      ]
+
+      const REALM_INFO = [
+        { start: 0, end: 12, icon: '\u{1F9D8}', color: '#4ade80', name: '炼气' },
+        { start: 13, end: 16, icon: '\u{2694}\u{FE0F}', color: '#2dd4bf', name: '筑基' },
+        { start: 17, end: 20, icon: '\u{1F52E}', color: '#a78bfa', name: '结丹' },
+        { start: 21, end: 24, icon: '\u{1F476}', color: '#f472b6', name: '元婴' },
+        { start: 25, end: 28, icon: '\u{1F525}', color: '#fb923c', name: '化神' },
+        { start: 29, end: 32, icon: '\u{1F30C}', color: '#38bdf8', name: '炼虚' },
+        { start: 33, end: 36, icon: '\u{26D3}\u{FE0F}', color: '#fbbf24', name: '合体' },
+        { start: 37, end: 40, icon: '\u{1F6A2}', color: '#f87171', name: '大乘' },
+        { start: 41, end: 41, icon: '\u{26A1}', color: '#fef08a', name: '渡劫' },
+        { start: 42, end: 45, icon: '\u{1F54A}', color: '#67e8f9', name: '真仙' },
+        { start: 46, end: 49, icon: '\u{1F451}', color: '#fcd34d', name: '金仙' },
+        { start: 50, end: 53, icon: '\u{1F31F}', color: '#e879f9', name: '太乙仙' },
+        { start: 54, end: 57, icon: '\u{1F319}', color: '#818cf8', name: '大罗仙' },
+        { start: 58, end: 58, icon: '\u{262F}\u{FE0F}', color: '#c084fc', name: '大罗仙圆满' },
+        { start: 59, end: 59, icon: '\u{1F409}', color: '#fbbf24', name: '道祖' },
+      ]
+
+      const STORAGE_KEY = 'shilu_quiz_level'
+
+      let allEvents = []
+      let currentLevel = 0
+      let correctEvent = null
+      let questionType = null
+      let answered = false
+
+      const loadingEl = document.getElementById('loading')
+      const gameEl = document.getElementById('game')
+      const levelIconEl = document.getElementById('level-icon')
+      const levelNameEl = document.getElementById('level-name')
+      const levelBarFill = document.getElementById('level-bar-fill')
+      const levelPercent = document.getElementById('level-percent')
+      const questionTypeEl = document.getElementById('question-type')
+      const questionTextEl = document.getElementById('question-text')
+      const optionsEl = document.getElementById('options')
+      const feedbackEl = document.getElementById('feedback')
+      const nextBtn = document.getElementById('next-btn')
+      const resetBtn = document.getElementById('reset-btn')
+
+      function getRealmInfo(level) {
+        for (const r of REALM_INFO) {
+          if (level >= r.start && level <= r.end) return r
+        }
+        return REALM_INFO[0]
+      }
+
+      function formatYear(y) { return y < 0 ? `公元前${Math.abs(y)}年` : `公元${y}年` }
+
+      function shuffle(arr) {
+        const a = [...arr]
+        for (let i = a.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [a[i], a[j]] = [a[j], a[i]]
+        }
+        return a
+      }
+
+      function pickRandom(arr, n) {
+        const shuffled = shuffle(arr)
+        return shuffled.slice(0, n)
+      }
+
+      function updateLevelUI() {
+        const realm = getRealmInfo(currentLevel)
+        const totalLevels = LEVELS.length - 1
+        const scale = 24 + (currentLevel / totalLevels) * 22
+        const iconScale = 28 + (currentLevel / totalLevels) * 24
+
+        levelIconEl.textContent = realm.icon
+        levelIconEl.style.fontSize = iconScale + 'px'
+        levelNameEl.textContent = LEVELS[currentLevel]
+        levelNameEl.style.color = realm.color
+        levelNameEl.style.fontSize = scale + 'px'
+
+        const pct = (currentLevel / totalLevels) * 100
+        levelBarFill.style.width = pct + '%'
+        levelPercent.textContent = Math.round(pct) + '%'
+      }
+
+      function saveLevel() {
+        try { localStorage.setItem(STORAGE_KEY, currentLevel) } catch(e) {}
+      }
+
+      function loadLevel() {
+        try {
+          const saved = localStorage.getItem(STORAGE_KEY)
+          if (saved !== null) {
+            const n = parseInt(saved, 10)
+            if (n >= 0 && n < LEVELS.length) currentLevel = n
+          }
+        } catch(e) {}
+      }
+
+      function generateQuestion() {
+        if (allEvents.length < 4) return
+        answered = false
+        nextBtn.classList.remove('show')
+        feedbackEl.className = ''
+        feedbackEl.style.display = 'none'
+
+        correctEvent = allEvents[Math.floor(Math.random() * allEvents.length)]
+
+        const useYearQuestion = Math.random() < 0.5
+
+        if (useYearQuestion) {
+          questionType = 'year'
+          const wrongYears = new Set()
+          wrongYears.add(correctEvent.year)
+          while (wrongYears.size < 4) {
+            const randEvt = allEvents[Math.floor(Math.random() * allEvents.length)]
+            if (randEvt.year !== correctEvent.year) {
+              wrongYears.add(randEvt.year)
+            }
+          }
+          const yearOptions = shuffle([...wrongYears])
+          const correctYear = correctEvent.year
+
+          questionTypeEl.textContent = '\u{1F4C5} 年份推断'
+          questionTextEl.innerHTML = `"<span class="question-highlight">${correctEvent.title}</span>" 发生在哪一年？`
+
+          let html = ''
+          const labels = ['A', 'B', 'C', 'D']
+          yearOptions.forEach((y, i) => {
+            html += `<button class="option-btn" data-value="${y}" data-correct="${y === correctYear}">
+              <span class="opt-label">${labels[i]}.</span> ${formatYear(y)}
+            </button>`
+          })
+          optionsEl.innerHTML = html
+        } else {
+          questionType = 'event'
+          let wrongEvents = []
+          const pool = allEvents.filter(e => e.year !== correctEvent.year)
+          const picked = pickRandom(pool, 3)
+          wrongEvents = picked.map(e => ({ title: e.title, year: e.year }))
+
+          const allOptions = shuffle([
+            { title: correctEvent.title, year: correctEvent.year, correct: true },
+            ...wrongEvents.map(e => ({ title: e.title, year: e.year, correct: false }))
+          ])
+
+          questionTypeEl.textContent = '\u{1F4D6} 事件匹配'
+          questionTextEl.innerHTML = `以下哪个事件发生在 <span class="question-highlight">${formatYear(correctEvent.year)}</span>？`
+
+          let html = ''
+          const labels = ['A', 'B', 'C', 'D']
+          allOptions.forEach((opt, i) => {
+            html += `<button class="option-btn" data-value="${opt.title.replace(/"/g,'&quot;')}" data-correct="${opt.correct}">
+              <span class="opt-label">${labels[i]}.</span> ${opt.title}
+            </button>`
+          })
+          optionsEl.innerHTML = html
+        }
+
+        optionsEl.querySelectorAll('.option-btn').forEach(btn => {
+          btn.addEventListener('click', () => handleAnswer(btn))
+        })
+      }
+
+      function handleAnswer(btn) {
+        if (answered) return
+        answered = true
+
+        const isCorrect = btn.dataset.correct === 'true'
+
+        optionsEl.querySelectorAll('.option-btn').forEach(b => {
+          b.classList.add('disabled')
+          if (b.dataset.correct === 'true') b.classList.add('correct')
+          if (b === btn && !isCorrect) b.classList.add('wrong')
+          if (b === btn) b.classList.add('selected')
+        })
+
+        if (isCorrect) {
+          feedbackEl.className = 'correct'
+          feedbackEl.textContent = '\u2713 回答正确！修为 +1'
+          feedbackEl.style.display = 'block'
+          currentLevel = Math.min(currentLevel + 1, LEVELS.length - 1)
+          saveLevel()
+          updateLevelUI()
+          levelNameEl.classList.add('level-up')
+          levelIconEl.classList.add('level-up')
+          setTimeout(() => {
+            levelNameEl.classList.remove('level-up')
+            levelIconEl.classList.remove('level-up')
+          }, 500)
+        } else {
+          const correctYear = correctEvent.year
+          const correctTitle = correctEvent.title
+          let answerStr = questionType === 'year'
+            ? `正确答案是 ${formatYear(correctYear)}`
+            : `正确答案是\u300C${correctTitle}\u300D（${formatYear(correctYear)}）`
+          feedbackEl.className = 'wrong'
+          feedbackEl.textContent = `\u2717 回答错误。${answerStr}`
+          feedbackEl.style.display = 'block'
+        }
+
+        nextBtn.classList.add('show')
+      }
+
+      nextBtn.addEventListener('click', generateQuestion)
+
+      resetBtn.addEventListener('click', () => {
+        if (confirm('确定要重置修为吗？')) {
+          currentLevel = 0
+          saveLevel()
+          updateLevelUI()
+          generateQuestion()
+        }
+      })
+
+      loadingEl.classList.remove('hidden')
+      const CHUNK = 5
+      for (let i = 0; i < DATA_FILES.length; i += CHUNK) {
+        const chunk = DATA_FILES.slice(i, i + CHUNK)
+        const results = await Promise.all(chunk.map(async file => {
+          try {
+            const resp = await fetch(file)
+            if (resp.ok) return await resp.json()
+          } catch(e) {}
+          return []
+        }))
+        for (const data of results) {
+          if (data && Array.isArray(data)) {
+            for (const entry of data) {
+              if (entry.events && entry.events.length > 0) {
+                for (const evt of entry.events) {
+                  allEvents.push({ year: entry.year, ...evt })
+                }
+              }
+            }
+          }
+        }
+      }
+      loadingEl.classList.add('hidden')
+      gameEl.classList.remove('hidden')
+
+      loadLevel()
+      updateLevelUI()
+      generateQuestion()
+    })()
+  </script>
+</body>
+</html>

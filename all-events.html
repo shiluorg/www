@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>全站事件列表 - 实录 shilu.org</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📜</text></svg>">
+  <link rel="stylesheet" href="common.css">
+  <style>
+    #app { max-width: 1200px; margin: 0 auto; min-height: 100vh; display: flex; flex-direction: column; }
+    .page-header { border-bottom: 1px solid var(--color-border); }
+    #controls { display:flex; align-items:center; gap:12px; padding:6px 16px; background:var(--color-surface); border-bottom:1px solid var(--color-border); flex-shrink:0; }
+    #event-count { font-size:11px; color:var(--color-text-muted); white-space:nowrap; }
+    #filter-input { flex:1; max-width:400px; background:var(--color-bg); border:1px solid var(--color-border); border-radius:var(--radius-sm); padding:4px 10px; font-size:13px; color:var(--color-text); font-family:inherit; outline:none; }
+    #filter-input:focus { border-color:var(--color-accent); }
+    #event-list { flex:1; overflow-y:auto; padding:0; }
+    .event-item { display:flex; align-items:flex-start; gap:10px; padding:6px 16px; border-bottom:1px solid rgba(48,54,61,0.4); cursor:pointer; transition:background var(--transition-fast); }
+    .event-item:hover { background:var(--color-surface-hover); }
+    .event-year { font-size:12px; font-weight:600; color:var(--color-accent); min-width:90px; flex-shrink:0; padding-top:1px; }
+    .event-body { flex:1; min-width:0; }
+    .event-title { font-size:13px; font-weight:500; }
+    .event-meta { display:flex; gap:4px; margin-top:2px; flex-wrap:wrap; }
+    .event-tag { font-size:10px; padding:0 5px; border-radius:2px; background:var(--color-surface-hover); border:1px solid var(--color-border); color:var(--color-text-muted); }
+    .event-tag.region { color:var(--color-dynasty); border-color:rgba(240,136,62,0.3); background:rgba(240,136,62,0.1); }
+    .event-tag.continent { color:var(--color-accent); border-color:rgba(88,166,255,0.3); background:rgba(88,166,255,0.1); }
+    .event-desc { font-size:11px; color:var(--color-text-muted); margin-top:2px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; max-width:600px; }
+    .no-match { text-align:center; padding:40px; color:var(--color-text-muted); }
+    .page-content { flex: 1; display: flex; flex-direction: column; overflow: hidden; }
+    @media (max-width: 767px) {
+      #controls { padding: 4px 10px; gap: 8px; flex-wrap: wrap; }
+      #filter-input { max-width: none; }
+      .event-item { padding: 5px 10px; }
+      .event-year { min-width: 70px; font-size: 11px; }
+    }
+    @media (max-width: 480px) {
+      .event-desc { max-width: none; }
+    }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <header class="page-header">
+      <h1>全站事件列表</h1>
+      <div class="header-right">
+        <button id="theme-toggle" title="亮/暗切换">🌙</button>
+        <a href="quiz.html">🎯 趣味问答</a>
+        <a href="index.html">← 返回首页</a>
+      </div>
+    </header>
+    <div id="controls">
+      <span id="event-count">加载中...</span>
+      <input type="text" id="filter-input" placeholder="筛选事件标题、地区、描述..." />
+    </div>
+    <div class="page-content">
+      <div id="loading">加载全站事件数据中...</div>
+      <div id="event-list"></div>
+    </div>
+    <footer id="copyright">
+      <span>&copy; 2026 实录 shilu.org 游弋在人类文明的5062年中</span>
+    </footer>
+  </div>
+
+  <script src="theme.js"></script>
+  <script>
+    (async function() {
+      const DATA_FILES = [
+        'data/bc-3200-3101.json','data/bc-3000-2901.json','data/bc-2700-2601.json',
+        'data/bc-2600-2501.json','data/bc-2500-2401.json','data/bc-2200-2101.json',
+        'data/bc-2100-2001.json','data/bc-2000-1901.json','data/bc-1900-1801.json',
+        'data/bc-1800-1701.json','data/bc-1700-1601.json','data/bc-1600-1501.json',
+        'data/bc-1500-1401.json','data/bc-1400-1301.json','data/bc-1300-1201.json',
+        'data/bc-1200-1101.json','data/bc-1100-1001.json','data/bc-1000-0901.json',
+        'data/bc-0900-0801.json','data/bc-0800-0701.json','data/bc-0700-0601.json',
+        'data/bc-0600-0501.json','data/bc-0500-0401.json','data/bc-0400-0301.json',
+        'data/bc-0300-0201.json','data/bc-0200-0101.json','data/bc-0100-0001.json',
+        'data/0001-0100.json','data/0101-0200.json','data/0201-0300.json',
+        'data/0301-0400.json','data/0401-0500.json','data/0501-0600.json',
+        'data/0601-0700.json','data/0701-0800.json','data/0801-0900.json',
+        'data/0901-1000.json','data/1001-1100.json','data/1101-1200.json',
+        'data/1201-1300.json','data/1301-1400.json','data/1401-1500.json',
+        'data/1501-1600.json','data/1601-1700.json','data/1701-1800.json',
+        'data/1801-1900.json','data/1901-2000.json'
+      ]
+      const loadingEl = document.getElementById('loading')
+      const listEl = document.getElementById('event-list')
+      const countEl = document.getElementById('event-count')
+      const filterInput = document.getElementById('filter-input')
+
+      let allEvents = []
+      let filteredEvents = []
+
+      function formatYear(y) { return y < 0 ? `公元前${Math.abs(y)}年` : `公元${y}年` }
+
+      function renderEvents(events) {
+        if (events.length === 0) {
+          listEl.innerHTML = '<div class="no-match">未找到匹配事件</div>'
+          return
+        }
+        let html = ''
+        for (const evt of events) {
+          const yearStr = formatYear(evt.year)
+          const desc = (evt.description || '').substring(0, 80) + ((evt.description || '').length > 80 ? '…' : '')
+          html += `<div class="event-item" data-year="${evt.year}" data-title="${evt.title.replace(/"/g,'&quot;')}">
+            <div class="event-year">${yearStr}</div>
+            <div class="event-body">
+              <div class="event-title">${evt.title}</div>
+              <div class="event-meta">
+                <span class="event-tag">${evt.category || '事件'}</span>
+                ${evt.region ? `<span class="event-tag region">${evt.region}</span>` : ''}
+                ${evt.continent ? `<span class="event-tag continent">${evt.continent}</span>` : ''}
+              </div>
+              <div class="event-desc">${desc}</div>
+            </div>
+          </div>`
+        }
+        listEl.innerHTML = html
+
+        listEl.querySelectorAll('.event-item').forEach(item => {
+          item.addEventListener('click', () => {
+            const year = item.dataset.year
+            const title = item.dataset.title
+            window.location.href = `event-detail.html?year=${year}&title=${encodeURIComponent(title)}`
+          })
+        })
+      }
+
+      function filterEvents(query) {
+        const q = query.toLowerCase()
+        if (!q) {
+          filteredEvents = allEvents
+        } else {
+          filteredEvents = allEvents.filter(evt =>
+            (evt.title && evt.title.toLowerCase().includes(q)) ||
+            (evt.region && evt.region.toLowerCase().includes(q)) ||
+            (evt.description && evt.description.toLowerCase().includes(q)) ||
+            (evt.continent && evt.continent.toLowerCase().includes(q)) ||
+            (evt.category && evt.category.toLowerCase().includes(q))
+          )
+        }
+        countEl.textContent = `共 ${allEvents.length} 条记录，显示 ${filteredEvents.length} 条`
+        renderEvents(filteredEvents)
+      }
+
+      loadingEl.classList.remove('hidden')
+      const CHUNK = 5
+      for (let i = 0; i < DATA_FILES.length; i += CHUNK) {
+        const chunk = DATA_FILES.slice(i, i + CHUNK)
+        const results = await Promise.all(chunk.map(async file => {
+          try {
+            const resp = await fetch(file)
+            if (resp.ok) return await resp.json()
+          } catch(e) {}
+          return []
+        }))
+        for (const data of results) {
+          if (data && Array.isArray(data)) {
+            for (const entry of data) {
+              if (entry.events && entry.events.length > 0) {
+                for (const evt of entry.events) {
+                  allEvents.push({ year: entry.year, ...evt })
+                }
+              }
+            }
+          }
+        }
+      }
+      loadingEl.classList.add('hidden')
+
+      allEvents.sort((a, b) => a.year - b.year)
+
+      filterInput.addEventListener('input', () => filterEvents(filterInput.value.trim()))
+
+      filterEvents('')
+    })()
+  </script>
+</body>
+</html>

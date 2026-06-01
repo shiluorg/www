@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>事件详情 - 实录 shilu.org</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📜</text></svg>">
+  <link rel="stylesheet" href="common.css">
+  <style>
+    #app { max-width:800px; margin:0 auto; min-height:100vh; display:flex; flex-direction:column; }
+    .page-header { border-bottom: 1px solid var(--color-border); }
+    .page-header h1 { font-size:18px; font-weight:700; color:var(--color-accent); }
+    .nav-links { display:flex; gap:16px; }
+    .page-content { flex:1; padding:24px 16px; }
+    #error { text-align:center; padding:60px 0; color:var(--color-text-muted); }
+    #error.hidden { display:none; }
+    #content.hidden { display:none; }
+    .event-year { font-size:32px; font-weight:700; color:var(--color-accent); margin-bottom:8px; }
+    .event-title { font-size:22px; font-weight:600; margin-bottom:16px; line-height:1.4; }
+    .event-tags { display:flex; gap:6px; margin-bottom:20px; flex-wrap:wrap; }
+    .event-tag { font-size:11px; padding:3px 10px; border-radius:var(--radius-sm); border:1px solid var(--color-border); background:var(--color-surface-hover); color:var(--color-text-muted); }
+    .event-tag.region { color:var(--color-dynasty); border-color:rgba(240,136,62,0.3); background:rgba(240,136,62,0.1); }
+    .event-tag.continent { color:var(--color-accent); border-color:rgba(88,166,255,0.3); background:rgba(88,166,255,0.1); }
+    .event-description { font-size:15px; line-height:1.9; color:var(--color-text-muted); }
+    .dynasty-info { margin-top:20px; padding:12px 16px; background:var(--color-surface); border:1px solid var(--color-border); border-radius:var(--radius-md); }
+    .dynasty-info h3 { font-size:13px; color:var(--color-text-muted); margin-bottom:6px; }
+    .dynasty-info p { font-size:13px; }
+    @media (max-width: 767px) {
+      .page-content { padding:16px 12px; }
+      .event-year { font-size:26px; }
+      .event-title { font-size:18px; }
+      .event-description { font-size:14px; }
+      .page-header h1 { font-size:16px; }
+    }
+    @media (max-width: 480px) {
+      .nav-links { gap:10px; }
+      .event-year { font-size:22px; }
+      .event-title { font-size:16px; }
+    }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <header class="page-header">
+      <a href="index.html">← 首页</a>
+      <h1>事件详情</h1>
+      <div class="header-right">
+        <button id="theme-toggle" title="亮/暗切换">🌙</button>
+        <div class="nav-links">
+          <a href="all-events.html">事件列表</a>
+          <a href="quiz.html">趣味问答</a>
+        </div>
+      </div>
+    </header>
+    <div class="page-content">
+      <div id="loading"><div class="spinner"></div><span>加载中...</span></div>
+      <div id="error" class="hidden">未找到该事件</div>
+      <div id="content" class="hidden">
+        <div class="event-year" id="year-display"></div>
+        <div class="event-title" id="title-display"></div>
+        <div class="event-tags" id="tags-display"></div>
+        <div class="event-description" id="desc-display"></div>
+        <div class="dynasty-info hidden" id="dynasty-display">
+          <h3>所属朝代</h3>
+          <p id="dynasty-text"></p>
+        </div>
+      </div>
+    </div>
+    <footer id="copyright">
+      <span>&copy; 2026 实录 shilu.org 游弋在人类文明的5062年中</span>
+    </footer>
+  </div>
+
+  <script src="theme.js"></script>
+  <script>
+    (async function() {
+      const params = new URLSearchParams(window.location.search)
+      const year = parseInt(params.get('year'), 10)
+      const title = params.get('title')
+
+      const loadingEl = document.getElementById('loading')
+      const errorEl = document.getElementById('error')
+      const contentEl = document.getElementById('content')
+      const yearDisplay = document.getElementById('year-display')
+      const titleDisplay = document.getElementById('title-display')
+      const tagsDisplay = document.getElementById('tags-display')
+      const descDisplay = document.getElementById('desc-display')
+      const dynastyDisplay = document.getElementById('dynasty-display')
+      const dynastyText = document.getElementById('dynasty-text')
+
+      function formatYear(y) { return y < 0 ? `公元前${Math.abs(y)}年` : `公元${y}年` }
+
+      if (!year || !title) {
+        loadingEl.classList.add('hidden')
+        errorEl.classList.remove('hidden')
+        return
+      }
+
+      function getFileName(year) {
+        if (year < 0) {
+          const absYear = Math.abs(year)
+          const start = Math.floor((absYear - 1) / 100) * 100 + 1
+          const end = start + 99
+          return `data/bc-${String(end).padStart(4,'0')}-${String(start).padStart(4,'0')}.json`
+        } else {
+          const start = Math.floor((year - 1) / 100) * 100 + 1
+          const end = start + 99
+          return `data/${String(start).padStart(4,'0')}-${String(end).padStart(4,'0')}.json`
+        }
+      }
+
+      try {
+        const resp = await fetch(getFileName(year))
+        if (!resp.ok) throw new Error('Not found')
+        const data = await resp.json()
+        const entry = data.find(d => d.year === year)
+        if (!entry) throw new Error('Year not found')
+        const evt = entry.events.find(e => e.title === title)
+        if (!evt) throw new Error('Event not found')
+
+        loadingEl.classList.add('hidden')
+        contentEl.classList.remove('hidden')
+
+        yearDisplay.textContent = formatYear(year)
+        titleDisplay.textContent = evt.title
+
+        let tagsHtml = `<span class="event-tag">${evt.category || '历史事件'}</span>`
+        if (evt.region) tagsHtml += `<span class="event-tag region">${evt.region}</span>`
+        if (evt.continent) tagsHtml += `<span class="event-tag continent">${evt.continent}</span>`
+        tagsDisplay.innerHTML = tagsHtml
+
+        descDisplay.textContent = evt.description || '暂无描述'
+
+        if (entry.dynasties && entry.dynasties.length > 0) {
+          dynastyDisplay.classList.remove('hidden')
+          const dyn = entry.dynasties[0]
+          dynastyText.textContent = `${dyn.name}（${dyn.ruler || ''}，${dyn.era || ''}）`
+        }
+
+        document.title = `${evt.title} - 实录 shilu.org`
+      } catch(err) {
+        loadingEl.classList.add('hidden')
+        errorEl.classList.remove('hidden')
+      }
+    })()
+  </script>
+</body>
+</html>
