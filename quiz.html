@@ -391,10 +391,64 @@
         }
       })
 
+      const LOADING_MSGS = [
+        '正在穿越11512年的人类文明长河……',
+        '请稍候，历史的大门正在缓缓打开……',
+        '从公元前9600年的哥贝克力石阵，到公元1912年的清朝落幕……',
+        '加载中…… 这趟时空列车跨越了11512年！',
+        '请稍等，文明碎片正在聚集中……',
+        '加载中…… 7570个历史事件正在排队入场！',
+        '冲鸭！正在从史前时代全速前进到近代……',
+        '加载中…… 每一秒都是历史的沉淀。',
+      ]
+
+      function setLoadingMsg() {
+        const idx = Math.floor(Math.random() * LOADING_MSGS.length)
+        const msg = LOADING_MSGS[idx]
+        const pct = allEvents.length ? Math.round((allEvents.length / 7570) * 100) : 0
+        loadingEl.innerHTML = `<div class="spinner"></div><p>${msg}</p>${pct > 0 ? `<p style="font-size:11px;color:var(--color-text-muted);margin-top:4px;">已加载 ${allEvents.length} 个事件（${pct}%）</p>` : ''}`
+      }
+
+      function addEventsFromData(data) {
+        if (data && Array.isArray(data)) {
+          for (const entry of data) {
+            if (entry.events && entry.events.length > 0) {
+              for (const evt of entry.events) {
+                allEvents.push({ year: entry.year, ...evt })
+              }
+            }
+          }
+        }
+      }
+
       loadingEl.classList.remove('hidden')
+      setLoadingMsg()
+
+      // Phase 1: Load first file immediately and start the game
+      try {
+        const firstResp = await fetch(DATA_FILES[0])
+        if (firstResp.ok) {
+          const firstData = await firstResp.json()
+          addEventsFromData(firstData)
+          setLoadingMsg()
+        }
+      } catch(e) {}
+      const remainingFiles = DATA_FILES.slice(1)
+
+      // Start the game with what we have (need at least 4 events)
+      setLoadingMsg()
+      if (allEvents.length >= 4) {
+        loadingEl.innerHTML = '<div style="text-align:center;margin-bottom:12px;"><div class="spinner" style="margin:0 auto 8px;"></div><p style="font-size:12px;color:var(--color-text-muted);">后台持续加载中，不影响答题……</p></div>'
+        gameEl.classList.remove('hidden')
+        loadLevel()
+        updateLevelUI()
+        generateQuestion()
+      }
+
+      // Phase 2: Load remaining files in background
       const CHUNK = 5
-      for (let i = 0; i < DATA_FILES.length; i += CHUNK) {
-        const chunk = DATA_FILES.slice(i, i + CHUNK)
+      for (let i = 0; i < remainingFiles.length; i += CHUNK) {
+        const chunk = remainingFiles.slice(i, i + CHUNK)
         const results = await Promise.all(chunk.map(async file => {
           try {
             const resp = await fetch(file)
@@ -403,23 +457,23 @@
           return []
         }))
         for (const data of results) {
-          if (data && Array.isArray(data)) {
-            for (const entry of data) {
-              if (entry.events && entry.events.length > 0) {
-                for (const evt of entry.events) {
-                  allEvents.push({ year: entry.year, ...evt })
-                }
-              }
-            }
-          }
+          addEventsFromData(data)
+        }
+        if (!gameEl.classList.contains('hidden')) {
+          // Brief update showing progress
+        } else if (allEvents.length >= 4) {
+          loadingEl.innerHTML = '<div style="text-align:center;margin-bottom:12px;"><div class="spinner" style="margin:0 auto 8px;"></div><p style="font-size:12px;color:var(--color-text-muted);">后台持续加载中，不影响答题……</p></div>'
+          gameEl.classList.remove('hidden')
+          loadLevel()
+          updateLevelUI()
+          generateQuestion()
+        } else {
+          setLoadingMsg()
         }
       }
-      loadingEl.classList.add('hidden')
-      gameEl.classList.remove('hidden')
 
-      loadLevel()
-      updateLevelUI()
-      generateQuestion()
+      // Done loading
+      loadingEl.classList.add('hidden')
     })()
   </script>
   
