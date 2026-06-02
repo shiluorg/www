@@ -4,6 +4,19 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>事件详情 - 实录 shilu.org</title>
+  <meta name="description" content="查看历史事件的详细介绍、时间、地点和相关背景。">
+  <meta name="robots" content="index, follow">
+  <meta property="og:title" content="事件详情 - 实录 shilu.org">
+  <meta property="og:description" content="查看历史事件的详细介绍。">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://shilu.org/event-detail.html">
+  <meta property="og:site_name" content="实录 shilu.org">
+  <meta property="og:locale" content="zh_CN">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="事件详情 - 实录 shilu.org">
+  <meta name="twitter:description" content="查看历史事件的详细介绍。">
+  <link rel="canonical" href="https://shilu.org/event-detail.html">
+  <link rel="sitemap" type="application/xml" href="/sitemap.xml">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📜</text></svg>">
   <link rel="stylesheet" href="common.css">
   <style>
@@ -143,7 +156,15 @@
           dynastyText.textContent = `${dyn.name}（${dyn.ruler || ''}，${dyn.era || ''}）`
         }
 
-        document.title = `${evt.title} - 实录 shilu.org`
+        // Dynamic SEO update
+        document.title = `${evt.title} (${formatYear(year)}) - 实录 shilu.org`
+        const desc = evt.description ? evt.description.substring(0, 160) : `${evt.title} - ${evt.region || ''} ${evt.category || '历史事件'}`
+        document.querySelector('meta[name="description"]')?.setAttribute('content', desc)
+        document.querySelector('meta[property="og:title"]')?.setAttribute('content', `${evt.title} (${formatYear(year)}) - 实录 shilu.org`)
+        document.querySelector('meta[property="og:description"]')?.setAttribute('content', desc)
+        document.querySelector('meta[property="og:url"]')?.setAttribute('content', `https://shilu.org/event-detail.html?year=${year}&title=${encodeURIComponent(evt.title)}`)
+        document.querySelector('meta[name="twitter:title"]')?.setAttribute('content', `${evt.title} (${formatYear(year)})`)
+        document.querySelector('meta[name="twitter:description"]')?.setAttribute('content', desc)
       } catch(err) {
         loadingEl.classList.add('hidden')
         errorEl.classList.remove('hidden')
