@@ -139,6 +139,9 @@
       <div id="reset-section">
         <button id="reset-btn">重置修为</button>
       </div>
+      <div id="bg-loading-indicator" style="display:none;text-align:center;padding:8px 16px;">
+        <p style="font-size:11px;color:var(--color-text-muted);margin:0;">后台持续加载中，不影响答题……</p>
+      </div>
     </div>
 
     <footer id="copyright">
@@ -150,17 +153,21 @@
   <script>
     (async function() {
       const DATA_FILES = [
-        'data/bc-9600-2001.json','data/bc-2000-1001.json','data/bc-1000-0901.json',
-        'data/bc-0900-0801.json','data/bc-0800-0701.json','data/bc-0700-0601.json',
-        'data/bc-0600-0501.json','data/bc-0500-0401.json','data/bc-0400-0301.json',
-        'data/bc-0300-0201.json','data/bc-0200-0101.json','data/bc-0100-0001.json',
+        // AD files first (closer to user's frame of reference)
         'data/0001-0100.json','data/0101-0200.json','data/0201-0300.json',
         'data/0301-0400.json','data/0401-0500.json','data/0501-0600.json',
         'data/0601-0700.json','data/0701-0800.json','data/0801-0900.json',
         'data/0901-1000.json','data/1001-1100.json','data/1101-1200.json',
         'data/1201-1300.json','data/1301-1400.json','data/1401-1500.json',
         'data/1501-1600.json','data/1601-1700.json','data/1701-1800.json',
-        'data/1801-1900.json','data/1901-2000.json'
+        'data/1801-1900.json','data/1901-2000.json',
+        // BC files next
+        'data/bc-0100-0001.json','data/bc-0200-0101.json','data/bc-0300-0201.json',
+        'data/bc-0400-0301.json','data/bc-0500-0401.json','data/bc-0600-0501.json',
+        'data/bc-0700-0601.json','data/bc-0800-0701.json','data/bc-0900-0801.json',
+        'data/bc-1000-0901.json',
+        // Merged ancient BC files last
+        'data/bc-2000-1001.json','data/bc-9600-2001.json'
       ]
 
       const LEVELS = [
@@ -209,6 +216,7 @@
       let answered = false
 
       const loadingEl = document.getElementById('loading')
+      const bgLoadingEl = document.getElementById('bg-loading-indicator')
       const gameEl = document.getElementById('game')
       const levelIconEl = document.getElementById('level-icon')
       const levelNameEl = document.getElementById('level-name')
@@ -438,7 +446,8 @@
       // Start the game with what we have (need at least 4 events)
       setLoadingMsg()
       if (allEvents.length >= 4) {
-        loadingEl.innerHTML = '<div style="text-align:center;margin-bottom:12px;"><div class="spinner" style="margin:0 auto 8px;"></div><p style="font-size:12px;color:var(--color-text-muted);">后台持续加载中，不影响答题……</p></div>'
+        bgLoadingEl.style.display = 'block'
+        loadingEl.classList.add('hidden')
         gameEl.classList.remove('hidden')
         loadLevel()
         updateLevelUI()
@@ -460,9 +469,10 @@
           addEventsFromData(data)
         }
         if (!gameEl.classList.contains('hidden')) {
-          // Brief update showing progress
+          // game already started, just continue background loading
         } else if (allEvents.length >= 4) {
-          loadingEl.innerHTML = '<div style="text-align:center;margin-bottom:12px;"><div class="spinner" style="margin:0 auto 8px;"></div><p style="font-size:12px;color:var(--color-text-muted);">后台持续加载中，不影响答题……</p></div>'
+          bgLoadingEl.style.display = 'block'
+          loadingEl.classList.add('hidden')
           gameEl.classList.remove('hidden')
           loadLevel()
           updateLevelUI()
@@ -473,6 +483,7 @@
       }
 
       // Done loading
+      bgLoadingEl.style.display = 'none'
       loadingEl.classList.add('hidden')
     })()
   </script>
