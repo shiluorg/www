@@ -1,5 +1,5 @@
 const App = (() => {
-  const YEAR_MIN = -2200
+  const YEAR_MIN = -10000
   const YEAR_MAX = 1912
   const YEAR_RANGE = YEAR_MAX - YEAR_MIN
 
@@ -11,7 +11,6 @@ const App = (() => {
     activeMarker: null,
     contentYears: [],
     contentYearIndex: {},
-    pixelsPerContentYear: 1.5,
     dataLoadProgress: 0,
     dataLoading: false,
     searchIndex: null,
@@ -66,6 +65,8 @@ const App = (() => {
   }
 
   const dynasties = [
+    { id: 'shiqian', name: '史前', start: -10000, end: -3501, color: '#6a6a5a' },
+    { id: 'shanggu', name: '上古', start: -3500, end: -2201, color: '#8a7a50' },
     { id: 'yu', name: '虞', start: -2200, end: -2071, color: '#c4a060' },
     { id: 'xia', name: '夏', start: -2070, end: -1600, color: '#d4a574' },
     { id: 'shang', name: '商', start: -1600, end: -1046, color: '#c9985e' },
@@ -172,9 +173,15 @@ const App = (() => {
       let name
       if (year < 0) {
         const absYear = Math.abs(year)
-        const start = Math.floor((absYear - 1) / 100) * 100 + 1
-        const end = start + 99
-        name = `data/bc-${String(end).padStart(4, '0')}-${String(start).padStart(4, '0')}.json`
+        if (absYear >= 1001 && absYear <= 2000) {
+          name = 'data/bc-2000-1001.json'
+        } else if (absYear >= 2001) {
+          name = 'data/bc-9600-2001.json'
+        } else {
+          const start = Math.floor((absYear - 1) / 100) * 100 + 1
+          const end = start + 99
+          name = `data/bc-${String(end).padStart(4, '0')}-${String(start).padStart(4, '0')}.json`
+        }
       } else {
         const start = Math.floor((year - 1) / 100) * 100 + 1
         const end = start + 99
@@ -188,21 +195,19 @@ const App = (() => {
 
     getAllFileNames() {
       if (this._allFileNames) return this._allFileNames
-      const files = []
+      const files = new Set()
+      // AD years
       for (let year = 1; year <= 1912; year += 100) {
-        files.push(this.getFileName(year))
+        files.add(this.getFileName(year))
       }
-      for (let year = -100; year >= -2100; year -= 100) {
-        files.push(this.getFileName(year))
+      // BC years -100 to -1000 (old pattern)
+      for (let year = -100; year >= -1000; year -= 100) {
+        files.add(this.getFileName(year))
       }
-      files.push(
-        'data/bc-2500-2401.json',
-        'data/bc-2600-2501.json',
-        'data/bc-2700-2601.json',
-        'data/bc-3000-2901.json',
-        'data/bc-3200-3101.json'
-      )
-      this._allFileNames = [...new Set(files)]
+      // Merged BC files
+      files.add('data/bc-2000-1001.json')
+      files.add('data/bc-9600-2001.json')
+      this._allFileNames = [...files]
       return this._allFileNames
     },
 
@@ -288,7 +293,7 @@ const App = (() => {
     search(query) {
       const q = query.toLowerCase()
       const results = []
-      const limit = 200
+      const limit = 100
       const index = state.searchIndex
       if (!index || !index._events) return results
 
@@ -367,6 +372,29 @@ const App = (() => {
     if (dom.searchInput) dom.searchInput.value = ''
   }
 
+  function getDynastyWeights() {
+    const sorted = [...dynasties].sort((a, b) => a.start - b.start)
+    return sorted.map(d => {
+      let count = 0
+      for (const y of state.contentYears) {
+        if (y >= d.start && y <= d.end) count++
+      }
+      return { d, weight: Math.max(count, 1) }
+    })
+  }
+
+  function calcDynastyLayout(drawW) {
+    const weights = getDynastyWeights()
+    const totalWeight = weights.reduce((s, w) => s + w.weight, 0)
+    const rawWidths = weights.map(w => Math.max((w.weight / totalWeight) * drawW, 8))
+    const rawTotal = rawWidths.reduce((s, w) => s + w, 0)
+    if (rawTotal > drawW) {
+      const scale = drawW / rawTotal
+      return weights.map((w, i) => ({ ...w, width: rawWidths[i] * scale }))
+    }
+    return weights.map((w, i) => ({ ...w, width: rawWidths[i] }))
+  }
+
   const DynastyTimeline = {
     hoveredId: null,
 
@@ -391,18 +419,9 @@ const App = (() => {
       const barH = h * 0.7
       const drawW = w - paddingX * 2
       const radius = 3
-      const sorted = [...dynasties].sort((a, b) => a.start - b.start)
-      const weights = sorted.map(d => {
-        let count = 0
-        for (const y of state.contentYears) {
-          if (y >= d.start && y <= d.end) count++
-        }
-        return { d, weight: Math.max(count, 1) }
-      })
-      const totalWeight = weights.reduce((s, w) => s + w.weight, 0)
+      const layout = calcDynastyLayout(drawW)
       let xOffset = paddingX
-      weights.forEach(({ d, weight }) => {
-        const width = Math.max((weight / totalWeight) * drawW, 8)
+      layout.forEach(({ d, width }) => {
         const x1 = xOffset
         const x2 = xOffset + width
         const isActive = state.selectedDynasty === d.id
@@ -441,8 +460,7 @@ const App = (() => {
       })
       const curIdx = getContentIndex(state.currentYear)
       if (curIdx !== undefined && state.contentYears.length > 1) {
-        const frac = curIdx / (state.contentYears.length - 1)
-        const cursorX = frac * drawW + paddingX
+        const cursorX = contentIdxToX(curIdx, drawW) + paddingX
         ctx.strokeStyle = '#fff'
         ctx.lineWidth = 1
         ctx.setLineDash([3, 3])
@@ -460,20 +478,11 @@ const App = (() => {
       const drawW = w - 16
       const paddingX = 8
       const rx = x - rect.left
-      const sorted = [...dynasties].sort((a, b) => a.start - b.start)
-      const weights = sorted.map(d => {
-        let count = 0
-        for (const y of state.contentYears) {
-          if (y >= d.start && y <= d.end) count++
-        }
-        return { d, weight: Math.max(count, 1) }
-      })
-      const totalWeight = weights.reduce((s, w) => s + w.weight, 0)
+      const layout = calcDynastyLayout(drawW)
       let xOff = paddingX
-      for (const { d, weight } of weights) {
-        const wd = Math.max((weight / totalWeight) * drawW, 8)
-        if (rx >= xOff && rx <= xOff + wd) return d
-        xOff += wd
+      for (const { d, width } of layout) {
+        if (rx >= xOff && rx <= xOff + width) return d
+        xOff += width
       }
       return null
     },
@@ -521,11 +530,6 @@ const App = (() => {
       dom.calendarCanvas.style.width = rect.width + 'px'
       dom.calendarCanvas.style.height = rect.height + 'px'
       dom.calendarCtx.setTransform(dpr, 0, 0, dpr, 0, 0)
-      const drawW = rect.width - 16
-      const total = state.contentYears.length
-      if (total > 1) {
-        state.pixelsPerContentYear = Math.min(1.8, drawW / total)
-      }
       this.draw()
     },
 
@@ -848,14 +852,6 @@ const App = (() => {
         })
       })
     }
-  }
-
-  function showLoading() {
-    dom.loadingOverlay.classList.remove('hidden')
-  }
-
-  function hideLoading() {
-    dom.loadingOverlay.classList.add('hidden')
   }
 
   function showError(msg) {

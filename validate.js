@@ -1,9 +1,10 @@
-const fs = require('fs');
+﻿const fs = require('fs');
 const path = require('path');
 
 const DATA_DIR = path.join(__dirname, 'data');
 
 const VALID_DYNASTY_IDS = new Set([
+  'yu', 'shanggu', 'shiqian',
   'xia', 'shang', 'xizhou', 'chunqiu', 'zhanguo',
   'qin', 'xihan', 'xin', 'gengshi', 'donghan',
   'sanguo', 'xijin', 'dongjin', 'nanbei', 'sui',
@@ -21,17 +22,27 @@ for (let i = 1; i <= 1900; i += 100) {
   nonBcFiles.push(filename);
 }
 
+const bcFiles = [
+  'bc-1000-0901.json', 'bc-0900-0801.json', 'bc-0800-0701.json',
+  'bc-0700-0601.json', 'bc-0600-0501.json', 'bc-0500-0401.json',
+  'bc-0400-0301.json', 'bc-0300-0201.json', 'bc-0200-0101.json',
+  'bc-0100-0001.json',
+  'bc-2000-1001.json',
+  'bc-9600-2001.json'
+];
+
 const priorityFiles = new Set([
   '0701-0800.json', '0801-0900.json', '0901-1000.json',
   '1001-1100.json', '1101-1200.json', '1201-1300.json',
   '1301-1400.json', '1401-1500.json', '1501-1600.json',
   '1601-1700.json', '1701-1800.json', '1801-1900.json',
-  '1901-2000.json'
+  '1901-2000.json',
+  'bc-2000-1001.json', 'bc-9600-2001.json'
 ]);
 
 const results = [];
 
-for (const filename of nonBcFiles) {
+for (const filename of [...nonBcFiles, ...bcFiles]) {
   const filePath = path.join(DATA_DIR, filename);
   const isPriority = priorityFiles.has(filename);
 

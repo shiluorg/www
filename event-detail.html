@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
@@ -67,7 +67,7 @@
       </div>
     </div>
     <footer id="copyright">
-      <span>&copy; 2026 实录 shilu.org 游弋在人类文明的5062年中</span>
+      <span>&copy; 2026 实录 shilu.org 游弋在人类文明的11512年中</span>
     </footer>
   </div>
 
@@ -99,9 +99,15 @@
       function getFileName(year) {
         if (year < 0) {
           const absYear = Math.abs(year)
-          const start = Math.floor((absYear - 1) / 100) * 100 + 1
-          const end = start + 99
-          return `data/bc-${String(end).padStart(4,'0')}-${String(start).padStart(4,'0')}.json`
+          if (absYear >= 1001 && absYear <= 2000) {
+            return 'data/bc-2000-1001.json'
+          } else if (absYear >= 2001) {
+            return 'data/bc-9600-2001.json'
+          } else {
+            const start = Math.floor((absYear - 1) / 100) * 100 + 1
+            const end = start + 99
+            return `data/bc-${String(end).padStart(4,'0')}-${String(start).padStart(4,'0')}.json`
+          }
         } else {
           const start = Math.floor((year - 1) / 100) * 100 + 1
           const end = start + 99

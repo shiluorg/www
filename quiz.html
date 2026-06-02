@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
@@ -11,12 +11,12 @@
     .page-header { border-bottom: 1px solid var(--color-border); }
 
     #game {
-      flex:1; display:flex; flex-direction:column; padding:20px 16px;
+      flex:1; display:flex; flex-direction:column; padding:12px 16px;
     }
     #game.hidden { display:none; }
 
     #level-section {
-      text-align:center; margin-bottom:24px;
+      text-align:center; margin-bottom:12px;
     }
     #level-title { font-size:13px; color:var(--color-text-muted); margin-bottom:4px; }
     #level-display {
@@ -37,12 +37,12 @@
 
     #question-section { flex:1; display:flex; flex-direction:column; }
     #question-type { font-size:11px; color:var(--color-text-muted); margin-bottom:4px; }
-    #question-text { font-size:16px; font-weight:500; margin-bottom:20px; line-height:1.6; min-height:48px; }
+    #question-text { font-size:16px; font-weight:500; margin-bottom:12px; line-height:1.6; min-height:48px; }
     .question-highlight { color:var(--color-dynasty); font-weight:600; }
 
-    #options { display:flex; flex-direction:column; gap:8px; margin-bottom:20px; }
+    #options { display:flex; flex-direction:column; gap:6px; margin-bottom:12px; }
     .option-btn {
-      display:block; width:100%; text-align:left; padding:12px 16px;
+      display:block; width:100%; text-align:left; padding:10px 14px;
       background:var(--color-surface); border:1px solid var(--color-border);
       border-radius:var(--radius-md); font-size:14px; font-family:inherit;
       cursor:pointer; transition:all 0.15s; line-height:1.4;
@@ -55,20 +55,20 @@
     .option-btn .opt-label { font-size:11px; color:var(--color-text-muted); margin-right:8px; }
 
     #feedback {
-      padding:12px 16px; border-radius:var(--radius-md); font-size:13px; margin-bottom:16px; display:none;
+      padding:10px 14px; border-radius:var(--radius-md); font-size:13px; margin-bottom:10px; display:none;
     }
     #feedback.correct { display:block; background:rgba(63,185,80,0.1); border:1px solid rgba(63,185,80,0.3); color:var(--color-success); }
     #feedback.wrong { display:block; background:rgba(248,81,73,0.1); border:1px solid rgba(248,81,73,0.3); color:var(--color-danger); }
 
     #next-btn {
-      display:none; width:100%; padding:10px; background:var(--color-accent);
+      display:none; width:100%; padding:8px; background:var(--color-accent);
       color:#fff; border:none; border-radius:var(--radius-md); font-size:14px; font-family:inherit;
       cursor:pointer; font-weight:600; transition:opacity 0.15s;
     }
     #next-btn:hover { opacity:0.9; }
     #next-btn.show { display:block; }
 
-    #reset-section { text-align:center; margin-top:24px; padding-top:16px; border-top:1px solid var(--color-border); flex-shrink:0; }
+    #reset-section { text-align:center; margin-top:12px; padding-top:10px; border-top:1px solid var(--color-border); flex-shrink:0; }
     #reset-btn { font-size:11px; color:var(--color-text-muted); background:none; border:1px solid var(--color-border); padding:4px 12px; border-radius:var(--radius-sm); cursor:pointer; font-family:inherit; }
     #reset-btn:hover { color:var(--color-danger); border-color:var(--color-danger); }
 
@@ -80,9 +80,9 @@
     }
 
     @media (max-width:480px) {
-      #game { padding:12px 12px; }
-      #question-text { font-size:15px; }
-      .option-btn { padding:10px 12px; font-size:13px; }
+      #game { padding:8px 12px; }
+      #question-text { font-size:15px; margin-bottom:10px; }
+      .option-btn { padding:8px 12px; font-size:13px; }
     }
   </style>
 </head>
@@ -129,7 +129,7 @@
     </div>
 
     <footer id="copyright">
-      <span>&copy; 2026 实录 shilu.org 游弋在人类文明的5062年中</span>
+      <span>&copy; 2026 实录 shilu.org 游弋在人类文明的11512年中</span>
     </footer>
   </div>
 
@@ -137,12 +137,7 @@
   <script>
     (async function() {
       const DATA_FILES = [
-        'data/bc-3200-3101.json','data/bc-3000-2901.json','data/bc-2700-2601.json',
-        'data/bc-2600-2501.json','data/bc-2500-2401.json','data/bc-2200-2101.json',
-        'data/bc-2100-2001.json','data/bc-2000-1901.json','data/bc-1900-1801.json',
-        'data/bc-1800-1701.json','data/bc-1700-1601.json','data/bc-1600-1501.json',
-        'data/bc-1500-1401.json','data/bc-1400-1301.json','data/bc-1300-1201.json',
-        'data/bc-1200-1101.json','data/bc-1100-1001.json','data/bc-1000-0901.json',
+        'data/bc-9600-2001.json','data/bc-2000-1001.json','data/bc-1000-0901.json',
         'data/bc-0900-0801.json','data/bc-0800-0701.json','data/bc-0700-0601.json',
         'data/bc-0600-0501.json','data/bc-0500-0401.json','data/bc-0400-0301.json',
         'data/bc-0300-0201.json','data/bc-0200-0101.json','data/bc-0100-0001.json',
