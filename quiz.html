@@ -105,8 +105,8 @@
       <h1>历史趣味问答</h1>
       <div class="header-right">
         <button id="theme-toggle" title="亮/暗切换">🌙</button>
-        <a href="all-events.html">事件列表</a>
-        <a href="index.html">返回首页</a>
+        <a href="all-events.html">📋事件列表</a>
+        <a href="index.html">首页</a>
       </div>
     </header>
 
@@ -381,8 +381,13 @@
             ? `正确答案是 ${formatYear(correctYear)}`
             : `正确答案是\u300C${correctTitle}\u300D（${formatYear(correctYear)}）`
           feedbackEl.className = 'wrong'
-          feedbackEl.textContent = `\u2717 回答错误。${answerStr}`
+          feedbackEl.textContent = `\u2717 回答错误，修为 -1。${answerStr}`
           feedbackEl.style.display = 'block'
+          if (currentLevel > 0) {
+            currentLevel = Math.max(currentLevel - 1, 0)
+            saveLevel()
+            updateLevelUI()
+          }
         }
 
         nextBtn.classList.add('show')
