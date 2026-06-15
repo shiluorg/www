@@ -1,10 +1,16 @@
+# Security headers
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+
 # HTML - short cache
 /index.html
   Cache-Control: public, max-age=3600
 
-# JSON data files - 1 day
+# JSON data files - 30 days
 /data/*
-  Cache-Control: public, max-age=86400
+  Cache-Control: public, max-age=2592000
 
 # JS files - 7 days
 /js/*
@@ -18,8 +24,8 @@
 /sw.js
   Cache-Control: public, max-age=3600
 
-# Static assets - 30 days
+# Static assets - 7 days
 /sitemap.xml
-  Cache-Control: public, max-age=86400
+  Cache-Control: public, max-age=604800
 /robots.txt
-  Cache-Control: public, max-age=86400
+  Cache-Control: public, max-age=604800

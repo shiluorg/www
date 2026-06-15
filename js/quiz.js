@@ -29,7 +29,7 @@ function _qGen() {
   if (_qEvents.length < 4) return;
   _qAnswered = false;
   const next = document.getElementById('quiz-next'), fb = document.getElementById('quiz-feedback');
-  if (next) next.classList.remove('show'); if (fb) { fb.className = ''; fb.style.display = 'none'; }
+  if (next) next.classList.remove('show'); if (fb) { fb.className = ''; }
   _qCorrect = _qEvents[Math.floor(Math.random() * _qEvents.length)];
   const useY = Math.random() < 0.5;
   const qType = document.getElementById('quiz-qtype'), qText = document.getElementById('quiz-qtext'), opts = document.getElementById('quiz-options');
@@ -61,14 +61,14 @@ function _qAnswer(btn) {
   if (opts) opts.querySelectorAll('.option-btn').forEach(b => { b.classList.add('disabled'); if (b.dataset.correct === 'true') b.classList.add('correct'); if (b === btn && !isC) b.classList.add('wrong'); if (b === btn) b.classList.add('selected'); });
   const fb = document.getElementById('quiz-feedback'), next = document.getElementById('quiz-next');
   if (isC) {
-    if (fb) { fb.className = 'correct'; fb.textContent = '✓ 回答正确！修为 +1'; fb.style.display = 'block'; }
+    if (fb) { fb.className = 'correct'; fb.textContent = '✓ 回答正确！修为 +1'; }
     _qLevel = Math.min(_qLevel + 1, QUIZ_LEVELS.length - 1); _qSave(); _qUpdateUI();
     const nEl = document.getElementById('quiz-name'), iEl = document.getElementById('quiz-icon');
     if (nEl) { nEl.classList.add('level-up'); setTimeout(() => nEl.classList.remove('level-up'), 500); }
     if (iEl) { iEl.classList.add('level-up'); setTimeout(() => iEl.classList.remove('level-up'), 500); }
   } else {
     const ans = _qType === 'year' ? `正确答案是 ${_fmtYear(_qCorrect.y)}` : `正确答案是「${_qCorrect.t}」（${_fmtYear(_qCorrect.y)}）`;
-    if (fb) { fb.className = 'wrong'; fb.textContent = `✗ 回答错误，修为 -1。${ans}`; fb.style.display = 'block'; }
+    if (fb) { fb.className = 'wrong'; fb.textContent = `✗ 回答错误，修为 -1。${ans}`; }
     if (_qLevel > 0) { _qLevel = Math.max(_qLevel - 1, 0); _qSave(); _qUpdateUI(); }
   }
   if (next) next.classList.add('show');
@@ -86,7 +86,7 @@ export async function initQuizPage() {
 
   if (state.searchIndex && state.searchIndex._events && state.searchIndex._events.length > 7000) {
     _qEvents = state.searchIndex._events;
-    if (bg) bg.style.display = 'block';
+    if (bg) bg.classList.add('quiz__bg--visible');
     if (loading) loading.classList.add('hidden');
     if (game) game.classList.remove('hidden');
     _qLoad(); _qUpdateUI(); _qGen();
@@ -96,15 +96,15 @@ export async function initQuizPage() {
   const msgs = ['正在穿越11512年的人类文明长河……','请稍候，历史的大门正在缓缓打开……','从公元前9600年的哥贝克力石阵，到公元1912年的清朝落幕……','加载中…… 这趟时空列车跨越了11512年！','请稍等，文明碎片正在聚集中……'];
   const files = HashSearch.getAllFileNames();
   const totalFiles = files.length;
-  function setMsg(pct) { const idx = Math.floor(Math.random() * msgs.length); if (loading) loading.innerHTML = `<div class="spinner"></div><p>${msgs[idx]}</p>${pct != null ? `<p style="font-size:11px;color:var(--color-text-muted);margin-top:4px;">已加载 ${Math.round(pct)}% 的数据文件</p>` : `<p style="font-size:11px;color:var(--color-text-muted);margin-top:4px;">已加载 ${_qEvents.length} 个事件</p>`}`; }
+  function setMsg(pct) { const idx = Math.floor(Math.random() * msgs.length); if (loading) loading.innerHTML = `<div class="spinner"></div><p>${msgs[idx]}</p>${pct != null ? `<p class="quiz__loading-stats">已加载 ${Math.round(pct)}% 的数据文件</p>` : `<p class="quiz__loading-stats">已加载 ${_qEvents.length} 个事件</p>`}`; }
   if (loading) { loading.classList.remove('hidden'); setMsg(); }
   for (let i = 0; i < files.length; i += 6) {
     const results = await Promise.all(files.slice(i, i + 6).map(async f => { try { return await HashSearch.get(f); } catch (_) { return []; } }));
     for (const data of results) { if (Array.isArray(data)) { for (const entry of data) { if (entry && entry.v) { for (const evt of entry.v) _qEvents.push({ y: entry.y, ...evt }); } } } }
     if (!game || game.classList.contains('hidden')) {
-      if (_qEvents.length >= 4) { if (bg) bg.style.display = 'block'; if (loading) loading.classList.add('hidden'); if (game) game.classList.remove('hidden'); _qLoad(); _qUpdateUI(); _qGen(); }
+      if (_qEvents.length >= 4) { if (bg) bg.classList.add('quiz__bg--visible'); if (loading) loading.classList.add('hidden'); if (game) game.classList.remove('hidden'); _qLoad(); _qUpdateUI(); _qGen(); }
       else setMsg(Math.round(Math.min(i + 6, totalFiles) / totalFiles * 100));
     }
   }
-  if (bg) bg.style.display = 'none'; if (loading) loading.classList.add('hidden');
+  if (bg) bg.classList.remove('quiz__bg--visible'); if (loading) loading.classList.add('hidden');
 }

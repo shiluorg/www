@@ -4,11 +4,17 @@ let _map = null;
 let _satelliteLayer = null;
 let _streetLayer = null;
 let _currentLayer = 'satellite';
+let _sharedIcon = null;
+
+function _getIcon() {
+  if (!_sharedIcon) _sharedIcon = L.divIcon({ className: 'custom-marker', iconSize: [14, 14], iconAnchor: [7, 7] });
+  return _sharedIcon;
+}
 
 function init() {
   if (typeof L === 'undefined') {
-    const t = setTimeout(() => {
-      if (typeof L !== 'undefined') { clearTimeout(t); _initMap(); }
+    setTimeout(() => {
+      if (typeof L !== 'undefined') _initMap();
     }, 3000);
     return;
   }
@@ -46,7 +52,7 @@ function _initMap() {
   _map.on('click', () => {
     const panel = document.getElementById('event-detail-panel');
     if (panel) panel.classList.add('hidden');
-    if (state.activeMarker) {
+    if (state.activeMarker && state.markers.includes(state.activeMarker)) {
       const el = state.activeMarker.getElement();
       if (el) el.classList.remove('active');
       state.activeMarker = null;
@@ -97,15 +103,9 @@ function showEvents(events) {
   if (hint) hint.classList.add('hidden');
   const bounds = [];
   events.forEach(evt => {
-    const marker = L.marker([evt.a, evt.l], {
-      icon: L.divIcon({
-        className: 'custom-marker',
-        iconSize: [14, 14],
-        iconAnchor: [7, 7]
-      })
-    });
-    const regionLabel = evt.r ? `<span style="color:#f0883e;font-size:11px;">${evt.r}</span>` : '';
-    marker.bindTooltip(`<div style="text-align:center;"><strong>${evt.t}</strong><br>${regionLabel}</div>`, {
+    const marker = L.marker([evt.a, evt.l], { icon: _getIcon() });
+    const regionLabel = evt.r ? `<span class="leaflet-tooltip-region">${evt.r}</span>` : '';
+    marker.bindTooltip(`<div class="leaflet-tooltip-inner"><strong>${evt.t}</strong><br>${regionLabel}</div>`, {
       direction: 'top',
       offset: [0, -10],
       className: '',
@@ -120,6 +120,7 @@ function showEvents(events) {
       document.dispatchEvent(new CustomEvent('shilu:selectEvent', { detail: evt }));
     });
     marker.addTo(_map);
+    marker._eventData = evt;
     state.markers.push(marker);
     bounds.push([evt.a, evt.l]);
   });
@@ -134,9 +135,5 @@ function setView(lat, lng, zoom) {
   if (_map) _map.setView([lat, lng], zoom || 5);
 }
 
-function invalidateSize() {
-  if (_map) _map.invalidateSize();
-}
-
-const MapView = { init, switchLayer, clearMarkers, showEvents, setView, invalidateSize };
+const MapView = { init, switchLayer, clearMarkers, showEvents, setView };
 export default MapView;

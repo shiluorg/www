@@ -13,21 +13,21 @@ const state = {
 const _THEME_KEY = 'shilu_theme';
 let _themePrefCache = null;
 
-export function themeGet() {
+function themeGet() {
   if (_themePrefCache) return _themePrefCache;
   const s = localStorage.getItem(_THEME_KEY);
   if (s === 'light' || s === 'dark') { _themePrefCache = s; return s; }
   _themePrefCache = (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) ? 'light' : 'dark';
   return _themePrefCache;
 }
-export function themeSet(t) {
+function themeSet(t) {
   document.documentElement.setAttribute('data-theme', t);
   try { localStorage.setItem(_THEME_KEY, t); } catch (_) {}
   const btn = document.getElementById('theme-toggle');
   if (btn) btn.textContent = t === 'dark' ? '🌙' : '☀️';
   window.dispatchEvent(new CustomEvent('shilu:themechange', { detail: t }));
 }
-export function themeToggle() {
+function themeToggle() {
   const cur = document.documentElement.getAttribute('data-theme') || 'dark';
   themeSet(cur === 'dark' ? 'light' : 'dark');
 }

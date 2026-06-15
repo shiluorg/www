@@ -1,6 +1,8 @@
 import HashSearch from './hash-search.js';
 import state from './state.js';
 
+const TOUCH_THROTTLE_MS = 80;
+
 const _state = {
   containerD: null, canvasD: null, ctxD: null, tooltipD: null,
   containerC: null, canvasC: null, ctxC: null, tooltipC: null,
@@ -33,11 +35,11 @@ function _cssVarRgba(name, alpha) {
 function _cacheDom() {
   _state.containerD = document.getElementById('dynasty-timeline-container');
   _state.canvasD = document.getElementById('dynasty-canvas');
-  _state.ctxD = _state.canvasD.getContext('2d');
+  _state.ctxD = _state.canvasD?.getContext('2d');
   _state.tooltipD = document.getElementById('dynasty-tooltip');
   _state.containerC = document.getElementById('calendar-timeline-container');
   _state.canvasC = document.getElementById('calendar-canvas');
-  _state.ctxC = _state.canvasC.getContext('2d');
+  _state.ctxC = _state.canvasC?.getContext('2d');
   _state.tooltipC = document.getElementById('calendar-tooltip');
 }
 
@@ -135,7 +137,7 @@ function _dynastyDrawNow() {
   }
 }
 
-function dynastyAt(cx, cy) {
+function dynastyAt(cx) {
   const rect = _state.canvasD.getBoundingClientRect();
   const px = 8, drawW = _dw(rect.width, px), rx = cx - rect.left, layout = _dynastyLayout(drawW);
   let xo = px;
@@ -144,7 +146,7 @@ function dynastyAt(cx, cy) {
 }
 
 function _dynastyHandleMove(e) {
-  const d = dynastyAt(e.clientX, e.clientY);
+  const d = dynastyAt(e.clientX);
   if (d) {
     _state.hoverDynasty = d.id;
     _state.tooltipD.textContent = `${d.name}（${HashSearch.formatYear(d.start)} ~ ${HashSearch.formatYear(d.end)}）`;
@@ -249,17 +251,17 @@ function init() {
     return;
   }
   window.addEventListener('shilu:themechange', () => { _colorCache = {}; _dynastyDrawNow(); _calendarDrawNow(); });
-  resize();
   const D = _state.containerD, C = _state.containerC;
   if (!D || !C) return;
+  resize();
 
-  D.addEventListener('click', e => { const d = dynastyAt(e.clientX, e.clientY); if (d) { state.selectedDynasty = d.id; dynastyDraw(); document.dispatchEvent(new CustomEvent('shilu:dynastySelect', { detail: d })); } });
+  D.addEventListener('click', e => { const d = dynastyAt(e.clientX); if (d) { state.selectedDynasty = d.id; dynastyDraw(); document.dispatchEvent(new CustomEvent('shilu:dynastySelect', { detail: d })); } });
   D.addEventListener('mousemove', _dynastyHandleMove);
   D.addEventListener('mouseleave', () => { _state.hoverDynasty = null; _state.tooltipD.classList.add('hidden'); dynastyDraw(); });
 
   let dtLast = null, dtTime = 0;
-  D.addEventListener('touchstart', e => { if (e.touches.length !== 1) return; e.preventDefault(); const t = e.touches[0], d = dynastyAt(t.clientX, t.clientY); if (d) { dtLast = d.id; state.selectedDynasty = d.id; dynastyDraw(); document.dispatchEvent(new CustomEvent('shilu:dynastySelect', { detail: d })); } }, { passive: false });
-  D.addEventListener('touchmove', e => { if (e.touches.length !== 1) return; e.preventDefault(); const now = Date.now(); if (now - dtTime < 80) return; dtTime = now; const t = e.touches[0], d = dynastyAt(t.clientX, t.clientY); if (d && d.id !== dtLast) { dtLast = d.id; state.selectedDynasty = d.id; dynastyDraw(); document.dispatchEvent(new CustomEvent('shilu:dynastySelect', { detail: d })); } }, { passive: false });
+  D.addEventListener('touchstart', e => { if (e.touches.length !== 1) return; e.preventDefault(); const t = e.touches[0], d = dynastyAt(t.clientX); if (d) { dtLast = d.id; state.selectedDynasty = d.id; dynastyDraw(); document.dispatchEvent(new CustomEvent('shilu:dynastySelect', { detail: d })); } }, { passive: false });
+  D.addEventListener('touchmove', e => { if (e.touches.length !== 1) return; e.preventDefault(); const now = Date.now(); if (now - dtTime < TOUCH_THROTTLE_MS) return; dtTime = now; const t = e.touches[0], d = dynastyAt(t.clientX); if (d && d.id !== dtLast) { dtLast = d.id; state.selectedDynasty = d.id; dynastyDraw(); document.dispatchEvent(new CustomEvent('shilu:dynastySelect', { detail: d })); } }, { passive: false });
 
   C.addEventListener('click', e => { const y = calendarYearAt(e.clientX); if (y >= HashSearch.YEAR_MIN && y <= HashSearch.YEAR_MAX) { document.dispatchEvent(new CustomEvent('shilu:yearSelect', { detail: y })); } });
   C.addEventListener('mousemove', e => { const y = calendarYearAt(e.clientX); if (y >= HashSearch.YEAR_MIN && y <= HashSearch.YEAR_MAX) {     _state.hoverYear = y; _state.tooltipC.textContent = HashSearch.formatYear(y); _state.tooltipC.classList.remove('hidden');
@@ -273,7 +275,7 @@ function init() {
 
   let ctLast = null, ctTime = 0;
   C.addEventListener('touchstart', e => { if (e.touches.length !== 1) return; e.preventDefault(); const t = e.touches[0], y = calendarYearAt(t.clientX); if (y >= HashSearch.YEAR_MIN && y <= HashSearch.YEAR_MAX) { ctLast = y; document.dispatchEvent(new CustomEvent('shilu:yearSelect', { detail: y })); } }, { passive: false });
-  C.addEventListener('touchmove', e => { if (e.touches.length !== 1) return; e.preventDefault(); const now = Date.now(); if (now - ctTime < 80) return; ctTime = now; const t = e.touches[0], y = calendarYearAt(t.clientX); if (y >= HashSearch.YEAR_MIN && y <= HashSearch.YEAR_MAX && y !== ctLast) { ctLast = y; document.dispatchEvent(new CustomEvent('shilu:yearSelect', { detail: y })); } }, { passive: false });
+  C.addEventListener('touchmove', e => { if (e.touches.length !== 1) return; e.preventDefault(); const now = Date.now(); if (now - ctTime < TOUCH_THROTTLE_MS) return; ctTime = now; const t = e.touches[0], y = calendarYearAt(t.clientX); if (y >= HashSearch.YEAR_MIN && y <= HashSearch.YEAR_MAX && y !== ctLast) { ctLast = y; document.dispatchEvent(new CustomEvent('shilu:yearSelect', { detail: y })); } }, { passive: false });
 }
 
 const Timelines = { init, resize, dynastyDraw, calendarDraw };

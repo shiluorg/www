@@ -2,22 +2,31 @@ const STORAGE_PREFIX = 'shilu_hs_';
 const STORAGE_META = 'shilu_hs_meta';
 const CACHE_VERSION = '2.0';
 
+const BC_CHUNK_SIZE = 1000;
+const CE_CHUNK_SIZE = 100;
+const YEAR_PAD = 4;
+
 let _memoryCache = new Map();
 let _initialized = false;
 let _allFileNames = null;
+let _storageAvailable = true;
 
 function _init() {
   if (_initialized) return;
-  try {
-    const meta = JSON.parse(localStorage.getItem(STORAGE_META) || '{}');
-    if (meta.version !== CACHE_VERSION) {
-      for (let i = localStorage.length - 1; i >= 0; i--) {
-        const key = localStorage.key(i);
-        if (key && key.startsWith(STORAGE_PREFIX)) localStorage.removeItem(key);
+  if (_storageAvailable) {
+    try {
+      const meta = JSON.parse(localStorage.getItem(STORAGE_META) || '{}');
+      if (meta.version !== CACHE_VERSION) {
+        for (let i = localStorage.length - 1; i >= 0; i--) {
+          const key = localStorage.key(i);
+          if (key && key.startsWith(STORAGE_PREFIX)) localStorage.removeItem(key);
+        }
       }
+      localStorage.setItem(STORAGE_META, JSON.stringify({ version: CACHE_VERSION }));
+    } catch (_) {
+      _storageAvailable = false;
     }
-    localStorage.setItem(STORAGE_META, JSON.stringify({ version: CACHE_VERSION }));
-  } catch (_) {}
+  }
   _initialized = true;
 }
 
@@ -81,7 +90,7 @@ const dynasties = [
 ];
 
 async function _forEachFileChunk(files, fn, onChunkDone) {
-  const CHUNK = 6;
+  const CHUNK = 4;
   for (let i = 0; i < files.length; i += CHUNK) {
     await Promise.all(files.slice(i, i + CHUNK).map(fn));
     if (onChunkDone) onChunkDone(Math.min(CHUNK, files.length - i));
@@ -106,17 +115,23 @@ const HashSearch = {
     _init();
     const mc = _memoryCache.get(url);
     if (mc !== undefined) return mc;
-    try {
-      const stored = localStorage.getItem(_cacheKey(url));
-      if (stored) {
-        const data = JSON.parse(stored);
-        _memoryCache.set(url, data);
-        return data;
+    if (_storageAvailable) {
+      try {
+        const stored = localStorage.getItem(_cacheKey(url));
+        if (stored) {
+          const data = JSON.parse(stored);
+          _memoryCache.set(url, data);
+          return data;
+        }
+      } catch (_) {
+        _storageAvailable = false;
       }
-    } catch (_) {}
+    }
     const data = await _fetchJSON(url);
     _memoryCache.set(url, data);
-    try { localStorage.setItem(_cacheKey(url), JSON.stringify(data)); } catch (_) {}
+    if (_storageAvailable) {
+      try { localStorage.setItem(_cacheKey(url), JSON.stringify(data)); } catch (_) { _storageAvailable = false; }
+    }
     return data;
   },
 
@@ -124,34 +139,18 @@ const HashSearch = {
     return _memoryCache.get(url) || null;
   },
 
-  clear(url) {
-    if (url) {
-      _memoryCache.delete(url);
-      try { localStorage.removeItem(_cacheKey(url)); } catch (_) {}
-    } else {
-      _memoryCache = new Map();
-      _allFileNames = null;
-      try {
-        for (let i = localStorage.length - 1; i >= 0; i--) {
-          const key = localStorage.key(i);
-          if (key && key.startsWith(STORAGE_PREFIX)) localStorage.removeItem(key);
-        }
-      } catch (_) {}
-    }
-  },
-
   getFileName(year) {
     if (year < 0) {
       const absYear = Math.abs(year);
-      if (absYear >= 1001 && absYear <= 2000) return 'data/bc-2000-1001.json';
-      if (absYear >= 2001) return 'data/bc-9600-2001.json';
-      const start = Math.floor((absYear - 1) / 100) * 100 + 1;
-      const end = start + 99;
-      return `data/bc-${String(end).padStart(4, '0')}-${String(start).padStart(4, '0')}.json`;
+      if (absYear >= BC_CHUNK_SIZE + 1 && absYear <= BC_CHUNK_SIZE * 2) return 'data/bc-2000-1001.json';
+      if (absYear >= BC_CHUNK_SIZE * 2 + 1) return 'data/bc-9600-2001.json';
+      const start = Math.floor((absYear - 1) / CE_CHUNK_SIZE) * CE_CHUNK_SIZE + 1;
+      const end = start + CE_CHUNK_SIZE - 1;
+      return `data/bc-${String(end).padStart(YEAR_PAD, '0')}-${String(start).padStart(YEAR_PAD, '0')}.json`;
     }
-    const start = Math.floor((year - 1) / 100) * 100 + 1;
-    const end = start + 99;
-    return `data/${String(start).padStart(4, '0')}-${String(end).padStart(4, '0')}.json`;
+    const start = Math.floor((year - 1) / CE_CHUNK_SIZE) * CE_CHUNK_SIZE + 1;
+    const end = start + CE_CHUNK_SIZE - 1;
+    return `data/${String(start).padStart(YEAR_PAD, '0')}-${String(end).padStart(YEAR_PAD, '0')}.json`;
   },
 
   getAllFileNames() {
@@ -220,10 +219,44 @@ const HashSearch = {
     return { exactTerms, fuzzyTerms };
   },
 
-  search(data, queryString, fields) {
+  search(data, queryString, fields, mode) {
+    // mode: 'exact' | 'fuzzy' | 'combined' (default: 'combined' for backward compat)
     if (!queryString || !Array.isArray(data)) return data || [];
     const f = fields || ['t', 'r', 's'];
+    const m = mode || 'combined';
     const { exactTerms, fuzzyTerms } = this.parseQuery(queryString);
+
+    if (m === 'exact') {
+      // All exact terms must match (AND). If no exact terms, use fuzzy as exact
+      const terms = exactTerms.length > 0 ? exactTerms : fuzzyTerms;
+      if (terms.length === 0) return data;
+      return data.filter(item => {
+        for (const term of terms) {
+          let found = false;
+          for (const field of f) {
+            if (((item[field] || '')).toLowerCase().includes(term)) { found = true; break; }
+          }
+          if (!found) return false;
+        }
+        return true;
+      });
+    }
+
+    if (m === 'fuzzy') {
+      // Any fuzzy term matches (OR)
+      const terms = fuzzyTerms.length > 0 ? fuzzyTerms : exactTerms;
+      if (terms.length === 0) return data;
+      return data.filter(item => {
+        for (const term of terms) {
+          for (const field of f) {
+            if (((item[field] || '')).toLowerCase().includes(term)) return true;
+          }
+        }
+        return false;
+      });
+    }
+
+    // 'combined' mode (default, existing behavior)
     if (exactTerms.length === 0 && fuzzyTerms.length === 0) return data;
     return data.filter(item => {
       for (const term of exactTerms) {

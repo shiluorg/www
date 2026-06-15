@@ -2,17 +2,30 @@ import HashSearch from './hash-search.js';
 import Timelines from './timelines.js';
 import MapView from './map-view.js';
 import state from './state.js';
-import { routeTo, setRouterState, getState, _searchShow, _searchClose, nearestYear, _showError, _fmtYear, _ric, setPageMeta } from './router.js';
+import { routeTo, setRouterState, getState, _searchShow, _searchClose, nearestYear, _showError, _fmtYear, setPageMeta } from './router.js';
 
 let _homeEvents = [];
-let _onEventSelected = null;
+let _dynastyYearMap = null;
 
-function _renderEventList(year, yearData) {
+function _getDynastyId(year) {
+  if (!_dynastyYearMap) {
+    _dynastyYearMap = new Map();
+  }
+  if (_dynastyYearMap.has(year)) {
+    return _dynastyYearMap.get(year);
+  }
+  const ad = HashSearch.dynasties.find(d => year >= d.start && year <= d.end);
+  const id = ad ? ad.id : null;
+  _dynastyYearMap.set(year, id);
+  return id;
+}
+
+function _renderEventList(yearData) {
   const body = document.getElementById('home-event-list');
   const events = yearData.v;
   _homeEvents = events;
   if (!body) return;
-  if (!events || events.length === 0) { body.innerHTML = '<p style="color:var(--color-text-muted);font-size:12px;padding:8px;">该年份暂无记录事件</p>'; return; }
+  if (!events || events.length === 0) { body.innerHTML = '<p class="home-events__empty">该年份暂无记录事件</p>'; return; }
   const groups = {};
   events.forEach(e => { const co = e.o || '其他', r = e.r || '其他'; if (!groups[co]) groups[co] = {}; if (!groups[co][r]) groups[co][r] = []; groups[co][r].push(e); });
   const coOrder = ['亚洲', '欧洲', '非洲', '北美洲', '南美洲', '大洋洲', '美洲', '南极洲', '世界', '全球', '其他'];
@@ -46,7 +59,7 @@ async function _loadAndShowEvents(year) {
     const md = document.getElementById('mob-year-display');
     if (md) md.textContent = _fmtYear(year);
     MapView.showEvents(yd.v);
-    _renderEventList(year, yd);
+    _renderEventList(yd);
   } catch (_) {
     _showError('数据加载失败');
     const h = document.getElementById('map-empty-hint');
@@ -54,21 +67,21 @@ async function _loadAndShowEvents(year) {
     MapView.clearMarkers();
     const body = document.getElementById('home-event-list');
     if (body) {
-      body.innerHTML = `<div style="text-align:center;padding:12px;color:var(--color-text-muted);font-size:12px;">
+      body.innerHTML = `<div class="home-events__retry-wrap">
         加载失败
-        <button id="retry-load-btn" style="margin-left:8px;background:var(--color-accent);color:#fff;border:none;padding:4px 12px;border-radius:4px;cursor:pointer;font-family:inherit;font-size:12px;">重试</button>
+        <button id="retry-load-btn" class="home-events__retry-btn">重试</button>
       </div>`;
       const btn = document.getElementById('retry-load-btn');
       if (btn) btn.addEventListener('click', () => _loadAndShowEvents(year));
     }
-    _renderEventList(year, { d: [], v: [] });
+    _renderEventList({ d: [], v: [] });
   }
 }
 
 async function _navigateToYear(year) {
   state.currentYear = year; state.selectedDynasty = null;
-  const ad = HashSearch.dynasties.find(d => year >= d.start && year <= d.end);
-  if (ad) state.selectedDynasty = ad.id;
+  const ad = _getDynastyId(year);
+  if (ad) state.selectedDynasty = ad;
   Timelines.dynastyDraw(); Timelines.calendarDraw();
   await _loadAndShowEvents(year);
 }
@@ -184,6 +197,10 @@ async function initEventsPage() {
   if (!_allEventsCache.length) {
     _allEventsCache = await HashSearch.getAllEvents();
   }
+  if (_allEventsCache.length === 0) {
+    if (loading) loading.classList.add('hidden');
+    return;
+  }
   if (loading) loading.classList.add('hidden');
   _buildFilterChips();
   if (inp && !_eventsInitialized) { inp.addEventListener('input', () => _applyAllFilters()); _eventsInitialized = true; }
@@ -227,8 +244,13 @@ async function initDetailPage(params) {
 }
 
 let _searchTimer = null;
+let _searchMode = 'combined';
+let _searchInitDone = false;
+let _initHomeListenersDone = false;
 
 function _searchInit() {
+  if (_searchInitDone) return;
+  _searchInitDone = true;
   const btn = document.getElementById('search-btn'), panel = document.getElementById('search-panel');
   const inp = document.getElementById('search-input'), clear = document.getElementById('search-clear');
 
@@ -246,11 +268,21 @@ function _searchInit() {
       const q = inp.value.trim();
       if (q.length < 2) { const r = document.getElementById('search-results'), s = document.getElementById('search-status'); if (r) r.innerHTML = ''; if (s) s.textContent = ''; return; }
       if (!state.searchIndexReady) HashSearch.preloadAll();
-      _searchTimer = setTimeout(() => _searchShow(q), 150);
+      _searchTimer = setTimeout(() => _searchShow(q, _searchMode), 150);
     });
-    inp.addEventListener('keydown', e => { if (e.key === 'Escape') _searchClose(); if (e.key === 'Enter') { clearTimeout(_searchTimer); const q = inp.value.trim(); if (q.length >= 2) _searchShow(q); } });
+    inp.addEventListener('keydown', e => { if (e.key === 'Escape') _searchClose(); if (e.key === 'Enter') { clearTimeout(_searchTimer); const q = inp.value.trim(); if (q.length >= 2) _searchShow(q, _searchMode); } });
   }
   if (clear) clear.addEventListener('click', () => { if (inp) { inp.value = ''; inp.focus(); } const r = document.getElementById('search-results'), s = document.getElementById('search-status'); if (r) r.innerHTML = ''; if (s) s.textContent = ''; });
+  const modeBtns = document.querySelectorAll('.search-mode-btn');
+  modeBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      modeBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      _searchMode = btn.dataset.mode;
+      const q = inp.value.trim();
+      if (q.length >= 2) _searchShow(q, _searchMode);
+    });
+  });
   const sr = document.getElementById('search-results');
   if (sr) sr.addEventListener('click', async e => {
     const item = e.target.closest('.search-result-item');
@@ -274,94 +306,93 @@ function _searchInit() {
 
 export async function initHome() {
   if (getState()._homeInitialized) return;
+  setRouterState('_homeInitialized', true);
 
-  _onEventSelected = _showDetail;
-  const closeBtn = document.getElementById('event-detail-close');
-  if (closeBtn) closeBtn.addEventListener('click', () => { _hideDetail(); if (state.activeMarker) { const el = state.activeMarker.getElement(); if (el) el.classList.remove('active'); state.activeMarker = null; } });
-  const homeList = document.getElementById('home-event-list');
-  if (homeList) homeList.addEventListener('click', e => {
-    const item = e.target.closest('.event-item');
-    if (item) {
-      const t = item.dataset.title, evt = _homeEvents.find(ev => ev.t === t);
-      if (evt) {
-        if (_onEventSelected) _onEventSelected(evt);
-        const m = state.markers.find(m => { const ll = m.getLatLng(); return Math.abs(ll.lat - evt.a) < 0.001 && Math.abs(ll.lng - evt.l) < 0.001; });
-        if (m) { state.markers.forEach(x => { const el = x.getElement(); if (el) el.classList.remove('active'); }); const el = m.getElement(); if (el) el.classList.add('active'); state.activeMarker = m; MapView.setView(evt.a, evt.l, 5); }
+  // 仅注册一次，异常重入不会重复绑定
+  if (!_initHomeListenersDone) {
+    _initHomeListenersDone = true;
+    const closeBtn = document.getElementById('event-detail-close');
+    if (closeBtn) closeBtn.addEventListener('click', () => { _hideDetail(); if (state.activeMarker) { const el = state.activeMarker.getElement(); if (el) el.classList.remove('active'); state.activeMarker = null; } });
+    const homeList = document.getElementById('home-event-list');
+    if (homeList) homeList.addEventListener('click', e => {
+      const item = e.target.closest('.event-item');
+      if (item) {
+        const t = item.dataset.title, evt = _homeEvents.find(ev => ev.t === t);
+        if (evt) {
+          _showDetail(evt);
+          const m = state.markers.find(m => m._eventData && m._eventData.t === t);
+          if (m) { state.markers.forEach(x => { const el = x.getElement(); if (el) el.classList.remove('active'); }); const el = m.getElement(); if (el) el.classList.add('active'); state.activeMarker = m; MapView.setView(evt.a, evt.l, 5); }
+        }
       }
-    }
-  });
+    });
 
-  document.addEventListener('shilu:dynastySelect', e => {
-    const d = e.detail;
-    const target = nearestYear(d.start);
-    state.currentYear = target;
-    Timelines.calendarDraw();
-    _loadAndShowEvents(target);
-  });
-  document.addEventListener('shilu:yearSelect', e => {
-    _navigateToYear(e.detail);
-  });
+    document.addEventListener('shilu:dynastySelect', e => {
+      const d = e.detail;
+      const target = nearestYear(d.start);
+      state.currentYear = target;
+      Timelines.calendarDraw();
+      _loadAndShowEvents(target);
+    });
+    document.addEventListener('shilu:yearSelect', e => {
+      _navigateToYear(e.detail);
+    });
 
-  document.addEventListener('keydown', e => {
-    if (e.key === 'ArrowLeft' || e.key === 'ArrowRight') {
-      e.preventDefault();
-      const ys = state.contentYears;
-      if (ys.length < 1) return;
-      let ny;
-      if (e.shiftKey) {
-        const targetYear = state.currentYear + (e.key === 'ArrowRight' ? 10 : -10);
-        ny = nearestYear(targetYear);
-      } else {
-        const ci = state.contentYearIndex[state.currentYear];
-        const ni = ci !== undefined ? ci + (e.key === 'ArrowRight' ? 1 : -1) : 0;
-        ny = ys[Math.max(0, Math.min(ys.length - 1, ni))];
+    document.addEventListener('keydown', e => {
+      if (e.key === 'ArrowLeft' || e.key === 'ArrowRight') {
+        e.preventDefault();
+        const ys = state.contentYears;
+        if (ys.length < 1) return;
+        let ny;
+        if (e.shiftKey) {
+          const targetYear = state.currentYear + (e.key === 'ArrowRight' ? 10 : -10);
+          ny = nearestYear(targetYear);
+        } else {
+          const ci = state.contentYearIndex[state.currentYear];
+          const ni = ci !== undefined ? ci + (e.key === 'ArrowRight' ? 1 : -1) : 0;
+          ny = ys[Math.max(0, Math.min(ys.length - 1, ni))];
+        }
+        if (ny !== state.currentYear) _navigateToYear(ny);
       }
-      if (ny !== state.currentYear) _navigateToYear(ny);
-    }
-    if (e.key === '?' || (e.key === '/' && e.shiftKey)) { e.preventDefault(); const p = document.getElementById('shortcut-panel'); if (p) p.classList.toggle('hidden'); }
-    if (e.key === 'Escape') { const p = document.getElementById('shortcut-panel'); if (p) p.classList.add('hidden'); _hideDetail(); state.selectedDynasty = null; Timelines.dynastyDraw(); }
-  });
+      if (e.key === '?' || (e.key === '/' && e.shiftKey)) { e.preventDefault(); const p = document.getElementById('shortcut-panel'); if (p) p.classList.toggle('hidden'); }
+      if (e.key === 'Escape') { const p = document.getElementById('shortcut-panel'); if (p) p.classList.add('hidden'); _hideDetail(); state.selectedDynasty = null; Timelines.dynastyDraw(); }
+    });
 
-  const nav = document.getElementById('mobile-year-nav');
-  if (nav) nav.addEventListener('click', e => {
-    const btn = e.target.closest('.mob-nav-btn');
-    if (btn) { const step = parseInt(btn.dataset.step, 10); if (Math.abs(step) === 10) { const ny = nearestYear(state.currentYear + step); if (ny !== state.currentYear) _navigateToYear(ny); } else { const ys = state.contentYears; if (ys.length < 1) return; const ci = state.contentYearIndex[state.currentYear]; const ni = Math.max(0, Math.min(ys.length - 1, (ci !== undefined ? ci : 0) + step)); const ny = ys[ni]; if (ny !== state.currentYear) _navigateToYear(ny); } return; }
-    if (e.target.id === 'mob-year-display') {
-      const ys = prompt('请输入年份：\n公元前输入负数，公元直接输入数字', state.currentYear);
-      if (ys !== null) { const y = parseInt(ys, 10); if (!isNaN(y) && y !== 0 && y >= HashSearch.YEAR_MIN && y <= HashSearch.YEAR_MAX) { state.currentYear = y; state.selectedDynasty = null; _navigateToYear(y); } else if (y === 0) _showError('公元0年不存在'); else _showError('年份超出范围'); }
-    }
-  });
+    const nav = document.getElementById('mobile-year-nav');
+    if (nav) nav.addEventListener('click', e => {
+      const btn = e.target.closest('.mob-nav-btn');
+      if (btn) { const step = parseInt(btn.dataset.step, 10); if (Math.abs(step) === 10) { const ny = nearestYear(state.currentYear + step); if (ny !== state.currentYear) _navigateToYear(ny); } else { const ys = state.contentYears; if (ys.length < 1) return; const ci = state.contentYearIndex[state.currentYear]; const ni = Math.max(0, Math.min(ys.length - 1, (ci !== undefined ? ci : 0) + step)); const ny = ys[ni]; if (ny !== state.currentYear) _navigateToYear(ny); } return; }
+      if (e.target.id === 'mob-year-display') {
+        const ys = prompt('请输入年份：\n公元前输入负数，公元直接输入数字', state.currentYear);
+        if (ys !== null) { const y = parseInt(ys, 10); if (!isNaN(y) && y !== 0 && y >= HashSearch.YEAR_MIN && y <= HashSearch.YEAR_MAX) { state.currentYear = y; state.selectedDynasty = null; _navigateToYear(y); } else if (y === 0) _showError('公元0年不存在'); else _showError('年份超出范围'); }
+      }
+    });
 
-  const shortcutBtn = document.getElementById('shortcut-btn'), shortcutPanel = document.getElementById('shortcut-panel');
-  if (shortcutBtn && shortcutPanel) { shortcutBtn.addEventListener('click', () => shortcutPanel.classList.toggle('hidden')); document.addEventListener('click', e => { if (!shortcutPanel.contains(e.target) && e.target !== shortcutBtn) shortcutPanel.classList.add('hidden'); }); }
+    const shortcutBtn = document.getElementById('shortcut-btn'), shortcutPanel = document.getElementById('shortcut-panel');
+    if (shortcutBtn && shortcutPanel) { shortcutBtn.addEventListener('click', () => shortcutPanel.classList.toggle('hidden')); document.addEventListener('click', e => { if (!shortcutPanel.contains(e.target) && e.target !== shortcutBtn) shortcutPanel.classList.add('hidden'); }); }
 
-  window.addEventListener('resize', Timelines.resize);
-  document.addEventListener('shilu:selectEvent', e => _showDetail(e.detail));
+    window.addEventListener('resize', Timelines.resize);
+    document.addEventListener('shilu:selectEvent', e => _showDetail(e.detail));
+  }
 
   try {
-    console.log('[实录] 开始加载数据...');
     const idx = await HashSearch.getContentYearIndex();
-    console.log('[实录] 年份索引加载完成，共', idx.years.length, '个年份');
     state.contentYears = idx.years;
     state.contentYearIndex = idx.yearIndex;
     Timelines.dynastyDraw();
     Timelines.calendarDraw();
-    await _loadAndShowEvents(state.currentYear);
-    console.log('[实录] 初始事件加载完成');
 
-    setRouterState('_homeInitialized', true);
-
+    // 后台预加载与当前年份数据并行加载，不阻塞首页显示
     const pb = document.getElementById('bg-progress');
-    _ric(() => {
-      if (pb) pb.classList.add('active');
-      HashSearch.preloadAll((l, t) => {
-        if (pb) pb.style.width = `${(l / t) * 100}%`;
-      }).then(() => {
-        _buildSearchIndex().then(() => {
-          if (pb) pb.classList.add('complete');
-        });
-      });
-    }, { timeout: 3000 });
+    if (pb) pb.classList.add('active');
+    const bgPreload = HashSearch.preloadAll((l, t) => {
+      if (pb) pb.style.width = `${(l / t) * 100}%`;
+    }).then(() => _buildSearchIndex().then(() => {
+      if (pb) pb.classList.add('complete');
+    }));
+
+    await _loadAndShowEvents(state.currentYear);
+    // 确保后台预加载不受首页渲染异常影响
+    bgPreload.catch(() => {});
   } catch (e) {
     console.error('[实录] 首页数据加载失败:', e);
     setRouterState('_homeInitialized', false);

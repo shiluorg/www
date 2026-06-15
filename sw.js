@@ -10,7 +10,8 @@ const STATIC_ASSETS = [
   '/js/app.js',
   '/js/home.js',
   '/js/router.js',
-  '/js/quiz.js'
+  '/js/quiz.js',
+  '/data/content-years.json'
 ];
 
 // Install: pre-cache critical static assets
@@ -95,17 +96,23 @@ self.addEventListener('fetch', event => {
     return;
   }
 
-  // Strategy 4: Cache-First for all other same-origin assets (JS, CSS, images)
-  event.respondWith(
-    caches.match(event.request).then(cached => {
-      const fetchPromise = fetch(event.request).then(response => {
-        if (response.ok) {
-          const clone = response.clone();
-          caches.open(CACHE_NAME).then(cache => cache.put(event.request, clone));
-        }
-        return response;
-      }).catch(() => cached);
-      return cached || fetchPromise;
-    })
-  );
+  // Strategy 4: Cache-First for static assets (JS, CSS, images, fonts)
+  if (/\.(js|css|png|jpg|jpeg|gif|svg|ico|woff2?)$/.test(path) || path === '/') {
+    event.respondWith(
+      caches.match(event.request).then(cached => {
+        const fetchPromise = fetch(event.request).then(response => {
+          if (response.ok) {
+            const clone = response.clone();
+            caches.open(CACHE_NAME).then(cache => cache.put(event.request, clone));
+          }
+          return response;
+        }).catch(() => cached);
+        return cached || fetchPromise;
+      })
+    );
+    return;
+  }
+
+  // Other requests: network only
+  event.respondWith(fetch(event.request));
 });
