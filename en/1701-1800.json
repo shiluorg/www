@@ -1,0 +1,3615 @@
+[
+  {
+    "y": 1701,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Kangxi Emperor",
+        "e": "40th year of Kangxi"
+      }
+    ],
+    "v": [
+      {
+        "t": "War of Spanish Succession breaks out",
+        "s": "The last Spanish Habsburg king, Charles II, dies without an heir, leaving the throne to Philippe of Anjou (grandson of Louis XIV) of the French Bourbon dynasty. Major European powers such as Britain, the Netherlands, and Austria, fearing a Franco-Spanish union would become too powerful, form the Grand Alliance to declare war on France. The war is fought simultaneously in Europe, North America, and India, lasting until 1714. Although France secures the Spanish throne, it is forced to renounce control over the Spanish Netherlands and Italian territories, maintaining the European balance of power.",
+        "a": 40.4,
+        "l": -3.7,
+        "c": "Military",
+        "r": "Spain",
+        "o": "Europe"
+      },
+      {
+        "t": "Yale College founded",
+        "s": "Congregationalist ministers in the Colony of Connecticut found the Collegiate School in Clinton to train clergy. In 1718, thanks to a donation from Elihu Yale, a wealthy British East India Company official, the college is renamed Yale College. This third-oldest institution of higher learning in the United States initially had only one teacher and one student, later growing into a world-leading private research university.",
+        "a": 41.31,
+        "l": -72.92,
+        "c": "Education",
+        "r": "North America",
+        "o": "North America"
+      },
+      {
+        "t": "Prussia crowned a kingdom",
+        "s": "Holy Roman Emperor Leopold I, in return for the support of Elector Frederick III of Brandenburg in the War of Spanish Succession, allows him to crown himself 'King in Prussia'. Frederick III is crowned Frederick I in Königsberg, elevating Prussia to a kingdom, laying the foundation for Prussia's future dominance in Europe.",
+        "a": 54.7,
+        "l": 20.5,
+        "c": "Politics",
+        "r": "Prussia",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1702,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Kangxi Emperor",
+        "e": "41st year of Kangxi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Britain's first daily newspaper, The Daily Courant, founded",
+        "s": "English publisher Edward Mallet founds The Daily Courant in London, the first daily newspaper in Britain. Initially a single sheet, it prints only one foreign news item per issue without commentary. The newspaper greatly promotes the formation of public opinion and the spread of Enlightenment ideas, laying the foundation for modern journalism.",
+        "a": 51.51,
+        "l": -0.13,
+        "c": "Culture",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Queen Anne ascends the throne",
+        "s": "Queen Anne of England, Scotland, and Ireland succeeds William III. Anne is the last monarch of the Stuart dynasty. During her reign (1702-1714), the War of Spanish Succession continues. She supports parliamentary politics and promotes the Act of Union in 1707, unifying England and Scotland, laying the groundwork for the Kingdom of Great Britain.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "Politics",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Battle of Kliszów",
+        "s": "During the Great Northern War, King Charles XII of Sweden leads an invasion of Poland, defeating the Saxon-Polish army at Kliszów (in present-day Poland). Charles XII forces the Polish nobility to depose Augustus II and install Stanisław Leszczyński as King of Poland.",
+        "a": 52.2,
+        "l": 21,
+        "c": "Military",
+        "r": "Poland",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1703,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Kangxi Emperor",
+        "e": "42nd year of Kangxi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Foundation of Saint Petersburg",
+        "s": "Peter the Great lays the foundation of the Peter and Paul Fortress on Hare Island at the mouth of the Neva River, marking the birth of Saint Petersburg. Built over many years by tens of thousands of serfs on swampland, Peter moves the capital from Moscow to Saint Petersburg in 1712, symbolizing Russia's commitment to Westernization and its 'window on Europe'.",
+        "a": 59.9,
+        "l": 30.3,
+        "c": "Politics",
+        "r": "Russia",
+        "o": "Europe"
+      },
+      {
+        "t": "Portugal joins the anti-French alliance",
+        "s": "King Peter II of Portugal signs the Methuen Treaty with Britain, formally joining the anti-French alliance. Portugal gains tariff concessions for its wines in the British market, while Britain obtains trade privileges for its textiles and Brazilian gold. The treaty strengthens the centuries-old Anglo-Portuguese alliance.",
+        "a": 38.7,
+        "l": -9.1,
+        "c": "Diplomacy",
+        "r": "Portugal",
+        "o": "Europe"
+      },
+      {
+        "t": "First Qing ban on Catholicism",
+        "s": "The Kangxi Emperor, due to the Roman Curia's prohibition of Chinese rites (ancestral veneration and Confucian rites), becomes embroiled in the 'Chinese Rites controversy' with Pope Clement XI. Kangxi orders the expulsion of missionaries who oppose Chinese rites, allowing only those who follow Matteo Ricci's accommodations to remain. This marks a turning point in the Qing dynasty's policy towards Catholicism.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Religion",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1704,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Kangxi Emperor",
+        "e": "43rd year of Kangxi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Blenheim",
+        "s": "During the War of Spanish Succession, the Duke of Marlborough (England) and Prince Eugene of Austria command an Anglo-Austrian army to defeat the Franco-Bavarian army at the village of Blenheim on the Danube. French casualties number about 35,000, and the commander Tallard is captured. The battle shatters Louis XIV's invincible myth, saves Vienna, and establishes Britain as a first-rate military power in Europe.",
+        "a": 48.7,
+        "l": 10.9,
+        "c": "Military",
+        "r": "Bavaria",
+        "o": "Europe"
+      },
+      {
+        "t": "British capture of Gibraltar",
+        "s": "An Anglo-Dutch fleet captures the Gibraltar peninsula during the War of Spanish Succession. British Admiral George Rooke leads the combined fleet, and after heavy bombardment, lands marines to take the strategic stronghold. The Treaty of Utrecht (1713) formally cedes Gibraltar to Britain, where it remains a British Overseas Territory to this day.",
+        "a": 36.1,
+        "l": -5.4,
+        "c": "Military",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Death of John Locke",
+        "s": "English philosopher and father of liberalism John Locke dies in Essex. His Two Treatises of Government (1689) advocates social contract and popular sovereignty, while An Essay Concerning Human Understanding establishes empiricism. Locke's ideas profoundly influence the American Declaration of Independence and the French Revolution.",
+        "a": 51.8,
+        "l": 0.2,
+        "c": "Culture",
+        "r": "England",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1705,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Kangxi Emperor",
+        "e": "44th year of Kangxi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Kangxi Emperor's fifth southern inspection tour",
+        "s": "The Kangxi Emperor embarks on his fifth southern tour, inspecting Yellow River control works, reviewing the navy, paying homage at the Ming Xiaoling Mausoleum, and meeting with Jiangnan gentry. Kangxi's six southern tours aim to win over Jiangnan literati and consolidate rule. The tours boost the economy and culture of Jiangnan but place a heavy financial burden on local treasuries due to the large entourage.",
+        "a": 32.1,
+        "l": 118.8,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Battle of Warsaw (1705)",
+        "s": "During the Great Northern War, King Augustus II of Poland fights the Swedish army at Warsaw (in present-day Latvia), but is defeated by Charles XII. Augustus II abdicates, and Stanisław I becomes King of Poland, though Russia continues to support Augustus II.",
+        "a": 56.5,
+        "l": 24,
+        "c": "Military",
+        "r": "Poland",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1706,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Kangxi Emperor",
+        "e": "45th year of Kangxi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Ramillies",
+        "s": "During the War of Spanish Succession, the Duke of Marlborough defeats the French army at Ramillies in Belgium. French losses total about 13,000, and the allies follow up by capturing Antwerp, Ghent, and other cities. The battle causes France to lose control of the Spanish Netherlands entirely, further expanding British power in northern Europe.",
+        "a": 50.6,
+        "l": 5.5,
+        "c": "Military",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Birth of Benjamin Franklin",
+        "s": "American founding father, scientist, and writer Benjamin Franklin is born in Boston to a soap and candle maker. With only two years of formal education, he becomes a distinguished figure through self-study: he invents the lightning rod, bifocal glasses, and the Franklin stove; he helps draft the Declaration of Independence and the US Constitution. His Poor Richard's Almanack spreads values of hard work and thrift, influencing countless Americans.",
+        "a": 39.9,
+        "l": -75.2,
+        "c": "Culture",
+        "r": "British North America",
+        "o": "North America"
+      },
+      {
+        "t": "Battle of Turin",
+        "s": "During the War of Spanish Succession, Prince Eugene of Austria defeats the Franco-Spanish army at Turin, lifting the four-month siege of the city. The battle forces France to abandon the Italian front and withdraw. Eugene becomes one of Europe's most outstanding generals.",
+        "a": 45.1,
+        "l": 7.5,
+        "c": "Military",
+        "r": "Austria",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1707,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Kangxi Emperor",
+        "e": "46th year of Kangxi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Act of Union 1707 signed",
+        "s": "The parliaments of England and Scotland pass the Act of Union, formally merging the two countries into the 'Kingdom of Great Britain'. Scotland gives up its independent sovereignty and colonial rights but retains its Presbyterian church and separate legal system. The union is prompted by Scotland's bankruptcy following the failed Darien scheme and a common royal succession crisis. The birth of Great Britain ushers in a new era of British global expansion.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "Politics",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Death of Mughal Emperor Aurangzeb",
+        "s": "Mughal Emperor Aurangzeb, who ruled India for 49 years, dies in Ahmednagar at age 88. He expanded the empire to its greatest extent but forced Islamic law on his subjects, oppressing Hindus and intensifying religious conflict. After his death, the empire falls into succession wars, and provincial governors declare independence. The Mughal decline provides an opportunity for the British East India Company to invade.",
+        "a": 19.1,
+        "l": 74.7,
+        "c": "Politics",
+        "r": "Mughal Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "British capture of Menorca",
+        "s": "During the War of Spanish Succession, British forces capture the island of Menorca in the western Mediterranean. Port Mahon becomes a key base for the British Mediterranean fleet. Menorca is taken by France in 1760 and returned to Spain by the Treaty of Paris in 1783.",
+        "a": 40,
+        "l": 4,
+        "c": "Military",
+        "r": "England",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1708,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Kangxi Emperor",
+        "e": "47th year of Kangxi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Siege of Lille",
+        "s": "During the War of Spanish Succession, Prince Eugene of Austria besieges the French fortress of Lille in northern France. The defenders resist for four months before surrendering due to exhaustion of supplies. The allies suffer about 15,000 casualties to capture Lille, forcing the main French army to withdraw north. The siege demonstrates Eugene's exceptional skills in siege tactics.",
+        "a": 50.6,
+        "l": 3.1,
+        "c": "Military",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Battle of Lesnaya",
+        "s": "During the Great Northern War, Peter the Great personally commands the Russian army to defeat the Swedish relief force led by General Lewenhaupt at Lesnaya in Ukraine. The Russians capture all the supplies and ammunition, cutting the logistical support for Charles XII's main Swedish army. The victory lays the foundation for the following year's Battle of Poltava.",
+        "a": 52.4,
+        "l": 30.4,
+        "c": "Military",
+        "r": "Russia",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1709,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Kangxi Emperor",
+        "e": "48th year of Kangxi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Poltava",
+        "s": "During the Great Northern War, Peter the Great commands the Russian army to decisively defeat the main Swedish army of King Charles XII at Poltava, Ukraine. Charles XII is wounded in the foot, cedes command, and eventually escapes to the Ottoman Empire with a few hundred men. The victory establishes Russia as the dominant power in Eastern Europe, and Sweden loses its status as a great power.",
+        "a": 49.6,
+        "l": 34.5,
+        "c": "Military",
+        "r": "Russia",
+        "o": "Europe"
+      },
+      {
+        "t": "The Great Winter of 1709",
+        "s": "The winter of 1708–1709 is the coldest in Europe in 500 years, known as the 'Great Winter'. Snow depth reaches 2 meters in France, ports freeze along the Mediterranean, and the Venetian lagoon ices over. Large numbers of crops and livestock freeze to death. This extreme climate kills hundreds of thousands in Europe, causes grain prices to soar, and exacerbates social crises in countries like France.",
+        "a": 48,
+        "l": 2,
+        "c": "Society",
+        "r": "Europe",
+        "o": "Europe"
+      },
+      {
+        "t": "Battle of Malplaquet",
+        "s": "During the War of Spanish Succession, the Duke of Marlborough and Prince Eugene of Austria fight a fierce battle against the French army at Malplaquet in northeastern France. Allied casualties are 25,000, French casualties 12,000. Though the allies win, they fail to destroy the French army. Marlborough is criticized by political opponents at home, leading to the Tories' rise and accelerated peace talks.",
+        "a": 50.3,
+        "l": 3.9,
+        "c": "Military",
+        "r": "France",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1710,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Kangxi Emperor",
+        "e": "49th year of Kangxi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Completion of the Huangyu Quanlan Tu (Complete Atlas of the Empire)",
+        "s": "The Kangxi Emperor orders Jesuit missionaries such as Jean-Baptiste Régis and Joachim Bouvet, along with Chinese surveyors, to complete the Huangyu Quanlan Tu after ten years of work. This is the first national map of China to use latitude and longitude measurements, covering Xinjiang, Tibet, Manchuria, and Taiwan. Using a trapezoidal projection, it is far more accurate than previous maps and later becomes an important source for European maps of Asia.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Technology",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Leibniz publishes Monadology",
+        "s": "German philosopher Gottfried Wilhelm Leibniz publishes Monadology, expounding his core philosophy: the universe is composed of innumerable indivisible spiritual entities called 'monads', which operate in a 'pre-established harmony' coordinated by God. This theory attempts to resolve the mind-body dualism and deeply influences German classical philosophy.",
+        "a": 52.52,
+        "l": 13.4,
+        "c": "Culture",
+        "r": "Germany",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing dynasty begins compiling the Kangxi Dictionary",
+        "s": "The Kangxi Emperor orders scholars Zhang Yushu and Chen Tingjing to compile a large dictionary. Completed in six years, the dictionary contains 47,035 characters, arranged by radical, with pronunciations and meanings, citing the classics and histories. It is the first dictionary in Chinese history named after an emperor's reign title and remains an important reference for the study of Chinese characters.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Culture",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1711,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Kangxi Emperor",
+        "e": "50th year of Kangxi"
+      }
+    ],
+    "v": [
+      {
+        "t": "South Sea Company founded",
+        "s": "British Chancellor of the Exchequer Harley founds the South Sea Company, which acquires £10 million of government debt in exchange for a monopoly on trade with Spanish colonies in South America. Investors, fantasizing about South American gold and silver, rush to buy shares, causing the stock price to rise tenfold in 1720 before crashing, bankrupting thousands of British families and landing the Chancellor in prison.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "Economy",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Russo-Turkish War breaks out",
+        "s": "Swedish King Charles XII, after fleeing to the Ottoman Empire, incites Sultan Ahmed III to declare war on Russia. Peter the Great leads his army south but is surrounded on the Pruth River by a large Ottoman force, forced to sign the Treaty of the Pruth, ceding back Azov and allowing Charles XII to return safely. This is one of Peter's few diplomatic failures.",
+        "a": 47,
+        "l": 28,
+        "c": "Military",
+        "r": "Russia",
+        "o": "Europe"
+      },
+      {
+        "t": "Birth of David Hume",
+        "s": "Scottish philosopher and historian David Hume is born in Edinburgh. His A Treatise of Human Nature (1739–1740) is a milestone in Western philosophy, advancing radical skepticism and empiricism. His historical work The History of England becomes the best-selling history book of the 18th century.",
+        "a": 55.95,
+        "l": -3.2,
+        "c": "Culture",
+        "r": "Scotland",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1712,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Kangxi Emperor",
+        "e": "51st year of Kangxi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Newcomen atmospheric steam engine invented",
+        "s": "English blacksmith Thomas Newcomen builds the first practical atmospheric steam engine in Devon. It uses steam condensation to create a vacuum, and atmospheric pressure pushes a piston to do work, primarily for mine drainage. Although inefficient (thermal efficiency of only 0.5%), it is the first artificial power machine not dependent on water or wind, laying the foundation for Watt's later improvements.",
+        "a": 52.5,
+        "l": -2,
+        "c": "Technology",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Kangxi Emperor declares 'Forever no addition to poll tax'",
+        "s": "The Kangxi Emperor announces that the national poll tax quota for the 50th year of Kangxi (1711) will be fixed; any new population thereafter will not be taxed. This policy fixes the total poll tax, reducing the burden on new population growth and encouraging childbirth. It leads to a population explosion in the Qing dynasty from about 100 million to 300 million by the end of Qianlong's reign. The Yongzheng Emperor later extends the policy by merging the remaining poll tax into land tax.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Economy",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "War of Spanish Succession armistice",
+        "s": "After the British Tory government takes power, it begins secret peace negotiations with France, reaching an armistice. The Duke of Marlborough is relieved of command, allowing France to catch its breath on the battlefield. The war is formally ended the following year by the Treaty of Utrecht.",
+        "a": 52.1,
+        "l": 5.1,
+        "c": "Diplomacy",
+        "r": "Europe",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1713,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Kangxi Emperor",
+        "e": "52nd year of Kangxi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Treaty of Utrecht signed",
+        "s": "The belligerents of the War of Spanish Succession sign the treaty in Utrecht, Netherlands, ending 13 years of war. The treaty confirms Philip V of the Bourbon dynasty as King of Spain, but stipulates that the crowns of France and Spain shall never be united. Spain cedes Gibraltar and Menorca to Britain and grants Britain a monopoly on the slave trade with Spanish America (the Asiento).",
+        "a": 52.1,
+        "l": 5.1,
+        "c": "Diplomacy",
+        "r": "Netherlands",
+        "o": "Europe"
+      },
+      {
+        "t": "Kingdom of Prussia formally recognized",
+        "s": "The Treaty of Utrecht formally recognizes Elector Frederick III of Brandenburg-Prussia as 'King in Prussia' (Frederick I). Prussia thus becomes one of the kingdoms of Europe, although Brandenburg remains within the Holy Roman Empire. Frederick William I, upon succession, enforces strict military reforms, turning Prussia into an 'army with a state', laying the foundation for Frederick the Great's later achievements.",
+        "a": 52.5,
+        "l": 13.5,
+        "c": "Politics",
+        "r": "Prussia",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing dynasty holds Wan Shou celebration",
+        "s": "On the Kangxi Emperor's 60th birthday (Wanshou Festival), court officials and envoys from various countries gather in Beijing to celebrate. Kangxi announces a nationwide tax remission for the year and holds an special imperial examination. This is the largest celebration of the High Qing era.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1714,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Kangxi Emperor",
+        "e": "53rd year of Kangxi"
+      }
+    ],
+    "v": [
+      {
+        "t": "George I ascends, beginning of the Hanoverian dynasty",
+        "s": "Queen Anne of Great Britain dies without issue. Under the Act of Settlement 1701, the throne passes to her nearest Protestant German relative, George, Elector of Hanover, who becomes George I. George I speaks no English and rarely attends Cabinet meetings, which encourages the further development of the prime minister and cabinet system. The Hanoverian dynasty rules Britain until 1837, during which Britain becomes the world's leading colonial power.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "Politics",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Treaty of Rastatt",
+        "s": "Austria and France sign the Treaty of Rastatt, ending the state of war between them in the War of Spanish Succession. Austria gains the Spanish Netherlands, Naples, Sardinia, and the Duchy of Milan, but formally renounces all claims to the Spanish throne.",
+        "a": 48.8,
+        "l": 8.2,
+        "c": "Diplomacy",
+        "r": "Austria",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1715,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Kangxi Emperor",
+        "e": "54th year of Kangxi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Death of King Louis XIV of France",
+        "s": "The 'Sun King', Louis XIV, who ruled France for 72 years, dies at the Palace of Versailles at age 76. During his reign, he waged four major wars (War of Devolution, Franco-Dutch War, Nine Years' War, War of Spanish Succession), building France into the most powerful absolute monarchy in Europe. His warmongering empties the treasury. On his deathbed, he advises his 5-year-old great-grandson Louis XV: 'Do not love war as I did.'",
+        "a": 48.8,
+        "l": 2.1,
+        "c": "Politics",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "First Jacobite rising",
+        "s": "James Francis Edward Stuart (the 'Old Pretender'), heir of the Stuart dynasty, launches a rising in Scotland to reclaim the British throne. The rebels engage British forces, but lack of French reinforcements leads to failure, and James flees back to France. This is the first attempt to restore the Stuarts.",
+        "a": 57,
+        "l": -5,
+        "c": "Military",
+        "r": "Scotland",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing expedition to Tibet",
+        "s": "The Dzungar leader Tsewang Rabtan sends troops to invade Tibet, killing the Khoshut Khan Lha-bzang. The Kangxi Emperor orders General Erentei to lead a force into Tibet to quell the rebellion, but the Qing forces are surrounded and annihilated by the Dzungars. Two years later, Kangxi sends his 14th son, Yinti, as Grand General-in-Chief to lead another expedition that recovers Tibet.",
+        "a": 29.6,
+        "l": 91.1,
+        "c": "Military",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1716,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Kangxi Emperor",
+        "e": "55th year of Kangxi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Petrovaradin",
+        "s": "Taking advantage of Austria's distraction in the War of Spanish Succession, the Ottoman Empire masses 150,000 troops to advance into Central Europe. Prince Eugene of Austria meets them at the fortress of Petrovaradin in Serbia, inflicting heavy losses (the Ottoman Grand Vizier is killed) at a cost of about 20,000 Austrian casualties. The battle removes the Ottoman threat to Austria and paves the way for Austria to gain northern Serbia and parts of Bosnia in 1718.",
+        "a": 45.2,
+        "l": 19.9,
+        "c": "Military",
+        "r": "Austria",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing dynasty begins construction of the Rehe temporary palace (Mountain Resort)",
+        "s": "The Kangxi Emperor begins construction of a large temporary palace in Rehe (now Chengde) as a summer retreat and venue for handling Mongol affairs. The Mountain Resort blends Han, Mongol, and Tibetan architectural styles, covering an area of 5.64 million square meters, making it one of the world's largest royal gardens.",
+        "a": 41,
+        "l": 117.9,
+        "c": "Culture",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1717,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Kangxi Emperor",
+        "e": "56th year of Kangxi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Mississippi Company bubble begins",
+        "s": "The French Regent, the Duke of Orléans, follows the advice of Scottish financier John Law to found the Mississippi Company and grant it a monopoly on trade with the Louisiana colony. John Law uses a Ponzi scheme, paying old investors with new investors' money, causing the company's stock price to soar from 500 livres to 20,000 livres in two years. When the bubble bursts in 1720, the French financial system collapses, and millions of investors lose everything.",
+        "a": 48.9,
+        "l": 2.3,
+        "c": "Economy",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing maritime ban",
+        "s": "The Kangxi Emperor reissues a maritime ban to prevent coastal anti-Qing forces and piracy, stipulating that coastal residents may not go to sea for private trade. However, enforcement is lax, and smuggling continues along the coasts of Fujian and Guangdong. The ban becomes stricter during the Yongzheng and Qianlong reigns.",
+        "a": 24.3,
+        "l": 118.1,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1718,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Kangxi Emperor",
+        "e": "57th year of Kangxi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Founding of New Orleans",
+        "s": "Jean-Baptiste Le Moyne, of the French Mississippi Company, establishes a new city on the Mississippi River, naming it 'New Orleans' after the French Regent, the Duke of Orléans. Located at a strategic hub connecting the Great Lakes and the Gulf of Mexico, New Orleans quickly becomes the administrative and commercial center of the French Louisiana colony. It is acquired by the United States through the Louisiana Purchase in 1803.",
+        "a": 30,
+        "l": -90.1,
+        "c": "Politics",
+        "r": "French Louisiana",
+        "o": "North America"
+      },
+      {
+        "t": "Battle of Cape Passaro",
+        "s": "The British navy defeats the Spanish fleet at Cape Passaro off Sicily, crushing Spain's expansionist ambitions. Spain acknowledges British predominance in the western Mediterranean and renounces claims to Sicily and Sardinia.",
+        "a": 36.7,
+        "l": 15.2,
+        "c": "Military",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing expels Dzungars and recovers Tibet",
+        "s": "The Kangxi Emperor orders his 14th son, Yinti (Prince Xun), as Grand General-in-Chief, to lead a three-pronged expedition into Tibet. The Qing army defeats the Dzungar force outside Lhasa, killing the Dzungar general Tsewang Dorje Namgyal, and recovers Tibet. Kangxi abolishes the Mongol khan's rule, appoints a resident commissioner (amban), and exercises direct control over Tibet.",
+        "a": 29.6,
+        "l": 91.1,
+        "c": "Military",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1719,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Kangxi Emperor",
+        "e": "58th year of Kangxi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Daniel Defoe publishes Robinson Crusoe",
+        "s": "English writer Daniel Defoe publishes Robinson Crusoe, the story of a sailor who survives alone on a desert island for 28 years. The novel is based on the real-life story of Scottish sailor Alexander Selkirk, who lived alone on a Pacific island for four years. It is considered the first realistic novel in English literature, launching the 'desert island' genre and profoundly influencing European fiction.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "Culture",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Queen Ulrika Eleonora of Sweden abdicates",
+        "s": "After the death of King Charles XII of Sweden (1718), his sister Ulrika Eleonora succeeds him. But when she tries to strengthen royal power, she meets opposition from the nobility. She is forced to abdicate, and her husband, Frederick I, succeeds. Sweden thus enters the 'Age of Liberty' (parliamentary rule), with royal power greatly weakened.",
+        "a": 59.3,
+        "l": 18.1,
+        "c": "Politics",
+        "r": "Sweden",
+        "o": "Europe"
+      },
+      {
+        "t": "Mississippi Bubble and South Sea Bubble",
+        "s": "In 1719–1720, Europe experiences two famous financial bubbles: the Mississippi Company bubble in France (driven by John Law) and the South Sea Company bubble in Britain. Investors speculate wildly on overseas trade company stocks, causing prices to soar and then crash, ruining countless investors. After the South Sea Bubble bursts, the British Parliament passes the Bubble Act (1720), forbidding unauthorized companies from issuing transferable shares. These events are classic cases in financial history.",
+        "a": 48.9,
+        "l": 2.3,
+        "c": "Economy",
+        "r": "Europe",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1720,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Kangxi Emperor",
+        "e": "59th year of Kangxi"
+      }
+    ],
+    "v": [
+      {
+        "t": "South Sea Bubble bursts",
+        "s": "The South Sea Company's stock price soars from £128 in early 1720 to £1000 in August, then due to investor selling and exposure of fraud, collapses to £124 by December. Thousands of investors (including Isaac Newton) go bankrupt, and the British Chancellor of the Exchequer is imprisoned. The South Sea Bubble, the Mississippi Bubble, and the Dutch Tulip Mania are considered the three great financial bubbles of the West, prompting Britain to strengthen corporate regulation.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "Economy",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Vivaldi composes The Four Seasons",
+        "s": "Italian composer Antonio Vivaldi composes the violin concertos The Four Seasons in Venice, one of the earliest examples of program music. Using a fast-slow-fast three-movement structure to depict spring, summer, autumn, and winter respectively, he includes poems on the score to describe the scenes: spring as 'birds singing', summer as 'shepherd crying', autumn as 'hunting horns', winter as 'teeth chattering'. The Four Seasons makes Vivaldi a leading figure of Baroque music.",
+        "a": 45.44,
+        "l": 12.32,
+        "c": "Music",
+        "r": "Italy",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing suppresses the Zhu Yigui uprising in Taiwan",
+        "s": "Taiwan prefect Wang Zhen's harsh taxes provoke a rebellion. Zhu Yigui rises in Fengshan, captures the prefectural capital (modern Tainan), and proclaims himself King of the Restored Ming. Qing forces cross the strait to suppress the rebellion; Zhu is captured and executed. The Qing strengthens its administration in Taiwan, adding a surveillance commissioner.",
+        "a": 22.9,
+        "l": 120.2,
+        "c": "Military",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1721,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Kangxi Emperor",
+        "e": "60th year of Kangxi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Great Northern War ends; Russian Empire established",
+        "s": "Russia and Sweden sign the Treaty of Nystad, ending the Great Northern War. Russia gains Estonia, Livonia, Ingria, and other Baltic territories; Sweden's era as a great power ends. The Russian Senate crowns Peter I as 'Emperor of All Russia', and Russia officially becomes an empire. Peter the Great's reforms transform Russia from a backward landlocked state into a first-rate European power.",
+        "a": 59.9,
+        "l": 30.3,
+        "c": "Politics",
+        "r": "Russia",
+        "o": "Europe"
+      },
+      {
+        "t": "Robert Walpole becomes first British Prime Minister",
+        "s": "King George I of Great Britain, unfamiliar with English and English politics, gradually delegates power to Chancellor of the Exchequer Robert Walpole. Walpole dominates the cabinet for 20 years (1721–1742), becoming the first de facto Prime Minister in British history. He advocates peaceful foreign policy, low taxes, and clean government, but resigns late in his tenure due to corruption and the war with Spain. The formation of the prime minister's office marks the further maturation of British constitutional monarchy.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "Politics",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Zhu Yigui uprising in Taiwan fully suppressed",
+        "s": "Qing generals Lan Tingzhen and Shi Shibiao lead troops across the strait, capture Taiwan's prefectural capital, and arrest Zhu Yigui, who is taken to Beijing and executed. Following Lan Tingzhen's advice, the Qing court establishes Zhanghua County and Tamsui Subprefecture in Taiwan, strengthening administrative control.",
+        "a": 23.5,
+        "l": 120.5,
+        "c": "Military",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1722,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Kangxi Emperor",
+        "e": "61st year of Kangxi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Death of Peter the Great",
+        "s": "Peter the Great, Emperor of Russia, dies in Saint Petersburg at age 52. His failure to name an heir leads to frequent palace coups. Peter's wife, Catherine I, ascends the throne with the support of the Guard, but real power rests with Prince Menshikov. Over the next 37 years, Russia sees six monarchs (four of them empresses) ascend the throne, an era known as the 'Age of Palace Coups'.",
+        "a": 59.9,
+        "l": 30.3,
+        "c": "Politics",
+        "r": "Russia",
+        "o": "Europe"
+      },
+      {
+        "t": "Death of Kangxi Emperor; Yongzheng Emperor ascends",
+        "s": "The Kangxi Emperor dies at the Changchun Garden at age 68. According to his will, the fourth prince, Yinzhen, ascends the throne as the Yongzheng Emperor. Kangxi reigned for 61 years, the longest of any Chinese emperor. He put down the Three Feudatories, unified Taiwan, fought the Russians, and pacified Galdan, laying the foundation for the High Qing era.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1723,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Yongzheng Emperor",
+        "e": "1st year of Yongzheng"
+      }
+    ],
+    "v": [
+      {
+        "t": "Yongzheng Emperor ascends and implements reforms",
+        "s": "After Kangxi's death, the fourth prince, Yinzhen, ascends as the Yongzheng Emperor. He vigorously rectifies officialdom, investigates corruption, and introduces the 'melting fee into public funds' and 'integrity silver' systems, bringing local officials' extra 'fire consumption' levies into public revenue and distributing integrity silver. In 1725, he establishes the Grand Council, centralizing central power in the emperor's hands. Although his reign lasts only 13 years, it lays a solid foundation for the Qianlong era's prosperity.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Nian Gengyao suppresses the Lobsang Danjin rebellion in Qinghai",
+        "s": "Mongol leader Lobsang Danjin of Qinghai, in alliance with the Dzungars, launches a rebellion against the Qing. The Yongzheng Emperor appoints Nian Gengyao as Grand General-in-Chief. Nian leads a four-pronged Qing army into the Qaidam Basin, annihilating the main rebel force. Lobsang Danjin disguises himself as a woman and flees to the Dzungars. The campaign captures tens of thousands of prisoners, completely pacifies Qinghai, and brings it under direct Qing control with the appointment of a resident commissioner in Xining.",
+        "a": 36.6,
+        "l": 101.8,
+        "c": "Military",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1724,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Yongzheng Emperor",
+        "e": "2nd year of Yongzheng"
+      }
+    ],
+    "v": [
+      {
+        "t": "Birth of Immanuel Kant",
+        "s": "German philosopher Immanuel Kant is born in Königsberg (now Kaliningrad, Russia). He never leaves his hometown, yet he establishes the critical philosophy system at the university. His three Critiques (Critique of Pure Reason, Critique of Practical Reason, Critique of Judgment) reconcile rationalism and empiricism, introducing concepts like the 'thing-in-itself' and synthetic a priori judgments, profoundly influencing later philosophy.",
+        "a": 54.7,
+        "l": 20.5,
+        "c": "Culture",
+        "r": "Prussia",
+        "o": "Europe"
+      },
+      {
+        "t": "Yongzheng implements 'poll tax merged into land tax'",
+        "s": "The Yongzheng Emperor pilots the 'poll tax merged into land tax' in Zhili province, averaging the per-capita poll tax (ding silver) since the Ming dynasty into the land tax. Landless and land-poor peasants are thus exempt from the poll tax, the hidden population decreases significantly, and government household registration becomes more accurate. The reform is extended nationwide in 1729, ending a millennium of poll taxes in Chinese fiscal history and helping the Qing population grow from 100 million to 300 million.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Economy",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Bach's St John Passion premieres",
+        "s": "German composer Johann Sebastian Bach premieres the St John Passion at the St. Thomas Church in Leipzig. Based on the Passion of Jesus from the Gospel of John, it is one of Bach's two great passions, along with the St Matthew Passion. The work demonstrates Bach's supreme achievement in polyphonic music.",
+        "a": 51.3,
+        "l": 12.4,
+        "c": "Music",
+        "r": "Holy Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1725,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Yongzheng Emperor",
+        "e": "3rd year of Yongzheng"
+      }
+    ],
+    "v": [
+      {
+        "t": "Catherine I ascends the Russian throne",
+        "s": "After Peter the Great's death, his wife Catherine I ascends the throne with the support of the Guard, becoming Russia's first female monarch. Of humble origin (a Lithuanian peasant, once a laundress for a priest), she reigns for two years, with real power held by Prince Menshikov. She fulfills Peter's wish by establishing the Russian Academy of Sciences (opening 1726) and sends Vitus Bering to explore the far eastern strait (later named the Bering Strait).",
+        "a": 55.8,
+        "l": 37.6,
+        "c": "Politics",
+        "r": "Russia",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing establishes prototype of the Grand Council",
+        "s": "To handle military affairs in the northwest, the Yongzheng Emperor establishes a 'Military Supply Office' inside the Gate of Heavenly Purity, later renamed the Grand Council. The Grand Council is directly commanded by the emperor; ministers 'kneel and take dictation', and major state affairs are handled quickly by the Council without going through the Grand Secretariat. Its establishment marks the peak of Qing autocracy.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Qing prosecutes Nian Gengyao",
+        "s": "The Yongzheng Emperor accuses Nian Gengyao of 92 crimes, including forming cliques and extravagant corruption. Nian is stripped of rank and titles and ordered to commit suicide. Nian, who had pacified Qinghai and achieved great merit, is executed for arrogance and overreach, a typical case of the Yongzheng Emperor purging meritorious officials.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1726,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Yongzheng Emperor",
+        "e": "4th year of Yongzheng"
+      }
+    ],
+    "v": [
+      {
+        "t": "Voltaire exiled to England",
+        "s": "French Enlightenment thinker Voltaire, after a conflict with the Chevalier de Rohan, is imprisoned in the Bastille and then exiled to England. During his three-year stay in England, he studies Newtonian science, Locke's philosophy, and the English parliamentary system, and meets writers such as Pope and Swift. After returning to France, he publishes Philosophical Letters, enthusiastically praising English freedom and tolerance while attacking French absolutism and religious persecution. The book is later banned by the authorities.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "Culture",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Swift publishes Gulliver's Travels",
+        "s": "English writer Jonathan Swift anonymously publishes Gulliver's Travels, ostensibly a sea adventure novel but actually a sharp political satire. The stories of Lilliput and Brobdingnag parody the Tory-Whig party struggles in England; Laputa satirizes the impractical research of the Royal Society; and Houyhnhnms express despair over humanity. The work remains a classic of world literature.",
+        "a": 51.51,
+        "l": -0.13,
+        "c": "Literature",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing literary inquisition begins",
+        "s": "The Yongzheng Emperor, because the examination topic set by Zha Siting ('min zhi suo zhi' being misinterpreted as 'Yongzheng beheaded'), launches a literary inquisition. Zha is executed by posthumous disinterment and his body mutilated. Thereafter, the Qing literary inquisition intensifies, reaching its peak under the Qianlong Emperor.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1727,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Yongzheng Emperor",
+        "e": "5th year of Yongzheng"
+      }
+    ],
+    "v": [
+      {
+        "t": "Death of Isaac Newton",
+        "s": "English scientist Isaac Newton dies in London at age 84. He had served as President of the Royal Society and Master of the Royal Mint. In his Philosophiæ Naturalis Principia Mathematica, he formulates the law of universal gravitation and the three laws of motion, laying the foundations of classical physics. In optics, he discovers that white light is composed of the seven colors of the spectrum. In mathematics, he invents calculus. A towering figure of the Scientific Revolution, he is buried in Westminster Abbey.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "People",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "George II ascends the British throne",
+        "s": "King George I of Great Britain dies, and his son George II succeeds. George II is the last British king to lead troops into battle (Battle of Dettingen, 1743). He supports Prime Minister Walpole's peace policy but is forced to declare war on France during the War of Austrian Succession. During the Jacobite rising of 1745, George II personally commands the army to crush the rebellion, ending the last hope of Stuart restoration.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "Politics",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Sino-Russian Treaty of Kyakhta (Burenqi)",
+        "s": "The Qing dynasty and Russia sign the Treaty of Kyakhta near Kyakhta (Burenqi), delimiting the middle section of their border (from Shabindabaha to the Argun River). Russia gains the right to maintain a church in Beijing and to trade. This is the second border treaty between China and Russia.",
+        "a": 50.6,
+        "l": 106.9,
+        "c": "Diplomacy",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1728,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Yongzheng Emperor",
+        "e": "6th year of Yongzheng"
+      }
+    ],
+    "v": [
+      {
+        "t": "Large-scale expansion of the Old Summer Palace begins",
+        "s": "The Yongzheng Emperor orders a large-scale expansion of the Old Summer Palace (Yuanmingyuan), adding the 'Forty Scenes of Yuanmingyuan' to the garden originally built by Kangxi. The garden blends classical Chinese garden art, Western Baroque architecture, and Jiangnan water town styles, earning it the title 'Garden of Gardens'. After the Qianlong Emperor ascends, he continues its expansion, eventually forming three interconnected gardens (Yuanming, Changchun, Qichun) with a total area of over 5,200 mu, where the Qing emperors lived and handled state affairs for long periods.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Culture",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Vitus Bering sails through Bering Strait",
+        "s": "Danish explorer Vitus Bering, under the Russian Tsar, leads an expedition that sails through the strait between Asia and America (later named the Bering Strait), proving that Asia and America are not connected. His exploration paves the way for Russia's expansion into Alaska.",
+        "a": 65,
+        "l": -168,
+        "c": "Exploration",
+        "r": "Russia",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1729,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Yongzheng Emperor",
+        "e": "7th year of Yongzheng"
+      }
+    ],
+    "v": [
+      {
+        "t": "Qing dynasty large-scale 'gai tu gui liu' (replacement of chieftains with regular officials)",
+        "s": "The Yongzheng Emperor appoints Ortai as Governor-General of Yunnan, Guizhou, and Guangxi to carry out large-scale abolition of the chieftain system in the southwest, replacing local chieftains with regular officials (liuguan). Ortai adopts a strategy of 'both pacification and suppression', crushing the Miao rebellion in Guizhou and the chieftain rebellion in Zhenyuan, Yunnan, establishing Guzhou subprefecture (now Rongjiang) and Taigong subprefecture (now Taijiang) in Guizhou. The reform allows central authority to penetrate deep into the southwestern frontier, promoting local economic development and ethnic integration.",
+        "a": 26,
+        "l": 105,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Bach's St Matthew Passion premieres",
+        "s": "German composer Johann Sebastian Bach conducts the premiere of the St Matthew Passion at the St. Thomas Church in Leipzig. This grand religious oratorio, based on chapters 26 and 27 of the Gospel of Matthew, requires two choirs, two orchestras, and many soloists, lasting nearly three hours. After Bach's death, the work is forgotten until 1829 when Mendelssohn revives it, initiating the Bach revival.",
+        "a": 51.3,
+        "l": 12.4,
+        "c": "Music",
+        "r": "Holy Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1730,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Yongzheng Emperor",
+        "e": "8th year of Yongzheng"
+      }
+    ],
+    "v": [
+      {
+        "t": "Frederick William I's Prussian military reforms",
+        "s": "King Frederick William I of Prussia enforces strict military reforms: mandatory inclusion of nobles' sons in the officer corps, establishment of strict discipline and punishment systems, introduction of iron ramrods to increase reloading speed. He forms the famous 'Potsdam Giants' (soldiers over 1.88 meters tall) and expands the Prussian army from 38,000 to 83,000 (the highest proportion of population in Europe). His motto is 'The king is the first servant of the state', laying a solid military foundation for Frederick the Great's later achievements.",
+        "a": 52.5,
+        "l": 13,
+        "c": "Military",
+        "r": "Prussia",
+        "o": "Europe"
+      },
+      {
+        "t": "Yue Zhongqi's campaign against the Dzungars",
+        "s": "The Yongzheng Emperor orders Yue Zhongqi and Furdan to lead two expeditions against the Dzungars. Yue Zhongqi wins small victories in the west, but Furdan suffers a major defeat at the Battle of the Hoton River. The Qing army loses heavily. Yongzheng is forced to agree to a ceasefire and peace negotiations, and the Dzungars maintain their independence for the time being.",
+        "a": 46,
+        "l": 88,
+        "c": "Military",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1731,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Yongzheng Emperor",
+        "e": "9th year of Yongzheng"
+      }
+    ],
+    "v": [
+      {
+        "t": "Qing ban on Catholicism tightened",
+        "s": "The Yongzheng Emperor issues a stricter ban on Catholicism, forbidding foreign missionaries to preach in China and expelling all except those employed at the Beijing Astronomical Bureau. The Qing court believes that Catholicism 'agitates people's minds and forms seditious groups', threatening the stability of its rule. Christian missionary work in China goes underground thereafter, not becoming legal again until the signing of the Treaty of Huangpu in 1844.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Religion",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Birth of Captain Cook",
+        "s": "British explorer James Cook is born in Marton, Yorkshire. He later makes three voyages to the Pacific, precisely mapping the coasts of New Zealand and eastern Australia, discovering the Hawaiian Islands, and solving the problem of scurvy. He is one of Europe's greatest explorers.",
+        "a": 54.5,
+        "l": -1.2,
+        "c": "People",
+        "r": "England",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1732,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Yongzheng Emperor",
+        "e": "10th year of Yongzheng"
+      }
+    ],
+    "v": [
+      {
+        "t": "Birth of George Washington",
+        "s": "George Washington, first President of the United States, is born in Virginia to a planter family. He loses his father at age 11, receives only elementary education, but becomes a land surveyor through self-study. At 22, he serves in the French and Indian War, distinguishing himself. In 1775, he is appointed Commander-in-Chief of the Continental Army, leading the American Revolutionary War. In 1789, he is unanimously elected president, serves two terms, and refuses a third, establishing the precedent of a two-term limit.",
+        "a": 38.1,
+        "l": -77,
+        "c": "Politics",
+        "r": "British North America",
+        "o": "North America"
+      },
+      {
+        "t": "Voltaire publishes Philosophical Letters",
+        "s": "French Enlightenment thinker Voltaire, after returning from exile in England, publishes the Philosophical Letters (English edition 1733, French edition 1734, banned). The book consists of 25 letters, systematically introducing England's religious tolerance, parliamentary system, Newtonian science, and Lockean philosophy, while fiercely attacking French absolutism and the obscurantism of the Catholic Church. The Paris Parlement orders the book publicly burned, and Voltaire flees to Cirey. This work ignites the French Enlightenment.",
+        "a": 48.86,
+        "l": 2.35,
+        "c": "Philosophy",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Birth of Haydn",
+        "s": "Austrian composer Franz Joseph Haydn is born in Rohrau. He is a foundational figure of the Viennese Classical style, known as the 'Father of the Symphony' and 'Father of the String Quartet'. He composes 104 symphonies, 68 string quartets, and serves as court conductor for the Esterházy family. Both Mozart and Beethoven are influenced by him.",
+        "a": 48,
+        "l": 16.9,
+        "c": "Music",
+        "r": "Austria",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1733,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Yongzheng Emperor",
+        "e": "11th year of Yongzheng"
+      }
+    ],
+    "v": [
+      {
+        "t": "War of Polish Succession breaks out",
+        "s": "King Augustus II of Poland dies. France supports his father-in-law Stanisław I (Louis XV's father-in-law), while Russia and Austria support Augustus III. French forces invade the German Rhineland, while Russian and Austrian armies fight in northern Italy. An armistice is signed in 1735, and the Treaty of Vienna (1738) confirms Augustus III as King of Poland, with France receiving the Duchy of Lorraine as compensation.",
+        "a": 52,
+        "l": 20,
+        "c": "Military",
+        "r": "Europe",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing establishes the Eight Banner garrison system",
+        "s": "The Yongzheng Emperor formalizes the Eight Banner garrison system, establishing garrison generals in strategic locations across the country (such as Hangzhou, Fuzhou, Guangzhou, Jingzhou, Chengdu) to command the Manchu and Mongol Eight Banner troops. The garrisons become the Qing's military pillar for monitoring localities and suppressing rebellions.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Military",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1734,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Yongzheng Emperor",
+        "e": "12th year of Yongzheng"
+      }
+    ],
+    "v": [
+      {
+        "t": "English translation of Voltaire's Philosophical Letters published",
+        "s": "The English translation of Voltaire's Philosophical Letters, published in London, becomes very popular, further spreading Enlightenment ideas. The book criticizes the absurdity of Catholic dogma and the intolerance of the Church, coining the phrase 'écrasez l'infâme' (crush the infamous thing). Voltaire also praises English freedom and commercial spirit, saying that 'a merchant in London is more worthy of respect than a French nobleman'. These ideas profoundly influence the French Revolution and later democratic movements.",
+        "a": 48.9,
+        "l": 2.3,
+        "c": "Culture",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing and Dzungars negotiate peace",
+        "s": "Suffering heavy losses in the war with the Dzungars, the Yongzheng Emperor sends envoys to negotiate peace with Dzungar leader Galdan Tseren. Both sides agree to a temporary ceasefire using the Altai Mountains as the border. The Dzungar Khanate remains independent until it is completely destroyed during the Qianlong reign.",
+        "a": 47,
+        "l": 88,
+        "c": "Diplomacy",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1735,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Yongzheng Emperor",
+        "e": "13th year of Yongzheng"
+      }
+    ],
+    "v": [
+      {
+        "t": "Linnaeus publishes Systema Naturae",
+        "s": "Swedish naturalist Carl Linnaeus publishes the first edition of Systema Naturae, introducing the 'binomial nomenclature' (genus + species) for biological classification, ending the chaos of naming. He divides plants into 24 classes and animals into six classes: mammals, birds, amphibians, fish, insects, and worms. Linnaeus's classification system and naming conventions remain the foundation of modern biology, providing a common language for scientists worldwide.",
+        "a": 59.8,
+        "l": 17.6,
+        "c": "Culture",
+        "r": "Sweden",
+        "o": "Europe"
+      },
+      {
+        "t": "Death of Yongzheng Emperor; Qianlong Emperor ascends",
+        "s": "The Yongzheng Emperor dies at the Old Summer Palace at age 58. Under the 'secret succession' system, a eunuch retrieves a sealed will from behind the 'Upright and Bright' plaque in the Qianqing Palace, announcing that the fourth prince, Hongli (Prince Bao), is to succeed, becoming the Qianlong Emperor. The 25-year-old Qianlong reigns for 60 years (actually holds power for 63 years and 4 months), the longest de facto reign in Chinese history. He inherits the full treasury and efficient bureaucracy left by Yongzheng, ushering in the peak of the 'High Qing era' for over half a century.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1736,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "1st year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Qianlong Emperor ascends and holds enthronement ceremony",
+        "s": "The 25-year-old Qianlong Emperor holds his enthronement ceremony in the Hall of Supreme Harmony, announcing that the following year will be the first year of Qianlong. At the start of his reign, he declares that he will emulate his grandfather Kangxi's benevolent and lenient governance, reversing some of Yongzheng's harsh policies and releasing imperial family members imprisoned by Yongzheng. The Qianlong Emperor is well-versed in Chinese culture, proficient in poetry and calligraphy, and calls himself the 'Old Man of Ten Complete Achievements'. Early in his reign, he is diligent and benevolent, reducing taxes, earning the reputation of 'Qianlong's Golden Age'.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Birth of James Watt",
+        "s": "Scottish engineer James Watt is born in Greenock. His improved steam engine (separate condenser, double-acting, centrifugal governor) is the core power source of the Industrial Revolution, freeing machine production from reliance on water and wind power and ushering in the Age of Steam.",
+        "a": 55.9,
+        "l": -4.8,
+        "c": "Technology",
+        "r": "Scotland",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1737,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "2nd year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Voltaire publishes Elements of Newton's Philosophy",
+        "s": "Voltaire and his lover, the Marquise du Châtelet, co-publish Elements of Newton's Philosophy in Amsterdam. The book introduces Newtonian gravity, optics, and calculus to the French public in an accessible manner, including the Marquise's translation of Newton's Latin texts. It greatly promotes the spread of Newtonian science in France, providing a solid scientific foundation for the French Enlightenment.",
+        "a": 48.9,
+        "l": 2.3,
+        "c": "Culture",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Qianlong Emperor's first southern tour",
+        "s": "Following Kangxi's example, the Qianlong Emperor begins his first southern tour. He inspects river works, pays homage at the Ming Xiaoling Mausoleum, meets with Jiangnan gentry, and brings painters to sketch the scenery along the way. The tours are enormously costly but strengthen central ties with Jiangnan.",
+        "a": 32,
+        "l": 118.8,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1738,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "3rd year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Treaty of Vienna ends War of Polish Succession",
+        "s": "The belligerents of the War of Polish Succession sign the Treaty of Vienna, confirming Augustus III as King of Poland. France renounces its claims to the Polish throne. As compensation, France receives the Duchy of Lorraine (then part of the Holy Roman Empire), while Duke Francis Stephen of Lorraine receives the Grand Duchy of Tuscany. The incorporation of Lorraine brings France's eastern border to the Rhine. Francis Stephen later becomes Holy Roman Emperor, and his wife Maria Theresa inherits the Austrian Habsburg lands.",
+        "a": 48.2,
+        "l": 16.4,
+        "c": "Diplomacy",
+        "r": "Europe",
+        "o": "Europe"
+      },
+      {
+        "t": "Qianlong orders compilation of the Siku Quanshu (Complete Library of the Four Treasuries)",
+        "s": "Acting on a proposal from Zhu Yun, the provincial education commissioner of Anhui, the Qianlong Emperor issues an edict to collect books from across the empire and compile the Siku Quanshu. Divided into four sections (Classics, History, Philosophy, and Literature), it includes 3,461 books, about 79,000 chapters, and 36,000 volumes. The compilation takes nearly 20 years and involves over 300 scholars, making it the largest cultural project in Chinese history.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Culture",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1739,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "4th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "War of Jenkins' Ear breaks out",
+        "s": "Britain and Spain go to war over trade disputes in the Americas, the 'War of Jenkins' Ear'. The incident begins when Spanish coast guards intercept the British ship Rebecca off Florida, and Captain Robert Jenkins claims the Spaniards cut off his ear. Jenkins shows his ear, preserved in alcohol, to Parliament, inflaming public anger. The war is fought mainly in the Caribbean and on the Georgia frontier, and is subsumed into the War of Austrian Succession in 1748.",
+        "a": 18,
+        "l": -77,
+        "c": "Military",
+        "r": "England",
+        "o": "North America"
+      },
+      {
+        "t": "Treaty of Belgrade",
+        "s": "The Ottoman Empire and Austria sign the Treaty of Belgrade, ending the Austro-Turkish War of 1737–1739. Austria returns northern Serbia and parts of Bosnia to the Ottomans, while the Ottomans recognize Austrian trading privileges in Wallachia.",
+        "a": 44.8,
+        "l": 20.5,
+        "c": "Diplomacy",
+        "r": "Ottoman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1740,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "5th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Frederick the Great ascends and invades Silesia",
+        "s": "King Frederick William I of Prussia dies, and his son Frederick II (later Frederick the Great) ascends. Only seven months later, he seizes the opportunity of the new succession of Austrian Queen Maria Theresa to invade Silesia, sparking the War of Austrian Succession. Frederick is an enlightened absolutist: he introduces compulsory education, abolishes torture, promotes religious tolerance, and patronizes Enlightenment thinkers like Voltaire. He elevates Prussia from a second-rate European state to one of the five great powers.",
+        "a": 52.5,
+        "l": 13.4,
+        "c": "Politics",
+        "r": "Prussia",
+        "o": "Europe"
+      },
+      {
+        "t": "War of Austrian Succession breaks out",
+        "s": "Holy Roman Emperor Charles VI dies without a male heir, and his eldest daughter Maria Theresa inherits the Austrian, Hungarian, and Bohemian lands under the Pragmatic Sanction. Prussia, France, Bavaria, Saxony, and others refuse to recognize her, and Charles Albert of Bavaria even proclaims himself emperor. Maria Theresa gains the support of Britain and the Netherlands, and the war lasts eight years. Maria Theresa later carries out major reforms: abolishing serfdom, establishing a modern bureaucracy, and introducing compulsory primary education, becoming the greatest female monarch in Austrian history.",
+        "a": 48.2,
+        "l": 16.4,
+        "c": "Military",
+        "r": "Austria",
+        "o": "Europe"
+      },
+      {
+        "t": "Hume publishes A Treatise of Human Nature",
+        "s": "Scottish philosopher David Hume anonymously publishes A Treatise of Human Nature in London, with the subtitle 'Being an Attempt to introduce the experimental Method of Reasoning into Moral Subjects'. Hume argues that all human knowledge derives from sensory experience, that causation is merely a psychological habit of association with no objective necessity, and that morality comes from sentiment, not reason. The book sells poorly, and Hume jokes that it 'fell dead-born from the press'. However, it is later recognized as one of the most important works in Western philosophy.",
+        "a": 51.51,
+        "l": -0.13,
+        "c": "Culture",
+        "r": "England",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1741,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "6th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Handel's Messiah premieres",
+        "s": "German-born British composer George Frideric Handel premieres the oratorio Messiah in Dublin. The libretto by Charles Jennens is compiled from the Bible, divided into three parts covering the birth, passion, and resurrection of Jesus. The 'Hallelujah' chorus is the most famous passage in musical history. Handel composes the work in just 24 days, reportedly weeping as he wrote. Messiah becomes the most frequently performed choral work worldwide.",
+        "a": 53.35,
+        "l": -6.26,
+        "c": "Music",
+        "r": "Ireland",
+        "o": "Europe"
+      },
+      {
+        "t": "Maurice de Saxe captures Prague",
+        "s": "During the War of Austrian Succession, French Marshal Maurice de Saxe captures the Bohemian capital of Prague. Charles Albert of Bavaria is crowned King of Bohemia in Prague, and the following year is crowned Holy Roman Emperor Charles VII.",
+        "a": 50.1,
+        "l": 14.4,
+        "c": "Military",
+        "r": "France",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1742,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "7th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "British Prime Minister Walpole resigns",
+        "s": "Robert Walpole resigns after losing the confidence of Parliament, ending his record 20-year tenure as Prime Minister. The immediate causes are the war with Spain (War of Jenkins' Ear) beginning in 1739 and the split within the Whig Party after the 1741 general election. Walpole's resignation marks the shift of the prime ministership from 'king's chief minister' to 'leader of the parliamentary majority', as King George II is forced to accept ministers he dislikes into the cabinet.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "Politics",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "First Silesian War ends",
+        "s": "Prussia and Austria sign the Treaty of Berlin, under which Austria cedes Silesia to Prussia in exchange for Prussia's withdrawal from the War of Austrian Succession. Silesia is a center of the textile industry and economically developed; its acquisition greatly transforms Prussia.",
+        "a": 52.5,
+        "l": 13.4,
+        "c": "Diplomacy",
+        "r": "Prussia",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1743,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "8th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Dettingen",
+        "s": "During the War of Austrian Succession, King George II of Great Britain personally leads his army to defeat the French at Dettingen in Bavaria. The French, with superior numbers, attack, but the British cavalry and infantry fight tenaciously, and the French commander drowns while retreating. This is the last battle in which a British king personally leads troops, but Britain gains little from it, while Frederick the Great of Prussia exploits the situation.",
+        "a": 48.9,
+        "l": 2.3,
+        "c": "Military",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Qianlong begins large-scale campaign against the Dzungars",
+        "s": "Civil strife erupts in the Dzungar Khanate, and the Qianlong Emperor decides to destroy the Dzungars completely and unify Xinjiang. He orders Bandi and Amursana (a Dzungar defector) to lead a western expedition, beginning the campaign to pacify the Dzungars.",
+        "a": 45,
+        "l": 85,
+        "c": "Military",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1744,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "9th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Prussia invades Austria again",
+        "s": "Frederick the Great, fearing that Austria will counterattack Silesia with French and Bavarian support, decides on a preemptive invasion of Bohemia (modern Czech Republic). The Prussian army captures Prague but is then besieged by the Austrian army and forced to withdraw. Though the military action is inconclusive, Frederick ultimately secures Silesia through negotiations in 1745.",
+        "a": 51,
+        "l": 17,
+        "c": "Military",
+        "r": "Prussia",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing compiles the Da Qing Yitong Zhi (Complete Gazetteer of the Great Qing)",
+        "s": "The Qianlong Emperor orders the compilation of the Da Qing Yitong Zhi, a comprehensive record of the Qing dynasty's territory, administrative divisions, geography, products, and population. The work takes nearly 50 years to complete, with 424 volumes, making it an important historical-geographical document for studying the Qing dynasty.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Culture",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1745,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "10th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Final Jacobite rising",
+        "s": "Charles Edward Stuart ('Bonnie Prince Charlie'), the Stuart pretender, lands in the Scottish Highlands and launches the final Jacobite rising. He leads his forces south, capturing Edinburgh and defeating the British at Prestonpans, advancing as far as Derby in England. Because French reinforcements do not arrive and the Highlanders' resolve wavers, he is forced to withdraw to Scotland. At the Battle of Culloden in 1746, the British army annihilates the Jacobite forces, and Charles flees to France. This is the last attempt to restore the Stuart dynasty.",
+        "a": 57,
+        "l": -5,
+        "c": "Military",
+        "r": "Scotland",
+        "o": "Europe"
+      },
+      {
+        "t": "Leyden jar invented",
+        "s": "Pieter van Musschenbroek, a professor at Leiden University in the Netherlands, invents the Leyden jar, the first capacitor in history. He pastes tin foil inside and outside a glass jar, charges it through a metal rod, and receives a strong electric shock when touching the rod. The Leyden jar can store large amounts of static charge, moving electrical experiments from frictional electricity to stored high voltage, paving the way for Franklin's kite experiment and modern electrical science.",
+        "a": 52.16,
+        "l": 4.49,
+        "c": "Technology",
+        "r": "Netherlands",
+        "o": "Europe"
+      },
+      {
+        "t": "Second Silesian War ends",
+        "s": "Prussia and Austria sign the Treaty of Dresden, with Austria again confirming that Silesia belongs to Prussia. Frederick the Great renounces his claims to Bohemia, and Austria recognizes Prussian sovereignty over Silesia.",
+        "a": 51,
+        "l": 13.7,
+        "c": "Diplomacy",
+        "r": "Prussia",
+        "o": "Europe"
+      },
+      {
+        "t": "Crucible steel: technological innovation in European steelmaking",
+        "s": "In 1745, English clockmaker Benjamin Huntsman invents the crucible steel process. In Sheffield, he uses fireclay crucibles to melt cast iron and scrap iron at high temperatures, producing high-quality, homogeneous steel. Crucible steel is suitable for watch springs and tool steels, representing a major breakthrough in metallurgy during the Industrial Revolution. The technology remains in use until the invention of the Bessemer converter in the 19th century.",
+        "a": 53.4,
+        "l": -1.5,
+        "c": "Technology",
+        "r": "England",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1746,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "11th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Princeton University founded",
+        "s": "New Light movement leader Jonathan Dickinson founds the 'College of New Jersey' in Elizabeth (now Elizabeth, New Jersey), later moving it to Princeton. Originally intended to train Presbyterian ministers, it later becomes a world-leading research university. The college receives its charter in 1747 and is renamed Princeton University in 1896. Albert Einstein and John Nash have taught there.",
+        "a": 40.34,
+        "l": -74.66,
+        "c": "Education",
+        "r": "North America",
+        "o": "North America"
+      },
+      {
+        "t": "Battle of Culloden",
+        "s": "The British army annihilates the Jacobite forces at Culloden Moor in Scotland. Charles Edward Stuart flees to France, and the Jacobite rising is completely crushed. The British then carry out brutal repression in Scotland, banning Highlanders from wearing traditional dress or bearing arms, and demolishing clan castles. This marks the end of Scottish clan society.",
+        "a": 57.5,
+        "l": -4,
+        "c": "Military",
+        "r": "Scotland",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1747,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "12th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "First Carnatic War ends",
+        "s": "Britain and France compete in the Carnatic region of southern India. The French governor Dupleix leads forces to capture Madras and take the British governor prisoner. However, the Treaty of Aix-la-Chapelle (1748) requires the return of conquered territories, and France returns Madras to Britain. Though this war is a subsidiary theater of the War of Austrian Succession, it begins the two-decade-long Anglo-French rivalry in India, paving the way for Robert Clive's conquest of India.",
+        "a": 12,
+        "l": 80,
+        "c": "Military",
+        "r": "England",
+        "o": "Asia"
+      },
+      {
+        "t": "Qing's campaign against the Jinchuan chieftains begins",
+        "s": "The chieftains of Greater and Lesser Jinchuan in western Sichuan, led by Shaluoben, rebel in collusion with local tribes. The Qianlong Emperor sends Zhang Guangsheng and Nacin to lead the campaign. The terrain of Jinchuan is treacherous, the rebels' watchtowers are dense, and the Qing army suffers heavy casualties over more than two years of siege, leading to the execution of both commanding ministers. In 1749, Yue Zhongqi uses a strategy of persuasion, and Shaluoben surrenders. This campaign is one of the 'Ten Great Victories' of the Qianlong era, demonstrating Qing siege capabilities but also exposing the decline of the Eight Banner forces.",
+        "a": 31,
+        "l": 102,
+        "c": "Military",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Cao Xueqin begins writing Dream of the Red Chamber",
+        "s": "Qing dynasty writer Cao Xueqin begins writing Dream of the Red Chamber (originally titled The Story of the Stone) in the western suburbs of Beijing. Drawing on his own family's rise and fall, he describes the decline of the Jia, Shi, Wang, and Xue families, deeply revealing the decay of feudal society. He dies before completing the work, leaving the last 40 chapters to be finished by Gao E.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Literature",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1748,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "13th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Treaty of Aix-la-Chapelle ends War of Austrian Succession",
+        "s": "The belligerents of the War of Austrian Succession sign the treaty in Aachen (Aix-la-Chapelle), Germany. The treaty confirms Maria Theresa's husband Francis Stephen as Holy Roman Emperor, Prussia retains Silesia, Spain and Sardinia receive parts of Italy, and Britain recovers colonies occupied by France. Maria Theresa is forced to cede Silesia but preserves the rest of the Habsburg hereditary lands. After the war, she pursues 'enlightened absolutist' reforms, establishing a standing national army and a modern bureaucracy.",
+        "a": 50.8,
+        "l": 6.1,
+        "c": "Diplomacy",
+        "r": "Europe",
+        "o": "Europe"
+      },
+      {
+        "t": "Montesquieu publishes The Spirit of the Laws",
+        "s": "French Enlightenment thinker Charles-Louis de Montesquieu anonymously publishes The Spirit of the Laws, putting forward the famous doctrine of the 'separation of powers': legislative, executive, and judicial powers must be separated, otherwise despotism will result. He takes the British constitutional monarchy as an ideal model and argues that laws should adapt to the different climates, soils, and customs of each country. This work profoundly influences the drafting of the U.S. Constitution and the design of modern political systems.",
+        "a": 48.9,
+        "l": 2.3,
+        "c": "Law",
+        "r": "France",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1749,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "14th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Birth of Goethe",
+        "s": "German literary giant Johann Wolfgang von Goethe is born in Frankfurt am Main to a wealthy bourgeois family. He studies law but loves literature, achieving fame with The Sorrows of Young Werther (1774). Later in life, he works on Faust for 60 years, which is considered the highest achievement of German literature. Goethe also engages in scientific research, making important discoveries in plant morphology and color theory.",
+        "a": 50.1,
+        "l": 8.7,
+        "c": "Culture",
+        "r": "Holy Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Henry Fielding publishes Tom Jones",
+        "s": "English novelist Henry Fielding publishes The History of Tom Jones, a Foundling, a story of an orphan's love affair with an squire's daughter. Using a realistic style, the novel presents a broad picture of 18th-century English society and satirizes the hypocrisy of the aristocracy. Fielding is called the 'father of the English novel', and Karl Marx said he most enjoyed reading Fielding's novels.",
+        "a": 51.51,
+        "l": -0.13,
+        "c": "Literature",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing abolishes imperial concubine sacrifice",
+        "s": "The Qianlong Emperor issues an edict abolishing the practice of burying concubines alive with a deceased emperor. Previously, the Qing had maintained the old Manchu custom that concubines should be sacrificed upon the emperor's death. Qianlong considers this custom too brutal and forbids it. This represents a progressive social change in the Qing dynasty.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Society",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1750,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "15th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Death of Johann Sebastian Bach",
+        "s": "German Baroque music master Johann Sebastian Bach dies in Leipzig at age 65. During his lifetime, he was regarded mainly as an organist, and his works were forgotten for nearly 80 years after his death. In 1829, Mendelssohn conducts a performance of the St Matthew Passion, initiating a Bach revival. He is recognized as the father of Western music, and his works (such as The Art of Fugue and Brandenburg Concertos) represent the pinnacle of polyphonic music.",
+        "a": 51.34,
+        "l": 12.38,
+        "c": "Music",
+        "r": "Germany",
+        "o": "Europe"
+      },
+      {
+        "t": "First volume of the Encyclopédie published",
+        "s": "French Enlightenment thinkers Denis Diderot and Jean le Rond d'Alembert publish the first volume of the Encyclopédie (full title: Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers) in Paris. Planned for 28 volumes (17 of text, 11 of plates), it brings together articles by more than 160 Enlightenment figures, including Voltaire, Rousseau, and Montesquieu. The Church and the monarchy repeatedly order it banned, but Diderot persists for 25 years to complete this great work of the Enlightenment.",
+        "a": 48.9,
+        "l": 2.3,
+        "c": "Culture",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing pacifies the Dzungars",
+        "s": "The Qianlong Emperor orders Zhao Hui and Fu De to lead a western expedition against the Dzungars. The Qing army captures Ili; Dzungar leader Dawaqi flees south to Xinjiang but is captured. The Dzungar Khanate is destroyed, the Qing unifies Xinjiang, and the Ili General is established.",
+        "a": 43.9,
+        "l": 81.3,
+        "c": "Military",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1751,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "16th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Second volume of Diderot's Encyclopédie published",
+        "s": "The second volume of the Encyclopédie is published, with total sales of the first two volumes exceeding 4,000 sets. Clergy and conservatives attack the work as 'subversive of faith', Louis XV orders it banned, and the Sorbonne publicly condemns it. D'Alembert withdraws under pressure in 1758, but Diderot continues alone. In 1759, the Pope places the Encyclopédie on the Index of Forbidden Books, but the ban by the Paris Parlement only stimulates public demand.",
+        "a": 48.9,
+        "l": 2.3,
+        "c": "Culture",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Qianlong Emperor's first southern tour",
+        "s": "The Qianlong Emperor begins his first southern tour, eventually making six such tours. Following Kangxi's example, he inspects river works, pays homage at the Ming Xiaoling Mausoleum, meets with gentry, and sponsors extensive construction of temporary palaces. The tours are enormously costly, increasing the Qing fiscal burden.",
+        "a": 32,
+        "l": 118.8,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1752,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "17th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Franklin's kite experiment",
+        "s": "American scientist Benjamin Franklin conducts his famous kite experiment in Philadelphia. In a thunderstorm, he flies a silk kite with a metal point; when lightning strikes the kite, the electrical current travels down the wet hemp string to a Leyden jar, proving that lightning is electricity. This discovery inspires his invention of the lightning rod (1753). Franklin also distinguishes positive and negative electricity, laying the foundations of modern electrical science.",
+        "a": 39.95,
+        "l": -75.16,
+        "c": "Technology",
+        "r": "North America",
+        "o": "North America"
+      },
+      {
+        "t": "Britain adopts Gregorian calendar",
+        "s": "The British Parliament passes the Calendar Act 1750, adopting the Gregorian calendar. The change from 2 September 1752 to 14 September 1752 eliminates an 11-day discrepancy. The public mistakenly believes their lives are shortened, leading to 'Give us our eleven days' protests.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "Technology",
+        "r": "England",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1753,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "18th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "British Museum founded",
+        "s": "The British Parliament passes an act to purchase the collection of Sir Hans Sloane (physician and collector) for £20,000 and open it to the public. The British Museum is thus born. It opens in Montagu House in 1759 as the first national public museum in the world. Initially visitors must apply in writing, but admission becomes free after 1780.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "Culture",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing establishes the Siku Quanshu Bureau",
+        "s": "The Qianlong Emperor formally establishes the Siku Quanshu Bureau, appointing Yu Minzhong, Liu Tongxun and others as directors, and Ji Yun, Lu Xixiong as chief editors, beginning large-scale compilation of the Complete Library of the Four Treasuries.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Culture",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1754,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "19th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "French and Indian War (North American theater of the Seven Years' War) breaks out",
+        "s": "Britain and France clash over the Ohio Valley in North America. Lieutenant Colonel George Washington of the Virginia militia leads troops into the Ohio Valley and encounters a French force at Jumonville Glen, killing the French officer Jumonville. The French then surround Washington at Fort Necessity; Washington surrenders and is allowed to withdraw with his troops. This event marks the formal start of the Seven Years' War in North America. Washington gains military experience that serves him in the American Revolution.",
+        "a": 39.8,
+        "l": -79.5,
+        "c": "Military",
+        "r": "North America",
+        "o": "North America"
+      },
+      {
+        "t": "Qing suppresses the Amursana rebellion",
+        "s": "Amursana, a Dzungar defector, dissatisfied with the Qing enfeoffment, launches a rebellion against the Qing in Ili. The Qianlong Emperor orders Zhao Hui to suppress it. Amursana is defeated, flees to Russia, and soon dies. The Qing gains full control of Xinjiang.",
+        "a": 43.9,
+        "l": 81.3,
+        "c": "Military",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1755,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "20th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Lisbon earthquake",
+        "s": "A magnitude 9.0 earthquake strikes Lisbon, Portugal, followed by a tsunami and fire that nearly destroy the city. The earthquake occurs on All Saints' Day morning, when churches are lit with candles; the earthquake topples candles, causing fires. An estimated 60,000–100,000 people die (Lisbon's population at the time is about 270,000). After the earthquake, the Marquis of Pombal undertakes a rational reconstruction, building earthquake-resistant buildings, wide streets, and sewage systems. The earthquake profoundly influences European philosophy; Voltaire satirizes Leibniz's optimism in Candide.",
+        "a": 38.7,
+        "l": -9.1,
+        "c": "Society",
+        "r": "Portugal",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing establishes the Ili General after pacifying the Dzungars",
+        "s": "The Qianlong Emperor establishes the Ili General to oversee military and civil affairs in the Tianshan region. The first general is Ming Rui, who builds the general's office in Huiyuan City (now Huocheng). The Qing implements a military government system in Xinjiang, stationing troops and opening farmland, strengthening its rule over Xinjiang.",
+        "a": 43.9,
+        "l": 81.3,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1756,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "21st year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Seven Years' War breaks out",
+        "s": "To prevent a three-front attack from Austria, France, and Russia, Frederick the Great of Prussia preemptively invades Saxony, sparking the Seven Years' War (1756–1763). The British-Prussian alliance confronts the Franco-Austrian-Russian-Swedish-Saxon alliance. The war is fought in Europe, North America, India, Africa, and the Caribbean, making it a true 'first world war'. Britain, with its naval superiority and financial power, seizes Canada and India from France, becoming the world's leading colonial power.",
+        "a": 52,
+        "l": 12,
+        "c": "Military",
+        "r": "Europe",
+        "o": "Europe"
+      },
+      {
+        "t": "Birth of Mozart",
+        "s": "Classical music master Wolfgang Amadeus Mozart is born in Salzburg to a court musician family. He shows musical genius at age 3, composes at 5, and tours Europe as a child prodigy for ten years. In his short life, he composes over 600 works, including 41 symphonies, 27 piano concertos, and 22 operas (such as The Marriage of Figaro and The Magic Flute). Mozart's music blends elegance and passion; he is a preeminent representative of the Viennese Classical school.",
+        "a": 47.8,
+        "l": 13.04,
+        "c": "Music",
+        "r": "Austria",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing suppresses the rebellion of the Khojas of Altishahr",
+        "s": "The Khoja leaders (Burhan al-Din and Khoja Jahan) of the Altishahr region in Xinjiang launch a rebellion against the Qing. The Qianlong Emperor orders Zhao Hui and Fu De to suppress it. The Qing army captures Kashgar and Yarkand; the Khojas flee to Badakhshan, where they are killed by the local ruler. The Qing unifies the southern Tianshan region and establishes a Deputy Lieutenant General.",
+        "a": 39.5,
+        "l": 76,
+        "c": "Military",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1757,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "22nd year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Plassey: beginning of British conquest of India",
+        "s": "British East India Company officer Robert Clive leads 3,000 soldiers (including 900 British) to defeat the 50,000-strong army of the Nawab of Bengal, Siraj-ud-Daulah, at Plassey (in present-day West Bengal, India). Clive bribes the Nawab's general Mir Jafar to defect, and the battle lasts only a few hours. Clive installs Mir Jafar as a puppet nawab and secures the tax revenues of Bengal. This battle makes the East India Company the most powerful political force in India, paving the way for the British conquest of India.",
+        "a": 23,
+        "l": 88,
+        "c": "Military",
+        "r": "England",
+        "o": "Asia"
+      },
+      {
+        "t": "Battle of Rossbach",
+        "s": "During the Seven Years' War, Frederick the Great of Prussia defeats a Franco-Austrian army of 41,000 with 22,000 at Rossbach in Saxony. The French and Austrians attack from three directions; Frederick seizes the moment when they are maneuvering to launch a cavalry flanking maneuver combined with a frontal infantry assault, ending the battle in just 90 minutes. The allies lose about 5,000 men, the Prussians only 548. The battle saves Prussia's collapsing front, and Napoleon later calls Frederick 'the greatest military commander in Europe'.",
+        "a": 51.3,
+        "l": 11.9,
+        "c": "Military",
+        "r": "Prussia",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing announces 'closed country' policy",
+        "s": "The Qianlong Emperor orders the closure of all trading ports except Canton (Guangzhou), stipulating that foreign merchants may only trade through the 'Canton Thirteen Factories' and must be represented by Chinese merchants (hongs). This is the formal establishment of the Qing dynasty's 'closed country' policy, remaining in effect until the First Opium War in 1842.",
+        "a": 23.1,
+        "l": 113.3,
+        "c": "Diplomacy",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1758,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "23rd year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Zorndorf",
+        "s": "During the Seven Years' War, Frederick the Great of Prussia fights a fierce battle against the Russian army at Zorndorf (in present-day Poland) on the Oder River. Casualties are heavy: Prussia loses about 12,000, Russia about 18,000. Frederick fails to annihilate the Russian army but prevents its linkup with Austrian forces. After the battle, Frederick remarks, 'This is not a battle, it is a slaughterhouse.'",
+        "a": 52.5,
+        "l": 14.6,
+        "c": "Military",
+        "r": "Prussia",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing establishes the Canton Thirteen Factories",
+        "s": "The Qianlong Emperor formally designates Canton (Guangzhou) as the sole port for foreign trade and designates thirteen hongs (trading firms) to monopolize foreign trade. The Thirteen Factories monopolize the export of tea, silk, porcelain, etc., acting as the sole intermediaries between the Qing and the West.",
+        "a": 23.1,
+        "l": 113.3,
+        "c": "Economy",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1759,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "24th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of the Plains of Abraham: British capture Quebec",
+        "s": "During the Seven Years' War, British General James Wolfe leads 4,500 soldiers to climb the cliffs at night onto the Plains of Abraham (west of Quebec City). French General the Marquis de Montcalm abandons the city to give battle. Both sides exchange fire; both Wolfe and Montcalm are mortally wounded. After 15 minutes, the French break, and the British capture Quebec. Montreal surrenders the following year, ending French rule in Canada. Britain thus gains Canada, and Wolfe becomes a national hero.",
+        "a": 46.8,
+        "l": -71.2,
+        "c": "Military",
+        "r": "England",
+        "o": "North America"
+      },
+      {
+        "t": "Birth of Schiller",
+        "s": "German poet and playwright Friedrich Schiller is born in Marbach. His works The Robbers and Intrigue and Love are masterpieces of the Sturm und Drang movement. Later in life, he collaborates with Goethe to establish Weimar Classicism.",
+        "a": 48.9,
+        "l": 9.2,
+        "c": "Literature",
+        "r": "Holy Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing suppresses the Khojas and unifies Xinjiang",
+        "s": "The Qing army captures Kashgar and Yarkand; the Khojas flee to Badakhshan and are killed. The Qianlong Emperor formally incorporates Xinjiang into the empire, naming it 'Xinjiang' (new frontier), and establishes the General's office in Ili.",
+        "a": 39.5,
+        "l": 76,
+        "c": "Military",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1760,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "25th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "George III ascends the British throne",
+        "s": "King George II of Great Britain dies, and his 22-year-old grandson George III succeeds. George III reigns for 60 years, during which Britain wins the Seven Years' War, loses the American colonies, and fights the Napoleonic Wars. In his later years, he suffers from porphyria, which is mistaken for madness, and his eldest son becomes prince regent in 1811. George III is the first Hanoverian monarch to speak English as his first language; he never visits Hanover, marking the 'Britishization' of the monarchy.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "Politics",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing compiles the Imperially Endorsed Gazetteer of the Western Regions",
+        "s": "The Qianlong Emperor orders the compilation of the Imperially Endorsed Gazetteer of the Western Regions, recording in detail the mountains, rivers, towns, villages, ethnic distribution, and resources of Xinjiang. This is the first official Qing gazetteer of Xinjiang.",
+        "a": 43.9,
+        "l": 81.3,
+        "c": "Culture",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1761,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "26th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Spain joins the Seven Years' War",
+        "s": "King Charles III of Spain signs the Family Compact with France, joining the war against Britain. Spain hopes to recover Gibraltar and Menorca, lost to Britain, and to regain Florida. But the British navy quickly captures Havana, Cuba, and Manila, the Philippines. Spain is forced to cede Florida to Britain in the Treaty of Paris (1763) in exchange for the return of Havana and Manila.",
+        "a": 40.4,
+        "l": -3.7,
+        "c": "Military",
+        "r": "Spain",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing establishes the Court of Colonial Affairs",
+        "s": "The Qianlong Emperor further perfects the Court of Colonial Affairs (Lifanyuan) to manage affairs in Mongolia, Xinjiang, Tibet, and other minority regions. The Court has a president and vice presidents, with six departments responsible for enfeoffments, tribute, postal relays, justice, etc.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1762,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "27th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Catherine the Great ascends the Russian throne",
+        "s": "Empress Elizabeth of Russia dies, and her nephew Peter III ascends. Peter III, an admirer of Frederick the Great of Prussia, immediately orders Russia to withdraw from the Seven Years' War and return occupied East Prussia. This betrayal enrages the Russian nobility and army. Catherine (Peter III's wife) leads a coup with the support of the Guard, deposes and murders Peter III, and ascends as Catherine II (Catherine the Great). She pursues enlightened absolutism, corresponds with Voltaire and Diderot, launches Russo-Turkish wars to secure access to the Black Sea, and participates in three partitions of Poland, making Russia a first-rate European power.",
+        "a": 55.8,
+        "l": 37.6,
+        "c": "Politics",
+        "r": "Russia",
+        "o": "Europe"
+      },
+      {
+        "t": "Rousseau publishes The Social Contract",
+        "s": "French Enlightenment thinker Jean-Jacques Rousseau publishes The Social Contract, putting forward the theory of 'popular sovereignty'. Rousseau argues that man is born free yet everywhere in chains; the legitimacy of the state comes from the 'general will' of the people; the government is merely the people's trustee, and the people have the right to overthrow a government that violates the contract. This work becomes the bible of the French Revolution; Robespierre claims to be a disciple of Rousseau. The Social Contract profoundly influences the theoretical foundations of modern democracy.",
+        "a": 48.86,
+        "l": 2.35,
+        "c": "Culture",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing establishes the Ili General's Office",
+        "s": "The Qianlong Emperor formally establishes the Ili General's Office to oversee military and civil affairs in the Tianshan region. The first general, Ming Rui, builds the office in Huiyuan City (now Huocheng), with subordinate officials such as Deputy Lieutenant Generals. Qing rule over Xinjiang becomes institutionalized.",
+        "a": 44,
+        "l": 80.9,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1763,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "28th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Treaty of Paris signed, ending Seven Years' War",
+        "s": "Britain, France, and Spain sign the Treaty of Paris in Paris, ending the Seven Years' War. France cedes Canada, its North American territories east of the Mississippi (Louisiana had been secretly ceded to Spain), and Senegal to Britain, retaining only a few sugar islands in the Caribbean and five trading posts in India. Spain cedes Florida to Britain. Britain gains absolute hegemony in North America and India, becoming the world's leading colonial power. France's defeat exacerbates its financial crisis, eventually leading to the French Revolution.",
+        "a": 48.9,
+        "l": 2.3,
+        "c": "Diplomacy",
+        "r": "France",
+        "o": "North America"
+      },
+      {
+        "t": "Pontiac's War breaks out",
+        "s": "Ottawa chief Pontiac leads several Native American tribes in the Great Lakes region to resist British occupation of former French North American territories. Pontiac besieges Detroit for months without success, but other tribes capture five of eight British forts. The British suppress the uprising, in part by distributing blankets infected with smallpox as a form of biological warfare. In October 1763, Britain issues the Royal Proclamation of 1763, establishing the Appalachian Mountains as the Indian Reserve and prohibiting colonial settlement west of the mountains.",
+        "a": 42,
+        "l": -83,
+        "c": "Military",
+        "r": "Native Americans",
+        "o": "North America"
+      },
+      {
+        "t": "Qing begins compilation of the Siku Quanshu",
+        "s": "The Qianlong Emperor orders a nationwide collection of books, formally beginning the compilation of the Complete Library of the Four Treasuries. He appoints Ji Yun as chief editor, with Lu Xixiong and Sun Shiyi as deputy editors, and hundreds of scholars participate.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Culture",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1764,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "29th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Hargreaves invents the spinning jenny",
+        "s": "English textile worker James Hargreaves invents the spinning jenny, which initially spins 8 threads at once (later improved to 80). Named after his daughter Jenny, it greatly increases cotton yarn production and lowers costs, marking the start of the Industrial Revolution. Hargreaves obtains a patent in 1768 but his machine is smashed by fellow workers afraid of unemployment. The water frame (1769) and spinning mule (1779) follow, and the British textile industry is the first to enter the age of machine production.",
+        "a": 53.75,
+        "l": -2.48,
+        "c": "Technology",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing campaign against Burma",
+        "s": "The Konbaung dynasty of Burma invades Yunnan. The Qianlong Emperor orders Ming Rui to lead a campaign against Burma. The Qing army penetrates deep into Burma but suffers from supply difficulties and miasma; Ming Rui is killed. The Qing then negotiate peace, and Burma offers tribute.",
+        "a": 22,
+        "l": 96,
+        "c": "Military",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1765,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "30th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Britain passes Stamp Act; North American colonies protest",
+        "s": "To pay off the Seven Years' War debt, the British Parliament passes the Stamp Act, requiring all printed materials in the North American colonies (newspapers, legal documents, licenses, playing cards) to bear a stamped tax. The colonists, with the slogan 'No taxation without representation', form the Sons of Liberty, burn stamps, and beat tax collectors. In October 1765, representatives from nine colonies meet in New York for the Stamp Act Congress and adopt a Declaration of Rights. In March 1766, Parliament, under pressure, repeals the act. This struggle is an important prelude to the American independence movement.",
+        "a": 40.7,
+        "l": -74,
+        "c": "Politics",
+        "r": "North America",
+        "o": "North America"
+      },
+      {
+        "t": "Watt improves the steam engine",
+        "s": "While repairing a Newcomen steam engine model, James Watt is inspired to add a separate condenser outside the cylinder, greatly improving thermal efficiency. He patents the design in 1769 (patent No. 913). In 1775, he partners with Matthew Boulton; his improved engine (rotary motion in 1781, double-acting in 1782) becomes the core power source of the Industrial Revolution, driving textiles, mining, metallurgy, and transportation into the steam age.",
+        "a": 55.9,
+        "l": -4.3,
+        "c": "Technology",
+        "r": "Scotland",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1766,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "31st year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Britain repeals the Stamp Act",
+        "s": "The British Parliament votes 275 to 167 to repeal the Stamp Act, but on the same day passes the Declaratory Act, asserting that Parliament has the power to legislate for the colonies in all cases whatsoever. The colonists celebrate the repeal but continue to resist the Declaratory Act and the subsequent Townshend Acts' import duties.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "Politics",
+        "r": "England",
+        "o": "North America"
+      },
+      {
+        "t": "Mozart's European tour",
+        "s": "The 10-year-old Mozart completes a three-year European tour covering Munich, Vienna, Paris, London, Amsterdam, and other cities. During the tour, he meets Johann Christian Bach, who greatly influences him.",
+        "a": 48.2,
+        "l": 16.4,
+        "c": "Music",
+        "r": "Austria",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1767,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "32nd year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Britain passes the Townshend Acts",
+        "s": "British Chancellor of the Exchequer Charles Townshend pushes through the Townshend Acts, which impose duties on glass, lead, paper, paint, and tea imported into the North American colonies. The colonies again boycott British goods; women organize the Daughters of Liberty, urging the avoidance of British tea in favor of local herbs. All duties except that on tea are repealed in 1770, but the tea tax is retained to assert parliamentary authority, eventually leading to the Boston Tea Party in 1773.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "Economy",
+        "r": "England",
+        "o": "North America"
+      },
+      {
+        "t": "Konbaung dynasty of Burma captures Ayutthaya",
+        "s": "Burmese King Hsinbyushin leads his army to capture the capital of Siam, Ayutthaya, destroying the Ayutthaya kingdom. Siamese general Taksin (of Chinese descent) escapes with a remnant to the southeast coast, later recovers the country, and establishes the Thonburi kingdom.",
+        "a": 14.3,
+        "l": 100.5,
+        "c": "Military",
+        "r": "Burma",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1768,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "33rd year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Captain Cook's first voyage",
+        "s": "Lieutenant James Cook of the British Royal Navy sets sail from Plymouth on the Endeavour to observe the transit of Venus in Tahiti (1769). He then secretly seeks the 'unknown southern continent', sailing along and mapping the coast of New Zealand, proving it is two islands, not a continent. In April 1770, Cook reaches the east coast of Australia, claiming it for Britain and naming it 'New South Wales'. The voyage greatly expands European knowledge of the Pacific.",
+        "a": -33.86,
+        "l": 151.21,
+        "c": "Exploration",
+        "r": "Australia",
+        "o": "Oceania"
+      },
+      {
+        "t": "Qing campaign against Burma fails again",
+        "s": "The Qianlong Emperor orders Fuheng to lead another campaign against Burma. The Qing army advances deep into Burma and fights fiercely. Although they win some victories, miasma spreads, Fuheng falls ill, and the Qing suffers heavy casualties. Eventually both sides negotiate peace, and Burma offers tribute.",
+        "a": 22,
+        "l": 96,
+        "c": "Military",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1769,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "34th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Birth of Napoleon Bonaparte",
+        "s": "Napoleon Bonaparte, Emperor of the First French Empire, is born in Ajaccio, Corsica, to a minor Italian noble family. Corsica had been purchased by France the year before his birth. He studies at the military school in Brienne and then the Paris Military Academy. When the French Revolution breaks out, he is 24; he rises rapidly through military genius, seizes power in the Coup of 18 Brumaire (1799) as First Consul, and crowns himself emperor in 1804. He commands over 60 battles, conquering almost all of Europe, before the final defeat at Waterloo.",
+        "a": 41.9,
+        "l": 8.7,
+        "c": "Politics",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Arkwright invents the water frame",
+        "s": "English barber Richard Arkwright invents the water frame and patents it. The machine, powered by water, produces strong but coarse yarn suitable for warp. Arkwright later builds the first cotton mill, adopting a 24-hour shift system, becoming a pioneer of the modern factory system.",
+        "a": 53,
+        "l": -2,
+        "c": "Technology",
+        "r": "England",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1770,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "35th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Boston Massacre",
+        "s": "British soldiers stationed in Boston clash with local residents. A group of townspeople throws snowballs and stones at a British sentry; the soldiers fire, killing five civilians (one of whom is Crispus Attucks, an African American). Colonial radicals portray the event as a 'massacre' and widely circulate an engraving by Paul Revere, inflaming tensions. The soldiers are tried and acquitted or given light sentences (branding on the thumb).",
+        "a": 42.4,
+        "l": -71.1,
+        "c": "Politics",
+        "r": "British North America",
+        "o": "North America"
+      },
+      {
+        "t": "Birth of Beethoven",
+        "s": "German composer Ludwig van Beethoven is born in Bonn. He studies under Haydn and settles in Vienna in 1792. Around 1800, his hearing begins to decline; in his later years, he is completely deaf, yet composes his greatest works: 9 symphonies (No. 3 'Eroica', No. 5 'Fate', No. 6 'Pastoral', No. 9 'Choral'), 5 piano concertos, 32 piano sonatas (No. 8 'Pathétique', No. 14 'Moonlight', No. 23 'Appassionata'). Beethoven bridges the Classical and Romantic eras and is called the 'Saint of Music'.",
+        "a": 50.74,
+        "l": 7.1,
+        "c": "Music",
+        "r": "Holy Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing compilation of Siku Quanshu reaches peak",
+        "s": "The Qianlong Emperor orders a nationwide search for books; large numbers of books are collected in Beijing. Meanwhile, the Qing court organizes scholars to review, collate, and copy the books, and compilation is in full swing.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Culture",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1771,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "36th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Torghut return to the east",
+        "s": "The Mongol Torghut tribe, unable to bear Russian oppression, sets out from the lower Volga River under its leader Ubashi to return to the Qing. The journey is 10,000 li, fighting Cossack cavalry and Kazakh tribes along the way, and suffering hunger and disease. Of 170,000 people who set out, only 70,000 reach Ili in Xinjiang. The Qianlong Emperor accepts and settles them, granting pastures. The Torghut return is a great feat in world ethnic migration history.",
+        "a": 43.9,
+        "l": 81.3,
+        "c": "Culture",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Gustav III's coup in Sweden",
+        "s": "King Gustav III of Sweden stages a bloodless coup, abolishing the nobility's rule through parliament and restoring absolute monarchy. He pursues enlightened absolutist reforms, abolishing torture, introducing religious tolerance, and promoting trade. His reign, known as the 'Gustavian era', is a golden age in Swedish history.",
+        "a": 59.3,
+        "l": 18.1,
+        "c": "Politics",
+        "r": "Sweden",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1772,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "37th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "First Partition of Poland",
+        "s": "Catherine the Great of Russia, Frederick the Great of Prussia, and Maria Theresa of Austria, to prevent Polish reforms (the Polish Patriotic Party tries to limit royal power), agree to partition Polish territory. Russia receives Polish territory east of the Western Dvina and Dnieper (92,000 sq km), Prussia receives Warmia and Royal Prussia (36,000 sq km), Austria receives Galicia (83,000 sq km). Poland loses one-third of its territory and population, becoming a protectorate of the three powers.",
+        "a": 52.2,
+        "l": 21,
+        "c": "Politics",
+        "r": "Russia",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing completes the Siku Quanshu general catalog",
+        "s": "Ji Yun and others compile the Siku Quanshu Zongmu Tiyao (Annotated General Catalog of the Complete Library of the Four Treasuries), recording and summarizing each book in the collection. It becomes a monumental work of Chinese bibliography. The catalog has 200 volumes, listing 3,461 included works and 6,793 works in the secondary bibliography.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Culture",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1773,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "38th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Boston Tea Party",
+        "s": "The British Parliament passes the Tea Act, allowing the East India Company to sell tea directly to the colonies (still retaining the three-pence-per-pound tea tax). Members of the Sons of Liberty in Boston, disguised as Native Americans, board three East India Company ships at night and throw 342 chests of tea into the harbor. The event enrages the British government, which then passes the Coercive Acts (called the 'Intolerable Acts' by the colonists), closing Boston harbor and revoking Massachusetts's self-government. These coercive measures directly lead to the convening of the First Continental Congress in 1774.",
+        "a": 42.36,
+        "l": -71.06,
+        "c": "Politics",
+        "r": "North America",
+        "o": "North America"
+      },
+      {
+        "t": "Pugachev's Rebellion",
+        "s": "Don Cossack Yemelyan Pugachev, claiming to be the murdered Tsar Peter III, leads a massive peasant uprising in the southern Urals and Volga region. The rebels capture Kazan, Saratov, and other cities, calling for 'land and freedom' and executing nobles and landlords. In 1774, the Tsarist government mobilizes heavy forces to suppress the rebellion; Pugachev is betrayed and executed. The rebellion is the largest peasant war in 18th-century Russia, exposing the deep crisis of serfdom.",
+        "a": 53,
+        "l": 50,
+        "c": "Society",
+        "r": "Russia",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing literary inquisition intensifies",
+        "s": "The Qianlong Emperor greatly intensifies the literary inquisition, banning 'offensive' books. Famous cases include the 'Yizhulou Poems case' (Xu Shukui) and the 'Ziguan case' (Wang Xihou), in which many are executed or exiled. During the compilation of the Siku Quanshu, large numbers of books considered to 'offend' the Qing are destroyed or altered.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1774,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "39th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "First Continental Congress meets",
+        "s": "Fifty-five delegates from twelve North American colonies (Georgia not represented) meet in Philadelphia for the First Continental Congress. They adopt a Declaration of Rights, demanding the repeal of the Coercive Acts and declaring that the colonies have the right to life, liberty, and property. They agree to boycott British goods and resolve to meet again in 1775 if their demands are rejected. The Continental Congress is a key political body leading to American independence.",
+        "a": 39.9,
+        "l": -75.2,
+        "c": "Politics",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "Goethe publishes The Sorrows of Young Werther",
+        "s": "German writer Johann Wolfgang von Goethe publishes the epistolary novel The Sorrows of Young Werther. The story of Werther's love for the engaged Lotte and his eventual suicide becomes a European sensation, sparking a 'Werther fever'—young people imitate Werther's yellow trousers and blue coat, some even commit suicide. The work reflects the desire of the youth of the time for emotional freedom and individual liberation; it is a masterpiece of the Sturm und Drang movement and establishes Goethe's international reputation.",
+        "a": 50.94,
+        "l": 6.96,
+        "c": "Literature",
+        "r": "Germany",
+        "o": "Europe"
+      },
+      {
+        "t": "Chlorine bleaching and the beginnings of the chemical industry",
+        "s": "In 1774, Swedish chemist Carl Wilhelm Scheele discovers chlorine. In 1785, French chemist Claude Berthollet discovers that chlorine can be used to bleach textiles. In 1789, Scottish chemist Charles Tennant invents bleaching powder (chlorinated lime), freeing cotton cloth production from reliance on sunlight bleaching (which took months). The industrial production of bleaching powder and other chemicals marks the beginning of the modern chemical industry.",
+        "a": 55.9,
+        "l": -4,
+        "c": "Technology",
+        "r": "England",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1775,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "40th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Shot heard round the world: American Revolutionary War begins",
+        "s": "Massachusetts Governor Gage sends troops to Concord to seize a colonial militia arsenal. At dawn on April 19, British troops encounter militia at Lexington; shots are fired (the 'shot heard round the world'), and eight militia are killed. The British continue to Concord, where they meet resistance and lose 273 on their retreat. News spreads throughout the colonies, militias surround Boston, and the war for independence begins.",
+        "a": 42.45,
+        "l": -71.23,
+        "c": "Military",
+        "r": "Thirteen Colonies",
+        "o": "North America"
+      },
+      {
+        "t": "Second Continental Congress meets; Washington appointed Commander-in-Chief",
+        "s": "The Second Continental Congress meets in Philadelphia, decides to form the Continental Army, authorizes the printing of paper money, and opens ports to foreign trade. The Congress appoints George Washington as Commander-in-Chief of the Continental Army (without pay) to command the New England militia besieging the British in Boston. Washington takes command on July 3 in Cambridge, Massachusetts, beginning eight and a half years of arduous war.",
+        "a": 39.95,
+        "l": -75.16,
+        "c": "Politics",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "Qing begins second campaign against the Jinchuan chieftains",
+        "s": "The Jinchuan chieftains again rebel. The Qianlong Emperor orders Agui and Mingliang to lead the campaign. The Qing army adopts a step-by-step approach and siege tactics, capturing the last rebel stronghold at Lewei two years later. The Jinchuan campaigns end.",
+        "a": 31,
+        "l": 102,
+        "c": "Military",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1776,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "41st year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Declaration of Independence signed",
+        "s": "The Continental Congress formally adopts the Declaration of Independence, drafted by Thomas Jefferson, in Philadelphia. The declaration announces the separation of the thirteen North American colonies from Britain and the formation of the 'United States of America'. The preamble states: 'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.' July 4 becomes Independence Day in the United States. The declaration inspires national liberation movements around the world.",
+        "a": 39.95,
+        "l": -75.15,
+        "c": "Politics",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "Adam Smith publishes The Wealth of Nations",
+        "s": "Scottish economist Adam Smith publishes An Inquiry into the Nature and Causes of the Wealth of Nations (commonly The Wealth of Nations) in London. Smith puts forward the 'invisible hand' principle: individuals pursuing their own self-interest inadvertently promote the public interest; free trade promotes economic growth more effectively than government regulation; division of labor is the source of increasing wealth. The book is a foundational work of classical political economy, profoundly influencing later economic thought and policy, advocating laissez-faire.",
+        "a": 55.95,
+        "l": -3.2,
+        "c": "Culture",
+        "r": "Scotland",
+        "o": "Europe"
+      },
+      {
+        "t": "Watt's steam engine enters practical use",
+        "s": "James Watt, in partnership with Matthew Boulton, produces the first commercial Watt steam engine at the Soho Foundry in Birmingham, used to drive a blower for an iron foundry. This engine saves about 75% of fuel compared to the Newcomen engine and produces continuous rotary motion. In 1781, Watt invents the 'sun and planet' gear to convert reciprocating motion to rotary motion; the steam engine quickly spreads to textiles, mining, metallurgy, and transportation, ushering in a new phase of the Industrial Revolution.",
+        "a": 55.9,
+        "l": -3.8,
+        "c": "Technology",
+        "r": "Scotland",
+        "o": "Europe"
+      },
+      {
+        "t": "First copy of the Siku Quanshu completed",
+        "s": "After ten years of effort, the first copy of the Siku Quanshu (Wenyuan Pavilion copy) is completed. It contains 79,000 chapters in 36,000 volumes, divided into Classics, History, Philosophy, and Literature. Six more copies are made and stored in seven libraries in the north and south.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Culture",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Adam Smith publishes The Wealth of Nations",
+        "s": "Scottish economist Adam Smith published An Inquiry into the Nature and Causes of the Wealth of Nations, a foundational work of classical economics. Smith introduced concepts such as the division of labor, the invisible hand, and free market principles, arguing that economic prosperity arises from self-interest and competition. The book influenced generations of economists and shaped modern capitalist thought.",
+        "c": "Culture",
+        "r": "Scotland",
+        "o": "Europe",
+        "a": 55.9,
+        "l": -3.2
+      }
+    ]
+  },
+  {
+    "y": 1777,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "42nd year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Saratoga victory: turning point of the American Revolutionary War",
+        "s": "American Generals Horatio Gates and Benedict Arnold surround and force the surrender of 5,700 British troops under General John Burgoyne at Saratoga, New York. The victory captures all the British weapons and supplies. The battle prompts France to sign a treaty of alliance with the United States in 1778; Spain and the Netherlands later join the anti-British war, transforming the conflict from a British civil war into a European intervention.",
+        "a": 42.9,
+        "l": -73.6,
+        "c": "Military",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "Qianlong Emperor's third eastern tour to Shengjing",
+        "s": "The Qianlong Emperor makes his third eastern tour to Shengjing (now Shenyang) to pay homage to the tombs of Nurhaci and Hong Taiji, demonstrating respect for his ancestors. The eastern tours are an important way for the Qing emperors to cultivate the allegiance of Manchu nobles in the northeast.",
+        "a": 41.8,
+        "l": 123.4,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1778,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "43rd year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "France recognizes American independence, signs Franco-American alliance",
+        "s": "After the Saratoga victory, King Louis XVI of France decides to recognize American independence and signs a Treaty of Amity and Commerce and a Military Alliance. France pledges naval, military, and financial aid to the United States and renounces any territorial claims in America. The French navy and expeditionary force play a decisive role in the victory at Yorktown (1781), but the war bankrupts France, indirectly leading to the French Revolution.",
+        "a": 48.9,
+        "l": 2.3,
+        "c": "Diplomacy",
+        "r": "France",
+        "o": "North America"
+      },
+      {
+        "t": "Captain Cook reaches Hawaii",
+        "s": "British explorer James Cook discovers the Hawaiian Islands (which he names the 'Sandwich Islands') during his third voyage. In January 1779, Cook is killed on a beach following a confrontation with native Hawaiians. Cook's voyages greatly expand European knowledge of the Pacific. He accurately maps Pacific islands and solves scurvy (using sauerkraut and citrus juice), with remarkably few crew deaths.",
+        "a": 21.5,
+        "l": -158,
+        "c": "Exploration",
+        "r": "Hawaii",
+        "o": "Oceania"
+      }
+    ]
+  },
+  {
+    "y": 1779,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "44th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Spain joins anti-British alliance",
+        "s": "Spain, persuaded by France, joins the anti-British alliance, hoping to recover Gibraltar, Menorca, and Florida. The Spanish navy assists the Franco-American forces, but the siege of Gibraltar lasts three years without success, and Spain loses Florida to the British navy (1781). In the Treaty of Paris (1783), Spain regains Florida but fails to recover Gibraltar.",
+        "a": 40.4,
+        "l": -3.7,
+        "c": "Military",
+        "r": "Spain",
+        "o": "North America"
+      },
+      {
+        "t": "Completion of the Siku Quanshu",
+        "s": "The Qianlong Emperor holds a completion ceremony for the Siku Quanshu at the Wenyuan Pavilion. The complete set is copied in seven copies, stored in the Wenyuan Pavilion (Beijing), Wenyuan Pavilion (Beijing), Wensu Pavilion (Shenyang), Wenjin Pavilion (Chengde) (the 'Northern Four Pavilions'), and the Wenhui Pavilion (Yangzhou), Wenzong Pavilion (Zhenjiang), Wenlan Pavilion (Hangzhou) (the 'Southern Three Pavilions').",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Culture",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1780,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "45th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Catherine the Great declares League of Armed Neutrality",
+        "s": "Catherine the Great of Russia declares the League of Armed Neutrality, joining Denmark, Sweden, Prussia, Austria, Portugal, and other neutral states to convoy and protect neutral shipping from British and French wartime seizures. The League forces Britain to respect neutral rights, enhancing Russia's voice in international affairs. It is a diplomatic masterpiece by Catherine, cleverly using Anglo-French rivalry to expand Russian influence.",
+        "a": 55.8,
+        "l": 37.6,
+        "c": "Diplomacy",
+        "r": "Russia",
+        "o": "Europe"
+      },
+      {
+        "t": "Túpac Amaru II rebellion in Peru",
+        "s": "Peruvian indigenous leader José Gabriel Condorcanqui (Túpac Amaru II), claiming to be a descendant of the Inca, launches a major anti-Spanish rebellion, demanding the abolition of the mita (forced labor) and the restoration of the Inca Empire. The rebel army numbers 60,000 and captures large areas of southern Peru. In 1781, Túpac Amaru is betrayed and executed. The rebellion, though defeated, shakes Spanish colonial rule.",
+        "a": -14,
+        "l": -72,
+        "c": "Society",
+        "r": "Peru",
+        "o": "South America"
+      }
+    ]
+  },
+  {
+    "y": 1781,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "46th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Yorktown: American victory in Revolutionary War",
+        "s": "American General Washington and French General Rochambeau command 17,000 Franco-American forces (8,000 Americans, 9,000 French) and, with the help of French Admiral de Grasse, surround 8,000 British troops under General Cornwallis at Yorktown, Virginia. On October 17, Cornwallis, deeming his situation 'desperate', surrenders. The British band plays 'The World Turned Upside Down'. After the battle, Britain ceases major military operations, and the Treaty of Paris in 1783 recognizes American independence.",
+        "a": 37.2,
+        "l": -76.5,
+        "c": "Military",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "Kant publishes Critique of Pure Reason",
+        "s": "German philosopher Immanuel Kant publishes the Critique of Pure Reason, the first of his three critiques. Kant's critical philosophy seeks to answer: 'What can we know?' He argues that human knowledge comes from sensibility and understanding; space and time are a priori forms of intuition; the thing-in-itself is unknowable. Kant reconciles rationalism (reason as source of truth) and empiricism (experience as source of truth). His 'Copernican revolution' shifts the direction of Western philosophy, influencing Hegel, Schopenhauer, and later philosophers.",
+        "a": 54.71,
+        "l": 20.51,
+        "c": "Culture",
+        "r": "Prussia",
+        "o": "Europe"
+      },
+      {
+        "t": "Su Shisan rebellion in Gansu",
+        "s": "Su Shisan, a Salar Muslim in Gansu, leads a rebellion against official oppression. The rebels capture Hezhou (now Linxia) and lay siege to Lanzhou. The Qing mobilizes heavy forces to suppress the rebellion; Su Shisan is killed in battle. The Qing court executes the implicated officials.",
+        "a": 35.6,
+        "l": 103.2,
+        "c": "Society",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1782,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "47th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Chakri dynasty founded in Siam",
+        "s": "Siamese general Chao Phraya Chakri overthrows Taksin (of Chinese descent) and takes the throne, founding the Chakri dynasty (Rattanakosin dynasty). He styles himself Rama I, moves the capital from Thonburi to Bangkok, and rebuilds the Grand Palace and the Temple of the Emerald Buddha. The Chakri dynasty continues to the present day; Rama I is the ancestor of the current king, Rama X.",
+        "a": 14,
+        "l": 100,
+        "c": "Politics",
+        "r": "Siam",
+        "o": "Asia"
+      },
+      {
+        "t": "Completion of all seven copies of the Siku Quanshu",
+        "s": "After ten years, the seventh copy of the Siku Quanshu (Hangzhou Wenlan Pavilion copy) is completed. The work totals seven copies, using over 3,800 scribes, making it the largest encyclopedia in Chinese history.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Culture",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1783,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "48th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Treaty of Paris signed, ending American Revolutionary War",
+        "s": "American representatives Benjamin Franklin, John Adams, and John Jay sign the Treaty of Paris with the British. Britain formally recognizes American independence and defines its borders: west to the Mississippi, south to northern Florida, north to the Great Lakes. Britain promises to withdraw all its forces. The U.S. Congress 'earnestly recommends' that the states restore the property of loyalists. The treaty secures full American independence.",
+        "a": 48.9,
+        "l": 2.3,
+        "c": "Diplomacy",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "Montgolfier hot air balloon flight",
+        "s": "French papermakers Joseph-Michel and Jacques-Étienne Montgolfier launch the first hot air balloon (unmanned) in front of the Palace of Versailles. Made of linen and paper, burning wool and wet straw to produce hot air, it rises to 500 meters, flies for 10 minutes, and lands, where it is slashed by peasants. In November of the same year, Jean-François Pilâtre de Rozier and François d'Arlandes make the first manned flight in a hot air balloon.",
+        "a": 48.9,
+        "l": 2.3,
+        "c": "Technology",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Qianlong Emperor's fifth southern tour",
+        "s": "The Qianlong Emperor, now 73, makes his fifth southern tour. The tours remain extremely costly. The emperor inspects water conservancy, reviews troops, meets with gentry, and writes numerous imperial poems along the way.",
+        "a": 32,
+        "l": 118.8,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1784,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "49th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Water frame becomes widespread; Industrial Revolution accelerates",
+        "s": "The water frame invented by Richard Arkwright (1769) becomes widely used. Powered by water, it produces strong but coarse yarn suitable for warp. Arkwright builds the first cotton mill in Derbyshire, adopting a 24-hour shift system, becoming a pioneer of the modern factory system. Factory machine production replaces domestic workshops, and the Industrial Revolution spreads from the British cotton textile industry to other sectors.",
+        "a": 53.5,
+        "l": -2.2,
+        "c": "Economy",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "American ship Empress of China arrives in Canton",
+        "s": "The American merchant ship Empress of China, sailing from New York, arrives at Whampoa anchorage in Canton (Guangzhou), beginning direct trade between the United States and China. American merchants sell ginseng and furs and buy tea, silk, and porcelain. This marks the beginning of Sino-American relations.",
+        "a": 23.1,
+        "l": 113.3,
+        "c": "Economy",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1785,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "50th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Coulomb's law published",
+        "s": "French physicist Charles-Augustin de Coulomb discovers that the force between two point charges is proportional to the product of their charges and inversely proportional to the square of the distance between them, acting along the line connecting them. Coulomb's law is the first quantitative law of electromagnetism, laying the foundation of electrostatics. Coulomb also invents the torsion balance to measure tiny forces, moving electrical research from qualitative observation to precise measurement.",
+        "a": 48.86,
+        "l": 2.35,
+        "c": "Technology",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Qianlong Emperor holds a thousand-elder feast",
+        "s": "The Qianlong Emperor holds a 'Thousand Elder Feast' in the Forbidden City, inviting 3,000 people over age 65. The emperor presents wine and poems to the elders, celebrating the prosperity of the empire. This is the grandest event honoring the elderly in the Qing dynasty.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Society",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1786,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "51st year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Shays' Rebellion",
+        "s": "In western Massachusetts, farmers suffering from debt and high taxes take up arms under the leadership of former Continental Army captain Daniel Shays. The rebels close courthouses and prevent debt auctions. In January 1787, Shays leads 1,000 men to attack the Springfield Armory but is defeated by state militia; Shays is sentenced to death but later pardoned. The rebellion exposes the weakness of the central government under the Articles of Confederation and directly prompts the Philadelphia Constitutional Convention of 1787.",
+        "a": 42.4,
+        "l": -72.5,
+        "c": "Society",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "Lin Shuangwen rebellion in Taiwan",
+        "s": "Lin Shuangwen, a leader of the Tiandihui (Heaven and Earth Society) in Taiwan, rebels in Zhanghua, captures the prefectural capital (Tainan), and proclaims himself Emperor of the Restored Ming. The Qing court orders Fukang'an to lead forces across the strait to suppress the rebellion. Lin Shuangwen is captured and sent to Beijing for execution. The Qing army suffers heavy casualties in the campaign.",
+        "a": 23.5,
+        "l": 120.5,
+        "c": "Military",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1787,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "52nd year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Constitutional Convention; U.S. Constitution born",
+        "s": "To remedy the weaknesses of the central government under the Articles of Confederation, 55 delegates from twelve states (Rhode Island refuses to attend) meet in Philadelphia for the Constitutional Convention. After 116 days of intense debate, they adopt the Constitution of the United States, establishing separation of powers (legislative, executive, judicial) and federalism. The Constitution provides for a president as head of state, a bicameral Congress, and a Supreme Court as the highest judicial authority. The Constitution goes into effect in 1788, and Washington is elected first president in 1789.",
+        "a": 39.9,
+        "l": -75.2,
+        "c": "Politics",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "Qing suppresses Lin Shuangwen rebellion",
+        "s": "Fukang'an leads Qing forces to break through Lin Shuangwen's stronghold at Dali. Lin flees into the mountains but is captured. Lin and his followers are executed. The Qianlong Emperor lists the pacification of Taiwan among his 'Ten Great Victories'.",
+        "a": 24,
+        "l": 120.5,
+        "c": "Military",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1788,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "53rd year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "British colonization of Australia",
+        "s": "The British First Fleet (11 ships carrying 1,530 people, including 736 convicts) under Captain Arthur Phillip arrives at Botany Bay, then moves to Sydney Cove to establish a settlement. Phillip proclaims New South Wales a British colony and serves as its first governor. Britain uses Australia as a penal colony; by 1868, about 160,000 convicts are transported there. Colonization leads to a dramatic decline in the native population and cultural destruction.",
+        "a": -33.86,
+        "l": 151.21,
+        "c": "Politics",
+        "r": "Australia",
+        "o": "Oceania"
+      },
+      {
+        "t": "Kant publishes Critique of Practical Reason",
+        "s": "German philosopher Kant publishes the Critique of Practical Reason, the second of his three critiques. The book explores moral philosophy, presenting the 'categorical imperative': act only according to that maxim whereby you can at the same time will that it should become a universal law; treat humanity, whether in your own person or in the person of any other, never merely as a means but always as an end. Kant argues that the foundation of morality is not happiness or utility, but reason and freedom. The work profoundly influences Western ethics and philosophy of law.",
+        "a": 54.71,
+        "l": 20.51,
+        "c": "Culture",
+        "r": "Prussia",
+        "o": "Europe"
+      },
+      {
+        "t": "Nguyễn Huệ captures Thăng Long (Hanoi)",
+        "s": "Nguyễn Huệ, leader of the Tây Sơn army in Vietnam, leads a northern campaign, capturing Thăng Long (modern Hanoi) and destroying the Later Lê dynasty. The last Lê emperor, Lê Chiêu Thống, flees to China and requests Qing intervention. The Qianlong Emperor decides to send troops to Vietnam.",
+        "a": 21,
+        "l": 105.8,
+        "c": "Military",
+        "r": "Vietnam",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1789,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "54th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "French Revolution breaks out; storming of the Bastille",
+        "s": "King Louis XVI of France convenes the Estates-General for the first time in 175 years to solve a fiscal crisis. The Third Estate (commoners) demands voting by head rather than by order; they are rejected, so they declare themselves the National Assembly and swear the Tennis Court Oath not to disband until a constitution is written. Louis XVI mobilizes troops, and on July 14, Parisian citizens storm the Bastille, a symbol of royal tyranny (only seven prisoners are held). The Revolution is in full swing; in August the National Assembly adopts the Declaration of the Rights of Man, establishing the principles of liberty, equality, and fraternity.",
+        "a": 48.86,
+        "l": 2.37,
+        "c": "Politics",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Washington elected first U.S. president",
+        "s": "Under the new Constitution, the Electoral College unanimously elects George Washington as the first president (no opponent) and John Adams as vice president. On April 30, 1789, Washington is inaugurated in Federal Hall in New York, adopting the title 'President of the United States'. He appoints Thomas Jefferson as Secretary of State and Alexander Hamilton as Secretary of the Treasury, establishing a presidential republican government. Washington serves two terms and steadfastly refuses a third, establishing the two-term tradition.",
+        "a": 40.7,
+        "l": -74,
+        "c": "Politics",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "Declaration of the Rights of Man adopted",
+        "s": "The French National Assembly adopts the Declaration of the Rights of Man and of the Citizen, consisting of 17 articles. It proclaims that men are born and remain free and equal in rights; that liberty, property, security, and resistance to oppression are natural and imprescriptible rights; that sovereignty resides in the people; that law is the expression of the general will; that citizens have freedom of speech, press, assembly, and religion; and that private property is inviolable and sacred. The Declaration becomes the preamble to the French constitution and profoundly influences human rights legislation worldwide.",
+        "a": 48.86,
+        "l": 2.35,
+        "c": "Politics",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing expedition to Vietnam defeated by Nguyễn Huệ",
+        "s": "The Qianlong Emperor orders Sun Shiyi to lead a Qing force into Vietnam to restore Lê Chiêu Thống. The Qing capture Thăng Long, but Nguyễn Huệ leads a counterattack, surprising the Qing camp on the night of Tet (Lunar New Year). The Qing are routed, and Sun Shiyi flees in disgrace. The Qianlong Emperor is furious but later accepts Nguyễn Huệ's tribute and recognizes him as King of Annam.",
+        "a": 21,
+        "l": 105.8,
+        "c": "Military",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1790,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "55th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "France abolishes feudal privileges and guilds",
+        "s": "The National Assembly passes decrees abolishing feudalism and noble privileges: seigneurial courts, the tithe, hunting rights, pigeon rights, etc., as well as hereditary noble titles and ranks, and craft guilds. All citizens may freely choose occupations. These decrees completely destroy the social foundations of the Old Regime in France, clearing the way for capitalist development.",
+        "a": 48.9,
+        "l": 2.3,
+        "c": "Politics",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Qianlong Emperor's 80th birthday celebration",
+        "s": "The Qianlong Emperor, turning 80, holds a grand birthday celebration. Envoys from various countries, Mongol princes, and tributary representatives come to pay homage. The emperor holds a 'Thousand Elder Feast' in the Qianqing Palace, inviting people over 60. This is one of the most splendid celebrations of the Qianlong golden age.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1791,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "56th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "French Constitution of 1791",
+        "s": "The French National Assembly adopts the Constitution of 1791, establishing a constitutional monarchy. It provides for a unicameral Legislative Assembly (legislative power), the king (executive power), and elected judges (judicial power). It divides citizens into 'active citizens' (taxpayers) and 'passive citizens' (propertyless), with only active citizens eligible to vote. The 1791 Constitution is France's first written constitution, but it lasts less than a year (the Revolution radicalizes after Louis XVI's failed flight).",
+        "a": 48.9,
+        "l": 2.3,
+        "c": "Politics",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "First printed edition of Dream of the Red Chamber (Cheng-Gao edition)",
+        "s": "Cheng Weiyuan and Gao E edit the surviving draft by Cao Xueqin into 120 chapters (the last 40 are generally attributed to Gao E) and publish it using movable type printing, known as the 'Chengjia edition'. The novel was originally titled The Story of the Stone; the first 80 chapters circulated in manuscript form. The Cheng-Gao edition prints the complete novel for the first time, spreading it widely. Dream of the Red Chamber, set against the decline of the Jia, Shi, Wang, and Xue families, tells the tragic love story of Jia Baoyu and Lin Daiyu, and is considered the pinnacle of the Chinese classical novel.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Literature",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "U.S. Bill of Rights adopted",
+        "s": "The U.S. Congress adopts the first ten amendments to the Constitution, collectively known as the Bill of Rights. The amendments guarantee: freedom of speech, press, assembly, petition, and religion; the right to bear arms; protection against quartering of soldiers (Third Amendment); protection against unreasonable searches and seizures; rights of criminal defendants (protection against self-incrimination, right to a fair and speedy jury trial, double jeopardy); protection against cruel and unusual punishment; and reserving to the states or the people powers not delegated to the federal government. The amendments take effect on December 15, 1791.",
+        "a": 38.9,
+        "l": -77.04,
+        "c": "Law",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "Death of Mozart",
+        "s": "Austrian composer Wolfgang Amadeus Mozart dies in Vienna at age 35, leaving his Requiem unfinished. The cause of death remains a mystery. Despite his early death, he composed over 600 works, becoming a supreme representative of Classical music.",
+        "a": 48.2,
+        "l": 16.4,
+        "c": "Music",
+        "r": "Austria",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1792,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "57th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "First French Republic proclaimed",
+        "s": "Radical revolutionaries stage the insurrection of August 10, storming the Tuileries Palace and arresting King Louis XVI. The Legislative Assembly votes to abolish the monarchy and establish the First French Republic. On September 22, 1792, the National Convention declares Year I of the Republic. The Republic is torn by conflict between the Girondins and the Montagnards, with the Jacobins eventually seizing power and ushering in the Reign of Terror.",
+        "a": 48.9,
+        "l": 2.3,
+        "c": "Politics",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Qing's Gurkha campaign in Tibet",
+        "s": "The Gurkhas (Nepal) invade Tibet again, looting the Tashilhunpo Monastery. The Qianlong Emperor orders Fukang'an to lead a counter-invasion. The Qing army crosses the Himalayas and advances to the Gurkha capital, Kathmandu. The Gurkhas sue for peace and become a Qing tributary. The Qianlong Emperor lists this campaign among his 'Ten Great Victories'.",
+        "a": 27.7,
+        "l": 85.3,
+        "c": "Military",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Mary Wollstonecraft publishes A Vindication of the Rights of Woman",
+        "s": "English writer Mary Wollstonecraft publishes A Vindication of the Rights of Woman, the first major feminist work in the West. She argues that women possess the same reason as men and should enjoy equal education and political rights. The book becomes a foundational text of the feminist movement.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "Culture",
+        "r": "England",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1793,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "58th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Louis XVI executed",
+        "s": "After trial, the National Convention sentences Louis XVI to death for high treason. On January 21, 1793, Louis XVI is guillotined at the Place de la Révolution (now Place de la Concorde) in Paris. His last words: 'I forgive all my enemies; I pray that my blood will not fall on France.' His death alarms European monarchs, and Britain, Austria, Prussia, Spain, the Netherlands, and others form the First Coalition to intervene in the French Revolution.",
+        "a": 48.86,
+        "l": 2.35,
+        "c": "Politics",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Macartney Embassy to China",
+        "s": "The British government sends Lord George Macartney on a mission to China to celebrate the Qianlong Emperor's birthday. The embassy brings orreries, steam engine models, ship models, and other products of the Industrial Revolution. Macartney requests the opening of ports, tariff reduction, and the exchange of diplomats. The Qianlong Emperor refuses, saying 'Our empire produces all things in abundance and lacks nothing', and faults the British envoy for not performing the full kowtow. In his diary, Macartney notes that the Qing military 'has outdated weapons and low morale', foreshadowing the Opium War half a century later.",
+        "a": 40,
+        "l": 117,
+        "c": "Diplomacy",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Jacobins seize power; Reign of Terror begins",
+        "s": "The Jacobins, led by Robespierre and Saint-Just, overthrow the Girondins in the National Convention. They establish the Committee of Public Safety and pursue a policy of terror: passing the Law of Suspects, executing 'counterrevolutionaries'—at its peak, hundreds are guillotined weekly. Queen Marie Antoinette and chemist Lavoisier are among those executed.",
+        "a": 48.9,
+        "l": 2.3,
+        "c": "Politics",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Cotton gin invented: revolutionizing the American cotton industry",
+        "s": "In 1793, American inventor Eli Whitney invents the cotton gin, which removes seeds from cotton 50 times faster than manual methods. The cotton gin makes short-staple cotton commercially viable, dramatically expanding the cotton industry in the southern United States. However, the technology also increases the demand for slave labor, entrenching slavery in the South and indirectly intensifying North-South tensions.",
+        "a": 32.3,
+        "l": -82.4,
+        "c": "Technology",
+        "r": "United States",
+        "o": "North America"
+      }
+    ]
+  },
+  {
+    "y": 1794,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "59th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Thermidorian Reaction: Robespierre falls",
+        "s": "During the Reign of Terror (1793–1794), about 40,000 are executed and 300,000 imprisoned. On 9 Thermidor (July 27, 1794), members of the National Convention opposed to Robespierre stage a coup, arresting Robespierre, Saint-Just, and 22 others. Robespierre is guillotined the next day, ending the Terror, and France enters the Directory period.",
+        "a": 48.9,
+        "l": 2.3,
+        "c": "Politics",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Wordsworth publishes Lyrical Ballads",
+        "s": "English poet William Wordsworth, in collaboration with Coleridge, publishes Lyrical Ballads, whose preface becomes the manifesto of English Romanticism. Wordsworth argues that poetry should use the language of common people, celebrate nature and inner emotion, and reject the rigid rules of Classicism.",
+        "a": 54.5,
+        "l": -3,
+        "c": "Literature",
+        "r": "England",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1795,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Qianlong Emperor",
+        "e": "60th year of Qianlong"
+      }
+    ],
+    "v": [
+      {
+        "t": "Third Partition of Poland; Poland ceases to exist",
+        "s": "Catherine the Great of Russia, Frederick William II of Prussia, and Francis II of Austria sign an agreement for the third partition of Poland. Russia gains Lithuania and western Belarus (120,000 sq km), Prussia gains Warsaw and Masovia (55,000 sq km), Austria gains Kraków and Lublin (47,000 sq km). The Polish–Lithuanian Commonwealth is completely extinguished; King Stanisław August Poniatowski abdicates. Poland disappears from the map of Europe for 123 years.",
+        "a": 52.2,
+        "l": 21,
+        "c": "Politics",
+        "r": "Russia",
+        "o": "Europe"
+      },
+      {
+        "t": "French Directory established",
+        "s": "After the Thermidorian Reaction, the National Convention adopts a new constitution (Constitution of Year III), establishing the Directory. The Directory consists of five directors and a bicameral legislature. But the Directory is corrupt and ineffective, creating the conditions for Napoleon's rise.",
+        "a": 48.9,
+        "l": 2.3,
+        "c": "Politics",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Qianlong abdicates; Jiaqing ascends",
+        "s": "To avoid exceeding his grandfather Kangxi's 61-year reign, the Qianlong Emperor holds an abdication ceremony, passing the throne to his 15th son, Yongyan (the Jiaqing Emperor), though he continues to rule as emperor emeritus. Jiaqing is a puppet until Qianlong's death in 1799. Qianlong's abdication is the only voluntary transfer of imperial power in the Qing dynasty (not due to the emperor's death), reflecting the political maturity of the middle Qing.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1796,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Jiaqing Emperor",
+        "e": "1st year of Jiaqing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Napoleon begins Italian campaign",
+        "s": "Napoleon Bonaparte, age 27, is appointed commander of the French Army of Italy. Leading a poorly equipped army across the Alps, he defeats the combined forces of Austria and the Kingdom of Sardinia in a series of battles (Montenotte, Lodi Bridge, Arcole), forcing Sardinia to sue for peace and occupying Milan. In 1797, he advances to the outskirts of Vienna, forcing Austria to sign the Treaty of Campo Formio, ending the War of the First Coalition. The Italian campaign makes Napoleon famous overnight, revealing his extraordinary military genius.",
+        "a": 45.46,
+        "l": 9.19,
+        "c": "Military",
+        "r": "Italy",
+        "o": "Europe"
+      },
+      {
+        "t": "Jenner performs first smallpox vaccination",
+        "s": "English physician Edward Jenner performs a smallpox vaccination experiment in Gloucestershire. He takes matter from a cowpox pustule on milkmaid Sarah Nelmes and inoculates 8-year-old James Phipps. The boy develops mild symptoms and recovers. Two months later, Jenner inoculates him with a lethal dose of smallpox virus; the boy remains healthy. Jenner publishes his findings in 1798 (An Inquiry into the Causes and Effects of the Variolae Vaccinae), founding immunology and eventually helping to eradicate smallpox in 1980.",
+        "a": 51.79,
+        "l": -2.24,
+        "c": "Science",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "White Lotus Rebellion breaks out in Qing",
+        "s": "White Lotus leaders Wang Cong'er and Yao Zhifu launch a rebellion in Hubei, Sichuan, and Shaanxi. The rebels' slogan is 'Change the heavens and earth'. The Qing army repeatedly fails to suppress it. The Jiaqing Emperor punishes generals Fukang'an and Helin, promotes generals Eledengbao and Yang Yuchun, and adopts a policy of 'fortify and clear the countryside'. The rebellion lasts nine years, costs the Qing army dearly, and marks the beginning of Qing decline.",
+        "a": 32,
+        "l": 110,
+        "c": "Society",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Jenner develops cowpox vaccination",
+        "s": "On May 14, 1796, English country doctor Edward Jenner vaccinates 8-year-old James Phipps with cowpox, then demonstrates the boy's immunity to smallpox. This is the world's first successful vaccination experiment. Jenner's discovery lays the foundation of modern immunology. Cowpox vaccination spreads throughout Europe, and smallpox eventually becomes the first human disease to be eradicated (1980).",
+        "a": 51.8,
+        "l": -2.3,
+        "c": "Technology",
+        "r": "England",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1797,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Jiaqing Emperor",
+        "e": "2nd year of Jiaqing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Treaty of Campo Formio signed",
+        "s": "France and Austria sign the Treaty of Campo Formio, ending the War of the First Coalition. Austria recognizes French control of Belgium, the Rhineland west of the Rhine, and northern Italy (the Cisalpine Republic), and cedes the Austrian Netherlands to France; France transfers the Republic of Venice to Austria as compensation. The treaty makes France the strongest power on the European continent, and Napoleon's personal prestige soars.",
+        "a": 45.5,
+        "l": 12,
+        "c": "Diplomacy",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Spithead and Nore mutinies in the Royal Navy",
+        "s": "Due to poor conditions (pay long overdue, bad food, shore leave denied), the Royal Navy experiences major mutinies at Spithead and the Nore. The mutineers demand better treatment; some even propose establishing a republic. The government eventually compromises, raising pay and pardoning the mutineers, but executing a few leaders. The mutinies shock Britain and accelerate naval reform.",
+        "a": 50.8,
+        "l": -1.1,
+        "c": "Society",
+        "r": "England",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1798,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Jiaqing Emperor",
+        "e": "3rd year of Jiaqing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Napoleon's Egyptian campaign",
+        "s": "Napoleon leads 35,000 French troops and nearly 400 ships on a campaign to Egypt, aiming to cut Britain's route to India. The French force the Knights of Malta to surrender at Malta and defeat the Mamluk cavalry at the Battle of the Pyramids, capturing Cairo. However, the French fleet is destroyed by Admiral Nelson at the Battle of the Nile (Aboukir Bay), leaving the French trapped in Egypt. Napoleon withdraws secretly to France in 1799, leaving the army to surrender to the British. Despite military failure, the campaign promotes Egyptology (the Rosetta Stone is discovered).",
+        "a": 30,
+        "l": 31,
+        "c": "Military",
+        "r": "France",
+        "o": "Africa"
+      },
+      {
+        "t": "Malthus publishes An Essay on the Principle of Population",
+        "s": "English economist Thomas Robert Malthus anonymously publishes An Essay on the Principle of Population, putting forward his famous population theory: population grows geometrically (1, 2, 4, 8) while food supply grows arithmetically (1, 2, 3, 4); if unchecked, this will lead to famine, war, and disease ('positive checks'). He advocates 'moral restraint' (abstinence and late marriage) to control population. The work directly influences Darwin's theory of evolution by natural selection.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "Science",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Irish Rebellion of 1798",
+        "s": "Inspired by the French Revolution, the Society of United Irishmen under Wolfe Tone launches a rebellion against British rule, proclaiming an Irish Republic. French forces briefly support them, but the rebels are crushed by the British. In 1800, Britain passes the Act of Union, formally incorporating Ireland into Great Britain.",
+        "a": 53.3,
+        "l": -6.2,
+        "c": "Military",
+        "r": "Ireland",
+        "o": "Europe"
+      },
+      {
+        "t": "Malthus publishes An Essay on the Principle of Population",
+        "s": "In 1798, English economist Thomas Robert Malthus anonymously publishes An Essay on the Principle of Population, arguing that population increases geometrically while food supply increases arithmetically. Malthus warns that unchecked population growth will surpass food production, leading to famine and disaster. The book profoundly influences later economics, evolutionary theory, and social policy.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "Economy",
+        "r": "England",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1799,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Jiaqing Emperor",
+        "e": "4th year of Jiaqing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Coup of 18 Brumaire: Napoleon becomes First Consul",
+        "s": "Napoleon returns secretly from Egypt to Paris and on 18–19 Brumaire (November 9–10) stages a coup, dissolving the Directory and the legislature and establishing the Consulate. He appoints himself First Consul, holding all real power (the constitution provides that the First Consul appoints officials, commands the army, and decides war and foreign affairs). In 1802, Napoleon has himself made First Consul for life, and in 1804, emperor. The Brumaire coup ends the chaos of ten years of the French Revolution and ushers in Napoleon's military dictatorship.",
+        "a": 48.86,
+        "l": 2.35,
+        "c": "Politics",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Rosetta Stone discovered",
+        "s": "Soldiers of Napoleon's Egyptian expedition, while digging foundations near the town of Rosetta (Rashid), discover a stone slab inscribed with three scripts. The Rosetta Stone, 112 cm high, is inscribed with the same decree (from 196 BC) in ancient Egyptian hieroglyphs, Demotic script, and ancient Greek. In 1822, French scholar Jean-François Champollion uses the Greek to decipher the hieroglyphs, founding Egyptology.",
+        "a": 31.3,
+        "l": 30.1,
+        "c": "Culture",
+        "r": "Egypt",
+        "o": "Africa"
+      },
+      {
+        "t": "Qianlong dies; Jiaqing assumes full power",
+        "s": "The Qianlong Emperor dies at the Nourishing Heart Pavilion at age 89. The Jiaqing Emperor begins personal rule and immediately arrests Qianlong's favorite Heshen, listing 20 crimes and ordering him to commit suicide. Heshen's confiscated wealth is about 800 million taels (equivalent to ten years of Qing revenue). Jiaqing orders a cleanup of officialdom, but the Qing decline is irreversible.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1800,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Jiaqing Emperor",
+        "e": "5th year of Jiaqing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Volta invents the battery",
+        "s": "Italian physicist Alessandro Volta, in a letter to Napoleon, describes his invention of the 'voltaic pile' (battery). He stacks alternating zinc and copper discs separated by brine-soaked cardboard, producing a continuous and stable electrical current. This is the first chemical battery in history; previously only instantaneous static electricity could be produced by friction. The voltaic pile provides a continuous power source for electrical research, advancing electrochemistry and electromagnetism (the unit 'volt' is named after him).",
+        "a": 45.81,
+        "l": 9.08,
+        "c": "Technology",
+        "r": "Italy",
+        "o": "Europe"
+      },
+      {
+        "t": "Battle of Marengo: Napoleon retakes Italy",
+        "s": "Napoleon leads his army across the Great St. Bernard Pass in the Alps, surprising the Austrian army in northern Italy. At Marengo, the French are initially defeated, but General Desaix's timely reinforcement turns the tide, and the French rout the Austrians. Austria is forced to sign an armistice and withdraw from Italy. The Battle of Marengo is the first major victory personally commanded by Napoleon after becoming First Consul, consolidating his rule.",
+        "a": 44.8,
+        "l": 8.5,
+        "c": "Military",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "United States capital moves to Washington, D.C.",
+        "s": "The U.S. federal government moves from Philadelphia to the newly built Washington, D.C. The city, designed by French engineer Pierre L'Enfant, is named after the first president, George Washington. At that time, the city's population is only about 8,000; the Capitol and the President's House (later the White House) are not yet fully completed.",
+        "a": 38.9,
+        "l": -77.04,
+        "c": "Politics",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "Key Qing campaign to suppress the White Lotus Rebellion",
+        "s": "The Qing army conducts a large-scale encirclement and suppression of the White Lotus forces in Hubei, Sichuan, and other areas. Generals Eledengbao and Yang Yuchun adopt a 'fortify and clear the countryside' strategy, forcing the rebels to disperse and defeating them one by one. Rebel leader Wang Cong'er is surrounded in Yunxi, Hubei, and commits suicide by jumping off a cliff. The rebellion subsides but is not completely suppressed until 1804.",
+        "a": 32,
+        "l": 110,
+        "c": "Military",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  }
+]

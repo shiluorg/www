@@ -1,0 +1,3627 @@
+[
+  {
+    "y": 101,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor He of Han (Liu Zhao)",
+        "e": "Yongyuan 13th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Trajan launches the Second Dacian War",
+        "s": "Decebalus, king of Dacia, despite submitting after the First Dacian War, again violated the treaty, expanded his army, and raided Roman borders. Emperor Trajan of Rome personally led a large army across the Danube, employing a pincer movement deep into Dacian territory. After fierce fighting, the Romans captured the Dacian capital Sarmizegetusa Regia. Decebalus fled to the mountains to wage guerrilla warfare. This battle laid the foundation for Rome's total conquest of Dacia, and the immense gold looted filled Rome's treasury, funding subsequent large-scale public construction.",
+        "a": 45.5,
+        "l": 23.0,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Ban Chao leads campaign to pacify Karasahr",
+        "s": "Ban Chao, the Protector General of the Western Regions of the Eastern Han, in order to eliminate the remnants of the Northern Xiongnu and the treacherous kingdoms of Karasahr and Quli, allied with other Western Regions states such as Kucha and Shanshan to form a coalition. The Han army split into two forces: one led by Ban Chao's main force made a surprise attack on Karasahr via a hidden path, while the other cut off their retreat. King Yuan Meng of Karasahr was forced to surrender. Ban Chao executed him and installed a new king. After this battle, all fifty-plus states of the Western Regions submitted to the Eastern Han, the southern Silk Road was completely opened, and Ban Chao was enfeoffed as Marquis Dingyuan for his achievements.",
+        "a": 42.06,
+        "l": 86.57,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Ban Chao dispatches Gan Ying on a mission to Daqin (Roman Empire)",
+        "s": "To establish direct diplomatic and trade links with the Roman Empire, Ban Chao sent his subordinate Gan Ying at the head of a delegation from the Western Regions along the northern Silk Road. The delegation passed through Parthia and reached the coast of the Persian Gulf, preparing to sail to Daqin (the Roman Empire). However, Parthian merchants, seeking to monopolize Silk Road trade, deliberately exaggerated the perils of the sea voyage, claiming it would take three years and that sailors would easily contract sea fevers. Heeding these words, Gan Ying abandoned the sea crossing and returned. Although he did not reach Rome, Gan Ying brought back detailed geographical knowledge of Central and West Asia, recorded in the Book of the Later Han, deepening the Han dynasty's understanding of the distant West.",
+        "a": 41.7,
+        "l": 82.9,
+        "c": "Diplomacy",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 102,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor He of Han (Liu Zhao)",
+        "e": "Yongyuan 14th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Trajan holds a magnificent triumph in Rome",
+        "s": "After his decisive victory in the Second Dacian War, Emperor Trajan returned to Rome and held a grand triumph lasting 123 days. The triumphal procession displayed the captured treasury of King Decebalus of Dacia, vast quantities of weapons, prisoners of war, and reliefs depicting scenes from the war. The Senate awarded Trajan the title 'Dacicus' (Conqueror of Dacia) and declared the anniversary of the Dacian War a public holiday. The triumph also distributed huge sums of money and grain to Roman citizens and featured spectacular gladiatorial games, greatly boosting imperial morale.",
+        "a": 41.893,
+        "l": 12.485,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "The Library of Alexandria hosts a large academic debate",
+        "s": "Under Roman rule, the Library of Alexandria remained the Mediterranean's leading academic center. That year, a public debate was held on whether the universe was geocentric or heliocentric. Scholars from Greek, Jewish, and Egyptian backgrounds clashed vigorously using mathematics and philosophy. Although the geocentric view won, the debate prompted scholars like Ptolemy to further observe astronomical data. The event also organized the library's 700,000 papyrus scrolls, attracting many scholars to study mathematics, medicine, and astronomy, continuing the scholarly prosperity from the Ptolemaic era.",
+        "a": 31.2,
+        "l": 29.9,
+        "c": "Culture",
+        "r": "Egypt",
+        "o": "Africa"
+      },
+      {
+        "t": "The Parthian Empire and Roman Empire engage in prolonged military standoff in Mesopotamia",
+        "s": "As Rome expanded eastward, the Parthian Empire felt directly threatened. The two powers engaged in a decades-long tug-of-war over control of the Kingdom of Armenia and the region of Mesopotamia. King Pacorus II of Parthia massed troops along the border, building a series of fortresses; Rome established the province of Mesopotamia and stationed two legions. Although no large-scale war broke out, skirmishes and proxy wars were frequent, often interrupting Silk Road trade. This tense standoff lasted half a century, severely draining both empires and paving the way for the rise of the Sassanian Persians.",
+        "a": 40.0,
+        "l": 44.0,
+        "c": "Politics",
+        "r": "Parthian Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Eastern Han and Southern Xiongnu restart border markets",
+        "s": "To ease border tensions and secure strategic resources like horses, cattle, and sheep, the Eastern Han court reopened border markets with the Southern Xiongnu in commanderies such as Bingzhou and Liangzhou. Chinese merchants exchanged silk, ironware, grain, and tea for Xiongnu livestock and furs. The markets, supervised by local officials with a 3% tax rate, saw annual trade worth hundreds of millions of coins. This not only improved relations but also provided stable income for border residents, and tens of thousands of Xiongnu settled along the border engaging in trade and farming, accelerating ethnic integration.",
+        "a": 40.0,
+        "l": 110.0,
+        "c": "Economy",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Eastern Han implements frontier military-agricultural colonies (Tuntian)",
+        "s": "To relieve the heavy burden of transporting grain to the frontiers and defend against Qiang and Xianbei incursions, the Eastern Han court, adopting the advice of Minister Yu Xu, extensively established military-agricultural colonies in border regions like Liangzhou, Bingzhou, and Shuofang. The court recruited landless peasants and convicts from the interior, granting each family 50 mu of land, oxen, and seeds, with a three-year tax holiday followed by a 30% harvest tax for military grain. The colonist-soldiers farmed and trained during off-seasons. Within a decade, the colonies cultivated millions of mu, producing enough grain to meet most garrison needs, significantly strengthening Han border defenses.",
+        "a": 38.0,
+        "l": 105.0,
+        "c": "Economy",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Ban Chao, Protector General of the Western Regions, returns to Luoyang and dies of illness",
+        "s": "After 31 years in the Western Regions, Ban Chao, old and ill, petitioned to retire to his hometown. Emperor He of Han granted permission. His sister Ban Zhao personally greeted him at the city gate; the siblings wept with emotion. Only a month after returning to Luoyang, Ban Chao died of old war wounds and travel fatigue at age 71. The court posthumously honored him and bestowed the title Marquis Dingyuan. Ban Chao’s courage ('How can one catch tiger cubs without entering the tiger's lair?') in recovering the Western Regions and ensuring Silk Road peace for over 30 years became the most brilliant chapter in Eastern Han diplomacy.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Gandharan Buddhist art reaches its peak in the Kushan Empire",
+        "s": "Under the patronage of Emperor Kanishka I of the Kushan Empire, Buddhist art in the Gandhara region (present-day northern Pakistan and eastern Afghanistan) entered a golden age. Artisans blended Hellenistic realism with Indian religious symbolism to create the first anthropomorphic statues of the Buddha and Bodhisattvas. Representative works include a colossal standing Buddha about 15 meters tall, draped in a Greek-style robe with distinctly European facial features. Gandharan art later spread to China along the Silk Road, profoundly influencing the cave temple sculptures at Yungang and Longmen.",
+        "a": 34.0,
+        "l": 72.0,
+        "c": "Culture",
+        "r": "Kushan Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 103,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor He of Han (Liu Zhao)",
+        "e": "Yongyuan 15th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Trajan reforms the Roman Senate",
+        "s": "To strengthen centralization and improve administrative efficiency, Emperor Trajan reformed the long-ineffective Senate. He greatly increased the number of seats for wealthy merchants, military nobles, and jurists from Italy and the provinces, strictly setting a property qualification of 1 million sesterces for senators. He also established a financial oversight mechanism, auditing Senate expenditures monthly and forbidding senators from engaging in commerce. After reform, the Senate was stabilized at 600 members, efficiency improved, and corruption declined, laying the institutional foundation for the prosperity of the 'Five Good Emperors' era.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor He of Han tours Jingzhou to inspect water conservancy projects",
+        "s": "Emperor He, accompanied by Empress Deng Sui and officials, toured Jingzhou, focusing on the embankment and irrigation works along the Yangtze and Han Rivers. Jingzhou had suffered frequent floods; the court had allocated 5 million coins to build a 300-li long flood control dike and dredge numerous canals. The emperor personally ascended the dike, offered wine and meat to the laborers, exempted Jingzhou from all taxes for the year, and selected twenty filial and incorrupt candidates for the Imperial University. This tour eased court-local tensions and boosted southern economic development.",
+        "a": 32.01,
+        "l": 112.12,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Construction begins on Trajan's Forum in Rome",
+        "s": "Using the enormous spoils from the Dacian Wars, Emperor Trajan initiated a grand architectural complex in Rome – Trajan's Forum. Measuring 300 meters long and 185 meters wide, it was four times larger than the earlier Forum of Augustus. At its center stood a gilded equestrian statue of Trajan; behind it rose the 38-meter-high Trajan's Column, its spiral relief 200 meters long depicting 155 scenes from the Dacian Wars. On either side were two symmetrical libraries (Greek and Latin) and a large market hall. The project consumed tens of thousands of tons of Carrara marble, employed over 10,000 craftsmen and slaves, and took five years to complete, becoming one of the most magnificent public complexes of the ancient world, symbolizing Roman power and Trajan's martial glory.",
+        "a": 41.896,
+        "l": 12.484,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 104,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor He of Han (Liu Zhao)",
+        "e": "Yongyuan 16th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wuhuan and Xianbei tribes submit en masse to Eastern Han",
+        "s": "Influenced by the Southern Xiongnu and the Han's strong frontier policies, the leaders of Wuhuan and Xianbei tribes who had long roamed the Liaoxi and Youbeiping areas led over 20,000 tribespeople and 100,000 livestock to surrender to the Han's Liaodong Dependent State. They offered bows and warhorses, requesting settlement and Han titles. Emperor He approved their submission, settling them in border commanderies like Liaodong and Liaoxi, establishing dependent states, enfeoffing their leaders as kings and marquises, and granting gold seals, silk, and grain. This secured decades of peace on the northern border, as the submitted tribes became an important buffer against the Northern Xiongnu and other Xianbei.",
+        "a": 41.8,
+        "l": 123.4,
+        "c": "Diplomacy",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Germanic tribes in Northern Europe accelerate social stratification and migration",
+        "s": "Due to climate change and population pressure, Germanic tribes (such as Goths, Vandals, Burgundians) living in Scandinavia and along the Baltic Sea began to experience clear social stratification. Military leaders and priests gradually replaced ancient tribal assemblies, forming hereditary aristocracies. Armed conflicts intensified between tribes over better pastures and spoils, forcing the defeated to migrate southeast toward the East European Plain. This migration wave lasted nearly 200 years, eventually leading to large-scale Germanic invasions of the Roman Empire from the 3rd century onward, marking the beginning of the 'Barbarian Invasions'.",
+        "a": 54.0,
+        "l": 10.0,
+        "c": "Society",
+        "r": "Germanic",
+        "o": "Europe"
+      },
+      {
+        "t": "The Nyaya school of Indian philosophy takes initial shape",
+        "s": "On the Indian subcontinent, the philosopher Gotama systematically compiled ancient logic and debate techniques, composing the foundational chapters of the Nyaya Sutras. The Nyaya school established sixteen categories (pramana, prameya, samshaya, prayojana, drishtanta, siddhanta, avayava, tarka, nirnaya, vada, jalpa, vitanda, hetvabhasa, chala, jati, nigrahasthana), emphasizing logical reasoning and debate as means to valid knowledge. This school, along with Vaisheshika, Samkhya, and others, formed the 'six orthodox philosophies,' greatly advancing Indian logic, epistemology, and debate, and profoundly influencing Buddhist logic (hetuvidya).",
+        "a": 22.0,
+        "l": 78.0,
+        "c": "Culture",
+        "r": "Ancient India",
+        "o": "Asia"
+      },
+      {
+        "t": "Trajan oversees the construction of Rome's aqueduct network",
+        "s": "To address water shortages and sanitation, Emperor Trajan commissioned the new Aqua Traiana and expanded the Aqua Claudia. Roman engineers used arches to build over 60 kilometers of elevated aqueducts, bringing spring water into Rome's public baths, fountains, and private homes. Built of concrete and stone with a gradient of only 30 cm per kilometer, the aqueducts delivered over one billion liters of water daily, enough for a million people. This greatly improved public health and reduced epidemics, serving as an outstanding example of ancient engineering.",
+        "a": 41.893,
+        "l": 12.485,
+        "c": "Technology",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 105,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor He of Han (Liu Zhao)",
+        "e": "Yongyuan 17th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Kushan merchants monopolize the middle section of the Silk Road trade",
+        "s": "Leveraging its strategic location (controlling Central Asia and the Indus Valley) and strong cavalry, the Kushan Empire gradually monopolized transit trade along the central Silk Road. Kushan merchants purchased Chinese silk, lacquerware, and porcelain, transported them via Central Asia to the Persian Gulf, and sold them to Parthian and Roman traders; they also carried Roman glassware, gold coins, Indian spices, and ivory to the East. Cities like Samarkand and Bukhara became international trade hubs, with annual trade worth tens of millions of sesterces. This monopoly brought huge customs revenues to the Kushan Empire, fueling an unprecedented cultural and artistic flourishing.",
+        "a": 39.7,
+        "l": 66.9,
+        "c": "Economy",
+        "r": "Central Asia",
+        "o": "Asia"
+      },
+      {
+        "t": "Trajan establishes the province of Arabia",
+        "s": "Taking advantage of the power vacuum after the death of the last king of the Nabataean Kingdom, Rabbel II Soter, Emperor Trajan dispatched troops to occupy its capital, Petra, officially incorporating the kingdom into the Roman Empire as the province of Arabia. This gave Rome control over the crucial trade route from the Red Sea to the Mediterranean, bringing the treasury an annual 200 million sesterces from spice trade tariffs alone. Trajan also built the 'Via Traiana Nova' from Aqaba to Damascus, with waystations and garrisons, accelerating the region's Romanization.",
+        "a": 30.3,
+        "l": 35.5,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "The Church of Antioch rapidly develops and organizes charities",
+        "s": "In the eastern Roman metropolis of Antioch, the Christian church under Bishop Ignatius grew rapidly, with believers reaching over 5,000. The church not only established a refined liturgy and episcopal hierarchy but also founded orphanages, old people's homes, and hospitals to care for the sick, weak, and orphans, attracting many lower-class converts. Antioch became a major center for Christian missionary expansion, and its organizational model and charitable traditions helped pave the way for the Roman Empire's eventual acceptance of Christianity.",
+        "a": 36.2,
+        "l": 36.8,
+        "c": "Religion",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Indirect trade between the Parthian Empire and Eastern Han via the Silk Road",
+        "s": "Although the Parthian Empire and Eastern Han had no direct diplomatic relations, goods like silk, spices, and jewels flowed on a large scale between the two empires through intermediaries such as the Western Regions states and the Kushan Empire. Parthian merchants exchanged Persian Gulf pearls and Syrian glassware for Chinese silks. According to the Book of the Later Han, Parthian envoys presented rare animals like lions and ostriches to the Han court. This trade route enriched the Parthian treasury, enabling it to maintain a large cavalry army to confront Rome.",
+        "a": 35.0,
+        "l": 44.0,
+        "c": "Economy",
+        "r": "Parthian Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor He of Han dies; a hundred-day-old infant ascends as Emperor Shang",
+        "s": "In winter of the 17th year of Yongyuan (105), 27-year-old Emperor He of Han died in Luoyang's Southern Palace, possibly from chronic mercury poisoning from alchemical elixirs. His only son, Liu Long, just 100 days old, was enthroned as Emperor Shang under the regency of Empress Dowager Deng. She assumed power and appointed her brother Deng Zhi as General of Chariots and Cavalry. With the infant emperor, court power fell completely into the hands of the Deng clan, beginning an era of prolonged eunuch and consort clan domination.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman jurists Celsus and Javolenus are active",
+        "s": "During Trajan's reign, jurists Publius Juventius Celsus (and his teacher Javolenus Priscus) became leading legal figures. Celsus served as consul and senator, issuing legal opinions (responsa) on contracts, inheritance, and torts, which were widely cited by judges. His definition of law as 'the art of goodness and equity' became a classic Roman formulation. Their work pushed Roman law away from strict formalism toward flexible, rational, and equitable principles.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Cai Lun presents improved papermaking to Emperor He of Han",
+        "s": "Cai Lun, the Prefect of the Palace Workshop, synthesized previous papermaking experience, using cheap materials like tree bark, hemp, rags, and old fishing nets. Through processes of soaking, pounding, screening, and drying, he produced high-quality, low-cost plant fiber paper. He personally presented the new paper to Emperor He, who, after testing it, praised it highly and ordered its nationwide promotion. Cai Lun's improved paper replaced heavy bamboo slips and expensive silk, greatly facilitating cultural dissemination and knowledge popularization, revolutionizing human civilization. This paper came to be known as 'Marquis Cai's paper' (Caihou paper).",
+        "a": 34.3,
+        "l": 108.86,
+        "c": "Technology",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 106,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Shang of Han (Liu Long)",
+        "e": "Yanping 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Shang of Han dies young; Empress Dowager Deng enthrones Emperor An",
+        "s": "Emperor Shang died suddenly after only eight months on the throne, either due to congenital weakness or suspected poisoning by Empress Dowager Deng to prolong her rule. Deng and her brother Deng Zhi, General of Chariots and Cavalry, conspired to invite Liu Hu, Prince of Qinghe, to the throne as Emperor An of Han. Liu Hu was only thirteen years old, and Empress Dowager Deng continued to rule as regent. The Deng clan's power reached its zenith, with Deng Zhi promoted to Grand General and seven Deng family members enfeoffed as marquises. The vicious cycle of short-lived, weak emperors and consort clan domination intensified.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Eastern Han abolishes the Protectorate of the Western Regions and military colonies",
+        "s": "Due to turmoil in the Western Regions, counterattacks by Xiongnu remnants, and financial difficulties, Empress Dowager Deng's court decided to abandon the Western Regions, recalling the Protector Duan Xi and Deputy Colonel Liang Qin, and abolishing military colonies and garrisons. This decision led to the interruption of Han control over the Western Regions, plunging the region back into chaos, with some states reverting to Northern Xiongnu influence. Ban Chao's 30 years of achievements were nearly wiped out, and the Silk Road's security was severely threatened. It would be twenty years before Ban Yong reopened the route.",
+        "a": 41.7,
+        "l": 82.9,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 107,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor An of Han (Liu Hu)",
+        "e": "Yongchu 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Trajan launches the Parthian War",
+        "s": "Using Parthian interference in the Armenian succession as a pretext, Emperor Trajan led ten legions (about 50,000 elite troops) and numerous auxiliaries in a full-scale war against Parthia. The Roman forces advanced on two fronts: the main army from Antioch along the Euphrates to take Armenia; another from Syria into northern Mesopotamia. This eastern campaign was one of the largest military operations of the Roman Empire, as Trajan sought to conquer all of Mesopotamia and emulate the glory of Alexander the Great.",
+        "a": 40.18,
+        "l": 44.51,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Trajan promotes urbanization in newly conquered territories",
+        "s": "In newly conquered provinces like Dacia, Arabia, and Armenia, Trajan vigorously promoted Roman-style urban development. He ordered the founding of Roman cities such as Casafana (today's Alba Iulia, Romania) and Philippopolis (today's Plovdiv, Bulgaria), constructing forums, temples, baths, theaters, and arenas, paving roads, and attracting Italian immigrants and retired soldiers to settle. Urbanization accelerated the spread of Roman law, Latin, and Roman lifestyles, fostering a sense of Roman identity in the new provinces.",
+        "a": 38.0,
+        "l": 25.0,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Large-scale Qiang rebellion breaks out in Eastern Han",
+        "s": "To campaign in the Western Regions, Empress Dowager Deng's court conscripted Qiang people from commanderies like Longxi, Tianshui, and Jincheng for military service. The Qiang, resentful of oppression and endless campaigns, under leaders Dian Ling and Zhong Qiang, rose in revolt in Longxi, quickly gaining support from Qiang tribes across the region. The rebels captured commanderies such as Longxi, Anding, and Beidi, killed Han officials, and cut off routes to the Western Regions. The Han court was forced to abandon the Western Regions and concentrate on suppression, but suffered repeated defeats. The revolt lasted over a decade, cost the Han 24 billion coins, and marked the decline of the Eastern Han's power.",
+        "a": 35.6,
+        "l": 105.6,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Deng Zhi appointed Grand General as regent",
+        "s": "To consolidate consort clan power, Empress Dowager Deng promoted her brother Deng Zhi to Grand General, ranking above the Three Excellences, commanding all military forces. Though from a consort clan, Deng Zhi was modest, humble, and a Confucian scholar. He recommended talents like Yang Zhen and Chen Chan, and advocated tax reduction and disaster relief. However, the Grand General's office wielded immense power; all reports had to be reviewed there before reaching the emperor, worsening the political crisis of consort clan domination.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 108,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor An of Han (Liu Hu)",
+        "e": "Yongchu 2nd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Trajan captures Babylon",
+        "s": "During the Parthian War, Emperor Trajan, advancing unstoppably, captured the ancient city of Babylon. This once-great capital of the Neo-Babylonian Empire had long declined, but held strategic military importance. Trajan held a military parade among the ruins of Babylon, proclaiming Rome's irresistible eastward march. Roman forces then continued east, capturing the Parthian capital Ctesiphon and reaching the Persian Gulf. Trajan was the first and only Roman emperor to reach the Persian Gulf.",
+        "a": 32.54,
+        "l": 44.42,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Tacitus writes his Histories",
+        "s": "The greatest Roman historian, Publius Cornelius Tacitus, began writing his magnum opus, the Histories. The work, originally twelve books (only the first five and fragments survive), details the history of the Roman Empire from AD 69 to 96, including the Year of the Four Emperors, the founding of the Flavian dynasty by Vespasian, and the tyranny of Domitian. With incisive prose and profound political insight, Tacitus exposed the distortion of human nature and moral decay under autocracy. His other major work, the Annals, covers the period from Tiberius to Nero, together forming the most invaluable historical source for the early Roman Empire.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Qiang rebels attack the Three Auxiliaries of Guanzhong",
+        "s": "Under leader Dian Ling, the Qiang rebels broke through the Longshan防线 and attacked the Three Auxiliaries (the capital region of Jingzhao, Youfufeng, Zuopingyi), approaching the former Han capital Chang'an. They burned imperial mausoleums and plundered government granaries, alarming the Han court. Empress Dowager Deng urgently dispatched Deng Zun, grandson of General Zhengxi Deng Yu, with 50,000 troops to defend, while ordering local recruitment of soldiers. However, Han troops were demoralized and poorly supplied, suffering repeated defeats. Guanzhong's population was devastated, with people fleeing to Hanzhong and Bashu.",
+        "a": 34.3,
+        "l": 108.86,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 109,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor An of Han (Liu Hu)",
+        "e": "Yongchu 3rd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eastern Han mobilizes heavy forces to suppress Qiang rebellion",
+        "s": "Facing the intensifying Qiang uprising, Empress Dowager Deng's court appointed General Zhengxi Deng Zun as commander, mobilizing 80,000 central troops, border soldiers, and Southern Xiongnu cavalry, divided into five routes to encircle the rebels. Fierce battles occurred in Longxi, Anding, and elsewhere. Deng Zun combined offers of amnesty with brutal suppression, offering a reward of 10 million coins for the head of rebel leader Dian Ling. Internal divisions emerged among the Qiang, as some tribal leaders killed their own kin for bounty, weakening the rebel cause. However, the ongoing war drained the treasury, forcing the court to impose extra taxes ('mouth tax' and 'land tax'), increasing burdens on the common people.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Trajan captures the Parthian capital Ctesiphon",
+        "s": "After taking Babylon, Emperor Trajan continued along the Tigris River eastward, arriving at the Parthian capital Ctesiphon. King Osroes I of Parthia fled, and Roman soldiers sacked the palace and treasury, seizing vast amounts of gold and silver accumulated over generations, including the golden lion throne symbolizing Parthian royalty. Trajan held a triumphal entry into Ctesiphon, declaring the incorporation of Parthian territories into Rome as the province of Mesopotamia. This battle marked the greatest extent of the Roman Empire, reaching the Persian Gulf in the east.",
+        "a": 33.09,
+        "l": 44.58,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Pliny the Younger publishes his Letters",
+        "s": "Roman author and senator Pliny the Younger compiled his personal correspondence with friends, emperors, and scholars over many years into nine volumes. The letters cover a wide range of topics: daily life, literary criticism, courtroom advocacy, social customs, and political events. Most famous are his two letters to the historian Tacitus, giving a detailed account of the eruption of Mount Vesuvius in AD 79 and the death of his uncle, Pliny the Elder. These firsthand accounts vividly portray Roman society and are invaluable historical documents.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Border conflict erupts between Goguryeo and Eastern Han",
+        "s": "Taking advantage of the Han's preoccupation with the Qiang rebellion, King Goguryeo (Taejo) led an invasion of the Han commanderies of Liaodong and Xuantu, plundering people and livestock. Liaodong governor Cai Fan led his forces to meet them but was defeated and killed, with thousands of Han soldiers lost. Emperor An was enraged and ordered a counterattack by troops from Xuantu and the Liaodong Dependent State. They defeated the Goguryeo army, recovering lost territory and killing several Goguryeo generals. Goguryeo was forced to sue for peace, returning the kidnapped Han civilians and offering tribute of sable furs and fine horses as tokens of submission. For decades afterward, Goguryeo outwardly complied while secretly expanding its power.",
+        "a": 41.8,
+        "l": 124.0,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 110,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor An of Han (Liu Hu)",
+        "e": "Yongchu 4th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eastern Han court debates abandoning Liangzhou",
+        "s": "Due to the ongoing Qiang rebellion and huge costs, some ministers suggested completely abandoning Liangzhou, relocating its people to the interior to shorten defensive lines. This proposal was fiercely opposed by the Gentleman-in-Attendance Yu Xu, who argued that Liangzhou was the shield of the Han; losing it would endanger Guanzhong, and millions of people would be reluctant to leave, causing even greater unrest. Ultimately, Empress Dowager Deng adopted Yu Xu's advice, decided to hold Liangzhou, and appointed Yu Xu as Governor of Wudu to consolidate its defenses. The debate reflected strategic divisions among scholar-officials as Han power declined.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Anti-Roman uprisings break out across Parthia",
+        "s": "After Trajan's occupation of Mesopotamia, anti-Roman resistance erupted throughout the Parthian Empire. Parthian royals and nobles organized guerrilla warfare in Babylonia, Susa, and elsewhere, attacking Roman supply lines and isolated outposts while the main Roman forces were deployed north. Trajan was forced to march back from the Persian Gulf to suppress them, but could not eliminate all resistance. The tenacious Parthian resistance ultimately forced Hadrian, Trajan's successor, to abandon Mesopotamia.",
+        "a": 33.09,
+        "l": 44.58,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Yu Xu consolidates Liangzhou's defense system",
+        "s": "Appointed Governor of Wudu, Yu Xu immediately went to strengthen Liangzhou's defenses. He used a 'multiplying cooking stoves' ruse: ordering soldiers to build twice as many stoves each day, making the Qiang believe reinforcements had arrived. After taking office, he fortified cities, trained troops, recruited refugees for military colonies, and within three years increased Wudu's forces from under 3,000 to 10,000, with ample provisions and repeated victories over the Qiang, stabilizing Liangzhou. Yu Xu also invented the 'horse-powered bellows' and 'water-powered bellows' for smelting and casting weapons, improving military equipment.",
+        "a": 33.4,
+        "l": 105.0,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Kushan Buddhist art spreads to the Chinese Western Regions",
+        "s": "Under Kanishka I, Kushan Buddhist art reached its zenith. Numerous Buddha and Bodhisattva statues and sutras were transmitted via the southern Silk Road to Western Regions kingdoms such as Khotan, Kashgar, and Kucha. Artisans there imitated Gandharan styles, carving the first cave temples (e.g., Kizil Caves) and painting Buddhist murals with Hellenistic features. This Buddhist art later provided models for the Mogao Caves and Yungang Grottoes, marking a significant starting point for the Sinification of Buddhism.",
+        "a": 34.0,
+        "l": 72.0,
+        "c": "Culture",
+        "r": "Kushan Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 111,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor An of Han (Liu Hu)",
+        "e": "Yongchu 5th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eastern Han relocates people from frontier commanderies of Liangzhou to the interior",
+        "s": "Under pressure from the ongoing Qiang rebellion, the Han court ordered the forced relocation of people from border commanderies such as Longxi, Anding, Beidi, and Shangjun to the interior (Guanzhong, Hedong, etc.). Troops were sent to drive away reluctant residents, burning their houses and crops. Hundreds of thousands became homeless, and many died of cold, hunger, or Qiang attacks during the migration. This 'abandon the border, protect the interior' policy reduced short-term border pressure, but led to the loss of vast territories, the collapse of border economies, and severe damage to the Han court's prestige.",
+        "a": 34.5,
+        "l": 107.5,
+        "c": "Society",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Trajan installs a puppet king in Parthia",
+        "s": "To stabilize the occupied Parthian territories, Emperor Trajan installed the pro-Roman Parthian prince Parthamaspates as a puppet king to rule Ctesiphon and its environs. However, this failed to pacify Parthian resistance; most nobles and commoners refused to recognize him and continued resisting. Parthamaspates was killed by rebels after only a few months, dealing a severe setback to Trajan's eastern policy, and Roman forces were forced to withdraw east of the Tigris.",
+        "a": 33.09,
+        "l": 44.58,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Qiang rebel forces attack the Three Auxiliaries of Guanzhong",
+        "s": "Qiang rebel leader Dian Ling led tens of thousands of cavalry into the left and right auxiliary regions (Zuopingyi, Youfufeng), reaching the walls of the former Han capital Chang'an. Panic-stricken residents shut themselves up; tombs and palaces outside the city were burned. Emperor An urgently dispatched General Duliang Liang Qin with 20,000 troops to reinforce Chang'an, and after fierce fighting, they repelled the Qiang, temporarily saving the city. However, the Three Auxiliaries were devastated, population plummeted, and vast farmland lay fallow. It was the worst destruction in Guanzhong since the Chimei uprising at the end of the Western Han.",
+        "a": 34.3,
+        "l": 108.86,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 112,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor An of Han (Liu Hu)",
+        "e": "Yongchu 6th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Qiang leader Dian Ling dies; internal divisions emerge",
+        "s": "The great Qiang rebel leader Dian Ling died of illness during the war, and his son Ling Chang succeeded him. However, Dian Ling's subordinates were not completely obedient to Ling Chang, and internal feuds broke out over leadership and spoils. Some tribal leaders were won over by Deng Zun, accepting Han titles and turning against the uprising. The Qiang's fragmentation allowed the Han to defeat them piecemeal, and the years-long great Qiang rebellion gradually collapsed.",
+        "a": 35.5,
+        "l": 105.0,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 113,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor An of Han (Liu Hu)",
+        "e": "Yongchu 7th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eastern Han court issues decree to rectify public finances",
+        "s": "Due to years of costly war against the Qiang, the Eastern Han faced a severe fiscal deficit. Empress Dowager Deng's court ordered a nationwide rectification of finances. The decree required every commandery and county to strictly audit household registrations and farmland, crack down on powerful families hiding population and evading taxes; abolish redundant officials, reduce palace expenditures; and forbid local officials from levying miscellaneous taxes under false pretexts. Though the rectification somewhat increased revenue, it sparked resistance from powerful interests and had limited effect.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Economy",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman army captures Babylon",
+        "s": "Emperor Trajan sent General Lusius Quietus with forces from Mesopotamia south to capture the ancient city of Babylon, an important river port on the Euphrates. Babylon had lost its political and economic importance, reduced to a small town. The Romans garrisoned the city, establishing a military fort to control river traffic. This was the first and only time in Roman history that they occupied Babylon.",
+        "a": 33.0,
+        "l": 44.5,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Inauguration of Trajan's Column",
+        "s": "Emperor Trajan held a grand inauguration ceremony for Trajan's Column in his forum, commemorating his victory in the Dacian Wars. The column stands about 38 meters tall, built from 20 massive blocks of Carrara marble, with an internal spiral staircase of 185 steps leading to the top. The column's shaft is wrapped in a 200-meter-long spiral frieze depicting scenes from the wars: crossing the Danube, besieging enemy cities, executing captives – 155 scenes with about 2,600 figures. A statue of Trajan originally stood atop (replaced with St. Peter in the 16th century). The column is a masterpiece of Roman art and engineering and a model for later commemorative monuments.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 114,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor An of Han (Liu Hu)",
+        "e": "Yuanchu 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor An of Han changes era name to Yuanchu",
+        "s": "Praying for peace and stability and to end the Qiang rebellion, Emperor An decreed a change of era name to 'Yuanchu' (Primary Beginning). The change included a general amnesty (except for heinous crimes), a reduction of one degree in punishments for prisoners, and an order for local authorities to recommend 'filial and incorrupt' and 'flourishing talent' candidates for office, while also forgiving back taxes owed by the poor. However, the era change did little to change the Eastern Han's internal and external difficulties: the Qiang revolt continued, and the treasury remained empty.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome makes Armenia a province",
+        "s": "Emperor Trajan abolished the Parthian-appointed king of Armenia and formally annexed it as a Roman province, ruled directly by a Roman governor. This completely integrated Armenia into Rome's sphere of influence, strengthening its strategic position in the Caucasus and providing a rear base for future competition with Parthia over Mesopotamia. However, the annexation triggered a strong backlash from the Parthian Empire, and Armenian nobles also repeatedly revolted against Roman rule.",
+        "a": 40.0,
+        "l": 44.0,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 115,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor An of Han (Liu Hu)",
+        "e": "Yuanchu 2nd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eastern Han army defeats Qiang forces in Hexi Corridor",
+        "s": "General Duliang Liang Qin and Wudu Governor Yu Xu combined forces to engage the main Qiang army near Zhangye and Jiuquan in the Hexi Corridor. Using a combination of cavalry charges and infantry phalanxes, the Han achieved a major victory, killing over 3,000 Qiang, capturing more than 10,000, and seizing over 100,000 horses, cattle, and sheep. Qiang leader Ling Chang fled with his remaining forces deep into the desert. This was the greatest Han victory in the Qiang war to date, and the situation in Liangzhou began to improve.",
+        "a": 36.6,
+        "l": 104.2,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Hadrian succeeds as Roman emperor",
+        "s": "Emperor Trajan died of illness during his Parthian campaign at Selinus in Asia Minor. On his deathbed, he adopted his cousin Hadrian as his son and designated him successor. Hadrian, then serving as governor of Syria in Antioch, quickly returned to Rome, where the Senate, under pressure from the army, recognized him as emperor. Hadrian immediately reversed Trajan's expansionist policy, abandoning hard-to-defend eastern territories like Mesopotamia and adopting a defensive strategy, building walls to strengthen the borders.",
+        "a": 36.2,
+        "l": 36.2,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 116,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor An of Han (Liu Hu)",
+        "e": "Yuanchu 3rd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eastern Han defeats the remaining Xianling Qiang",
+        "s": "General Zhengxi Deng Zun, commanding a combined force of Han troops and Southern Xiongnu cavalry, crushed the remaining Xianling Qiang forces at Lingwu Valley (present-day Lingwu, Ningxia). Qiang leader Ling Chang was assassinated by one of his own officers, and his head was sent to Luoyang. Previously rebellious Qiang tribes now surrendered one after another, and the Han regained control over most of Liangzhou. However, over a decade of war had reduced Liangzhou's population by 60%, collapsed its economy, and severely weakened its border defenses.",
+        "a": 35.6,
+        "l": 105.6,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman Emperor Hadrian abandons Mesopotamia",
+        "s": "New Emperor Hadrian considered Trajan's conquests in Mesopotamia difficult and costly to defend, especially given ongoing Parthian uprisings. He therefore ordered a Roman withdrawal from Mesopotamia back to the west bank of the Euphrates. Hadrian made peace with the Parthian king, recognizing Parthian sovereignty over Mesopotamia, while Armenia became a buffer state between Rome and Parthia. Though criticized by pro-war senators, the move effectively shortened Rome's defensive lines, allowing concentration of forces against barbarian threats in Europe.",
+        "a": 35.5,
+        "l": 40.0,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Jewish uprising in Babylonia",
+        "s": "Influenced by Trajan's eastern campaign and the upheaval in the Roman Empire, Jews in Babylonia launched a large-scale revolt against Roman rule. They attacked Roman garrisons, occupied cities, and coordinated with other Jewish rebels. Roman general Lusius Quietus brutally suppressed the revolt, destroying Jewish communities in Babylon and elsewhere, killing or enslaving tens of thousands. This uprising further worsened Jewish-Roman relations and set the stage for the later Bar Kokhba revolt.",
+        "a": 33.0,
+        "l": 44.5,
+        "c": "Military",
+        "r": "Judea",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 117,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor An of Han (Liu Hu)",
+        "e": "Yuanchu 4th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Hadrian inspects the province of Britain",
+        "s": "Emperor Hadrian toured the province of Britain to assess the defenses of the northern border. He found that the Picts in northern Britain were raiding south frequently, while Roman defenses were weak. Hadrian decided to build a wall across the northern part of Britain to block barbarian incursions. He established the provincial capital at York and personally selected the route for the wall. This structure became known as Hadrian's Wall, one of the most famous frontier defenses of the Roman Empire.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Xianbei chief Tanshihuai unifies the steppe tribes",
+        "s": "Xianbei chief Tanshihuai convened a tribal assembly at Mount Danhan (present-day Shangdu, Inner Mongolia). Through conquest and marriage alliances, he unified the Xianbei, Wuhuan, and remnants of the Northern Xiongnu into a powerful steppe empire. He established three divisions (east, central, west) under commanders, commanding over 100,000 cavalry. After unifying the Xianbei, Tanshihuai repeatedly raided the Eastern Han border, becoming the most serious frontier threat in the mid-to-late Eastern Han.",
+        "a": 43.0,
+        "l": 118.0,
+        "c": "Politics",
+        "r": "Xianbei",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 118,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor An of Han (Liu Hu)",
+        "e": "Yuanchu 5th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Hadrian formally abandons Trajan's eastern territories",
+        "s": "Emperor Hadrian concluded a peace treaty with Parthia, formally abandoning most of the Mesopotamian and Armenian territories conquered by Trajan, and restoring the eastern borders of the Augustan era. Hadrian also disbanded three new legions raised by Trajan and reduced garrisons. This marked a shift in Roman strategy from expansion to consolidation; thereafter, Rome's borders remained largely stable for a century.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Construction of Hadrian's Wall officially begins",
+        "s": "Emperor Hadrian personally presided over the foundation ceremony of Hadrian's Wall. The wall stretched from the River Tyne in the east to the Solway Firth in the west, about 117 kilometers long. It was built of stone and turf, about 4.5 meters high and 2.5-3 meters wide, with a milecastle every Roman mile and two turrets between milecastles. A ditch about 3 meters deep was dug north of the wall. The project employed about 15,000 men from three legions and took six years to complete. Hadrian's Wall became the strongest northern barrier of the Roman Empire, effectively checking Pictish incursions.",
+        "a": 54.99,
+        "l": -2.6,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Zhang Heng appointed Prefect of the Grand Astrology Bureau (Taishiling)",
+        "s": "The eminent scientist and writer Zhang Heng was appointed by Emperor An as Prefect of the Grand Astrology Bureau (Taishiling), responsible for astronomical observations, calendar revision, and historiography. Zhang immediately set about improving the armillary sphere and recalculating celestial positions. During his tenure, he also began work on an earthquake detector (seismoscope) and wrote astronomical works such as the Lingxian. The position provided Zhang with a platform for systematic scientific experimentation and observation.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 119,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor An of Han (Liu Hu)",
+        "e": "Yuanchu 6th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Hadrian inspects the Gaul and German defenses",
+        "s": "After inspecting Britain, Emperor Hadrian toured the Roman defenses in the provinces of Gaul and Germany. He ordered the construction of a series of forts, fortresses, and watchtowers along the Rhine and Danube rivers, connected by wooden palisades to form a unified border defense system (the Upper Germanic-Rhaetian Limes). Hadrian also strengthened the training and discipline of local garrisons, dismissed corrupt officers, and improved the combat effectiveness of the border troops.",
+        "a": 50.35,
+        "l": 7.6,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Empress Dowager Deng promotes official schools throughout the country",
+        "s": "Empress Dowager Deng (Hexi) issued a decree requiring each commandery, kingdom, and county to establish official schools to teach the Confucian classics. She believed that 'the foundation of education lies in learning.' She personally wrote textbooks such as Admonitions for Women and had copies of classics in the palace library distributed to the commanderies. The court also decreed that students passing exams could be exempted from corvée labor, and outstanding ones could be recommended as 'filial and incorrupt.' This policy promoted the spread of education in the mid-Eastern Han, cultivating many Confucian scholars, but due to local financial difficulties, implementation was limited.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Culture",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 120,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor An of Han (Liu Hu)",
+        "e": "Yongning 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Hadrian tours Greece, promoting a cultural revival",
+        "s": "Emperor Hadrian made massive cultural investments in Athens. He completed the Temple of Olympian Zeus (after 600+ years of construction), built a new library, a gymnasium, and an aqueduct, and improved urban infrastructure. Hadrian, an ardent admirer of Greek culture, wore Greek robes, participated in the Eleusinian Mysteries, and established the Panhellenion in Athens to promote cultural exchange among Greek city-states. Hadrian's promotion of Greek culture sparked a 'Greek cultural renaissance' (Second Sophistic) in the Roman Empire, with Greek rhetoric, philosophy, and literature becoming fashionable again among the empire's educated elite.",
+        "a": 37.97,
+        "l": 23.72,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor An of Han changes era name to Yongning",
+        "s": "Praying for peace and stability on the frontiers and the empire's longevity, Emperor An decreed a change of era name to 'Yongning' (Eternal Peace). A general amnesty was declared, along with a one-grade elevation of commoners' rank and partial tax reductions. However, peace did not come: Xianbei and Wuhuan raided the borders year after year; though the Qiang uprising had subsided, Liangzhou remained devastated. The Eastern Han dynasty still struggled with internal and external troubles.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Envoys from the Shan Kingdom (present-day Myanmar) pay tribute to Han",
+        "s": "King Yong Youdiao of the Shan Kingdom (in today's Shan State, Myanmar) sent envoys via Yongchang Commandery to Luoyang, presenting rare animals such as elephants, rhinos, peacocks, as well as ivory and jadeite to Emperor An. This is a rare record of direct contact between the Eastern Han and a Southeast Asian state, reflecting the openness of the southern Silk Road. Emperor An enfeoffed the Shan envoy as 'Han Grand Commandant', granting a gold seal, purple cord, and silk, and allowed him to stay in Luoyang to study Han culture.",
+        "a": 21.9,
+        "l": 95.9,
+        "c": "Diplomacy",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 121,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor An of Han (Liu Hu)",
+        "e": "Jianguang 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eunuch Li Run and wet nurse Wang Sheng control the government",
+        "s": "After Empress Dowager Deng's death, Emperor An of Han took personal control. He resented Deng's long regency and favored the eunuch Li Run and his wet nurse Wang Sheng, who had looked after him as a child. Wang Sheng and her daughter Bo Rong, relying on the emperor's favor, sold offices and interfered in justice. Eunuch Li Run controlled the imperial guards and the drafting of edicts. The Deng consort clan was purged: Deng Zhi and six others were dismissed, and many Deng relatives executed. Power shifted from consort clan to eunuchs, and Eastern Han politics became even more corrupt.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Grand Commandant Yang Zhen commits suicide after remonstrating",
+        "s": "Grand Commandant Yang Zhen repeatedly memorialized Emperor An, impeaching eunuch Li Run, wet nurse Wang Sheng, and others for corruption and meddling in state affairs, urging the emperor to favor worthy ministers. Not only did the emperor ignore him, but he also accused Yang of slandering the court, dismissed him, and ordered him to return home. On the way, at the Xi Yang Pavilion west of Luoyang, Yang said to his disciples: 'Death is the common fate of a scholar. I was fortunate to hold the highest office, yet I could not eliminate traitorous ministers. How can I face the sun and moon again?' He then took poison and died. Yang's death aroused public anger among scholar-officials, and later generations called him 'Confucius of Guanxi'.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Empress Dowager Deng dies; Emperor An of Han begins personal rule",
+        "s": "Empress Dowager Deng (Hexi) died of illness in Luoyang at age 41. Although she had tried hard to maintain Eastern Han rule, she failed to solve the Qiang rebellion, fiscal problems, and the cycle of eunuch-consort domination. After her death, Emperor An formally took personal power and immediately purged the Deng consort clan, dismissing Deng Zhi and executing many Deng relatives. The Eastern Han government shifted from consort clan rule to alternating consort and eunuch tyranny.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 122,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor An of Han (Liu Hu)",
+        "e": "Yanguang 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Hadrian tours Egypt",
+        "s": "Emperor Hadrian toured the province of Egypt, visiting the cities of Alexandria, Memphis, and Thebes. At the Library of Alexandria, he listened to scholars' reports and funded research projects. During the tour, his male lover Antinous drowned in the Nile. Hadrian was devastated, ordered Antinous deified, and built temples for him throughout Egypt. This event promoted the fusion of Greco-Roman and Egyptian religions.",
+        "a": 30.05,
+        "l": 31.24,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Africa"
+      },
+      {
+        "t": "Emperor An of Han changes era name to Yanguang",
+        "s": "Hoping to prolong the dynasty's fortunes, Emperor An changed the era name to 'Yanguang' (Extended Light). At the same time, he established Lady Song as empress, enfeoffed his wet nurse Wang Sheng as 'Lady of Yejun', and ennobled eunuch Li Run as a marquis, granting them large estates, mansions, and slaves. Upright officials were increasingly marginalized, and corruption worsened.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 123,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor An of Han (Liu Hu)",
+        "e": "Yanguang 2nd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Ban Yong leads forces to re-open the Western Regions",
+        "s": "Ban Yong, son of Ban Chao, was appointed by Emperor An as Chief Clerk of the Western Regions. Leading 500 troops stationed at Liuzhong (today's Shanshan, Xinjiang), Ban Yong allied with states like Shanshan and Kucha to defeat the Northern Xiongnu and Cheshi coalition, reopening the northern Silk Road. He then gradually recovered Karasahr and Kashgar, and over fifty Western Regions states again submitted to the Han. Ban Yong recorded his experiences, providing the foundational material for the Book of the Later Han's account of the Western Regions.",
+        "a": 42.7,
+        "l": 89.5,
+        "c": "Diplomacy",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome strengthens its German defensive line",
+        "s": "Emperor Hadrian ordered the reinforcement of the German-Rhaetian Limes (the Germanic line) between the Rhine and Danube. The project included over 600 new watchtowers, over 100 small forts, plus palisades and ditches. The total length was about 550 kilometers, with garrisons and supply stations along the way. This line effectively monitored Germanic tribe movements and maintained relative peace on the border for over forty years.",
+        "a": 50.0,
+        "l": 10.0,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Xianbei raid Eastern Han borders year after year",
+        "s": "After unifying, the Xianbei under Tanshihuai launched large-scale invasions of the Han's Youzhou, Bingzhou, and Liangzhou every autumn. They plundered people, livestock, and grain, burned towns, causing great suffering. Emperor An mobilized tens of thousands of border troops, but the Xianbei cavalry were swift and elusive; the Han forces were repeatedly defeated, suffering heavy losses. In the second year of Yanguang alone, the Xianbei carried off over 2,000 Han households and tens of thousands of livestock.",
+        "a": 41.0,
+        "l": 115.0,
+        "c": "Military",
+        "r": "Xianbei",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 124,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor An of Han (Liu Hu)",
+        "e": "Yanguang 3rd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor An of Han deposes Crown Prince Liu Bao",
+        "s": "Believing slanders from eunuch Li Run and wet nurse Wang Sheng that Crown Prince Liu Bao (son of Consort Li) was plotting rebellion, Emperor An, at only ten years old, was deposed as Prince of Jiyin. This violated the patriarchal rule of 'establishing the eldest son of the empress,' arousing discontent at court. Lai Li and over ten others petitioned for reversal, but not only did the emperor ignore them, he dismissed them from office. After the prince's deposition, Empress Yan became even more dictatorial, and the political situation worsened.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Ban Yong defeats the Xiongnu coalition in the Western Regions",
+        "s": "Ban Yong, leading a coalition of Han troops and forces from Shanshan, Kucha, and other Western Regions states, decisively defeated a Northern Xiongnu and Cheshi Later Kingdom coalition at the Jiaohe city (present-day Turpan, Xinjiang), killing over 2,000 and capturing the king of Cheshi Later Kingdom. Ban Yong then pursued, recovering Cheshi Earlier Kingdom and Gaochang, re-establishing control over the north-south routes through the Tian Shan. This victory consolidated the second Han operation in the Western Regions, and Ban Yong was enfeoffed as Marquis Dingyuan for his achievements.",
+        "a": 42.7,
+        "l": 89.5,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 125,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor An of Han (Liu Hu)",
+        "e": "Yanguang 4th year"
+      },
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Shun of Han (Liu Bao)",
+        "e": "Yongjian 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eunuch Sun Cheng et al. stage coup to enthrone Emperor Shun of Han",
+        "s": "After Emperor An died during a southern tour, Empress Dowager Yan and Yan Xian enthroned Liu Yi, Marquis of Beixiang, who died soon after. Nineteen eunuchs led by Sun Cheng and Wang Kang conspired and staged a palace coup, killing Yan Xian and his brothers, imprisoning Empress Dowager Yan, and welcoming the deposed prince Liu Bao as Emperor Shun of Han. All nineteen eunuchs were enfeoffed as marquises for their role, known as the 'Nineteen Marquises'. This event opened the door to large-scale enfeoffment of eunuchs and their interference in imperial succession. Eunuch power henceforth became a major political force in the Eastern Han.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor An of Han dies during southern inspection tour",
+        "s": "Emperor An, accompanied by Empress Yan, toured Jingzhou and Wancheng. On the return to Luoyang, he suddenly died at Yexian (today's Ye County, Henan) at age 32. Cause of death may have been sudden illness, or some historians suspect poisoning by Empress Yan and eunuchs. After his death, Empress Yan kept the news secret, hurriedly recalled her brother Yan Xian to the capital, enthroned Liu Yi, Marquis of Beixiang, and herself served as regent.",
+        "a": 33.5,
+        "l": 113.3,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 126,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Shun of Han (Liu Bao)",
+        "e": "Yongjian 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Reconstruction of the Pantheon in Rome completed",
+        "s": "Emperor Hadrian rebuilt the Pantheon on the site of Agrippa's original temple from the Augustan era. The new Pantheon features the world's largest unreinforced concrete dome, 43.3 meters in diameter, equal to its height, forming a perfect spherical space. At the apex is a 9-meter-wide oculus, the only source of natural light, symbolizing the connection between gods and mortals. The Pantheon is the highest achievement of Roman architectural technology and art; it remains well preserved and is used as a church.",
+        "a": 41.9,
+        "l": 12.48,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Hadrian builds his mausoleum in Rome",
+        "s": "Emperor Hadrian began construction of his own mausoleum on the west bank of the Tiber (the Castel Sant'Angelo). The base is a square approximately 90 meters on each side, topped by a cylinder about 70 meters in diameter. Atop stood a gilded bronze statue of Hadrian in a quadriga (chariot). The interior features complex annular and spiral corridors, and the exterior was decorated with marble and statues. The mausoleum was later converted into a fortress by the popes and connected to the Vatican by a corridor.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Shun of Han purges the Yan consort clan",
+        "s": "After being enthroned with the support of eunuchs like Sun Cheng, Emperor Shun purged the Yan consort clan. Empress Dowager Yan was moved to a detached palace and placed under house arrest; Yan Xian and his brothers were executed; Yan family members were exiled. However, the victorious eunuchs soon became tyrannical themselves. Although Emperor Shun wanted to free himself from eunuch control, he was indebted to them for his succession and could only secretly cultivate other eunuchs to counterbalance them. The cycle of consort and eunuch tyranny continued.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Ban Yong defeats the Northern Xiongnu",
+        "s": "Ban Yong led a combined Han and Western Regions force of over 20,000 to Jincheng (present-day Jimsar, Xinjiang) north of the Tian Shan, where they crushed the Northern Xiongnu's Huyan prince, killing over a thousand and capturing tens of thousands of livestock. The remaining Northern Xiongnu fled west of the Altai Mountains and did not dare to return east for over a decade. Ban Yong then recovered Cheshi Later Kingdom and reestablished the Garrison Commandant (Wuji Xiaowei), stabilizing the Western Regions.",
+        "a": 43.5,
+        "l": 88.0,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 127,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Shun of Han (Liu Bao)",
+        "e": "Yongjian 2nd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Hadrian returns to Rome after long inspection tour",
+        "s": "Emperor Hadrian ended his years-long imperial inspection tour and returned to Rome. He had visited most of the provinces: Britain, Gaul, Germany, Spain, Greece, Asia Minor, Egypt, and others, meeting local officials, inspecting troops, and funding public works. This system of tours strengthened central control over provinces and provided firsthand knowledge, a hallmark of Hadrian's rule. After returning, he focused on urban construction, building the Temple of Venus and Roma and other structures.",
+        "a": 41.893,
+        "l": 12.485,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Ban Yong negotiates submission of Western Regions states",
+        "s": "Using military victories and political persuasion, Ban Yong successfully induced the remaining states of Karasahr, Weili, and Weixu to submit. These states sent princes to Luoyang as hostages and accepted Han investiture. Ban Yong also reestablished the Protectorate of the Western Regions and the military colony system, restoring Han administrative control. All fifty-plus Western Regions states now again submitted to the Eastern Han, and the Silk Road was fully open.",
+        "a": 41.7,
+        "l": 82.9,
+        "c": "Diplomacy",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Hadrian issues the Perpetual Edict",
+        "s": "Emperor Hadrian commissioned the eminent jurist Salvius Julianus to systematically compile and codify all past praetorian edicts into a comprehensive work, the Perpetual Edict (Edictum Perpetuum). It synthesized core Roman law on procedure, property, contracts, inheritance, torts, and more, and stipulated that future praetors must follow the Edict and not create new rules. This codification was a major milestone in Roman law, moving from case-by-case interpretation to systematic codification, deeply influencing later civil law systems.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 128,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Shun of Han (Liu Bao)",
+        "e": "Yongjian 3rd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Hadrian completes the Pantheon's dome",
+        "s": "The Pantheon, rebuilt by Emperor Hadrian, was officially completed, its dome the largest unreinforced concrete dome in the ancient world. Engineers used a technique of progressively lighter aggregates: at the base, heavy tufa and basalt; at the top, lightweight pumice and even empty amphorae. The dome's thickness tapers from 6 meters at the base to 1.5 meters at the oculus. The oculus creates a shifting beam of light, producing a sacred, ever-changing atmosphere. The Pantheon is still in use today, a pinnacle of Roman architectural technology.",
+        "a": 41.899,
+        "l": 12.477,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Frequent earthquakes in Luoyang area",
+        "s": "The Eastern Han capital Luoyang and its surrounding areas experienced multiple strong earthquakes, collapsing countless houses and causing heavy casualties. According to the Book of the Later Han, during the earthquakes, 'the capital shook, the ground split open, and water gushed out.' Sections of the city wall and palace buildings collapsed. Emperor Shun issued relief decrees, distributing grain and medicine, and pardoned prisoners to avert calamity. However, the frequent earthquakes were seen by the court as a warning from heaven, intensifying political crisis; eunuchs and consort relatives accused each other of being the root cause.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Society",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 129,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Shun of Han (Liu Bao)",
+        "e": "Yongjian 4th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eastern Han restores administrative structure in Liangzhou",
+        "s": "As the Qiang rebellion subsided, the Han court ordered the restoration of Liangzhou's administrative structure, reestablishing the provincial inspector (zhou mu) and commandery governors, and encouraging the return of displaced people. The court provided seeds, oxen, and tools to returning families and exempted them from taxes for three years. The border defense system was also rebuilt, recruiting Qiang locals as 'righteous troops' (yicong jun) to help garrison the frontier. Liangzhou's society and economy slowly recovered, but its strategic importance was not as great as during the Western Han.",
+        "a": 36.6,
+        "l": 104.2,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Kushan Empire and Eastern Han exchange envoys",
+        "s": "Emperor Kanishka I of the Kushan Empire dispatched a delegation bearing Buddhist scriptures and treasures to Luoyang, seeking an audience with Emperor Shun. They requested that the Han send eminent monks to Kushan to spread the Dharma, and presented Buddha relics and statues to the Han court. Emperor Shun reciprocated with silk, lacquerware, and bronze mirrors, and sent envoys to Kushan. This diplomatic contact facilitated the further eastward transmission of Buddhism and Gandharan art along the Silk Road, setting the stage for Buddhism's large-scale introduction to China.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Diplomacy",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 130,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Shun of Han (Liu Bao)",
+        "e": "Yongjian 5th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Hadrian tours the North African provinces",
+        "s": "Emperor Hadrian toured the North African provinces of Numidia and Africa, inspecting irrigation systems and urban defenses. He commissioned the construction of the 'Via Hadriana' from Carthage to Tacapae (Gabès), improving transport links between North Africa and Italy. Hadrian also encouraged the spread of Roman agricultural techniques in North Africa, expanding olive and grain cultivation, making the region an important granary for the Roman Empire.",
+        "a": 36.7,
+        "l": 3.2,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Africa"
+      },
+      {
+        "t": "Zhang Heng drafts the seismoscope design",
+        "s": "After years of studying earthquakes and mechanical design, Zhang Heng, Prefect of the Grand Astrology Bureau, produced detailed drawings of a 'wind-weather seismoscope' (houfeng didong yi). The device was to be cast in bronze, shaped like a wine jar. Inside, a central 'pillar' (inverted pendulum) was connected to eight sets of levers and cranks, each linked to a bronze dragon holding a bronze ball. When an earthquake occurred, the pillar would fall in the direction of the tremor, triggering the lever to open the dragon's mouth, dropping the ball into a waiting toad's mouth, thus indicating the earthquake's direction. After the drawings were completed, Zhang began casting the instrument.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Technology",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 131,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Shun of Han (Liu Bao)",
+        "e": "Yongjian 6th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eastern Han expands the Imperial University on a large scale",
+        "s": "Emperor Shun, acting on the advice of Minister Zuo Xiong, allocated funds to expand the Imperial University (Taixue) in Luoyang. The project took two years, adding 240 building complexes and 1,850 classrooms and dormitories, capable of accommodating 30,000 students. The university taught the Five Classics of Confucianism (Poetry, Documents, Rites, Changes, Spring and Autumn) under the instruction of academicians (boshi) and classicists. After expansion, the Taixue became the largest institution of higher learning in the world at the time, attracting scholars from all over, creating the spectacle of 'thirty thousand Taixue students.' These students later played important roles in the 'Pure Criticism' (Qingyi) movement and the 'Disasters of Partisan Prohibitions' (Danggu).",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Culture",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Zhang Heng invents and constructs an armillary sphere driven by water",
+        "s": "At Luoyang, Zhang Heng completed a water-powered armillary sphere (hun tian yi). Made of bronze with a diameter of about 4.6 chi, the sphere was engraved with constellations, the celestial equator, the ecliptic, and other astronomical markings. Driven by a waterwheel and gear system, the sphere could simulate the daily motion of the celestial sphere, showing the rising and setting of stars and their paths, largely in sync with actual sky observations. This was the world's first water-powered astronomical demonstration instrument, representing the highest level of ancient mechanical engineering and astronomy.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Technology",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 132,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Shun of Han (Liu Bao)",
+        "e": "Yangjia 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Zhang Heng invents and tests the seismoscope",
+        "s": "Zhang Heng, Prefect of the Grand Astrology Bureau, completed the world's first seismoscope – the 'houfeng didong yi' – in Luoyang. The device was cast in bronze, eight chi in diameter, shaped like a wine jar, with intricate internal mechanisms. In 133 (or slightly later), the seismoscope successfully recorded an earthquake in Longxi (not felt by people in Luoyang), verifying its effectiveness. The seismoscope predated the Western seismoscope (18th century) by about 1600 years, a remarkable achievement in the history of ancient technology.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Technology",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Shun reforms the recommendation system (Chaju)",
+        "s": "Acting on the advice of Minister Zuo Xiong, Emperor Shun introduced major reforms to the Chaju (recommendation) system. It decreed that candidates for 'filial and incorrupt' must be at least forty years old and must pass an examination in the 'Five Classics' and administrative writing, administered by the court, before being appointed to office. This reform aimed to break the monopoly of powerful families over recommendations and raise official quality. However, it aroused strong resistance from local elites, and the policy was soon abandoned in practice.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "The Bar Kokhba Jewish revolt breaks out",
+        "s": "Emperor Hadrian founded a Roman colony called 'Aelia Capitolina' on the ruins of Jerusalem and built a temple to Jupiter on the Temple Mount, while also forbidding Jews from practicing circumcision and observing the Sabbath. These policies outraged the Jews, and under the leadership of Simon Bar Kokhba (meaning 'Son of the Star'), they launched their last major revolt against Roman rule. The rebels quickly seized most of Judaea, established an independent state, and minted their own coins. Bar Kokhba was hailed as the Messiah by the Jews, and the revolt grew dramatically in scale.",
+        "a": 31.78,
+        "l": 35.23,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 133,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Shun of Han (Liu Bao)",
+        "e": "Yangjia 2nd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Hadrian mobilizes heavy forces to suppress the Jewish revolt",
+        "s": "Emperor Hadrian redeployed 12 legions (about 120,000 troops) from Britain, Germany, and other frontiers, under General Julius Severus, to Judaea to crush the Bar Kokhba revolt. The Romans used scorched-earth tactics, gradually tightening the siege on Jewish strongholds. Bar Kokhba's forces resisted fiercely, fighting guerrilla warfare from caves and mountains, inflicting heavy casualties on the Roman army. The war lasted three years, becoming one of the most brutal suppressions in Roman history.",
+        "a": 31.768,
+        "l": 35.214,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Seismoscope successfully records the Longxi earthquake",
+        "s": "Zhang Heng's seismoscope successfully detected an earthquake in Longxi. At the time, no one in Luoyang felt any tremor, but the seismoscope dropped a ball from the dragon facing west. Days later, a courier reported the earthquake from Longxi, confirming the instrument's accuracy. The court and public were amazed, and Emperor Shun issued an edict praising Zhang Heng. The seismoscope was the world's first instrument for measuring the direction of earthquakes, predating similar Western inventions by some 1,700 years.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Technology",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 134,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Shun of Han (Liu Bao)",
+        "e": "Yangjia 3rd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Roman army captures the last Jewish stronghold",
+        "s": "After three years of brutal war, the Roman army captured the last Jewish fortress of Betar. The Romans massacred the defenders and civilians; Bar Kokhba died in battle. It is estimated that the Romans destroyed 50 forts and 985 villages, killing about 580,000 Jews, with many more enslaved. Hadrian erased the name Judaea, renaming it 'Syria Palaestina', and forbade Jews from entering Jerusalem. The Jewish people began the 'Great Diaspora', lasting over 1,800 years.",
+        "a": 31.768,
+        "l": 35.214,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Eastern Han reforms the palace harem system",
+        "s": "To reduce palace expenses, Emperor Shun ordered a reduction in the numbers of palace ladies and eunuchs. The number of palace ladies was cut from over 5,000 to 2,000, and eunuchs from 3,000 to 1,800. He also regulated the ranks and treatment of consorts and forbade eunuchs from interfering in state affairs. However, this did not stop eunuch influence: eunuchs like Sun Cheng still controlled the imperial guard and edict drafting, and were locked in power struggles with the Liang consort clan.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 135,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Shun of Han (Liu Bao)",
+        "e": "Yangjia 4th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Liang Shang appointed Grand General as regent",
+        "s": "To counterbalance eunuch power, Emperor Shun established the daughter of Liang Shang as empress and appointed Liang Shang as Grand General, giving him full control of the government. Liang Shang was modest, cautious, and a Confucian scholar, appointing Li Gu, Zhou Ju, and other worthy ministers, gaining respect. However, Liang Shang's son Liang Ji was violent and self-serving, laying the groundwork for future tyranny under the Liang consort clan.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Zhang Heng petitions to ban apocryphal texts (Chenwei)",
+        "s": "Zhang Heng, Prefect of the Grand Astrology Bureau, submitted a memorial to Emperor Shun requesting a ban on apocryphal texts (chenwei divination). He argued that such texts were invented by frauds under the name of Confucius, misleading the people and endangering governance. Zhang asked the court to burn all chenwei books and forbid scholars from studying or spreading them. Although Emperor Shun did not accept the proposal, Zhang Heng's critique represented the rationalist Confucian reaction against mysticism in the Eastern Han.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Culture",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 136,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Shun of Han (Liu Bao)",
+        "e": "Yonghe 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Zhang Heng retires to his hometown and writes",
+        "s": "Due to age and illness, Zhang Heng resigned his post as Prefect of the Grand Astrology Bureau and returned to his hometown in Xi'e County, Nanyang Commandery (present-day Nanyang, Henan). There he focused on literary and philosophical works, composing the 'Yingjian' (Responses to Critiques), 'SXuan Fu' (Rhapsody on Pondering the Profound), and 'Guitian Fu' (Rhapsody on Returning to the Fields), summarizing his academic achievements and completing the 'Xuan Tu' (Diagram of the Profound). Zhang Heng died in 139. His contributions to astronomy, geography, mechanics, mathematics, and literature make him the most versatile scientist of the Eastern Han.",
+        "a": 38.44,
+        "l": 116.1,
+        "c": "Culture",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Shun changes era name to Yonghe",
+        "s": "Praying for harmony in the empire, Emperor Shun changed the era name to 'Yonghe' (Eternal Harmony). A general amnesty was declared, and commoners were granted one rank of nobility, with partial tax reductions. However, during the Yonghe years, the Western Qiang rebelled again, and the Southern Xiongnu were restless; the Han borders remained unstable.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 137,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Shun of Han (Liu Bao)",
+        "e": "Yonghe 2nd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eastern Han and Southern Xiongnu jointly campaign against Xianbei",
+        "s": "General Duliang Ma Xu and the Southern Xiongnu Left Wise King combined forces in two columns to campaign north against the Xianbei. Han troops left Yunzhong Commandery, and Southern Xiongnu cavalry left Dingxiang Commandery, attacking Tanshihuai's Xianbei from east and west. The two sides clashed at Baidao (north of present-day Hohhot, Inner Mongolia), resulting in a decisive victory for the Han-Xiongnu coalition, with over a thousand Xianbei killed and hundreds of thousands of horses, cattle, and sheep captured. The Xianbei were forced to retreat north of the Gobi, temporarily halting their raids on Han territory.",
+        "a": 39.5,
+        "l": 112.3,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Antoninus Pius succeeds as Roman emperor",
+        "s": "Emperor Hadrian, sensing his death approaching, adopted the senator Antoninus Pius as his son and heir. Hadrian also stipulated that Antoninus must adopt both Marcus Aurelius and Lucius Verus as his own successors, establishing the 'adoptive succession' system. Hadrian died later that year, and Antoninus Pius succeeded without incident. His reign (138–161) was one of the most peaceful and prosperous in Roman history.",
+        "a": 41.893,
+        "l": 12.485,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 138,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Shun of Han (Liu Bao)",
+        "e": "Yonghe 3rd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Southern Xiongnu collude with Wuhuan in rebellion",
+        "s": "Some Southern Xiongnu tribes, resentful of the Han's conscription of their cavalry against the Xianbei, allied with the Wuhuan in rebellion. The rebels captured commanderies such as Wuyuan and Shuofang, killed Han officials, and plundered the population. Emperor Shun ordered Ma Xu to suppress the revolt, which took several months of fierce fighting. The Southern Xiongnu Left Wise King was executed, and the rebel tribes were broken up and resettled. This revolt revealed the weakening of Han control over the Southern Xiongnu.",
+        "a": 40.0,
+        "l": 111.0,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 139,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Shun of Han (Liu Bao)",
+        "e": "Yonghe 4th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eastern Han suffers defeat in Qiang campaign",
+        "s": "The Western Qiang, led by the Zhong Qiang tribe together with the Shaodang Qiang, rebelled again, raiding Longxi and Jincheng. General Zhengxi Ma Xian led a campaign against them but was ambushed at Shegu Mountain (near present-day Lintao, Gansu). Ma Xian and his two sons were killed, and thousands of Han troops were lost. This defeat plunged Liangzhou back into war, alarming the Han court, which was forced to send reinforcements.",
+        "a": 35.0,
+        "l": 104.5,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome repairs Hadrian's Wall",
+        "s": "Emperor Antoninus Pius ordered a major repair and reinforcement of Hadrian's Wall in Britain. Sections of the wall that had fallen into disrepair were rebuilt in stone, over a dozen watchtowers and forts were added, and new ditches were dug. After the repairs, the Wall's defensive capabilities were greatly enhanced, effectively checking the southward incursions of the Picts.",
+        "a": 55.9,
+        "l": -4.0,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 140,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Shun of Han (Liu Bao)",
+        "e": "Yonghe 5th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Severe famine strikes Eastern Han",
+        "s": "Heavy rains caused the Yellow River to flood in Qingzhou, Xuzhou, and Yanzhou, inundating hundreds of thousands of hectares of cropland. Meanwhile, Bingzhou and Liangzhou suffered severe drought, with no harvest. Millions of refugees faced starvation; corpses littered the roads, and cannibalism occurred. Emperor Shun ordered the opening of granaries for relief and allocated five million coins from the treasury to purchase grain, but it was insufficient. The famine exacerbated social tensions, and peasant uprisings arose everywhere.",
+        "a": 36.0,
+        "l": 115.0,
+        "c": "Society",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Southern Xiongnu and Wuhuan revolt together",
+        "s": "The Southern Xiongnu leaders Wusi and Cheniu, together with Wuhuan and Xianbei tribes, launched a large-scale revolt, besieging Xihc and Shangjun commanderies and killing the General Duliang Chen Gui. Emperor Shun ordered the Colonel of the Xiongnu (Shi Xiongnu Zhonglang Jiang) Zhang Dan to lead a campaign. Both sides suffered heavy losses over several months, plunging the northern border into prolonged instability.",
+        "a": 40.0,
+        "l": 111.0,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 141,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Shun of Han (Liu Bao)",
+        "e": "Yonghe 6th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eastern Han suppresses the Southern Xiongnu revolt",
+        "s": "After more than a year of fighting, Colonel Zhang Dan eventually defeated and killed the Southern Xiongnu rebel leader Wusi. He then induced the surrender of other rebel leaders like Cheniu, reasserting control over the Southern Xiongnu. However, the Southern Xiongnu were greatly weakened, making them more dependent on Han protection, while the Han had spent heavily on military campaigns, worsening its fiscal situation.",
+        "a": 37.5,
+        "l": 111.0,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Liang Ji succeeds his father Liang Shang as Grand General",
+        "s": "After the death of Grand General Liang Shang, his son Liang Ji was appointed Grand General, taking full control of the government. Liang Ji was cruel, violent, and greedy, the opposite of his father. He immediately began eliminating rivals, installing his own cronies, and selling official positions, turning the court into the private property of the Liang clan. Eastern Han politics now entered the darkest period of Liang Ji's tyranny.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 142,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Shun of Han (Liu Bao)",
+        "e": "Han'an 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Zhang Gang impeaches Liang Ji, shaking the court",
+        "s": "The Attendant Censor (Shi Yushi) Zhang Gang was ordered to tour various regions to inspect official conduct. But as soon as he left Luoyang, he destroyed his carriage, saying, 'The wolf is in the road, why ask about the foxes?' He then returned and submitted a memorial impeaching Grand General Liang Ji on fifteen counts, including 'monopolizing power, acting tyrannically, corruption, and harming the loyal.' The memorial sent shockwaves through the court and among the populace. Emperor Shun, however, dared not punish Liang Ji; instead, he demoted Zhang Gang to be Grand Administrator of Guangling. Liang Ji bore a grudge but dared not harm Zhang because of his reputation.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Shun changes era name to Han'an",
+        "s": "Hoping to bring peace to the Han, Emperor Shun changed the era name to 'Han'an' (Han Peace). However, the era change did nothing to stop the worsening political corruption and social conflicts; Liang Ji's power only grew stronger.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 143,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Shun of Han (Liu Bao)",
+        "e": "Han'an 2nd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Zhang Gang appointed Governor of Guangling, convinces rebel leader to surrender",
+        "s": "After being demoted to Governor of Guangling, Zhang Gang rode alone to the camp of local peasant rebel leader Zhang Ying. He explained the consequences and the benefits of peace. Zhang Ying, impressed by Zhang Gang's courage and sincerity, surrendered with tens of thousands of followers. Zhang Gang resettled the surrendered people, selected capable officials, and brought peace to Guangling. However, Zhang Gang soon died of illness at age 36. Zhang Ying and others mourned him bitterly. Even Liang Ji, though he hated Zhang Gang, had to admit his talent.",
+        "a": 32.4,
+        "l": 119.5,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Kushan Empire reaches cultural zenith",
+        "s": "Under Kanishka I and his successors, the Kushan Empire entered its golden age. Its capital, Peshawar (present-day Pakistan), became a Buddhist center, with the Kanishka Stupa, about 200 meters high, one of the tallest structures in the world at that time. Gandharan art, blending Greek, Persian, and Indian styles, produced numerous Buddha statues and narrative reliefs. The Kushans also controlled the central Silk Road trade, enjoyed economic prosperity, and cultural diversity, becoming one of the four great empires of the world at the time (along with Rome, Parthia, and Han China).",
+        "a": 34.0,
+        "l": 72.0,
+        "c": "Culture",
+        "r": "Kushan",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 144,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Shun of Han (Liu Bao)",
+        "e": "Jiankang 1st year"
+      },
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Chong of Han (Liu Bing)",
+        "e": "Jiankang 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Shun of Han dies; Emperor Chong succeeds",
+        "s": "Emperor Shun died of illness in Luoyang at age 30. His son Liu Bing succeeded as Emperor Chong, only two years old. Empress Dowager Liang served as regent, and her brother, Grand General Liang Ji, held power, ushering in the peak of Liang consort clan domination.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Peasant uprising in Jiujiang",
+        "s": "In Jiujiang Commandery (present-day Anhui and Jiangxi), a peasant uprising led by Xu Feng and Ma Mian broke out. The rebels wore yellow scarves, attacked county seats, and opened granaries, quickly growing to tens of thousands. Liang Ji mobilized troops from six commanderies, including Yangzhou and Xuzhou, and after months of fierce fighting, suppressed the revolt. However, small-scale uprisings continued to flare up, and the foundations of Han rule began to shake.",
+        "a": 32.5,
+        "l": 116.8,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 145,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Chong of Han (Liu Bing)",
+        "e": "Yongxi 1st year"
+      },
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Zhi of Han (Liu Zuan)",
+        "e": "Benchu 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Chong of Han dies young; Emperor Zhi succeeds",
+        "s": "Emperor Chong of Han died after only one year on the throne, at age three. Empress Dowager Liang and Liang Ji enthroned Liu Zuan, son of Liu Hong, Prince of Bohai, as Emperor Zhi of Han, aged eight. Liang Ji continued to monopolize power, and corruption worsened.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Peasant uprisings erupt one after another in various regions",
+        "s": "Due to Liang Ji's tyranny and years of famine, numerous peasant uprisings broke out in Jiujiang, Lujiang, Danyang, and Kuaiji commanderies. Rebel groups ranged from several thousand to tens of thousands, attacking county seats and killing corrupt officials. Liang Ji mobilized large forces to suppress them, but the rebels used mountains and waterways to wage guerrilla warfare, repeatedly defeating government forces. These uprisings were a prelude to the later Yellow Turban Rebellion.",
+        "a": 33.0,
+        "l": 118.0,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 146,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Zhi of Han (Liu Zuan)",
+        "e": "Benchu 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Liang Ji poisons Emperor Zhi of Han",
+        "s": "Although young, Emperor Zhi was intelligent. At a court assembly, he pointed at Liang Ji in front of all the officials and said, 'This is a tyrannical general!' Liang Ji harbored a grudge, ordered his henchmen to poison the emperor's food, and killed him. The emperor was only nine years old. Liang Ji then enthroned Liu Zhi, Marquis of Liwu, as Emperor Huan of Han, aged fifteen. Liang Ji continued to hold power, more arrogant than ever.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "The Pure Criticism (Qingyi) movement emerges among Taixue students",
+        "s": "Taixue students in Luoyang, resentful of Liang Ji's tyranny, began gathering to discuss politics and evaluate officials. They praised upright officials like Li Gu and Du Qiao, and condemned Liang Ji and his cronies. The Qingyi movement gradually took shape, becoming an important form of resistance by the scholar-official class against eunuchs and consort clans.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Culture",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 147,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Huan of Han (Liu Zhi)",
+        "e": "Jianhe 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Explicit record of Buddhism's official entry into the Central Plains",
+        "s": "Emperor Huan of Han established a 'Futu Shrine' (Buddha shrine) in the palace to worship the Buddha – this is the earliest explicit official record of Buddhism spreading in the Central Plains. Emperor Huan himself followed Huang-Lao Daoism, regarding the Buddha as one of the immortals. This move promoted Buddhism's spread among the upper class and common people. Around this time, the Parthian monk An Shigao arrived in Luoyang and began translating scriptures. Buddhism thus began to take root in China.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Religion",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Li Gu and Du Qiao are killed by Liang Ji",
+        "s": "Grand Commandant Li Gu and Du Qiao, having opposed the enthronement of Liu Zhi as emperor, were falsely accused and imprisoned by Liang Ji. In prison, Li Gu wrote a defense, and his student Wang Diao and others protested his innocence. Fearing public opinion, Liang Ji released Li Gu. But soon after, he ordered Li and Du arrested and killed, their bodies displayed on the streets. Their deaths aroused widespread indignation among scholar-officials and Taixue students, and the anti-Liang Ji movement grew louder.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Christian writings increase in Rome",
+        "s": "As Christianity spread within the Roman Empire, apologists such as Justin Martyr wrote many works defending the Christian faith and explaining its doctrines. Justin opened a school in Rome, teaching Christian philosophy and presenting Christianity as the 'highest philosophy.' The increase in such writings indicates accelerating missionary work among the educated classes.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Religion",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 148,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Huan of Han (Liu Zhi)",
+        "e": "Jianhe 2nd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Parthian monk An Shigao translates scriptures in China",
+        "s": "An Shigao, a Parthian prince who renounced his throne to become a monk, arrived in Luoyang to translate Buddhist scriptures. He was fluent in Chinese, Sanskrit, and Parthian, and translated over thirty Hinayana scriptures, including the Anban Shouyi Jing (Sutra on Mindfulness of Breathing) and the Yin Chi Ru Jing (Sutra on the Entering of Consciousness). He systematically introduced Buddhist meditation and basic doctrines. An Shigao's work marked the beginning of systematic Buddhist translation in China, and he is revered as the pioneer of Chinese Buddhist scripture translation.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Religion",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Liang Ji expands his mansion to extreme luxury",
+        "s": "Grand General Liang Ji launched a massive construction project in Luoyang, expanding his mansion and gardens. His residence stretched for dozens of li, with pavilions, towers, rockeries, and ponds far exceeding the palace in luxury. Liang Ji also forcibly seized tens of thousands of hectares of farmland as his 'hunting ground', raising rabbits; anyone who trespassed was killed. Liang Ji's extravagance further intensified social conflict.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Society",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome celebrates the 900th anniversary of its founding",
+        "s": "The Roman Empire held a grand celebration for the 900th anniversary of Rome's founding (traditional date 753 BC). Emperor Antoninus Pius presided over days of gladiatorial games, chariot races, and theatrical performances, distributing grain and money to the citizens. The festivities showcased the empire's power and cultural richness.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 149,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Huan of Han (Liu Zhi)",
+        "e": "Jianhe 3rd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "An Shigao continues translating scriptures and spreading Buddhism in Luoyang",
+        "s": "The Parthian monk An Shigao continued translating scriptures and spreading Buddhist teachings in Luoyang. He not only translated texts but also explained meditation and doctrine to believers, teaching chanting in Sanskrit. He had several hundred disciples, including Lokaksema, who later became a famous translator. An Shigao also sent some Chinese Buddhist translations back to Parthia, promoting Buddhism in West Asia.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Religion",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Greek medicine spreads widely in Rome",
+        "s": "During the Roman Empire, the medical theories of the Greek physician Galen began to spread widely. Galen studied human anatomy through animal dissections, proposed the humoral theory and pneuma theory, and wrote numerous medical works. Roman aristocrats hired Greek doctors as personal physicians, and public hospitals began adopting Greek medical methods. The combination of Greek medicine and Roman public health improved the health of the Roman population.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Technology",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Huan changes era name to Heping",
+        "s": "Hoping to bring peace, Emperor Huan changed the era name to 'Heping' (Peace). But peace did not come; Liang Ji's tyranny continued, peasant revolts persisted, and the Eastern Han dynasty continued its decline amid darkness and turmoil.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 150,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Huan of Han (Liu Zhi)",
+        "e": "Heping 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Chinese papermaking spreads to foreign lands",
+        "s": "Cai Lun's improved papermaking spread from Luoyang to all commanderies and counties, replacing bamboo slips and silk, greatly promoting cultural dissemination. Meanwhile, paper was transmitted via the Silk Road to the Western Regions, Central Asia, and eventually to West Asia and Europe, revolutionizing world civilization. Papermaking is considered one of China's four great inventions.",
+        "a": 34.3,
+        "l": 108.86,
+        "c": "Technology",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Empress Dowager Liang dies",
+        "s": "Empress Dowager Liang died of illness. On her deathbed, she left a will urging Emperor Huan to employ worthy ministers and reduce taxes. However, after losing the empress dowager as his protector, Liang Ji only became more domineering, not even respecting the emperor.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Ma Rong annotates Confucian classics",
+        "s": "The Eastern Han classical scholar Ma Rong completed annotations on several Confucian classics, including the Classic of Filial Piety, the Analects, and the Book of Changes. He broke down the barriers between the New Text and Old Text schools, drawing on the strengths of both, forming a unique scholarly system. Ma Rong's commentaries were an important reference for Zheng Xuan, and they advanced the development of Confucian scholarship.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Culture",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 151,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Huan of Han (Liu Zhi)",
+        "e": "Yuanjia 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Huan of Han changes era name to Yuanjia",
+        "s": "Emperor Huan changed the era name to 'Yuanjia' (Excellent Prosperity) and declared a general amnesty. However, Liang Ji's tyranny continued unabated, even more outrageous. Emperor Huan secretly began building strength to eliminate Liang Ji.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Parthian Empire recovers Mesopotamia",
+        "s": "Taking advantage of Rome's preoccupation with border troubles, King Vologases III of Parthia led a western campaign and recaptured most of Mesopotamia, including the ancient cities of Nineveh and Babylon. The eastern Roman provinces were threatened, but Emperor Antoninus Pius chose a diplomatic solution, recognizing Parthian suzerainty over the region and avoiding a major war.",
+        "a": 33.0,
+        "l": 44.5,
+        "c": "Politics",
+        "r": "Parthian Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Cui Yuan composes the 'Zuo You Ming' (Inscription for a Seat)",
+        "s": "The Eastern Han calligrapher and writer Cui Yuan composed the famous 'Zuo You Ming' (Inscription for a Seat), consisting of twenty lines, beginning with 'Do not speak of others' shortcomings, do not boast of your own.' It encouraged the author to be cautious in speech and action, tolerant of others. This work became an important model for later literati in self-cultivation and created the literary genre of the 'Zuo You Ming' (motto).",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Culture",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 152,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Huan of Han (Liu Zhi)",
+        "e": "Yuanjia 2nd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Zhu Mu memorializes to impeach Liang Ji",
+        "s": "The Cishi (Inspector) of Jizhou, Zhu Mu, submitted a memorial to Emperor Huan impeaching Liang Ji and his cronies for corruption and oppressing the people. Zhu Mu wrote that 'Heaven has abandoned him; he cannot be restored,' urging Huan to resolve to eliminate Liang Ji. The memorial was intercepted by Liang Ji; Zhu Mu was arrested and imprisoned. Only after thousands of Taixue students led by Liu Tao gathered in protest was Zhu released.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman envoys reach China by sea",
+        "s": "According to the Book of the Later Han, envoys from the Roman Empire (Daqin) reached Rinan Commandery (present-day central Vietnam) by sea and then traveled to Luoyang. This is one of the earliest official records of direct contact between China and the Roman Empire. Though the envoys may have been Roman merchants posing as diplomats, it reflects the desire of the two great empires to establish links.",
+        "a": 16.0,
+        "l": 108.0,
+        "c": "Diplomacy",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 153,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Huan of Han (Liu Zhi)",
+        "e": "Yongxing 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "The great classical scholar Zheng Xuan is born",
+        "s": "The renowned Eastern Han classical scholar Zheng Xuan was born in Gaomi, Beihai (present-day Gaomi, Shandong). He later studied under Ma Rong and produced commentaries on all the Confucian classics, breaking down the barriers between New Text and Old Text schools, forming 'Zheng Studies' (Zheng Xue), which became the synthesis of Han dynasty classical learning. Zheng Xuan's interpretations dominated the Chinese explanation of Confucian classics for nearly two thousand years.",
+        "a": 34.0,
+        "l": 120.0,
+        "c": "Culture",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Yellow River floods catastrophically",
+        "s": "The Yellow River burst its banks in Wei Commandery and Qinghe Commandery, flooding dozens of counties, drowning thousands of people, and leaving hundreds of thousands homeless. Emperor Huan ordered relief, opening granaries and conscripting laborers to repair the dikes. But the scale of the engineering was huge, the treasury was strained, and only patchwork repairs could be done, not fundamental solutions. Flooding became a major problem in the mid-to-late Eastern Han.",
+        "a": 35.5,
+        "l": 116.0,
+        "c": "Society",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 154,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Huan of Han (Liu Zhi)",
+        "e": "Yongxing 2nd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "The Pure Criticism (Qingyi) movement grows among Taixue students",
+        "s": "Taixue students in Luoyang, joined by local Confucian scholars, focused their 'Pure Criticism' on politics and eunuchs. They praised upright officials like Li Ying and Chen Fan as 'models of the empire', and satirized eunuchs as 'muddy currents'. The students also created lists such as 'Three Lords', 'Eight Excellencies', and 'Eight Gu's' to rank the conduct of scholar-officials. The Qingyi movement became an important form of struggle between the scholar-officials and eunuchs, and set the stage for the later 'Disasters of Partisan Prohibitions' (Danggu).",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Culture",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Peasant uprising in Mount Tai and Langye",
+        "s": "A peasant uprising broke out in the Mount Tai and Langye areas, led by Gongsun Ju who proclaimed himself 'Emperor' and gathered tens of thousands to attack county seats. Emperor Huan mobilized forces from four provinces (Qing, Xu, Yan, Yu) to suppress it, taking more than a year of fierce fighting.",
+        "a": 36.0,
+        "l": 118.0,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 155,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Huan of Han (Liu Zhi)",
+        "e": "Yongshou 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Xianbei leader Tanshihuai unifies the steppe",
+        "s": "Xianbei chief Tanshihuai convened a tribal assembly at Mount Danhan (present-day Xinghe, Inner Mongolia), consolidating his absolute rule over all Xianbei tribes. He established three divisions (east, central, west), each under a commander, commanding over 100,000 cavalry. After unification, Tanshihuai repeatedly led his forces to raid the Eastern Han border, plundering people and property, becoming the most serious northern border threat to the Han.",
+        "a": 41.5,
+        "l": 115.0,
+        "c": "Politics",
+        "r": "Xianbei",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Huan changes era name to Yongshou",
+        "s": "Emperor Huan changed the era name to 'Yongshou' (Eternal Life), hoping to prolong the dynasty's existence. But the Eastern Han was already in dire straits: Liang Ji's tyranny, peasant uprisings, Xianbei incursions, and fiscal exhaustion. The era change brought no improvement.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 156,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Huan of Han (Liu Zhi)",
+        "e": "Yongshou 2nd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Xianbei invade Eastern Han on a large scale",
+        "s": "Tanshihuai led over 100,000 Xianbei cavalry in a massive three-pronged invasion of the Eastern Han: one route attacked Yunzhong Commandery, another attacked Wuyuan Commandery, and the third attacked Yanmen Commandery. Han forces retreated repeatedly, and thousands of border residents were captured. Emperor Huan ordered General Duliang Li Ying to resist; after fierce fighting, the Xianbei were repelled, but the border suffered heavy losses.",
+        "a": 40.5,
+        "l": 111.0,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Spread of Christianity in Syria",
+        "s": "The Syrian city of Antioch became an important base for the outward spread of Christianity. Missionaries set out from there to establish churches in Asia Minor, Greece, and Rome. The church at Antioch also organized large-scale missionary activities for the first time, laying the foundations for Christianity to become a world religion.",
+        "a": 36.0,
+        "l": 37.0,
+        "c": "Religion",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 157,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Huan of Han (Liu Zhi)",
+        "e": "Yongshou 3rd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Peasant uprisings in Changsha and Lingling",
+        "s": "Large-scale peasant uprisings broke out in Jingzhou commanderies such as Changsha, Lingling, and Wuling. The rebels attacked counties and killed corrupt officials, using mountains and rivers to wage guerrilla warfare against government forces for several years. Emperor Huan mobilized forces from Jingzhou and Jiaozhou to suppress them, which gradually succeeded.",
+        "a": 27.5,
+        "l": 111.5,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Christian apologetic movement in Rome",
+        "s": "The Christian apologist Justin Martyr wrote his First Apology in Rome, refuting charges of 'atheism', 'cannibalism', and 'incest' made against Christians, explaining Christian doctrine and worship, and appealing for tolerance from Emperor Antoninus Pius. Justin presented Christianity philosophically as the 'highest philosophy', seeking acceptance from the Roman elite.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Religion",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 158,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Huan of Han (Liu Zhi)",
+        "e": "Yanxi 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Huan and eunuchs plot to eliminate Liang Ji",
+        "s": "Unable to tolerate Liang Ji's tyranny any longer, Emperor Huan secretly contacted five eunuchs – Shan Chao, Ju Yuan, Tang Heng, Zuo Guan, Xu Huang – to plot the elimination of Liang Ji. Huan bit Shan Chao's arm, swearing blood brotherhood, and set a date for action. The eunuchs controlled part of the imperial guard, preparing a coup.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Gaul region accelerates Romanization",
+        "s": "During the reign of Antoninus Pius, the province of Gaul (present-day France) rapidly Romanized. Latin became the official language of administration and commerce; Roman-style cities, roads, aqueducts, and theaters spread throughout Gaul. Gallic nobles entered the Roman Senate in large numbers, and Gaul became one of the most prosperous provinces of the Roman Empire.",
+        "a": 47.0,
+        "l": 3.0,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 159,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Huan of Han (Liu Zhi)",
+        "e": "Yanxi 2nd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Huan exterminates Liang Ji",
+        "s": "Emperor Huan and the five eunuchs staged a coup, ordering the imperial guard to surround Liang Ji's mansion. Liang Ji and his wife Sun Shou committed suicide; hundreds of the Liang clan were executed. Liang Ji's property was confiscated, valued at over 3 billion coins, equivalent to more than a year's revenue for the Eastern Han. After killing Liang Ji, Huan enfeoffed the five eunuchs as the 'Five Marquises'. Eunuchs now came to power, and Eastern Han politics shifted from consort clan to eunuch domination.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Five eunuchs enfeoffed as marquises on the same day",
+        "s": "To reward the five eunuchs (Shan Chao, Ju Yuan, Tang Heng, Zuo Guan, Xu Huang) for their role in eliminating Liang Ji, Emperor Huan on the same day enfeoffed all five as marquises, each with a fief of 10,000 households. Shan Chao was promoted to General of Chariots and Cavalry, controlling the imperial guards. The 'Five Marquises' wielded immense power, selling offices, living in luxury, and causing widespread outrage. Eunuch tyranny proved even darker than consort clan rule.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome launches a Parthian war",
+        "s": "After the death of Emperor Antoninus Pius, the new co-emperors Marcus Aurelius and Lucius Verus took office. As Parthia invaded Armenia, Rome declared war. Lucius Verus led the eastern campaign, part of the long-running Roman-Parthian conflict.",
+        "a": 36.5,
+        "l": 39.0,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 160,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Huan of Han (Liu Zhi)",
+        "e": "Yanxi 3rd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "The 'Five Marquises' seize control of the government",
+        "s": "After the elimination of Liang Ji, the eunuch 'Five Marquises' reached the height of their power. They not only controlled the government but also installed their cronies as provincial and commandery officials, even interfering in succession to the throne. Their relatives and servants bullied locals, seized land, and caused widespread resentment. Upright scholar-officials repeatedly impeached them, but Emperor Huan paid no heed.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Theater culture flourishes in the Roman Empire",
+        "s": "Roman-style theaters were built across the Roman provinces, some seating tens of thousands. Often built on hillsides or using arch vaults, they hosted Greek tragedies, Roman comedies, mimes, acrobatics, and poetry recitations. Theater culture became an important part of daily entertainment, promoting the flourishing and dissemination of dramatic arts.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 161,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Huan of Han (Liu Zhi)",
+        "e": "Yanxi 4th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Antonine Plague breaks out",
+        "s": "Roman troops returning from Mesopotamia brought back a virulent infectious disease (probably smallpox or measles). The plague spread rapidly through Rome and the provinces. At its peak, about 2,000 people died daily in Rome. The empire's total population may have fallen by a third, military strength severely weakened, and the economy devastated. This 'Antonine Plague' was a major turning point in the Roman Empire's decline.",
+        "a": 41.893,
+        "l": 12.485,
+        "c": "Society",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Eunuch domination leads to extreme official corruption",
+        "s": "After the 'Five Marquises' took power, the sale of offices became open and rampant. Their relatives and servants filled the provinces and commanderies, extorting bribes and oppressing the people. Upright officials were either marginalized or falsely imprisoned. The Eastern Han officialdom entered its darkest period; the people were destitute, and uprisings erupted everywhere.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 162,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Huan of Han (Liu Zhi)",
+        "e": "Yanxi 5th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Parthian Empire invades Armenia",
+        "s": "Taking advantage of Rome's weakened state due to plague, King Vologases IV of Parthia invaded Armenia, deposed the pro-Roman king, and installed his own candidate. This triggered a new round of Roman-Parthian war, and Rome sent forces to rescue Armenia.",
+        "a": 40.0,
+        "l": 44.0,
+        "c": "Military",
+        "r": "Parthian Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Li Ying appointed Colonel of the Capital (Sili Xiaowei), rectifies discipline",
+        "s": "Li Ying was appointed Colonel of the Capital (Sili Xiaowei), responsible for supervising the capital and its environs. He dared to offend the powerful, strictly punishing lawless eunuch relatives and corrupt officials, even arresting and punishing relatives of the 'Five Marquises'. His uprightness won him respect from scholar-officials and commoners; the Taixue students called him a 'model for the empire'. However, this also set the stage for intense conflict with eunuchs.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 163,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Huan of Han (Liu Zhi)",
+        "e": "Yanxi 6th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Roman Empire prepares for eastern campaign",
+        "s": "Emperors Marcus Aurelius and Lucius Verus actively prepared for war against Parthia. Rome massed about 70,000 troops in the east, including elite legions transferred from the Danube and Rhine. Lucius Verus was nominally in command, but actual control fell to experienced generals.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Zhu Mu writes the 'Chong Hou Lun' (On Esteeming Honesty)",
+        "s": "The Eastern Han scholar Zhu Mu wrote the 'Chong Hou Lun' (On Esteeming Honesty), criticizing the contemporary 'shallow customs'. He advocated a return to simple, honest, and generous moral standards, opposing hypocrisy, fraud, and extravagance. The essay represented the scholar-officials' anxiety about declining social morality and reflected the Confucian idea of 'virtue carries things'.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Culture",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 164,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Huan of Han (Liu Zhi)",
+        "e": "Yanxi 7th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Huan tours Jingzhou",
+        "s": "Emperor Huan, accompanied by eunuchs and favorites, made a southern tour of Jingzhou and Wancheng, ostensibly to inspect but actually for pleasure. He spent extravagantly on hunting, drinking, and entertainment, ignoring advice from upright officials. Local officials extorted the people to provide for the emperor, causing widespread resentment.",
+        "a": 32.0,
+        "l": 112.5,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome captures Armenia",
+        "s": "The Roman eastern army, under the command of Statius Priscus, governor of Cappadocia, invaded Armenia, defeated the Parthian army, and recovered all of Armenia. Rome reestablished Armenia as a protectorate and installed a pro-Roman king.",
+        "a": 40.0,
+        "l": 44.0,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 165,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Huan of Han (Liu Zhi)",
+        "e": "Yanxi 8th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "On the eve of the first 'Disaster of Partisan Prohibitions'",
+        "s": "The conflict between eunuchs and scholar-officials reached a boiling point. The eunuchs falsely accused Li Ying, Chen Fan, and other scholar-officials of forming a faction and slandering the court. They demanded that Emperor Huan suppress them. Though hesitant, Huan, under pressure from eunuchs, began to prepare arrests. The first 'Disaster of Partisan Prohibitions' was imminent.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Crisis on the Roman Empire's Germanic border",
+        "s": "Germanic tribes, especially the Marcomanni and Quadi, crossed the Danube and invaded the Roman province of Pannonia. They destroyed cities, massacred residents, and even threatened Italy itself. Emperor Marcus Aurelius had to leave the eastern front and personally command the defenses on the Danube, marking the beginning of a full-scale crisis on the northern frontier.",
+        "a": 47.5,
+        "l": 18.0,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 166,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Huan of Han (Liu Zhi)",
+        "e": "Yanxi 9th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "First 'Disaster of Partisan Prohibitions' erupts",
+        "s": "The eunuch faction falsely accused hundreds of scholar-officials, including Li Ying, Chen Fan, and Fan Pang, of 'slandering the court and forming cliques.' Emperor Huan ordered the arrest of the 'partisans'. Li Ying and others were imprisoned. Over 20,000 Taixue students gathered in protest, demanding their release. Under public pressure, Huan released them but permanently banned them from holding office, in what is known as the 'Disaster of Partisan Prohibitions' (Danggu). This was the first major defeat of the scholar-officials in their struggle against eunuchs, and marked the further darkening of Eastern Han politics.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman envoys reach China by sea",
+        "s": "According to the Book of the Later Han, envoys sent by Roman Emperor Marcus Aurelius reached Rinan Commandery (present-day central Vietnam) via the Indian Ocean, then traveled to Luoyang to pay homage to Emperor Huan. They presented exotic products such as ivory, rhino horn, and hawksbill turtles. This marks the first official contact between the two great empires. Though the envoys may have been Roman merchants posing, it reflects the desire for direct contact between Rome and Han China.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Diplomacy",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Marcus Aurelius defeats the Marcomanni",
+        "s": "Emperor Marcus Aurelius led Roman forces to a victory over the Marcomanni coalition in Pannonia, temporarily halting the Germanic southward advance. However, plague and manpower shortages prevented a complete victory; a treaty was signed allowing Marcomanni to settle along the border in exchange for not attacking Roman territory.",
+        "a": 48.0,
+        "l": 16.5,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 167,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Huan of Han (Liu Zhi)",
+        "e": "Yongkang 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Huan pardons the 'partisans'",
+        "s": "At the urging of Empress Dowager Dou, Emperor Huan pardoned Li Ying and other 'partisans', releasing them to their homes. However, they remained permanently banned from holding office. The struggle between scholar-officials and eunuchs temporarily subsided.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Huan of Han dies",
+        "s": "Emperor Huan of Han died of illness in Luoyang at age 36. Without an heir, Empress Dowager Dou and her father Dou Wu enthroned Liu Hong, Marquis of Jieduting, as Emperor Ling of Han, aged twelve. Empress Dowager Dou served as regent; Dou Wu was appointed Grand General, and together with Chen Fan, they began to purge eunuch influence.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 168,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Ling of Han (Liu Hong)",
+        "e": "Jianning 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Dou Wu and Chen Fan fail in plot to kill eunuchs",
+        "s": "Grand General Dou Wu and Grand Tutor Chen Fan secretly plotted to eliminate eunuch forces, planning a coup with the help of imperial guard officers. However, eunuchs Cao Jie and Wang Fu got wind of it and acted first, seizing Emperor Ling and Empress Dowager Dou, issuing a forged edict to kill Dou Wu and Chen Fan and their relatives, and executing more than a hundred of their disciples. Empress Dowager Dou was placed under house arrest, and eunuchs took full control.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Eunuchs Cao Jie and Wang Fu take power",
+        "s": "After killing Dou Wu and Chen Fan, eunuchs Cao Jie and Wang Fu seized control of the government. Cao Jie was promoted to Colonel of the Changle Guard and enfeoffed as marquis; Wang Fu was appointed Palace Attendant. Eunuch power reached its zenith in the Eastern Han, as they could appoint and dismiss officials, interfere with justice, and even decide the succession.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 169,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Ling of Han (Liu Hong)",
+        "e": "Jianning 2nd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Second 'Disaster of Partisan Prohibitions'",
+        "s": "Eunuchs Cao Jie and Wang Fu accused Li Ying, Du Mi, and others of plotting against the state, and persuaded Emperor Ling to order a massive roundup of 'partisans'. Over a hundred scholar-officials, including Li Ying, were executed; 600-700 more were permanently banned from office, and their families were exiled. Taixue students were forbidden to gather, and the Pure Criticism movement was suppressed. The second Danggu was more brutal than the first, dealing a devastating blow to the Eastern Han scholar-official class.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Marcus Aurelius concludes a treaty with Germanic tribes",
+        "s": "Emperor Marcus Aurelius made a treaty with the Marcomanni, Quadi, and other Germanic tribes, allowing them to settle within Roman borders and provide troops as allied forces. This was the first large-scale Roman authorization of barbarian settlement within the empire, setting a precedent for later barbarian invasions.",
+        "a": 47.5,
+        "l": 18.0,
+        "c": "Diplomacy",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 170,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Ling of Han (Liu Hong)",
+        "e": "Jianning 3rd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eunuchs wield immense power",
+        "s": "Eunuchs Cao Jie, Wang Fu, Zhang Rang, Zhao Zhong – ten in total – controlled the government. Emperor Ling called Zhang Rang 'Father' and Zhao Zhong 'Mother'. The eunuchs sold offices, extorted people, and their relatives and servants ran rampant. A folk rhyme in the capital said: 'You recommend a scholar – he doesn't know the books; you recommend a filial son – he lives apart from his dad. The pure and poor are muddy like mud; the high-ranked generals are cowardly like chicks.'",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Duan Ying pacifies the Western Qiang",
+        "s": "The Eastern Han general Duan Ying launched a final offensive against the Western Qiang, defeating them decisively at Fengyi Mountain (in present-day Gansu), killing over 8,000. He then relentlessly pursued and eliminated the remaining forces of the Shaodang and Zhong Qiang tribes. The Western Qiang rebellion was thus basically pacified, but the Eastern Han's national power was largely exhausted.",
+        "a": 35.0,
+        "l": 104.5,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 171,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Ling of Han (Liu Hong)",
+        "e": "Jianning 4th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Ling performs capping ceremony and declares general amnesty",
+        "s": "Emperor Ling of Han, now 15 years old, held his coming-of-age ceremony (capping) and assumed formal rule. To celebrate, he declared a general amnesty, promoted eunuchs Zhang Rang and Zhao Zhong to marquises, and granted them large estates and slaves. Not only did Emperor Ling fail to control the eunuchs, he became even more dependent on them.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Empress Song is deposed",
+        "s": "Believing slanders from eunuchs, Emperor Ling deposed Empress Song, imprisoning her in the palace. She soon died, and her relatives were executed or exiled. Eunuch influence had reached the point of determining the appointment and deposition of the empress.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 172,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Ling of Han (Liu Hong)",
+        "e": "Xiping 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Ling changes era name to Xiping",
+        "s": "Emperor Ling changed the era name to 'Xiping' (Great Peace), and declared a general amnesty. But the change did not reverse the Eastern Han's decline; eunuch tyranny, peasant uprisings, and border incursions remained severe.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Xianbei border raids intensify",
+        "s": "Xianbei leader Tanshihuai led continuous raids on the Han's Youzhou and Bingzhou borders. Emperor Ling sent Colonel Protecting the Wuhuan (Hu Wuhuan Xiaowei) Xia Yu to counterattack, but Tanshihuai defeated him decisively; Xia Yu barely escaped with his life. Thereafter, the Xianbei reached their peak, controlling the entire Mongolian plateau and becoming the most serious northern border threat to the Eastern Han.",
+        "a": 38.0,
+        "l": 112.0,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 173,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Ling of Han (Liu Hong)",
+        "e": "Xiping 2nd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Earthquake in Luoyang",
+        "s": "A strong earthquake struck the capital Luoyang, collapsing countless palaces, offices, and homes, killing or injuring hundreds. The earthquake was seen as a warning from heaven against eunuch misrule, and Taixue students and scholar-officials petitioned for the removal of eunuchs. Emperor Ling ignored them and instead suppressed the petitioners.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Society",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Marcus Aurelius launches war against the Quadi",
+        "s": "The Quadi violated their treaty with Rome and again invaded Pannonia. Emperor Marcus Aurelius led a large army on a campaign, defeating the Quadi on the Danube and forcing them to sue for peace again. This war was part of Aurelius' long-term Marcomannic Wars.",
+        "a": 47.0,
+        "l": 19.0,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 174,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Ling of Han (Liu Hong)",
+        "e": "Xiping 3rd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Duan Ying appointed Grand Commandant",
+        "s": "Duan Ying, who had pacified the Western Qiang, was appointed Grand Commandant by Emperor Ling. Duan was an honest official, but because he came from a poor family, he was shunned by the scholar-officials. The eunuchs exploited this conflict to win him over; Duan gradually sided with the eunuchs and became their accomplice.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Xianbei leader Tanshihuai dies",
+        "s": "Xianbei leader Tanshihuai died, and his son Helian succeeded. Helian was mediocre and unable to control the tribes. The Xianbei empire began to fragment, though its various tribes still frequently raided the Eastern Han border.",
+        "a": 41.5,
+        "l": 115.0,
+        "c": "Politics",
+        "r": "Xianbei",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 175,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Ling of Han (Liu Hong)",
+        "e": "Xiping 4th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Xiping Stone Classics are erected",
+        "s": "Cai Yong and others petitioned Emperor Ling to engrave the Confucian classics on stone tablets and set them up outside the Taixue (Imperial University) as the standard versions. The project carved seven classics (Book of Changes, Book of Documents, Book of Songs, Book of Rites, Spring and Autumn Annals, Gongyang Commentary, and Analects). It took eight years, producing 46 stone tablets, each about one zhang high. The Xiping Stone Classics are the earliest officially established Confucian canonical text in Chinese history, playing an important role in standardizing classics and promoting Confucian learning.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Culture",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Marcus Aurelius tours the East",
+        "s": "After pacifying the Germanic border, Emperor Marcus Aurelius toured the eastern provinces, visiting Athens, Antioch, and Alexandria. He established several philosophy chairs in Athens, subsidizing scholars and promoting a revival of Greek culture.",
+        "a": 37.97,
+        "l": 23.72,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 176,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Ling of Han (Liu Hong)",
+        "e": "Xiping 5th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Cai Yong memorializes against eunuchs",
+        "s": "The Court Gentleman (Yilang) Cai Yong submitted a memorial to Emperor Ling exposing the corruption of eunuchs and demanding their removal and the appointment of worthy ministers. The eunuchs Cao Jie and Wang Fu, enraged, falsely accused Cai Yong of slandering the court and had him imprisoned. Cai was sentenced to death, but the sentence was commuted to exile in Shuofang Commandery.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Xianbei raid Youzhou annually",
+        "s": "Led by Helian, the Xianbei tribes raided the Han's Youzhou each year, plundering people, livestock, and grain, bringing great suffering. Emperor Ling dispatched troops to defend, but due to corruption and insufficient pay, the border forces were ineffective and suffered repeated defeats.",
+        "a": 40.5,
+        "l": 116.0,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 177,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Ling of Han (Liu Hong)",
+        "e": "Xiping 6th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eastern Han's large expedition against Xianbei ends in defeat",
+        "s": "Emperor Ling ordered Colonel Protecting the Wuhuan Xia Yu, General of the Break-the-Xianbei (Po Xianbei Zhonglang Jiang) Tian Yan, and Colonel of the Xiongnu (Xiongnu Zhonglang Jiang) Zang Min to lead three armies in a large expedition to destroy the Xianbei. However, Helian concentrated his forces to meet each separately, and the Han armies were heavily defeated. Xia Yu and Tian Yan narrowly escaped with their lives, losing tens of thousands of soldiers. This was the biggest Han defeat in its wars against the Xianbei.",
+        "a": 42.0,
+        "l": 117.0,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Christians are persecuted in Lyon",
+        "s": "A large-scale persecution of Christians occurred in the city of Lyon in the Roman province of Gaul. Influenced by rumors that Christians engaged in 'cannibalism and incest', the local populace arrested and tortured them. Many were sentenced to death, either fed to wild animals or beheaded. Bishop Pothinus of Lyon, over 90 years old, was martyred. This persecution was part of the social unrest following the Antonine Plague, reflecting the difficult situation of Christianity in the Roman Empire.",
+        "a": 45.8,
+        "l": 4.8,
+        "c": "Religion",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Marcus Aurelius writes Meditations",
+        "s": "While campaigning on the Germanic front, Emperor Marcus Aurelius wrote the twelve books of Meditations in Greek. This philosophical work is a self-dialogue and moral reflection by the emperor, setting forth the core ideas of Stoic philosophy: the universe is governed by reason (logos), humans should follow nature, control desires, and perform their duties. Meditations is still considered a classic of Western philosophy, and is one of the few philosophical works left by an ancient ruler.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 178,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Ling of Han (Liu Hong)",
+        "e": "Guanghe 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Ling sets up an office to sell official posts in the Western Garden",
+        "s": "To finance his extravagant lifestyle and palace construction, Emperor Ling opened a 'market' in the Western Garden (Xi Yuan) to sell official positions. The price for the Three Excellences was 10 million coins; the Nine Ministers, 5 million; county magistrates, set by size of county. Officials could pay in installments and then squeeze the people after taking office. This caused the complete collapse of the Han bureaucracy and further burdened the people.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Eunuchs Cao Jie and Wang Fu manipulate the government",
+        "s": "Eunuchs Cao Jie, Wang Fu, Zhang Rang, Zhao Zhong, and others dominated the court, selling offices and forming cliques. Emperor Ling called Zhang Rang 'Father' and followed his every word. Upright officials who voiced even mild dissent were falsely imprisoned. Eastern Han politics reached its darkest period.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 179,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Ling of Han (Liu Hong)",
+        "e": "Guanghe 2nd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wang Fu is executed; eunuch infighting",
+        "s": "Infighting among eunuchs over power led to conflict. Eunuch Cao Jie, in collusion with Zhang Rang, accused fellow eunuch Wang Fu of corruption. Emperor Ling ordered Wang Fu's execution. The infighting somewhat weakened the eunuch clique, but did not end eunuch domination.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman public health advances",
+        "s": "The Roman Empire built numerous public baths, aqueducts, and sewers. Rome alone had 11 major aqueducts and hundreds of public baths, with a daily water supply of over one billion liters. This system reduced disease transmission and increased the average life expectancy of Romans. The Roman public health system was unparalleled in the ancient world.",
+        "a": 42.0,
+        "l": 12.5,
+        "c": "Technology",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 180,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Ling of Han (Liu Hong)",
+        "e": "Guanghe 3rd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Marcus Aurelius dies; Commodus succeeds",
+        "s": "Emperor Marcus Aurelius died of illness on the Germanic front at age 59. His son Commodus succeeded. Commodus immediately abandoned his father's philosophical spirit and military policies, made peace with the Germanic tribes, and quickly returned to Rome. Commodus' rule marked the end of the 'Five Good Emperors' golden age, and the beginning of tyranny and disorder.",
+        "a": 48.2,
+        "l": 16.37,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Galen's medical system reaches culmination",
+        "s": "The Roman/Greek physician Claudius Galen completed his medical system, with groundbreaking achievements in anatomy, physiology, and pharmacology. Through animal dissection, he identified the concept of blood circulation (though not complete), distinguished sensory and motor nerves, and described heart valves. Galen wrote about 500 medical treatises, and his medical system dominated Europe and the Middle East for over 1300 years.",
+        "a": 39.0,
+        "l": 22.0,
+        "c": "Technology",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Ling establishes Empress He",
+        "s": "Emperor Ling elevated Consort He to Empress. Empress He came from a butcher's family, and her brother He Jin thus entered officialdom. Empress He bore Liu Bian, who was later made crown prince. The He Jin family later became an important consort clan in the Eastern Han.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 181,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Ling of Han (Liu Hong)",
+        "e": "Guanghe 4th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Zhang Jiao founds the Way of Supreme Peace (Taiping Dao)",
+        "s": "Zhang Jiao from Julu, calling himself 'Great Worthy Master' (Daxian Liangshi), founded the Way of Supreme Peace (Taiping Dao). He used talismanic water and incantations to heal the sick, and recruited many disciples. Over ten years, his followers reached hundreds of thousands, spread across eight provinces: Qing, Xu, You, Ji, Jing, Yang, Yan, and Yu. Zhang Jiao proclaimed the slogan: 'The azure sky is dead; the yellow sky will rise; in the year jiazi, the world will be blessed.' He secretly prepared for an uprising.",
+        "a": 37.2,
+        "l": 115.0,
+        "c": "Religion",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman forts in Britain are built",
+        "s": "Emperor Commodus ordered the construction of a series of forts in northern Britain, strengthening the defenses of Hadrian's Wall. These forts were garrisoned by auxiliary troops, monitoring Pict activity and protecting Romanized southern Britain.",
+        "a": 55.0,
+        "l": -3.0,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 182,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Ling of Han (Liu Hong)",
+        "e": "Guanghe 5th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Zhang Jiao organizes thirty-six 'Fangs' (regions)",
+        "s": "Zhang Jiao divided the Way of Supreme Peace followers into thirty-six 'Fangs' (regions). The larger Fangs had over 10,000 followers, the smaller 6-7,000. Each Fang had a leader called Qu Shuai. Zhang Jiao's brothers Zhang Bao and Zhang Liang served as Qu Shuai of the large Fangs, directing followers across the country. The Way of Supreme Peace had in fact formed a tightly organized military structure, ready to revolt at any time.",
+        "a": 37.2,
+        "l": 115.0,
+        "c": "Religion",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Commodus' tyrannical rule intensifies",
+        "s": "Emperor Commodus became increasingly cruel and paranoid, executing many senators and generals, including his own sister Lucilla. He neglected state affairs, obsessively participated in gladiatorial combats, and styled himself the 'Roman Hercules'. Commodus' tyranny caused widespread discontent and unrest throughout the empire.",
+        "a": 41.893,
+        "l": 12.485,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 183,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Ling of Han (Liu Hong)",
+        "e": "Guanghe 6th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Yellow Turban Rebellion imminent",
+        "s": "Zhang Jiao ordered all Qu Shuai to rise in revolt simultaneously on the fifth day of the third month of the jiazi year (184). He sent his disciple Tang Zhou to Luoyang to contact the eunuch Feng Xu as an inside agent. Way of Supreme Peace followers were spread throughout Luoyang; the rebellion was imminent.",
+        "a": 37.2,
+        "l": 115.0,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "The Colosseum holds grand games",
+        "s": "Emperor Commodus presided over lavish gladiatorial games and animal hunts at the Colosseum. He personally fought wild animals and gladiators, killing hundreds of lions and dozens of gladiators. The Roman populace numbly watched bloodthirsty entertainment as the empire declined.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Society",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 184,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Ling of Han (Liu Hong)",
+        "e": "Zhongping 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "The Yellow Turban Rebellion breaks out",
+        "s": "Zhang Jiao's disciple Tang Zhou betrayed the plot and informed the authorities in Luoyang. Emperor Ling ordered the arrest of Ma Yuanyi, who was executed by dismemberment, and a frantic search for Way of Supreme Peace believers. Zhang Jiao was forced to revolt early, proclaiming himself 'General of Heaven', Zhang Bao 'General of Earth', and Zhang Liang 'General of Man'. The rebels wore yellow scarves, thus they were called the 'Yellow Turbans'. The rebellion quickly swept through eight provinces, spreading alarm throughout the court.",
+        "a": 37.2,
+        "l": 115.0,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Eastern Han lifts the Partisan Prohibitions to fight the Yellow Turbans",
+        "s": "The Yellow Turban rebellion was so fierce that the Han court could not suppress it. Acting on the advice of Huangfu Song, Emperor Ling lifted the Partisan Prohibitions, pardoning the banned scholar-officials and allowing them to serve again to organize forces to suppress the rebellion. The 'partisans' came forth to help, making a last effort to save the Eastern Han.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Huangfu Song and Zhu Jun defeat the Yellow Turbans",
+        "s": "The Eastern Han appointed Huangfu Song, Zhu Jun, and Lu Zhi as principal generals to suppress the Yellow Turbans. Huangfu Song used fire to defeat Bo Cai's Yellow Turban army at Changshe, killing tens of thousands. Zhu Jun defeated Zhang Mancheng's force at Wancheng. Lu Zhi besieged Zhang Jiao's main force at Guangzong (present-day Weixian, Hebei). The Yellow Turbans suffered heavy losses and retreated to fortified positions.",
+        "a": 33.8,
+        "l": 113.5,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Zhang Jiao dies; Yellow Turbans collapse",
+        "s": "Yellow Turban leader Zhang Jiao died during the battle of Guangzong. Huangfu Song launched a final assault, defeating Zhang Liang and Zhang Bao; Zhang Liang was killed, Zhang Bao captured and executed. The main Yellow Turban forces were destroyed; remnants retreated to the mountains to continue fighting. The great Yellow Turban Rebellion was defeated, but the Eastern Han was severely weakened by the suppression, and regional warlords began to rise.",
+        "a": 37.2,
+        "l": 115.0,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 185,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Ling of Han (Liu Hong)",
+        "e": "Zhongping 2nd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Rebellion of Bian Zhang and Han Sui in Liangzhou",
+        "s": "Though the Yellow Turbans were suppressed, the foundations of Han rule were shaken. A rebellion led by Bian Zhang and Han Sui broke out in Liangzhou. They allied with the Qiang, raising an army of over 100,000, raiding Longxi and Hanyang, and killing the Han Colonel Protecting the Qiang. The Liangzhou rebellion lasted for years, becoming a major border problem in the late Eastern Han.",
+        "a": 36.0,
+        "l": 103.5,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Black Mountain Bandits uprising",
+        "s": "Yellow Turban remnants led by Zhang Yan gathered at Black Mountain in Jizhou (present-day Xunxian, Henan), calling themselves the 'Black Mountain Bandits', claiming to have over one million followers. They waged guerrilla warfare against government forces and became the most powerful rebel force in the north.",
+        "a": 35.8,
+        "l": 114.0,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman government faces financial difficulties",
+        "s": "Emperor Commodus's extravagance and years of war led to severe financial strain. The government heavily debased the currency, reducing the silver content of the denarius, causing inflation. Economic decline worsened social tensions, and the empire entered the eve of a general crisis.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Economy",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 186,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Ling of Han (Liu Hong)",
+        "e": "Zhongping 3rd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Han Sui kills Bian Zhang, takes sole command",
+        "s": "Infighting split the Liangzhou rebels; Han Sui killed Bian Zhang and absorbed his followers, becoming the sole leader of the Liangzhou rebels. Together with Ma Teng, Han Sui controlled most of Liangzhou, defying the Han court.",
+        "a": 36.0,
+        "l": 103.5,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Ling builds the Bi Gui Yuan pleasure park",
+        "s": "For his amusement, Emperor Ling built the Bi Gui Yuan garden in the Western Garden, imitating a marketplace with palace ladies playing merchants while he played a wealthy merchant. He also built the 'Naked Bathing Hall', forcing ladies to swim naked, sinking into debauchery. The Eastern Han government had reached the depths of corruption.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Society",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 187,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Ling of Han (Liu Hong)",
+        "e": "Zhongping 4th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Zhang Chun and Zhang Ju rebel in Youzhou",
+        "s": "Zhang Chun and Zhang Ju from Fanyang Commandery, together with Wuhuan chieftain Qiuliju, launched a rebellion, killing the Han Colonel Protecting the Wuhuan and the Grand Administrator of Youbeiping. Zhang Ju proclaimed himself 'Emperor', Zhang Chun called himself 'General of Heaven-Bridging, Prince of Anding'. They led over 100,000 followers, raiding Youzhou and Jizhou.",
+        "a": 40.0,
+        "l": 116.5,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Cao Cao appointed Chancellor of Jinan",
+        "s": "Cao Cao was appointed Chancellor of Jinan by Emperor Ling. He vigorously reformed the administration, dismissing eight corrupt county magistrates and banning improper sacrifices, bringing order to Jinan. However, because he offended local strongmen and eunuchs, Cao Cao was soon transferred.",
+        "a": 36.7,
+        "l": 117.0,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 188,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Ling of Han (Liu Hong)",
+        "e": "Zhongping 5th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eastern Han changes provincial inspectors (Cishi) to governors (Zhou Mu)",
+        "s": "To suppress the numerous uprisings, Emperor Ling, following Liu Yan's advice, changed the position of provincial inspector (Cishi) to governor (Zhou Mu), giving them full military, fiscal, and civil authority over their provinces. This reform temporarily strengthened the suppression of uprisings, but led to the growth of regional warlords, rendering the central government powerless in name only.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Establishment of the Eight Colonels of the Western Garden",
+        "s": "To strengthen central forces, Emperor Ling established a new army in the Western Garden, commanded by eight colonels. Eunuch Jian Shuo was appointed Colonel of the Superior Army, commanding all. Cao Cao was appointed Colonel of the Model Army, and Yuan Shao Colonel of the Central Army. The new Western Garden army became the last central elite force of the Eastern Han.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 189,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Ling of Han (Liu Hong)",
+        "e": "Zhongping 6th year"
+      },
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Shao of Han (Liu Bian)",
+        "e": "Guangxi 1st year"
+      },
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Xian of Han (Liu Xie)",
+        "e": "Yonghan 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Ling of Han dies; Emperor Shao succeeds",
+        "s": "Emperor Ling of Han died of illness in Luoyang at age 34. Grand General He Jin enthroned Crown Prince Liu Bian as Emperor Shao of Han. Empress Dowager He served as regent, and He Jin took full control. Eunuch Jian Shuo attempted to change the succession but was killed by He Jin.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "He Jin's plot against eunuchs fails; he is killed",
+        "s": "Grand General He Jin and Colonel of the Capital (Sili Xiaowei) Yuan Shao plotted to kill the eunuchs, but Empress Dowager He hesitated. On Yuan Shao's advice, He Jin summoned regional warlords like Dong Zhuo to march on the capital to pressure the empress dowager. Eunuchs Zhang Rang and Duan Gui got wind of it and struck first, killing He Jin inside the palace. He Jin's subordinates Wu Kuang and Yuan Shao then stormed the palace, slaughtering over 2,000 eunuchs.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Dong Zhuo enters Luoyang and usurps power",
+        "s": "The Governor of Bingzhou, Dong Zhuo, led his Liangzhou army into Luoyang, absorbed the forces of He Jin and Ding Yuan, and took control of the court. Dong Zhuo deposed Emperor Shao and enthroned his brother Liu Xie as Emperor Xian of Han, appointing himself Chancellor of State (Xiangguo) and monopolizing power. Dong Zhuo was brutal and lawless, allowing his troops to loot, throwing Luoyang into chaos.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Commodus is assassinated",
+        "s": "Emperor Commodus's tyranny led to a palace coup. His mistress Marcia and Praetorian Prefect Laetus conspired to strangle Commodus while he bathed. Commodus's death ended the Nerva-Antonine dynasty, and the Roman Empire soon descended into civil war, beginning the 'Crisis of the Third Century'.",
+        "a": 41.893,
+        "l": 12.485,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Christianity spreads rapidly in Egypt",
+        "s": "Christianity grew rapidly in Alexandria, Egypt, establishing a famous catechetical school that produced great Church Fathers like Origen. Egyptian Christians translated the Bible into Coptic, forming a distinct Egyptian Christian tradition (the Coptic Church).",
+        "a": 31.2,
+        "l": 29.9,
+        "c": "Religion",
+        "r": "Roman Empire",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": 190,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Xian of Han (Liu Xie)",
+        "e": "Chuping 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Lords of Guandong form coalition against Dong Zhuo",
+        "s": "Cao Cao, Yuan Shao, Yuan Shu, Liu Dai, Wang Kuang, and other provincial warlords from east of Hangu Pass formed a coalition against Dong Zhuo, electing Yuan Shao as leader. The coalition, claiming 100,000 troops, advanced on Luoyang. Fearful, Dong Zhuo decided to move the capital to Chang'an.",
+        "a": 35.0,
+        "l": 114.5,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Dong Zhuo forces Emperor Xian to move the capital to Chang'an",
+        "s": "Dong Zhuo forced Emperor Xian and the court officials to relocate to Chang'an, setting fire to Luoyang, burning palaces, government offices, and homes, turning an area 200 li around the capital into ashes. Dong Zhuo also dug up imperial tombs, looted treasures, and forced the population westward; countless died on the way.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Sun Jian enters Luoyang and recovers the Imperial Seal",
+        "s": "Sun Jian, Grand Administrator of Changsha, led his forces into Luoyang, driving out Dong Zhuo's general Lu Bu, and recovering the ruined capital. In a well in the southern part of the city, Sun Jian discovered the Imperial Seal (Chuan Guo Xi). He kept it for himself. This event later provided the Sun Wu regime with a symbol of legitimacy.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome enters the Crisis of the Third Century",
+        "s": "After Commodus's death, the Roman Empire fell into civil war. Within a single year, five men claimed the throne (Pertinax, Julianus, Niger, Albinus, Severus), known as the 'Year of the Five Emperors'. This marked the beginning of the Third Century Crisis, a fifty-year period of military anarchy.",
+        "a": 41.893,
+        "l": 12.485,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 191,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Xian of Han (Liu Xie)",
+        "e": "Chuping 2nd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Yuan Shao seizes Ji Province",
+        "s": "Yuan Shao, following adviser Feng Ji's plan, allied with Gongsun Zan to attack Han Fu, Governor of Ji Province, while sending Gao Gan and Xun Chen to persuade Han Fu to surrender. Fearful, Han Fu ceded Ji Province to Yuan Shao. Yuan Shao then appointed himself Governor of Ji Province, greatly increasing his power and becoming the strongest warlord in the north.",
+        "a": 36.0,
+        "l": 114.5,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Cao Cao incorporates Qingzhou Yellow Turbans into his forces",
+        "s": "Cao Cao defeated a 300,000-strong Qingzhou Yellow Turban army in Yan Province and incorporated their elite into his own forces, called the 'Qingzhou Corps'. This force became Cao Cao's foundation; he established himself in Yan Province and began his quest for control of the Central Plains.",
+        "a": 35.5,
+        "l": 115.5,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 192,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Xian of Han (Liu Xie)",
+        "e": "Chuping 3rd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wang Yun plots and kills Dong Zhuo",
+        "s": "Minister Wang Yun exploited the conflict between Dong Zhuo and his adopted son Lu Bu, driving a wedge between them. Wang Yun and Lu Bu assassinated Dong Zhuo in front of the Weiyang Palace, then executed his clan. After Dong Zhuo's death, the people of Chang'an danced and sang, burning Dong Zhuo's fat as a lamp, calling it 'Heaven's lamp'.",
+        "a": 34.32,
+        "l": 108.86,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Li Jue and Guo Si counterattack Chang'an",
+        "s": "Dong Zhuo's former generals Li Jue and Guo Si, acting on Jia Xu's advice, led their Liangzhou army in a counterattack on Chang'an. Lu Bu was defeated and fled. Li Jue and Guo Si entered Chang'an, killed Wang Yun, and took control of Emperor Xian. The Guanzhong region descended into chaos, with hundreds of thousands dying in the fighting.",
+        "a": 34.32,
+        "l": 108.86,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Cao Cao defeats remaining Yellow Turbans and occupies Yan Province",
+        "s": "In Yan Province, Cao Cao defeated the remaining Yellow Turbans, incorporating 300,000 surrendering troops, greatly increasing his strength. Local elites recommended Cao Cao as Governor of Yan Province. Cao Cao began to build his own base, laying the foundation for his eventual unification of the north.",
+        "a": 35.5,
+        "l": 115.5,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Septimius Severus becomes emperor",
+        "s": "The governor of Pannonia, Septimius Severus, marched on Rome, defeated the Praetorian Guard, and killed Emperor Julianus. The Senate was forced to recognize him as emperor. Severus founded the Severan dynasty, temporarily stabilizing Rome, but his reliance on the military inaugurated the age of the 'soldier-emperors'.",
+        "a": 41.893,
+        "l": 12.485,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 193,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Xian of Han (Liu Xie)",
+        "e": "Chuping 4th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Cao Cao attacks Xuzhou, commits massacres",
+        "s": "To avenge his father Cao Song (killed by subordinates of Tao Qian, Governor of Xuzhou), Cao Cao led an army to attack Xuzhou, slaughtering hundreds of thousands of civilians along the way. It was said that the Si River was blocked by corpses. Cao Cao's atrocities caused widespread outrage; Chen Gong, Zhang Miao, and others rebelled against Cao Cao in Yan Province, allying with Lü Bu.",
+        "a": 34.5,
+        "l": 117.5,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Severe famine in Chang'an",
+        "s": "Due to war and natural disasters, the Chang'an region controlled by Li Jue and Guo Si suffered a severe famine. Grain prices skyrocketed, and cannibalism occurred. Emperor Xian ordered the opening of granaries, but the grain was stolen by Li Jue and Guo Si's troops, and countless people starved to death.",
+        "a": 34.32,
+        "l": 108.86,
+        "c": "Society",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 194,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Xian of Han (Liu Xie)",
+        "e": "Xingping 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Drought and locusts devastate the Three Auxiliaries",
+        "s": "The Three Auxiliaries region around Chang'an suffered years of drought; locusts darkened the sky, and crops failed entirely. People ate wild herbs and bark, even resorting to cannibalism. Emperor Xian himself ate beans boiled with vegetables. The famine reduced Chang'an's population by two-thirds.",
+        "a": 34.32,
+        "l": 108.86,
+        "c": "Society",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Liu Bei aids Xuzhou and begins to make his mark",
+        "s": "Tao Qian, Governor of Xuzhou, was besieged by Cao Cao and sought help from Tian Kai, Inspector of Qingzhou. Tian Kai sent Liu Bei with his troops to Xuzhou. Liu Bei had only about 1,000 men and a few thousand Xianbei cavalry, but he fought bravely, earning great fame. Tao Qian gave Liu Bei 4,000 Danyang soldiers, strengthening his forces.",
+        "a": 34.5,
+        "l": 117.0,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 195,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Xian of Han (Liu Xie)",
+        "e": "Xingping 2nd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Li Jue and Guo Si fight each other; Emperor Xian flees east",
+        "s": "Li Jue and Guo Si fell out over power, fighting within Chang'an, killing tens of thousands. Emperor Xian, protected by Dong Cheng and Yang Feng, fled Chang'an and headed east to Luoyang. The journey was arduous; many officials died on the road.",
+        "a": 34.5,
+        "l": 110.0,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Sun Ce emerges in Jiangdong",
+        "s": "Sun Ce, using the Imperial Seal his father Sun Jian had recovered as collateral, borrowed 3,000 troops from Yuan Shu, crossed the Yangtze, and defeated Liu Yao, Yan Baihu, and others, occupying Kuaiji and Wu commanderies. Sun Ce knew how to use people and maintained strict military discipline; many heroes of Jiangdong rallied to him, laying the foundation for his younger brother Sun Quan's later establishment of the state of Wu.",
+        "a": 32.0,
+        "l": 120.5,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Severus defeats his eastern rival",
+        "s": "Emperor Severus led an army east, defeating his rival Niger at the Battle of Issus, then advanced into Mesopotamia, capturing Niger's capital, Antioch. Severus executed Niger and his supporters, consolidating his control over the eastern part of the empire.",
+        "a": 36.2,
+        "l": 36.2,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 196,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Xian of Han (Liu Xie)",
+        "e": "Jian'an 1st year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Cao Cao welcomes Emperor Xian and moves the capital to Xuchang",
+        "s": "Cao Cao, acting on Xun Yu's advice, led his army into Luoyang, welcomed Emperor Xian, and moved the capital to Xuchang. Cao Cao appointed himself Grand General (later ceded to Yuan Shao) and was enfeoffed as Marquis of Wuping, controlling the court. 'Using the emperor to command the lords' (Xie tianzi yi ling zhuhou) gave him an absolute political advantage.",
+        "a": 34.0,
+        "l": 113.8,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Cao Cao implements the Tuntian (military-agricultural colony) system in Xuchang",
+        "s": "Following the advice of Zao Zhi and Han Hao, Cao Cao recruited refugees near Xuchang to implement 'tuntian' (state-managed military-agricultural colonies). The state provided land, oxen, and seeds, and the harvest was split between the state and the settlers. The tuntian system solved Cao Cao's grain supply problem, attracted many refugees, and became the economic foundation of the Cao Wei regime.",
+        "a": 34.0,
+        "l": 113.8,
+        "c": "Economy",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 197,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Xian of Han (Liu Xie)",
+        "e": "Jian'an 2nd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Yuan Shu proclaims himself emperor",
+        "s": "Yuan Shu proclaimed himself emperor at Shouchun, establishing the state of Zhong (Zhong Shi). He called himself 'Emperor of Zhong', appointed officials, and established a court. This act of usurpation provoked opposition from all the lords; Cao Cao, Liu Bei, Sun Ce, and others formed a coalition against Yuan Shu, who was soon isolated and declined rapidly.",
+        "a": 32.5,
+        "l": 116.8,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Cao Cao campaigns against Zhang Xiu",
+        "s": "Cao Cao led an army against Zhang Xiu, who surrendered. However, Cao Cao then took Zhang Xiu's aunt as a concubine. Zhang Xiu, enraged, suddenly rebelled and attacked Cao Cao's camp. Cao Cao's eldest son Cao Ang, his nephew Cao Anmin, and his general Dian Wei were killed. Cao Cao barely escaped with his life. This was a costly defeat for Cao Cao.",
+        "a": 33.0,
+        "l": 112.5,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 198,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Xian of Han (Liu Xie)",
+        "e": "Jian'an 3rd year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Cao Cao kills Lü Bu",
+        "s": "Cao Cao led his army to besiege Xiapi (present-day Suining, Jiangsu) and captured and executed Lü Bu and his generals Chen Gong and Gao Shun. Lü Bu, known for his treachery, ultimately brought about his own end. Cao Cao accepted the surrender of Zhang Liao and others, incorporating Xuzhou into his domains.",
+        "a": 34.5,
+        "l": 117.5,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Sun Ce unifies Jiangdong",
+        "s": "Sun Ce captured Kuaiji, Wu, Danyang, and other commanderies, defeated separatist forces like Yan Baihu and Xu Gong, and recruited renowned generals like Taishi Ci, largely unifying the six commanderies of Jiangdong. Sun Ce was appointed General Who Subdues Rebels (Tao Ni Jiangjun) and Marquis of Wu by the court, laying the foundation for the Eastern Wu state.",
+        "a": 32.0,
+        "l": 120.5,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Severus captures the Parthian capital Ctesiphon",
+        "s": "Emperor Severus launched a war against Parthia, capturing its capital Ctesiphon and seizing enormous wealth. He annexed northern Mesopotamia as a new province, restoring Roman hegemony in the region.",
+        "a": 33.0,
+        "l": 44.5,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 199,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Xian of Han (Liu Xie)",
+        "e": "Jian'an 4th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Yuan Shao defeats Gongsun Zan and unifies Hebei",
+        "s": "After a three-year siege of Yi Fortress (present-day Xiongxian, Hebei), Yuan Shao's forces broke through Gongsun Zan's fortress. Gongsun Zan committed suicide, and his troops were absorbed by Yuan Shao. Yuan Shao now held You, Ji, Qing, and Bing provinces, commanding an army of 100,000, becoming the most powerful warlord in the north.",
+        "a": 39.0,
+        "l": 116.0,
+        "c": "Military",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Hua Tuo practices medicine and saves lives",
+        "s": "The famous late Eastern Han physician Hua Tuo traveled widely, skilled in surgery. He invented an anesthetic called 'mafeisan' (literally 'cannabis boiling powder'), the world's earliest general anesthetic, and could perform complex operations such as abdominal tumor removal. He also created the 'Five Animal Frolics' (Wu Qin Xi) calisthenics for health maintenance. Hua Tuo's medical skills represent the highest level of Eastern Han medicine.",
+        "a": 34.0,
+        "l": 115.0,
+        "c": "Technology",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Severus campaigns in Britain",
+        "s": "To strengthen the frontier, Emperor Severus led a large army to campaign in Britain, attacking the Picts. Roman forces advanced into the Scottish Highlands, repaired Hadrian's Wall, and built the Antonine Wall. Severus died in Britain in 211.",
+        "a": 55.0,
+        "l": -3.0,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 200,
+    "d": [
+      {
+        "i": "donghan",
+        "n": "Eastern Han",
+        "u": "Emperor Xian of Han (Liu Xie)",
+        "e": "Jian'an 5th year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Guandu",
+        "s": "Cao Cao and Yuan Shao clashed at Guandu (present-day Zhongmu, Henan) in a decisive battle. Yuan Shao had 100,000 troops and ample provisions; Cao Cao had only 20,000 and was short of supplies. Cao Cao, following the advice of Xun Yu and Guo Jia, held his position and waited. Then Yuan Shao's adviser Xu You defected to Cao Cao and suggested a surprise attack on Yuan Shao's grain depot at Wuchao. Cao Cao personally led 5,000 elite cavalry to burn the grain, causing panic in Yuan Shao's army. Cao Cao then attacked and destroyed the main Yuan army, killing over 70,000. Yuan Shao fled back north across the Yellow River with only 800 horsemen. The Battle of Guandu was the decisive battle for Cao Cao's unification of the north, and a classic example of a smaller force defeating a larger one in Chinese history.",
+        "a": 34.72,
+        "l": 114.0,
+        "c": "Military",
+        "r": "Cao Wei",
+        "o": "Asia"
+      },
+      {
+        "t": "Sun Ce is assassinated; Sun Quan succeeds",
+        "s": "While hunting at Dantu Mountain, Sun Ce was fatally wounded by assassins sent by the family of Xu Gong, whom he had killed. He was only 26. On his deathbed, Sun Ce entrusted his younger brother Sun Quan to Zhang Zhao and Zhou Yu, saying: 'In external matters, consult Zhou Yu; in internal matters, consult Zhang Zhao.' Sun Quan succeeded, and under the guidance of Zhang Zhao and Zhou Yu, stabilized Jiangdong, gradually developing into a power that could rival Cao Cao and Liu Bei.",
+        "a": 32.0,
+        "l": 119.5,
+        "c": "Politics",
+        "r": "Eastern Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Caracalla issues the Constitutio Antoniniana",
+        "s": "Roman Emperor Caracalla (son of Severus) issued the Constitutio Antoniniana, granting Roman citizenship to all free men within the empire. Ostensibly a move to expand citizenship, its real purpose was to increase tax revenue (citizens were subject to inheritance tax and manumission tax). Although it unified legal status, it also devalued citizenship, and the Roman army increasingly came to be composed of barbarians.",
+        "a": 41.893,
+        "l": 12.485,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Rabbi Judah HaNasi compiles the Mishnah",
+        "s": "The Jewish rabbi Judah HaNasi began compiling the Mishnah, the first written codification of the Oral Torah. The Mishnah, in six orders (Zera'im, Mo'ed, Nashim, Nezikin, Kodashim, Toharot), covers agriculture, festivals, marriage, civil law, Temple rituals, and purity. It became the core of the Talmud and, second only to the Torah, the most important Jewish scripture, playing a crucial role in preserving Jewish identity during the long diaspora.",
+        "a": 32.5,
+        "l": 35.0,
+        "c": "Religion",
+        "r": "Judea",
+        "o": "Asia"
+      },
+      {
+        "t": "Guan Yu leaves behind his seal and salary to journey a thousand li to find his sworn brother Liu Bei",
+        "s": "Cao Cao attacked Xuzhou; Liu Bei fled to Yuan Shao, while Guan Yu was surrounded at Xiapi and forced to surrender to Cao Cao. Cao Cao treated Guan Yu with great honor, appointing him a lieutenant general. But Guan Yu never forgot his oath to Liu Bei. After repaying Cao Cao by killing the enemy general Yan Liang (Yuan Shao's force), he left behind his official seal and salary, and escorted the two wives of Liu Bei on a thousand-li journey to reunite with him. He passed five passes and killed six generals, finally rejoining Liu Bei and Zhang Fei. Guan Yu's loyalty and righteousness earned him the posthumous title 'Sage of War' (Wu Sheng).",
+        "a": 34.0,
+        "l": 113.8,
+        "c": "Culture",
+        "r": "Eastern Han",
+        "o": "Asia"
+      }
+    ]
+  }
+]

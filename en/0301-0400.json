@@ -1,0 +1,3742 @@
+[
+  {
+    "y": 300,
+    "d": [
+      {
+        "i": "xijin",
+        "n": "Western Jin",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Maya civilization enters the Classic period",
+        "s": "The Maya civilization of Mesoamerica enters the Classic period, lasting over six centuries (c. 250–900 CE). During this time, the Maya establish dozens of city-states such as Tikal, Palenque, and Copán, developing a complex hieroglyphic writing system, precise calendars (Long Count), advanced mathematics (including the concept of zero), and monumental pyramid-temples. Classic Maya civilization is one of the most brilliant pre-Columbian civilizations of the Americas.",
+        "a": 17.22,
+        "l": -89.62,
+        "c": "Culture",
+        "r": "Maya",
+        "o": "North America"
+      }
+    ]
+  },
+  {
+    "y": 301,
+    "d": [
+      {
+        "i": "xijin",
+        "n": "Western Jin",
+        "u": "Emperor Hui of Jin",
+        "e": "1st year of Yongning era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Christianization of Armenia",
+        "s": "King Tiridates III of Armenia, under the influence of Saint Gregory the Illuminator, establishes Christianity as the state religion, making Armenia the first Christian nation. This event not only consolidates the Armenian people but also paves the way for the legalization of Christianity in the Roman Empire, deeply influencing the history of the Caucasus region.",
+        "a": 40.18,
+        "l": 44.52,
+        "c": "Religion",
+        "r": "Armenia",
+        "o": "Asia"
+      },
+      {
+        "t": "Sasanian Empire clashes with the Kushan Empire on the border",
+        "s": "Under the rule of Persian Emperor Narseh, the Sasanian Dynasty launches a series of border offensives against the declining Kushan Empire to secure the eastern frontiers and control Central Asian trade routes. Sasanian forces occupy Bactria, forcing the Kushans to retreat further into the Indus Valley, thereby extending the Sasanian eastern border.",
+        "a": 33,
+        "l": 65,
+        "c": "Military",
+        "r": "Sasanian Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Prince of Zhao Sima Lun usurps the throne and proclaims himself emperor",
+        "s": "During the War of the Eight Princes of the Western Jin, the Prince of Zhao, Sima Lun, stages a coup in the capital Luoyang, forcing Emperor Hui to abdicate and proclaiming himself emperor. He deposes and imprisons Emperor Hui, changing the era name to Jianshi. Sima Lun's usurpation triggers fierce opposition from other princes, including the Prince of Qi Sima Jiong and the Prince of Chengdu Sima Ying, who quickly raise armies, escalating the War of the Eight Princes.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Western Jin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 302,
+    "d": [
+      {
+        "i": "xijin",
+        "n": "Western Jin",
+        "u": "Emperor Hui of Jin",
+        "e": "1st year of Tai'an era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Internal conflicts intensify within the Roman Tetrarchy",
+        "s": "The Tetrarchy system established by Roman Emperor Diocletian falls into turmoil due to succession issues. After the forced abdication of Western Augustus Maximian, relations between his son Maxentius and Eastern Augustus Galerius deteriorate. The breakdown of trust among the emperors sets the stage for a larger civil war, ultimately leading to the collapse of the Tetrarchy.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Prince of Changsha Sima Yi kills Prince of Qi Sima Jiong",
+        "s": "After the campaign against the Prince of Zhao, the Prince of Qi, Sima Jiong, monopolizes power in Luoyang, becoming arrogant and autocratic. The Prince of Changsha, Sima Yi, allied with the Prince of Hejian, Sima Yong, stages a coup, storming Luoyang and executing Sima Jiong. Subsequently, Sima Yi takes control of the court, but Sima Yong and the Prince of Chengdu, Sima Ying, soon unite to attack Luoyang, plunging the War of the Eight Princes into a new phase of chaos.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Western Jin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 303,
+    "d": [
+      {
+        "i": "xijin",
+        "n": "Western Jin",
+        "u": "Emperor Hui of Jin",
+        "e": "2nd year of Tai'an era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Diocletian issues the harshest edict against Christianity",
+        "s": "Roman Emperor Diocletian, aiming to restore traditional polytheistic religion and strengthen imperial authority, issues the most severe persecution edict in imperial history, ordering the destruction of churches, confiscation of scriptures, prohibition of Christians from holding public office, and mandatory sacrifices. Christian leaders and believers in regions such as the Diocese of Nicomedia suffer mass executions and torture, known as the 'Great Persecution'.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Religion",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Rise of Egyptian desert monasticism: formation of the tradition of Saint Anthony",
+        "s": "In the deserts of Egypt, influenced by Saint Anthony, more and more Christians choose to withdraw from the world and become hermits. They either live in caves or form small communities, seeking union with God through prayer, asceticism, and manual labor. This movement rapidly grows, laying the foundation for the formal establishment of Christian monasticism and influencing the entire Christian world.",
+        "a": 28,
+        "l": 33,
+        "c": "Religion",
+        "r": "Egypt",
+        "o": "Africa"
+      },
+      {
+        "t": "Zhang Chang rebels in Jiangxia",
+        "s": "Due to the Western Jin government conscripting brave men from Jingzhou to suppress refugee uprisings in Yizhou, panic spreads among the people. Zhang Chang, a native of Jiangxia, falsely claims the court has issued orders and incites a rebellion, occupying Jiangxia Commandery. He installs a local official named Qiu Shen as the Son of Heaven and proclaims himself Prime Minister, establishing a regime. The rebel forces quickly spread across the middle Yangtze region, repeatedly defeating Jin forces and severely impacting Western Jin rule in Jingzhou.",
+        "a": 31.2,
+        "l": 113.7,
+        "c": "Military",
+        "r": "Western Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Li Te defeated and killed in Shu, Li Xiong leads the refugees",
+        "s": "Li Te, leader of the Di refugee movement, is ambushed and killed by the Western Jin Inspector of Yizhou, Luo Shang, in a battle north of Chengdu. His brother Li Liu and son Li Xiong gather the remnants and continue to lead the refugee uprising. Relying on outstanding military talent, Li Xiong quickly rallies forces, defeats Jin troops, and occupies the vicinity of Chengdu, laying the foundation for the later establishment of the Cheng-Han regime.",
+        "a": 30.8,
+        "l": 103.8,
+        "c": "Military",
+        "r": "Cheng-Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 304,
+    "d": [
+      {
+        "i": "xijin",
+        "n": "Western Jin",
+        "u": "Emperor Hui of Jin",
+        "e": "1st year of Yongxing era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Liu Yuan proclaims himself king at Zuoguo City, establishing Han-Zhao",
+        "s": "Liu Yuan, chieftain of the five匈奴 (Xiongnu) tribes and a descendant of Modu Chanyu, seizes the opportunity of the War of the Eight Princes and the weakness of the north to gather troops at Zuoguo City in Lishi. He proclaims himself King of Han, posthumously honors the later Shu emperor Liu Shan, and claims to restore the Han dynasty, establishing the Han-Zhao regime (historically known as Former Zhao). Liu Yuan's assumption of the title of king marks the formal beginning of the 'Sixteen Kingdoms' era.",
+        "a": 37.5,
+        "l": 111,
+        "c": "Politics",
+        "r": "Han-Zhao",
+        "o": "Asia"
+      },
+      {
+        "t": "Li Xiong proclaims himself king at Chengdu, establishing the Cheng-Han regime",
+        "s": "After capturing Chengdu, refugee leader Li Xiong formally proclaims himself King of Chengdu, establishing the Cheng-Han regime. He abolishes Western Jin laws, reduces taxes and corvée, granting the war-torn Shu region a brief period of stability. The Cheng-Han regime holds the strategic terrain of Ba-Shu, becoming an important southern separatist power coexisting with the Eastern Jin and northern states.",
+        "a": 30.6,
+        "l": 104.1,
+        "c": "Politics",
+        "r": "Cheng-Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Prince of Donghai Sima Yue imprisons Prince of Changsha Sima Yi",
+        "s": "As the War of the Eight Princes reaches its climax, the Prince of Donghai, Sima Yue, conspires with imperial guards to launch a surprise attack in Luoyang, capturing and imprisoning the Prince of Changsha, Sima Yi. Sima Yue then hands him over to Zhang Fang, a general of the Prince of Hejian, who cruelly executes Sima Yi. Subsequently, Sima Yue gradually becomes the most powerful prince at court.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Western Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Buddhism becomes widespread among all social strata in China",
+        "s": "After centuries of translation and propagation, Buddhism has transcended its early elite elite circles to penetrate deeply into Chinese folk society. The number of temples in Luoyang, Chang'an, Jianye and other cities skyrockets, and systematic Buddhist scripture translation (such as by Dharmaraksha) flourishes. Buddhist concepts of karma and reincarnation merge with indigenous Daoism and Confucianism, profoundly influencing medieval Chinese philosophy, art, and social life.",
+        "a": 36,
+        "l": 120,
+        "c": "Religion",
+        "r": "East Asia",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 305,
+    "d": [
+      {
+        "i": "xijin",
+        "n": "Western Jin",
+        "u": "Emperor Hui of Jin",
+        "e": "2nd year of Yongxing era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Roman Emperor Diocletian formally abdicates, beginning the end of the Tetrarchy",
+        "s": "The Tetrarchy system established by Roman Emperor Diocletian to end the Crisis of the Third Century collapses due to succession problems. Diocletian himself and his co-emperor Maximian are forced to abdicate and retire. Their abdication triggers a new round of civil war, as Constantine, Maxentius, and others vie for the throne, plunging the Roman Empire into turmoil once again.",
+        "a": 43.5,
+        "l": 16.4,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Western Augustus Constantius I dies in Britain",
+        "s": "Roman Western Augustus Constantius I (father of Constantine the Great) dies at York while campaigning against the Picts in northern Britain. On his deathbed, he passes the throne to his son Constantine, who is immediately proclaimed Western Emperor by the army. This action disregards the succession rules of Diocletian's Tetrarchy, setting the stage for Constantine's eventual unification of the empire.",
+        "a": 53.96,
+        "l": -1.08,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Prince of Donghai Sima Yue rises against Prince of Hejian Sima Yong and Prince of Chengdu Sima Ying",
+        "s": "The Prince of Donghai, Sima Yue, allied with various prefectures in Shandong, raises an army under the pretext of escorting Emperor Hui back to Luoyang, attacking the Prince of Hejian, who controls Guanzhong, and the Prince of Chengdu, who controls Hebei. Sima Yue's forces are powerful, repeatedly defeating the coalition and gradually gaining control over Emperor Hui. The War of the Eight Princes is nearing its end, with Sima Yue emerging as the ultimate victor.",
+        "a": 35,
+        "l": 116,
+        "c": "Military",
+        "r": "Western Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Christianity expands rapidly in the Kingdom of Aksum, growing influence of the Alexandrian diocese",
+        "s": "The Kingdom of Aksum, located in present-day Ethiopia and Eritrea, has close ties with Roman Egypt through Red Sea trade. Influenced by Christianity from Alexandria, the Aksumite royal family and nobles begin converting to Christianity. Frumentius is consecrated as the first bishop of Aksum, and Christianity gradually becomes the state religion of Aksum, profoundly influencing East African history.",
+        "a": 14.1,
+        "l": 38.7,
+        "c": "Religion",
+        "r": "Aksum",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": 306,
+    "d": [
+      {
+        "i": "xijin",
+        "n": "Western Jin",
+        "u": "Emperor Hui of Jin",
+        "e": "1st year of Guangxi era"
+      },
+      {
+        "i": "xijin",
+        "n": "Western Jin",
+        "u": "Emperor Huai of Jin",
+        "e": "1st year of Yongjia era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Constantine is proclaimed Western Roman Emperor by the army in Britain",
+        "s": "After the death of his father Constantius I, Constantine rushes from Nicomedia to Britain, where he is proclaimed Western Augustus by the Roman army stationed there. He immediately marches to control Gaul, opposing Maxentius who holds Italy. Constantine's rise marks the beginning of major changes in the Roman world.",
+        "a": 51.5,
+        "l": -0.5,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Maxentius proclaims himself emperor in Rome",
+        "s": "Maxentius, son of former Emperor Maximian, uses discontent among the Roman Senate and Praetorian Guard over tax policies to incite a rebellion in Rome, proclaiming himself emperor. He controls Italy, Africa, and other regions, forming a three-way standoff with Eastern Emperor Galerius and Western Emperor Constantine, resulting in multiple emperors ruling simultaneously.",
+        "a": 41.893,
+        "l": 12.485,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Hui of Jin is poisoned to death; Emperor Huai of Jin ascends the throne",
+        "s": "After the War of the Eight Princes, the Prince of Donghai, Sima Yue, fully controls the court. He deposes and poisons the powerless Emperor Hui of Jin, then installs his brother, the Prince of Yuzhang Sima Chi, as Emperor Huai of Jin, changing the era name to Yongjia. Emperor Huai attempts to restore imperial power, but real authority remains with Sima Yue; the Western Jin's rule exists in name only.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Western Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Large-scale excavation of Buddhist grottoes begins in northern China",
+        "s": "With the deepening spread of Buddhism in northern China, monks and believers begin carving grottoes and sculpting Buddha images on cliffs along major thoroughfares, creating spaces for meditation and worship. Early grottoes, such as the Tiantishan Grottoes in Gansu, are excavated during this period. This art form combines Indian Buddhist iconography with traditional Chinese carving techniques, initiating a thousand-year tradition of Chinese grotto temple construction.",
+        "a": 37,
+        "l": 113,
+        "c": "Culture",
+        "r": "China",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 307,
+    "d": [
+      {
+        "i": "xijin",
+        "n": "Western Jin",
+        "u": "Emperor Huai of Jin",
+        "e": "1st year of Yongjia era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eastern Emperor Galerius formally recognizes Constantine as Western Augustus",
+        "s": "To stabilize the imperial situation, Eastern Emperor Galerius reaches an agreement with Constantine at the Carnuntum conference, formally recognizing Constantine as Western Augustus. At the same time, Galerius appoints Licinius as Western Caesar. This temporary compromise averts a large-scale civil war, but tensions between East and West persist.",
+        "a": 40.75,
+        "l": 29.9,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Sima Rui is stationed at Jianye, beginning to manage Jiangdong",
+        "s": "The Western Jin court appoints the Prince of Langye, Sima Rui, as General of Pacifying the East and commander of military affairs for the Jiangnan region, stationing him at Jianye (later renamed Jiankang). Assisted by northern gentry like Wang Dao, Sima Rui begins to win over the southern Wu clans, reconciling north-south differences. This lays the political foundation for the later establishment of the Eastern Jin dynasty south of the Yangtze.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Western Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Wang Dao devises the strategy of 'govern with tranquility and attract all talents' for Sima Rui",
+        "s": "Wang Dao, well aware of the resistance of southern gentry to northern refugees, personally visits and treats with courtesy leaders of the southern clans, such as Gu Rong and He Xun. He advises Sima Rui to humbly recruit southern talents, actively learn the Wu dialect, and cultivate relationships with the Wu people, gradually winning the support of the great Jiangdong families. Through this political alliance, the Jianye regime is consolidated.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Western Jin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 308,
+    "d": [
+      {
+        "i": "xijin",
+        "n": "Western Jin",
+        "u": "Emperor Huai of Jin",
+        "e": "2nd year of Yongjia era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Liu Yuan formally proclaims himself emperor, establishing the Han-Zhao Empire",
+        "s": "The King of Han, Liu Yuan, formally ascends the imperial throne at Zuoguo City, adopting the state name Han (later changed to Zhao, known as Former Zhao). He posthumously honors Liu Shan as Emperor Xiaohuai and performs sacrifices to the three ancestors and five patriarchs of the Han dynasty. Liu Yuan's assumption of the imperial title signifies that the Xiongnu regime has completely broken away from the Western Jin, becoming a legitimate dynasty that rivals the Jin, drawing responses from various northern tribes.",
+        "a": 36.1,
+        "l": 111.5,
+        "c": "Politics",
+        "r": "Han-Zhao",
+        "o": "Asia"
+      },
+      {
+        "t": "Shi Le joins Liu Yuan, becoming an important general of Han-Zhao",
+        "s": "Shi Le, a Jie tribesman and former slave, leads his followers from Hebei and Shandong to join Han-Zhao Emperor Liu Yuan. Liu Yuan appoints Shi Le as General of Pacifying the East, ordering him to campaign in Ji, Qing, and Yan prefectures. Relying on outstanding military talent, Shi Le rapidly rises within the Han-Zhao regime, becoming one of the most powerful military forces in the north.",
+        "a": 38,
+        "l": 114.5,
+        "c": "Military",
+        "r": "Han-Zhao",
+        "o": "Asia"
+      },
+      {
+        "t": "Licinius is appointed Western Augustus by Eastern Emperor Galerius",
+        "s": "To counter Constantine and Maxentius, Galerius promotes his trusted follower Licinius to Western Augustus. Licinius gains control of provinces such as Pannonia, becoming the fourth emperor in Roman politics. The power balance among the four emperors becomes increasingly fragile, with civil war imminent.",
+        "a": 48,
+        "l": 16,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Early tribal confederation of Tubo (Tibet) begins to form",
+        "s": "On the Qinghai-Tibet Plateau, the Yarlung Valley's Yapono tribe gradually rises, with its leader considered to be Nyatri Tsenpo. Through military conquest and marriage alliances, this tribe begins to unite other tribes, forming an early slave-holding state. This is an important developmental stage of the precursor to the Tibetan Empire, laying the foundation for Songtsen Gampo's later unification of the plateau.",
+        "a": 29,
+        "l": 90,
+        "c": "Politics",
+        "r": "Tubo (Tibet)",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 309,
+    "d": [
+      {
+        "i": "xijin",
+        "n": "Western Jin",
+        "u": "Emperor Huai of Jin",
+        "e": "3rd year of Yongjia era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Han-Zhao Emperor Liu Yuan's two attacks on Luoyang fail",
+        "s": "Han-Zhao Emperor Liu Yuan sends generals Liu Cong and Wang Mi south to attack Luoyang. The first attack is repelled by Western Jin forces under the Prince of Donghai, Sima Yue. Later that winter, the Han army besieges Luoyang again but retreats due to frozen rivers and lack of supplies. Although both attacks fail, they severely deplete the Jin central army, leaving Luoyang badly damaged.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Military",
+        "r": "Han-Zhao",
+        "o": "Asia"
+      },
+      {
+        "t": "Shi Le launches large-scale raids in Hebei and Shandong, establishing a base",
+        "s": "Han-Zhao general Shi Le separates his forces from Liu Yuan's main army and campaigns north of the Yellow River. Using a strategy of 'guerrilla plunder,' he captures key cities such as Ye, Julu, and Changshan, absorbing refugees and fortified village militias. Shi Le establishes a stronghold at Xiangguo (present-day Xingtai), forming a relatively independent military bloc that later becomes the foundation for the Later Zhao.",
+        "a": 38,
+        "l": 114.5,
+        "c": "Military",
+        "r": "Han-Zhao",
+        "o": "Asia"
+      },
+      {
+        "t": "Li Xiong formally proclaims himself emperor at Chengdu, establishing the Cheng-Han Empire",
+        "s": "Under the urging of his subordinates, the King of Chengdu, Li Xiong, formally ascends the imperial throne with the state name Dacheng, historically known as Cheng-Han. He implements light corvée and low taxes, allowing the people to rest, bringing brief stability to the Bashu region. The Cheng-Han regime, holding strategic terrain, does not contend with northern powers and becomes one of the few southern states capable of self-preservation.",
+        "a": 30.6,
+        "l": 104,
+        "c": "Politics",
+        "r": "Cheng-Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 310,
+    "d": [
+      {
+        "i": "xijin",
+        "n": "Western Jin",
+        "u": "Emperor Huai of Jin",
+        "e": "4th year of Yongjia era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Han-Zhao founding emperor Liu Yuan dies; Liu Cong kills his brother and seizes the throne",
+        "s": "Han-Zhao Emperor Liu Yuan dies, and his crown prince Liu He succeeds. However, Liu He becomes suspicious of his brothers and tries to strip them of military power, only to be killed in a coup by his brother Liu Cong. Liu Cong then proclaims himself emperor, changing the era name to Guangxing. Known for his cruelty, he intensifies campaigns against Jin, accelerating the downfall of the Western Jin.",
+        "a": 36.1,
+        "l": 111.5,
+        "c": "Politics",
+        "r": "Han-Zhao",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman Eastern Emperor Galerius dies, power restructured",
+        "s": "Galerius dies of illness in Nicomedia, Asia Minor. His designated successor, Maximinus Daza, takes control of the East, while Licinius occupies European provinces. Along with Constantine and Maxentius, the Roman Empire is once again in a state of four emperors, leading to full-scale civil war.",
+        "a": 40.75,
+        "l": 29.9,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Shi Le leads raids on the Jianghuai region, threatening Jiangnan",
+        "s": "Shi Le is ordered to lead tens of thousands of cavalry across the Yellow River, breaking through Jin defenses and raiding the region between the Yangtze and Huai Rivers. He captures over thirty cities, advancing to Shouchun. However, due to a plague in his army, he is forced to retreat north. This southern invasion severely damages the Jianghuai economy, prompting a massive southward migration of northern gentry and commoners.",
+        "a": 33.5,
+        "l": 115,
+        "c": "Military",
+        "r": "Han-Zhao",
+        "o": "Asia"
+      },
+      {
+        "t": "Large-scale migration of northern nomadic peoples into the Central Plains accelerates ethnic integration",
+        "s": "The turmoil at the end of the Western Jin leads to large-scale migration of Xiongnu, Xianbei, Jie, Di, Qiang, and other ethnic groups into the Central Plains. Living intermingled with the Han over long periods, they learn each other's farming and herding techniques, deepening cultural integration. Despite accompanying conflicts, this great migration lays the foundation for the grand unification and ethnic integration of the Sui-Tang period.",
+        "a": 36,
+        "l": 112,
+        "c": "Culture",
+        "r": "China",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 311,
+    "d": [
+      {
+        "i": "xijin",
+        "n": "Western Jin",
+        "u": "Emperor Huai of Jin",
+        "e": "5th year of Yongjia era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Disaster of Yongjia: Han-Zhao's Liu Cong captures Luoyang and takes Emperor Huai of Jin prisoner",
+        "s": "Han-Zhao Emperor Liu Cong sends generals Liu Yao, Wang Mi, and Shi Le to attack Luoyang. The Jin commander, the Prince of Donghai Sima Yue, has already died, and Jin forces collapse. Luoyang falls, Liu Yao's troops loot and burn, and Emperor Huai is captured. This event is known as the 'Disaster of Yongjia.' The central government of the Western Jin exists in name only, plunging the north into great chaos.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Military",
+        "r": "Han-Zhao",
+        "o": "Asia"
+      },
+      {
+        "t": "Sima Rui builds power in Jiangnan, forming the nucleus of a refuge regime",
+        "s": "After the fall of Luoyang, large numbers of northern gentry flee south. Under the guidance of Wang Dao, the Prince of Langye, Sima Rui, establishes a government in Jianye, accommodating northern refugees and gentry. Although he has not yet declared himself emperor, he effectively controls areas such as Yangzhou, Jingzhou, and Jiangzhou, becoming the largest political and military bloc in the south, preparing for the establishment of the Eastern Jin.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman Emperor Galerius issues an Edict of Toleration on his deathbed, halting Christian persecution",
+        "s": "While gravely ill in Nicomedia, Eastern Emperor Galerius issues an edict admitting that the persecution of Christians has failed to achieve its aims, allowing Christians to hold religious assemblies and pray for him. This is the first official legal recognition of Christianity by the Roman state, paving the way for Constantine's later Edict of Milan.",
+        "a": 40,
+        "l": 22,
+        "c": "Religion",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 312,
+    "d": [
+      {
+        "i": "xijin",
+        "n": "Western Jin",
+        "u": "Emperor Huai of Jin",
+        "e": "6th year of Yongjia era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of the Milvian Bridge: Constantine defeats Maxentius, unifying the West",
+        "s": "Constantine leads his army from Gaul into Italy and meets Maxentius at the Milvian Bridge north of Rome. According to legend, Constantine sees a vision of a cross in the sky before the battle, boosting morale. Maxentius is defeated and drowns in the Tiber. Constantine becomes the sole Western Augustus and subsequently issues the Edict of Milan.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Han-Zhao Emperor Liu Cong kills the captured Emperor Huai of Jin",
+        "s": "To extinguish hopes among Jin loyalists of rallying around a southern regime, Liu Cong executes the captive Emperor Huai of Jin at Pingyang. News reaches Chang'an, where remaining Jin officials support the Prince of Qin, Sima Ye, as emperor, known as Emperor Min of Jin. The Western Jin holds only a small corner of Chang'an in the north, facing grave danger.",
+        "a": 36.1,
+        "l": 111.5,
+        "c": "Politics",
+        "r": "Han-Zhao",
+        "o": "Asia"
+      },
+      {
+        "t": "Shi Le occupies Xiangguo, establishing a solid base",
+        "s": "Shi Le becomes increasingly independent within the Han-Zhao regime. He occupies Xiangguo (present-day Xingtai, Hebei) and uses it as a base to raid Youzhou and Jizhou. He recruits the Han scholar Zhang Bin as his chief strategist, implementing policies of 'broadly attracting talent and promoting agriculture,' turning Xiangguo into a powerful northern military stronghold.",
+        "a": 37,
+        "l": 114.5,
+        "c": "Military",
+        "r": "Han-Zhao",
+        "o": "Asia"
+      },
+      {
+        "t": "Constantine meets Eastern Emperor Licinius in Milan",
+        "s": "After defeating Maxentius, Constantine meets Eastern Emperor Licinius in Milan. They not only confirm their respective spheres of influence but also jointly issue the famous 'Edict of Milan,' declaring Christianity legal. Meanwhile, the marriage of their siblings temporarily maintains peace between the east and west.",
+        "a": 45.5,
+        "l": 9.2,
+        "c": "Diplomacy",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 313,
+    "d": [
+      {
+        "i": "xijin",
+        "n": "Western Jin",
+        "u": "Emperor Min of Jin",
+        "e": "1st year of Jianxing era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Edict of Milan: Constantine and Licinius formally declare Christianity legal",
+        "s": "Constantine and Licinius jointly issue an edict in Milan proclaiming freedom of religion throughout the Roman Empire, with special emphasis on Christianity. The edict orders the return of confiscated church property and recognizes Christianity as a lawful religion. This is a crucial turning point in Christianity becoming the mainstream religion of the Roman Empire and Europe.",
+        "a": 45.46,
+        "l": 9.19,
+        "c": "Religion",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Min of Jin Sima Ye is enthroned in Chang'an",
+        "s": "After the death of Emperor Huai, remaining Jin ministers and generals in Guanzhong, such as Suo Lin and Qu Yun, support the Prince of Qin, Sima Ye, to ascend the throne in Chang'an as Emperor Min of Jin, changing the era name to Jianxing. However, Chang'an is dilapidated and suffering from severe famine; the court of Emperor Min essentially has only tens of thousands of troops and civilians, unable to resist Han-Zhao.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Zu Ti leads his troops north on a punitive expedition, recovering vast lands south of the Yellow River",
+        "s": "The patriotic general Zu Ti, undeterred by the collapse of the Western Jin, leads a few hundred of his clansmen and troops north from Jingkou. Midway across the Yangtze, he strikes an oar and vows: 'If I cannot cleanse the Central Plains and return, may I be like this river!' In Yuzhou and Yanzhou, Zu Ti allies with local fortress lords, repeatedly defeating Shi Le's forces and recovering vast lands south of the Yellow River.",
+        "a": 34,
+        "l": 118,
+        "c": "Military",
+        "r": "Western Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Former Roman Emperor Maximian commits suicide in Gaul",
+        "s": "The abdicated former emperor Maximian, opposing Constantine's rule, flees to Marseille and attempts to proclaim himself emperor but is besieged by Constantine's forces. As the city is about to fall, Maximian is forced to commit suicide. Constantine thereby eliminates an important political rival, consolidating his rule in the West.",
+        "a": 43.3,
+        "l": 5.4,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Construction of Jiankang (Jianye) as the political center of the Eastern Jin begins",
+        "s": "To avoid the naming taboo of Emperor Min of Jin (Sima Ye), Jianye is renamed Jiankang. The Prince of Langye, Sima Rui, undertakes extensive construction, expanding the palace and ancestral temple, and establishing court institutions. Jiankang gradually becomes the political, economic, and cultural center of the south, laying the material foundation for the Eastern Jin to establish its capital there.",
+        "a": 32.06,
+        "l": 118.78,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 314,
+    "d": [
+      {
+        "i": "xijin",
+        "n": "Western Jin",
+        "u": "Emperor Min of Jin",
+        "e": "2nd year of Jianxing era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Zhang Gui and Zhang Shi establish a base in Liangzhou, forming the prototype of Former Liang",
+        "s": "The Western Jin Inspector of Liangzhou, Zhang Gui, protects his territory and stabilizes the Hexi Corridor. After his death, his son Zhang Shi, with the Jin court having moved south and the Central Plains in turmoil, effectively becomes independent of various regimes. Although the Zhang family still nominally recognizes the Jin, it is already an independent kingdom, known historically as Former Liang. Former Liang respects Confucianism and preserves Central Plains culture.",
+        "a": 36,
+        "l": 103.8,
+        "c": "Politics",
+        "r": "Former Liang",
+        "o": "Asia"
+      },
+      {
+        "t": "Shi Le attacks and destroys Wang Jun in Youzhou, annexing vast areas of Jizhou",
+        "s": "Following the strategy of his advisor Zhang Bin, Shi Le pretends to submit to the Inspector of Youzhou, Wang Jun, and sends generous gifts. Gaining Wang Jun's trust, Shi Le leads light cavalry to raid Ji City, capturing and killing Wang Jun and absorbing his followers. Thus, Shi Le occupies most of Hebei, greatly increasing his power and becoming the strongest separatist force in the north.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Military",
+        "r": "Han-Zhao",
+        "o": "Asia"
+      },
+      {
+        "t": "Church council in Asia Minor discusses the Arian controversy",
+        "s": "As the theological dispute between the Alexandrian presbyter Arius and Bishop Alexander intensifies, a local church council is convened in Asia Minor to attempt to reconcile differences over the divinity of Christ. The council fails to reach an agreement, but sets the stage for the later First Council of Nicaea.",
+        "a": 39.9,
+        "l": 32.9,
+        "c": "Religion",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 315,
+    "d": [
+      {
+        "i": "xijin",
+        "n": "Western Jin",
+        "u": "Emperor Min of Jin",
+        "e": "3rd year of Jianxing era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Tuoba Yilu, chieftain of the Tuoba Xianbei, establishes the Dai state",
+        "s": "The Tuoba Xianbei chieftain Tuoba Yilu, for his services in assisting the Western Jin against Han-Zhao, is enfeoffed by Emperor Min of Jin as King of Dai, formally establishing the Dai state with its capital at Shengle (present-day Horinger, Inner Mongolia). This is the embryonic state of the Tuoba tribe, laying the foundation for the later Northern Wei unification of the north.",
+        "a": 40.4,
+        "l": 111.8,
+        "c": "Politics",
+        "r": "Dai",
+        "o": "Asia"
+      },
+      {
+        "t": "Shi Le attacks and destroys Cao Yi in Qingzhou, unifying the lower Yellow River",
+        "s": "Shi Le sends his general Shi Hu to attack Qingzhou, defeating Cao Yi, who had proclaimed himself Governor of Qingzhou. Shi Hu captures Guanggu, and Cao Yi is killed. Shi Le thereby controls the Shandong Peninsula, forming an east-west confrontation with Liu Cong's Han-Zhao regime.",
+        "a": 36.5,
+        "l": 118.5,
+        "c": "Military",
+        "r": "Han-Zhao",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 316,
+    "d": [
+      {
+        "i": "xijin",
+        "n": "Western Jin",
+        "u": "Emperor Min of Jin",
+        "e": "4th year of Jianxing era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Fall of the Western Jin: Han-Zhao's Liu Yao captures Chang'an; Emperor Min surrenders",
+        "s": "Han-Zhao general Liu Yao besieges Chang'an; food runs out and cannibalism occurs. Emperor Min of Jin is forced to surrender, and the Western Jin officially ends. Liu Yao takes Emperor Min and his officials to Pingyang. Emperor Min is humiliated and later killed by Liu Cong. The Sima family no longer has a foothold in the north.",
+        "a": 32.06,
+        "l": 118.78,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Large-scale southward migration of northern gentry: the 'Robes and Hats Southward Migration'",
+        "s": "After the fall of the Western Jin, Central Plains gentry and commoners, fleeing the wars, cross the Yangtze in great numbers with their entire clans. Prestigious families such as the Langye Wang, Chenjun Xie, and Qiaoguo Huan, accompanied by their dependents and retainers, flock to Sima Rui in Jiankang. The number of migrants reaches over one million. This event, known as the 'Robes and Hats Southward Migration,' promotes the economic and cultural development of Jiangnan.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Society",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Shi Le begins to establish the prototype of the Later Zhao regime",
+        "s": "Shi Le proclaims himself King of Zhao at Xiangguo, establishing a government structure, forming the prototype of the Later Zhao regime. He has effectively broken away from Han-Zhao's Liu Cong, though not yet formally. Shi Le wins over Han gentry and reforms internal affairs, gradually strengthening Later Zhao.",
+        "a": 38,
+        "l": 114,
+        "c": "Politics",
+        "r": "Later Zhao",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 317,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Yuan of Jin",
+        "e": "1st year of Jianwu era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Sima Rui proclaims himself Prince of Jin at Jiankang, establishing the Eastern Jin",
+        "s": "After the fall of the Western Jin, the Prince of Langye, Sima Rui, with the support of Wang Dao, Wang Dun, and others, proclaims himself Prince of Jin at Jiankang, changing the era name to Jianwu, marking the establishment of the Eastern Jin. He formally ascends the imperial throne the following year. The Eastern Jin controls Jiangnan, Jingzhou, and Bashu, forming a north-south confrontation with the Sixteen Kingdoms in the north.",
+        "a": 32.1,
+        "l": 118.8,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Zu Ti's great victory at Qiaocheng establishes a foothold for the Eastern Jin",
+        "s": "Zu Ti leads his northern expedition army to a fierce battle at Qiaocheng in Yuzhou against Shi Hu's Later Zhao forces, achieving a great victory. This victory enables Zu Ti to recover vast lands north of the Huai River, and fortress lords in Yuzhou surrender one after another. The Eastern Jin court appoints Zu Ti as Inspector of Yuzhou, allowing him to gain a foothold in the north.",
+        "a": 33.8,
+        "l": 115.7,
+        "c": "Military",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Liu Kun fights alone in Bingzhou, allying with Xianbei against Han-Zhao",
+        "s": "The Western Jin Minister of Works, Liu Kun, holds Jinyang (present-day Taiyuan) in the north, isolated and alone. He allies with the Tuoba Xianbei Dai state to resist Han-Zhao. Liu Kun struggles for years, but due to internal strife in Dai and the siege of Han-Zhao, he ultimately fails to reverse the Jin's decline in the north.",
+        "a": 37.9,
+        "l": 112.5,
+        "c": "Military",
+        "r": "Western Jin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 318,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Yuan of Jin",
+        "e": "1st year of Taixing era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Han-Zhao Emperor Liu Cong dies, causing great internal chaos",
+        "s": "The tyrannical Han-Zhao Emperor Liu Cong dies, and his crown prince Liu Can succeeds. However, Liu Can is incompetent and is killed in a coup by his maternal relative Jin Zhun. Jin Zhun massacres the Liu imperial clan, occupies Pingyang, and declares allegiance to the Jin. Han-Zhao imperial clan members Liu Yao and Shi Le each become independent, causing the Han-Zhao Empire to split and plunging northern China into renewed chaos.",
+        "a": 36.1,
+        "l": 111.5,
+        "c": "Politics",
+        "r": "Han-Zhao",
+        "o": "Asia"
+      },
+      {
+        "t": "Sima Rui formally ascends the imperial throne at Jiankang, establishing the Eastern Jin",
+        "s": "After the urging of his officials, the Prince of Jin, Sima Rui, formally ascends the imperial throne as Emperor Yuan of Jin, changing the era name to Taixing. The Eastern Jin regime is formally established. Emperor Yuan appoints Wang Dao as Grand Chancellor and Wang Dun as Grand General, forming a pattern of 'Wang and Ma sharing the empire' — a politics of aristocratic clans.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 319,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Yuan of Jin",
+        "e": "2nd year of Taixing era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Liu Yao moves the capital to Chang'an and establishes the Former Zhao regime",
+        "s": "After pacifying the Jin Zhun rebellion, the Han-Zhao imperial clansman Liu Yao leads his army west into Guanzhong, moves the capital to Chang'an, and ascends the imperial throne, changing the state name to Zhao, known as Former Zhao. Former Zhao controls Guanzhong and Longyou, forming an east-west confrontation with Shi Le's Later Zhao, beginning the rivalry between Former Zhao and Later Zhao during the Sixteen Kingdoms.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Former Zhao",
+        "o": "Asia"
+      },
+      {
+        "t": "Shi Le proclaims himself King of Zhao at Xiangguo, establishing the Later Zhao regime",
+        "s": "Shi Le assumes the title of King of Zhao at Xiangguo, establishing the Later Zhao regime. He appoints Zhang Bin as his chief strategist, promotes sinicization policies, establishes a Grand Academy, and perfects the official system. Under Shi Le's management, Later Zhao gradually unifies most of northern China, becoming the most powerful state in the early Sixteen Kingdoms period.",
+        "a": 37,
+        "l": 114.5,
+        "c": "Politics",
+        "r": "Later Zhao",
+        "o": "Asia"
+      },
+      {
+        "t": "Professorships of law are established in Constantinople",
+        "s": "Emperor Constantine, valuing legal education, orders the establishment of official professorships of law in the newly built capital, Constantinople, to teach Roman law. This promotes the systematic dissemination of Roman jurisprudence and lays the academic foundation for the later compilation of the Code of Justinian.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 320,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Yuan of Jin",
+        "e": "3rd year of Taixing era"
+      }
+    ],
+    "v": [
+      {
+        "t": "The Gupta Empire is founded, ushering in India's Golden Age",
+        "s": "Chandragupta I (Moon Protector) establishes the Gupta Empire in the Magadha region, with its capital at Pataliputra. Through marriage alliances and conquest, he brings the upper Ganges valley under his control. The rise of the Gupta dynasty ends the fragmentation of northern India and ushers in the Golden Age of Indian classical civilization.",
+        "a": 25,
+        "l": 82,
+        "c": "Politics",
+        "r": "Gupta Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Constantine defeats Eastern Emperor Licinius, reunifying the Roman Empire",
+        "s": "Civil war breaks out between Constantine and Eastern Augustus Licinius. Constantine twice defeats Licinius decisively at the battles of Adrianople and Chrysopolis. Licinius is forced to surrender and is later executed. Constantine becomes the sole Roman Emperor, reunifying the empire.",
+        "a": 41.7,
+        "l": 26.6,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Zhang Mao succeeds in Former Liang, continuing the Hexi separatist regime",
+        "s": "Zhang Shi, the founder of Former Liang, is assassinated by his subordinates; his brother Zhang Mao succeeds him. Zhang Mao continues to recognize the Jin and protect his territory. He builds the city of Guzang, constructs irrigation works, and Former Liang becomes a cultural oasis sheltering from the Central Plains wars.",
+        "a": 36,
+        "l": 103.8,
+        "c": "Politics",
+        "r": "Former Liang",
+        "o": "Asia"
+      },
+      {
+        "t": "Tiwanaku culture emerges in the Andean highlands of South America",
+        "s": "On the high plateau south of Lake Titicaca, the Tiwanaku civilization enters a phase of expansion. Its unique stone architecture (such as the Gate of the Sun) and agricultural techniques (raised fields) profoundly influence the later Inca civilization. This culture becomes an important center of civilization in the Andes region.",
+        "a": -16.6,
+        "l": -68.7,
+        "c": "Culture",
+        "r": "Tiwanaku",
+        "o": "South America"
+      }
+    ]
+  },
+  {
+    "y": 321,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Yuan of Jin",
+        "e": "4th year of Taixing era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Constantine legislates Sunday as a day of rest",
+        "s": "Roman Emperor Constantine issues a decree declaring Sunday (the Day of the Sun) as an official day of rest, ordering all courts, workshops, and shops to close. This law incorporates Christian worship practices into imperial administration, solidifying Christianity's status in social life.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Religion",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Wang Dun raises his army and enters Jiankang, beginning civil war in the Eastern Jin",
+        "s": "Wang Dun, Grand General of the Eastern Jin, dissatisfied with Emperor Yuan's suppression of the Wang clan's power, raises an army at Wuchang under the pretext of eliminating evil ministers. He storms Jiankang, executes court officials, and sidelines Emperor Yuan. Wang Dun appoints himself Grand Chancellor and commander of all military affairs, setting a precedent for regional warlords challenging the central government in the Eastern Jin.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Military",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Shi Le essentially unifies most of northern China in Hebei",
+        "s": "Later Zhao's Shi Le attacks and destroys the remaining Former Zhao forces in the east, defeats the Xianbei Duan tribe, and gains control of Hebei, Henan, Shandong, Shanxi, and other regions. Apart from Former Zhao holding Guanzhong, Later Zhao becomes the most powerful state in the north, laying the foundation for later unification.",
+        "a": 37,
+        "l": 114.5,
+        "c": "Military",
+        "r": "Later Zhao",
+        "o": "Asia"
+      },
+      {
+        "t": "Zu Ti's northern expedition fails due to court suspicion; he dies of grief and anger",
+        "s": "After recovering the lands south of the Yellow River, Zu Ti prepares to cross north. However, Emperor Yuan, suspicious of Zu Ti's power, appoints Dai Yuan as commander in the north to restrain him. Seeing the court's lack of commitment to northern recovery and hearing of Wang Dun's rebellion, Zu Ti falls ill from grief and anger and dies at Yongqiu. The recovered territories are soon retaken by Later Zhao.",
+        "a": 34.5,
+        "l": 114.5,
+        "c": "Military",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 322,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Yuan of Jin",
+        "e": "1st year of Yongchang era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Yuan of Jin dies of grief due to Wang Dun's rebellion",
+        "s": "Emperor Yuan of Jin, sidelined by Wang Dun and stripped of real power, falls ill from grief and humiliation and soon dies. His crown prince Sima Shao succeeds as Emperor Ming of Jin. Wang Dun had hoped to usurp the throne, but fearing opposition from other aristocratic clans, he temporarily withdraws to Wuchang.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Constantine defeats the Danubian Goths, stabilizing the northern border",
+        "s": "Constantine personally leads a campaign against the Gothic tribes on the lower Danube, achieving a great victory. He forces the Goths to renew the peace treaty, return Roman captives, and allows them to settle as allies on the Roman border. This campaign secures the northern frontier, removing a threat to the later eastern campaigns.",
+        "a": 44,
+        "l": 27,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 323,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Ming of Jin",
+        "e": "1st year of Taining era"
+      }
+    ],
+    "v": [
+      {
+        "t": "The Eastern Jin court puts down Wang Dun's rebellion",
+        "s": "Wang Dun again raises troops to rebel, but falls seriously ill en route, leaving command to his subordinates. Emperor Ming of Jin, with the strategies of Wen Qiao, Yu Liang, and others, organizes a counterattack that decisively defeats Wang Dun's rebel forces. Although Wang Dun dies, his remaining followers are eliminated. The Eastern Jin's central authority is briefly restored.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Military",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Constantine again defeats the remnants of Licinius, achieving complete unification",
+        "s": "After defeating Licinius, Constantine wipes out the last remnants of his supporters in the Black Sea region, consolidating his rule over the entire empire. He then issues a series of decrees reshaping the imperial administration and military structure, preparing for the transfer of the capital to Constantinople.",
+        "a": 42,
+        "l": 27,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 324,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Ming of Jin",
+        "e": "2nd year of Taining era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Constantine the Great decides to build a new capital on the site of Byzantium, naming it Constantinople",
+        "s": "Emperor Constantine the Great selects the ancient Greek city of Byzantium as the new capital of the Roman Empire. He personally measures the land and plans the walls, palaces, hippodrome, and churches; large-scale construction begins immediately. The new capital will combine the strategic advantage of being a European-Asian transportation hub, symbolizing the eastward shift of the empire's center of gravity.",
+        "a": 41,
+        "l": 29,
+        "c": "Politics",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 325,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Ming of Jin",
+        "e": "3rd year of Taining era"
+      },
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Cheng of Jin",
+        "e": "1st year of Xianhe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "First Council of Nicaea convenes, establishing basic Christian doctrine",
+        "s": "Emperor Constantine convenes the first ecumenical council of Christianity at Nicaea in Asia Minor, attended by about three hundred bishops. The council strongly condemns the Arian view denying the full divinity of Christ, formulates the Nicene Creed, and establishes the orthodox doctrine of the 'consubstantiality' of the Father and the Son. It also fixes the date of Easter.",
+        "a": 40.43,
+        "l": 29.72,
+        "c": "Religion",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Former Zhao's Liu Yao attacks the Former Liang regime in Liangzhou",
+        "s": "Former Zhao Emperor Liu Yao sends troops to attack the Longxi region under Former Liang's control, but is defeated. Zhang Jun of Former Liang pursues and recovers some lost territory. This battle preserves Former Liang's independence in the Hexi Corridor.",
+        "a": 36,
+        "l": 103.8,
+        "c": "Military",
+        "r": "Former Zhao",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Ming of Jin dies; Emperor Cheng of Jin ascends as a child",
+        "s": "Emperor Ming of Jin dies of illness, and his five-year-old crown prince Sima Yan ascends as Emperor Cheng of Jin. Due to his youth, Empress Dowager Yu (mother) rules as regent, assisted by Yu Liang, Wang Dao, and others. Yu Liang's autocratic rule later leads to the Su-Jun Rebellion.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 326,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Cheng of Jin",
+        "e": "2nd year of Xianhe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Constantine the Great executes his eldest son Crispus",
+        "s": "Crispus, the eldest son of Constantine the Great (a battle-hardened general), is accused of conspiracy by his stepmother Fausta and sentenced to death. Soon, Constantine discovers the truth and executes Fausta as well. This palace tragedy fundamentally changes the imperial succession.",
+        "a": 41,
+        "l": 29,
+        "c": "Politics",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Yu Liang's autocratic rule intensifies internal conflicts in the Eastern Jin",
+        "s": "After Emperor Cheng's accession, the imperial in-law Yu Liang monopolizes court affairs, excluding older ministers like Wang Dao. He orders the governor of Lili, Su Jun, to surrender his military command, provoking Su Jun and Zu Yue to join forces in rebellion. The conflict between the central government and regional powers escalates.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 327,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Cheng of Jin",
+        "e": "3rd year of Xianhe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Su Jun and Zu Yue rebellion: Su Jun captures Jiankang",
+        "s": "The governor of Lili, Su Jun, together with the Inspector of Yuzhou, Zu Yue, rebels under the pretext of 'clearing the ruler's side' and attacks Jiankang. Yu Liang's imperial guard is routed, and Su Jun's forces enter Jiankang, looting and burning the palaces. Yu Liang flees, and Emperor Cheng is taken hostage.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Military",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Shi Le unifies the north; Later Zhao reaches its peak",
+        "s": "Later Zhao's Shi Le attacks and captures Former Zhao Emperor Liu Yao, completely destroying Former Zhao and unifying northern China (except for Former Liang and Dai). Shi Le becomes the first emperor of the Sixteen Kingdoms to unify the north; Later Zhao's territory stretches from the sea in the east to Longyou in the west, to the Great Wall in the north and the Huai River in the south.",
+        "a": 38,
+        "l": 114,
+        "c": "Politics",
+        "r": "Later Zhao",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 328,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Cheng of Jin",
+        "e": "4th year of Xianhe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Later Zhao's Shi Hu defeats Former Zhao's Liu Yao, destroying Former Zhao",
+        "s": "Later Zhao Emperor Shi Le sends his general Shi Hu to fight Former Zhao's Liu Yao in a decisive battle at Luoyang. Shi Hu leads from the front, routing the Former Zhao army and capturing Liu Yao alive. Later Zhao then takes Chang'an, and Former Zhao falls. Shi Le completes the basic unification of northern China.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Military",
+        "r": "Later Zhao",
+        "o": "Asia"
+      },
+      {
+        "t": "Tao Kan and Wen Qiao put down the Su Jun rebellion",
+        "s": "The Inspector of Jingzhou, Tao Kan, together with the Inspector of Jiangzhou, Wen Qiao, unite the king's forces to attack Su Jun. After fierce fighting, the coalition kills Su Jun and recovers Jiankang. Tao Kan is promoted to Grand Tutor, commanding eight provinces, becoming the most powerful regional warlord in the Eastern Jin.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Military",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Construction begins on the great defensive walls of Constantinople",
+        "s": "To protect the new capital, Emperor Constantine the Great orders the construction of defensive walls from the Golden Horn to the Sea of Marmara. These walls, later reinforced many times, become one of the most formidable fortification systems of the Middle Ages, protecting Constantinople for a thousand years.",
+        "a": 41,
+        "l": 29,
+        "c": "Engineering",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 329,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Cheng of Jin",
+        "e": "5th year of Xianhe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Later Zhao's Shi Le formally proclaims himself emperor and enfeoffs his ministers",
+        "s": "After unifying the north, Shi Le formally ascends the imperial throne, still with the state name Zhao (Later Zhao). He posthumously honors his ancestors and enfeoffs imperial clan members and meritorious officials. Although of slave origin, Shi Le is receptive to advice and promotes sinicization policies, making Later Zhao the most powerful state in East Asia at the time.",
+        "a": 37,
+        "l": 114.5,
+        "c": "Politics",
+        "r": "Later Zhao",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Constantine the Great formally moves the capital to Constantinople",
+        "s": "Constantine the Great officially moves the Roman capital from Rome to the newly built Constantinople (formerly Byzantium). The new capital, called 'Nova Roma,' has a Senate and a complete administrative structure. This move shifts the empire's center of gravity eastward to the culturally and commercially advanced Greek-speaking regions.",
+        "a": 41,
+        "l": 29,
+        "c": "Politics",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 330,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Cheng of Jin",
+        "e": "6th year of Xianhe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Constantinople is formally inaugurated",
+        "s": "Roman Emperor Constantine the Great holds a grand inauguration ceremony for the newly built capital. The city is laid out entirely in the Roman manner: seven hills, a Senate, forums, and a hippodrome, and is officially named 'Nova Roma.' Controlling the Bosporus Strait, Constantinople becomes a hub of Eurasian trade and remains the heart of the Eastern Roman Empire for over a thousand years.",
+        "a": 41.01,
+        "l": 28.98,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "The Hippodrome of Constantinople begins hosting chariot races",
+        "s": "Inaugurated together with the capital, the Hippodrome of Constantinople can hold tens of thousands of spectators and holds its first grand chariot races. Thereafter, the hippodrome becomes the center of political and entertainment life for the citizens of Constantinople, witnessing major events such as the Nika riots.",
+        "a": 41,
+        "l": 29,
+        "c": "Sports",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 331,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Cheng of Jin",
+        "e": "7th year of Xianhe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eastern Jin's northern expeditions: remnants of Zu Ti's forces continue activities in the Huai River region",
+        "s": "Although Zu Ti is dead, his brother Zu Yue inherits part of his army and continues to hold positions north of the Huai. The Eastern Jin court also organizes several small-scale northern expeditions, but none achieve significant progress due to internal power struggles. Zu Yue later joins the Su Jun rebellion, and the northern expedition forces completely disintegrate.",
+        "a": 35,
+        "l": 114,
+        "c": "Military",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Later Zhao's Shi Le establishes a Grand Academy, promoting Confucian education",
+        "s": "Later Zhao Emperor Shi Le, who respects Confucianism and loves learning, establishes a Grand Academy at Xiangguo, ordering the children of gentry to study the Confucian classics. He also revives systems of selecting filial and incorruptible officials, bringing Han gentry into government and promoting the sinicization of northern ethnic groups.",
+        "a": 37,
+        "l": 114.5,
+        "c": "Culture",
+        "r": "Later Zhao",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 332,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Cheng of Jin",
+        "e": "8th year of Xianhe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Constantine issues laws encouraging Christianization",
+        "s": "Emperor Constantine issues a series of laws encouraging imperial officials and the populace to convert to Christianity. He grants churches the right of inheritance, gives bishops judicial authority, and exempts clergy from municipal duties. Christianity's status in social institutions rapidly rises.",
+        "a": 41,
+        "l": 29,
+        "c": "Religion",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "The distinguished official Tao Kan, with great power, is increasingly suspected in his later years",
+        "s": "Tao Kan, Grand Tutor of the Eastern Jin, after putting down the Su Jun rebellion, commands military affairs over eight provinces, controlling a large army. The court both relies on him and suspects him. In his later years, Tao Kan repeatedly requests to retire to his hometown, but is refused, and ultimately dies of anxiety.",
+        "a": 23.1,
+        "l": 113.2,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 333,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Cheng of Jin",
+        "e": "9th year of Xianhe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Later Zhao founding emperor Shi Le dies; Shi Hu usurps power",
+        "s": "Later Zhao Emperor Shi Le dies, and his crown prince Shi Hong succeeds. However, Shi Le's nephew Shi Hu, who controls the army, stages a coup, deposing Shi Hong and proclaiming himself Heavenly King. Shi Hu is cruel and bloodthirsty, plunging Later Zhao into a dark period of tyranny and intensifying social conflicts.",
+        "a": 37,
+        "l": 114.5,
+        "c": "Politics",
+        "r": "Later Zhao",
+        "o": "Asia"
+      },
+      {
+        "t": "Eastern Jin minister Tao Kan dies",
+        "s": "Tao Kan, Grand Tutor and Duke of Changsha of the Eastern Jin, dies in Jiankang. During his tenure, he was diligent in government, frugal and devoted to the public good, deeply loved by the people. His death deprives the Eastern Jin of a statesman capable of stabilizing Jingzhou, and court affairs fall into the hands of Yu Liang and Yu Yi.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Sasanian Persia and the Roman Empire clash in Mesopotamia",
+        "s": "Sasanian Persian Emperor Shapur II takes advantage of the Roman Empire's internal adjustments after the capital relocation to harass the Roman eastern frontier, vying for control of Mesopotamia. Roman defenders fight tenaciously, with both sides suffering victories and losses, setting the stage for later major wars.",
+        "a": 35,
+        "l": 42,
+        "c": "Military",
+        "r": "Sasanian Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 334,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Cheng of Jin",
+        "e": "1st year of Xiankang era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Cheng-Han founding emperor Li Xiong dies; internal strife begins in Cheng-Han",
+        "s": "Cheng-Han Emperor Li Xiong dies; his nephew Li Ban, son of his brother Li Dang, succeeds. However, Li Xiong's sons Li Yue and Li Qi stage a coup, killing Li Ban, and Li Qi proclaims himself emperor. The Cheng-Han imperial family turns against each other, and the state's power rapidly declines.",
+        "a": 30.6,
+        "l": 104.1,
+        "c": "Politics",
+        "r": "Cheng-Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Shi Hu's tyrannical rule over Later Zhao; he massacres imperial clan members and ministers",
+        "s": "Shi Hu, the cruel and tyrannical Heavenly King of Later Zhao, massacres many of Shi Le's former subordinates and imperial clan members. He executes his own crown prince Shi Sui, favors eunuchs and sorcerers, and lives in extravagance, building grand palaces. Later Zhao's foundations are shaken by Shi Hu's tyranny.",
+        "a": 36.3,
+        "l": 114.5,
+        "c": "Politics",
+        "r": "Later Zhao",
+        "o": "Asia"
+      },
+      {
+        "t": "Constantine strengthens the Danubian frontier",
+        "s": "Emperor Constantine inspects the Danubian border, reinforcing fortresses and ramparts to guard against barbarian invasions by Goths, Sarmatians, and others. He also allows some barbarians to settle as allies within the empire to defend the frontier, adopting a strategy of using barbarians to counter barbarians.",
+        "a": 48,
+        "l": 15,
+        "c": "Military",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 335,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Cheng of Jin",
+        "e": "2nd year of Xiankang era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Constantine the Great partitions the empire among his sons as future heirs",
+        "s": "Constantine the Great divides the empire among his three sons: Constantine II, Constantius II, and Constans I, who will rule Gaul, the East, Italy, and other regions respectively. He also establishes the office of praetorian prefect, laying the institutional groundwork for the future division of the empire.",
+        "a": 41,
+        "l": 29,
+        "c": "Politics",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Later Zhao's Shi Hu massively constructs palaces in Yecheng, exhausting the people",
+        "s": "Shi Hu conscripts hundreds of thousands of laborers to build luxurious palaces, gardens, and terraces in Yecheng. He also builds a hunting park west of Yecheng, forcing people to relocate from their ancestral lands. The heavy corvée makes life unbearable for the northern people.",
+        "a": 36.3,
+        "l": 114.5,
+        "c": "Society",
+        "r": "Later Zhao",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 336,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Cheng of Jin",
+        "e": "3rd year of Xiankang era"
+      }
+    ],
+    "v": [
+      {
+        "t": "The Eastern Jin implements the 'Tuduan' policy, reorganizing household registration",
+        "s": "To increase tax revenue and military conscription, the Eastern Jin court implements the 'Tuduan' policy in Jiangnan, canceling the 'Qiao' commanderies and counties (established for northern refugees) and incorporating the refugee population into local household registers, making them liable for corvée and taxes like the natives. This policy strengthens central control but also intensifies conflicts between northern and southern gentry.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Continued controversy over Arian Christianity within the Eastern Empire",
+        "s": "Although the Council of Nicaea condemned Arianism, it still has influence in the Eastern Empire. Emperor Constantine the Great, influenced by Arianism in his later years, begins to tolerate it, leading to intensifying internal Christian strife and deepening the potential for schism.",
+        "a": 41,
+        "l": 29,
+        "c": "Religion",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 337,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Cheng of Jin",
+        "e": "4th year of Xiankang era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Roman Emperor Constantine the Great dies",
+        "s": "Constantine the Great dies in his palace near Nicomedia, receiving baptism as a Christian on his deathbed. During his life, he reunified the Roman Empire, moved the capital to Constantinople, legalized Christianity, and convened the Council of Nicaea, profoundly changing the course of world history.",
+        "a": 40.8,
+        "l": 29.9,
+        "c": "Politics",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Murong Huang proclaims himself King of Yan, establishing the Former Yan regime",
+        "s": "The chieftain of the Murong Xianbei tribe, Murong Huang, proclaims himself King of Yan at Changli, establishing the Former Yan regime. He employs Han gentry, establishes a bureaucracy modeled on the Jin, and implements a mixed economy of farming and pastoralism. Former Yan gradually expands into western Liaoning and eastern Hebei, becoming a major power during the Sixteen Kingdoms.",
+        "a": 41.6,
+        "l": 120.4,
+        "c": "Politics",
+        "r": "Former Yan",
+        "o": "Asia"
+      },
+      {
+        "t": "King Ezana of Aksum begins his reign; the kingdom flourishes",
+        "s": "King Ezana ascends to the throne of Aksum. During his reign, he conquers the Kingdom of Kush, controls Red Sea trade, and formally makes Christianity the state religion. Aksum becomes the most powerful state in the Horn of Africa, ranking alongside Rome and Persia as one of the three great powers of the time.",
+        "a": 14.1,
+        "l": 38.7,
+        "c": "Politics",
+        "r": "Aksum",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": 338,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Cheng of Jin",
+        "e": "5th year of Xiankang era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Constantine II attacks his brother Constans, is defeated and killed",
+        "s": "Constantine II, eldest son of Constantine the Great, resenting the allocation of territories, invades Italy, which is ruled by his younger brother Constans I. During the attack, Constantine II falls into an ambush and is killed. Constans then takes over his brother's territory, becoming the sole ruler of the Western Empire.",
+        "a": 40,
+        "l": 25,
+        "c": "Politics",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Tuoba Shiyijian ascends the throne of Dai, re-establishing the Dai state",
+        "s": "The Tuoba Xianbei chieftain Tuoba Shiyijian ascends the throne of Dai at Fanqi, re-establishing the Dai state, which had declined due to internal strife. He formulates laws, establishes a bureaucracy, and sets his capital at Shengle, enabling the Tuoba tribe to rise rapidly and lay the foundation for the later Northern Wei unification of the north.",
+        "a": 39.7,
+        "l": 113.7,
+        "c": "Politics",
+        "r": "Dai",
+        "o": "Asia"
+      },
+      {
+        "t": "Later Zhao's Shi Hu attacks Former Yan, suffers heavy losses",
+        "s": "Shi Hu leads a large army to attack Former Yan's Murong Huang, but Murong Huang defends strategically. With supply difficulties and heavy snowfall, Shi Hu is forced to withdraw, and is ambushed on the retreat by Former Yan cavalry, suffering a major defeat. Former Yan successfully stops Later Zhao's expansion.",
+        "a": 41.5,
+        "l": 121,
+        "c": "Military",
+        "r": "Later Zhao",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 339,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Cheng of Jin",
+        "e": "6th year of Xiankang era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Constantius II is proclaimed Eastern Emperor",
+        "s": "After Constantine the Great's death, his son Constantius II is proclaimed Augustus in the East. He then defeats a usurper, consolidates control over the East, and co-rules the Roman Empire with his brother Constans I.",
+        "a": 41,
+        "l": 29,
+        "c": "Politics",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Yu Liang's northern expedition against Later Zhao fails",
+        "s": "The Eastern Jin General Who Conquers the West, Yu Liang, launches a northern expedition, attacking Later Zhao's Xiangyang. Due to poor preparation and discord among the generals, the Jin army is routed, suffering heavy losses. This failure severely demoralizes the Eastern Jin's northern expedition efforts and damages Yu Liang's prestige.",
+        "a": 30.5,
+        "l": 114.3,
+        "c": "Military",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 340,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Cheng of Jin",
+        "e": "7th year of Xiankang era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eastern Jin Grand Chancellor Wang Dao dies",
+        "s": "Wang Dao, Grand Chancellor and Duke of Shixing of the Eastern Jin, dies in Jiankang. He was a founder of the Eastern Jin regime, serving Emperors Yuan, Ming, and Cheng, advocating 'govern with tranquility and rule with benevolence,' and maintaining the partial peace south of the Yangtze. After his death, the court becomes increasingly chaotic.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "The Sasanian Persian Empire begins a large-scale persecution of Christians",
+        "s": "Due to the growing influence of Christianity in Armenia and the Roman Empire, and suspicion that Christians are pro-Roman, Sasanian Emperor Shapur II orders a nationwide persecution of Christians, confiscating churches and property. Many Persian Christians are martyred, while some flee to Roman territory.",
+        "a": 35,
+        "l": 45,
+        "c": "Religion",
+        "r": "Sasanian Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Sasanian art reaches a golden age",
+        "s": "Under Shapur II, the Sasanian Empire achieves brilliant accomplishments in metalwork, relief sculpture, and architecture. Court silver plates depict scenes of the king hunting and feasting, and large rock reliefs at Naqsh-e Rostam record victories over Rome, profoundly influencing Byzantine and Islamic art.",
+        "a": 32,
+        "l": 52,
+        "c": "Art",
+        "r": "Sasanian Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 341,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Cheng of Jin",
+        "e": "8th year of Xiankang era"
+      }
+    ],
+    "v": [
+      {
+        "t": "The Eastern Jin court reorganizes the Qiao commanderies and counties",
+        "s": "The Eastern Jin further implements the 'Tuduan' policy, reorganizing the Qiao commanderies and counties, and reducing the atmosphere of vanity and hypocrisy. The court attempts to establish a clearer household registration and tax system, but faces resistance from the great Qiao clans, with limited results.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Gothic bishop Ulfilas promotes the Christianization of the Goths",
+        "s": "To facilitate missionary work, the Gothic bishop Ulfilas invents the Gothic alphabet and translates the Bible into Gothic. He also leads a portion of the Goths to migrate into Roman territory, promoting the Christianization of the Germanic barbarians. Arian Christianity becomes widespread among the Goths.",
+        "a": 45,
+        "l": 28,
+        "c": "Religion",
+        "r": "Goths",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 342,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Kang of Jin",
+        "e": "1st year of Jianyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Constantius II launches a war against Persia",
+        "s": "Eastern Roman Emperor Constantius II personally leads a large army east against the Sasanian Persian Empire, vying for control of Mesopotamia and Armenia. The two sides clash fiercely at Nisibis and elsewhere, with mixed results. The war continues for several years, draining the resources of both empires.",
+        "a": 35,
+        "l": 42,
+        "c": "Military",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Cheng of Jin dies; Emperor Kang of Jin succeeds",
+        "s": "Emperor Cheng of Jin dies. As his son is too young, his brother Sima Yue ascends as Emperor Kang of Jin. Emperor Kang's reign is short, and power is dominated by the Yu clan of imperial in-laws.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 343,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Kang of Jin",
+        "e": "2nd year of Jianyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Yu Yi of the Eastern Jin actively prepares for a northern expedition",
+        "s": "The Eastern Jin General Who Pacifies the West, Yu Yi, aiming to fulfill his brother Yu Liang's ambition, reorganizes the military in Jingzhou and trains troops. He sends envoys to contact Former Yan and Former Liang, attempting to coordinate a northern expedition against Later Zhao. However, due to resistance at court, the expedition never takes place.",
+        "a": 32,
+        "l": 112.2,
+        "c": "Military",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "The Nicene Creed is reaffirmed as authoritative in the Eastern Empire",
+        "s": "Under pressure from orthodox factions, Constantius II convokes a church council to reaffirm the authority of the Nicene Creed and exile Arian bishops. However, because the emperor himself leans toward Arianism, the religious strife does not subside.",
+        "a": 41,
+        "l": 29,
+        "c": "Religion",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 344,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Mu of Jin",
+        "e": "1st year of Yonghe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Kang of Jin dies; his young son Emperor Mu of Jin succeeds",
+        "s": "Emperor Kang of Jin dies, and his two-year-old crown prince Sima Dan ascends as Emperor Mu of Jin. His mother, Empress Dowager Chu, serves as regent, assisted by the Prince of Kuaiji, Sima Yu. The Eastern Jin court becomes even more chaotic, with powerful officials vying for power.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Long-term confrontation between the Eastern Jin and northern regimes along the Huai River line",
+        "s": "Later Zhao is powerful, and the Eastern Jin uses the Huai River as its border. The two sides battle for years. The Eastern Jin establishes Qiao commanderies north of the Yangtze to settle southern refugees, organizes agricultural colonies, and forms a long-standing pattern of north-south confrontation.",
+        "a": 32.1,
+        "l": 118.8,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 345,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Mu of Jin",
+        "e": "2nd year of Yonghe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wang Xizhi serves as Grand Administrator of Kuaiji, his calligraphy reaches its peak",
+        "s": "Wang Xizhi, the Eastern Jin's Sage of Calligraphy, serves as Grand Administrator of Kuaiji, socializing with famous scholars at Lanting and elsewhere. His calligraphy integrates ancient and modern styles, creating a new natural and free-spirited style. His representative work from this period, the 'Preface to the Lanting Collection,' is hailed as the 'best running script under heaven,' marking an era of self-consciousness in Chinese calligraphy.",
+        "a": 32,
+        "l": 120,
+        "c": "Art",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Huan Wen becomes Inspector of Jingzhou, gaining control of the upper Yangtze army",
+        "s": "The Eastern Jin court appoints Huan Wen as General of Pacifying the West and Inspector of Jingzhou, commanding military affairs over six provinces including Jing and Liang. Huan Wen, stationed at Jiangling, controls the elite troops of the upper Yangtze, gradually becoming the most powerful minister in the Eastern Jin, laying the groundwork for later northern expeditions and usurpation attempts.",
+        "a": 30.4,
+        "l": 112.2,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Shapur II of Sasanian Persia captures Roman fortresses in Mesopotamia",
+        "s": "Shapur II leads a large army to capture the Roman border fortress of Singara (in present-day Iraq), where the Roman garrison is annihilated. The Persian army subsequently storms Amida and other fortresses, forcing the Roman Empire to sue for peace, ransoming captives for a huge sum of gold.",
+        "a": 35,
+        "l": 42,
+        "c": "Military",
+        "r": "Sasanian Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 346,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Mu of Jin",
+        "e": "3rd year of Yonghe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Huan Wen attacks Shu, destroying the Cheng-Han regime",
+        "s": "The Inspector of Jingzhou, Huan Wen, leads his army up the Yangtze River to attack Cheng-Han. The Cheng-Han emperor Li Shi is inept and unprepared; Huan Wen reaches the gates of Chengdu, Li Shi surrenders, and Cheng-Han is destroyed. The Eastern Jin reunifies Bashu, greatly enhancing its national strength.",
+        "a": 30.6,
+        "l": 104.1,
+        "c": "Military",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "The Roman Empire reorganizes its eastern defensive system to counter the Persian threat",
+        "s": "After suffering heavy losses in the Persian war, Roman Emperor Constantius II restructures the eastern border defenses, strengthening fortresses such as Nisibis and adopting a new tactic combining mobile field armies with border garrison troops.",
+        "a": 36,
+        "l": 37,
+        "c": "Military",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 347,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Mu of Jin",
+        "e": "4th year of Yonghe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "The Eastern Jin fully controls Bashu, establishing Yizhou",
+        "s": "After Huan Wen pacifies Cheng-Han, the Eastern Jin reincorporates Bashu into its administrative system, appointing officials to manage the region. The rich resources and strategic terrain of Shu provide the Eastern Jin with a strategic buffer and source of supplies.",
+        "a": 30.6,
+        "l": 104.1,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Pu Hong, chieftain of the Di tribe, leads his people to migrate to Guanzhong",
+        "s": "Taking advantage of the internal turmoil in Later Zhao, the Di chieftain Pu Hong leads his followers from Longxi to eastern Guanzhong, building up strength for the future establishment of the Former Qin regime. Pu Hong is later poisoned by a Later Zhao general, and his son Pu Jian succeeds him.",
+        "a": 35,
+        "l": 110,
+        "c": "Politics",
+        "r": "Former Qin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 348,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Mu of Jin",
+        "e": "5th year of Yonghe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Murong Huang of Former Yan dies; Murong Jun succeeds",
+        "s": "The Wenming Emperor of Former Yan, Murong Huang, dies; his son Murong Jun succeeds. Murong Jun continues his father's ambition to expand territory, employing Han gentry, and Former Yan's power continues to grow.",
+        "a": 41.6,
+        "l": 120.4,
+        "c": "Politics",
+        "r": "Former Yan",
+        "o": "Asia"
+      },
+      {
+        "t": "Hinduism and Buddhism flourish together in the Gupta Empire",
+        "s": "Under the patronage of the Gupta Empire, both Hinduism (especially Vaishnavism and Shaivism) and Buddhism prosper. Chinese monks like Faxian travel west to India, bringing back numerous Buddhist scriptures. Nalanda University begins to take shape as a center of Buddhist learning.",
+        "a": 25,
+        "l": 85,
+        "c": "Religion",
+        "r": "Gupta Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 349,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Mu of Jin",
+        "e": "6th year of Yonghe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Later Zhao tyrant Shi Hu dies; succession struggle and internal chaos erupt",
+        "s": "Later Zhao Emperor Shi Hu dies, and his crown prince Shi Shi succeeds. However, Shi Hu's sons Shi Zun, Shi Jian, and Shi Bao fight among themselves for the throne. The Later Zhao court descends into unprecedented chaos, and Ran Min rises to prominence.",
+        "a": 36.3,
+        "l": 114.5,
+        "c": "Politics",
+        "r": "Later Zhao",
+        "o": "Asia"
+      },
+      {
+        "t": "Ran Min emerges during the Later Zhao civil war, gaining military control",
+        "s": "During the Later Zhao civil war, the general Ran Min (adopted grandson of Shi Hu) kills Shi Zun, installs Shi Jian as emperor, and appoints himself Grand General, taking control of the government. He then kills Shi Jian and prepares to proclaim himself emperor. Ran Min's Han identity triggers ethnic reprisals.",
+        "a": 36.3,
+        "l": 114.5,
+        "c": "Politics",
+        "r": "Later Zhao",
+        "o": "Asia"
+      },
+      {
+        "t": "The Roman Empire recruits large numbers of Germanic mercenaries to strengthen border defenses",
+        "s": "Due to the heavy losses in the war with Persia, Eastern Roman Emperor Constantius II vigorously recruits Germanic barbarians (Franks, Alemanni, etc.) into the army, even appointing barbarian generals to high office. This temporarily solves manpower problems but sows the seeds for future barbarian control of the Roman army.",
+        "a": 45,
+        "l": 20,
+        "c": "Military",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 350,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Mu of Jin",
+        "e": "7th year of Yonghe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Ran Min issues the 'Kill the Barbarians' order and proclaims himself emperor, establishing the Ran Wei regime",
+        "s": "After seizing power from Later Zhao, Ran Min issues the 'Kill the Barbarians' order, calling on Han people to massacre Hu barbarians, and proclaims himself emperor with the state name Da Wei, known as Ran Wei. He massacres a large number of Jie and Xiongnu people, plunging the former Later Zhao territories into unprecedented ethnic slaughter.",
+        "a": 36.3,
+        "l": 114.5,
+        "c": "Politics",
+        "r": "Ran Wei",
+        "o": "Asia"
+      },
+      {
+        "t": "Pu Jian establishes the Former Qin regime, making Chang'an its capital",
+        "s": "The Di chieftain Pu Jian leads his followers into Guanzhong, occupies Chang'an, and proclaims himself Heavenly King, establishing the Former Qin regime. Based in Guanzhong, Former Qin promotes sinicization policies and quickly rises as a powerful northern state, replacing Later Zhao.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Former Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "Magnentius proclaims himself emperor in the Western Roman Empire",
+        "s": "The Western Roman general Magnentius stages a coup in Gaul, killing Emperor Constans I and proclaiming himself Western Augustus. Constantius II, upon hearing the news, raises an army to march west, plunging the Roman Empire into civil war again.",
+        "a": 49,
+        "l": 2,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "The Gupta Empire unifies most of northern India",
+        "s": "Samudragupta (Sea Protector), the second monarch of the Gupta dynasty, through extensive conquests, expands the Gupta Empire from the upper Ganges to the eastern Deccan Plateau, forcing peripheral states to pay tribute, essentially unifying northern India.",
+        "a": 25,
+        "l": 82,
+        "c": "Politics",
+        "r": "Gupta Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "The Maya civilization perfects its complex calendrical system",
+        "s": "Maya astronomers in Mesoamerica, through long-term observations, perfect a calendrical system based on the 365-day Haab' and the 260-day Tzolk'in, and create the Long Count calendar, which calculates time spans exceeding ten million years with precision.",
+        "a": 17,
+        "l": -90,
+        "c": "Science",
+        "r": "Maya",
+        "o": "North America"
+      }
+    ]
+  },
+  {
+    "y": 351,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Mu of Jin",
+        "e": "8th year of Yonghe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Former Qin's Pu Jian formally proclaims himself emperor",
+        "s": "The Former Qin Heavenly King Pu Jian formally ascends the imperial throne at Chang'an, with the state name Qin. He models his government on Han institutions, establishes a bureaucracy, and promotes agriculture, further consolidating the Former Qin regime. In the same year, he defeats an Eastern Jin northern expedition force, consolidating control over Guanzhong.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Former Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "Ran Min engages Murong Jun in battle; Ran Wei's strength is severely depleted",
+        "s": "Former Yan's Murong Jun takes advantage of the civil war in Later Zhao and the nascent state of Ran Wei to march south and attack Ran Min. The two sides fight fiercely at Lian Tai; although Ran Min is brave, he is outnumbered and defeated by the Former Yan army, and the main force of Ran Wei is virtually destroyed.",
+        "a": 38.5,
+        "l": 115,
+        "c": "Military",
+        "r": "Former Yan",
+        "o": "Asia"
+      },
+      {
+        "t": "Eastern Roman Emperor Constantius II defeats the usurper Magnentius",
+        "s": "Constantius II engages Magnentius in a decisive battle in the Danube region and achieves a great victory. Magnentius flees back to Gaul and commits suicide; Constantius II reunifies the Roman Empire.",
+        "a": 45.5,
+        "l": 18.5,
+        "c": "Military",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 352,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Mu of Jin",
+        "e": "9th year of Yonghe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Former Yan's Murong Jun destroys Ran Wei, unifying Hebei",
+        "s": "The Former Yan army storms the Ran Wei capital Yecheng, captures and executes Ran Min. Former Yan annexes the former Ran Wei territories, unifying the Hebei region and becoming one of the most powerful regimes in the north. Murong Jun proclaims himself emperor and moves the capital to Yecheng.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Former Yan",
+        "o": "Asia"
+      },
+      {
+        "t": "Constantius II appoints his cousin Julian as Western Caesar",
+        "s": "To strengthen the defense of the west, Constantius II appoints his cousin Julian as Western Caesar, responsible for governing Gaul and Britain and defending against Germanic barbarian incursions. Julian thereby enters the historical stage.",
+        "a": 41,
+        "l": 29,
+        "c": "Politics",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 353,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Mu of Jin",
+        "e": "10th year of Yonghe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Lanting Gathering: Wang Xizhi creates the 'Preface to the Lanting Collection'",
+        "s": "In early spring, Wang Xizhi, the Eastern Jin's Sage of Calligraphy, together with Xie An, Sun Chuo, and more than forty other famous scholars, holds a purification gathering at Lanting in Kuaiji Shanyin. The participants engage in the 'winding stream' drinking game and compose poetry, and Wang Xizhi writes a preface to the poetry collection, the 'Preface to the Lanting Collection,' known as the finest running script under heaven. This work epitomizes the Wei-Jin demeanor and the age of self-conscious calligraphy.",
+        "a": 30,
+        "l": 120.6,
+        "c": "Culture",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Constantius II becomes the sole emperor of the Roman Empire",
+        "s": "After defeating Magnentius and suppressing other usurpers, Constantius II becomes the sole Roman emperor. He continues to promote Arian Christianity and suppresses the orthodox faction, leading to further schism between the eastern and western churches.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 354,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Mu of Jin",
+        "e": "11th year of Yonghe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Huan Wen's first northern expedition against Former Qin reaches the Ba River",
+        "s": "Huan Wen, the powerful minister of the Eastern Jin, leads 40,000 infantry and cavalry from Jiangling north to attack Former Qin. The Jin army advances swiftly, reaching the Ba River (eastern suburbs of Chang'an), and the people of Guanzhong respond enthusiastically. However, due to insufficient supplies, Huan Wen is forced to retreat, and the expedition fails just as it seemed successful.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Military",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Western Caesar Julian resists Germanic invasions in Gaul",
+        "s": "Julian leads Roman legions in Gaul, repeatedly defeating invading Franks and Alemanni. He repairs roads, rebuilds cities, restores order, wins the hearts of soldiers and civilians, and accumulates capital for his later bid for the imperial throne.",
+        "a": 49,
+        "l": 6,
+        "c": "Military",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 355,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Mu of Jin",
+        "e": "12th year of Yonghe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Former Qin founding emperor Pu Jian dies; the tyrant Fu Sheng succeeds",
+        "s": "Former Qin Emperor Pu Jian dies, and his crown prince Fu Sheng ascends. Fu Sheng is cruel and unpredictable, killing ministers and imperial clan members at will, plunging Former Qin into political chaos and panic. Fu Jian and Wang Meng begin to plot a coup.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Former Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "The Alemanni invade Gaul on a large scale; Julian responds",
+        "s": "The Germanic Alemanni tribal confederation, taking advantage of the Roman civil war, launches a large-scale crossing of the Rhine, pillaging the interior of Gaul. Julian organizes Roman legions and auxiliary forces, massing near Strasbourg for a decisive battle.",
+        "a": 48,
+        "l": 7,
+        "c": "Military",
+        "r": "Germanic tribes",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 356,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Mu of Jin",
+        "e": "1st year of Shengping era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Strasbourg: Julian decisively defeats the Alemanni",
+        "s": "Julian leads 13,000 Roman troops against 30,000 Alemanni at Strasbourg. Relying on tight infantry formations and elite cavalry, the Roman legions rout the barbarians, killing their chieftain and nearly annihilating the enemy force. This victory restores long-term peace to the Rhine frontier.",
+        "a": 48.6,
+        "l": 7.8,
+        "c": "Military",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Huan Wen's second northern expedition recovers Luoyang",
+        "s": "Huan Wen leads an army north to attack Yao Xiang, who has defected from the Jin to Former Yan. He defeats Yao Xiang decisively at the Yi River. Yao Xiang flees to Guanzhong, and Huan Wen advances to occupy Luoyang. The Eastern Jin court appoints Huan Wen as Grand Commander of the Conquest, but Luoyang is soon retaken by Former Yan.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Military",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 357,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Mu of Jin",
+        "e": "2nd year of Shengping era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Fu Jian kills Fu Sheng, proclaims himself emperor of Former Qin, with Wang Meng as chief minister",
+        "s": "Fu Jian, Prince of Donghai of Former Qin, together with his strategist Wang Meng, stages a coup, deposing and killing the tyrant Fu Sheng, and proclaims himself Heavenly King of Great Qin. Fu Jian places Wang Meng in charge of the government, implementing reforms, and Former Qin embarks on a path to prosperity and power.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Former Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "Julian rebuilds cities and restores order in Gaul",
+        "s": "In Gaul, Julian not only conducts military defense but also devotes himself to political reconstruction. He reduces taxes, restores city councils, and repairs Gaulish urban infrastructure, reviving the war-ravaged region and earning the deep affection of the Gaulish people.",
+        "a": 49,
+        "l": 4,
+        "c": "Politics",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Wang Meng is appointed Palace Attendant and Head of the Secretariat in Former Qin, promoting legal reforms",
+        "s": "Wang Meng is appointed Palace Attendant and Head of the Secretariat by Fu Jian, taking charge of confidential affairs. He strictly enforces the law, combats powerful families, reorganizes the bureaucracy, and strengthens central control, making Former Qin politically clear, financially sound, and militarily strong.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Former Qin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 358,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Mu of Jin",
+        "e": "3rd year of Shengping era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wang Meng directs civil service reform in Former Qin, dismissing hundreds of incompetent officials",
+        "s": "With Fu Jian's support, Wang Meng vigorously reorganizes the Former Qin bureaucracy. He sends inspectors to the provinces to investigate corruption and malfeasance, dismissing over four hundred incompetent officials in one sweep and promoting honest and talented individuals. The administrative efficiency of Former Qin greatly improves.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Former Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "Julian is recalled by the emperor to Gaul, stationed in Paris to face the barbarians",
+        "s": "Constantius II orders Julian to be stationed in Paris to continue defending the Rhine frontier. During his time in Paris, Julian's relationship with the Gaulish populace and army grows increasingly close, and the emperor begins to suspect his popularity.",
+        "a": 48.9,
+        "l": 2.3,
+        "c": "Politics",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 359,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Mu of Jin",
+        "e": "4th year of Shengping era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Former Yan expands south, capturing Eastern Jin territories north of the Huai River",
+        "s": "Taking advantage of the Eastern Jin's failed northern expeditions, Former Yan Emperor Murong Jun sends troops south to seize the Eastern Jin's Huai River region, advancing as far as the Huai River. The Eastern Jin is forced to retreat to the Huainan line, and the north-south confrontation becomes more pronounced.",
+        "a": 34,
+        "l": 116,
+        "c": "Military",
+        "r": "Former Yan",
+        "o": "Asia"
+      },
+      {
+        "t": "Sasanian Persia besieges and captures the Roman fortress of Amida",
+        "s": "Shapur II of Sasanian Persia personally leads a large army to besiege the Roman Mesopotamian stronghold of Amida. The Roman garrison resists tenaciously; the siege lasts 73 days before the city falls, and the Persian army massacres the inhabitants. The Romans suffer heavy losses, crippling their strength.",
+        "a": 37.9,
+        "l": 40.2,
+        "c": "Military",
+        "r": "Sasanian Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 360,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Mu of Jin",
+        "e": "5th year of Shengping era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Julian is proclaimed emperor by his troops in Gaul, civil war erupts",
+        "s": "Constantius II demands that Julian dispatch elite Gaulish troops east for a campaign against Persia, provoking a mutiny in the Gaulish army. The soldiers, against Julian's wishes, proclaim him Augustus. Julian is forced to accept, and civil war breaks out again in the Roman Empire.",
+        "a": 48.9,
+        "l": 2.3,
+        "c": "Politics",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Former Yan's Murong Jun dies; the young Murong Wei succeeds, with Murong Ke as regent",
+        "s": "Former Yan Emperor Murong Jun dies. His ten-year-old crown prince Murong Wei ascends, with Murong Ke and Murong Ping serving as regents. Murong Ke is lenient and stable, preserving Former Yan's power and maintaining its strength.",
+        "a": 36.3,
+        "l": 114.5,
+        "c": "Politics",
+        "r": "Former Yan",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Mu of Jin dies; Emperor Ai of Jin ascends",
+        "s": "Emperor Mu of Jin dies without issue. The eldest son of Emperor Cheng, Sima Pi, ascends as Emperor Ai of Jin. Emperor Ai is fond of Huang-Lao (Daoist) practices, consumes elixirs, and neglects state affairs; power falls into the hands of Huan Wen.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 361,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Ai of Jin",
+        "e": "1st year of Longhe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eastern Jin and Former Yan confront each other along the Huai River line",
+        "s": "The Eastern Jin and Former Yan are separated by the Huai River, with small-scale skirmishes continuing along the border. The Eastern Jin strengthens defenses along the Huai, building fortresses, but is unable to launch large-scale northern expeditions.",
+        "a": 32,
+        "l": 116,
+        "c": "Military",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman Emperor Constantius II dies; Julian becomes sole emperor",
+        "s": "Constantius II dies suddenly while on a campaign against Julian, and on his deathbed recognizes Julian as his successor. Julian enters Constantinople and becomes sole Roman emperor, undertaking religious reforms.",
+        "a": 33,
+        "l": 36,
+        "c": "Politics",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 362,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Ai of Jin",
+        "e": "2nd year of Longhe era"
+      },
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Fei of Jin",
+        "e": "1st year of Taihe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Roman Emperor Julian launches a pagan revival movement, suppressing Christianity",
+        "s": "Emperor Julian (known as the 'Apostate') attempts to restore Roman traditional polytheism and vigorously suppresses Christianity. He orders the reconstruction of pagan temples, restores sacrifices, forbids Christians from teaching classical literature, and encourages sectarian infighting. However, his reign is short, and he is ultimately unsuccessful.",
+        "a": 41,
+        "l": 29,
+        "c": "Religion",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Ai of Jin dies; Emperor Fei of Jin ascends",
+        "s": "Emperor Ai of Jin dies from elixir poisoning. As he has no son, his younger brother, the Prince of Langye Sima Yi, ascends as Emperor Fei of Jin. Huan Wen continues to control the court, and the deposed emperor is a mere puppet.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 363,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Fei of Jin",
+        "e": "2nd year of Taihe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Huan Wen monopolizes power, openly intends to depose Emperor Fei of Jin",
+        "s": "Huan Wen exercises total control over the Eastern Jin military and government, commanding elite troops in both the upper and lower Yangtze. He falsely accuses Emperor Fei of Jin of misconduct and pressures Empress Dowager Chu to issue an edict deposing the emperor, preparing to install a new ruler.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 364,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Fei of Jin",
+        "e": "3rd year of Taihe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Roman Emperor Julian campaigns against Persia and is killed in battle",
+        "s": "Emperor Julian launches an expedition against the Sasanian Persian Empire, initially making good progress. However, in a battle near Ctesiphon, Julian is overconfident and advances rashly, is wounded by a Persian spear, and dies. On his deathbed, he is said to have acknowledged, 'Galilean (Christian), you have won.'",
+        "a": 33,
+        "l": 44.5,
+        "c": "Military",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Huan Wen implements the 'Gengxu Tuduan,' reorganizing the refugee household registration",
+        "s": "Huan Wen implements the 'Gengxu Tuduan' policy in the Eastern Jin, strictly auditing household registers and incorporating northern refugee populations into local registries, thereby increasing tax revenues. This policy curbs the privileges of the powerful clans in concealing people, but faces strong opposition and is difficult to fully enforce.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 365,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Fei of Jin",
+        "e": "4th year of Taihe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Former Yan captures Luoyang, nullifying Eastern Jin's northern gains",
+        "s": "Taking advantage of internal turmoil in the Eastern Jin, Former Yan sends Murong Ke to capture Luoyang. The defending commander Shen Jin dies in battle, and the results of the Eastern Jin's many years of northern expeditions are wiped out. Thereafter, Luoyang remains in the hands of northern regimes for a long time.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Military",
+        "r": "Former Yan",
+        "o": "Asia"
+      },
+      {
+        "t": "New Roman Emperor Jovian makes peace with Persia, ceding border territories",
+        "s": "After Julian's death, the Roman army proclaims Jovian emperor. To quickly end the war, Jovian signs a humiliating peace treaty with Shapur II, ceding five provinces in northern Mesopotamia, including the fortress of Nisibis. Rome's eastern defenses are significantly weakened.",
+        "a": 33,
+        "l": 44,
+        "c": "Diplomacy",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 366,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Fei of Jin",
+        "e": "5th year of Taihe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Excavation of the Mogao Caves at Dunhuang begins",
+        "s": "The Former Liang monk Le Zun excavates the first cave on the cliff face opposite the Sanwei Mountains southeast of Dunhuang, for meditation and worship. Thereafter, the Mogao Caves are continuously expanded over a thousand years, becoming the world's largest and longest-lasting treasure house of Buddhist art.",
+        "a": 40.04,
+        "l": 94.8,
+        "c": "Religion",
+        "r": "Former Liang",
+        "o": "Asia"
+      },
+      {
+        "t": "Valens is appointed Eastern Roman Emperor",
+        "s": "Roman Emperor Valentinian I appoints his brother Valens as Eastern Emperor, responsible for governing the eastern provinces of the empire and resisting Persian and barbarian invasions. Valens adheres to Arian Christianity, exacerbating religious conflict.",
+        "a": 41,
+        "l": 29,
+        "c": "Politics",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 367,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Fei of Jin",
+        "e": "6th year of Taihe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Fu Shuang and others, brothers of Former Qin's Fu Jian, launch a rebellion",
+        "s": "Several brothers of Former Qin Emperor Fu Jian (Fu Shuang, Fu Liu, etc.), opposing Wang Meng's reforms, rise in rebellion. Fu Jian sends Wang Meng to suppress the rebellion, which is quickly quelled, consolidating his rule.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Military",
+        "r": "Former Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "Western Emperor Valentinian I stabilizes the frontier in the West",
+        "s": "Valentinian I builds forts along the Danube and Rhine, severely punishes barbarian invasions, and pursues a lenient religious policy. His reign is relatively stable; he is one of the last strong Western Roman emperors.",
+        "a": 49,
+        "l": 2,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 368,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Fei of Jin",
+        "e": "7th year of Taihe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Picts and Scots jointly invade Roman Britain",
+        "s": "The Picts of northern Britain and the Scots from Ireland join forces to raid the Roman province of Britain, while Roman defenders are overwhelmed. Valentinian I sends his general Theodosius (father of Theodosius the Great) to their aid.",
+        "a": 54,
+        "l": -3,
+        "c": "Military",
+        "r": "Picts",
+        "o": "Europe"
+      },
+      {
+        "t": "Wang Meng's reforms are fully implemented; legal construction in Former Qin bears fruit",
+        "s": "Under Wang Meng's direction, Former Qin abolishes the privileges of the old aristocracy, standardizes weights and measures, establishes state schools, and perfects a civil service examination-like system for selecting officials. Former Qin becomes politically clear, its national strength greatly enhanced, and it has the capability to unify the north.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Former Qin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 369,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Fei of Jin",
+        "e": "8th year of Taihe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Huan Wen's third northern expedition: crushing defeat at Fangtou",
+        "s": "Huan Wen leads 50,000 infantry and cavalry north against Former Yan. Initially advancing well, he reaches Fangtou (present-day Xun County, Henan). However, the Former Yan general Murong Chui cuts off the Jin supply lines, and Huan Wen is defeated, losing over 30,000 men. The Fangtou defeat severely damages Huan Wen's prestige.",
+        "a": 35.6,
+        "l": 114.5,
+        "c": "Military",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Former Yan general Murong Chui is suspected and forced to defect to Former Qin",
+        "s": "Murong Chui, the hero of the Fangtou battle, is suspected and persecuted by the Former Yan regent Murong Ping. Forced to flee, he leads his family and followers to seek refuge with Former Qin. Fu Jian is overjoyed and gives him an important post, hastening the downfall of Former Yan.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Former Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "The Roman Empire recovers Britain, suppressing barbarian revolts",
+        "s": "Theodosius leads Roman forces to land in Britain, defeats the Picts and Scots, recaptures lost towns, and rebuilds Hadrian's Wall, restoring Roman rule in Britain.",
+        "a": 52,
+        "l": -1,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 370,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Fei of Jin",
+        "e": "9th year of Taihe era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Former Qin destroys Former Yan, unifying northern China",
+        "s": "Fu Jian sends Wang Meng and Murong Chui to attack Former Yan. The Qin army routs the main Former Yan force at Luchuan and besieges Yecheng; Murong Wei surrenders, and Former Yan falls. Former Qin unifies northern China (except for Former Liang and Dai), forming a north-south confrontation with the Eastern Jin.",
+        "a": 36.3,
+        "l": 114.5,
+        "c": "Military",
+        "r": "Former Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "Remnant Xiongnu tribes migrate westward to the East European steppe",
+        "s": "The descendants of the Northern Xiongnu (known as the Huns), defeated by the Eastern Han, after centuries of migration, reach the North Caucasus and the East European steppe north of the Caspian Sea. They come into contact with the local Alans and Goths, triggering a subsequent wave of barbarian migrations.",
+        "a": 50,
+        "l": 48,
+        "c": "Society",
+        "r": "Xiongnu",
+        "o": "Europe"
+      },
+      {
+        "t": "The Roman Temple incident in Jerusalem: conflict between Jews and Christians",
+        "s": "During the reign of Roman Emperor Valens, a conflict erupts between Christians and Jews in Jerusalem. The Roman governor allows Christians to destroy Jewish synagogues and pagan temples, but the incident is eventually resolved without escalating into large-scale persecution.",
+        "a": 31.78,
+        "l": 35.22,
+        "c": "Religion",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 371,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Jianwen of Jin",
+        "e": "1st year of Xian'an era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Huan Wen deposes Emperor Fei of Jin and establishes Emperor Jianwen of Jin",
+        "s": "Huan Wen leads his troops into the capital, falsely accusing Emperor Fei of impotence and inability to produce an heir, and forces Empress Dowager Chu to depose him. He then installs the emperor's brother, the Prince of Kuaiji Sima Yu, as Emperor Jianwen of Jin. Huan Wen thereby fully controls the Eastern Jin court.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "The Roman Empire and Sasanian Persia vie for control of Armenia",
+        "s": "Roman Emperor Valens and Persian Shapur II face off over the succession to the Armenian throne. They exchange envoys for years of negotiations, but never reach an agreement, leading to frequent border clashes.",
+        "a": 40,
+        "l": 44,
+        "c": "Diplomacy",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 372,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Jianwen of Jin",
+        "e": "2nd year of Xian'an era"
+      },
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "1st year of Ningkang era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Jianwen of Jin dies; Emperor Xiaowu ascends; Xie An comes to court as regent",
+        "s": "Emperor Jianwen of Jin dies, and his crown prince Sima Yao ascends as Emperor Xiaowu of Jin. Huan Wen, who had hoped to usurp the throne, is blocked by Xie An, Wang Tanzhi, and others. Xie An is called to court and begins to govern the Eastern Jin.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Former Qin's Fu Jian strengthens control over the Western Regions, opening the Silk Road",
+        "s": "Fu Jian sends his general Lü Guang on a campaign to the Western Regions, bringing Kucha, Shule, and other states under control. The southern Silk Road is reopened, facilitating trade and Buddhist exchange between East and West, and promoting cultural prosperity in Former Qin.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Former Qin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 373,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "2nd year of Ningkang era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Huan Wen of the Eastern Jin dies; Huan Chong voluntarily yields power; Xie An becomes the pillar",
+        "s": "Huan Wen, who had attempted to usurp the throne, dies. His brother Huan Chong succeeds as Inspector of Jingzhou. For the sake of stability, Huan Chong voluntarily yields some of his military command and cooperates with Xie An. Xie An thus becomes the central figure of the Eastern Jin court, uniting all parties to resist Former Qin.",
+        "a": 31.6,
+        "l": 118.4,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Eastern Roman Emperor Valens persecutes orthodox Christians",
+        "s": "Emperor Valens, an adherent of Arianism, begins a large-scale persecution of Nicene orthodox Christians, exiling many bishops and confiscating orthodox churches. This deepens religious divisions within the Eastern Empire.",
+        "a": 41,
+        "l": 29,
+        "c": "Religion",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 374,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "3rd year of Ningkang era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Western Emperor Valentinian I dies; Gratian succeeds",
+        "s": "Roman Western Emperor Valentinian I dies of a stroke of anger on the Danube front; his son Gratian succeeds as Western Emperor. Young and capable, Gratian appoints the famous general Theodosius (Theodosius the Great) to manage the Balkans and Danubian defenses.",
+        "a": 47.5,
+        "l": 19,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Xie An returns from seclusion and formally takes charge of the Eastern Jin government",
+        "s": "After living in seclusion at Dongshan for many years, Xie An, invited by Huan Wen, returns to the court and enters the central government. With his broad-mindedness and leniency, he coordinates Jing and Yang provinces, stabilizing internal unity in the Eastern Jin and laying the foundation for later victory at the Battle of Fei River.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 375,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "1st year of Taiyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Former Qin Grand Chancellor Wang Meng dies; Fu Jian loses his pillar",
+        "s": "Wang Meng, the Grand Chancellor of Former Qin and a great minister of the age, dies. On his deathbed, he advises Fu Jian not to attack the Eastern Jin hastily, but first to eliminate internal threats from the Xianbei and Qiang. Fu Jian does not heed his advice, leading to the rapid collapse of Former Qin.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Former Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "The Hephthalites (White Huns) begin entering Central Asia, threatening the Sasanian Empire",
+        "s": "The Hephthalite nomadic tribes (White Huns) migrate west from the Altai Mountains into Transoxiana, defeating the remnants of the Kushan Empire there. They begin to threaten the northeastern border of the Sasanian Persian Empire, forcing Shapur II to strengthen his eastern defenses.",
+        "a": 38,
+        "l": 65,
+        "c": "Politics",
+        "r": "Hephthalites",
+        "o": "Asia"
+      },
+      {
+        "t": "Shapur II of Sasanian Persia dies",
+        "s": "Shapur II, one of the greatest monarchs of the Sasanian Persian Empire (who had fought the Roman Empire for decades), dies. His son Ardashir II succeeds. The momentum of Persian expansion temporarily slows.",
+        "a": 29.6,
+        "l": 52.5,
+        "c": "Politics",
+        "r": "Sasanian Persia",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 376,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "2nd year of Taiyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Former Qin destroys Former Liang, unifying the last region of the north",
+        "s": "Fu Jian sends generals Gou Chang and Yao Chang to march west and attack Former Liang, which controlled the Hexi Corridor. The Former Liang ruler Zhang Tianxi surrenders, and Former Liang falls. In the same year, Former Qin destroys the Dai state, completely unifying northern China.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Military",
+        "r": "Former Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "The Visigoths, driven by the Huns, request to enter the Roman Empire for refuge",
+        "s": "The Huns migrating west defeat and displace the Ostrogoths. The Visigoths, fearing the Huns, gather on the north bank of the Danube and request permission to cross into the Roman Empire for refuge. Eastern Emperor Valens grants their request.",
+        "a": 44,
+        "l": 27,
+        "c": "Society",
+        "r": "Goths",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 377,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "3rd year of Taiyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Xie Xuan of the Eastern Jin forms the 'Beifu Army', training elite troops",
+        "s": "The Eastern Jin Chancellor Xie An orders his nephew Xie Xuan to form a new army at Jingkou (present-day Zhenjiang), recruiting northern refugees and sons of military families. This army, strictly trained and extremely combat-effective, becomes known as the 'Beifu Army' and is the main force in the later Battle of Fei River.",
+        "a": 32.2,
+        "l": 119.4,
+        "c": "Military",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "The Visigoths received into the Roman Empire revolt in Thrace",
+        "s": "Roman officials mistreat the Visigothic refugees, even selling them into slavery. The Visigoths, pushed to the limit, revolt, defeat the local Roman garrison, and begin to plunder and ravage Thrace.",
+        "a": 42,
+        "l": 26,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Fu Jian of Former Qin actively prepares to attack the Eastern Jin",
+        "s": "Ignoring the objections of his ministers, Fu Jian begins large-scale conscription and stockpiling of grain, preparing to attack the Eastern Jin. He forcibly conscripts all males over fifteen into the army, with a total force purportedly numbering one million.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Military",
+        "r": "Former Qin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 378,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "4th year of Taiyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Adrianople: Visigothic cavalry routs the Roman army; Valens is killed",
+        "s": "Eastern Roman Emperor Valens engages the Visigoths at Adrianople (present-day Edirne, Turkey) in a decisive battle. The traditional Roman infantry phalanx is outflanked and crushed by Visigothic heavy cavalry; about 40,000 Roman soldiers are killed, and Valens himself perishes. This battle marks the rise of cavalry as the dominant force on the battlefield, replacing infantry.",
+        "a": 41.7,
+        "l": 26.5,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Former Qin captures the Eastern Jin stronghold Xiangyang, opening the gateway to the south",
+        "s": "Former Qin's large army besieges the Eastern Jin city of Xiangyang. The defending commander Zhu Xu is defeated and captured, and Xiangyang falls. Former Qin gains a strategic foothold in the middle Yangtze, paving the way for a large-scale southern campaign.",
+        "a": 32,
+        "l": 112.2,
+        "c": "Military",
+        "r": "Former Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "Theodosius is appointed Eastern Roman Emperor, beginning the restoration",
+        "s": "After the disastrous defeat at Adrianople, Western Emperor Gratian appoints the military genius Theodosius (son of Theodosius the Elder) as Eastern Emperor. Theodosius quickly reorganizes the army, makes peace with the Goths, and temporarily halts the collapse of the Roman East.",
+        "a": 41.01,
+        "l": 28.98,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Teotihuacan influence extends into the Maya region",
+        "s": "The armies of the Teotihuacan civilization from the Mexican highlands enter the Maya lowlands, conquering city-states such as Tikal. Teotihuacan-style architecture, pottery, and murals begin to appear in the Maya region, profoundly transforming Maya culture.",
+        "a": 17.2,
+        "l": -89.6,
+        "c": "Military",
+        "r": "Teotihuacan",
+        "o": "North America"
+      }
+    ]
+  },
+  {
+    "y": 379,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "5th year of Taiyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eastern Roman Emperor Theodosius I stabilizes the situation, concluding a truce with the Goths",
+        "s": "After ascending the throne, Theodosius I, through flexible negotiations and military deterrence, reaches a temporary truce with the Visigoths, allowing them to settle in the Balkans. He is thereby able to turn his attention to internal affairs and religious matters.",
+        "a": 41.01,
+        "l": 28.98,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Former Qin continues its southern advance; the Eastern Jin situation becomes critical",
+        "s": "In the 4th year of Taiyuan (379), after capturing Xiangyang, Former Qin's military advance threatens the Yangtze and Huai River region. The Eastern Jin's defense lines are stretched, and the court panics. Under Xie An's command, Xie Xuan intensifies the training of the Beifu Army in preparation for the Battle of Fei River (383). Fu Jian's southern campaign plan is accelerating.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Military",
+        "r": "Former Qin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 380,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "6th year of Taiyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Theodosius issues the Edict of Thessalonica, making Christianity the state religion of the Roman Empire",
+        "s": "Eastern Roman Emperor Theodosius I, together with his Western co-emperor, issues an edict declaring Nicene Christianity the sole legal religion of the Roman Empire, and forbidding pagan worship and Arianism. From this point on, Christianity becomes the state church of the empire.",
+        "a": 40.6,
+        "l": 22.9,
+        "c": "Religion",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "The Beifu Army shows its prowess, repeatedly defeating Former Qin reconnaissance forces along the border",
+        "s": "The Beifu Army led by Xie Xuan launches harassing operations along the Huai River, repeatedly defeating Former Qin scouting and advance units. The formidable fighting power of the Beifu Army astonishes the Former Qin court.",
+        "a": 33.6,
+        "l": 119,
+        "c": "Military",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Samudragupta of the Gupta Empire campaigns south, conquering the kingdoms of the Deccan",
+        "s": "Gupta Emperor Samudragupta (Sea Protector) leads an army southward, defeating over ten kingdoms in the Deccan Plateau through a series of wars, forcing them to pay tribute. The Gupta Empire reaches its greatest territorial extent.",
+        "a": 25,
+        "l": 82,
+        "c": "Military",
+        "r": "Gupta Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Hinduism experiences a revival under the patronage of the Gupta Empire",
+        "s": "The Gupta Empire, favoring Hinduism, actively sponsors temple construction and Brahminic rituals. The scriptures of Vaishnavism and Shaivism (such as the Puranas) are codified during this period, and Hinduism overtakes Buddhism as the dominant religion in central and northern India.",
+        "a": 25,
+        "l": 85,
+        "c": "Religion",
+        "r": "Gupta Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 381,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "7th year of Taiyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "The First Council of Constantinople convenes, reaffirming the Nicene Creed",
+        "s": "Theodosius I convenes the Second Ecumenical Council in Constantinople, which formally reaffirms the authority of the Nicene Creed and condemns Arianism, Macedonianism, and other heresies. The council also elevates the see of Constantinople to a position second only to Rome.",
+        "a": 41,
+        "l": 29,
+        "c": "Religion",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Fu Jian, ignoring opposition, fully prepares for a southern campaign against the Eastern Jin",
+        "s": "Fu Jian ignores the remonstrances of his crown prince Fu Hong and ministers like Fu Rong, and insists on launching a large-scale war against the Eastern Jin. He conscripts one million men nationwide and advances by both land and water, intending to annihilate the Eastern Jin in one fell swoop.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Military",
+        "r": "Former Qin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 382,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "8th year of Taiyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "The Former Qin army is fully assembled; Fu Jian vows to march south",
+        "s": "Fu Jian vows an oath at Chang'an; his million-strong army marches south. The vanguard, Fu Rong, leads 300,000 infantry and cavalry, with the main force following. Fu Jian arrogantly declares, 'By throwing our whips into the Yangtze, we can stop its flow.' The Eastern Jin court and people are terrified.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Military",
+        "r": "Former Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "Xie An, unflappable, calmly deploys the Eastern Jin defense line",
+        "s": "Faced with the overwhelming Former Qin army, Xie An remains calm in the midst of chaos. He appoints Xie Shi as Grand Marshal of the Expedition, Xie Xuan as Vanguard Commander, leading 80,000 Beifu troops to meet the enemy. He himself remains behind, playing chess with a guest, to stabilize public morale.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "The Roman Empire concludes a peace treaty with the Visigoths; Theodosius uses barbarians to fight barbarians",
+        "s": "Theodosius I signs a peace treaty with the Visigothic chieftain, allowing them to settle in the Balkans and provide troops. Many Visigoths enter the Roman army, and Theodosius uses them to strengthen his forces against Western usurpers.",
+        "a": 42,
+        "l": 25,
+        "c": "Diplomacy",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 383,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "9th year of Taiyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Fei River: The Eastern Jin decisively defeats Former Qin, shattering Fu Jian's dream of unification",
+        "s": "The Eastern Jin Beifu Army engages the million-strong Former Qin army at the Fei River (present-day Shou County, Anhui). The Jin army takes advantage of a flaw in the Former Qin deployment, crossing the river to attack, while the Former Qin defector Zhu Xu shouts from the rear, 'The Qin army is defeated!' The Former Qin army breaks into a complete rout. Fu Jian is severely wounded and flees north in disgrace.",
+        "a": 32.5,
+        "l": 116.8,
+        "c": "Military",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Xie An remains composed upon receiving the victory report, though inwardly overjoyed",
+        "s": "When the victory report of the Battle of Fei River reaches Jiankang, Xie An is playing chess with a guest. He glances at the dispatch and continues playing. When asked, he calmly replies, 'The children have defeated the enemy.' After the guest leaves, he is so excited that the teeth of his clogs break.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Western Roman Emperor Gratian is assassinated; the empire is thrown into turmoil",
+        "s": "While on campaign in Britain, Gratian is assassinated by a rebel general. The Spanish general Magnus Maximus proclaims himself Western Emperor, and Theodosius I is forced to recognize his status.",
+        "a": 49,
+        "l": 4,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 384,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "10th year of Taiyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Murong Chui rebels against Former Qin and establishes the Later Yan regime",
+        "s": "Taking advantage of the chaos after the Battle of Fei River and the collapse of the north, Murong Chui, a general of Former Qin, proclaims himself King of Yan at Xingyang, establishing the Later Yan regime. He quickly rallies his old Xianbei followers, captures Yecheng, and restores the Yan state.",
+        "a": 36.3,
+        "l": 114.5,
+        "c": "Politics",
+        "r": "Later Yan",
+        "o": "Asia"
+      },
+      {
+        "t": "Western Roman usurper Maximus formally proclaims himself emperor",
+        "s": "Maximus controls Gaul, Britain, and Spain, with formidable power. He demands formal recognition from Eastern Emperor Theodosius I, who, to stabilize the situation, temporarily recognizes him as Western Emperor.",
+        "a": 51.5,
+        "l": -0.5,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 385,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "11th year of Taiyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Yao Chang strangles Fu Jian; the Former Qin emperor dies",
+        "s": "Former Qin Emperor Fu Jian flees to Mount Wujiang, where he is captured by the Qiang general Yao Chang. Yao Chang demands the imperial seal; Fu Jian refuses and is strangled. After Fu Jian's death, Former Qin exists in name only, and the north descends into renewed fragmentation.",
+        "a": 34.5,
+        "l": 107.5,
+        "c": "Politics",
+        "r": "Later Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "Tuoba Gui re-establishes the Dai state at Niuchuan, the prototype of Northern Wei",
+        "s": "The Tuoba Xianbei chieftain Tuoba Gui convenes a tribal assembly at Niuchuan (present-day Inner Mongolia), re-establishing the Dai state and proclaiming himself King of Dai. Soon he changes the state name to Wei, known as Northern Wei, laying the foundation for later unification of the north.",
+        "a": 41,
+        "l": 112,
+        "c": "Politics",
+        "r": "Northern Wei",
+        "o": "Asia"
+      },
+      {
+        "t": "Qifu Guoren establishes the Western Qin regime",
+        "s": "Taking advantage of Former Qin's collapse, the Longxi Xianbei chieftain Qifu Guoren proclaims himself King of Qin at Yuanchuan (present-day Yuzhong, Gansu), establishing the Western Qin regime. Western Qin controls Longxi, coexisting with Later Qin and the remnants of Former Qin.",
+        "a": 35.5,
+        "l": 104,
+        "c": "Politics",
+        "r": "Western Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "Theodosius I further strengthens the position of Orthodox Christianity",
+        "s": "Eastern Roman Emperor Theodosius I issues a series of decrees, closing pagan temples and banning pagan activities such as the Olympic Games. Christianity becomes the sole legal religion of the empire, profoundly influencing medieval European civilization.",
+        "a": 41,
+        "l": 29,
+        "c": "Religion",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 386,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "12th year of Taiyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Lü Guang returns from the Western Regions and establishes the Later Liang regime",
+        "s": "The Former Qin general Lü Guang, returning from his campaign in the Western Regions and learning of Fu Jian's death, proclaims himself Governor of Liangzhou, establishing the Later Liang regime. Later Liang controls the Hexi Corridor, becoming an important power in the northwest.",
+        "a": 37.9,
+        "l": 102.6,
+        "c": "Politics",
+        "r": "Later Liang",
+        "o": "Asia"
+      },
+      {
+        "t": "Tuoba Gui changes his title to King of Wei, establishing the Northern Wei state name",
+        "s": "Tuoba Gui abandons the title of King of Dai and changes it to King of Wei, formally adopting 'Wei' as the state name. He recruits Han gentry, establishes government institutions, and lays the foundation for the later founding of the capital.",
+        "a": 40.4,
+        "l": 111.8,
+        "c": "Politics",
+        "r": "Northern Wei",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 387,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "13th year of Taiyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Murong Chui of Later Yan consolidates the north, annexing most of Hebei",
+        "s": "Later Yan Emperor Murong Chui leads his army to capture Huatai and Luoyang, heavily defeating the Eastern Jin defenders, and gains complete control of the area north of the Yellow River. Later Yan becomes one of the most powerful states in the north.",
+        "a": 38.5,
+        "l": 114.9,
+        "c": "Politics",
+        "r": "Later Yan",
+        "o": "Asia"
+      },
+      {
+        "t": "Eastern Emperor Theodosius I defeats the Western usurper Maximus",
+        "s": "Theodosius I leads his army west, defeating the usurper Maximus's forces in northern Italy. Maximus is captured and executed, and Theodosius reunifies the western part of the Roman Empire, becoming the sole emperor.",
+        "a": 45.5,
+        "l": 12,
+        "c": "Military",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 388,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "14th year of Taiyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Lü Guang of Later Liang formally proclaims himself king",
+        "s": "Lü Guang proclaims himself King of Sanhe at Guzang, establishing an independent kingdom. He is a devout Buddhist, inviting the Western Regions monk Kumarajiva to translate scriptures in Liangzhou, which becomes a major Buddhist center.",
+        "a": 37.9,
+        "l": 102.6,
+        "c": "Politics",
+        "r": "Later Liang",
+        "o": "Asia"
+      },
+      {
+        "t": "The Roman Empire is briefly unified under Theodosius I",
+        "s": "After defeating Maximus, Theodosius I brings the West under his rule, achieving the final brief unification of the Roman Empire. He appoints his young son Honorius as Western co-emperor while retaining overall control.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 389,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "15th year of Taiyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "The Serapeum of Alexandria is destroyed by Christians",
+        "s": "With the support of Theodosius I, Theophilus, the bishop of Alexandria, leads a Christian mob to destroy the famous Serapeum temple in the city, marking the destruction of the last academic center of paganism.",
+        "a": 31.2,
+        "l": 29.9,
+        "c": "Religion",
+        "r": "Byzantine Empire",
+        "o": "Africa"
+      },
+      {
+        "t": "Northern Wei's Tuoba Gui defeats the Xiongnu Tiefu tribe, unifying the Daibei region",
+        "s": "Tuoba Gui of Northern Wei leads his army to attack the Xiongnu Tiefu tribe of Liu Weichen in the Hetao region, achieving a great victory; Liu Weichen is killed. Tuoba Gui absorbs his followers, expanding his territory to the west bank of the Yellow River.",
+        "a": 40.5,
+        "l": 110,
+        "c": "Military",
+        "r": "Northern Wei",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 390,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "16th year of Taiyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "The Prince of Kuaiji, Sima Daozi, monopolizes power in the Eastern Jin, leading to political chaos",
+        "s": "After the Battle of Fei River, Xie An dies, and the Prince of Kuaiji, Sima Daozi, becomes Grand Chancellor. He is greedy and inept, employing petty men and excluding worthy ministers. He competes for power with the emperor's younger brother Sima Yuanxian, leading to increasing political corruption in the Eastern Jin.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Thessalonica massacre: Roman army suppresses a civilian revolt",
+        "s": "Eastern Roman Emperor Theodosius I, enraged by the killing of his garrison commander by the people of Thessalonica, orders a reprisal. Gothic troops enter the city's hippodrome and massacre about 7,000 civilians. This act shocks Ambrose, the bishop of Milan, who forces Theodosius to do penance.",
+        "a": 40.6,
+        "l": 22.9,
+        "c": "Politics",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 391,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "17th year of Taiyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Theodosius I completely bans pagan activities",
+        "s": "Theodosius I issues an edict prohibiting all pagan sacrifices, divination, and worship, including in private spaces. All pagan temples are either closed or converted into churches. Christianity becomes the sole legal religion of the empire.",
+        "a": 41,
+        "l": 29,
+        "c": "Religion",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Yao Xing of Later Qin succeeds and reorganizes internal affairs",
+        "s": "Yao Chang, founding emperor of Later Qin, dies, and his crown prince Yao Xing succeeds. Yao Xing respects Confucianism, establishes schools, and employs Han gentry; the state power of Later Qin gradually strengthens, making it an important regime in the Guanzhong region.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Later Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "Northern Wei defeats the remnants of the Tiefu Xiongnu, completely controlling the Hetao region",
+        "s": "Tuoba Gui of Northern Wei again campaigns west, completely eliminating the remnants of the Tiefu Xiongnu and occupying the Hetao region. Northern Wei's territory expands to the middle and upper Yellow River, surpassing Later Yan in power.",
+        "a": 40,
+        "l": 108,
+        "c": "Military",
+        "r": "Northern Wei",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 392,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "18th year of Taiyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Murong Chui of Later Yan destroys the Zhai Wei, expanding his territory",
+        "s": "In 392 CE, Later Yan Emperor Murong Chui leads his army to attack and destroy the Zhai Wei regime, which occupied Henan, annexing its territory. Zhai Wei was founded by the Dingling people under Zhai Liao. Later Yan's territory reaches its peak, becoming one of the most powerful states in the north. Murong Chui is the most outstanding military commander of the Sixteen Kingdoms period.",
+        "a": 35,
+        "l": 114,
+        "c": "Military",
+        "r": "Later Yan",
+        "o": "Asia"
+      },
+      {
+        "t": "Western usurper Eugenius proclaims himself emperor in the West, challenging Theodosius",
+        "s": "The Western Roman general Eugenius is proclaimed Western Emperor by the Frankish general Arbogast. Gaining the support of the Senate, he attempts to revive paganism and breaks with Theodosius I.",
+        "a": 49,
+        "l": 2,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 393,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "19th year of Taiyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Murong Chui of Later Yan destroys Western Yan, unifying the eastern part of the passes",
+        "s": "Later Yan Emperor Murong Chui personally campaigns against Western Yan, defeating them at Taibi and advancing to capture Zhangzi. Western Yan falls; Later Yan incorporates its followers, unifying the vast regions of Shandong, Hebei, and Shanxi.",
+        "a": 36.1,
+        "l": 112.8,
+        "c": "Military",
+        "r": "Later Yan",
+        "o": "Asia"
+      },
+      {
+        "t": "Theodosius I holds the last ancient Olympic Games",
+        "s": "Theodosius I orders the holding of the last ancient Olympic Games at Olympia. He then issues an edict banning the Olympics as a pagan activity, ending a thousand-year tradition.",
+        "a": 37.6,
+        "l": 21.6,
+        "c": "Culture",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 394,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "20th year of Taiyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of the Frigidus: Theodosius I defeats Eugenius, finally reuniting Rome",
+        "s": "Theodosius I engages the Western usurper Eugenius at the Frigidus River (in present-day Slovenia). Relying on the charge of his Gothic mercenaries, Theodosius wins a great victory. Eugenius is killed, and the Roman Empire is united for the last time.",
+        "a": 46,
+        "l": 14,
+        "c": "Military",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Yao Xing of Later Qin captures Luoyang from the Eastern Jin",
+        "s": "Taking advantage of the Eastern Jin's internal strife, Yao Xing of Later Qin sends troops to capture Luoyang, taking the Eastern Jin defenders captive. Luoyang again falls into the hands of a northern regime, and the Eastern Jin's northern gains are lost once more.",
+        "a": 34.682,
+        "l": 112.47,
+        "c": "Military",
+        "r": "Later Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "Lü Guang of Later Liang kills officials; his rule becomes increasingly tyrannical",
+        "s": "In 394 CE, Lü Guang, the ruler of Later Liang, becomes suspicious of his ministers and imperial clan members, executing several who had remonstrated directly. Internal conflicts in Later Liang intensify, and its power begins to decline. After Lü Guang's death, Later Liang rapidly splits and is partitioned by Northern Liang and Southern Liang.",
+        "a": 37.9,
+        "l": 102.6,
+        "c": "Politics",
+        "r": "Later Liang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 395,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor Xiaowu of Jin",
+        "e": "21st year of Taiyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "The Roman Empire permanently splits into Eastern and Western halves",
+        "s": "Roman Emperor Theodosius I dies in Milan, dividing the empire between his two sons: Arcadius receives the Eastern Roman Empire (capital Constantinople), and Honorius receives the Western Roman Empire (capital Ravenna). Thereafter, the two halves are never reunited; the Western Roman Empire falls in 476 CE, while the Eastern Roman Empire continues until 1453 CE.",
+        "a": 41.89,
+        "l": 12.49,
+        "c": "Politics",
+        "r": "Rome",
+        "o": "Europe"
+      },
+      {
+        "t": "Later Yan suffers a devastating defeat at the Battle of Canhe Slope by Northern Wei, losing its elite forces",
+        "s": "Murong Bao, crown prince of Later Yan, leads 80,000 elite troops to attack Northern Wei. Tuoba Gui lures the enemy deep and sets an ambush at Canhe Slope (present-day Liangcheng, Inner Mongolia). The Later Yan army is routed, and tens of thousands are captured and massacred. Later Yan never recovers.",
+        "a": 40.5,
+        "l": 112.5,
+        "c": "Military",
+        "r": "Northern Wei",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Xiaowu of Jin is killed by his concubine Lady Zhang; Sima Daozi and his brother usurp power",
+        "s": "Emperor Xiaowu of Jin, joking while drunk that he would depose Lady Zhang, is killed by her in collusion with eunuchs while he sleeps. The death is reported as a nightmare. After his death, his younger brother Sima Daozi and Sima Yuanxian monopolize power, and the Eastern Jin court becomes even more chaotic.",
+        "a": 32.06,
+        "l": 118.74,
+        "c": "Politics",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Visigothic leader Alaric invades the Greek peninsula",
+        "s": "Taking advantage of the chaos in the Roman Empire, Visigothic King Alaric leads his army south into Greece. He sacks the port of Piraeus and threatens Athens, but dares not occupy the historic city. The Eastern Roman Empire is forced to make peace, ceding the province of Illyria.",
+        "a": 38,
+        "l": 23.7,
+        "c": "Military",
+        "r": "Eastern Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 396,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor An of Jin",
+        "e": "1st year of Long'an era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Tuoba Gui of Northern Wei formally proclaims himself emperor, establishing the Northern Wei dynasty",
+        "s": "Tuoba Gui of Northern Wei formally ascends the imperial throne at Shengle, known as Emperor Daowu, with the state name Wei. Modeling his government on Han institutions, he establishes a bureaucracy and formulates laws, transforming Northern Wei from a tribal confederation into a centralized feudal dynasty.",
+        "a": 40.4,
+        "l": 111.8,
+        "c": "Politics",
+        "r": "Northern Wei",
+        "o": "Asia"
+      },
+      {
+        "t": "Murong Chui, founding emperor of Later Yan, dies; Later Yan's power declines",
+        "s": "Later Yan Emperor Murong Chui dies of illness while leading an army against Northern Wei. His son Murong Bao succeeds, but after the devastating defeat at Canhe Slope, Later Yan's elite forces are lost, its power declines rapidly, and it quickly moves toward fragmentation.",
+        "a": 38.5,
+        "l": 114.9,
+        "c": "Politics",
+        "r": "Later Yan",
+        "o": "Asia"
+      },
+      {
+        "t": "Western Roman general Stilicho defeats the Visigoth Alaric",
+        "s": "Stilicho, commander of the Western Roman army, leads his forces into Greece and successfully defeats the Visigothic king Alaric, forcing him to retreat to Illyria. Stilicho intends to destroy the Visigoths entirely, but is prevented by Eastern Roman interference.",
+        "a": 38,
+        "l": 22,
+        "c": "Military",
+        "r": "Western Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 397,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor An of Jin",
+        "e": "2nd year of Long'an era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Tufa Wugu establishes the Southern Liang regime",
+        "s": "The Hexi Xianbei chieftain Tufa Wugu proclaims himself King of Xiping at Lianchuan (present-day Ledu, Qinghai), establishing the Southern Liang regime. Southern Liang competes with Later Liang and Northern Liang for control of the Hexi Corridor.",
+        "a": 36.3,
+        "l": 102.8,
+        "c": "Politics",
+        "r": "Southern Liang",
+        "o": "Asia"
+      },
+      {
+        "t": "Duan Ye establishes the Northern Liang regime",
+        "s": "Duan Ye, Grand Administrator of Jiankang of Later Liang, is supported by Juqu Mengxun and others to become Governor of Liangzhou, breaking away from Later Liang to establish an independent state, known as Northern Liang. Northern Liang is later usurped by Juqu Mengxun and becomes one of the Sixteen Kingdoms.",
+        "a": 38.9,
+        "l": 100.5,
+        "c": "Politics",
+        "r": "Northern Liang",
+        "o": "Asia"
+      },
+      {
+        "t": "Stilicho campaigns in North Africa, suppressing a local rebellion",
+        "s": "Stilicho, commander of the Western Roman army, leads his forces to North Africa to suppress a rebellion against Roman rule. He successfully restores order, ensuring the supply of grain from North Africa to the city of Rome, temporarily stabilizing the economy of the Western Empire.",
+        "a": 36,
+        "l": 8,
+        "c": "Military",
+        "r": "Western Roman Empire",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": 398,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor An of Jin",
+        "e": "3rd year of Long'an era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Northern Wei formally moves its capital to Pingcheng, building palaces",
+        "s": "Tuoba Gui, Emperor Daowu of Northern Wei, moves the capital from Shengle to Pingcheng (present-day Datong, Shanxi), and begins large-scale construction of palaces, ancestral temples, and altars. Pingcheng becomes the political, economic, and cultural center of Northern Wei.",
+        "a": 40.1,
+        "l": 113.3,
+        "c": "Politics",
+        "r": "Northern Wei",
+        "o": "Asia"
+      },
+      {
+        "t": "Murong De establishes the Southern Yan regime",
+        "s": "Murong De, a member of the Later Yan imperial clan, proclaims himself King of Yan at Huatai, establishing the Southern Yan regime, and later moves the capital to Guanggu (present-day Qingzhou, Shandong). Southern Yan controls the Shandong Peninsula, coexisting with Later Yan, Northern Wei, the Eastern Jin, and other regimes.",
+        "a": 35.5,
+        "l": 114.5,
+        "c": "Politics",
+        "r": "Southern Yan",
+        "o": "Asia"
+      },
+      {
+        "t": "The Sun En rebellion breaks out, causing great chaos in the southeastern Eastern Jin",
+        "s": "Sun En of Langye, a follower of the Way of the Five Pecks of Rice, after his uncle Sun Tai is executed by the Prince of Kuaiji Sima Daozi, flees to an island. He gathers followers and rebels, capturing Shangyu, Kuaiji, and other places. The common people flock to him, and within ten days he commands hundreds of thousands.",
+        "a": 30,
+        "l": 120.6,
+        "c": "Military",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "John Chrysostom, Patriarch of Constantinople, begins to lead the church",
+        "s": "The famous church orator John (Golden Mouth) is appointed Patriarch of Constantinople. He strongly criticizes court luxury and corruption and implements church reforms, winning the support of the people but incurring the enmity of Empress Eudoxia.",
+        "a": 41,
+        "l": 29,
+        "c": "Religion",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 399,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor An of Jin",
+        "e": "4th year of Long'an era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Faxian departs from Chang'an for the west in search of Buddhist scriptures, heading to India",
+        "s": "The Eastern Jin monk Faxian, lamenting the lack of complete monastic rules in China, departs from Chang'an with companions, traversing the Hexi Corridor, the Western Regions, and crossing the Pamirs to India. After over ten years, he returns with several important Vinaya texts and writes the 'Record of Buddhistic Kingdoms'.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Religion",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "The Western Regions monk Kumarajiva is welcomed to Chang'an by Later Qin to translate scriptures",
+        "s": "Yao Xing, emperor of Later Qin, attacks Liangzhou and welcomes the monk Kumarajiva to Chang'an, treating him as a state preceptor. Kumarajiva organizes a large-scale translation center in Chang'an, translating dozens of Buddhist scriptures including the Diamond Sutra and the Lotus Sutra, laying the foundation for Chinese Buddhist canon.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Religion",
+        "r": "Later Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "The Sun En rebel army captures Kuaiji and approaches Jiankang",
+        "s": "Sun En leads the rebel army to capture the commandery seat of Kuaiji, killing the Grand Administrator Wang Ningzhi. The Eastern Jin court is alarmed, sending Xie Yan, Liu Laozhi, and others with the Beifu Army to suppress the rebellion. Sun En moves through Wu, at one point approaching Jiankang, with tremendous momentum.",
+        "a": 30,
+        "l": 120.6,
+        "c": "Military",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "The Donatist schism in North Africa becomes severe",
+        "s": "Within North African Christianity, a serious split arises over the issue of ordination during the Great Persecution. The Donatist faction insists that sacraments performed by traditores (those who had handed over scriptures) are invalid, forming a schism from the orthodox church. This sect has great influence in North Africa for over a hundred years.",
+        "a": 36,
+        "l": 7,
+        "c": "Religion",
+        "r": "Western Roman Empire",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": 400,
+    "d": [
+      {
+        "i": "dongjin",
+        "n": "Eastern Jin",
+        "u": "Emperor An of Jin",
+        "e": "5th year of Long'an era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eastern Jin general Liu Yu distinguishes himself in the Sun En rebellion",
+        "s": "Liu Yu, a general of the Beifu Army, fighting against Sun En, leads from the front and repeatedly performs outstanding feats. He defeats Sun En at Juzhang, Haiyan, and other places, forcing Sun En to retreat to his island base. Liu Yu's military talent gains widespread recognition.",
+        "a": 30,
+        "l": 121,
+        "c": "Military",
+        "r": "Eastern Jin",
+        "o": "Asia"
+      },
+      {
+        "t": "Li Gao establishes the Western Liang regime",
+        "s": "Li Gao, Grand Administrator of Dunhuang of Northern Liang (a Han Chinese), feeling threatened by Juqu Mengxun, proclaims himself Duke of Liang at Dunhuang, establishing the Western Liang regime. Western Liang respects Confucianism, protects its territory and people, and creates a brief period of cultural prosperity in the Hexi Corridor.",
+        "a": 40.14,
+        "l": 94.6,
+        "c": "Politics",
+        "r": "Western Liang",
+        "o": "Asia"
+      },
+      {
+        "t": "The Gainas rebellion breaks out in the Eastern Roman Empire; a barbarian general rebels",
+        "s": "Gainas, a Gothic general in the Eastern Roman army, rebels and forces Emperor Arcadius to make concessions. The people of Constantinople rise up, slaughtering Goths in the city. Gainas flees and is eventually killed by the Hun king Uldin. The Eastern Roman Empire temporarily frees itself from barbarian control.",
+        "a": 41.01,
+        "l": 28.98,
+        "c": "Military",
+        "r": "Eastern Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Easter Island begins carving giant stone statues (Moai)",
+        "s": "On Easter Island in the South Pacific, the Polynesian inhabitants begin carving giant stone statues (Moai) from volcanic tuff. These statues are believed to represent deified ancestors. Archaeological evidence shows that the earliest carving activity began around 400 CE.",
+        "a": -27.12,
+        "l": -109.36,
+        "c": "Culture",
+        "r": "Easter Island",
+        "o": "Oceania"
+      }
+    ]
+  }
+]

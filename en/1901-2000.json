@@ -1,0 +1,941 @@
+[
+  {
+    "y": 1901,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Guangxu Emperor (Aisin Gioro Zaitian)",
+        "e": "27th year of the Guangxu reign"
+      }
+    ],
+    "v": [
+      {
+        "t": "Signing of the Boxer Protocol",
+        "s": "On September 7, the Qing court's plenipotentiaries Yikuang and Li Hongzhang signed the Boxer Protocol with eleven foreign ministers including Britain, the United States, Russia, Germany, Japan, Austria, France, Italy, Spain, the Netherlands, and Belgium in Beijing. Main contents: indemnity of 450 million taels of silver (to be repaid over 39 years, totaling 980 million taels with interest); designation of the Legation Quarter in Beijing where foreign troops could be stationed; demolition of forts from Dagu to Beijing; permission for foreign troops to station along the Beijing-Shanhai Pass railway; Qing promise to suppress anti-foreign movements. The treaty marked China's complete descent into a semi-colonial, semi-feudal society.",
+        "a": 39.9042,
+        "l": 116.4074,
+        "c": "Diplomacy",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Cuba becomes a U.S. protectorate",
+        "s": "After the Spanish-American War, Cuba nominally gained independence, but the Platt Amendment (March 2, 1901) turned it into a U.S. protectorate. The amendment stipulated that Cuba could not sign treaties impairing U.S. sovereignty, the U.S. had the right to buy or lease land for military bases (later leasing Guantánamo Bay), and the U.S. could intervene in Cuban affairs at any time. This act severely limited Cuban sovereignty and was not repealed until 1934.",
+        "a": 23.1136,
+        "l": -82.3666,
+        "c": "Politics",
+        "r": "Cuba",
+        "o": "North America"
+      },
+      {
+        "t": "Federation of Australia established",
+        "s": "On January 1, Britain merged the six colonies of New South Wales, Victoria, Queensland, South Australia, Western Australia, and Tasmania into the Commonwealth of Australia, a British dominion. The first prime minister was Edmund Barton, with Melbourne as the temporary capital (moved to Canberra in 1927). The federation marked Australia's transition from scattered colonies to a unified nation, and in 1902 it passed the Immigration Restriction Act, implementing the 'White Australia policy'.",
+        "a": -33.8688,
+        "l": 151.2093,
+        "c": "Politics",
+        "r": "Australia",
+        "o": "Oceania"
+      },
+      {
+        "t": "First Nobel Prizes awarded",
+        "s": "Following the will of Alfred Nobel, the first Nobel Prizes were awarded on December 10 in Stockholm, Sweden (Peace Prize in Oslo). Categories: Physics (Röntgen, for discovery of X-rays), Chemistry (van 't Hoff, for chemical kinetics), Physiology or Medicine (Behring, for serum therapy), Literature (Prudhomme), and Peace (Dunant and Passy). Since then, the Nobel Prize has become the world's most prestigious scientific and cultural award.",
+        "a": 59.3293,
+        "l": 18.0686,
+        "c": "Culture",
+        "r": "Sweden",
+        "o": "Europe"
+      },
+      {
+        "t": "Assassination of President McKinley",
+        "s": "On September 6, U.S. President William McKinley was shot at close range by anarchist Leon Czolgosz while visiting the Pan-American Exposition in Buffalo, New York. McKinley initially appeared to recover but died on September 14 from gangrene of the wound. Vice President Theodore Roosevelt succeeded him the same day, becoming the youngest U.S. president (age 42). The event prompted Congress to officially authorize the Secret Service to protect the president.",
+        "a": 42.8864,
+        "l": -78.8784,
+        "c": "Politics",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "Marconi completes first transatlantic radio transmission",
+        "s": "On December 12, Italian inventor Guglielmo Marconi received the first transatlantic radio signal — the Morse code letter 'S' (three dots) — at St. John's, Newfoundland, transmitted from Poldhu, Cornwall, England. This was humanity's first transatlantic wireless communication, proving that radio waves could follow the Earth's curvature over a distance of more than 3,500 km. The achievement laid the foundation for modern wireless communication, and Marconi received the Nobel Prize in Physics in 1909.",
+        "a": 47.481,
+        "l": -52.797,
+        "c": "Technology",
+        "r": "Canada",
+        "o": "North America"
+      },
+      {
+        "t": "United States Steel Corporation founded",
+        "s": "On February 25, financier J.P. Morgan acquired Carnegie Steel Company for $480 million and merged it with Federal Steel Company, National Steel Company, and others to form the United States Steel Corporation (U.S. Steel), with a capitalization of $1.4 billion, becoming the world's first billion-dollar company, controlling 65% of U.S. steel production. This marked the peak of American monopoly capitalism and opened the era of giant modern corporations.",
+        "a": 40.7128,
+        "l": -74.006,
+        "c": "Economy",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "Launch of the Late Qing New Policies",
+        "s": "To salvage its rule, the Empress Dowager Cixi issued the 'New Policy Edict' on January 29, 1901, in Xi'an, announcing reforms. Measures included: renaming the Zongli Yamen as the Ministry of Foreign Affairs; abolishing redundant offices; training new armies (Yuan Shikai trained the Beiyang New Army); abolishing the imperial examinations and establishing schools (in September 1901, provincial academies were ordered to be converted to schools); allowing intermarriage between Manchu and Han; and abolishing cruel punishments like lingchi. The reforms continued until 1911; though they failed to save the Qing, they objectively promoted China's modernization.",
+        "a": 34.3416,
+        "l": 108.9398,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1902,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Guangxu Emperor (Aisin Gioro Zaitian)",
+        "e": "28th year of the Guangxu reign"
+      }
+    ],
+    "v": [
+      {
+        "t": "Anglo-Japanese Alliance signed",
+        "s": "On January 30, Britain and Japan signed the Anglo-Japanese Alliance in London, effective for five years. The treaty stipulated: if either party went to war with one other country, the other would remain neutral; if either fought two or more countries, the other would provide military assistance. This was Japan's first equal treaty with a Western power, marking Japan's recognition as a world power. The alliance directly encouraged Japan to declare war on Russia in 1904 and was renewed twice until 1923.",
+        "a": 51.5074,
+        "l": -0.1278,
+        "c": "Diplomacy",
+        "r": "United Kingdom",
+        "o": "Europe"
+      },
+      {
+        "t": "Liang Qichao launches the New Citizen Journal",
+        "s": "On February 8, Liang Qichao founded the New Citizen Journal (Xinmin Congbao), a semi-monthly, in Yokohama, Japan. Under the pen name 'China's New Citizen,' he published a series of articles including 'The New Citizen,' fiercely attacking Qing autocracy and systematically introducing the ideas of Western thinkers such as Rousseau and Montesquieu. His fluent and popular 'New Citizen Style' swept the intelligentsia, with each issue selling over ten thousand copies, playing a huge role in late-Qing intellectual enlightenment and the spread of revolutionary ideas.",
+        "a": 35.4437,
+        "l": 139.638,
+        "c": "Culture",
+        "r": "Japan",
+        "o": "Asia"
+      },
+      {
+        "t": "Méliès films A Trip to the Moon",
+        "s": "French film pioneer Georges Méliès, inspired by Jules Verne's From the Earth to the Moon and H.G. Wells's The First Men in the Moon, created the science fiction short film A Trip to the Moon (Le Voyage dans la Lune). The 14-minute film used special effects such as stop-motion, multiple exposures, and hand coloring, telling the story of astronomers who ride a cannon shell to the moon and encounter the Selenites. The film is hailed as 'the first science fiction film' and established film as an art of fantasy.",
+        "a": 48.8566,
+        "l": 2.3522,
+        "c": "Art",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Spooner Act and purchase of Panama Canal assets",
+        "s": "On June 28, the U.S. Congress passed the Spooner Act, authorizing the government to purchase the assets of the bankrupt French Panama Canal Company for $40 million and to negotiate with Colombia for rights to build the canal. The French, led by Ferdinand de Lesseps, had failed due to engineering difficulties, yellow fever, and corruption. The U.S. then fomented Panama's independence (1903) and gained perpetual control of the Canal Zone, officially starting construction in 1904, with the canal opening in 1914.",
+        "a": 38.9072,
+        "l": -77.0369,
+        "c": "Politics",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "Sino-Russian Treaty of Evacuation of the Three Eastern Provinces signed",
+        "s": "On April 8, the Qing court and Russia signed the Treaty of Evacuation of the Three Eastern Provinces in Beijing. Russia promised to withdraw its troops from the provinces of Shengjing (now Liaoning), Jilin, and Heilongjiang in three stages over 18 months, returning railway and administrative rights to the Qing. However, Russia did not fully comply, instead strengthening its control over the Northeast, becoming an important trigger for the Russo-Japanese War.",
+        "a": 39.9042,
+        "l": 116.4074,
+        "c": "Diplomacy",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "End of the Boer War",
+        "s": "On May 31, Britain and the Transvaal and Orange Free State signed the Treaty of Vereeniging, ending the two-and-a-half-year Second Boer War. The Boers relinquished their independence and recognized British sovereignty, while Britain promised to pay £3 million for reconstruction and eventually grant self-government to South Africa. British casualties were about 45,000, Boer casualties about 37,000; Britain also built concentration camps, resulting in the deaths of about 28,000 Boer civilians. The war marked the establishment of British hegemony in southern Africa.",
+        "a": -26.6,
+        "l": 27.4,
+        "c": "Military",
+        "r": "South Africa",
+        "o": "Africa"
+      },
+      {
+        "t": "Coronation of Edward VII",
+        "s": "On August 9, King Edward VII of the United Kingdom was crowned at Westminster Abbey. The ceremony, originally scheduled for June 26, was delayed because the king had appendicitis. He was the eldest son of Queen Victoria; during his reign (1901-1910) he promoted the Entente Cordiale and the Anglo-Russian Entente, leading to the Triple Entente, which played a key role in containing Germany.",
+        "a": 51.5074,
+        "l": -0.1278,
+        "c": "Politics",
+        "r": "United Kingdom",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1903,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Guangxu Emperor (Aisin Gioro Zaitian)",
+        "e": "29th year of the Guangxu reign"
+      }
+    ],
+    "v": [
+      {
+        "t": "First powered flight by the Wright brothers",
+        "s": "On December 17, the Wright brothers, Orville and Wilbur, made the first controlled, sustained powered flight in their self-built 'Wright Flyer' at Kitty Hawk, North Carolina. The first flight lasted 12 seconds and covered about 36 meters; the last flight of the day lasted 59 seconds and covered 260 meters. Orville Wright piloted, with Wilbur assisting on the ground. This feat opened the aviation age, though the media was generally skeptical at the time.",
+        "a": 36.011,
+        "l": -75.668,
+        "c": "Technology",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "The Subao Case",
+        "s": "On June 29, the Shanghai newspaper Subao was raided and shut down by the Qing court in collusion with the Shanghai International Settlement authorities, after it had published articles by Zhang Taiyan (Refuting Kang Youwei's On Revolution) and recommended Zou Rong's Revolutionary Army, advocating the overthrow of the Qing. Zhang Taiyan and Zou Rong were arrested and imprisoned. Zou Rong was sentenced to two years and died in prison in 1905 at age 20; Zhang Taiyan was released after his sentence. The Subao Case caused a public uproar nationwide and instead promoted the spread of revolutionary thought.",
+        "a": 31.2304,
+        "l": 121.4737,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Panamanian independence",
+        "s": "On November 3, with secret U.S. backing, the Department of Panama seceded from Colombia. The U.S. immediately sent warships to block Colombian forces and recognized the Republic of Panama on November 6. On November 18, the U.S. and Panama signed the Hay–Bunau-Varilla Treaty, granting the U.S. perpetual control over the Panama Canal Zone (about 1,432 square kilometers) for an initial payment of $10 million and an annual rent of $250,000. Panamanian independence served entirely the U.S. strategic goal of building the canal.",
+        "a": 8.9824,
+        "l": -79.5199,
+        "c": "Politics",
+        "r": "Panama",
+        "o": "North America"
+      },
+      {
+        "t": "Curies awarded Nobel Prize in Physics",
+        "s": "On December 10, French scientists Pierre Curie, Marie Curie, and Henri Becquerel jointly received the Nobel Prize in Physics for their contributions to the study of radioactivity. The Curies discovered two new elements, polonium and radium, and coined the term 'radioactivity'. Pierre accepted the prize on behalf of the family due to Marie's poor health and travel difficulties; Marie became the first woman to win a Nobel Prize. She used the prize money for research and gave some to the poor.",
+        "a": 48.8566,
+        "l": 2.3522,
+        "c": "Science",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Pavlov's conditioned reflex experiments",
+        "s": "Russian physiologist Ivan Pavlov, while conducting digestive gland experiments on dogs, discovered that dogs would salivate upon hearing a bell associated with feeding. He systematically proposed the theory of 'conditioned reflexes', demonstrating the existence of learned reflexes. For this, Pavlov received the 1904 Nobel Prize in Physiology or Medicine, and his work founded the physiology of higher nervous activity, profoundly influencing the behaviorist school of psychology.",
+        "a": 59.9343,
+        "l": 30.3351,
+        "c": "Science",
+        "r": "Russia",
+        "o": "Europe"
+      },
+      {
+        "t": "First Tour de France",
+        "s": "On July 1, French newspaper L'Auto editor Henri Desgrange launched the Tour de France to boost circulation. The first race had six stages, starting from Paris and passing through Lyon, Marseille, Bordeaux, and Nantes before returning to Paris, covering about 2,428 kilometers. Sixty cyclists started, and only 21 finished; French rider Maurice Garin won with an average speed of about 25 km/h. The Tour de France later became the world's most famous road cycling race.",
+        "a": 48.8566,
+        "l": 2.3522,
+        "c": "Sports",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Ford Motor Company founded",
+        "s": "On June 16, Henry Ford and 11 investors founded the Ford Motor Company in Detroit with a capitalization of $28,000 (Ford contributed $25,000). The company initially produced the Model A, and in 1908 launched the revolutionary Model T. In 1913 it introduced the assembly line, transforming the automobile from a luxury to a mass-market product, profoundly changing American society.",
+        "a": 42.3314,
+        "l": -83.0458,
+        "c": "Economy",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "Second Congress of the Russian Social Democratic Labour Party",
+        "s": "From July 30 to August 23 (Old Style), the Second Congress of the Russian Social Democratic Labour Party was held, first in Brussels and then in London. While debating the first clause of the party rules (whether a member must participate in a party organization), Lenin argued for a party of professional revolutionaries with strict discipline, while Martov advocated a looser organization. The vote gave Lenin a majority (Bolshevik) and Martov a minority (Menshevik), and the two factions formally split. The Bolsheviks later led the October Revolution.",
+        "a": 51.5074,
+        "l": -0.1278,
+        "c": "Politics",
+        "r": "Russia",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1904,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Guangxu Emperor (Aisin Gioro Zaitian)",
+        "e": "30th year of the Guangxu reign"
+      }
+    ],
+    "v": [
+      {
+        "t": "Outbreak of the Russo-Japanese War",
+        "s": "On the night of February 8, the Japanese Combined Fleet launched a surprise attack on the Russian Pacific Fleet anchored off Port Arthur, without a declaration of war. In April, Japanese forces defeated the Russians at the Yalu River; in August, the Battle of Liaoyang; in January 1905, the Russians surrendered at Port Arthur; in May, the Battle of Tsushima Strait saw the annihilation of the Russian Baltic Fleet. The war ended in Russian defeat, and the Treaty of Portsmouth was signed in September 1905, with Japan replacing Russia as the dominant power in Northeast Asia.",
+        "a": 38.914,
+        "l": 121.614,
+        "c": "Military",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Entente Cordiale signed",
+        "s": "On April 8, Britain and France signed the Entente Cordiale in London, resolving colonial disputes in Africa and Asia. Britain recognized France's special rights in Morocco, and France recognized Britain's rule in Egypt. The agreement marked the embryo of the Triple Entente (Britain, France, Russia), facing off against the Triple Alliance (Germany, Austria-Hungary, Italy), intensifying the European arms race and laying the groundwork for World War I.",
+        "a": 51.5074,
+        "l": -0.1278,
+        "c": "Diplomacy",
+        "r": "United Kingdom",
+        "o": "Europe"
+      },
+      {
+        "t": "Fleming invents the vacuum diode",
+        "s": "On November 16, British engineer John Ambrose Fleming, building on the Edison effect, invented the vacuum diode. This tube allowed current to flow in only one direction, converting alternating current to direct current, and served as a detector in radio receivers. The vacuum diode marked the birth of electronics, laying the foundation for later radio communication, radar, and computer development.",
+        "a": 51.5074,
+        "l": -0.1278,
+        "c": "Technology",
+        "r": "United Kingdom",
+        "o": "Europe"
+      },
+      {
+        "t": "New York City Subway opens",
+        "s": "On October 27, the first subway line in New York City officially opened. The line ran from City Hall north to 145th Street, about 14 km long, using electric trains. On its first day, it carried over 150,000 passengers. The construction of the New York Subway greatly relieved surface traffic congestion in Manhattan and spurred the development of suburbs like the Bronx, becoming a model of modern urban public transport.",
+        "a": 40.7128,
+        "l": -74.006,
+        "c": "Technology",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "FIFA founded",
+        "s": "On May 21, seven countries (France, Belgium, Denmark, the Netherlands, Spain, Sweden, and Switzerland) jointly founded the Fédération Internationale de Football Association (FIFA) in Paris, with Frenchman Robert Guérin as its first president. FIFA aimed to unify international competition rules and organize world championships. In 1930, FIFA successfully held the first World Cup.",
+        "a": 48.8566,
+        "l": 2.3522,
+        "c": "Sports",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Panama Canal construction begins",
+        "s": "On May 4, the United States formally took over the Panama Canal project from France, and an opening ceremony was held that day. John Wallace was appointed chief engineer. Learning from the French experience, the U.S. adopted more scientific anti-malaria measures (mosquito control) and improved construction machinery, but the project remained extremely dangerous, with about 27,000 workers dying from disease and accidents. The canal opened in 1914, shortening the sea route from New York to San Francisco by about 12,000 km.",
+        "a": 9.101,
+        "l": -79.686,
+        "c": "Technology",
+        "r": "Panama",
+        "o": "North America"
+      },
+      {
+        "t": "British invasion of Tibet",
+        "s": "On August 3, a British force led by Colonel Francis Younghusband invaded Lhasa, Tibet. Earlier, under the pretext that Tibet had not implemented the Indo-Tibetan Treaty, Britain launched the second invasion of Tibet in late 1903. The British encountered fierce resistance from Tibetan troops at the Battle of Gyantse (Defense of Gyantse) but eventually captured Lhasa. The 13th Dalai Lama fled to Mongolia. On September 7, the British forced the Kashag to sign the Treaty of Lhasa, stipulating that Tibet would not engage with foreign powers and would open up trade, but the Qing court refused to ratify it.",
+        "a": 29.6469,
+        "l": 91.1406,
+        "c": "Military",
+        "r": "Tibet",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1905,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Guangxu Emperor (Aisin Gioro Zaitian)",
+        "e": "31st year of the Guangxu reign"
+      }
+    ],
+    "v": [
+      {
+        "t": "Russian Revolution of 1905 and the October Manifesto",
+        "s": "On January 9 (December 22 Old Style, 'Bloody Sunday'), about 200,000 St. Petersburg workers marched to the Winter Palace to present a petition to the Tsar, but were shot at by troops, leaving about 4,600 dead and wounded. The revolution quickly spread nationwide: workers' strikes, peasant uprisings, and soldiers' mutinies (e.g., the Potemkin uprising). In October, a general strike broke out across the empire. Tsar Nicholas II was forced to issue the October Manifesto on October 17, promising to convene a State Duma (parliament) and guarantee civil liberties. Although the revolution was eventually suppressed, it forced the Tsar to implement constitutional reforms.",
+        "a": 59.9343,
+        "l": 30.3351,
+        "c": "Politics",
+        "r": "Russia",
+        "o": "Europe"
+      },
+      {
+        "t": "Einstein's annus mirabilis and special relativity",
+        "s": "While working at the Swiss Patent Office in Bern, 26-year-old Albert Einstein published four groundbreaking papers in Annalen der Physik between March and September 1905: March – light quantum hypothesis (explaining the photoelectric effect, later winning the Nobel Prize); May – explaining Brownian motion (confirming the existence of atoms); June – 'On the Electrodynamics of Moving Bodies,' founding special relativity and overturning Newtonian absolute space and time; September – mass-energy equivalence E=mc². This was an unprecedented individual achievement in the history of physics.",
+        "a": 46.948,
+        "l": 7.4474,
+        "c": "Science",
+        "r": "Switzerland",
+        "o": "Europe"
+      },
+      {
+        "t": "Abolition of the imperial examination system in China",
+        "s": "On September 2, the Qing court, accepting the memorials of Yuan Shikai, Zhang Zhidong, and others, issued an edict abolishing the imperial examinations, effective 1906, ending a system that had lasted 1,300 years (605-1905). Simultaneously, the court vigorously promoted new-style schools and study abroad, marking China's educational transition from traditional to modern.",
+        "a": 39.9042,
+        "l": 116.4074,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Founding of the Tongmenghui (Chinese United League)",
+        "s": "On August 20, Sun Yat-sen merged revolutionary groups such as the Xingzhonghui, Huaxinghui, and Guangfuhui into the Tongmenghui (Chinese United League) in Tokyo. The league adopted a platform of 'Expel the Manchus, restore China, establish a republic, and equalize land rights.' Sun Yat-sen was elected premier. The league founded Minbao (People's Journal) as its organ and became the first national bourgeois revolutionary party, directly leading many armed uprisings and eventually launching the Xinhai Revolution.",
+        "a": 35.6895,
+        "l": 139.6917,
+        "c": "Politics",
+        "r": "Japan",
+        "o": "Asia"
+      },
+      {
+        "t": "Norway dissolves union with Sweden",
+        "s": "On June 7, the Norwegian parliament declared the dissolution of the union with Sweden. After peaceful negotiations, Sweden recognized Norwegian independence on October 26. A referendum confirmed that Norway would remain a monarchy, and Prince Carl of Denmark was invited to become King Haakon VII. The separation largely finalized the modern national pattern of the Scandinavian Peninsula.",
+        "a": 59.9139,
+        "l": 10.7522,
+        "c": "Politics",
+        "r": "Norway",
+        "o": "Europe"
+      },
+      {
+        "t": "First Moroccan Crisis",
+        "s": "On March 31, German Emperor Wilhelm II visited Tangier, Morocco, and declared his support for Moroccan independence, openly challenging France's special rights in Morocco (which France had gained under the 1904 Entente Cordiale). Franco-German tensions escalated to the brink of war. In January 1906, 13 nations met at the Algeciras Conference in Spain; Germany was isolated, and the conference recognized France's special position in Morocco. The crisis deepened Franco-German antagonism and pushed Britain closer to France.",
+        "a": 35.759,
+        "l": -5.834,
+        "c": "Diplomacy",
+        "r": "Morocco",
+        "o": "Africa"
+      },
+      {
+        "t": "Founding of Fudan University's predecessor, Fudan Public School",
+        "s": "On May 27, Ma Xiangbo (a Catholic educator) founded Fudan Public School in Wusong, taking the name from the phrase 'The sun and moon shine brightly, renewing each day' from the Shangshu Dazhuan. After the Xinhai Revolution, it moved to the former Li Hongzhang mansion in Xujiahui, Shanghai. It was renamed Private Fudan University in 1917 and became a national university in 1941. It is one of the earliest higher education institutions founded independently by Chinese.",
+        "a": 31.2304,
+        "l": 121.4737,
+        "c": "Culture",
+        "r": "Qing",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1906,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Guangxu Emperor (Aisin Gioro Zaitian)",
+        "e": "32nd year of the Guangxu reign"
+      }
+    ],
+    "v": [
+      {
+        "t": "Qing court announces preparation for constitutional government",
+        "s": "On September 1, the Qing court officially issued the 'Edict Announcing the Preparation for Constitutional Government,' stating that it would 'imitate constitutional governance, with great power in the court and public opinion for ordinary affairs.' It stipulated reform of officialdom (abolition of the Grand Council, creation of a cabinet, elimination of redundant offices), and in 1907 the establishment of a Zizheng Yuan (National Advisory Council) and provincial advisory bureaus. In 1908, the Outline of the Constitution was promulgated, with a nine-year preparatory period for constitutional rule. However, the court's commitment was limited, reforms were slow, and it failed to save the Qing dynasty.",
+        "a": 39.9042,
+        "l": 116.4074,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "San Francisco earthquake",
+        "s": "At 5:12 a.m. on April 18, a powerful earthquake of magnitude 7.8 struck San Francisco, California, with the epicenter offshore. The quake ruptured gas mains, causing a city-wide fire that burned for three days and three nights, destroying about 500 city blocks and 28,000 buildings. Official death toll was 478, but actual deaths exceeded 3,000; about 225,000 people were left homeless, and losses exceeded $400 million. The disaster prompted the United States to strengthen building seismic standards and disaster prevention systems.",
+        "a": 37.7749,
+        "l": -122.4194,
+        "c": "Society",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "British Labour Party founded",
+        "s": "On February 27, the 'Labour Representation Committee' formed by trade unions and socialist groups (Independent Labour Party, Fabian Society, etc.) was renamed the Labour Party. The Labour Party advocated public ownership, social welfare, and workers' rights. In the 1906 general election, it won 29 seats. In 1924, Labour leader Ramsay MacDonald formed the first Labour government, gradually replacing the Liberal Party as one of the two main parties alongside the Conservatives.",
+        "a": 51.5074,
+        "l": -0.1278,
+        "c": "Politics",
+        "r": "United Kingdom",
+        "o": "Europe"
+      },
+      {
+        "t": "German Navy expansion bill",
+        "s": "In May, the German Reichstag passed the Fourth Navy Bill, planning to build dreadnoughts to challenge British naval supremacy. Admiral Alfred von Tirpitz, Secretary of State of the Imperial Naval Office, proposed a 'risk theory': the German fleet would be so strong that Britain would not dare attack it. This triggered an Anglo-German naval arms race; Britain had already launched the revolutionary battleship HMS Dreadnought in February 1906 (more firepower and speed), while Germany accelerated its own construction. The naval competition was a major factor leading to World War I.",
+        "a": 52.52,
+        "l": 13.405,
+        "c": "Military",
+        "r": "Germany",
+        "o": "Europe"
+      },
+      {
+        "t": "Finnish women gain parliamentary suffrage",
+        "s": "In May, the Finnish parliament (then an autonomous grand duchy of Russia) reformed its parliament into a unicameral system based on universal suffrage. Finnish women became the first in Europe to gain full political rights (both the right to vote and to stand for election). That same year, 19 women were elected to parliament. This marked a major breakthrough for the women's rights movement.",
+        "a": 60.1699,
+        "l": 24.9384,
+        "c": "Politics",
+        "r": "Finland",
+        "o": "Europe"
+      },
+      {
+        "t": "U.S. Food and Drug Administration (FDA) established",
+        "s": "On June 30, the U.S. Congress passed the Pure Food and Drug Act, prohibiting interstate commerce of adulterated or misbranded food and drugs. The bill was championed by chemist Harvey Wiley and was directly inspired by Upton Sinclair's novel The Jungle, which exposed unsanitary conditions in Chicago's meatpacking plants. The same year, the Bureau of Chemistry was established, renamed the Food and Drug Administration (FDA) in 1930. This marked the beginning of modern food and drug safety regulation.",
+        "a": 38.8951,
+        "l": -77.0364,
+        "c": "Law",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "Marconi granted radio patent",
+        "s": "The U.S. Patent Office ruled Marconi's radio system patent valid (despite pioneering work by Nikola Tesla, Alexander Popov, and others). Marconi had received a British patent in 1904 and won the Nobel Prize in Physics in 1909. The patent dispute lasted for decades; in 1943, the U.S. Supreme Court awarded some of the patent rights to Tesla.",
+        "a": 38.9072,
+        "l": -77.0369,
+        "c": "Technology",
+        "r": "United States",
+        "o": "North America"
+      }
+    ]
+  },
+  {
+    "y": 1907,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Guangxu Emperor (Aisin Gioro Zaitian)",
+        "e": "33rd year of the Guangxu reign"
+      }
+    ],
+    "v": [
+      {
+        "t": "Triple Entente formally formed",
+        "s": "On August 31, Britain and Russia signed the Anglo-Russian Convention in St. Petersburg, resolving their rivalries in Persia (Iran), Afghanistan, and Tibet. Persia was divided into a Russian northern zone, a British southern zone, and a neutral zone; Britain renounced control of Afghan foreign affairs but Russia recognized it as a British sphere; both parties confirmed that Tibet was Chinese territory. Thus the Triple Entente of Britain, France, and Russia was formally established, facing the Triple Alliance of Germany, Austria-Hungary, and Italy in a full European confrontation.",
+        "a": 51.5074,
+        "l": -0.1278,
+        "c": "Diplomacy",
+        "r": "Europe",
+        "o": "Europe"
+      },
+      {
+        "t": "Picasso paints Les Demoiselles d'Avignon",
+        "s": "Pablo Picasso completed the oil painting Les Demoiselles d'Avignon in Paris. The faces of the five nude women are geometrically fragmented, and the background is shattered, completely abandoning the Renaissance conventions of perspective and realism. The painting is considered the beginning of Cubism and a major turning point in modern art, though it was fiercely criticized when first exhibited.",
+        "a": 48.8566,
+        "l": 2.3522,
+        "c": "Art",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Xu Xilin's Anqing Uprising",
+        "s": "On July 6, Xu Xilin, a member of the Guangfuhui and acting commissioner of the Anqing Patrol Academy, shot and killed the Anqing governor Enming during a graduation ceremony. He then led student soldiers to seize an arsenal. Outnumbered, they fought for four hours before Xu was captured and executed that night by being disemboweled. His brother's confession implicated Qiu Jin, leading to her execution on July 15 at Xuan Ting Kou in Shaoxing. This was one of the most brutal armed uprisings before the Xinhai Revolution.",
+        "a": 30.542,
+        "l": 117.057,
+        "c": "Military",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Second Hague Peace Conference",
+        "s": "On October 18, the Second Hague Peace Conference convened in The Hague, Netherlands, with representatives from 44 countries. The conference revised the Hague Conventions, adding provisions on land warfare (Hague Convention IV), prohibiting poison gas, and restricting submarine attacks on merchant ships. It also drafted the International Convention for the Regulation of Whaling. The conference decided to establish the Permanent Court of Arbitration to provide peaceful settlement of international disputes. However, it failed to limit naval armaments and did nothing to prevent World War I.",
+        "a": 52.0907,
+        "l": 4.3174,
+        "c": "Diplomacy",
+        "r": "Netherlands",
+        "o": "Europe"
+      },
+      {
+        "t": "Panic of 1907",
+        "s": "In October, the Knickerbocker Trust Company, New York's third-largest trust, collapsed, triggering a run on deposits and a stock market crash. The panic spread rapidly nationwide, with many banks and trust companies failing. Financier J.P. Morgan personally convened bankers to stabilize the markets, and the Treasury injected funds. The crisis exposed the fragility of the U.S. financial system and directly led to the passage of the Federal Reserve Act of 1913, creating the Federal Reserve.",
+        "a": 40.7128,
+        "l": -74.006,
+        "c": "Economy",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "Peak U.S. immigration",
+        "s": "1907 was the peak year for immigration to the United States, with over 1.285 million immigrants arriving. Most came from Italy, Russia (Jews, Poles), Austria-Hungary, and elsewhere. Immigrants entered through the Ellis Island inspection station, forming immigrant communities in major cities such as New York and Chicago. The influx provided labor for American industrialization but also triggered nativist backlash.",
+        "a": 40.6995,
+        "l": -74.0397,
+        "c": "Society",
+        "r": "United States",
+        "o": "North America"
+      }
+    ]
+  },
+  {
+    "y": 1908,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Guangxu Emperor (Aisin Gioro Zaitian)",
+        "e": "34th year of the Guangxu reign"
+      }
+    ],
+    "v": [
+      {
+        "t": "Deaths of the Guangxu Emperor and Empress Dowager Cixi",
+        "s": "On the evening of November 14, the Guangxu Emperor (Zaitian) died at Hanyuan Hall on Yingtai at age 38. The following afternoon (November 15), the Empress Dowager Cixi died at Yiluan Hall in Zhongnanhai at age 74. The two deaths were less than 24 hours apart. Forensic tests in 2008 found arsenic levels in the emperor's hair far exceeding the lethal dose, confirming that he was poisoned; the mastermind is generally believed to be Cixi or Yuan Shikai. After Guangxu's death, Cixi made three-year-old Puyi the new emperor.",
+        "a": 39.9042,
+        "l": 116.4074,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Promulgation of the Outline of the Constitution",
+        "s": "On August 27, the Qing court promulgated the Outline of the Constitution, the first constitutional document in Chinese history. It consisted of 23 articles: 14 articles on 'Sovereign Powers' and 9 on 'Rights and Duties of Subjects'. The outline stipulated that the emperor possessed absolute powers including legislative, parliamentary convocation and dissolution, and military command; subjects enjoyed rights such as freedom of speech, press, and property, but subject to legal restrictions. In essence the outline preserved imperial authority, far from a true constitution, but it still had significance for legal modernization.",
+        "a": 39.9042,
+        "l": 116.4074,
+        "c": "Law",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Ford Model T goes into production",
+        "s": "On September 27, the first Ford Model T rolled off the line at the Piquette Plant in Detroit. It had a 2.9-liter four-cylinder engine, a top speed of 72 km/h, and a price of $850 (far below contemporary cars). In 1913, Ford introduced the assembly line, reducing assembly time from 12.5 hours to 93 minutes and cutting the price to $260. By the time production ended in 1927, over 15 million Model Ts had been sold, turning the United States into a 'nation on wheels'.",
+        "a": 42.3314,
+        "l": -83.0458,
+        "c": "Technology",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "Young Turk Revolution",
+        "s": "On July 24, the Young Turks (Committee of Union and Progress) of the Ottoman Empire's Third Army launched a revolution demanding the restoration of the 1876 constitution and the reopening of parliament. Sultan Abdul Hamid II was forced to comply and restore the constitution. In April 1909, conservatives staged a counter-rebellion; the Young Turks suppressed it, deposed the sultan, and installed Mehmed V. Although the revolution attempted to save the empire, it did not prevent its eventual disintegration.",
+        "a": 41.0082,
+        "l": 28.9784,
+        "c": "Politics",
+        "r": "Ottoman Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Bulgarian independence",
+        "s": "On October 5, Prince Ferdinand I of Bulgaria formally declared independence from the Ottoman Empire and proclaimed himself Tsar. The same day, Austria-Hungary announced the annexation of Bosnia and Herzegovina (triggering the Bosnian Crisis). Bulgarian independence broke the territorial arrangements of the 1878 Treaty of Berlin, marking a dramatic shift in the balance of power in the Balkans and setting the stage for the two Balkan Wars that followed.",
+        "a": 42.6977,
+        "l": 23.3219,
+        "c": "Politics",
+        "r": "Bulgaria",
+        "o": "Europe"
+      },
+      {
+        "t": "General Motors founded",
+        "s": "On September 16, William C. Durant founded the General Motors Company (GM) in New Jersey. Durant acquired brands such as Buick, Cadillac, and Oldsmobile, quickly making GM one of the largest automakers in the United States. In 1909, GM bought Cadillac (representing precision engineering), and in 1918 it took control of Chevrolet. GM competed with Ford through differentiation and became an automotive giant.",
+        "a": 40.7128,
+        "l": -74.006,
+        "c": "Economy",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "London Olympics",
+        "s": "From April 27 to October 31, the fourth Summer Olympic Games were held at White City Stadium in London. Twenty-two nations competed, with 2,008 athletes (including 37 women). Originally scheduled for Rome, the games were moved to London after the 1906 eruption of Mount Vesuvius. This edition established the standard marathon distance of 42.195 km (from Windsor Castle to White City Stadium) and introduced winter events (figure skating). Great Britain topped the medal table with 145 medals.",
+        "a": 51.5074,
+        "l": -0.1278,
+        "c": "Sports",
+        "r": "United Kingdom",
+        "o": "Europe"
+      },
+      {
+        "t": "Oil discovered in Persia (Iran)",
+        "s": "On May 26, British explorer William Knox D'Arcy struck oil at Masjed Soleyman in southwestern Persia. It was the first commercial oil field in the Middle East, later developed by the Anglo-Persian Oil Company (predecessor of BP). The oil discovery made Persia a strategic prize and intensified British-Russian rivalry; it also provided a key resource for the British Navy's shift from coal to oil.",
+        "a": 31.9,
+        "l": 49.3,
+        "c": "Economy",
+        "r": "Persia",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1909,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Xuantong Emperor (Aisin Gioro Puyi)",
+        "e": "1st year of the Xuantong reign"
+      }
+    ],
+    "v": [
+      {
+        "t": "Completion of the Beijing-Zhangjiakou Railway",
+        "s": "On October 2, the Beijing-Zhangjiakou Railway, designed and built under the leadership of Zhan Tianyou, officially opened, with a total length of about 201 km. This was the first trunk railway in China entirely surveyed, designed, and constructed by Chinese engineers. The project required traversing the rugged Badaling Mountains and other areas; Zhan Tianyou innovatively designed a zigzag ('people-shaped') line to reduce grades and used vertical shaft excavation to bore the 1,091-meter-long Badaling Tunnel. The railway boosted national confidence and marked Chinese railway engineering as reaching world-class standards.",
+        "a": 40.348,
+        "l": 115.883,
+        "c": "Technology",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Peary claims to reach the North Pole",
+        "s": "On April 6, American explorer Robert Peary, along with Matthew Henson and four Inuit, claimed to have reached the North Pole after a 37-day trek across the ice. Peary had made several previous Arctic expeditions; this time he used a depot-laying method and reached 90°N. However, controversy later arose over the accuracy of his data because of the remarkably fast travel speed. Regardless, Peary is generally credited as the first person to reach the North Pole (Roald Amundsen confirmed it by airship in 1926).",
+        "a": 90,
+        "l": 0,
+        "c": "Technology",
+        "r": "Arctic",
+        "o": "North America"
+      },
+      {
+        "t": "Blériot flies across the English Channel",
+        "s": "On July 25, French aviator Louis Blériot, flying his self-built Blériot XI monoplane, took off from near Calais, France, and flew about 40 km, landing on a meadow near Dover Castle in England after 37 minutes. This was the first crossing of the English Channel by a heavier-than-air aircraft, winning the Daily Mail's £1,000 prize. The flight demonstrated that aircraft could cross bodies of water, greatly advancing aviation.",
+        "a": 51.13,
+        "l": 1.31,
+        "c": "Technology",
+        "r": "France/United Kingdom",
+        "o": "Europe"
+      },
+      {
+        "t": "Founding of the NAACP",
+        "s": "On February 12, the centenary of Abraham Lincoln's birth, the National Association for the Advancement of Colored People (NAACP) was founded in New York by black and white activists including W.E.B. Du Bois and Ida B. Wells. The NAACP aimed to combat racial segregation, lynching, and discrimination through legal means, and to fight for black voting and equal education rights. The organization became the most enduring and influential civil rights organization in the United States, paving the way for the civil rights movement of the 1960s.",
+        "a": 40.7128,
+        "l": -74.006,
+        "c": "Politics",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "Union of South Africa established",
+        "s": "On May 31, Britain merged the Cape Colony, Natal, Transvaal, and Orange Free State into the Union of South Africa, a dominion. The capital cities were divided: Pretoria (administrative), Cape Town (legislative), and Bloemfontein (judicial). The union adopted racial segregation, with the 1913 Natives' Land Act restricting black land ownership. It left the Commonwealth and became a republic in 1961.",
+        "a": -25.7479,
+        "l": 28.2293,
+        "c": "Politics",
+        "r": "South Africa",
+        "o": "Africa"
+      },
+      {
+        "t": "Establishment of provincial advisory bureaus",
+        "s": "On October 14, the Qing court, in accordance with the plan for constitutional preparation, established provincial advisory bureaus in 22 provinces (except Xinjiang) as provincial-level popular advisory bodies. Councilors were elected (with property and education qualifications). The bureaus could discuss provincial affairs and budgets, but lacked real power; nevertheless, they became a legal platform for constitutional monarchists and revolutionaries, and many councilors later joined the Xinhai Revolution.",
+        "a": 32.0603,
+        "l": 118.7969,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Geiger counter invented",
+        "s": "German physicist Hans Geiger, under the guidance of Ernest Rutherford, invented the first alpha particle detector. The device used gas ionization to record individual charged particles, providing a basic tool for nuclear physics experiments. In 1928, Geiger and Walther Müller improved it into the Geiger–Müller counter (commonly known as the Geiger counter), capable of detecting various types of radiation.",
+        "a": 49.487,
+        "l": 8.467,
+        "c": "Technology",
+        "r": "Germany",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1910,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Xuantong Emperor (Aisin Gioro Puyi)",
+        "e": "2nd year of the Xuantong reign"
+      }
+    ],
+    "v": [
+      {
+        "t": "Japan annexes Korea",
+        "s": "On August 22, Japan formally annexed the Korean Empire through the Japan–Korea Annexation Treaty, signed by Japanese Prime Minister Terauchi Masatake and Yi Wan-yong, representing Emperor Sunjong of Korea. Korea became a Japanese colony under the Government-General of Korea (first Governor-General Terauchi). Japan pursued an 'assimilation policy,' banning the Korean language and newspapers, and plundering grain and minerals. Korea remained under Japanese rule until Japan's defeat in 1945.",
+        "a": 37.5665,
+        "l": 126.978,
+        "c": "Politics",
+        "r": "Korea",
+        "o": "Asia"
+      },
+      {
+        "t": "Mexican Revolution breaks out",
+        "s": "On November 20, Francisco I. Madero issued the Plan of San Luis Potosí, calling for an armed uprising to overthrow the long-time dictator Porfirio Díaz (who had ruled for 34 years). Peasant leaders Pancho Villa in the north and Emiliano Zapata in the south led their respective forces in response. In May 1911, Díaz fled into exile in Paris. However, Mexico then fell into a decade-long civil war among warlords, not stabilizing until the Cárdenas reforms of 1934.",
+        "a": 19.4326,
+        "l": -99.1332,
+        "c": "Politics",
+        "r": "Mexico",
+        "o": "North America"
+      },
+      {
+        "t": "Proclamation of the Portuguese Republic",
+        "s": "On October 5, the Portuguese monarchy was overthrown in a revolution, and King Manuel II fled to Britain. The First Portuguese Republic was proclaimed, with Teófilo Braga as interim president. The revolution resulted from the monarchy's authoritarian rule, financial bankruptcy, and the political crisis following the assassination of King Carlos I and the crown prince in 1908. The republic separated church and state and abolished noble titles, but remained politically unstable and fell to a military coup in 1926.",
+        "a": 38.7223,
+        "l": -9.1393,
+        "c": "Politics",
+        "r": "Portugal",
+        "o": "Europe"
+      },
+      {
+        "t": "Return of Halley's Comet",
+        "s": "On April 19, Halley's Comet reached perihelion, and the Earth passed through its tail. The return triggered a global 'comet panic' because a French astronomer predicted in January 1910 that the tail contained cyanide; some people even bought gas masks. The New York Times published debunking articles. The comet had last returned in 1835 (the year of Mark Twain's birth; he predicted he would go with it, and he died on April 21, 1910, the day after perihelion).",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Science",
+        "r": "Global",
+        "o": "Global"
+      },
+      {
+        "t": "International Women's Day established",
+        "s": "In August, the Second International held a women's conference in Copenhagen, Denmark. German Social Democratic leader Clara Zetkin proposed that March 8 be designated as International Women's Day, commemorating the 1857 New York garment workers' strike. The proposal was adopted. In 1975, the United Nations officially recognized it. The first International Women's Day was observed on March 8, 1911, in Austria, Denmark, Germany, and Switzerland.",
+        "a": 55.6761,
+        "l": 12.5683,
+        "c": "Politics",
+        "r": "Denmark",
+        "o": "Europe"
+      },
+      {
+        "t": "Parliamentary petition movement in China",
+        "s": "Constitutional monarchists launched three nationwide parliamentary petition drives in January, June, and October 1910, demanding that the Qing court quickly convene a parliament and form a responsible cabinet. Delegates from provincial advisory bureaus petitioned in Beijing multiple times, with tens of thousands of signatures. In November, the court announced it would shorten the preparatory period for constitutional rule from nine to five years (i.e., a parliament would be convened in 1913), but the constitutionalists were not satisfied. The failure of the petition movement turned many constitutionalists toward revolution, accelerating the fall of the Qing dynasty.",
+        "a": 39.9042,
+        "l": 116.4074,
+        "c": "Politics",
+        "r": "Qing",
+        "o": "Asia"
+      },
+      {
+        "t": "Marie Curie isolates pure radium",
+        "s": "After four years of painstaking work, Marie Curie, in collaboration with André Debierne, obtained pure metallic radium through electrolysis of radium chloride (though later identified as a radium-barium alloy). In 1910, she finally obtained 0.1 gram of pure radium. This achievement led to her sole award of the Nobel Prize in Chemistry in 1911, making her the first person to win Nobel Prizes in two different scientific fields.",
+        "a": 48.8566,
+        "l": 2.3522,
+        "c": "Science",
+        "r": "France",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1911,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "Xuantong Emperor (Aisin Gioro Puyi)",
+        "e": "3rd year of the Xuantong reign"
+      }
+    ],
+    "v": [
+      {
+        "t": "Xinhai Revolution and fall of the Qing dynasty",
+        "s": "In May, the Qing court announced a policy of 'railway nationalization,' forcibly taking over the privately funded Sichuan–Hankou and Guangdong–Hankou railways, which intensified conflicts (Railway Protection Movement). On October 10, revolutionaries in the engineering corps of the New Army in Wuchang fired the first shots and seized control of Wuchang. Provinces quickly responded; by the end of December, 14 provinces had declared independence. On December 29, representatives from 17 provinces elected Sun Yat-sen as Provisional President in Nanjing. On January 1, 1912, the Republic of China was established, and on February 12, the Qing emperor abdicated, ending the 268-year Qing dynasty and more than 2,000 years of imperial rule.",
+        "a": 30.5928,
+        "l": 114.3055,
+        "c": "Politics",
+        "r": "China",
+        "o": "Asia"
+      },
+      {
+        "t": "Rutherford discovers the atomic nucleus",
+        "s": "In March, Ernest Rutherford at the University of Manchester conducted the alpha particle scattering experiment (gold foil experiment). Bombarding gold foil with alpha particles, he found that a small number of particles were deflected at large angles, leading him to deduce the existence of a tiny, dense, positively charged core within the atom, which he named the 'nucleus'. He published his findings in May 1911, proposing the nuclear model of the atom, which laid the foundation for modern nuclear physics.",
+        "a": 53.4808,
+        "l": -2.2426,
+        "c": "Science",
+        "r": "United Kingdom",
+        "o": "Europe"
+      },
+      {
+        "t": "Amundsen reaches the South Pole",
+        "s": "On December 14, Norwegian explorer Roald Amundsen, leading a team of five using sled dogs, succeeded in reaching the South Pole, becoming the first human to do so. They planted the Norwegian flag and left a tent. Amundsen's success was attributed to his use of Inuit dogs, expert skiing techniques, and meticulous supply planning. In contrast, the British team under Scott arrived only on January 17, 1912, and all perished on the return journey.",
+        "a": -90,
+        "l": 0,
+        "c": "Technology",
+        "r": "Antarctica",
+        "o": "Antarctica"
+      },
+      {
+        "t": "Marie Curie wins Nobel Prize in Chemistry",
+        "s": "On December 10, Marie Curie was awarded the Nobel Prize in Chemistry for her discovery of radium and polonium and the isolation of pure radium. She became the first person to win two Nobel Prizes (Physics in 1903). However, before the award, the French Academy of Sciences had refused to elect her as a member due to gender discrimination. She used most of the prize money for research and, during World War I, took X-ray vehicles to the front to save lives.",
+        "a": 59.3293,
+        "l": 18.0686,
+        "c": "Science",
+        "r": "Sweden",
+        "o": "Europe"
+      },
+      {
+        "t": "Italo-Turkish War breaks out",
+        "s": "On September 29, the Kingdom of Italy declared war on the Ottoman Empire to seize Tripolitania (present-day Libya) in North Africa. Italy used aircraft for reconnaissance and bombing (the first such use). The Treaty of Lausanne was signed in October 1912; the Ottomans gave up their claims to Libya, and Italy gained control. The war exposed Ottoman weakness and encouraged the Balkan states, directly leading to the outbreak of the First Balkan War in 1912.",
+        "a": 32.8872,
+        "l": 13.1913,
+        "c": "Military",
+        "r": "Libya",
+        "o": "Africa"
+      },
+      {
+        "t": "Second Moroccan Crisis (Agadir Crisis)",
+        "s": "On July 1, Germany sent the gunboat SMS Panther to the port of Agadir, Morocco, ostensibly to protect German interests but actually to challenge French control of Morocco. Britain strongly supported France and threatened to declare war on Germany. On November 4, France and Germany reached an agreement: France ceded part of French Equatorial Africa to Germany, and Germany recognized French protection over Morocco. The crisis deepened Anglo-German antagonism and prompted Germany to accelerate its military expansion.",
+        "a": 30.4278,
+        "l": -9.5981,
+        "c": "Diplomacy",
+        "r": "Morocco",
+        "o": "Africa"
+      },
+      {
+        "t": "Standard Oil broken up",
+        "s": "On May 15, the U.S. Supreme Court ruled that Standard Oil (owned by Rockefeller) must be dissolved within six months, under the Sherman Antitrust Act. Standard Oil had monopolized over 90% of U.S. oil refining. Ultimately, Standard Oil was broken into 34 independent companies, including Exxon, Mobil, and Chevron. The case became a landmark in antitrust enforcement.",
+        "a": 38.8951,
+        "l": -77.0364,
+        "c": "Economy",
+        "r": "United States",
+        "o": "North America"
+      }
+    ]
+  },
+  {
+    "y": 1912,
+    "d": [
+      {
+        "i": "qing",
+        "n": "Qing",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Establishment of the Republic of China",
+        "s": "On January 1, Sun Yat-sen was sworn in as Provisional President of the Republic of China in Nanjing, proclaiming the establishment of the Republic. The Gregorian calendar was adopted, with 1912 as the first year of the Republic, and the Five-Colored Flag as the national flag. On January 3, a provisional government was formed, issuing a series of reform decrees (hair cutting, abolition of foot binding, ban on opium, etc.). On February 12, the Qing emperor abdicated; on February 15, the Provisional Senate elected Yuan Shikai as the second Provisional President; he took office on March 10, and on March 11 promulgated the Provisional Constitution of the Republic of China.",
+        "a": 32.0603,
+        "l": 118.7969,
+        "c": "Politics",
+        "r": "China",
+        "o": "Asia"
+      },
+      {
+        "t": "Sinking of the Titanic",
+        "s": "On April 10, the White Star Line's RMS Titanic departed Southampton for New York on its maiden voyage, carrying 2,224 people. On April 14 at 23:40, about 600 km south of Newfoundland, it struck an iceberg at a speed of 22 knots, tearing a 90-meter gash in the starboard side. Lifeboats could only accommodate 1,178 people (only 710 survived), and the ship's design had a flaw (watertight bulkheads did not extend high enough). At 2:20 on April 15, the ship broke apart and sank; about 1,514 people perished. Subsequently, international conventions mandated sufficient lifeboats for all, 24-hour radio watch, and the establishment of an International Ice Patrol.",
+        "a": 41.7325,
+        "l": -49.9469,
+        "c": "Society",
+        "r": "Atlantic Ocean",
+        "o": "North America"
+      },
+      {
+        "t": "Woodrow Wilson elected President of the United States",
+        "s": "On November 5, Democratic candidate Woodrow Wilson defeated incumbent President Taft and former President Theodore Roosevelt (Progressive Party) to become the 28th President of the United States. Wilson proposed a 'New Freedom' policy, advocating tariff reduction, banking reform (the Federal Reserve Act of 1913 created the Federal Reserve), and antitrust enforcement. He later proposed the Fourteen Points and advocated for the League of Nations, earning the Nobel Peace Prize in 1919.",
+        "a": 38.9072,
+        "l": -77.0369,
+        "c": "Politics",
+        "r": "United States",
+        "o": "North America"
+      },
+      {
+        "t": "Lenin launches Pravda",
+        "s": "On April 22, the Bolsheviks led by Lenin launched Pravda (Truth) as a party newspaper in St. Petersburg, Russia. The newspaper spread Marxism among workers and called for the overthrow of the Tsar. After World War I broke out, the Tsarist government shut down Pravda in July 1914; it later resumed publication under different names. After the February Revolution of 1917, it regained its original name and became the official organ of the Communist Party of the Soviet Union.",
+        "a": 59.9343,
+        "l": 30.3351,
+        "c": "Culture",
+        "r": "Russia",
+        "o": "Europe"
+      },
+      {
+        "t": "First Balkan War breaks out",
+        "s": "On October 8, Montenegro declared war on the Ottoman Empire, followed by Bulgaria, Serbia, and Greece on October 18, forming the Balkan League. The allies quickly defeated the Ottoman army, and by the end of November had occupied most of Macedonia and Albania. The Treaty of London was signed in May 1913, with the Ottomans losing almost all of their European territory (retaining only the vicinity of Constantinople). However, disputes over the division led to the Second Balkan War in June 1913.",
+        "a": 42.6977,
+        "l": 23.3219,
+        "c": "Military",
+        "r": "Balkans",
+        "o": "Europe"
+      },
+      {
+        "t": "Scott's Antarctic expedition perishes",
+        "s": "In November 1911, Robert Falcon Scott led a British expedition to the South Pole, using Siberian ponies and motor sledges (both failed). On January 17, 1912, they reached the Pole only to find that Amundsen had beaten them by a month. On the return journey, they encountered blizzards and supply shortages. On March 29, Scott and his last two companions died just 18 km from a supply depot. Their diaries were found by a rescue party eight months later, embodying heroic endurance.",
+        "a": -82.862,
+        "l": 135,
+        "c": "Technology",
+        "r": "Antarctica",
+        "o": "Antarctica"
+      },
+      {
+        "t": "Laue discovers X-ray diffraction",
+        "s": "In April, German physicist Max von Laue proposed that X-rays would undergo diffraction when passing through crystals. The experiment was carried out by Friedrich and Knipping at the University of Munich, observing diffraction spots on a zinc sulfide screen. This proved the wave nature of X-rays and laid the foundation for crystal structure analysis. Laue received the Nobel Prize in Physics in 1914.",
+        "a": 48.1495,
+        "l": 11.5783,
+        "c": "Science",
+        "r": "Germany",
+        "o": "Europe"
+      },
+      {
+        "t": "Kuomintang founded",
+        "s": "On August 25, the Tongmenghui merged with several small parties, including the United Republic Party and the National Public Party, to form the Kuomintang (Nationalist Party) in Beijing. Sun Yat-sen was elected chairman, and Song Jiaoren as acting chairman. The Kuomintang won the majority in both houses of the first National Assembly, and Song Jiaoren was preparing to form a cabinet. However, Song was assassinated in March 1913, leading to the Second Revolution.",
+        "a": 39.9042,
+        "l": 116.4074,
+        "c": "Politics",
+        "r": "China",
+        "o": "Asia"
+      }
+    ]
+  }
+]

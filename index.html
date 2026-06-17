@@ -17,14 +17,15 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://shilu.org/">
   <meta property="og:locale" content="zh_CN">
-  <meta property="og:site_name" content="实录 shilu.org">
-  <meta property="og:image" content="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E📜%3C/text%3E%3C/svg%3E">
-  <meta property="og:image:width" content="100">
-  <meta property="og:image:height" content="100">
+  <meta property="og:locale:alternate" content="en_US">
+  <meta property="og:site_name" content="实录 Shilu">
+  <meta property="og:image" content="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-180,-85,180,85&amp;size=1200,630&amp;format=png32&amp;f=image">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="实录 shilu.org - 地球硅基文明年表">
   <meta name="twitter:description" content="跨越11512年的人类文明年表，交互式地图展示全球历史事件。">
-  <meta name="twitter:image" content="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E📜%3C/text%3E%3C/svg%3E">
+  <meta name="twitter:image" content="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-180,-85,180,85&amp;size=1200,630&amp;format=png32&amp;f=image">
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E📜%3C/text%3E%3C/svg%3E">
   <link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E📜%3C/text%3E%3C/svg%3E">
   <script type="application/ld+json">[{
@@ -76,11 +77,8 @@
   }]</script>
   <link rel="canonical" href="https://shilu.org/">
   <link rel="preconnect" href="https://unpkg.com" crossorigin>
-  <link rel="preload" as="style" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"></noscript>
-  <link rel="preload" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" as="script" crossorigin="anonymous">
-  <link rel="preload" href="/data/content-years.json" as="fetch" crossorigin="anonymous">
-  <link rel="stylesheet" href="style.css?v=20260615">
+  <link rel="preload" href="content-years.json" as="fetch" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css?v=20260616">
   <link rel="sitemap" type="application/xml" href="/sitemap.xml">
 </head>
 <body>
@@ -88,25 +86,25 @@
 <noscript>
   <div style="max-width:800px;margin:40px auto;padding:20px;font-family:'PingFang SC','Microsoft YaHei',sans-serif;color:#333;">
     <h1 style="color:#0969da;">📜 实录 shilu.org</h1>
-    <p>跨越11512年的人类文明历史年表 — 交互式地球文明年表，覆盖公元前9600年至公元1912年间的重大历史事件。</p>
+    <p>跨越11512年的人类文明历史年表 — 交互式地球文明年表，覆盖公元前9600年至公元1912年间的重大历史事件。An interactive 11,512-year timeline of human civilization from 9600 BC to AD 1912.</p>
     <p style="background:#fff3cd;padding:12px;border-radius:8px;border:1px solid #ffc107;">
       ⚠️ 您的浏览器未启用 JavaScript。本站为交互式应用，建议启用 JavaScript 以获得完整体验。
-      您仍可浏览以下基本内容：
+      Your browser does not have JavaScript enabled. Please enable JavaScript for the full experience.
     </p>
-    <h2>导航</h2>
+    <h2>导航 / Navigation</h2>
     <ul>
-      <li><a href="?page=home">首页（年表）</a></li>
-      <li><a href="?page=events">全站事件列表</a></li>
-      <li><a href="?page=quiz">历史趣味问答</a></li>
+      <li><a href="?page=home">首页 / Home（年表 / Timeline）</a></li>
+      <li><a href="?page=events">全站事件列表 / All Events</a></li>
+      <li><a href="?page=game">历史趣味问答 / History Quiz</a></li>
     </ul>
-    <h2>快速跳转年份</h2>
+    <h2>快速跳转年份 / Quick Jump</h2>
     <ul>
-      <li><a href="?page=home&year=-2070">夏朝建立（约前2070年）</a></li>
-      <li><a href="?page=home&year=-221">秦统一六国（前221年）</a></li>
-      <li><a href="?page=home&year=618">唐朝建立（618年）</a></li>
-      <li><a href="?page=home&year=960">北宋建立（960年）</a></li>
-      <li><a href="?page=home&year=1644">清朝建立（1644年）</a></li>
-      <li><a href="?page=home&year=1912">清朝灭亡（1912年）</a></li>
+      <li><a href="?page=home&year=-2070">夏朝建立 / Xia Dynasty (c. 2070 BC)</a></li>
+      <li><a href="?page=home&year=-221">秦统一六国 / Qin Unification (221 BC)</a></li>
+      <li><a href="?page=home&year=618">唐朝建立 / Tang Dynasty (618 AD)</a></li>
+      <li><a href="?page=home&year=960">北宋建立 / Northern Song (960 AD)</a></li>
+      <li><a href="?page=home&year=1644">清朝建立 / Qing Dynasty (1644 AD)</a></li>
+      <li><a href="?page=home&year=1912">清朝灭亡 / Qing Fall (1912 AD)</a></li>
     </ul>
   </div>
 </noscript>
@@ -116,9 +114,10 @@
       <div id="rule-quote" class="header__quote"></div>
       <div class="header__actions">
         <a href="?page=events" class="nav-link" title="全站事件列表">📋</a>
-        <a href="?page=quiz" class="nav-link" title="历史趣味问答">🎯</a>
+        <a href="?page=game" class="nav-link" title="历史趣味问答">🎯</a>
         <button id="search-btn" class="search-btn icon-btn home-only" title="搜索事件">🔍</button>
         <button id="theme-toggle" class="theme-toggle icon-btn" title="明暗切换">🌙</button>
+        <button id="lang-switch" class="lang-switch">EN</button>
         <button id="shortcut-btn" class="shortcut-btn icon-btn home-only" title="键盘快捷键">⌨</button>
       </div>
     </header>
@@ -167,11 +166,13 @@
             <div class="map-events__layer-toggle">
               <button id="layer-satellite" class="layer-btn active">卫星</button>
               <button id="layer-street" class="layer-btn">街道</button>
+              <button id="layer-historic" class="layer-btn">历史</button>
             </div>
           </div>
           <div id="event-detail-panel" class="event-detail hidden">
             <div class="event-detail__header">
               <h3 id="event-detail-title" class="event-detail__title"></h3>
+              <button id="share-detail-btn" class="share-btn icon-btn" title="分享卡片">📤</button>
               <button id="event-detail-close" class="event-detail__close icon-btn">✕</button>
             </div>
             <div class="event-detail__body">
@@ -220,74 +221,120 @@
       <div class="detail-header-bar">
         <a href="javascript:history.back()" class="back-link">← 返回</a>
         <h1 class="detail-h1">事件详情</h1>
+        <button id="detail-page-share-btn" class="share-btn icon-btn" title="分享卡片">📤</button>
       </div>
       <div class="page-content-inner">
         <div id="detail-loading" class="page-loading"><div class="spinner"></div><span>加载中...</span></div>
         <div id="detail-error" class="detail__error hidden"><p class="no-match">未找到该事件</p></div>
         <div id="detail-content" class="detail__content hidden">
-          <div class="event-year detail__year" id="detail-year-display"></div>
-          <div class="event-title detail__title" id="detail-title-display"></div>
-          <div class="event-tags detail__tags" id="detail-tags"></div>
-          <div class="event-description detail__desc" id="detail-desc-text"></div>
-          <div class="dynasty-info detail__dynasty hidden" id="detail-dynasty">
-            <h3>所属朝代</h3>
-            <p id="detail-dynasty-text" class="detail__dynasty-text"></p>
+          <div class="detail__layout">
+            <div class="detail__map-container">
+              <div id="detail-map" class="detail__map"></div>
+              <div class="map-events__layer-toggle">
+                <button id="dl-satellite" class="layer-btn active">卫星</button>
+                <button id="dl-street" class="layer-btn">街道</button>
+                <button id="dl-historic" class="layer-btn">历史</button>
+              </div>
+            </div>
+            <div class="detail__info">
+              <div class="event-year detail__year" id="detail-year-display"></div>
+              <div class="event-title detail__title" id="detail-title-display"></div>
+              <div class="event-tags detail__tags" id="detail-tags"></div>
+              <div class="event-description detail__desc" id="detail-desc-text"></div>
+              <div class="dynasty-info detail__dynasty hidden" id="detail-dynasty">
+                <h3 id="detail-dynasty-heading">所属朝代</h3>
+                <p id="detail-dynasty-text" class="detail__dynasty-text"></p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </div>
 
-    <!-- ============ PAGE: QUIZ ============ -->
-    <div id="page-quiz" class="page page--quiz hidden">
+    <!-- ============ PAGE: GAME ============ -->
+    <div id="page-game" class="page page--game hidden">
       <div class="page-content-inner">
-        <div id="quiz-loading" class="page-loading"><div class="spinner"></div><span>加载全站事件数据中...</span></div>
-
-        <div id="quiz-game" class="quiz__game hidden">
-          <div class="quiz__level-section">
-            <div class="quiz__level-title">当前修为</div>
-            <div class="quiz__level-display">
-              <span id="quiz-icon" class="quiz__icon">🧘</span>
-              <span id="quiz-name" class="quiz__name">炼气一层</span>
-            </div>
-            <div class="quiz__level-progress">
-              <span id="quiz-pct" class="quiz__pct">0%</span>
-              <div class="quiz__bar-bg"><div id="quiz-bar" class="quiz__bar"></div></div>
-            </div>
+        <div class="game-center__header">
+          <h2 class="game-center__title">趣味历史游戏</h2>
+        </div>
+        <!-- Card grid (landing page) -->
+        <div id="game-cards" class="game-cards">
+          <div class="game-card" data-game="quiz">
+            <div class="game-card__icon">🧠</div>
+            <div class="game-card__title">历史问答</div>
+            <div class="game-card__desc">选择正确年份或事件，提升修为等级</div>
+            <div class="game-card__action"></div>
           </div>
-
-          <div class="quiz__qsection">
-            <div id="quiz-qtype" class="quiz__qtype"></div>
-            <div id="quiz-qtext" class="quiz__qtext"></div>
-            <div id="quiz-options" class="quiz__options"></div>
-            <div id="quiz-feedback" class="quiz__feedback"></div>
-            <button id="quiz-next" class="quiz__next">下一题</button>
+          <div class="game-card" data-game="map">
+            <div class="game-card__icon">🗺️</div>
+            <div class="game-card__title">地图定位</div>
+            <div class="game-card__desc">根据事件名称，在地图上点击猜测发生地点</div>
+            <div class="game-card__action"></div>
           </div>
-
-          <div class="quiz__reset-section">
-            <button id="quiz-reset" class="quiz__reset">重置修为</button>
+          <div class="game-card" data-game="sort">
+            <div class="game-card__icon">📅</div>
+            <div class="game-card__title">时间排序</div>
+            <div class="game-card__desc">将打乱的事件按时间顺序排列，挑战满分</div>
+            <div class="game-card__action"></div>
           </div>
-          <div id="quiz-bg" class="quiz__bg">
-            <p class="quiz__bg-text">后台持续加载中，不影响答题...</p>
+          <div class="game-card" data-game="match">
+            <div class="game-card__icon">🔗</div>
+            <div class="game-card__title">同期匹配</div>
+            <div class="game-card__desc">找出同一时期发生的中外历史事件</div>
+            <div class="game-card__action"></div>
           </div>
         </div>
+        <!-- Game panels (hidden by default) -->
+        <div id="game-panel-quiz" class="game-panel hidden">
+          <div class="game-panel-header">
+            <button class="game-back-btn" data-back="quiz">← 返回</button>
+            <button class="game-share-btn" data-tab="quiz">📤</button>
+          </div>
+          <div id="quiz-loading" class="page-loading"><div class="spinner"></div><span>加载全站事件数据中...</span></div>
+          <div id="quiz-game" class="quiz__game hidden">
+            <div class="quiz__level-section">
+              <div class="quiz__level-title">当前修为</div>
+              <div class="quiz__level-display">
+                <span id="quiz-icon" class="quiz__icon">🧘</span>
+                <span id="quiz-name" class="quiz__name">炼气一层</span>
+              </div>
+              <div class="quiz__level-progress">
+                <span id="quiz-pct" class="quiz__pct">0%</span>
+                <div class="quiz__bar-bg"><div id="quiz-bar" class="quiz__bar"></div></div>
+              </div>
+            </div>
+            <div class="quiz__qsection">
+              <div id="quiz-qtype" class="quiz__qtype"></div>
+              <div id="quiz-qtext" class="quiz__qtext"></div>
+              <div id="quiz-options" class="quiz__options"></div>
+              <div id="quiz-feedback" class="quiz__feedback"></div>
+              <button id="quiz-next" class="quiz__next">下一题</button>
+            </div>
+            <div class="quiz__reset-section">
+              <button id="quiz-reset" class="quiz__reset">重置修为</button>
+            </div>
+          </div>
+        </div>
+        <div id="game-panel-map" class="game-panel hidden">
+          <button class="game-back-btn" data-back="map">← 返回</button>
+        </div>
+        <div id="game-panel-sort" class="game-panel hidden">
+          <button class="game-back-btn" data-back="sort">← 返回</button>
+        </div>
+        <div id="game-panel-match" class="game-panel hidden">
+          <button class="game-back-btn" data-back="match">← 返回</button>
+        </div>
+        <div id="game-loading" class="page-loading"><div class="spinner"></div><span>加载游戏数据...</span></div>
       </div>
     </div>
 
   <footer class="copyright">
-      <span>&copy; 2026 实录 shilu.org 地球硅基文明的7277个闪耀时刻</span>
+      <span class="footer-prefix"></span><span id="footer-count">7275</span><span class="footer-suffix"></span>
     </footer>
 
     <div id="err-toast" class="err-toast hidden"><p id="err-message" class="err-toast__message"></p></div>
   </div>
 
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" defer></script>
   <script type="module" src="js/app.js"></script>
-<script>
-  if ('serviceWorker' in navigator) {
-    window.addEventListener('load', () => {
-      navigator.serviceWorker.register('/sw.js').catch(() => {});
-    });
-  }
-</script>
 </body>
 </html>

@@ -1,0 +1,2868 @@
+[
+  {
+    "y": -300,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Epicurus founded his school in Athens",
+        "s": "Epicurus established his philosophical school in Athens, advocating the pursuit of mental tranquility and the avoidance of pain, believing pleasure to be the highest good in life. He had previously taught in Asia Minor, and in 306 BCE moved to Athens, purchasing a garden, which led to his school being known as the 'Garden School'. Epicurus' atomist ideas inherited from Democritus, but added the concepts of the mortal soul and non-intervention of gods in human affairs, providing important spiritual comfort during the Hellenistic era.",
+        "a": 37.97,
+        "l": 23.72,
+        "c": "Culture",
+        "r": "Athens",
+        "o": "Europe"
+      },
+      {
+        "t": "Euclid completed 'The Elements' in Alexandria",
+        "s": "Invited by Ptolemy I to teach at the Musaeum of Alexandria, Euclid completed the thirteen books of 'The Elements'. Starting from five postulates and five common notions, he used strict logical deduction to derive 467 propositions, constructing the first axiomatic mathematical system. This work became a model for later mathematical and scientific theories, used as a textbook in the West for two thousand years.",
+        "a": 31.2,
+        "l": 29.92,
+        "c": "Technology",
+        "r": "Egypt",
+        "o": "Africa"
+      },
+      {
+        "t": "Qin captured the Xincheng region of Chu",
+        "s": "King Zhaoxiang of Qin sent General Bai Qi (not yet famous at the time) to lead an attack on Chu, capturing strategic areas such as Xincheng (present-day Yichuan, Henan). This military operation followed prolonged espionage and diplomatic deception between Qin and Chu, further compressing Chu's western defenses and creating conditions for Bai Qi's later capture of Ying, Chu's capital.",
+        "a": 34.3,
+        "l": 112.1,
+        "c": "Military",
+        "r": "Qin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -299,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "King Zhaoxiang of Qin invited King Huai of Chu to a meeting at Wuguan and detained him",
+        "s": "King Zhaoxiang of Qin wrote to King Huai of Chu, proposing a meeting at Wuguan to renew friendly relations. Despite Qu Yuan's advice, King Huai went and was detained by Qin forces, then taken to Xianyang, where he was forced to cede Wu Commandery and Qianzhong Commandery. King Huai refused and was imprisoned, eventually dying in Qin. This incident led to the complete rupture between Chu and Qin, reducing Chu to a second-rate state.",
+        "a": 33.6,
+        "l": 110.9,
+        "c": "Politics",
+        "r": "Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome concluded a peace treaty with the Samnites",
+        "s": "After prolonged attrition during the Second Samnite War, Rome and the Samnites signed a peace treaty, temporarily ceasing hostilities. Rome used the peace period to rebuild its alliance system and establish colonies in Latium, building strength for the eventual conquest of the Samnites.",
+        "a": 41.5,
+        "l": 14.5,
+        "c": "Diplomacy",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -298,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Third Samnite War broke out",
+        "s": "Rome officially launched the Third Samnite War after the Samnites allied with the Etruscans and Gauls against Rome. Roman consuls led four legions into Samnium, engaging in fierce battles around the Caudine Forks, the war deciding hegemony over central Italy.",
+        "a": 41.2,
+        "l": 14.3,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Maurya Empire consolidated its rule",
+        "s": "Emperor Bindusara continued expanding Mauryan territory, conquering parts of the Deccan plateau southward and pressuring Hellenistic kingdoms. The empire's administrative system and standing army were further refined during this period, laying the foundation for Ashoka's reign.",
+        "a": 23.0,
+        "l": 77.0,
+        "c": "Politics",
+        "r": "Maurya Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -297,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Seleucus I consolidated the eastern part of the empire",
+        "s": "Seleucus I successfully put down separatist forces in the east and established Hellenistic cities such as Antioch to strengthen control over Mesopotamia and Persia. He allied with the Maurya Empire, acquiring war elephants and enhancing his military strength, preparing for future rivalry with Ptolemaic Egypt.",
+        "a": 36.2,
+        "l": 36.8,
+        "c": "Politics",
+        "r": "Seleucid Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -296,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome defeated the Samnite-Gallic联军",
+        "s": "The Roman army achieved a major victory during the Third Samnite War, routing the combined Samnite-Gallic force in Campania. Rome thus gained control over most of central Italy, and the Samnites were forced to retreat to the mountains.",
+        "a": 41.2,
+        "l": 14.1,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -295,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Sentinum: Rome decisive victory in central Italy",
+        "s": "In the decisive battle of the Third Samnite War, Roman forces fought fiercely against a combined army of Samnites, Gauls, and Etruscans at Sentinum. The Roman legions, with excellent coordination between cavalry and infantry, won a great victory, and the Gallic chief was killed. After this battle, Rome completely dismantled the anti-Roman alliance, the Etruscans sued for peace, and Samnite power declined.",
+        "a": 43.5,
+        "l": 12.8,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Hellenistic art developed a new style: Pergamene sculpture",
+        "s": "The Kingdom of Pergamon began building its acropolis, with a sculptural style characterized by intense drama and emotional expression, exemplified by works like 'The Dying Gaul' vividly depicting the suffering of the defeated. This 'Hellenistic Baroque' style marked a shift from classical idealism to realism and tragic themes in Greek art.",
+        "a": 39.1,
+        "l": 27.1,
+        "c": "Culture",
+        "r": "Pergamon",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -294,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Demetrius I seized the Macedonian throne",
+        "s": "After defeating other Diadochi, Demetrius I killed the Macedonian king Antipater II and proclaimed himself king. He built a powerful fleet and army, ambitiously attempting to restore Alexander's empire, but his tyranny and overexpansion led to widespread rebellion and desertion.",
+        "a": 40.6,
+        "l": 22.9,
+        "c": "Politics",
+        "r": "Kingdom of Macedon",
+        "o": "Europe"
+      },
+      {
+        "t": "Celtic La Tène culture spread across Central Europe",
+        "s": "The La Tène culture of the Celts spread widely from Central Europe to Western and Eastern Europe, with rapid development in iron smelting and decorative arts. Elaborate grave goods in aristocratic burials indicate increased social stratification, and the migratory wave foreshadowed future invasions of the Balkans and Italy.",
+        "a": 48.0,
+        "l": 8.0,
+        "c": "Culture",
+        "r": "Celts",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -293,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Yique: Bai Qi routed the allied forces of Han and Wei",
+        "s": "The Qin left chief Bai Qi led his army to meet the allied forces of Han, Wei, and Eastern Zhou at Yique (present-day Longmen, Luoyang, Henan). Bai Qi concentrated his forces to first attack the weaker Wei army, and after its collapse, the Han army also crumbled. The Qin army beheaded 240,000 enemies and captured Yique and five cities. This battle opened the eastern passage for Qin, and the elite forces of Han and Wei were virtually annihilated.",
+        "a": 34.5,
+        "l": 112.5,
+        "c": "Military",
+        "r": "Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome founded the colony of Venusia",
+        "s": "To control the Adriatic coast and monitor remaining Samnite forces, Rome established a Latin colony at Venusia (modern Venosa), settling 3,000 colonists. The colonial policy became an important means for Rome to consolidate conquered territories.",
+        "a": 40.9,
+        "l": 15.8,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -292,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Demetrius I consolidated power in Macedon",
+        "s": "Demetrius I suppressed rebellions in Thebes and other Greek city-states, forcing them to accept pro-Macedonian oligarchic regimes. He stationed garrisons at Corinth and Chalcis, controlling key isthmuses in Greece, but his tyrannical rule aroused widespread hatred.",
+        "a": 38.3,
+        "l": 23.3,
+        "c": "Politics",
+        "r": "Kingdom of Macedon",
+        "o": "Europe"
+      },
+      {
+        "t": "Ptolemy I stabilized internal affairs in Egypt",
+        "s": "Ptolemy I completed the annexation of Cyrenaica and reformed Egypt's tax and administrative systems, dividing land into royal and temple lands. He promoted Alexandria as the academic center of the Hellenistic world.",
+        "a": 31.2,
+        "l": 29.9,
+        "c": "Politics",
+        "r": "Ptolemaic Egypt",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": -291,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Maurya Empire annexed part of Kalinga",
+        "s": "Emperor Bindusara continued his southern campaign, annexing parts of Kalinga on the east coast. The region was rich in gold and gemstone trade, but its fierce resistance led to a brutal war, an experience that influenced Ashoka's later conquest of Kalinga and his subsequent remorse.",
+        "a": 20.0,
+        "l": 85.0,
+        "c": "Military",
+        "r": "Maurya Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Demetrius I besieged Thebes",
+        "s": "Thebes revolted against Demetrius I's rule, and Demetrius led a prolonged siege. After a year of encirclement, he broke into the city, harshly suppressed the rebels, and again stationed troops, but Macedonian rule in Greece was already shaky due to tyranny.",
+        "a": 38.3,
+        "l": 23.3,
+        "c": "Military",
+        "r": "Kingdom of Macedon",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -290,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Third Samnite War ended, Rome gained full control of central Italy",
+        "s": "The Samnites, unable to continue fighting, signed a peace treaty with Rome, accepting Roman hegemony and becoming allies. Rome thus controlled central Italy, establishing a system of alliances led by Rome, strengthening its control through road construction and colonial foundations.",
+        "a": 41.5,
+        "l": 14.0,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Lighthouse of Alexandria (Pharos) began construction",
+        "s": "Ptolemy I ordered the construction of a giant lighthouse on the island of Pharos at the harbor of Alexandria, designed by architect Sostratus. The lighthouse stood about 120 meters tall, using mirrors to reflect firelight, becoming one of the Seven Wonders of the Ancient World, ensuring safe navigation.",
+        "a": 31.21,
+        "l": 29.88,
+        "c": "Engineering",
+        "r": "Ptolemaic Egypt",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": -289,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Agathocles died, civil strife in Syracuse",
+        "s": "Agathocles, the霸主of Sicily, died. He had once been king and controlled most of Sicily and southern Italy. After his death, Syracuse fell into civil strife and power struggles, and Carthage took the opportunity to reassert its influence over the island of Sicily.",
+        "a": 37.1,
+        "l": 15.3,
+        "c": "Politics",
+        "r": "Syracuse",
+        "o": "Europe"
+      },
+      {
+        "t": "Rome suppressed remaining Samnite resistance",
+        "s": "Although the Third Samnite War had ended, some Samnite tribes still resisted in the mountains. Rome sent troops to suppress them and relocated some inhabitants to the plains to weaken their ability to resist.",
+        "a": 41.3,
+        "l": 14.1,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -288,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "King Zhaoxiang of Qin proclaimed himself 'Western Emperor', King Min of Qi 'Eastern Emperor'",
+        "s": "To break the Qin-Chu alliance, Qin proposed that King Zhaoxiang of Qin call himself 'Western Emperor' and honor King Min of Qi as 'Eastern Emperor'. Qi accepted the title but soon revoked it, and Qin followed suit. This farce of imperial titles demonstrated the ambitions of the regional lords and the intrigues of the School of Diplomacy.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome established forts on the Gallic border",
+        "s": "To defend against Gauls from the Po Valley moving south, Rome built several military outposts in the northern Apennines and established legionary staging areas. This prepared for the eventual conquest of Cisalpine Gaul.",
+        "a": 43.8,
+        "l": 11.3,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -287,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome passed the Lex Hortensia, granting legal equality to plebeians",
+        "s": "Roman plebeians, facing debt issues, seceded to the Sacred Mount. Through mediation by dictator Hortensius, the Senate passed the Lex Hortensia, which stipulated that resolutions of the Plebeian Council were binding on all citizens, including patricians. This marked the end of the Struggle of the Orders in Rome.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Archimedes was born in Syracuse",
+        "s": "Archimedes, the greatest mathematician and physicist of ancient Greece, was born in Syracuse, Sicily. He later studied in Alexandria and returned to Syracuse, serving King Hiero II. He discovered the law of buoyancy, the principle of the lever, designed the Archimedes screw, and his method of exhaustion was a precursor to calculus.",
+        "a": 37.07,
+        "l": 15.29,
+        "c": "Science",
+        "r": "Syracuse",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -286,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome passed the Lex Aquilia",
+        "s": "Roman plebeian tribune Aquilius promoted the Lex Aquilia, which systematically regulated liability for unlawful damage to another's property, including compensation for harm to slaves and four-footed livestock. This law became an important foundation of tort law in Roman private law.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "King Pyrrhus of Epirus prepared to invade Italy",
+        "s": "Tarentum, facing conflict with Rome, sent envoys to seek aid from King Pyrrhus of Epirus. Pyrrhus planned to assemble a strong army including infantry, cavalry, and war elephants, aiming to establish an empire in the western Mediterranean.",
+        "a": 39.5,
+        "l": 20.5,
+        "c": "Military",
+        "r": "Epirus",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -285,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Ptolemy I died, Ptolemy II ruled alone",
+        "s": "Ptolemy I died in Alexandria at about age 84. His son Ptolemy II succeeded to the throne, continuing to strengthen centralization, promote cultural and economic development, and launching the First Syrian War against the Seleucid Empire.",
+        "a": 31.2,
+        "l": 29.9,
+        "c": "Politics",
+        "r": "Ptolemaic Egypt",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": -284,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Yue Yi led a five-state coalition against Qi",
+        "s": "King Zhao of Yan, seeking revenge for Qi's intervention during Yan's internal strife, appointed Yue Yi as supreme commander and formed a five-state coalition (Yan, Qin, Zhao, Wei, Han) with Yan forces as the main army to attack Qi. The coalition defeated the main Qi army west of the Ji River. Yue Yi sent back the other states' armies and pursued with his own Yan troops deep into Qi territory.",
+        "a": 36.8,
+        "l": 117.0,
+        "c": "Military",
+        "r": "Yan",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -283,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Tian Dan defended Jimo, prepared counterattack",
+        "s": "Yan forces captured over seventy cities of Qi, leaving only Ju and Jimo uncaptured. Tian Dan was elected commander of Jimo. He fortified the city and engaged in psychological warfare, using a stratagem to have King Yan replace Yue Yi, preparing for the restoration.",
+        "a": 36.4,
+        "l": 120.3,
+        "c": "Military",
+        "r": "Qi",
+        "o": "Asia"
+      },
+      {
+        "t": "Diplomatic contacts between Rome and Epirus",
+        "s": "Conflict between Rome and Tarentum escalated. Pyrrhus sent envoys to warn Rome not to interfere in the affairs of Greek city-states in Italy. Rome refused, and war was imminent.",
+        "a": 41.0,
+        "l": 16.0,
+        "c": "Diplomacy",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -282,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Ptolemy II formally acceded, developed navy",
+        "s": "Ptolemy II formally took power independently. He began assembling a large fleet and controlling multiple islands and ports in the eastern Mediterranean. His naval construction provided the strength for Ptolemaic Egypt to maintain maritime hegemony.",
+        "a": 31.2,
+        "l": 29.9,
+        "c": "Politics",
+        "r": "Ptolemaic Egypt",
+        "o": "Africa"
+      },
+      {
+        "t": "Kingdom of Pontus rose in Anatolia",
+        "s": "King Mithridates I of Pontus took advantage of the chaos of the Diadochi wars to expand his territory and establish a Hellenistic dynasty. Pontus later became a major rival of Rome in the East.",
+        "a": 41.5,
+        "l": 35.0,
+        "c": "Politics",
+        "r": "Kingdom of Pontus",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -281,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Seleucus I assassinated, Antiochus I succeeded",
+        "s": "Seleucus I was assassinated by Ptolemy Keraunos, son of Ptolemy I, while on campaign in Macedon. The eastern satrap Antiochus I hurried back to succeed, but the empire showed signs of fragmentation.",
+        "a": 40.0,
+        "l": 26.5,
+        "c": "Politics",
+        "r": "Seleucid Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Pyrrhic War officially broke out",
+        "s": "Pyrrhus landed in southern Italy with about 25,000 infantry, 3,000 cavalry, and 20 war elephants. Tarentum handed over military command to Pyrrhus, who then declared war on Rome, starting the Pyrrhic War.",
+        "a": 40.5,
+        "l": 17.2,
+        "c": "Military",
+        "r": "Epirus",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -280,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Heraclea: Pyrrhus won his first victory",
+        "s": "Pyrrhus fought fiercely at Heraclea (in southern Italy) against the legions commanded by Roman consul Valerius. Pyrrhus used war elephants to break the Roman infantry line, and Roman cavalry horses bolted. Pyrrhus won but suffered heavy casualties, reportedly saying, 'One more such victory and I am lost.'",
+        "a": 40.2,
+        "l": 16.7,
+        "c": "Military",
+        "r": "Epirus",
+        "o": "Europe"
+      },
+      {
+        "t": "Tian Dan used the 'Fire Oxen Formation' to defeat Yan and recover lost territory",
+        "s": "Tian Dan gathered over a thousand oxen in Jimo, dressing them in colorful cloth painted like dragons, tying sharp knives to their horns, and oil-soaked reeds to their tails. At night, he lit the reeds, and the oxen charged into the Yan camp, followed by 5,000 warriors, routing the Yan army. Tian Dan pursued and recovered all lost territory, welcoming King Xiang of Qi back to Linzi to restore the state.",
+        "a": 36.4,
+        "l": 120.3,
+        "c": "Military",
+        "r": "Qi",
+        "o": "Asia"
+      },
+      {
+        "t": "Colossus of Rhodes was completed",
+        "s": "To celebrate the defeat of Demetrius I's siege, the Rhodians built a giant bronze statue of the sun god Helios, about 33 meters high, standing at the harbor entrance. The statue was later destroyed by an earthquake and became one of the Seven Wonders of the Ancient World.",
+        "a": 36.43,
+        "l": 28.22,
+        "c": "Culture",
+        "r": "Rhodes",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -279,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Asculum: Pyrrhus won again but with heavy losses",
+        "s": "Pyrrhus fought again against Roman forces at Asculum (near modern Foggia, Italy). War elephants again played a key role, but the Romans adapted with flaming arrows and fire pans, causing elephants to panic and charge back. Pyrrhus won a costly victory, losing about 3,500 men, while Rome lost about 6,000, but Pyrrhus's elite troops were irreplaceable. 'Pyrrhic victory' became a byword.",
+        "a": 41.2,
+        "l": 15.7,
+        "c": "Military",
+        "r": "Epirus",
+        "o": "Europe"
+      },
+      {
+        "t": "Gauls invaded the Balkans, sacked Delphi",
+        "s": "Celtic tribes invaded Macedon and Greece in force. After defeating the Greek coalition at Thermopylae, they plundered the Temple of Delphi, but were forced to retreat due to snowstorms and Greek attacks. The Gauls then moved to Asia Minor, becoming the Galatians.",
+        "a": 38.5,
+        "l": 22.5,
+        "c": "Military",
+        "r": "Balkans",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -278,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Bai Qi captured Ying, capital of Chu; Qu Yuan drowned himself in the Miluo River",
+        "s": "The Qin grand minister Bai Qi led his army to capture Ying (modern Jingzhou, Hubei), the capital of Chu, and burned the Chu ancestral tombs. King Qingxiang of Chu was forced to move the capital to Chen. The Chu poet Qu Yuan, in despair over the fall of his state and the failure of his reforms, drowned himself on the fifth day of the fifth lunar month in the Miluo River, giving rise to the Dragon Boat Festival.",
+        "a": 30.3,
+        "l": 112.2,
+        "c": "Military",
+        "r": "Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "Pyrrhus turned to Sicily to fight Carthage",
+        "s": "Invited by Syracuse, Pyrrhus led his army to Sicily to fight Carthaginian forces. He quickly captured several Carthaginian strongholds in Sicily, nearly driving the Carthaginians off the island, but failed to capture Lilybaeum (Marsala).",
+        "a": 37.5,
+        "l": 13.5,
+        "c": "Military",
+        "r": "Epirus",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -277,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "First phase of Pyrrhic War ended, Pyrrhus returned to Italy",
+        "s": "Despite a series of victories in Sicily, Pyrrhus returned to Italy due to strained relations with Greek city-states and supply difficulties. Rome took the opportunity to recover its strength, and Pyrrhus faced a growing Roman legion.",
+        "a": 37.5,
+        "l": 15.0,
+        "c": "Military",
+        "r": "Epirus",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -276,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Antiochus I formally crowned king",
+        "s": "Antiochus I held a grand ceremony at Antioch in Syria, formally crowning himself king of the Seleucid Empire. He inherited a vast but fragile empire stretching from the Aegean to the borders of the Indus, needing to face threats from Ptolemaic Egypt and the Galatians.",
+        "a": 36.2,
+        "l": 36.2,
+        "c": "Politics",
+        "r": "Seleucid Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Pyrrhus fought Rome again in southern Italy",
+        "s": "Pyrrhus encountered Roman forces in southern Italy, and the two sides confronted each other near Maleventum (later renamed Beneventum). The battle was stalemated, and Pyrrhus failed to achieve a decisive breakthrough, with his resources dwindling.",
+        "a": 41.1,
+        "l": 14.8,
+        "c": "Military",
+        "r": "Epirus",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -275,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Beneventum: Pyrrhus finally defeated",
+        "s": "Pyrrhus attempted a night attack on the Roman camp, which failed, and during the day, he faced a fierce Roman counterattack. His war elephants, wounded, panicked and trampled his own lines. Pyrrhus lost over 7,000 men and was forced to retreat to Epirus, ending the Pyrrhic War in defeat.",
+        "a": 41.1,
+        "l": 14.8,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -274,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "First Syrian War broke out",
+        "s": "Taking advantage of the Seleucid Empire's preoccupation with eastern troubles, Ptolemy II attacked the Syrian and Asia Minor territories controlled by the Seleucids. Ptolemy's strong navy captured Phoenician coastal cities and Miletus, beginning nearly a century of Syrian Wars.",
+        "a": 35.2,
+        "l": 35.9,
+        "c": "Military",
+        "r": "Eastern Mediterranean",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -273,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "King Kaolie of Chu ascended, Huang Xie (Lord Chunshen) assisted in governance",
+        "s": "King Qingxiang of Chu died, and his son Xiong Yuan ascended as King Kaolie of Chu. Huang Xie (Lord Chunshen) was appointed as Lingyin (chancellor), controlling Chu's military and political power. He maintained Chu's remaining territory by marrying into the Qin royal family and moving the capital to Shouchun.",
+        "a": 30.6,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Chu",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome established formal diplomatic relations with Ptolemaic Egypt",
+        "s": "Rome sent an embassy to Alexandria to conclude a friendship treaty with Ptolemy II. Rome recognized Ptolemaic Egypt's commercial interests in the Mediterranean, while Egypt promised not to support Rome's enemies. This was Rome's first diplomatic contact with a major Hellenistic power.",
+        "a": 31.2,
+        "l": 29.9,
+        "c": "Diplomacy",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -272,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Pyrrhus killed at Argos, Tarentum surrendered to Rome",
+        "s": "After returning from Italy, Pyrrhus invaded the Peloponnese. While attacking Argos, he was struck by a tile thrown by an old woman from a rooftop, knocked unconscious, and then killed by enemy soldiers. Learning of this, Tarentum surrendered to Rome, and Rome controlled all of southern Italy.",
+        "a": 37.6,
+        "l": 22.8,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -271,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome completely conquered the Samnites",
+        "s": "Roman forces suppressed the last Samnite strongholds, bringing the core Samnite region under direct Roman administration. Many Samnites were relocated to the Campanian plain, and Samnite resistance disappeared.",
+        "a": 41.5,
+        "l": 14.5,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Kingdom of Epirus reduced to a second-rate state",
+        "s": "After Pyrrhus' death, the Kingdom of Epirus lost its ambition, and internal power struggles weakened the state. It became a dependency of Macedon and Rome, no longer independently participating in Mediterranean power politics.",
+        "a": 39.6,
+        "l": 20.3,
+        "c": "Politics",
+        "r": "Epirus",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -270,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Hiero II became tyrant of Syracuse, later king",
+        "s": "With the support of mercenaries, Hiero II established a military dictatorship in Syracuse and then allied with Carthage to fight the Mamertines. He reformed taxation and the military, allowing Syracuse to remain independent in Sicily until the First Punic War.",
+        "a": 37.1,
+        "l": 15.3,
+        "c": "Politics",
+        "r": "Syracuse",
+        "o": "Europe"
+      },
+      {
+        "t": "Rome reformed its currency, issuing silver coins",
+        "s": "Rome began minting the silver denarius to meet trade and military pay needs. The coins were inscribed 'ROMA', replacing the earlier heavy bronze currency, promoting the monetization of the Italian peninsula's economy.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Economy",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -269,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome established the Italian alliance system",
+        "s": "Rome classified conquered Italian city-states into different grades: Latin colonies enjoyed partial citizenship, other allies were autonomous but foreign policy was controlled by Rome, and all allies had to provide troops. This system provided Rome with a vast pool of manpower.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Ashoka ascended the Maurya throne",
+        "s": "Bindusara died, and his son Ashoka won the civil war for succession and formally ascended the throne. Early in his reign, he was brutal and warlike, known as 'Ashoka the Fierce', but after conquering Kalinga, he repented and turned to Buddhism.",
+        "a": 25.6,
+        "l": 85.1,
+        "c": "Politics",
+        "r": "Maurya Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -268,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome founded the colony of Rimini on the Adriatic coast",
+        "s": "Rome established the colony of Rimini on the Adriatic coast, controlling maritime trade routes and defending against northern Gallic invasions. The city became a forward base for Rome's advance into the Po Valley.",
+        "a": 44.0,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Eratosthenes was born",
+        "s": "The ancient Greek mathematician and geographer Eratosthenes was born in Cyrene (modern Libya). He later became head of the Library of Alexandria and was the first to measure the Earth's circumference scientifically, with an error of only about 2%.",
+        "a": 32.8,
+        "l": 22.2,
+        "c": "Science",
+        "r": "Cyrene",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": -267,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Chremonidean War broke out",
+        "s": "With the support of Ptolemy II, Athens and Sparta jointly launched the Chremonidean War against Macedon. The Macedonian king Antigonus II led forces to suppress it, eventually capturing Athens, depriving it of autonomy, and garrisoning troops.",
+        "a": 38.0,
+        "l": 23.7,
+        "c": "Military",
+        "r": "Greece",
+        "o": "Europe"
+      },
+      {
+        "t": "Minor clash between Rome and Carthage near Sardinia",
+        "s": "In 267 BCE, a small naval battle occurred between a Roman fleet and Carthaginian merchant ships near the island of Sardinia in the western Mediterranean, over trade and navigation rights. Neither side committed major fleets, and the clash was limited in scale. However, this friction deepened the enmity between the two powers, serving as one of the preludes to the First Punic War (264-241 BCE).",
+        "a": 40.0,
+        "l": 10.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -266,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Egypt reached its peak prosperity under Ptolemy II",
+        "s": "Through taxation and trade monopolies, Ptolemy II amassed enormous wealth, and Alexandria became the largest city in the Mediterranean. The Pharos Lighthouse and the Musaeum attracted scholars from all over, ushering in a golden age of Egyptian economy and culture.",
+        "a": 31.2,
+        "l": 29.9,
+        "c": "Economy",
+        "r": "Ptolemaic Egypt",
+        "o": "Africa"
+      },
+      {
+        "t": "Fan Ju entered Qin and proposed the 'Far Alliance, Near Attack' strategy",
+        "s": "Fan Ju, a man of Wei, after being persecuted, fled to Qin and proposed to King Zhaoxiang the strategy of 'befriending distant states and attacking neighboring ones'—allying with states like Qi and Chu while focusing attacks on neighboring Han and Wei. King Zhaoxiang adopted this strategy, appointed Fan Ju as a guest minister, and gradually weakened Han and Wei.",
+        "a": 34.3,
+        "l": 108.7,
+        "c": "Politics",
+        "r": "Qin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -265,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Qin captured Nanyang, a region of Han",
+        "s": "Bai Qi of Qin led his army to attack Han, capturing the Nanyang region, cutting off Han's Shangdang Commandery from the homeland, setting the stage for the Battle of Changping over Shangdang.",
+        "a": 35.1,
+        "l": 112.6,
+        "c": "Military",
+        "r": "Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome unified central and southern Italy",
+        "s": "Through the alliance system and colonies, Rome completed the political integration of central and southern Italy, leaving only the Gauls of the Po Valley unconquered. Rome became the most powerful force on the Italian peninsula.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -264,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "First Punic War broke out",
+        "s": "Rome, intervening in the conflict between the Mamertines and Carthage over Messana, sent troops across the strait into Sicily. Carthage regarded this as a declaration of war, and both sides fought for control of Sicily. Rome quickly defeated the Carthaginian forces on the island, and the war broke out in full.",
+        "a": 37.5,
+        "l": 14.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Rome held its first gladiatorial games",
+        "s": "The aristocrat Junius Brutus held the first gladiatorial games at his father's funeral, making three pairs of slaves fight to the death. This Etruscan tradition became popular in Rome as a form of public entertainment and a way to display wealth.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Society",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -263,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome began building a large fleet",
+        "s": "To overcome its naval disadvantage, Rome, with the help of Greek city-states, built 100 quinqueremes and 20 triremes in a single year. The fleet was equipped with the newly invented 'corvus' boarding bridge for close-quarters combat.",
+        "a": 41.0,
+        "l": 15.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Ashoka promoted Buddhism and supported the Third Buddhist Council",
+        "s": "After converting to Buddhism, Ashoka presided over the Third Buddhist Council at Pataliputra, led by Elder Moggaliputta Tissa, revising the canon and expelling heretical monks. Ashoka then sent missionaries to spread the Dharma to various regions.",
+        "a": 25.6,
+        "l": 85.1,
+        "c": "Religion",
+        "r": "Maurya Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -262,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome besieged Agrigentum",
+        "s": "Roman forces besieged Agrigentum, an important Carthaginian base on Sicily. After six months, the defenders ran out of supplies, and a Carthaginian relief force was repelled. Agrigentum fell, and Rome controlled most of Sicily.",
+        "a": 37.3,
+        "l": 13.6,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -261,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome decided to expand its navy and train oarsmen on a large scale",
+        "s": "Given the need for naval warfare, the Roman Senate voted to build an additional 50 warships and recruited oarsmen from Italian allies, training them in simulated ship drills on land to improve naval combat capability.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -260,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Mylae: Roman fleet first defeated Carthage at sea",
+        "s": "The Roman consul Duilius led his fleet to engage the Carthaginian fleet near Mylae, northern Sicily. Using the 'corvus' boarding bridge to lock onto enemy ships and soldiers fighting hand-to-hand, Rome sank or captured 44 Carthaginian warships, achieving its first major naval victory.",
+        "a": 38.2,
+        "l": 15.2,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Battle of Changping: Bai Qi massacred the Zhao army",
+        "s": "Bai Qi of Qin confronted the Zhao army led by Zhao Kuo at Changping. Zhao Kuo rashly attacked and was surrounded by Qin forces. After being cut off from supplies for 46 days, Zhao Kuo was killed attempting to break out, and the 400,000 surrendered Zhao troops were all buried alive by Bai Qi. Zhao lost its elite forces and could no longer resist Qin.",
+        "a": 35.8,
+        "l": 112.9,
+        "c": "Military",
+        "r": "Qin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -259,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome invaded Sardinia and Corsica",
+        "s": "The Roman fleet attacked Sardinia and Corsica, attempting to seize these two important Carthaginian strongholds in the western Mediterranean. Though unable to fully occupy them, the attack forced Carthage to divert forces to defend the islands.",
+        "a": 40.0,
+        "l": 9.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -258,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Bai Qi attacked Chu, seized Wu Commandery",
+        "s": "In 258 BCE, King Zhaoxiang of Qin ordered General Bai Qi to launch a major attack on Chu. The Qin army advanced from Wuguan, penetrating deep into the western part of Chu, capturing Wu Commandery (present-day Wushan, Chongqing) and Qianzhong Commandery. Chu was forced to move its capital from Chen (modern Huaiyang, Henan) to Shouchun (modern Shou County, Anhui). Chu never recovered and completely lost the ability to contend with Qin.",
+        "a": 30.6,
+        "l": 109.5,
+        "c": "Military",
+        "r": "Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "Battle of Handan: Qin forces suffered their first setback",
+        "s": "Qin forces besieged the Zhao capital Handan. King Xiaocheng of Zhao and the people defended the city tenaciously. Lord Pingyuan sent Mao Sui to seek aid from Chu, and eventually a joint force of Chu and Wei arrived, defeating the Qin army and raising the siege, allowing Zhao to survive for several more decades.",
+        "a": 36.6,
+        "l": 114.5,
+        "c": "Military",
+        "r": "Zhao",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -257,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Lord Xinling stole the military seal to save Zhao",
+        "s": "The King of Wei, fearing Qin, dared not send troops to relieve Zhao. Lord Xinling, Wuji, stole the king's military seal, killed the general Jin Bi, seized command, and led the army to save Zhao. Lord Chunshen of Chu also sent troops, and the combined force defeated Qin, raising the siege of Handan.",
+        "a": 36.6,
+        "l": 114.5,
+        "c": "Military",
+        "r": "Wei",
+        "o": "Asia"
+      },
+      {
+        "t": "Bai Qi was forced to commit suicide after falling out with Fan Ju",
+        "s": "Bai Qi refused to lead another campaign against Zhao. Fan Ju spoke ill of him to the king, suggesting he harbored rebellious intentions. King Zhaoxiang of Qin sent a sword, ordering Bai Qi to kill himself. Bai Qi lamented, 'What crime have I committed against Heaven to come to this?' and then took his own life. A great general fell.",
+        "a": 34.3,
+        "l": 108.7,
+        "c": "Politics",
+        "r": "Qin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -256,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "King Nan of Zhou (Ji Yan)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Cape Ecnomus: Roman fleet heavily defeated Carthage",
+        "s": "A massive naval battle took place off Cape Ecnomus, with 330 Roman warships against 350 Carthaginian. Rome's 'corvus' boarding bridges gave them an advantage; they sank 30 Carthaginian ships and captured 64. Rome opened a sea route to Africa.",
+        "a": 37.0,
+        "l": 14.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Qin destroyed Eastern Zhou, took the Nine Tripods",
+        "s": "King Zhaoxiang of Qin ordered General Jiu to attack Luoyang, capturing King Nan of Zhou and taking the Nine Tripods, symbols of royal authority. The Eastern Zhou dynasty perished, and Qin replaced Zhou as the nominal supreme ruler under heaven.",
+        "a": 34.5,
+        "l": 112.5,
+        "c": "Politics",
+        "r": "Qin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -255,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Roman expedition to Africa was nearly annihilated by a storm",
+        "s": "After disembarking troops on the African coast, the Roman fleet encountered a massive storm on its return journey, sinking 264 warships and killing over 100,000 soldiers and sailors. It was one of the worst maritime disasters in Roman history.",
+        "a": 37.0,
+        "l": 12.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Ptolemy II strengthened temple economy, Egyptian prosperity continued",
+        "s": "Ptolemy II continued to support the Egyptian temple system, with large land revenues going to the temples in exchange for priestly support of the Hellenistic dynasty's pharaonic legitimacy. Egyptian agriculture and craftsmanship flourished.",
+        "a": 31.2,
+        "l": 29.9,
+        "c": "Economy",
+        "r": "Ptolemaic Egypt",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": -254,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome rebuilt its fleet and intensified naval training",
+        "s": "In 254 BCE, despite suffering multiple defeats and storm losses during the First Punic War, the Roman Senate quickly passed a measure to build 220 more quinqueremes. The Romans improved oarsman training, constructing simulated ship platforms on land. This greatly enhanced the Roman navy's combat effectiveness and seamanship, eventually leading to a decisive fleet victory ending the war in 241 BCE.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -253,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Panormus: Rome captured Palermo",
+        "s": "Roman consul Caecilius Metellus besieged Panormus (modern Palermo). A Carthaginian relief force arrived, but Roman cavalry and infantry cooperated to defeat the Carthaginians, capturing the city and gaining control of northern Sicily.",
+        "a": 38.1,
+        "l": 13.4,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -252,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Ptolemaic Egypt began constructing the Philae Temple",
+        "s": "Ptolemy II started building a temple dedicated to the goddess Isis on the island of Philae. The temple blended Egyptian tradition with Greek style, becoming an important center of late Egyptian religion.",
+        "a": 24.0,
+        "l": 32.9,
+        "c": "Culture",
+        "r": "Ptolemaic Egypt",
+        "o": "Africa"
+      },
+      {
+        "t": "Rome and Carthage exchanged prisoners, brief truce",
+        "s": "In 252 BCE, after a long back-and-forth during the First Punic War, Rome and Carthage exchanged prisoners and signed a truce lasting several months. The two sides also discussed trade issues regarding Sicily but did not reach an agreement. After the brief truce, hostilities resumed, and Rome intensified its attacks on Sicily.",
+        "a": 37.5,
+        "l": 14.0,
+        "c": "Diplomacy",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -251,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome again defeated Carthaginian forces at Panormus",
+        "s": "The Carthaginian general Hasdrubal led an army to try to recapture Panormus. The Roman commander Metellus sallied forth, using trenches and ranged weapons to repel the enemy, killing over 20,000. Rome consolidated its advantage in Sicily.",
+        "a": 38.1,
+        "l": 13.4,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -250,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Parthia became independent, Arsaces I founded the kingdom",
+        "s": "The Parni tribal chief Arsaces killed the Seleucid satrap in Parthia and established the Arsacid dynasty. Taking advantage of the war between the Seleucid Empire and Ptolemaic Egypt, he gradually consolidated his rule.",
+        "a": 37.5,
+        "l": 57.0,
+        "c": "Politics",
+        "r": "Parthia",
+        "o": "Asia"
+      },
+      {
+        "t": "Kingdom of Bactria became independent",
+        "s": "The Seleucid eastern satrap Diodotus I declared independence, establishing the Greco-Bactrian Kingdom. This region later became a center for the exchange of Greek culture and Buddhism.",
+        "a": 36.7,
+        "l": 68.8,
+        "c": "Politics",
+        "r": "Bactria",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -249,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Drepana: Carthage won a great victory over Rome",
+        "s": "The Roman consul Claudius led his fleet in a surprise attack on the harbor of Drepana. The Carthaginian fleet under Adherbal sailed out of the harbor, using its coastal combat experience to defeat the Roman fleet, which lost 93 warships.",
+        "a": 38.0,
+        "l": 12.5,
+        "c": "Military",
+        "r": "Carthage",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -248,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Parthia formally established as an independent kingdom",
+        "s": "Arsaces I defeated the punitive expedition of Antiochus II of the Seleucid Empire and established his capital at Nisa in the Caspian region. The Seleucid Empire was forced to recognize Parthian independence, marking the foundation of the Parthian Empire.",
+        "a": 37.1,
+        "l": 55.2,
+        "c": "Politics",
+        "r": "Parthia",
+        "o": "Asia"
+      },
+      {
+        "t": "Carthaginian general Hamilcar Barca began commanding operations in Sicily",
+        "s": "Carthage appointed Hamilcar Barca as commander of its forces in Sicily. He led mercenaries and Numidian cavalry in guerrilla warfare on the island, repeatedly defeating Roman forces and stabilizing the front in western Sicily.",
+        "a": 37.5,
+        "l": 13.0,
+        "c": "Military",
+        "r": "Carthage",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -247,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Hamilcar Barca occupied Mount Eryx, consolidating Sicilian stronghold",
+        "s": "In 247 BCE, the Carthaginian general Hamilcar Barca (father of Hannibal) landed on Sicily with a small mercenary force and captured Mount Eryx, which was held by Rome. He built a fortified camp on the mountaintop, cutting off the Roman garrison's supply lines. Using the mountainous terrain, Hamilcar waged guerrilla warfare against the Romans for several years.",
+        "a": 38.1,
+        "l": 12.6,
+        "c": "Military",
+        "r": "Carthage",
+        "o": "Europe"
+      },
+      {
+        "t": "Ying Zheng ascended as King of Qin",
+        "s": "In 247 BCE, King Zhuangxiang of Qin died, and his thirteen-year-old son Ying Zheng inherited the throne. Because of his youth, state affairs were controlled by Chancellor Lü Buwei and the Queen Dowager Zhao Ji. Lü Buwei continued the policy of external expansion, while the future Qin Shi Huang would begin his personal rule after suppressing the Lao Ai rebellion (238 BCE).",
+        "a": 34.3,
+        "l": 108.7,
+        "c": "Politics",
+        "r": "Qin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -246,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Ptolemy III succeeded, Third Syrian War broke out",
+        "s": "Ptolemy II died, and Ptolemy III succeeded. He immediately launched the Third Syrian War, invading deep into the Seleucid Empire, briefly occupying Antioch and Babylon, but was forced to withdraw due to instability in his rear.",
+        "a": 33.5,
+        "l": 36.0,
+        "c": "Military",
+        "r": "Ptolemaic Egypt",
+        "o": "Asia"
+      },
+      {
+        "t": "Construction began on the Zhengguo Canal",
+        "s": "The state of Han sent the water engineer Zheng Guo to persuade Qin to build a large irrigation canal, intending to exhaust Qin's resources. Qin discovered the plot but continued construction. The canal, over 150 km long, irrigated more than 40,000 qing of land in the Guanzhong plain, turning it into fertile farmland.",
+        "a": 34.5,
+        "l": 108.9,
+        "c": "Technology",
+        "r": "Qin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -245,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Third Syrian War ended, Ptolemaic Egypt victorious",
+        "s": "Ptolemy III and Seleucus II signed a peace treaty, with Egypt gaining the coastal regions of Syria and parts of Thrace. The Ptolemaic dynasty reached its zenith, controlling the seas of the eastern Mediterranean.",
+        "a": 35.2,
+        "l": 35.9,
+        "c": "Politics",
+        "r": "Ptolemaic Egypt",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -244,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Private donations in Rome funded fleet construction",
+        "s": "Facing a Carthaginian blockade, wealthy Romans voluntarily donated money to build 200 warships. The Senate passed a bill requiring the wealthy to contribute according to their property for naval construction.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Economy",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -243,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Hamilcar Barca withdrew to western Sicily, prepared for a protracted war",
+        "s": "With the Roman fleet regaining naval supremacy, Hamilcar was forced to abandon most of his positions and withdraw to the western Sicilian cities of Mount Eryx and Lilybaeum. He used guerrilla tactics to harass Roman supply lines.",
+        "a": 38.1,
+        "l": 12.6,
+        "c": "Military",
+        "r": "Carthage",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -242,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Roman fleet decisive battle: Battle of the Aegates Islands",
+        "s": "The Roman consul Catulus led 200 newly built warships to a decisive battle against the Carthaginian fleet near the Aegates Islands off Sicily. Using the superior maneuverability of his ships, Rome sank 50 Carthaginian warships and captured 70. The Carthaginian navy was completely destroyed.",
+        "a": 37.9,
+        "l": 12.4,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -241,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "First Punic War ended, Carthage ceded Sicily",
+        "s": "Carthage, defeated, sued for peace and signed a treaty with Rome. Carthage abandoned Sicily, paid an indemnity of 3,200 talents of silver, and handed over all prisoners. Rome established the province of Sicily, beginning its overseas expansion.",
+        "a": 36.9,
+        "l": 10.3,
+        "c": "Diplomacy",
+        "r": "Roman Republic",
+        "o": "Africa"
+      },
+      {
+        "t": "Lü Buwei compiled the 'Lüshi Chunqiu' (Spring and Autumn of Mr. Lü)",
+        "s": "The Qin chancellor Lü Buwei assembled three thousand retainers to compile the 'Lüshi Chunqiu', covering the universe and all things, past and present, drawing from various schools of thought. After completion, it was displayed at the Xianyang city gate, with a reward of a thousand gold pieces for anyone who could alter a single character, but no one dared.",
+        "a": 34.3,
+        "l": 108.7,
+        "c": "Culture",
+        "r": "Qin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -240,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Eratosthenes measured the Earth's circumference",
+        "s": "Eratosthenes, head of the Library of Alexandria, compared the noon sun angles at Syene and Alexandria on the summer solstice, using geometry to calculate the Earth's circumference at about 252,000 stadia, approximately 39,700 km, off by only about 2% from the modern value.",
+        "a": 31.2,
+        "l": 29.9,
+        "c": "Technology",
+        "r": "Egypt",
+        "o": "Africa"
+      },
+      {
+        "t": "Mercenary revolt broke out in Carthage",
+        "s": "Carthage, facing financial difficulties, could not pay its mercenaries, leading to a rebellion by mercenaries in Tunisia and Sardinia. The rebel army, numbering over 20,000, besieged Carthage itself, plunging Carthage into a bloody Mercenary War.",
+        "a": 36.9,
+        "l": 10.3,
+        "c": "Military",
+        "r": "Carthage",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": -239,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome occupied Sardinia and Corsica during Carthaginian civil strife",
+        "s": "The Carthaginian mercenaries controlling Sardinia asked Rome for help, and Rome sent troops to occupy the islands under the pretext of protection. Carthage protested in vain and was forced to cede the two islands and pay an additional 1,200 talents. Rome's unjust act deepened Carthaginian hatred.",
+        "a": 40.0,
+        "l": 9.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -238,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Ying Zheng assumed personal rule, suppressed the Lao Ai rebellion",
+        "s": "At age 21, Ying Zheng held his capping ceremony, then immediately crushed the rebellion of Lao Ai, the Marquis of Changxin. He had Lao Ai torn apart by chariots and imprisoned the Queen Dowager Zhao Ji. He began to take control of Qin's power, gradually eliminating Lü Buwei's influence.",
+        "a": 34.5,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Qin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -237,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Hamilcar Barca campaigned in Spain, establishing a new base",
+        "s": "To compensate for Carthage's loss of Sicily and Sardinia, Hamilcar led an expedition to the Iberian Peninsula. He conquered local tribes, founded the city of New Carthage, developed silver mines, and built up strength for future war against Rome.",
+        "a": 37.5,
+        "l": -4.0,
+        "c": "Military",
+        "r": "Carthage",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -236,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Hamilcar gradually controlled southeastern Spain",
+        "s": "Through military conquest and diplomatic marriages, Hamilcar brought many tribes in southeastern Spain under Carthaginian control. Income from silver and gold mines greatly increased Carthage's power.",
+        "a": 37.5,
+        "l": -1.5,
+        "c": "Politics",
+        "r": "Carthage",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -235,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Edicts of Ashoka were inscribed on pillars and rocks",
+        "s": "Ashoka had pillars and rock faces inscribed throughout the empire with Buddhist-inspired edicts, covering the protection of animals, promotion of filial piety, social harmony, and religious tolerance. These pillars are precious remains of early Indian calligraphy and art.",
+        "a": 26.0,
+        "l": 85.0,
+        "c": "Culture",
+        "r": "Maurya Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "The Temple of Janus in Rome was closed due to peace throughout the realm",
+        "s": "The last time the Temple of Janus was closed in Rome was during the regal period. Its closure due to the absence of war throughout Italy reflected Rome's consolidation of control in Italy.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -234,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Hamilcar Barca was killed in Spain",
+        "s": "In a battle against Spanish tribes, Hamilcar drowned in a river while covering the retreat of his main force. His son-in-law Hasdrubal took command and continued expansion. Hannibal, then 13, was influenced by his father to swear eternal enmity with Rome.",
+        "a": 38.0,
+        "l": -1.0,
+        "c": "Military",
+        "r": "Carthage",
+        "o": "Europe"
+      },
+      {
+        "t": "Qin launched a large-scale eastward advance, capturing the Korean city of Wan",
+        "s": "In 234 BCE, the Qin general Neishi Teng led his army east and captured the important Han city of Wan (modern Nanyang, Henan). Wan was a major center for iron smelting in Han, and the Qin gained valuable iron ore resources for weapons manufacturing. After losing Wan, Han's territory was greatly reduced, and it could no longer resist Qin's continued attacks.",
+        "a": 33.4,
+        "l": 112.5,
+        "c": "Military",
+        "r": "Qin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -233,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Hannibal was designated as the heir to Carthage's Spanish forces",
+        "s": "After Hasdrubal was assassinated, the army elected Hannibal, only 25 years old, as commander. Hannibal immediately conquered the tribes around Saguntum, creating a pretext for attacking Rome.",
+        "a": 37.9,
+        "l": -1.0,
+        "c": "Politics",
+        "r": "Carthage",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -232,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Ongoing war between Rome and Gauls in the Po Valley",
+        "s": "In 232 BCE, the Roman Republic continued its northern expansion, clashing on a large scale with the Cisalpine Gallic tribes (Boii, Insubres) in the Po Valley. Roman forces crossed the Apennines into the Padan plain and captured several Gallic villages. However, stubborn Gallic resistance prevented Rome from fully conquering the region.",
+        "a": 44.5,
+        "l": 10.5,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Ashoka died, the Maurya Empire began to decline",
+        "s": "After Ashoka's death, the empire split into eastern and western halves, and various satraps declared independence. The Maurya Empire declined rapidly and fell within decades, but Buddhism began to spread to Central and Southeast Asia.",
+        "a": 25.6,
+        "l": 85.1,
+        "c": "Politics",
+        "r": "Maurya Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -231,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Roman Senate paid attention to Carthaginian expansion in Spain",
+        "s": "Rome sent an embassy to Spain to monitor Carthaginian activities and concluded a treaty with Carthage, agreeing that the Ebro River would be the boundary between their spheres. However, Rome did not truly intervene, and Carthage accelerated its military buildup.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Diplomacy",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -230,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Qin destroyed Han, beginning the unification wars",
+        "s": "The Qin general Neishi Teng broke through the Korean capital Xinzheng and captured King An of Han. Han became the first of the six states to be destroyed by Qin. Qin established Yingchuan Commandery there, officially launching the unification wars.",
+        "a": 34.5,
+        "l": 113.7,
+        "c": "Military",
+        "r": "Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "Li Bing oversaw the construction of Dujiangyan",
+        "s": "Li Bing, the governor of Shu Commandery, and his son organized the construction of the Dujiangyan irrigation system, using a fish-mouth levee to divide water, a flying sand weir to overflow, and a bottle-neck channel to channel water, turning the Chengdu Plain into the 'Land of Abundance.' It is still in use today.",
+        "a": 31.0,
+        "l": 103.6,
+        "c": "Technology",
+        "r": "Qin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -229,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Qin destroyed Zhao, Prince Jia of Zhao fled to Dai and proclaimed himself king",
+        "s": "The Qin general Wang Jian led his army to capture Handan, and King Qian of Zhao surrendered. Prince Jia of Zhao fled to Dai Commandery, where he proclaimed himself King of Dai, continuing to resist Qin. Zhao was destroyed, but the rump state of Dai survived for four years.",
+        "a": 36.6,
+        "l": 114.5,
+        "c": "Military",
+        "r": "Qin",
+        "o": "Asia"
+      },
+      {
+        "t": "First Illyrian War broke out",
+        "s": "Illyrian pirates attacked Roman merchant ships, and Rome sent a punitive expedition. The Roman fleet captured several Illyrian coastal fortresses, and Queen Teuta was forced to sue for peace. Rome established a protectorate over the Adriatic.",
+        "a": 42.0,
+        "l": 19.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -228,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Hasdrubal was assassinated in Spain, Hannibal succeeded",
+        "s": "The Carthaginian governor of Spain, Hasdrubal, was killed by a servant while hunting. The army elected Hannibal as the new commander. At only 26, Hannibal immediately prepared for war against Rome.",
+        "a": 37.5,
+        "l": -1.0,
+        "c": "Politics",
+        "r": "Carthage",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -227,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Hannibal conquered the tribes of central Spain",
+        "s": "Hannibal led his Carthaginian army deep into central Spain, conquering tribes south of Saguntum, gaining great wealth and recruits. He built a powerful army that included Numidian cavalry, war elephants, and infantry.",
+        "a": 39.0,
+        "l": -3.0,
+        "c": "Military",
+        "r": "Carthage",
+        "o": "Europe"
+      },
+      {
+        "t": "Jing Ke attempted to assassinate the King of Qin, Yan's last-ditch effort",
+        "s": "Crown Prince Dan of Yan sent Jing Ke with the head of Fan Yuqi and a map of Yan to Xianyang to try to assassinate the King of Qin. Jing Ke revealed the dagger when the map was unrolled but failed and was killed. Enraged, Ying Zheng increased his forces to attack Yan.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Yan",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -226,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Hannibal besieged Saguntum, lighting the fuse of the Second Punic War",
+        "s": "Hannibal attacked Saguntum, a Roman ally located south of the Ebro River. Rome demanded that Carthage hand over Hannibal but was refused. After an eight-month siege, Saguntum fell, and Rome declared war on Carthage.",
+        "a": 39.7,
+        "l": -0.3,
+        "c": "Military",
+        "r": "Carthage",
+        "o": "Europe"
+      },
+      {
+        "t": "Qin captured the Yan capital Ji, King Yan fled to Liaodong",
+        "s": "In 226 BCE, the Qin general Wang Jian led his army to break the Yan capital Ji (southwest of modern Beijing). King Xi of Yan and Crown Prince Dan fled with remnants to Liaodong. Qin forces pursued to Liaodong, and the King of Yan was forced to kill Prince Dan to sue for peace with Qin. Yan existed in name only.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Military",
+        "r": "Qin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -225,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Telamon: Rome repelled a Gallic invasion",
+        "s": "The Cisalpine Gallic tribes, allied with the Boii and Insubres, invaded Italy. Roman forces annihilated about 40,000 Gallic troops at Telamon, and the Gallic chief was killed. Rome consolidated its control over the Po Valley.",
+        "a": 42.8,
+        "l": 11.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Qin general Li Xin's attack on Chu failed, Wang Jian returned to service",
+        "s": "Li Xin led 200,000 Qin troops to attack Chu. He initially won but then suffered defeat, pursued by the Chu general Xiang Yan, losing seven commandants. Ying Zheng personally invited the veteran general Wang Jian to take command, and Wang Jian requested 600,000 men.",
+        "a": 33.5,
+        "l": 114.5,
+        "c": "Military",
+        "r": "Qin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -224,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Wang Jian broke Chu, King Fuchu of Chu was captured",
+        "s": "Wang Jian led 600,000 Qin troops into Chu, adopting a strategy of fortifying and avoiding battle to exhaust Chu's morale, then launched an all-out attack. The Chu army was routed, and King Fuchu was captured, marking the destruction of Chu.",
+        "a": 32.0,
+        "l": 114.0,
+        "c": "Military",
+        "r": "Qin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -223,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome conquered the Po Valley, gaining control of Cisalpine Gaul",
+        "s": "Roman forces launched a major offensive into the Po Valley, capturing Milan and decisively defeating the Insubres. Rome established the province of Cisalpine Gaul, expanding its territory to the foothills of the Alps.",
+        "a": 45.0,
+        "l": 10.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -222,
+    "d": [
+      {
+        "i": "zhanguo",
+        "n": "Warring States",
+        "u": "",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Qin destroyed Yan and Dai, unifying the north",
+        "s": "In 222 BCE, the Qin general Wang Ben led his army to capture Liaodong, taking King Xi of Yan prisoner, and Yan was formally destroyed. In the same year, King Jia of Dai was also captured by Qin forces. Thus, Qin unified all of northern China, with Zhao, Han, Wei, Chu, and Yan having been destroyed.",
+        "a": 41.0,
+        "l": 122.0,
+        "c": "Military",
+        "r": "Qin",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -221,
+    "d": [
+      {
+        "i": "qin",
+        "n": "Qin",
+        "u": "Qin Shi Huang (Ying Zheng)",
+        "e": "26th year of First Emperor"
+      }
+    ],
+    "v": [
+      {
+        "t": "Qin Shi Huang unified the six states, establishing the Qin Dynasty",
+        "s": "The Qin general Wang Ben led his army into Linzi, and King Jian of Qi surrendered without a fight. Thus, King Ying Zheng of Qin completed the unification in ten years, proclaiming himself 'First Emperor'. He abolished feudalism, instituted commanderies and counties, standardized writing, currency, and weights and measures. China entered the era of centralized imperial rule.",
+        "a": 34.34,
+        "l": 108.71,
+        "c": "Politics",
+        "r": "China",
+        "o": "Asia"
+      },
+      {
+        "t": "Qin Shi Huang ordered the collection of all weapons under heaven and the casting of twelve golden men",
+        "s": "To prevent resistance from the remnants of the six states, Qin Shi Huang ordered the confiscation of weapons throughout the empire, which were melted down in Xianyang and cast into twelve bronze men (golden men), each weighing a thousand shi, standing before the palace gates.",
+        "a": 34.34,
+        "l": 108.71,
+        "c": "Politics",
+        "r": "Qin Dynasty",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -220,
+    "d": [
+      {
+        "i": "qin",
+        "n": "Qin",
+        "u": "Qin Shi Huang (Ying Zheng)",
+        "e": "27th year of First Emperor"
+      }
+    ],
+    "v": [
+      {
+        "t": "Hannibal prepared in Spain to cross the Alps",
+        "s": "On the eve of the Second Punic War, Hannibal assembled an army of about 90,000 men in Spain, including infantry, cavalry, and war elephants. He devised the astonishing plan to cross the Alps and strike directly at Italy.",
+        "a": 41.0,
+        "l": 1.0,
+        "c": "Military",
+        "r": "Carthage",
+        "o": "Europe"
+      },
+      {
+        "t": "Qin Shi Huang built imperial highways, establishing a transportation network",
+        "s": "Qin Shi Huang ordered the construction of imperial highways radiating from Xianyang, extending east to the Yan and Qi regions and south to Wu and Chu. The roads were fifty paces wide, with green pines planted every three zhang. The highways greatly facilitated military control and administrative management.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Technology",
+        "r": "Qin Dynasty",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -219,
+    "d": [
+      {
+        "i": "qin",
+        "n": "Qin",
+        "u": "Qin Shi Huang (Ying Zheng)",
+        "e": "28th year of First Emperor"
+      }
+    ],
+    "v": [
+      {
+        "t": "Hannibal captured Saguntum, Rome declared war",
+        "s": "Hannibal completed the siege of Saguntum, utterly destroying the city. Rome sent an embassy demanding that Carthage hand over Hannibal, but Carthage refused. Rome formally declared war on Carthage, and the Second Punic War began.",
+        "a": 39.7,
+        "l": -0.3,
+        "c": "Military",
+        "r": "Carthage",
+        "o": "Europe"
+      },
+      {
+        "t": "Qin Shi Huang toured the east and performed the Fengshan sacrifices at Mount Tai",
+        "s": "In 219 BCE, Qin Shi Huang, having unified the six states, began his first major eastern tour. He performed the Fengshan sacrifices at Mount Tai (building an earthen altar to sacrifice to Heaven called Feng, and clearing ground at Liangfu Mountain to sacrifice to Earth called Shan) to report the achievement of unification to Heaven and Earth, and erected stone tablets to praise the Qin dynasty's merits. This was intended to proclaim the divine mandate of imperial power.",
+        "a": 36.3,
+        "l": 117.1,
+        "c": "Religion",
+        "r": "Qin Dynasty",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -218,
+    "d": [
+      {
+        "i": "qin",
+        "n": "Qin",
+        "u": "Qin Shi Huang (Ying Zheng)",
+        "e": "29th year of First Emperor"
+      }
+    ],
+    "v": [
+      {
+        "t": "Hannibal crossed the Alps and entered Italy",
+        "s": "Hannibal led 50,000 infantry and 9,000 cavalry across the snow-covered Alps. Along the way, he suffered attacks from Gallic tribes, avalanches, and severe cold, losing more than half his men and most of his war elephants, but succeeded in entering northern Italy.",
+        "a": 45.0,
+        "l": 7.0,
+        "c": "Military",
+        "r": "Carthage",
+        "o": "Europe"
+      },
+      {
+        "t": "Battle of the Ticinus: Hannibal's first victory over Rome",
+        "s": "Hannibal defeated the Roman cavalry on the banks of the Ticinus River, and the consul Scipio the Elder was wounded. The Roman army withdrew to the far side of the Trebbia River, and Hannibal defeated a Roman army for the first time.",
+        "a": 45.2,
+        "l": 9.0,
+        "c": "Military",
+        "r": "Carthage",
+        "o": "Europe"
+      },
+      {
+        "t": "Battle of the Trebbia: Rome defeated again",
+        "s": "Hannibal lured the Roman army into an ambush on the Trebbia River. Carthaginian cavalry and war elephants attacked the Roman flanks, and Rome lost about 30,000 men. Hannibal now controlled northern Italy.",
+        "a": 45.0,
+        "l": 9.8,
+        "c": "Military",
+        "r": "Carthage",
+        "o": "Europe"
+      },
+      {
+        "t": "Second Punic War: Hannibal crossed the Alps",
+        "s": "The Carthaginian general Hannibal Barca led an army of about 60,000 men and 37 war elephants from Spain, miraculously crossing the Alps in winter into the Italian peninsula. He defeated Roman armies multiple times at the Battle of Lake Trasimene (217 BCE) and the Battle of Cannae (216 BCE) but ultimately failed to capture Rome. Hannibal's expedition was a marvel of ancient military history, but Carthage was eventually utterly destroyed by Rome after the Third Punic War (146 BCE).",
+        "a": 45.07,
+        "l": 6.08,
+        "c": "Military",
+        "r": "Carthage",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -217,
+    "d": [
+      {
+        "i": "qin",
+        "n": "Qin",
+        "u": "Qin Shi Huang (Ying Zheng)",
+        "e": "30th year of First Emperor"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Lake Trasimene: Hannibal annihilated a Roman legion",
+        "s": "Hannibal led his army through marshes and ambushed the legion of the Roman consul Flaminius in a gorge by Lake Trasimene. The Roman army was cut apart and annihilated in heavy fog. About 15,000 Romans were killed, and Flaminius himself fell.",
+        "a": 43.2,
+        "l": 12.1,
+        "c": "Military",
+        "r": "Carthage",
+        "o": "Europe"
+      },
+      {
+        "t": "Fabius appointed Roman dictator, adopting delaying tactics",
+        "s": "After a series of crushing defeats, Rome appointed Fabius as dictator. Fabius adopted a strategy of avoiding pitched battle, harassing Hannibal's supply lines. He was nearly trapped by Hannibal in Campania. Fabian tactics were criticized by the Roman populace.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -216,
+    "d": [
+      {
+        "i": "qin",
+        "n": "Qin",
+        "u": "Qin Shi Huang (Ying Zheng)",
+        "e": "31st year of First Emperor"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Cannae: Hannibal encircled and annihilated a Roman army of 80,000",
+        "s": "Rome assembled 80,000 men for a decisive battle against Hannibal on the plain of Cannae. Hannibal employed a crescent-shaped formation, with his center infantry feigning retreat while his cavalry encircled the Roman legions. The Roman army was nearly wiped out, with 50,000 to 70,000 killed, including the consul Paullus and 80 senators. The Battle of Cannae is one of the greatest encirclement battles in Western military history.",
+        "a": 41.3,
+        "l": 16.1,
+        "c": "Military",
+        "r": "Carthage",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -215,
+    "d": [
+      {
+        "i": "qin",
+        "n": "Qin",
+        "u": "Qin Shi Huang (Ying Zheng)",
+        "e": "32nd year of First Emperor"
+      }
+    ],
+    "v": [
+      {
+        "t": "First Macedonian War broke out, Macedon allied with Carthage",
+        "s": "King Philip V of Macedon allied with Hannibal, promising to attack Italy to support Carthage. Rome sent a fleet to block the Adriatic and incited Greek city-states to resist Macedon, tying down Philip V.",
+        "a": 40.5,
+        "l": 22.5,
+        "c": "Military",
+        "r": "Kingdom of Macedon",
+        "o": "Europe"
+      },
+      {
+        "t": "Qin Shi Huang sent Meng Tian north to attack the Xiongnu and build the Great Wall",
+        "s": "Qin Shi Huang sent Meng Tian with 300,000 troops north to attack the Xiongnu, recapturing the Henan region (the Hetao Plain). Meng Tian then built the Great Wall, extending over 10,000 li (approx. 5,000 km) from Lintao in the west to Liaodong in the east, based on the old walls of Yan, Zhao, and Qin.",
+        "a": 40.8,
+        "l": 110.0,
+        "c": "Military",
+        "r": "Qin Dynasty",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -214,
+    "d": [
+      {
+        "i": "qin",
+        "n": "Qin",
+        "u": "Qin Shi Huang (Ying Zheng)",
+        "e": "33rd year of First Emperor"
+      }
+    ],
+    "v": [
+      {
+        "t": "Qin Shi Huang built the Great Wall, connecting the northern defenses",
+        "s": "Meng Tian completed the construction of the Great Wall, which snaked across the mountains. Countless conscripts and soldiers died from the labor, giving rise to the legend of 'Meng Jiangnu weeping over the Great Wall'.",
+        "a": 40.8,
+        "l": 111.0,
+        "c": "Military",
+        "r": "Qin Dynasty",
+        "o": "Asia"
+      },
+      {
+        "t": "Construction of the Lingqu Canal, connecting the Yangtze and Pearl river systems",
+        "s": "To conquer the Baiyue in the south, Qin Shi Huang ordered the Superintendent of the Granary, Lu, to dig the Lingqu Canal, connecting the Xiang River (a Yangtze tributary) and the Li River (a Pearl River tributary). The Lingqu, about 34 km long, is one of the oldest man-made canals in the world.",
+        "a": 25.5,
+        "l": 110.5,
+        "c": "Technology",
+        "r": "Qin Dynasty",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome besieged Syracuse, prelude to Archimedes' death",
+        "s": "Rome sent Marcellus to capture Syracuse. King Hiero II of Syracuse had died, and the pro-Carthaginian faction took power. Archimedes designed various defensive machines (such as cranes and catapults) that heavily damaged the Roman navy, forcing Rome to besiege the city by land.",
+        "a": 37.1,
+        "l": 15.3,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -213,
+    "d": [
+      {
+        "i": "qin",
+        "n": "Qin",
+        "u": "Qin Shi Huang (Ying Zheng)",
+        "e": "34th year of First Emperor"
+      }
+    ],
+    "v": [
+      {
+        "t": "Qin Shi Huang ordered the burning of books, prohibiting private education",
+        "s": "Qin Shi Huang, following Li Si's advice, ordered the burning of the 'Book of Documents,' the 'Classic of Poetry,' and the writings of the Hundred Schools, and prohibited private education. Books on medicine, divination, and agriculture were exempt. Violators were punished, in an attempt to unify thought and suppress Confucian scholars and remnants of the six states.",
+        "a": 34.3,
+        "l": 108.7,
+        "c": "Culture",
+        "r": "Qin Dynasty",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -212,
+    "d": [
+      {
+        "i": "qin",
+        "n": "Qin",
+        "u": "Qin Shi Huang (Ying Zheng)",
+        "e": "35th year of First Emperor"
+      }
+    ],
+    "v": [
+      {
+        "t": "Archimedes was killed by a Roman soldier",
+        "s": "Roman troops captured the city while the Syracusans were celebrating a festival. Archimedes, at home studying a geometry problem, was stabbed by a Roman soldier who burst in. Marcellus gave Archimedes a magnificent funeral and called his killing a great regret.",
+        "a": 37.07,
+        "l": 15.29,
+        "c": "Science",
+        "r": "Syracuse",
+        "o": "Europe"
+      },
+      {
+        "t": "Qin Shi Huang buried alive over 460 alchemists and Confucian scholars",
+        "s": "After the alchemists Hou Sheng and Lu Sheng failed to find the elixir of immortality and fled, slandering the emperor, Qin Shi Huang, in anger, had over 460 alchemists and Confucian scholars in Xianyang buried alive. This event, known as the 'burning of scholars,' further intensified conflicts with the literati.",
+        "a": 34.3,
+        "l": 108.7,
+        "c": "Politics",
+        "r": "Qin Dynasty",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -211,
+    "d": [
+      {
+        "i": "qin",
+        "n": "Qin",
+        "u": "Qin Shi Huang (Ying Zheng)",
+        "e": "36th year of First Emperor"
+      }
+    ],
+    "v": [
+      {
+        "t": "Hannibal marched on Rome but did not attack the city",
+        "s": "Hannibal led his army close to Rome, showing force outside the city, but Rome's defenses were strong and its garrison ample. Hannibal lacked siege equipment and was forced to withdraw. This was the closest Hannibal came to victory.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Military",
+        "r": "Carthage",
+        "o": "Europe"
+      },
+      {
+        "t": "A meteor fell in Dong Commandery with a curse against the First Emperor",
+        "s": "A meteor fell in Dong Commandery (modern Puyang, Henan), and someone inscribed on it 'The First Emperor will die and the land will be divided.' The First Emperor sent investigators, but no culprit was found. He had all the residents around the meteor killed and destroyed the meteor.",
+        "a": 35.7,
+        "l": 115.0,
+        "c": "Politics",
+        "r": "Qin Dynasty",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -210,
+    "d": [
+      {
+        "i": "qin",
+        "n": "Qin",
+        "u": "Qin Er Shi (Huhai)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Qin Shi Huang died on a tour, Zhao Gao and Li Si forged the edict",
+        "s": "Qin Shi Huang died of illness on his fifth eastern tour at the Sandeng Platform (in modern Guangzong, Hebei). Zhao Gao and Li Si conspired to alter the edict, ordering the death of Crown Prince Fusu and installing Huhai as Qin Er Shi. This became known as the 'Usurpation at Shaqiu'.",
+        "a": 37.1,
+        "l": 115.2,
+        "c": "Politics",
+        "r": "Qin Dynasty",
+        "o": "Asia"
+      },
+      {
+        "t": "Scipio Africanus won a series of victories in Spain",
+        "s": "Scipio Africanus led his Roman army to capture the Carthaginian city of New Carthage in Spain, seizing silver mines and treasure. Carthaginian morale in Spain fell, and they gradually lost control of the peninsula.",
+        "a": 37.6,
+        "l": -1.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -209,
+    "d": [
+      {
+        "i": "qin",
+        "n": "Qin",
+        "u": "Qin Er Shi (Huhai)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Scipio Africanus captured New Carthage, reversing the war in Spain",
+        "s": "Taking advantage of the dispersal of Carthaginian forces, Scipio Africanus launched a surprise attack on New Carthage. The Roman army crossed the lagoon at low tide and breached the walls, capturing vast supplies and silver mines. Carthaginian rule in Spain teetered.",
+        "a": 37.6,
+        "l": -1.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Chen Sheng and Wu Guang rebelled at Daze Village, sparking the uprising at the end of Qin",
+        "s": "Conscript soldiers Chen Sheng and Wu Guang, delayed by heavy rain and facing execution under Qin law, rose up at Daze Village (modern Suzhou, Anhui), establishing the 'Zhang Chu' regime. Six-state remnants and peasants responded, and the Qin dynasty's rule began to crumble.",
+        "a": 33.0,
+        "l": 117.0,
+        "c": "Military",
+        "r": "Qin Dynasty",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -208,
+    "d": [
+      {
+        "i": "qin",
+        "n": "Qin",
+        "u": "Qin Er Shi (Huhai)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Scipio Africanus defeated the Carthaginian army at the Battle of Baecula",
+        "s": "Scipio Africanus defeated the combined forces of Carthaginian generals Gisgo and Hasdrubal at Baecula in Spain. Hasdrubal led his remaining forces across the Pyrenees to reinforce Hannibal in Italy.",
+        "a": 38.0,
+        "l": -3.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Battle of Dingtao: Xiang Liang was killed",
+        "s": "In 208 BCE, the Qin general Zhang Han fought a decisive battle at Dingtao (modern Dingtao, Shandong) against the main Chu army led by Xiang Liang. Zhang Han used his numerical advantage to launch a night attack, breaking the Chu army, and Xiang Liang was killed. The remaining Chu forces under Xiang Yu and Liu Bang were forced to retreat to Pengcheng (modern Xuzhou, Jiangsu) and assume a defensive posture. This was a major victory for the Qin army during the anti-Qin uprisings.",
+        "a": 35.1,
+        "l": 115.6,
+        "c": "Military",
+        "r": "Chu Army",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -207,
+    "d": [
+      {
+        "i": "qin",
+        "n": "Qin",
+        "u": "Qin Er Shi (Huhai)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Julu: Xiang Yu smashed his cauldrons and sank his boats to defeat the Qin army",
+        "s": "Xiang Yu led his Chu army across the Zhang River to relieve Julu, ordering the cauldrons broken and boats sunk, with each man carrying only three days' rations. The Chu army, vastly outnumbered, fought nine fierce battles and routed the main Qin forces under Zhang Han and Wang Li. The Battle of Julu destroyed the last military strength of the Qin dynasty.",
+        "a": 37.0,
+        "l": 115.0,
+        "c": "Military",
+        "r": "Chu Army",
+        "o": "Asia"
+      },
+      {
+        "t": "Battle of the Metaurus: Rome annihilated Hasdrubal's army",
+        "s": "Hasdrubal led his army across the Alps into Italy, attempting to join Hannibal. The Roman consuls Nero and Livius combined forces to ambush and annihilate the Carthaginian army at the Metaurus River, and Hasdrubal was killed. Hannibal lost his only reinforcements and was henceforth confined to southern Italy.",
+        "a": 43.8,
+        "l": 13.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -206,
+    "d": [
+      {
+        "i": "qin",
+        "n": "Qin",
+        "u": "King Ziying of Qin",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Liu Bang entered Xianyang, the Qin dynasty fell",
+        "s": "Liu Bang led his army through the Wu Pass, and King Ziying of Qin came out in plain clothes with a white cart to surrender. Liu Bang abolished the harsh Qin laws and established 'three chapters of law.' Xiang Yu later entered the pass with the allied forces, killed Ziying, burned the Qin palaces, and the Qin dynasty was completely destroyed.",
+        "a": 34.3,
+        "l": 108.86,
+        "c": "Politics",
+        "r": "Han Army",
+        "o": "Asia"
+      },
+      {
+        "t": "Hannibal withdrew to Bruttium in southern Italy",
+        "s": "Hannibal retreated from Lucania to Bruttium, the southernmost tip of Italy, losing control of important regions such as Campania. Rome adopted a strategy of containment, avoiding a decisive battle with Hannibal and gradually squeezing his living space.",
+        "a": 39.3,
+        "l": 16.5,
+        "c": "Military",
+        "r": "Carthage",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -205,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Gaozu of Han (Liu Bang)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Scipio Africanus planned an invasion of North Africa, forcing Carthage to recall Hannibal",
+        "s": "Scipio Africanus was elected consul. Ignoring opposition, he decided to attack Carthaginian homeland directly. He was given only Sicily and a small force, but he trained his army and secured support from the Numidian kingdom.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Han Xin pretended to repair the plank road but secretly marched through Chencang, pacifying the Three Qins",
+        "s": "Liu Bang appointed Han Xin as general. Han Xin feigned repairing the plank road while secretly marching through Chencang, launching a surprise attack on the Yong King Zhang Han, and quickly pacifying the Guanzhong region, the Three Qins, establishing a rear base for the Chu-Han War.",
+        "a": 34.4,
+        "l": 107.0,
+        "c": "Military",
+        "r": "Han Army",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -204,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Gaozu of Han (Liu Bang)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Scipio Africanus landed in Africa, allied with Numidia",
+        "s": "Scipio Africanus led his Roman army to land near Utica in Africa. He won the support of the Numidian prince Masinissa, gaining elite Numidian cavalry, greatly strengthening his forces.",
+        "a": 36.8,
+        "l": 10.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Africa"
+      },
+      {
+        "t": "Han Xin fought a 'back-to-the-river' battle and destroyed Zhao",
+        "s": "Han Xin placed his troops with their backs to the river at Jingxing Pass, luring the Zhao army to attack. Then he sent a surprise force to seize the Zhao camp, causing the Zhao army to collapse. Han Xin beheaded King Xie of Zhao, pacified Zhao, and continued his campaign against Dai.",
+        "a": 38.0,
+        "l": 114.0,
+        "c": "Military",
+        "r": "Han Army",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -203,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Gaozu of Han (Liu Bang)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of the Great Plains: Scipio defeated the Carthaginian-Numidian coalition",
+        "s": "Scipio Africanus defeated the combined forces of Carthaginian general Gisgo and Numidian king Syphax on the Great Plains in Africa. Syphax was captured. Carthage was forced to recall Hannibal.",
+        "a": 36.5,
+        "l": 9.5,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Africa"
+      },
+      {
+        "t": "Hannibal was forced to withdraw from Italy",
+        "s": "In 203 BCE, as Roman forces neared the Carthaginian homeland, the Carthaginian Senate urgently recalled Hannibal, who had been campaigning in Italy for fifteen years (218-203 BCE). Hannibal sailed from Croton back to Africa. This withdrawal marked the end of the Second Punic War in Italy, with Hannibal tearfully leaving the battlefield where he had ranged for so many years.",
+        "a": 38.0,
+        "l": 15.5,
+        "c": "Military",
+        "r": "Carthage",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -202,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Gaozu of Han (Liu Bang)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Zama: Scipio defeated Hannibal, ending the Second Punic War",
+        "s": "Scipio Africanus and Hannibal fought the decisive battle at Zama. Scipio used a flexible infantry formation, opening lanes for the war elephant charges, and his Numidian cavalry encircled the Carthaginian army. Hannibal was defeated, and Carthage sued for peace, losing all overseas territories and surrendering its fleet. Rome became the dominant power in the Mediterranean.",
+        "a": 36.0,
+        "l": 9.5,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Africa"
+      },
+      {
+        "t": "Battle of Gaixia: Xiang Yu committed suicide at the Wu River, Liu Bang founded the Han dynasty",
+        "s": "Liu Bang, together with Han Xin and Peng Yue, surrounded Xiang Yu at Gaixia (modern Lingbi, Anhui). Han Xin set up an ambush from ten sides, and Zhang Liang used the 'Four Sides of Chu Music' to break the Chu army's morale. Xiang Yu broke out but committed suicide at the Wu River. Liu Bang unified the realm and established the Han dynasty.",
+        "a": 33.6,
+        "l": 117.4,
+        "c": "Military",
+        "r": "Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -201,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Gaozu of Han (Liu Bang)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Liu Bang enfeoffed regional kings, implementing a system of commanderies and kingdoms",
+        "s": "Forced by circumstances, Liu Bang enfeoffed seven non-imperial kings, including Han Xin, Peng Yue, and Ying Bu, while retaining the commandery system. The Han dynasty thus had a dual administrative system of commanderies and kingdoms, laying the foundation for later centralization.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Carthage became a Roman dependency, Hannibal implemented reforms",
+        "s": "Under the terms of the treaty, Carthage retained its North African territory but could not declare war. Hannibal was elected suffete (magistrate), carrying out financial and military reforms, paying off the war indemnity, but arousing the jealousy of Carthaginian oligarchs.",
+        "a": 36.9,
+        "l": 10.3,
+        "c": "Politics",
+        "r": "Carthage",
+        "o": "Africa"
+      }
+    ]
+  }
+]

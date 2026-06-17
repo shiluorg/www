@@ -1,0 +1,3738 @@
+[
+  {
+    "y": 1001,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhenzong of Song",
+        "e": "Xianping 4th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Tonghe 19th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Mahmud of Ghazni's Expedition to India",
+        "s": "Mahmud of Ghazni, Sultan of the Ghaznavid dynasty, began multiple invasions of the Indian subcontinent from the year 1000. In 1001, he defeated the army of the Hindu Shahi dynasty near Peshawar and captured its ruler Jayapala. Mahmud's expeditions targeted Hindu and Buddhist temples in northern India, plundering vast wealth and extending Islamic influence deep into India, laying the groundwork for the later Delhi Sultanate.",
+        "a": 34.0,
+        "l": 71.5,
+        "c": "Military",
+        "r": "Ghaznavid Dynasty",
+        "o": "Asia"
+      },
+      {
+        "t": "Beginning of Georgian Unification",
+        "s": "Before Bagrat III of Georgia unified Abkhazia and Kakheti in 1008, he had already started consolidating the Georgian principalities. In 1001 he solidified his rule over the Tao-Klarjeti region, laying the foundation for later King David IV (1089-1125) to decisively defeat the Seljuk Turks and recapture Tbilisi. The unification of Georgia created a powerful Christian force in the Caucasus.",
+        "a": 42.0,
+        "l": 44.0,
+        "c": "Politics",
+        "r": "Georgia",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1002,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhenzong of Song",
+        "e": "Xianping 5th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Tonghe 20th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Tangut Leader Li Jiqian Captures Lingzhou",
+        "s": "Taking advantage of the weak Northern Song northwestern defense, Tangut leader Li Jiqian attacked and captured Lingzhou (present-day Lingwu, Ningxia), killing Song general Pei Ji. Li then renamed Lingzhou to Xiping Prefecture and made it the provisional capital of the Tangut regime. This victory gave the Tanguts control of the gateway to the Hexi Corridor, an important agricultural and transportation hub, laying the geographical and military foundation for Li Yuanhao's later Western Xia state.",
+        "a": 38.0,
+        "l": 106.3,
+        "c": "Military",
+        "r": "Pre-Western Xia",
+        "o": "Asia"
+      },
+      {
+        "t": "Pope Sylvester II Promotes Arabic Numerals",
+        "s": "Pope Sylvester II (formerly Gerbert of Aurillac), a renowned scholar who had studied mathematics and astronomy in Spain, wrote letters and works in 1002 promoting the use of Arabic numerals (0-9) and the abacus for calculation. Despite opposition from conservative clergy, his efforts opened the door to the revival of mathematics and innovation in commercial accounting in Europe.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Technology",
+        "r": "Papal States",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1003,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhenzong of Song",
+        "e": "Xianping 6th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Tonghe 21st Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Wangdu between Song and Liao",
+        "s": "Emperor Shengzong of Liao and Empress Dowager Xiao led their army south, engaging Song generals Wang Chao and Wang Jizhong in a fierce battle at Wangdu (present-day Wangdu, Hebei). The Song army suffered a major defeat due to discordant command and scattered forces; Wang Jizhong was captured. This battle created a serious gap in the Song's Hebei defense line, allowing the Liao army to march straight to Chanzhou, directly leading to the signing of the Chanyuan Treaty the following year.",
+        "a": 38.7,
+        "l": 115.2,
+        "c": "Military",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Murasaki Shikibu Begins Writing The Tale of Genji",
+        "s": "Around 1003, Japanese court lady Murasaki Shikibu began writing the long novel The Tale of Genji using the kana script. The work, centered on the love and political life of the nobleman Hikaru Genji, vividly depicts the details and psychological activities of Heian period court life and is hailed as the world's first full-length novel. Murasaki Shikibu's creation enriched Japanese literature and reflected the prosperity of the Fujiwara regency at the time.",
+        "a": 35.0,
+        "l": 135.8,
+        "c": "Literature",
+        "r": "Japan",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1004,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhenzong of Song",
+        "e": "Jingde 1st Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Tonghe 22nd Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Signing of the Chanyuan Treaty",
+        "s": "Emperor Shengzong of Liao and Empress Dowager Xiao led a large army deep into Song territory, reaching Chanzhou (present-day Puyang, Henan). Urged by Chancellor Kou Zhun, Emperor Zhenzong of Song personally led the campaign, boosting Song morale; a Song soldier shot and killed Liao general Xiao Talin. The two sides then negotiated and signed the Chanyuan Treaty: Song and Liao became brother states, and Song agreed to pay Liao an annual tribute of 100,000 taels of silver and 200,000 bolts of silk. This treaty maintained peace on the Song-Liao border for about 120 years, allowing the Northern Song to focus on dealing with Western Xia.",
+        "a": 35.7,
+        "l": 115.0,
+        "c": "Diplomacy",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Kingdom of Burgundy Incorporated into Holy Roman Empire",
+        "s": "In 1004, the childless King Rudolph III of Burgundy signed a treaty with Holy Roman Emperor Henry II stipulating that if Rudolph left no heirs, Burgundy would fall to the Holy Roman Empire. This political arrangement allowed Henry II to later incorporate Burgundy into the empire, expanding German influence west of the Alps.",
+        "a": 47.0,
+        "l": 4.5,
+        "c": "Politics",
+        "r": "Burgundy",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1005,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhenzong of Song",
+        "e": "Jingde 2nd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Tonghe 23rd Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Establishment of Official Kilns in Jingdezhen",
+        "s": "Emperor Zhenzong of the Northern Song bestowed his reign era name 'Jingde' upon Changnan Town (present-day Jingdezhen) and established official kilns there to produce ceramics exclusively for the court. Jingdezhen quickly developed into China's and subsequently the world's porcelain capital due to its high-quality kaolin clay and bluish-white ware (qingbai). The bluish-white ware, with a jade-like glaze, was highly popular in domestic and overseas markets.",
+        "a": 29.3,
+        "l": 117.2,
+        "c": "Craft",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Stephen I Consolidates Hungarian Royal Power",
+        "s": "In 1005, King Stephen I of Hungary (István I) issued decrees compelling all subjects to convert to Christianity and established ten bishoprics. By introducing chivalric orders and feudalism, he weakened the power of tribal chiefs and transformed Hungary from a nomadic tribal confederation into a powerful Christian kingdom in Central Europe.",
+        "a": 47.5,
+        "l": 19.0,
+        "c": "Politics",
+        "r": "Hungary",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1006,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhenzong of Song",
+        "e": "Jingde 3rd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Tonghe 24th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Dismissal of Kou Zhun",
+        "s": "After the Chanyuan Treaty, Kou Zhun was slandered by Wang Qinruo and others because his achievements overshadowed the emperor's. Wang told Emperor Zhenzong that the treaty was a humiliating one and that Kou had gambled with the emperor. Zhenzong gradually alienated Kou and dismissed him as chancellor in February 1006, exiling him to be prefect of Shanzhou. Kou's dismissal allowed the appeasement faction to dominate, and the Northern Song's policy toward Liao turned conservative.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Fatimid Dynasty Moves Capital to Cairo",
+        "s": "In 1006, Fatimid Caliph al-Hakim moved the administrative center from Mahdia in Tunisia to Cairo, further consolidating his rule over Egypt and Syria. Cairo became one of the most important political and cultural centers in the Islamic world; the Fatimids established the Al-Azhar Mosque and University there to spread Shi'a doctrines.",
+        "a": 30.0,
+        "l": 31.2,
+        "c": "Politics",
+        "r": "Fatimid Dynasty",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": 1007,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhenzong of Song",
+        "e": "Jingde 4th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Tonghe 25th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Completion of Liao's Supreme Capital (Shangjing)",
+        "s": "Emperor Shengzong of Liao completed the construction of the Supreme Capital (Shangjing, present-day Bairin Left Banner, Inner Mongolia) on the north bank of the Huang River (today's Xar Moron River). Shangjing was the first true capital built by the Khitans, consisting of a royal city and a Han city, reflecting the Liao dynasty's 'northern and southern administrative system' of ruling Khitans with tribal customs and Han Chinese with Chinese bureaucracy.",
+        "a": 43.9,
+        "l": 119.4,
+        "c": "Culture",
+        "r": "Liao",
+        "o": "Asia"
+      },
+      {
+        "t": "Birth of Cnut the Great",
+        "s": "Danish prince Cnut (later known as Cnut the Great) was born around 1007, son of King Sweyn I of Denmark. Cnut later conquered England, Norway, and parts of Denmark, establishing the North Sea Empire, becoming one of the most successful monarchs of the Viking Age.",
+        "a": 55.7,
+        "l": 12.6,
+        "c": "Politics",
+        "r": "Denmark",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1008,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhenzong of Song",
+        "e": "Dazhong Xiangfu 1st Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Tonghe 26th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Zhenzong Performs Fengshan Sacrifice at Mount Tai",
+        "s": "To conceal the humiliation of the Chanyuan Treaty, Emperor Zhenzong of Song fabricated heavenly scriptures descending and, in October 1008, led his officials to Mount Tai to perform the fengshan sacrifice, the last such imperial ceremony in Chinese history. The event consumed vast treasury reserves and encouraged nationwide sycophantic offerings of auspicious omens.",
+        "a": 36.3,
+        "l": 117.1,
+        "c": "Religion",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Completion of Taiping Yulan Encyclopedia",
+        "s": "The leishu (classified encyclopedia) Taiping Yulan, compiled by Northern Song scholars Li Fang, Hu Meng, and others under Emperor Taizong's commission, was completed around 1008 with block printing. The work comprises 1,000 volumes in 55 sections, citing 1,690 classical, historical, and philosophical texts. Along with Taiping Guangji, Wenyuan Yinghua, and Cefu Yuangui, it is one of the four great Song encyclopedias, preserving fragments of many lost ancient books.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Literature",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1009,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhenzong of Song",
+        "e": "Dazhong Xiangfu 2nd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Tonghe 27th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Ly Cong Uan Establishes the Ly Dynasty in Vietnam",
+        "s": "Ly Cong Uan, a former Le dynasty general, was proclaimed emperor at Thang Long (present-day Hanoi), founding the Ly dynasty. He changed the country's name to Dai Viet, made Thang Long the capital, and built palaces and walls. The Ly dynasty was the first long-term stable dynasty in Vietnam, promoting Buddhism as the state religion while adopting Confucian institutions, laying the foundation for Vietnam's independence from China.",
+        "a": 21.0,
+        "l": 105.8,
+        "c": "Politics",
+        "r": "Ly Dynasty",
+        "o": "Asia"
+      },
+      {
+        "t": "Death of Empress Dowager Xiao",
+        "s": "Empress Dowager Xiao Chuo (Xiao Yanyan) of the Liao dynasty died in December 1009. She had served as regent for 27 years since Emperor Jingzong's death, promoting Han Chinese officials like Han Derang, implementing the imperial examination system, refining laws, and leading campaigns against the Song, culminating in the Chanyuan Treaty. Her death marked the end of Khitan female rule; Emperor Shengzong began to reign personally.",
+        "a": 43.7,
+        "l": 122.3,
+        "c": "Politics",
+        "r": "Liao",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1010,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhenzong of Song",
+        "e": "Dazhong Xiangfu 3rd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Tonghe 28th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Shengzong of Liao Leads Campaign Against Goryeo",
+        "s": "Emperor Shengzong of Liao, citing Goryeo's harboring of Liao defectors, personally led a 400,000-strong army across the Yalu River into Goryeo. The Liao army captured the Goryeo capital Kaesong (present-day Kaesong, North Korea) and burned its palaces. King Hyeonjong of Goryeo fled south to Naju and was forced to sue for peace, becoming a tributary vassal to Liao and adopting Liao's reign era. Although nominally subservient, Goryeo maintained internal autonomy and continued secret contacts with the Song dynasty.",
+        "a": 37.9,
+        "l": 126.5,
+        "c": "Military",
+        "r": "Goryeo",
+        "o": "Asia"
+      },
+      {
+        "t": "Norman Knights Begin Moving South to Italy",
+        "s": "A group of Norman knights, on pilgrimage, arrived in southern Italy and were hired by Lombard nobles to fight against Byzantine forces. These Normans soon realized the chaotic situation in southern Italy and began seizing lands and castles. The sporadic conflicts of 1010 set the stage for Robert Guiscard's later establishment of the Kingdom of Sicily.",
+        "a": 41.0,
+        "l": 15.0,
+        "c": "Military",
+        "r": "Italy",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1011,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhenzong of Song",
+        "e": "Dazhong Xiangfu 4th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Tonghe 29th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Goryeo Submits to Liao",
+        "s": "Under Liao military pressure, King Hyeonjong of Goryeo formally submitted to Liao in 1011, accepting investiture from Emperor Shengzong and adopting the Liao reign era 'Tonghe'. Goryeo regularly sent tribute of ginseng, silk, and paper to Liao but retained internal administrative and military autonomy. The Goryeo dynasty subsequently adopted a 'serving the great' strategy, maintaining a flexible balance between Liao and Song to secure security and trade benefits.",
+        "a": 37.9,
+        "l": 126.5,
+        "c": "Diplomacy",
+        "r": "Goryeo",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Zhenzong Pays Homage to Taiqing Temple",
+        "s": "Seeking Daoist auspicious signs, Emperor Zhenzong led his officials to Bozhou (present-day Bozhou, Anhui) to pay homage at the Taiqing Temple, offering sacrifices to Laozi and conferring upon him the title 'Grand Supreme Elder Lord, Primal Origin, Virtue of Chaos'. This act consumed enormous finances and encouraged local officials to present omens, exacerbating political corruption and fiscal crisis in Zhenzong's later years.",
+        "a": 33.9,
+        "l": 115.8,
+        "c": "Religion",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1012,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhenzong of Song",
+        "e": "Dazhong Xiangfu 5th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Kaiping 1st Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Liao Shengzong Changes Era to Kaiping",
+        "s": "After quelling a rebellion among the nobility, Emperor Shengzong of Liao changed the reign era to 'Kaiping', symbolizing peace and prosperity. He ordered the compilation of the Liao Code in 12 volumes, implemented the imperial examination system, and established a national academy in the Supreme Capital. During the Kaiping era, the Liao dynasty reached its peak of civil governance, maintaining border market trade with the Song and frequent exchanges of envoys.",
+        "a": 43.7,
+        "l": 122.3,
+        "c": "Politics",
+        "r": "Liao",
+        "o": "Asia"
+      },
+      {
+        "t": "Cnut the Great Crowned King of Denmark",
+        "s": "After the death of King Sweyn I of Denmark, his son Cnut contended for the throne with his brother Harald II. In 1012, Cnut was crowned King of Denmark with the support of Viking nobles, then immediately prepared to invade England. He consolidated Viking forces, assembling a fleet of nearly 200 ships.",
+        "a": 55.7,
+        "l": 12.6,
+        "c": "Politics",
+        "r": "Denmark",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1013,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhenzong of Song",
+        "e": "Dazhong Xiangfu 6th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Kaiping 2nd Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Ding Wei's Rise to Power",
+        "s": "In his later years, Emperor Zhenzong indulged in Daoist auspicious signs; Chancellor Ding Wei gained favor through flattery and by overseeing the construction of the Jade Pure and Ultimate Palace. He ousted upright officials like Kou Zhun and formed a clique, earning the contemporary nickname 'Ding Wei's faction'. Although Ding Wei had genuine talents in engineering and water control, his patronage aggravated political corruption in the mid-Northern Song.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Fujiwara no Michinaga's Regency at Its Peak",
+        "s": "In 1013, Fujiwara clan leader Fujiwara no Michinaga installed his daughter Fujiwara no Shoshi as empress consort and ruled as regent, controlling the court. He left a waka poem: 'This world is my world, like the full moon without flaw,' marking the pinnacle of the regency system (sekkan seiji). Through marriage alliances and manor economies, Michinaga firmly controlled the emperor and central government in Japan.",
+        "a": 35.0,
+        "l": 135.8,
+        "c": "Politics",
+        "r": "Japan",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1014,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhenzong of Song",
+        "e": "Dazhong Xiangfu 7th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Kaiping 3rd Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Kleidion: Byzantium Crushes Bulgaria",
+        "s": "Byzantine Emperor Basil II besieged the army of Bulgarian Tsar Samuel at Kleidion (southwestern Bulgaria). After months of siege, the Byzantines captured the fortress and took about 15,000 Bulgarian soldiers prisoner. Basil II brutally blinded 99 out of every 100 prisoners, leaving one one-eyed man per hundred to lead the rest home. Samuel died of shock upon seeing the gruesome sight, and the First Bulgarian Empire fell.",
+        "a": 41.4,
+        "l": 23.3,
+        "c": "Military",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Zhenzong Pays Homage to Taiqing Temple in Bozhou",
+        "s": "Following the Mount Tai fengshan and the Fenyin sacrifices to Houtu, Emperor Zhenzong again went to the Taiqing Temple in Bozhou to venerate Laozi in 1014, bestowing on him the title 'Grand Supreme Elder Lord, Primal Origin, Virtue of Chaos'. He ordered the repair of temples and the erection of steles, and reduced taxes in Bozhou. These frequent religious tours drained the treasury and worsened the financial crisis of the mid-Northern Song.",
+        "a": 33.9,
+        "l": 115.8,
+        "c": "Religion",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1015,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhenzong of Song",
+        "e": "Dazhong Xiangfu 8th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Kaiping 4th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Cnut the Great Invades England",
+        "s": "King Cnut of Denmark led a fleet of about 200 ships and over ten thousand Viking warriors to land in England, engaging in fierce battles with King Edmund II of England. After several protracted battles, the two sides divided the country the following year, with Cnut controlling northern England and London. This campaign laid the foundation for Cnut's eventual unification of England and the establishment of the North Sea Empire.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "Military",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Chola Empire Expedition in the Bay of Bengal",
+        "s": "Chola king Rajendra I dispatched a naval expedition into the Bay of Bengal, occupying the Andaman and Nicobar Islands and raiding ports of the Srivijaya Empire in Sumatra. The Chola Empire gained control over the eastern Indian Ocean maritime trade routes, greatly expanding South Indian merchant influence in Southeast Asia.",
+        "a": 12.0,
+        "l": 80.0,
+        "c": "Military",
+        "r": "Chola Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1016,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhenzong of Song",
+        "e": "Dazhong Xiangfu 9th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Kaiping 5th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Cnut the Great Conquers All of England",
+        "s": "Cnut decisively defeated King Edmund II of England at the Battle of Assandun; Edmund soon died, and Cnut became king of all England. He adopted a moderate policy, retaining the status and laws of Anglo-Saxon nobles while placing Danish loyalists in key positions. Cnut's rule brought England into the final prosperous period of the Viking Age.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "Politics",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Private Jiaozi Currency Begins Circulation in Sichuan",
+        "s": "Because iron coins were heavy (each string weighing about 6.5 jin) in the Northern Song's Sichuan region, sixteen wealthy merchants jointly issued 'private jiaozi' as a substitute for large transactions. Depositors could exchange iron coins for a jiaozi certificate with the amount written on it, which could be cashed elsewhere. The jiaozi was the world's earliest form of paper currency, greatly improving commercial efficiency.",
+        "a": 30.6,
+        "l": 104.0,
+        "c": "Economy",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1017,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhenzong of Song",
+        "e": "Tianxi 1st Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Kaiping 6th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Goryeo Resumes Diplomatic Relations with Song",
+        "s": "Taking advantage of the rebellion of Bohai leader Da Yanlin in the Liao northeast, Goryeo resumed diplomatic contact with the Northern Song, sending envoys by sea to pay tribute. Emperor Zhenzong warmly received them and bestowed the Nine Classics and historical books. Thereafter, maritime trade and cultural exchanges between Song and Goryeo flourished; Goryeo remained nominally a Liao tributary but maximized benefits through dual diplomacy.",
+        "a": 37.9,
+        "l": 126.5,
+        "c": "Diplomacy",
+        "r": "Goryeo",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Zhenzong's Fabrication of Heavenly Scriptures Reaches Climax",
+        "s": "Emperor Zhenzong held a grand 'Presentation of Heavenly Scriptures' ceremony at the Daging Hall in the imperial palace, enshrining three fabricated 'heavenly scriptures' and declaring the third day of the first lunar month as the 'Heavenly Celebration Festival'. Throughout the country, officials were forced to build Heavenly Celebration Temples and lead worship. These formalistic rituals consumed enormous resources and worsened the fiscal crisis of Zhenzong's later years.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Religion",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1018,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhenzong of Song",
+        "e": "Tianxi 2nd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Kaiping 7th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Goryeo's Great Victory at Guju Repels Liao Army",
+        "s": "Emperor Shengzong of Liao sent Xiao Paiying with 100,000 troops to invade Goryeo again. Goryeo general Kang Kam-ch'an laid an ambush at Guju (present-day Kusong, North Pyongan Province), using guerrilla tactics to deplete Liao supplies. When the exhausted Liao army retreated, Kang launched a general offensive, inflicting tens of thousands of casualties. This great victory preserved Goryeo's independence, and Kang Kam-ch'an was revered as a national hero.",
+        "a": 40.0,
+        "l": 125.0,
+        "c": "Military",
+        "r": "Goryeo",
+        "o": "Asia"
+      },
+      {
+        "t": "Treaty of Bautzen between Poland and Holy Roman Empire",
+        "s": "After prolonged warfare, Duke Bolesław I of Poland and Holy Roman Emperor Henry II signed a treaty at Bautzen (present-day Saxony, Germany). Poland retained the disputed border territories of Lusatia and Meissen; Bolesław I was crowned the first king of Poland in 1025. The treaty consolidated Poland's independent status.",
+        "a": 51.2,
+        "l": 14.2,
+        "c": "Diplomacy",
+        "r": "Poland",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1019,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhenzong of Song",
+        "e": "Tianxi 3rd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Kaiping 8th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Yaroslav Becomes Grand Prince of Kiev",
+        "a": 50.5,
+        "l": 30.5,
+        "c": "Politics",
+        "r": "Kievan Rus'",
+        "o": "Europe",
+        "s": "In 1019, Yaroslav the Wise became Grand Prince of Kievan Rus' after defeating his brother Sviatopolk. Yaroslav's reign (1019-1054) was the golden age of Kievan Rus'. He compiled the Russkaya Pravda (Rus' Justice), established the first library in Rus' at Saint Sophia Cathedral, and forged marriage alliances with European royal houses."
+      },
+      {
+        "t": "Kou Zhun Reappointed Then Dismissed",
+        "s": "In his later years, Emperor Zhenzong attempted to reappoint Kou Zhun to balance Ding Wei's influence, but Kou's upright nature again offended the powerful. He was chancellor for only a few months before being slandered by Ding Wei and exiled, eventually dying in exile. Kou's tragedy reflected the intensifying factional strife and chaotic governance in Zhenzong's final years.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1020,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhenzong of Song",
+        "e": "Tianxi 4th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Kaiping 9th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Persian Scholar Al-Biruni Completes Kitab al-Hind",
+        "s": "After years of travel in India, Ghaznavid scholar Al-Biruni completed his monumental work Kitab al-Hind (The Book of India). The book details India's caste system, astronomy, mathematics, medicine, and religious philosophy, analyzing differences and similarities between Indian and Islamic cultures from an objective comparative perspective, and is a classic in the history of anthropology.",
+        "a": 28.0,
+        "l": 77.0,
+        "c": "Culture",
+        "r": "Ghaznavid Dynasty",
+        "o": "Asia"
+      },
+      {
+        "t": "Ding Wei's Power at Its Peak",
+        "s": "During Emperor Zhenzong's grave illness, Chancellor Ding Wei, in collusion with eunuch Lei Yungong, dominated the court and excluded dissenters. Although he had achievements in palace restoration and Yellow River control, he formed cliques and engaged in bribery and corruption, earning a place in the Song History's Biographies of Villainous Officials. After Zhenzong's death, Ding Wei was exiled to Guang Prefecture and died there.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1021,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhenzong of Song",
+        "e": "Tianxi 5th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Taiping 1st Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Liao Shengzong Changes Era to Taiping",
+        "s": "Emperor Shengzong of Liao changed the reign era to 'Taiping', marking a shift from military to civil governance. He ordered the compilation of the Liao Code, promoted the imperial examination system, reduced taxes, and repeatedly opened granaries for disaster relief. During the Taiping era, border market trade flourished, but succession issues became prominent, with intensified conflicts between the empress and consorts, foreshadowing future political turmoil.",
+        "a": 43.7,
+        "l": 122.3,
+        "c": "Politics",
+        "r": "Liao",
+        "o": "Asia"
+      },
+      {
+        "t": "Perfection of the Ever-Normal Granary System in Song",
+        "s": "Emperor Zhenzong decreed the establishment of ever-normal granaries (changpingcang) in all prefectures and counties across the country. In good harvest years, grain was purchased at slightly above market prices for storage; in poor years, it was sold at low prices to stabilize grain prices. This system became the core of the Northern Song's social relief network, effectively alleviating peasants' hardship caused by price fluctuations.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Economy",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1022,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Qianxing 1st Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Taiping 2nd Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Zhenzong Dies, Renzong Ascends",
+        "s": "Emperor Zhenzong of Song died at the Yanqing Hall in Kaifeng at age 55, having reigned 26 years. The will appointed his 12-year-old son Zhao Zhen (Emperor Renzong) as successor, with Empress Dowager Liu governing behind the curtain. Renzong reigned for 42 years, the longest of the Northern Song, during which outstanding officials like Bao Zheng, Ouyang Xiu, Fan Zhongyan, and Su Shi emerged, ushering in the golden age of Song culture.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Avicenna Completes The Canon of Medicine",
+        "s": "Persian physician Ibn Sina (Avicenna) completed his five-volume work The Canon of Medicine (Al-Qanun fi al-Tibb) around 1022. The book systematically summarized ancient Greek and Arabic medical knowledge, covering anatomy, pathology, pharmacology, and surgery. Translated into Latin in the 12th century, it became the standard textbook in European medical schools and remained in print until the 17th century.",
+        "a": 33.3,
+        "l": 44.4,
+        "c": "Technology",
+        "r": "Arab Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1023,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Tiansheng 1st Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Taiping 3rd Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Song Government Issues Official Jiaozi",
+        "s": "The Northern Song government established the 'Yizhou Jiaozi Bureau' in Chengdu, taking private jiaozi under official management and issuing the world's first official government paper currency – the official jiaozi. The official jiaozi was backed by iron coin reserves, issued in batches (each batch about 1.25 million strings) every three years, with complex patterns and anti-counterfeiting marks. The appearance of jiaozi marked a leap from metal to credit-based currency.",
+        "a": 30.6,
+        "l": 104.0,
+        "c": "Economy",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Cnut the Great Becomes King of Norway",
+        "s": "After defeating King Olaf II of Norway, Cnut the Great, King of Denmark and England, was recognized as King of Norway by Norwegian nobles in 1023. Cnut established the North Sea Empire, comprising England, Denmark, and Norway, and briefly controlled southern Sweden. He promoted uniform coinage and laws and was the last great monarch of the Viking Age.",
+        "a": 60.0,
+        "l": 10.0,
+        "c": "Politics",
+        "r": "Norway",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1024,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Tiansheng 2nd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Taiping 4th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Empress Dowager Liu Rules Behind the Curtain",
+        "s": "As Emperor Renzong was young, Empress Dowager Liu (Liu E) ruled behind the curtain, actually controlling state affairs for 11 years. She dismissed wicked ministers like Ding Wei, appointed capable officials like Lü Yijian, and promulgated the Tiansheng Code, standardizing official selection and judicial proceedings. Although a woman, Empress Dowager Liu governed effectively and was praised as 'having the talent of Lü Wu (Empress Lü) but not her evil'.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Fang La Rebellion in Zhejiang",
+        "s": "In 1024, peasant Fang La, unable to bear heavy taxes and the harassment of Zhu Mian's 'flower and rock network', launched a rebellion at Qingxi in Muzhou (present-day Chun'an, Zhejiang). The rebel army quickly occupied six prefectures and 52 counties, with Fang proclaiming himself 'Sacred Duke'. The Northern Song sent Tong Guan with 150,000 troops to suppress the rebellion; Fang La was captured and executed after a year-long struggle, but the rebellion severely shook the Northern Song regime.",
+        "a": 29.5,
+        "l": 119.0,
+        "c": "Military",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1025,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Tiansheng 3rd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Taiping 5th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Bolesław I of Poland Crowned King",
+        "s": "Duke Bolesław I of Poland was crowned the first king of Poland at Gniezno Cathedral. Through prolonged warfare and diplomacy, he expanded Polish territory to the Oder River and the Carpathian Mountains. Bolesław's coronation made Poland a recognized European kingdom, freeing it from the suzerainty of the Holy Roman Empire.",
+        "a": 52.5,
+        "l": 17.5,
+        "c": "Politics",
+        "r": "Poland",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Renzong Orders Compilation of Essentials of Military Arts",
+        "s": "In light of military defeats in the Song-Xia wars, Emperor Renzong ordered Zeng Gongliang, Ding Du, and others to compile the Essentials of Military Arts (Wujing Zongyao). The work, in 40 volumes, covers weapon manufacturing, troop drill and formation, fortification defense, and military geography, detailing gunpowder formulas and the use of fire weapons (e.g., caltrop fireballs, cannons). It is the world's earliest comprehensive military encyclopedia.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Technology",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1026,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Tiansheng 4th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Taiping 6th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Seljuk Turks Conquer Central Persia",
+        "s": "Seljuk leader Tughril Beg led Turkic nomadic tribes to capture the central Persian city of Ray (near present-day Tehran), defeating the Ghaznavid garrison. The Seljuks positioned themselves as defenders of Sunni Islam, employing Persian bureaucrats to administer, gradually building a vast empire from the Amu Darya to Persia.",
+        "a": 35.7,
+        "l": 51.4,
+        "c": "Military",
+        "r": "Seljuk Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Beginning of Written Norse Sagas",
+        "s": "Icelandic scholars began to write down previously orally transmitted Viking hero legends in Old Norse, forming the saga literature. The sagas include Njáls saga, Egil's saga, and others, recording the Norse explorations, family feuds, and settlement history, and are vital documents for studying medieval Icelandic society and Viking culture.",
+        "a": 64.0,
+        "l": -21.0,
+        "c": "Literature",
+        "r": "Iceland",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1027,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Tiansheng 5th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Taiping 7th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Yan Su Restores the South-Pointing Chariot",
+        "s": "Northern Song scientist Yan Su, under imperial order, restored the long-lost south-pointing chariot. The chariot used differential gears: when the vehicle turned, the gear train automatically compensated for the angle, keeping the wooden figure on top pointing south. Yan Su detailed its internal structure in 'Record of the South-Pointing Chariot', representing the highest level of precision mechanical engineering in the Song dynasty.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Technology",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Rise of the Kondo Kingdom in the Niger Valley",
+        "s": "The Soninke people in the upper Niger Valley of West Africa established the Kondo Kingdom, with the trade hub of Wakata as its capital. Controlling the gold and salt trade along the trans-Saharan routes, Kondo became an important successor to the declining Ghana Empire. The kingdom's military power relied on mounted archers; at its height, it extended from the Senegal River to the Niger River.",
+        "a": 13.0,
+        "l": -3.0,
+        "c": "Politics",
+        "r": "West Africa",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": 1028,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Tiansheng 6th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Taiping 8th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Cnut the Great Invades Norway",
+        "s": "King Cnut of Denmark led a fleet from England to invade Norway. At Nidaros (present-day Trondheim), he defeated King Olaf II of Norway, forcing him to flee to Kievan Rus'. Cnut then crowned himself King of Norway, introducing Christianity and feudalism to Norway.",
+        "a": 63.4,
+        "l": 10.4,
+        "c": "Military",
+        "r": "Norway",
+        "o": "Europe"
+      },
+      {
+        "t": "Bi Sheng Experiments with Movable Type Printing",
+        "s": "Northern Song artisan Bi Sheng began experimenting with clay movable type printing around 1028 during the Qingli era. He carved individual characters from clay, hardened them by firing, and set them on an iron plate coated with pine resin and wax for printing. Bi Sheng's invention was the world's earliest movable type printing technology, predating Gutenberg by over 400 years.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Technology",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1029,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Tiansheng 7th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Taiping 9th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Da Yanlin Rebellion in Liao",
+        "s": "Da Yanlin, a descendant of the Bohai people, took advantage of political laxity in the Liao dynasty to launch a rebellion at the Eastern Capital (present-day Liaoyang, Liaoning), proclaiming himself 'Emperor Xingliao'. The rebel forces occupied large parts of Liaodong and besieged Liaoyang. Emperor Shengzong dispatched troops to suppress the rebellion, which lasted nearly a year before failing; Da Yanlin was captured and killed. The rebellion reflected the Bohai remnants' dissatisfaction with Khitan rule.",
+        "a": 41.3,
+        "l": 123.2,
+        "c": "Military",
+        "r": "Liao",
+        "o": "Asia"
+      },
+      {
+        "t": "Empress Dowager Liu Promulgates the Tiansheng Code",
+        "s": "The regent Empress Dowager Liu ordered the compilation and promulgation of the Tiansheng Code. Based on the Tang Code but revised for Song realities, it comprised 30 volumes containing over 700 articles. The code regulated land taxes, corvée labor, marriage, litigation, etc., serving as an important legal basis for the mid-Northern Song.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1030,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Tiansheng 8th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Shengzong of Liao",
+        "e": "Taiping 10th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Stiklestad",
+        "s": "Exiled Norwegian king Olaf II returned with an army to reclaim his throne, engaging the Norwegian noble army supporting Cnut the Great at Stiklestad. Olaf was defeated and killed, but after his death he was canonized as Saint Olaf by the Norwegian Church. His relics are enshrined in Nidaros Cathedral in Trondheim, becoming a symbol of the Norwegian nation.",
+        "a": 63.7,
+        "l": 11.0,
+        "c": "Military",
+        "r": "Norway",
+        "o": "Europe"
+      },
+      {
+        "t": "Battle of Miletus: Seljuks Defeat Ghaznavids",
+        "s": "The Seljuk army decisively defeated Ghaznavid Sultan Mas'ud I at the Battle of Dandanqan near Miletus. The Ghaznavids lost their territories in Persia and Central Asia, retreating to Afghanistan and India. The Seljuks formally established rule over Khorasan, and Tughril Beg proclaimed himself Sultan, ushering in the Seljuk Empire era.",
+        "a": 36.0,
+        "l": 60.0,
+        "c": "Military",
+        "r": "Seljuk Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1031,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Tiansheng 9th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Xingzong of Liao",
+        "e": "Jingfu 1st Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Liao Shengzong Dies, Xingzong Ascends",
+        "s": "Emperor Shengzong of Liao died in his traveling palace at age 60, having reigned 49 years. His eldest son Yelü Zongzhen succeeded him as Emperor Xingzong, only 15 years old, with his mother Xiao Noujin as regent. During Xingzong's reign, the Liao dynasty began to decline from its peak, with intensified internal aristocratic strife.",
+        "a": 43.7,
+        "l": 122.3,
+        "c": "Politics",
+        "r": "Liao",
+        "o": "Asia"
+      },
+      {
+        "t": "Battle of Zulaiqa: Rise of the Almoravid Dynasty",
+        "s": "The Almoravid army, founded by Islamic scholar Abdallah ibn Yasin, defeated the army of the Ghana Empire at the Battle of Zulaiqa. United by strict Islamic faith, the Almoravids gradually took control of the Saharan trade routes, laying the foundation for their later conquest of Morocco and Al-Andalus.",
+        "a": 24.0,
+        "l": -12.0,
+        "c": "Military",
+        "r": "West Africa",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": 1032,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Mingdao 1st Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Xingzong of Liao",
+        "e": "Chongxi 1st Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Li Yuanhao Succeeds and Begins Independence Preparations",
+        "s": "After the death of Tangut leader Li Deming, his son Li Yuanhao succeeded as military commissioner of Xia Prefecture. Yuanhao, proficient in Tangut, Chinese, and Tibetan, and knowledgeable in Buddhism and military strategy, immediately abolished the Song and Tang surnames bestowed (Li and Zhao), changing his clan name to 'Weiming'. He issued a 'haircut decree' forcing Tanguts to shave their heads and change clothing, created a Tangut script, and reorganized the army into 'capture corps' and 'guard corps'. These measures prepared for his formal declaration of empire in 1038.",
+        "a": 38.3,
+        "l": 106.0,
+        "c": "Politics",
+        "r": "Western Xia",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Renzong Implements Name-Hiding in Imperial Examinations",
+        "s": "Emperor Renzong decreed the full implementation of 'name-hiding' (糊名) and 'transcription' (誊录) in the imperial examinations. Candidates' names and native places were sealed with paper, and answer sheets were recopied by designated scribes before grading to prevent favoritism. This system allowed more commoner children to enter officialdom through the examinations, broadening the Song's ruling base.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Education",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1033,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Mingdao 2nd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Xingzong of Liao",
+        "e": "Chongxi 2nd Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Empress Dowager Liu Dies, Renzong Rules Personally",
+        "s": "Empress Dowager Liu, who had ruled behind the curtain for 11 years, died, and Emperor Renzong began to rule personally. Learning that his birth mother was Consort Li, not Empress Liu, Renzong initially considered investigating the truth but ultimately buried Empress Liu with proper rites. After taking power, Renzong worked diligently, appointing wise officials like Fan Zhongyan and Bao Zheng, and initiated the 'Qingli Reforms'.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Li Yuanhao Attacks the Tibetan Tsongkha Regime",
+        "s": "Western Xia leader Li Yuanhao led his army against the Tibetan Tsongkha regime in eastern Qinghai, attempting to seize the Hehuang region's fine horse pastures. The Tsongkha leader Juesi Luo organized Tibetan tribes to resist fiercely, with both sides achieving some victories. Although Yuanhao did not fully conquer Hehuang, he plundered a large number of people and livestock, strengthening Western Xia's power.",
+        "a": 36.0,
+        "l": 102.0,
+        "c": "Military",
+        "r": "Western Xia",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1034,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Jingyou 1st Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Xingzong of Liao",
+        "e": "Chongxi 3rd Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Li Yuanhao Captures Guazhou and Shazhou",
+        "s": "Western Xia leader Li Yuanhao led his army to capture Guazhou (present-day Guazhou, Gansu) and Shazhou (present-day Dunhuang, Gansu) in the Hexi Corridor. These cities originally belonged to the Guiyi Circuit; by taking them, Yuanhao cut off the Song's connection with the Western Regions and acquired the rich Buddhist artistic heritage of Dunhuang, providing resources for the development of Western Xia Buddhist culture.",
+        "a": 40.2,
+        "l": 95.5,
+        "c": "Military",
+        "r": "Western Xia",
+        "o": "Asia"
+      },
+      {
+        "t": "David IV of Georgia Defeats the Seljuks",
+        "s": "King David IV of Georgia repelled the Seljuk Turk invasion at the Battle of Shirvan. By recruiting Kipchak cavalry and reforming the army, Georgia became a military power in the Caucasus. This victory marked the beginning of a Georgian counteroffensive, gradually recapturing Tbilisi and other cities occupied by the Seljuks.",
+        "a": 41.7,
+        "l": 44.8,
+        "c": "Military",
+        "r": "Georgia",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1035,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Jingyou 2nd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Xingzong of Liao",
+        "e": "Chongxi 4th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Cnut the Great Dies, North Sea Empire Collapses",
+        "s": "Cnut the Great, founder of the North Sea Empire, died in England at about age 40. After his death, the empire quickly split: his eldest son Harthacnut inherited Denmark, and his second son Harold I inherited England. Although short-lived, the North Sea Empire demonstrated the possibility of integrating Scandinavia and Britain, marking the end of the Viking Age.",
+        "a": 55.7,
+        "l": 12.6,
+        "c": "Politics",
+        "r": "Denmark",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Renzong Establishes Guanghui Granaries",
+        "s": "Emperor Renzong decreed the establishment of Guanghui granaries nationwide, specifically for relieving the widowed, orphaned, solitary, and disabled poor. The grain for the Guanghui granaries came from confiscated abandoned land and official field income, forming, together with the ever-normal and community granaries, the Northern Song's social security system. This system embodied the practice of 'benevolent governance' in the Song dynasty.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Society",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1036,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Jingyou 3rd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Xingzong of Liao",
+        "e": "Chongxi 5th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Fan Zhongyan Exiled for Criticizing Court Politics",
+        "s": "Fan Zhongyan submitted a memorial to Emperor Renzong criticizing Chancellor Lü Yijian for cronyism and corruption, presenting the 'Hundred Officials Map' to expose graft. Lü Yijian counter-accused Fan of 'exceeding his duties and forming factions', and Renzong exiled Fan as prefect of Raozhou. Fan's demotion sparked support from young officials like Ouyang Xiu, signaling the beginning of factional strife in the Northern Song.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Tangut Script Completed and Promulgated",
+        "s": "Li Yuanhao ordered his minister Yeli Renrong to create a Tangut script (also called 'Fan script') over three years, comprising over 6,000 complex characters. Yuanhao ordered it to be used nationwide, established a 'Fan Academy' to promote it, and had Chinese classics like the Analects and Mencius translated into Tangut. The creation of the Tangut script strengthened the cultural cohesion of the Tangut people.",
+        "a": 38.3,
+        "l": 106.0,
+        "c": "Culture",
+        "r": "Western Xia",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1037,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Jingyou 4th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Xingzong of Liao",
+        "e": "Chongxi 6th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Formal Establishment of the Seljuk Empire",
+        "s": "Seljuk leader Tughril Beg held an enthronement ceremony in Nishapur, proclaiming himself 'Sultan', marking the formal establishment of the Seljuk Empire. He declared Sunni Islam as the official creed and appointed Persian Nizam al-Mulk as vizier. The Seljuk Empire then expanded rapidly, becoming the most powerful military force in the Middle East.",
+        "a": 36.2,
+        "l": 58.8,
+        "c": "Politics",
+        "r": "Seljuk Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Death of Avicenna",
+        "s": "Persian polymath Ibn Sina (Avicenna) died in Hamadan at age 57. He wrote over 400 works covering medicine, philosophy, mathematics, and music. His masterpieces The Canon of Medicine and The Book of Healing were revered as classics in the Islamic world and Europe, earning him the title 'King of Islamic Medicine'.",
+        "a": 34.8,
+        "l": 48.5,
+        "c": "Technology",
+        "r": "Persia",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1038,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Baoyuan 1st Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Xingzong of Liao",
+        "e": "Chongxi 7th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Li Yuanhao Declares Emperor, Western Xia Founded",
+        "s": "Li Yuanhao built an altar in Xingqing Prefecture (present-day Yinchuan) and formally proclaimed himself emperor, with the state name 'Great Xia', historically known as Western Xia. He posthumously honored his grandfather Li Jiqian as Taizu, established civil and military official posts, and made Xingqing the capital. Emperor Renzong of Song was enraged upon hearing this, decreeing the stripping of Li's titles and halting border trade, and the Song-Xia war was imminent.",
+        "a": 38.5,
+        "l": 106.3,
+        "c": "Politics",
+        "r": "Western Xia",
+        "o": "Asia"
+      },
+      {
+        "t": "Ouyang Xiu Writes 'On Factions' in Response to Fan Zhongyan's Exile",
+        "s": "After Fan Zhongyan was exiled, Ouyang Xiu wrote 'On Factions' (Pengdang Lun) in open support of Fan, refuting the traditional notion that 'gentlemen do not form factions'. He argued that 'gentlemen form factions based on common principles, while petty men form factions based on common interests', advocating that a party of gentlemen benefits the state. This essay marked the awakening of political consciousness among Northern Song scholar-officials and the publicization of factional strife.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Literature",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1039,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Baoyuan 2nd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Xingzong of Liao",
+        "e": "Chongxi 8th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Outbreak of Song-Xia War: Three Song Columns Fail",
+        "s": "Emperor Renzong appointed Fan Yong as commander, dividing Song forces into three columns to attack Western Xia. However, the Song army lacked understanding of Tangut cavalry tactics and faced logistical difficulties; they were ambushed by Western Xia at Sanchuankou and suffered a major defeat. Heavy casualties were incurred, and Li Yuanhao took advantage to besiege Yanzhou (present-day Yan'an), forcing the Song to send reinforcements.",
+        "a": 36.6,
+        "l": 109.5,
+        "c": "Military",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Guido of Arezzo Invents Four-Line Staff Notation",
+        "s": "Italian Benedictine monk Guido of Arezzo invented four-line staff notation, using four parallel lines and spaces to indicate pitch clearly, with F or C clefs. He also created the solmization syllables (Ut-Re-Mi-Fa-Sol-La) taken from the initial syllables of each line of the hymn to St. John the Baptist. This innovation allowed music to be accurately recorded and disseminated, laying the foundation for the Western notation system.",
+        "a": 43.0,
+        "l": 11.0,
+        "c": "Music",
+        "r": "Italy",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1040,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Kangding 1st Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Xingzong of Liao",
+        "e": "Chongxi 9th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Sanchuankou: Western Xia Crushes Song Army",
+        "s": "Western Xia leader Li Yuanhao led 100,000 troops to attack Yanzhou, surrounding the Song forces of Generals Liu Ping and Shi Yuanjun at Sanchuankou (west of present-day Yan'an, Shaanxi). Due to untimely reinforcements and command errors, the Song army was annihilated, and Liu Ping was captured. Yanzhou city was in imminent danger, but stubborn defense and a heavy snowstorm caused the Western Xia forces to run out of supplies and withdraw. The battle exposed the weakness of the Song military.",
+        "a": 36.6,
+        "l": 109.5,
+        "c": "Military",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Western Xia Captures Bao'an Military Settlement",
+        "s": "Li Yuanhao led his army to capture Bao'an Military Settlement (present-day Zhidan, Shaanxi), a key Song fortress in Shaanxi. The Western Xia cavalry used their mobility to bypass the Song's frontal defenses and succeeded with a flank attack. After the fall of Bao'an, the Song's defense system north of Yanzhou collapsed, allowing Western Xia to march deep into the Guanzhong Plain.",
+        "a": 36.8,
+        "l": 108.8,
+        "c": "Military",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1041,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Qingli 1st Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Xingzong of Liao",
+        "e": "Chongxi 10th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Haoshuichuan: Another Song Defeat",
+        "s": "Song general Ren Fu pursued Western Xia forces to Haoshuichuan (present-day Longde, Ningxia) and fell into Li Yuanhao's ambush. The Western Xia army released hundreds of pigeons from cages; when the Song troops entered the encirclement, the pigeons were released as a signal, and the ambushers attacked from all sides. The Song army was almost completely wiped out, and Ren Fu died in battle. This loss cost the Northern Song over 10,000 elite troops and shook the Guanzhong region.",
+        "a": 35.5,
+        "l": 106.0,
+        "c": "Military",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman Church Begins Gregorian Reform",
+        "s": "Although Pope Gregory VII had not yet ascended (he became pope in 1073), the reform ideas he championed were already brewing in the 1040s. The Roman curia issued decrees forbidding clerical marriage and simony (the sale of church offices), seeking to free the church from control by secular feudal lords. These measures met with strong opposition from some bishops and kings.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Religion",
+        "r": "Papal States",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1042,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Qingli 2nd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Xingzong of Liao",
+        "e": "Chongxi 11th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Dingchuan Stockade: Song Suffers Heavy Loss",
+        "s": "Western Xia's Li Yuanhao attacked the Jingyuan Route; Song general Ge Huaimin led his forces to fight but was surrounded by Western Xia at Dingchuan Stockade (present-day Guyuan, Ningxia). Ge was killed while trying to break out, and the Song army lost over 9,000 men. Western Xia took advantage to reach Weizhou (present-day Pingliang), pillaging and burning before withdrawing. This was the third major defeat for the Song in the Song-Xia war.",
+        "a": 36.0,
+        "l": 106.3,
+        "c": "Military",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Liao Takes Advantage to Demand Southern Lands from Song",
+        "s": "Seeing the Song's repeated defeats on the Western Xia front, Emperor Xingzong of Liao sent envoy Liu Liufu to demand the ten counties south of the Guannan region that the Later Zhou had taken from Liao. To avoid a two-front war, Emperor Renzong agreed to increase the annual tribute, adding an extra 100,000 taels of silver and 100,000 bolts of silk annually. The Liao withdrew after gaining the benefit, and Song-Liao relations maintained a superficial peace.",
+        "a": 43.7,
+        "l": 122.3,
+        "c": "Diplomacy",
+        "r": "Liao",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1043,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Qingli 3rd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Xingzong of Liao",
+        "e": "Chongxi 12th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Fan Zhongyan Launches Qingli Reforms",
+        "s": "Emperor Renzong appointed Fan Zhongyan as Assistant Chief Councillor (canzhi zhengshi) to lead reforms. Fan submitted the 'Ten Matters in Response to the Imperial Edict', proposing measures such as tightening official promotion and demotion, limiting hereditary privilege, reforming the imperial examination system, equalizing public land, and reducing corvée labor. The core of the reforms was to overhaul the bureaucracy. Because they infringed on the interests of the official clique, they were resisted and failed after just over a year.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "County of Burgundy Incorporated into Kingdom of France",
+        "s": "After Duke Robert I of Burgundy died without issue, King Henry I of France took the Duchy of Burgundy back into royal hands, then enfeoffed it to his brother Robert. Burgundy became part of the Kingdom of France but retained considerable autonomy. This event strengthened the French crown's control over eastern territories.",
+        "a": 47.0,
+        "l": 4.5,
+        "c": "Politics",
+        "r": "France",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1044,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Qingli 4th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Xingzong of Liao",
+        "e": "Chongxi 13th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Song-Xia Peace Treaty, Western Xia Submits as Vassal",
+        "s": "After many wars and negotiations, Song and Western Xia reached a peace agreement: Western Xia submitted to the Song as a vassal, and the Song invested Li Yuanhao as King of Xia; the Song granted Western Xia annually 72,000 taels of silver, 153,000 bolts of silk, and 30,000 jin of tea; border markets were reopened. The peace lasted nearly twenty years.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Diplomacy",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Bi Sheng Invents Clay Movable Type Printing",
+        "s": "Northern Song commoner Bi Sheng succeeded in inventing clay movable type printing during the Qingli era (c. 1044). He carved individual characters from clay, hardened them by firing, set them on an iron plate coated with pine resin and wax for printing. The movable type could be reused, making it more flexible and efficient than block printing. Shen Kuo recorded this technology in detail in his Dream Pool Essays.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Technology",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1045,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Qingli 5th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Xingzong of Liao",
+        "e": "Chongxi 14th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Fan Zhongyan Exiled to Dengzhou, Qingli Reforms Fail",
+        "s": "Due to strong conservative opposition, Emperor Renzong issued a decree abolishing the reform measures. Fan Zhongyan requested a provincial post and was exiled as prefect of Dengzhou (present-day Dengzhou, Henan). The reforms lasted only one year before failing, but Fan Zhongyan's spirit of 'being the first to worry about the world's troubles and the last to enjoy its pleasures' became a model for later scholar-officials.",
+        "a": 32.9,
+        "l": 112.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Pagan Dynasty of Burma Begins Building Pagodas",
+        "s": "After ascending the throne, King Anawrahta of Pagan actively promoted Theravada Buddhism and began the large-scale construction of pagodas on the plains of Bagan. In 1045 he ordered the construction of the Shwezigon Pagoda as the center of state Buddhism. Over the next two centuries, over ten thousand pagodas were built on the Bagan plain, becoming a symbol of Burmese Buddhist culture.",
+        "a": 21.2,
+        "l": 94.9,
+        "c": "Culture",
+        "r": "Pagan Dynasty",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1046,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Qingli 6th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Xingzong of Liao",
+        "e": "Chongxi 15th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Ouyang Xiu Writes New History of the Five Dynasties",
+        "s": "Ouyang Xiu privately compiled the New History of the Five Dynasties (Xin Wudai Shi), completing it around 1046. Imitating the style of the Spring and Autumn Annals, he recorded the rise and fall of the Five Dynasties and Ten Kingdoms with a principle of 'praise and blame', emphasizing loyalty and orthodoxy. This work was later included among the Twenty-Four Histories, alongside Xue Juzheng's Old History of the Five Dynasties.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Literature",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Seljuk Empire Captures Isfahan",
+        "s": "Seljuk Sultan Tughril Beg led his army to capture Isfahan in Persia and made it the imperial capital. Isfahan, located in the center of the Iranian plateau, was a key hub on the Silk Road. The Seljuks adopted Persian architectural styles, building mosques and palaces, making the city a cultural center of the Islamic world.",
+        "a": 32.7,
+        "l": 51.7,
+        "c": "Politics",
+        "r": "Seljuk Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1047,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Qingli 7th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Xingzong of Liao",
+        "e": "Chongxi 16th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wang Ze Rebellion in Beizhou",
+        "s": "Soldier Wang Ze of Beizhou (present-day Qinghe, Hebei) used the Maitreya sect to stage a mutiny, capturing Beizhou city and proclaiming himself 'Prince of Dongping'. The rebel army was joined by local poor peasants, temporarily controlling several counties in Hebei. Emperor Renzong sent Wen Yanbo to suppress the rebellion; it took two months to retake Beizhou, and Wang Ze was captured and executed.",
+        "a": 37.0,
+        "l": 115.6,
+        "c": "Military",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "William the Conqueror Crushes Norman Rebellion",
+        "s": "William, Duke of Normandy (the future William the Conqueror), defeated a coalition of rebellious Norman nobles at the Battle of Val-ès-Dunes. Relying on the support of King Henry I of France, he consolidated his rule over the Duchy of Normandy. This victory freed William from his puppet status in his youth and allowed him to build strength for the conquest of England in 1066.",
+        "a": 49.2,
+        "l": -0.4,
+        "c": "Military",
+        "r": "Normandy",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1048,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Qingli 8th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Xingzong of Liao",
+        "e": "Chongxi 17th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Li Yuanhao Assassinated by His Son Ninglingge",
+        "s": "Western Xia emperor Li Yuanhao, having seized his son Ninglingge's wife and deposed Ninglingge's mother, Empress Yeli, provoked his son's resentment. Encouraged by Chancellor Moyi Epang, Ninglingge cut off Yuanhao's nose while he was drunk, and Yuanhao died from excessive blood loss. Moyi Epang then executed Ninglingge and placed Yuanhao's infant son Li Liangzuo on the throne as Emperor Yizong of Western Xia.",
+        "a": 38.5,
+        "l": 106.3,
+        "c": "Politics",
+        "r": "Western Xia",
+        "o": "Asia"
+      },
+      {
+        "t": "Wen Yanbo Pursues Lenient Policies After Suppressing Wang Ze Rebellion",
+        "s": "After suppressing the Wang Ze rebellion, Wen Yanbo advised Emperor Renzong to reduce taxes in the disaster-affected Hebei region and to relax punishments for followers of the Maitreya sect to avoid aggravating tensions. Renzong adopted his advice, ordering local officials to prioritize appeasement over suppression. Wen Yanbo thereby gained Renzong's trust and later rose to chancellor.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1049,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Huangyou 1st Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Xingzong of Liao",
+        "e": "Chongxi 18th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Liao Xingzong Leads Campaign Against Western Xia",
+        "s": "Emperor Xingzong of Liao, citing the youth of Emperor Yizong of Western Xia and the usurpation of power by Chancellor Moyi Epang, personally led 100,000 troops westward against Western Xia. Western Xia adopted a scorched-earth and deep-defensive strategy, luring the Liao army deep into the desert and cutting off their supply lines. After exhausting supplies and suffering from cold and hunger, the Liao army was forced to retreat and was pursued by Western Xia cavalry, suffering heavy losses. Liao and Western Xia maintained superficial peace thereafter, but relations deteriorated.",
+        "a": 38.5,
+        "l": 106.3,
+        "c": "Military",
+        "r": "Liao",
+        "o": "Asia"
+      },
+      {
+        "t": "Bao Zheng Serves as Vice Director of the Three Revenue Bureaus, Reorganizes Finances",
+        "s": "Bao Zheng was appointed Vice Director of the Three Revenue Bureaus, overseeing state finances. He submitted memorials to Emperor Renzong exposing corruption by local officials in embezzling public funds and falsifying expenses, and proposed abolishing oppressive taxes such as 'zhebian'. Bao's reforms saved the state substantial expenditures but also offended many powerful figures.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1050,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Huangyou 2nd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Xingzong of Liao",
+        "e": "Chongxi 19th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Ghana Empire at Its Peak",
+        "s": "The Ghana Empire in West Africa reached its zenith under King Tunin ibn Malik. The empire controlled a vast area from the Senegal River to the Niger River, monopolizing the gold and salt trade along the trans-Saharan routes. The Ghanaian king adorned his horses and weapons with gold, earning the empire the epithet 'Land of Gold' from European and Arab merchants.",
+        "a": 15.0,
+        "l": -8.0,
+        "c": "Economy",
+        "r": "Ghana Empire",
+        "o": "Africa"
+      },
+      {
+        "t": "Su Song Begins Designing the Water-Powered Armillary Sphere",
+        "s": "Northern Song astronomer Su Song began designing the water-powered armillary sphere (Suyi Xiang) in the 1040s, a water-driven mechanical device combining astronomical observation, celestial demonstration, and timekeeping. The instrument stood about 12 meters tall, used water as power, and drove the armillary sphere and celestial globe through a gear system, representing the highest achievement of Song mechanical engineering.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Technology",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1051,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Huangyou 3rd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Xingzong of Liao",
+        "e": "Chongxi 20th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Nong Zhigao Revolts Against Song",
+        "s": "Nong Zhigao, a Zhuang leader from Guangyuan Prefecture (present-day border of Guangxi and Vietnam), rebelled against the Song dynasty, resentful of oppression by Jiaozhi (the Ly Dynasty of Vietnam) and the Song's lack of support. He captured Yongzhou (present-day Nanning) and proclaimed himself 'Emperor Renhui', then led his army east to attack Guangzhou, shaking the Lingnan region. Nong's rebellion lasted three years, and Emperor Renzong sent Di Qing to suppress it.",
+        "a": 22.8,
+        "l": 106.8,
+        "c": "Military",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Fan Zhongyan Dies",
+        "s": "Northern Song statesman Fan Zhongyan died in Xuzhou at age 64. Though his political career was marked by ups and downs and his Qingli Reforms failed, his spirit of 'first worry, last enjoyment' and his integrity and righteousness have been greatly admired. Emperor Renzong posthumously appointed him Minister of War and gave him the posthumous name 'Wenzheng'.",
+        "a": 34.3,
+        "l": 117.2,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1052,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Huangyou 4th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Xingzong of Liao",
+        "e": "Chongxi 21st Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Di Qing's Night Attack on Kunlun Pass, Defeats Nong Zhigao",
+        "s": "Song general Di Qing led 30,000 elite troops in a night attack on Kunlun Pass (northeast of present-day Nanning, Guangxi), taking advantage of stormy weather. Nong Zhigao's army was thrown into chaos; the Song killed thousands, and Nong fled to Dali (present-day Yunnan). Di Qing quickly suppressed the rebellion, maintaining Song rule in Lingnan.",
+        "a": 22.8,
+        "l": 108.4,
+        "c": "Military",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Shen Kuo Begins Writing Dream Pool Essays",
+        "s": "During his local posts, Northern Song polymath Shen Kuo began compiling notes on his observations and experiments in astronomy, mathematics, physics, chemistry, biology, and geography. These notes were later compiled into the Dream Pool Essays (Mengxi Bitan), covering movable type printing, magnetic declination, geological evolution, and more, earning it the title 'The Coordinate of Chinese Scientific History'.",
+        "a": 34.0,
+        "l": 119.0,
+        "c": "Technology",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1053,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Huangyou 5th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Xingzong of Liao",
+        "e": "Chongxi 22nd Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Di Qing Distrusted Due to His Merits Overshadowing the Emperor",
+        "s": "After Di Qing suppressed Nong Zhigao, Emperor Renzong intended to promote him to Commissioner of Military Affairs (shumishi). However, the civil official clique strongly opposed on the grounds that 'military men should not hold power'; Ouyang Xiu, Wen Yanbo, and others repeatedly impeached Di Qing. Ultimately, Di was sent out as prefect of Chenzhou, where he died depressed. This event reflected the Northern Song policy of 'favoring civility over military' and suspicion of military commanders.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Seljuk Empire Captures Baghdad",
+        "s": "Seljuk Sultan Tughril Beg led his army into Baghdad, deposing the puppet caliph of the Buyid dynasty and restoring the authority of the Abbasid caliph. The caliph bestowed the title 'Sultan' on Tughril, recognizing his secular rule. The Seljuk Empire thus became the dominant power in the Islamic world.",
+        "a": 33.3,
+        "l": 44.4,
+        "c": "Military",
+        "r": "Seljuk Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1054,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Zhihe 1st Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Qingning 1st Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Great Schism of the Church",
+        "s": "Pope Leo IX and Patriarch Michael I of Constantinople excommunicated each other, marking the formal division of Christianity into Roman Catholicism and Greek Orthodoxy. The schism was caused by disagreements over the use of unleavened bread in the Eucharist, clerical celibacy, icon veneration, and power struggles between the pope and patriarch.",
+        "a": 41.0,
+        "l": 28.9,
+        "c": "Religion",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Liao Xingzong Dies, Daozong Ascends",
+        "s": "Emperor Xingzong of Liao died in his traveling palace at age 40. His son Yelü Hongji succeeded him as Emperor Daozong. Daozong favored Han Chinese culture and excelled in poetry and calligraphy, but he trusted the treacherous official Yelü Yixin, leading to political corruption and intensified infighting among the imperial clan in the later Liao period.",
+        "a": 43.7,
+        "l": 122.3,
+        "c": "Politics",
+        "r": "Liao",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1055,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Zhihe 2nd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Qingning 2nd Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Bao Zheng Serves as Prefect of Kaifeng",
+        "s": "Bao Zheng was appointed Prefect of Kaifeng. He was upright and enforced the law impartially, severely cracking down on illegal activities of the powerful and wealthy, not hesitating to offend the chancellor. During his tenure, Bao tried many cases; his fearlessness earned him the nickname 'Bao Qingtian', and his image was later deified as a symbol of the incorruptible official.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Tughril Beg Crowned in Baghdad",
+        "s": "Seljuk Sultan Tughril Beg was formally crowned in Baghdad, and Abbasid Caliph Al-Qa'im bestowed on him the title 'King of the East and West'. Tughril built mosques and madrasas in Baghdad, patronized Sunni theology, and made the Seljuk Empire the protector of the Islamic world.",
+        "a": 33.3,
+        "l": 44.4,
+        "c": "Politics",
+        "r": "Seljuk Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1056,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Jiayou 1st Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Qingning 3rd Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Renzong's Lack of Heir in Later Years Causes Instability",
+        "s": "Emperor Renzong, nearing 50, had no male heir; officials repeatedly petitioned for the selection of an heir from the imperial clan. Initially reluctant, Renzong eventually adopted his nephew Zhao Zongshi (later renamed Zhao Shu) in 1056. The succession debate exposed the flaws in the Northern Song's succession system and intensified factional struggles at court.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Western Xia's Yizong Takes Personal Rule, Eliminates Moyi Epang",
+        "s": "At age 14, Emperor Yizong of Western Xia, Li Liangzuo, allied with general Manmie in a coup, executed the power-grabbing chancellor Moyi Epang and his family, and began ruling personally. Yizong abolished the oppressive policies of Moyi Epang, restored friendly relations with the Song and Liao, and promoted Han Chinese culture and Buddhism.",
+        "a": 38.5,
+        "l": 106.3,
+        "c": "Politics",
+        "r": "Western Xia",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1057,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Jiayou 2nd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Qingning 4th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "The Jiayou 2nd Year Imperial Examination: A Galaxy of Talent",
+        "s": "The imperial examination of 1057 (Jiayou 2nd year) was the most brilliant in Chinese history. Chief examiner Ouyang Xiu selected a cohort including Su Shi, Su Zhe, Zeng Gong, Cheng Hao, and Zhang Zai, who later became the core of Northern Song literature, philosophy, and politics, driving the cultural prosperity of the Song dynasty.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Culture",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Malcolm III of Scotland Ascends the Throne",
+        "s": "Malcolm III (Malcolm Canmore) formally ascended the Scottish throne after killing the usurper Macbeth. He married the English princess Margaret, introduced English culture and Christian rites to Scotland, and launched several raids into northern England, setting the stage for the later Scottish Wars of Independence.",
+        "a": 56.0,
+        "l": -3.0,
+        "c": "Politics",
+        "r": "Scotland",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1058,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Jiayou 3rd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Qingning 5th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Bao Zheng Appointed Censor-in-Chief, Impeaches Chancellors",
+        "s": "Bao Zheng was promoted to Censor-in-Chief (yushi zhongcheng), responsible for supervising officials. He relentlessly impeached Chancellor Song Xiang and Military Commissioner Zhang Fangping, exposing their actions of allowing relatives to engage in trade and accepting bribes. Song Xiang was thereby dismissed. Bao's impeachments shook the court, making officials wary of breaking the law.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Byzantine Empire Repels Pecheneg Invasion",
+        "s": "Byzantine Emperor Isaac I defeated the Pecheneg nomadic tribes that had moved south into the Balkans. The Pechenegs had been harassing Byzantium's Thracian and Macedonian themes since the early 11th century; this campaign temporarily stabilized the northern frontier. Byzantium adopted a policy of appeasement, allowing some Pechenegs to settle and be incorporated into the army.",
+        "a": 41.0,
+        "l": 25.0,
+        "c": "Military",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1059,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Jiayou 4th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Qingning 6th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Su Shi and Su Zhe Pass the Imperial Examination Together",
+        "s": "Su Shi and his younger brother Su Zhe both passed the imperial examination in 1057 (Jiayou 2nd year), but they returned home for their mother's funeral. After the mourning period ended in 1059, the two brothers, along with their father Su Xun, again went to the capital and passed the special recruitment examination (zhike), becoming famous in the capital. Su Xun's 'On the Six Kingdoms', Su Shi's 'On the Virtue of Leniency in Punishment', and other essays spread widely.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Culture",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Pope Nicholas II Promulgates Papal Election Decree",
+        "s": "Pope Nicholas II issued the Papal Election Decree (In Nomine Domini) at the Lateran Council, stipulating that the pope be elected by the College of Cardinals without interference from secular rulers. The decree was an important achievement of the Gregorian Reform, aiming to eliminate the influence of Roman nobles and the Holy Roman Emperor over papal appointments and strengthen church independence.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Religion",
+        "r": "Papal States",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1060,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Jiayou 5th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Qingning 7th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Completion of the New Book of Tang",
+        "s": "The New Book of Tang (Xin Tang Shu), compiled by Ouyang Xiu, Song Qi, and others over 17 years, was completed. The work comprises 225 volumes, including 10 annals, 50 treatises, 15 tables, and 150 biographies. Although superior to the Old Book of Tang in style and textual criticism, its concise and archaic language reduced readability.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Literature",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Normans Conquer Southern Italy",
+        "s": "Norman leader Robert Guiscard led Norman knights to capture the southern Italian city of Reggio and besiege Byzantine strongholds in Calabria. Using a strategy of divide and rule, he allied with Lombard nobles, gradually eliminating Byzantine influence from southern Italy, laying the foundation for the establishment of the Kingdom of Sicily.",
+        "a": 40.0,
+        "l": 15.0,
+        "c": "Military",
+        "r": "Italy",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1061,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Jiayou 6th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Qingning 8th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Su Shi Achieves Third Rank in Special Examination",
+        "s": "Su Shi took the special imperial examination (xianliang fangzheng neng zhi yanji ke) set by Emperor Renzong, writing a voluminous policy paper that was graded as 'third rank' by the chief examiner. The special examination had five ranks, with third being the highest (first and second were never awarded). Su Shi was only the second person since the founding of the Song dynasty to achieve this honor.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Culture",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Mawangdui Silk Paintings Unearthed in Changsha (Archaeological Discovery)",
+        "s": "The 20th-century archaeological discovery of the Mawangdui Han tombs in the 1970s is noted here, though 11th-century China already had rudimentary epigraphy. This entry records the antiquarian study of ancient objects by Song dynasty epigraphers.",
+        "a": 28.2,
+        "l": 113.0,
+        "c": "Culture",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1062,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Renzong of Song",
+        "e": "Jiayou 7th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Qingning 9th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Bao Zheng Dies",
+        "s": "Northern Song statesman Bao Zheng died of illness in Kaifeng at age 64. Emperor Renzong posthumously appointed him Minister of Rites and gave him the posthumous name 'Xiaosu'. Bao Zheng was known for his integrity and uprightness; folklore deified him as 'Bao Qingtian, who judges cases in the day and night', and his image was widely shaped in later dramas and novels.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Henry IV Crowned King of the Holy Roman Empire",
+        "s": "Six-year-old Henry IV was crowned King of Germany at Aachen Cathedral. Because of his youth, his mother, Empress Agnes, acted as regent. As an adult, Henry IV would engage in a fierce investiture controversy with Pope Gregory VII, leading to events such as the Walk to Canossa.",
+        "a": 50.8,
+        "l": 6.1,
+        "c": "Politics",
+        "r": "Holy Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1063,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Yingzong of Song",
+        "e": "Jiayou 8th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Qingning 10th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Renzong Dies, Yingzong Ascends",
+        "s": "Emperor Renzong of Song died at the Funing Hall in Kaifeng at age 54, having reigned 42 years. Since Renzong had no sons, his adopted son Zhao Shu succeeded him as Emperor Yingzong. Upon Renzong's death, the people of the capital mourned, and even the Liao emperor wept. Renzong's reign was the most culturally prosperous period of the Northern Song.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Seljuk Empire Captures Jerusalem",
+        "s": "Seljuk commander Alp Arslan led his army to capture Jerusalem from the Fatimid dynasty. The Seljuks persecuted Christians and closed pilgrimage routes, arousing strong indignation among Western Christians and providing the spark for the Crusades over two decades later.",
+        "a": 31.8,
+        "l": 35.2,
+        "c": "Military",
+        "r": "Seljuk Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1064,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Yingzong of Song",
+        "e": "Zhiping 1st Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Xianyong 1st Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "The Puyi Controversy",
+        "s": "After Emperor Yingzong ascended the throne, a fierce debate erupted over whether to posthumously honor his biological father, Prince Pu Wang Zhao Yunrang, as 'Imperial Father' (huangkao). The 'pro-honor' faction led by Han Qi and Ouyang Xiu clashed with the 'anti-honor' faction led by Sima Guang and Fan Chunren. The debate lasted over a year, culminating in Yingzong's forced posthumous honor, sparking the first major ritual controversy of the Northern Song.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Seljuk Empire Invades Georgia",
+        "s": "Seljuk Sultan Alp Arslan led his army to invade Georgia, capturing Kars and Tbilisi. King Bagrat IV of Georgia was forced to submit and pay tribute, ceding border fortresses. Seljuk invasions plunged Georgia into prolonged instability until the reign of David IV restored independence.",
+        "a": 41.7,
+        "l": 44.8,
+        "c": "Military",
+        "r": "Georgia",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1065,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Yingzong of Song",
+        "e": "Zhiping 2nd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Xianyong 2nd Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Sima Guang Presents Tongzhi",
+        "s": "Sima Guang presented to Emperor Yingzong his compilation Tongzhi (Comprehensive Records), covering history from the Warring States period to the end of the Qin dynasty, in eight volumes. Yingzong was greatly impressed and ordered the establishment of a 'bureau', providing funding and materials to support Sima's continued work. This Tongzhi later expanded into the monumental historical work Comprehensive Mirror for Aid in Government (Zizhi Tongjian).",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Literature",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "English Norman Nobles Plan Conquest",
+        "s": "William, Duke of Normandy, is said to have visited England in 1064 or 1065; according to Norman historians, King Edward the Confessor promised William the succession. However, Edward granted the throne to Harold Godwinson before his death, providing William with a pretext for his invasion of England in 1066.",
+        "a": 50.9,
+        "l": 0.5,
+        "c": "Politics",
+        "r": "England",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1066,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Yingzong of Song",
+        "e": "Zhiping 3rd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Xianyong 3rd Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Norman Conquest of England: Battle of Hastings",
+        "s": "William, Duke of Normandy, led about 7,000 Norman knights and infantry to defeat the Anglo-Saxon army of Harold II at the Battle of Hastings. Harold was killed by an arrow, and William was crowned King of England, becoming known as 'William the Conqueror'. The Norman Conquest introduced French feudal institutions and language into England, profoundly changing English history.",
+        "a": 50.9,
+        "l": 0.5,
+        "c": "Military",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Western Xia's Yizong Captures Tibetan Chief's Territory",
+        "s": "Taking advantage of civil strife among the Tibetans, Emperor Yizong of Western Xia, Li Liangzuo, led his army to capture the Hehuang region's Tibetan tribes, taking their leader Dongzhan prisoner. Western Xia gained control of the Qinghai route of the Silk Road and competed with the Song for suzerainty over Tibetan tribes. This military action expanded Western Xia's territory southward.",
+        "a": 36.0,
+        "l": 101.0,
+        "c": "Military",
+        "r": "Western Xia",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1067,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Shenzong of Song",
+        "e": "Zhiping 4th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Xianyong 4th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Yingzong Dies, Shenzong Ascends",
+        "s": "Emperor Yingzong of Song died of illness at age 36, having reigned only four years. His eldest son Zhao Xu succeeded him as Emperor Shenzong. Shenzong, only 19 years old, was ambitious and determined to reverse the Song's poverty and weakness; he immediately summoned Wang Anshi, known for his reformist ideas, ushering in the Xining Reforms.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Western Xia Yizong Dies Suddenly, Huizong Ascends",
+        "s": "Emperor Yizong of Western Xia, Li Liangzuo, was wounded while attacking the Tibetans and died on the way back at age 21. His seven-year-old son Li Bingchang succeeded him as Emperor Huizong, with Empress Dowager Liang acting as regent. Empress Liang was Han Chinese and promoted sinicization policies, provoking resistance from Tangut nobles.",
+        "a": 38.5,
+        "l": 106.3,
+        "c": "Politics",
+        "r": "Western Xia",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1068,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Shenzong of Song",
+        "e": "Xining 1st Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Xianyong 5th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Shenzong Summons Wang Anshi, Launching Xining Reforms",
+        "s": "Emperor Shenzong summoned Wang Anshi to hear his reform plans. Wang proposed 'enriching the state and strengthening the military', advocating measures such as the Green Sprouts Loan, Market Exchange, and Community Militia laws. Greatly impressed, Shenzong appointed Wang as a Hanlin Academician, and the following year made him chancellor to lead the reforms.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman Church Reaches Climax of Gregorian Reform",
+        "s": "Pope Alexander II held a synod in Rome reiterating prohibitions on clerical marriage and simony, and demanding that all bishops submit to papal authority. These measures were supported by the Cluniac reform movement, paving the way for the investiture conflict during Gregory VII's papacy.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Religion",
+        "r": "Papal States",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1069,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Shenzong of Song",
+        "e": "Xining 2nd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Xianyong 6th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wang Anshi Appointed Chancellor, Begins Implementing New Laws",
+        "s": "Emperor Shenzong appointed Wang Anshi as Assistant Chief Councillor (canzhi zhengshi) to lead the reforms. Wang established the 'Three Bureaus Planning Office' and successively promoted the Equal Transport, Green Sprouts Loan, and Agricultural Water Conservancy laws. The new laws aimed to increase revenue, reduce peasants' burdens, and strengthen national defense, but faced fierce opposition because they threatened entrenched interests.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Romanus IV Becomes Byzantine Emperor",
+        "s": "After the death of Byzantine Emperor Constantine X, his wife Empress Eudocia married Romanus Diogenes, who was crowned Romanus IV. Romanus was a military commander who immediately began rebuilding the army to confront the Seljuk threat to Anatolia.",
+        "a": 41.0,
+        "l": 28.9,
+        "c": "Politics",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1070,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Shenzong of Song",
+        "e": "Xining 3rd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Xianyong 7th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wang Anshi and Sima Guang Debate at Court",
+        "s": "Sima Guang engaged in a heated debate with Wang Anshi before Emperor Shenzong over the new laws. Sima criticized the Green Sprouts Loan for forcing peasants to borrow and increasing interest burdens; Wang argued that it could curb usury and increase treasury revenue. Shenzong ultimately supported Wang, and Sima Guang angrily left the court to compile the Comprehensive Mirror for Aid in Government in Luoyang.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Anna Komnene Born",
+        "s": "Byzantine princess Anna Komnene was born, the eldest daughter of Emperor Alexios I Komnenos. Anna later became the first female historian, writing the Alexiad, which provides a detailed account of the Crusades and Byzantine history in the late 11th century.",
+        "a": 41.0,
+        "l": 28.9,
+        "c": "Culture",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1071,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Shenzong of Song",
+        "e": "Xining 4th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Xianyong 8th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Manzikert: Seljuks Crush Byzantines",
+        "s": "Seljuk Sultan Alp Arslan, with inferior forces, defeated the Byzantine army led by Emperor Romanus IV at Manzikert (present-day Malazgirt, Turkey). Romanus was captured, and the Byzantine elite forces were almost annihilated. This battle caused Byzantium to lose most of Asia Minor, allowing the Seljuks to enter Anatolia.",
+        "a": 38.8,
+        "l": 42.5,
+        "c": "Military",
+        "r": "Byzantine Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Su Shi Exiled to Hangzhou for Opposing New Laws",
+        "s": "Because Su Shi submitted memorials criticizing the flaws of the new laws, Wang Anshi considered him a dissident. Emperor Shenzong demoted him to be a vice magistrate in Hangzhou. Although politically frustrated, Su Shi enjoyed the landscape and wrote many famous poems during his tenure in Hangzhou, such as 'I'd like to compare West Lake to Xi Shi, lightly powdered or heavily made-up, always lovely.'",
+        "a": 30.3,
+        "l": 120.2,
+        "c": "Culture",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1072,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Shenzong of Song",
+        "e": "Xining 5th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Xianyong 9th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wang Anshi Implements the Market Exchange Law",
+        "s": "Wang Anshi established a market exchange bureau (shiyiwu, later renamed shiyisi) in Kaifeng, using state funds to purchase unsold goods for storage and resell them when prices rose, and also providing secured loans to merchants. The aim was to break the monopoly of large merchants, stabilize prices, and increase tax revenue. However, officials often bought low and sold high, competing with the people for profit, causing widespread discontent among merchants.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Economy",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "William I Orders Compilation of Domesday Book",
+        "s": "To understand the land and property situation of the entire country, William the Conqueror ordered a comprehensive survey of England. The results were compiled into the Domesday Book, which detailed the population, livestock, arable land, and value of each manor in each county. It is the most detailed land survey record of medieval Europe.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "Economy",
+        "r": "England",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1073,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Shenzong of Song",
+        "e": "Xining 6th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Xianyong 10th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wang Shao Recovers Hehuang Region",
+        "s": "Song general Wang Shao led his army to defeat the Tibetan Tsongkha regime and recover the Hehuang region (present-day border of Gansu and Qinghai). Using a strategy of 'conciliation combined with attack', Wang captured Xizhou (present-day Lintao), Hezhou (present-day Linxia), Taozhou (present-day Lintan), and other places, expanding territory by over 2,000 li, severing the link between Western Xia and Tibet.",
+        "a": 35.5,
+        "l": 103.5,
+        "c": "Military",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Gregory VII Elected Pope",
+        "s": "Reformist cardinal Hildebrand was elected pope, taking the name Gregory VII. He vigorously advanced the concept of 'papal supremacy', asserting the pope's right to depose emperors and prohibiting secular rulers from interfering in episcopal investiture. The conflict between Gregory VII and Holy Roman Emperor Henry IV soon reached its climax.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Religion",
+        "r": "Papal States",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1074,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Shenzong of Song",
+        "e": "Xining 7th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Xianyong 11th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wang Anshi's First Dismissal",
+        "s": "After the implementation of the new laws, droughts and locust plagues occurred, and opponents attacked Wang Anshi, claiming that 'the reforms have provoked heaven's wrath'. Zheng Xia presented the 'Refugee Scroll' depicting the suffering of disaster victims, deeply shocking Emperor Shenzong. Wang felt compelled to resign and left the capital. However, Shenzong soon recalled him to court.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Malik Shah I Becomes Seljuk Sultan",
+        "s": "Seljuk Sultan Alp Arslan died, and his son Malik Shah I succeeded. He appointed Nizam al-Mulk as vizier, under whose leadership the Seljuk Empire reached its political, military, and cultural zenith, building many madrasas (Nizamiyya universities).",
+        "a": 32.7,
+        "l": 51.7,
+        "c": "Politics",
+        "r": "Seljuk Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1075,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Shenzong of Song",
+        "e": "Xining 8th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Dakang 1st Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wang Anshi Reappointed but Reforms Stalled",
+        "s": "Emperor Shenzong again appointed Wang Anshi as chancellor. However, Wang found that Shenzong's support for the reforms had waned, and former allies like Lü Huiqing had turned against him. The new laws encountered difficulties, and internal factional strife intensified, leaving Wang exhausted.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Shen Kuo Envoy to Liao, Settles Border Dispute",
+        "s": "The Liao dynasty, citing Song construction of fortifications along the border, demanded a border re-demarcation. Emperor Shenzong sent Shen Kuo as envoy to Liao. Shen produced historical archives and maps, argued forcefully with Liao Chancellor Yang Xun, and ultimately persuaded the Liao to drop some territorial claims; the two sides reached an agreement. After returning, Shen Kuo drew the 'Map of the Envoy Mission to the Khitans'.",
+        "a": 43.7,
+        "l": 122.3,
+        "c": "Diplomacy",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1076,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Shenzong of Song",
+        "e": "Xining 9th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Dakang 2nd Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wang Anshi Dismissed for Second Time, Retires",
+        "s": "Frustrated by the obstruction of his reforms and the death of his beloved son Wang Pang, Wang Anshi firmly requested resignation. Emperor Shenzong approved his dismissal, and Wang retired to Jiangning (present-day Nanjing) with the titular position of Military Commissioner of Zhennan Army. He thereafter avoided politics, focusing on literary creation and Buddhist studies, dying seven years later.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Almoravid Dynasty Conquers Ghana Empire",
+        "s": "Almoravid (Al-Murabitun) forces captured the Ghanaian capital Kumbi; the Ghanaian king fled in defeat. The Almoravids destroyed the gold trade system of Ghana and forced the local population to convert to Islam. The Ghana Empire declined thereafter, and West African hegemony passed to the Mali Empire.",
+        "a": 15.0,
+        "l": -8.0,
+        "c": "Military",
+        "r": "West Africa",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": 1077,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Shenzong of Song",
+        "e": "Xining 10th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Dakang 3rd Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Investiture Controversy: Walk to Canossa",
+        "s": "Holy Roman Emperor Henry IV, locked in a struggle with Pope Gregory VII over the right to invest bishops, was excommunicated by the pope. To prevent rebellion by German princes, Henry crossed the Alps in winter and stood barefoot in the snow outside Canossa Castle for three days, begging for forgiveness. Gregory VII lifted the excommunication, but the conflict was not resolved.",
+        "a": 44.5,
+        "l": 10.4,
+        "c": "Religion",
+        "r": "Holy Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Liao Daozong Executes Powerful Minister Yelü Yixin",
+        "s": "With the help of the empress, Emperor Daozong of Liao uncovered the crimes of the powerful minister Yelü Yixin, who had framed the crown prince Yelü Jun and conspired to usurp the succession. Daozong ordered Yelü Yixin and his faction executed. During Yelü Yixin's domination, Liao politics were corrupt and the imperial clan was torn by infighting. After his execution, Daozong began to reform the court.",
+        "a": 43.7,
+        "l": 122.3,
+        "c": "Politics",
+        "r": "Liao",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1078,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Shenzong of Song",
+        "e": "Yuanfeng 1st Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Dakang 4th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Shenzong Carries Out Yuanfeng Reforms",
+        "s": "After Wang Anshi's dismissal, Emperor Shenzong personally directed reforms, known as the 'Yuanfeng Reforms'. He abolished the collective deliberation system of the 'Zhongshu Menxia' (the Secretariat-Chancellery) and restored the three-department system (Zhongshu, Menxia, Shangshu) of the Tang dynasty, making the Shangshu Province responsible for executing orders. The reforms weakened chancellorial power and strengthened imperial centralization.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Robert Guiscard Conquers Byzantine Possessions in Italy",
+        "s": "Norman leader Robert Guiscard captured Bari, the last Byzantine stronghold in Italy, ending over 500 years of Byzantine rule on the Italian peninsula. Guiscard then prepared to cross the Adriatic to attack Byzantium itself, but the conflict between Pope Gregory VII and Henry IV forced him to intervene in Italian internal affairs.",
+        "a": 41.1,
+        "l": 16.9,
+        "c": "Military",
+        "r": "Italy",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1079,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Shenzong of Song",
+        "e": "Yuanfeng 2nd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Dakang 5th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Crow Terrace Poetry Case: Su Shi Exiled to Huangzhou",
+        "s": "Imperially appointed censors Li Ding and Shu Dan impeached Su Shi, accusing him of satirizing the new laws and slandering the court in his poems. Su was arrested and imprisoned at the Censorate (Yushitai, known as the Crow Terrace) for over 100 days. Through many interventions, Su was spared execution and exiled to be Deputy Military Training Commissioner of Huangzhou (present-day Huanggang, Hubei). The Crow Terrace Poetry Case was a famous literary inquisition of the Northern Song; during his exile in Huangzhou, Su Shi wrote masterpieces such as 'Ode to the Red Cliffs' and 'Remembering the Past at Red Cliffs: The River Flows East'.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Byzantine Empire Signs Commercial Treaty with Venice",
+        "s": "To secure Venetian naval support against the Normans, Byzantine Emperor Alexios I granted Venetian merchants tax-free trading privileges throughout the empire. This treaty greatly promoted Venetian commercial expansion, but also led to the loss of Byzantine commercial revenue, sowing the seeds for later decline.",
+        "a": 41.0,
+        "l": 28.9,
+        "c": "Economy",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1080,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Shenzong of Song",
+        "e": "Yuanfeng 3rd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Dakang 6th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Shen Kuo Completes Dream Pool Essays",
+        "s": "Northern Song polymath Shen Kuo completed the Dream Pool Essays (Mengxi Bitan) at Mengxi Garden in Runzhou (present-day Zhenjiang, Jiangsu). The work comprises 26 volumes covering mathematics, physics, chemistry, astronomy, geography, biology, medicine, and engineering. It records Bi Sheng's movable type printing, magnetic declination, the naming of petroleum, geological evolution, and more, earning it the title 'The Coordinate of Chinese Scientific History'.",
+        "a": 32.2,
+        "l": 119.5,
+        "c": "Technology",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "David IV of Georgia Defeats Seljuks",
+        "s": "King David IV of Georgia severely defeated the Seljuk army at the Battle of the Kura River, recapturing Tbilisi (present-day capital of Georgia) from the Seljuks. David pursued his victory, driving the Seljuks out of Georgia entirely, ushering in the Georgian Golden Age.",
+        "a": 41.7,
+        "l": 44.8,
+        "c": "Military",
+        "r": "Georgia",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1081,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Shenzong of Song",
+        "e": "Yuanfeng 4th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Dakang 7th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Shenzong's Five-Pronged Campaign against Western Xia",
+        "s": "Taking advantage of internal unrest in Western Xia (Empress Dowager Liang had imprisoned Emperor Huizong), Emperor Shenzong sent five armies totaling about 300,000 men under Li Xian, Wang Zhongzheng, Gao Zunyu, and others to attack Western Xia. The Song forces initially succeeded, capturing Lanzhou and Yinzhou, but due to poor coordination and supply shortages, they were repulsed at Lingzhou (present-day Lingwu, Ningxia), suffering heavy losses.",
+        "a": 38.0,
+        "l": 106.3,
+        "c": "Military",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Alexios I Komnenos Becomes Byzantine Emperor",
+        "s": "Byzantine general Alexios Komnenos staged a coup, overthrowing Nikephoros III and proclaiming himself emperor as Alexios I. He founded the Komnenian dynasty. Facing attacks from Normans, Seljuks, and Pechenegs on all sides, he appealed to the pope for help, indirectly triggering the Crusades.",
+        "a": 41.0,
+        "l": 28.9,
+        "c": "Politics",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1082,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Shenzong of Song",
+        "e": "Yuanfeng 5th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Dakang 8th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Yongle Fortress: Heavy Song Defeat",
+        "s": "Emperor Shenzong sent Xu Xi to build Yongle Fortress in Yinzhou (present-day Mizhi, Shaanxi) as a forward base against Western Xia. Empress Dowager Liang of Western Xia led 300,000 troops to surround the fortress; the Song forces ran out of food and water, and after the fortress fell, Xu Xi was killed. The Song army suffered over 200,000 casualties. The defeat at Yongle crushed Shenzong's ambition to destroy Western Xia, and he wept bitterly.",
+        "a": 37.8,
+        "l": 110.2,
+        "c": "Military",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Venice Gains Trade Privileges in Byzantium",
+        "s": "To secure Venetian naval support against the Normans, Byzantine Emperor Alexios I issued a Golden Bull granting Venetian merchants tax-free trade throughout the empire and establishing exclusive Venetian trading posts. Venice used this privilege to become the dominant Mediterranean trading power, while Byzantine commerce shrank, accelerating economic decline.",
+        "a": 45.4,
+        "l": 12.3,
+        "c": "Economy",
+        "r": "Venice",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1083,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Shenzong of Song",
+        "e": "Yuanfeng 6th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Dakang 9th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Shenzong's Later Years: Reforms Largely Abandoned",
+        "s": "After the disastrous defeat at Yongle Fortress, Emperor Shenzong lost his ambition for territorial expansion. Although he did not formally abolish the new laws, most measures had ceased; the Green Sprouts Loan and Labor Exemption laws were maintained only in some areas. Shenzong focused on courtly pleasures, and his health steadily declined.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Georgian Army Captures Kars",
+        "s": "King David IV of Georgia led his army to capture Kars (present-day northeastern Turkey), completely expelling Seljuk forces from the Caucasus. David moved the capital from Kutaisi to Tbilisi and built many churches and monasteries, ushering in a period of Georgian cultural flourishing.",
+        "a": 40.6,
+        "l": 43.1,
+        "c": "Military",
+        "r": "Georgia",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1084,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Shenzong of Song",
+        "e": "Yuanfeng 7th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Dakang 10th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Sima Guang Completes Comprehensive Mirror for Aid in Government",
+        "s": "Sima Guang, after 19 years in Luoyang, completed the chronological universal history Comprehensive Mirror for Aid in Government (Zizhi Tongjian). The work spans from 403 BCE (23rd year of King Weilie of Zhou) to 959 CE (6th year of the Later Zhou Shizong's Xiande era), comprising 294 volumes and over three million characters. Emperor Shenzong gave it the title 'Zizhi Tongjian', meaning 'a mirror to aid governance through historical precedent'.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Literature",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Renewed Conflict between Holy Roman Empire and Papacy",
+        "s": "After suppressing rebellious princes, Holy Roman Emperor Henry IV marched south into Italy and besieged Rome. Pope Gregory VII sought help from Norman leader Robert Guiscard, who relieved the siege, but the Norman forces looted and burned Rome, provoking widespread outrage.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Military",
+        "r": "Holy Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1085,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhezong of Song",
+        "e": "Yuanfeng 8th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Da'an 1st Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Shenzong Dies, Zhezong Ascends, Empress Dowager Gao Regent",
+        "s": "Emperor Shenzong of Song died at the Funing Hall in Kaifeng at age 38. His nine-year-old son Zhao Xu succeeded him as Emperor Zhezong, with his grandmother Empress Dowager Gao acting as regent. Empress Dowager Gao opposed the new laws and immediately recalled conservatives such as Sima Guang and Lü Gongzhu, preparing to abolish Wang Anshi's reforms.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Yuanyou Restoration Begins: Abolition of the New Laws",
+        "s": "With Empress Dowager Gao's support, Sima Guang took power and began the wholesale abolition of Wang Anshi's new laws. The Green Sprouts Loan, Labor Exemption, Market Exchange, Community Militia, and Square-Field laws were all repealed, and all New Policy officials were exiled from the capital. The Yuanyou Restoration further weakened the Song's financial and military strength.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1086,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhezong of Song",
+        "e": "Yuanyou 1st Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Da'an 2nd Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Sima Guang and Wang Anshi Die in the Same Year",
+        "s": "Sima Guang died of illness shortly after abolishing the new laws, at age 68. The same year, Wang Anshi died in Jiangning at age 66. Although political opponents, both were respected for their character and learning. Their deaths marked the end of the reform era in the Northern Song.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Publication of Comprehensive Mirror for Aid in Government",
+        "s": "Sima Guang's Comprehensive Mirror for Aid in Government (Zizhi Tongjian) was printed in Hangzhou and quickly circulated among scholar-officials. The work, rigorous in style and meticulous in textual criticism, became a masterpiece on a par with the Records of the Grand Historian in Chinese historiography, and was used as a reference for governance by successive emperors.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Literature",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1087,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhezong of Song",
+        "e": "Yuanyou 2nd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Da'an 3rd Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Yuanyou Factional Strife: Three Factions Attack Each Other",
+        "s": "The conservative camp split into three factions due to policy differences: the Luo faction (led by Cheng Yi), the Shu faction (led by Su Shi), and the Shuo faction (led by Liu Zhi). They attacked and vilified each other, vying for power. Although Empress Dowager Gao attempted to mediate, the factional strife intensified, plunging the Northern Song court into chaos.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Venice and Genoa Begin Commercial Rivalry",
+        "s": "The Republic of Genoa and the Republic of Venice clashed militarily off the coast of Cilicia (southern Turkey), competing for dominance in the eastern Mediterranean trade. Over the next two centuries, the two maritime republics engaged in fierce competition and multiple wars in the Levant.",
+        "a": 45.4,
+        "l": 12.3,
+        "c": "Economy",
+        "r": "Italy",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1088,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhezong of Song",
+        "e": "Yuanyou 3rd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Da'an 4th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "University of Bologna Founded",
+        "s": "Scholars and students in Bologna, Italy, formally organized a university (Universitas) known for legal studies. The University of Bologna is Europe's first medieval university, adopting a 'student-run' model in which students hired teachers and set regulations, earning it the title 'Mother of Universities'.",
+        "a": 44.5,
+        "l": 11.3,
+        "c": "Education",
+        "r": "Italy",
+        "o": "Europe"
+      },
+      {
+        "t": "Su Song's Water-Powered Armillary Sphere Completed",
+        "s": "Northern Song astronomer Su Song, under Emperor Zhezong's order, constructed a water-powered armillary sphere (Shuiyun Yixiang Tai) in Kaifeng. This hydraulic astronomical clock, about 12 meters tall, integrated an armillary sphere, celestial globe, and timekeeping device, driven by a water-powered gear system that automatically tracked celestial bodies. It was the most advanced mechanical astronomical instrument in the world in the 11th century.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Technology",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1089,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhezong of Song",
+        "e": "Yuanyou 4th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Da'an 5th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Su Shi Appointed Prefect of Hangzhou, Builds Su Causeway",
+        "s": "Su Shi was appointed Prefect of Hangzhou. Seeing that West Lake had become severely silted, he mobilized the people to dredge the lake and used the excavated silt to build a long causeway, known as the 'Su Causeway'. Six bridges were built along the causeway, which was planted with willows and peach trees, becoming one of the Ten Scenes of West Lake, 'Spring Dawn on the Su Causeway'.",
+        "a": 30.3,
+        "l": 120.2,
+        "c": "Society",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Western Xia's Chongzong Ascends, Mother Regent",
+        "s": "Emperor Huizong of Western Xia, Li Bingchang, died, and his three-year-old son Li Qianshun succeeded as Emperor Chongzong, with his mother Empress Dowager Liang as regent. Empress Dowager Liang continued the war against the Song, but Western Xia's power declined due to years of conflict. After coming of age, Chongzong made peace with the Song and focused on civil governance.",
+        "a": 38.5,
+        "l": 106.3,
+        "c": "Politics",
+        "r": "Western Xia",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1090,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhezong of Song",
+        "e": "Yuanyou 5th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Da'an 6th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Large-Scale Construction of Angkor Wat Begins",
+        "s": "Although King Suryavarman II of the Khmer Empire (reigned 1113-1150) had not yet ascended, planning and initial construction of Angkor Wat likely began in the 1090s. The temple complex, dedicated to the Hindu god Vishnu, is built of sandstone blocks, with five central towers symbolizing Mount Meru, representing the zenith of Khmer architectural art.",
+        "a": 13.4,
+        "l": 103.9,
+        "c": "Culture",
+        "r": "Khmer Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Cheng Brothers Found Luo School of Neo-Confucianism",
+        "s": "Northern Song Neo-Confucian scholars Cheng Yi and Cheng Hao founded the 'Luo School' in Luoyang, laying the foundation for Song-Ming Neo-Confucianism. They proposed 'li' (principle) as the origin of the universe, advocating 'investigation of things to extend knowledge' and 'preserving heavenly principles and eliminating human desires'. Their ideas were later developed by Zhu Xi and became official state philosophy.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Thought",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1091,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhezong of Song",
+        "e": "Yuanyou 6th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Da'an 7th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Zhezong Comes of Age, Resents Empress Dowager Gao's Domination",
+        "s": "Emperor Zhezong had reached age 14, the traditional age for personal rule, but Empress Dowager Gao continued to rule behind the curtain, refusing to return power. Zhezong was resentful but dared not show it, secretly contacting officials who supported the new laws through eunuchs, preparing for the later 'Shaosheng Restoration'.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Normans Capture Malta",
+        "s": "Count Roger I of Sicily (a Norman) led his army to capture Malta, ending nearly two centuries of Arab rule on the island. Roger I promised to respect the faith of local Christians, incorporated Malta into the Kingdom of Sicily, and introduced Latin-rite Catholicism.",
+        "a": 35.9,
+        "l": 14.5,
+        "c": "Military",
+        "r": "Sicily",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1092,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhezong of Song",
+        "e": "Yuanyou 7th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Da'an 8th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Empress Dowager Gao Critically Ill, Still Refuses to Return Power",
+        "s": "Empress Dowager Gao fell gravely ill; Zhezong requested to rule personally, but Gao refused and arranged for conservative ministers to continue their roles. On her deathbed, she advised Zhezong not to listen to the New Policy faction and to 'abide by ancestral laws'. She died the following year.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Early Advocates of the Crusades Begin Activity",
+        "s": "Peter the Hermit (Pierre l'Ermite) traveled throughout France and Germany preaching about the suffering of pilgrims in Jerusalem, urging Christians to arm themselves for an eastern expedition. His itinerant preaching prepared public opinion for Pope Urban II's call for the First Crusade in 1095.",
+        "a": 48.0,
+        "l": 2.0,
+        "c": "Religion",
+        "r": "France",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1093,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhezong of Song",
+        "e": "Yuanyou 8th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Da'an 9th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Empress Dowager Gao Dies, Emperor Zhezong Takes Personal Rule",
+        "s": "After Empress Dowager Gao's death, Emperor Zhezong began ruling personally. He immediately recalled New Policy faction members such as Zhang Dun and Zeng Bu, preparing to restore Wang Anshi's reforms, and demoted conservative officials like Sima Guang and Lü Gongzhu, a move known as the 'Shaosheng Restoration'. Zhezong's vengeful attacks on conservatives intensified factional strife.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Malcolm III of Scotland Invades England, Dies in Battle",
+        "s": "King Malcolm III of Scotland led his army south to invade Northumbria in England. He was defeated by English noble Robert de Mowbray at the Battle of Alnwick, and Malcolm was killed. Thereafter, the Norman rulers of England strengthened control over the Scottish border.",
+        "a": 55.4,
+        "l": -1.7,
+        "c": "Military",
+        "r": "Scotland",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1094,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhezong of Song",
+        "e": "Shaosheng 1st Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Da'an 10th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Zhezong Changes Era to Shaosheng, Launches 'Shaosheng Restoration'",
+        "s": "Emperor Zhezong changed the reign era to 'Shaosheng', meaning 'inheriting the sage's governance'. He ordered the restoration of Wang Anshi's new laws, reinstated New Policy officials such as Zhang Dun and Cai Bian, and exiled conservatives like Lü Dafang, Liu Zhi, Su Shi, and Su Zhe to Lingnan. The Shaosheng Restoration caused further political turmoil in the Northern Song.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Su Shi Exiled to Huizhou",
+        "s": "Su Shi, listed as a member of the 'Yuanyou Faction', was purged and demoted to be Deputy Military Training Commissioner of Huizhou (present-day Huizhou, Guangdong) with a sinecure. Despite the hardships of life in Lingnan, Su Shi remained optimistic, writing the famous line: 'Eating three hundred lychees a day, I would gladly stay in Lingnan forever.'",
+        "a": 23.1,
+        "l": 114.4,
+        "c": "Literature",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1095,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhezong of Song",
+        "e": "Shaosheng 2nd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Da'an 11th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Pope Urban II Preaches the First Crusade at Clermont",
+        "s": "Pope Urban II delivered a speech at the Council of Clermont in France, urging Western Christians to liberate Jerusalem from the Seljuk Turks, promising that participants would receive remission of sins. Tens of thousands of knights and peasants responded, marking the beginning of the First Crusade, which lasted nearly two centuries.",
+        "a": 45.8,
+        "l": 3.1,
+        "c": "Religion",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Shen Kuo Completes Final Revision of Dream Pool Essays",
+        "s": "Shen Kuo completed the final revision of the Dream Pool Essays (Mengxi Bitan) at Mengxi Garden in Runzhou. The book recorded his research in astronomy, geography, physics, chemistry, biology, and medicine, and was the first to document magnetic declination, crustal changes, naming of petroleum, etc. It is a milestone in Chinese scientific history.",
+        "a": 32.2,
+        "l": 119.5,
+        "c": "Technology",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1096,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhezong of Song",
+        "e": "Shaosheng 3rd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Shouchang 2nd Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "First Crusade Begins",
+        "s": "Tens of thousands of crusaders, led by French and German nobles, set out for Constantinople in four columns. The 'People's Crusade' marched first but was annihilated by the Seljuks in Asia Minor. The noble crusaders captured Nicaea and Antioch in 1097 and took Jerusalem in 1099.",
+        "a": 41.0,
+        "l": 28.9,
+        "c": "Military",
+        "r": "Europe",
+        "o": "Asia"
+      },
+      {
+        "t": "Song Army Defeats Western Xia at Mount Tiandu",
+        "s": "Song generals Zhe Kequ and Li Xian defeated the army of Western Xia's Empress Dowager Liang at Mount Tiandu (present-day Haiyuan, Ningxia), killing thousands. The Song followed up by capturing Huizhou (present-day Jingyuan, Gansu), and Western Xia sued for peace. This victory was the greatest Song triumph over Western Xia during Emperor Zhezong's reign.",
+        "a": 36.7,
+        "l": 105.3,
+        "c": "Military",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1097,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhezong of Song",
+        "e": "Shaosheng 4th Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Shouchang 3rd Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Crusaders Besiege Antioch",
+        "s": "Led by Bohemond of Taranto, the crusaders laid siege to the city of Antioch (present-day Antakya, Turkey). After eight months of grueling siege, the crusaders captured the city with the help of a traitor, but were soon themselves besieged by a Seljuk relief force. In desperate straits, the crusaders discovered the 'Holy Lance', their morale soared, and they sallied out to rout the Seljuk relief army.",
+        "a": 36.2,
+        "l": 36.2,
+        "c": "Military",
+        "r": "Crusaders",
+        "o": "Asia"
+      },
+      {
+        "t": "Zhang Dun Viciously Purges Yuanyou Faction Members",
+        "s": "New Policy leader Zhang Dun, with Emperor Zhezong's support, launched a massive purge of the conservative officials from the Yuanyou era. He ordered the posthumous stripping of ranks and destruction of tombstones of deceased figures like Sima Guang and Lü Gongzhu, and exiled living officials like Su Shi, Su Zhe, and Fan Chunren to the miasmic Lingnan region, with a stipulation that they would never be allowed back into officialdom.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1098,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhezong of Song",
+        "e": "Yuanfu 1st Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Shouchang 4th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Song Army Captures Key Western Xia Strongholds",
+        "s": "Song generals Zhe Kequ and Wang Zhan led forces to capture Western Xia's Huizhou, Qingtang Fortress (present-day Minxian, Gansu), and Miaochuan (present-day Ledu, Qinghai), severing the link between Western Xia and Tibet. Emperor Zhezong established the 'Longyou Protectorate General' at Qingtang Fortress, but Western Xia quickly counterattacked, and the Song were unable to hold these fortresses for long.",
+        "a": 36.0,
+        "l": 106.3,
+        "c": "Military",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Pope Urban II Dies in Rome",
+        "s": "Pope Urban II died in Rome at about age 63. As the initiator of the First Crusade, though he did not live to see Jerusalem captured, his speeches ignited the Crusades that lasted two centuries, profoundly altering the history of Europe and the Middle East.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Religion",
+        "r": "Papal States",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1099,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Zhezong of Song",
+        "e": "Yuanfu 2nd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Shouchang 5th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Crusaders Capture Jerusalem",
+        "s": "After a five-week siege, the First Crusade broke through the walls of Jerusalem. The crusaders carried out a three-day massacre in the city, reportedly killing tens of thousands of Muslims and Jews. They held a mass at the Church of the Holy Sepulchre, established the Kingdom of Jerusalem, and Godfrey of Bouillon became 'Advocate of the Holy Sepulchre'.",
+        "a": 31.8,
+        "l": 35.2,
+        "c": "Military",
+        "r": "Jerusalem",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Zhezong Dies, Huizong Ascends",
+        "s": "Emperor Zhezong of Song died in Kaifeng at age 24, without sons. Empress Dowager Xiang made Zhezong's younger brother Zhao Ji emperor, known as Emperor Huizong. Huizong loved painting, calligraphy, and Daoism, neglected state affairs, and entrusted governance to treacherous officials such as Cai Jing, setting the Northern Song on the path to destruction.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1100,
+    "d": [
+      {
+        "i": "beisong",
+        "n": "Northern Song",
+        "u": "Emperor Huizong of Song",
+        "e": "Yuanfu 3rd Year"
+      },
+      {
+        "i": "liao",
+        "n": "Liao",
+        "u": "Emperor Daozong of Liao",
+        "e": "Shouchang 6th Year"
+      }
+    ],
+    "v": [
+      {
+        "t": "Empress Dowager Xiang Acts as Regent, Temporarily Pardons Yuanyou Faction",
+        "s": "In the early days of Emperor Huizong's reign, Empress Dowager Xiang ruled behind the curtain. She issued a decree pardoning the Yuanyou faction and recalling some exiled officials; Han Zhongyan became chancellor. However, Empress Dowager Xiang died the following year, and Huizong immediately reinstated Cai Jing and resumed suppression of the old faction.",
+        "a": 34.8,
+        "l": 114.3,
+        "c": "Politics",
+        "r": "Northern Song",
+        "o": "Asia"
+      },
+      {
+        "t": "Fatimid Dynasty of Egypt Rebuilds Walls of Jerusalem",
+        "s": "After the crusaders captured Jerusalem, Fatimid Caliph al-Amir rebuilt the damaged walls and strengthened fortifications. The Fatimids and the crusader Kingdom of Jerusalem then entered a long period of stalemate, contending for surrounding towns.",
+        "a": 31.8,
+        "l": 35.2,
+        "c": "Politics",
+        "r": "Fatimid Dynasty",
+        "o": "Africa"
+      },
+      {
+        "t": "Great Zimbabwe Culture Enters Flourishing Period",
+        "s": "The Shona people's construction of the Great Zimbabwe stone city on the Zimbabwean plateau reached its peak. The city is built of massive granite blocks without mortar, with walls up to 10 meters high. Great Zimbabwe is the largest ancient stone structure in southern Africa, representing the highly developed political organization and technical ability of the Bantu people.",
+        "a": -20.3,
+        "l": 30.6,
+        "c": "Culture",
+        "r": "Zimbabwe",
+        "o": "Africa"
+      },
+      {
+        "t": "European Chivalric System Develops",
+        "s": "At the end of the 11th century, the European knightly class gradually formed a systematic code of conduct known as chivalry (Chivalry). Knights swore to serve their lords, protect the weak, believe in Christianity, and abide by rules of combat and treatment of prisoners. The chivalric system became an important pillar of medieval European society, profoundly influencing literature, warfare, and manners.",
+        "a": 48.0,
+        "l": 3.0,
+        "c": "Culture",
+        "r": "Europe",
+        "o": "Europe"
+      },
+      {
+        "t": "Polynesian Migration to New Zealand",
+        "s": "Polynesian voyagers, using double-hulled canoes and celestial navigation, sailed over 3,000 kilometers from the Society Islands to reach New Zealand. They found the islands uninhabited, with vast forests and moa birds. These migrants became the ancestors of the Maori people, and Maori culture gradually formed in New Zealand.",
+        "a": -40.0,
+        "l": 175.0,
+        "c": "Society",
+        "r": "New Zealand",
+        "o": "Oceania"
+      },
+      {
+        "t": "Great Zimbabwe Builds Stone City",
+        "s": "Approximately 1100-1450, Great Zimbabwe became the most magnificent stone city in southern Africa. Its great stone buildings ('Great Enclosure' and Acropolis) were dry-built from granite blocks without mortar, with exterior walls up to 11 meters high. Great Zimbabwe was the capital of the Shona kingdom, controlling the gold, ivory, and copper trade between the Indian Ocean and the interior. Excavations have found trade goods from Persia and China.",
+        "a": -20.2,
+        "l": 30.9,
+        "c": "Engineering",
+        "r": "Great Zimbabwe",
+        "o": "Africa"
+      }
+    ]
+  }
+]

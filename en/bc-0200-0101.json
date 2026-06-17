@@ -1,0 +1,3345 @@
+[
+  {
+    "y": -200,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Gaozu of Han (Liu Bang)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Siege of Baideng",
+        "s": "Emperor Gaozu of Han personally led 320,000 troops north to attack the Xiongnu. Modu Chanyu feigned defeat to lure the Han vanguard and besieged them for seven days and nights at Mount Baideng near Pingcheng (present-day northeast of Datong, Shanxi). Cut off from supplies, the Han forces were saved when Liu Bang accepted Chen Ping's secret plan to bribe Modu's consort, leading Modu to open a gap in the encirclement. The battle convinced the Han court of Xiongnu cavalry strength, and on Liu Jing's advice, the Han initiated a heqin peace policy—marrying princesses, sending annual gifts of silk, wine, and grain, and calling each other brothers—to ease northern border pressure.",
+        "a": 40.0,
+        "l": 113.0,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Liu Jing Proposes Heqin with the Xiongnu",
+        "s": "After the Siege of Baideng, court official Liu Jing (formerly Lou Jing) advised Gaozu that Modu Chanyu had killed his father and could not be defeated by force alone. He suggested marrying a true eldest princess to the chanyu and sending generous gifts, so that any grandson born might become chanyu and respect the Han. Gaozu agreed, but Empress Lü refused to part with her own daughter, so a daughter of a clan branch was sent instead. The heqin policy thus became the basic framework for early Han–Xiongnu relations, buying a period of border tranquility.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome-Carthage Treaty After the Second Punic War",
+        "s": "Though the Second Punic War ended in 201 BCE, Rome continued to tighten pressure on Carthage in 200 BCE: Carthage was forbidden from waging war in Africa without Rome's permission and had to pay 200 talents annually for 50 years. Carthage lost military autonomy, though its commercial economy continued to recover. Meanwhile, Rome began to turn its attention to the eastern Mediterranean, preparing to intervene in Macedonian and Greek affairs.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Greco-Bactrian Kingdom at Its Zenith",
+        "s": "The Hellenistic kingdom of Bactria, under Euthydemus I and his son Demetrius I, reached its peak, expanding into Sogdia and the Indus Valley. Blending Greek, Persian, and Indian cultures, it issued fine bilingual coins, promoted Greek theater and sport, and became a cultural melting pot on the Silk Road. Gandharan art began to emerge during this period.",
+        "a": 36.8,
+        "l": 66.8,
+        "c": "Culture",
+        "r": "Greco-Bactrian Kingdom",
+        "o": "Asia"
+      },
+      {
+        "t": "Early Nasca Culture Emerges on the Peruvian Coast",
+        "s": "The Nasca culture took shape in southern coastal Peru, characterized in its early phase by Paracas-style pottery. Its inhabitants used underground irrigation channels (puquios) to farm cotton, beans, and sweet potatoes. Famous for its polychrome pottery and later the Nasca Lines, Nasca at this time was developing complex chiefdoms with ceremonial centers and elite tombs.",
+        "a": -14.83,
+        "l": -75.0,
+        "c": "Culture",
+        "r": "Nasca",
+        "o": "South America"
+      },
+      {
+        "t": "Watermill Spreads in Ancient Greece and Rome",
+        "s": "Around 200 BCE, the watermill spread across the Mediterranean. Earliest references come from Philo of Byzantium and Vitruvius. The watermill used flowing water to drive millstones, greatly boosting grain‑processing efficiency. Under the Roman Empire, watermills were built throughout the provinces; the largest known cluster (16 mills) from the period was found at Barbegal in southern France. The watermill was one of the most important sources of mechanical power before the Middle Ages.",
+        "a": 37.9,
+        "l": 23.7,
+        "c": "Technology",
+        "r": "Ancient Greece",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -199,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Gaozu of Han (Liu Bang)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Xiao He Oversees Construction of Changle Palace in Chang'an",
+        "s": "Chancellor Xiao He was ordered to expand the Qin‑era Xingle Palace into Changle Palace, the main court venue for the Han dynasty. At the same time, planning began for Weiyang Palace, the imperial granary, and the arsenal. Changle Palace had a circumference of about 10 kilometers; its architecture symbolized Han legitimacy as successor to Qin. The project consumed enormous manpower but cemented Chang'an as the political center of the Western Han.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Engineering",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome vs. Macedon: Key Battle of the Second Macedonian War",
+        "s": "In 199 BCE, Roman consul Publius Villius led forces into Macedon and fought an indecisive battle against Philip V in southern Macedon. The Senate decided to send more troops, appointing Titus Quinctius Flamininus as consul and commander of the expedition. This war was a crucial step in Rome's eastern expansion, aiming to break Macedonian control over Greek city‑states and weaken the Seleucid Empire.",
+        "a": 40.5,
+        "l": 22.5,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Modu Chanyu Campaigns West Against the Yuezhi",
+        "s": "After the Han‑Xiongnu heqin settlement, Modu Chanyu concentrated his forces and attacked the Yuezhi tribes in the Hexi Corridor. The Yuezhi were defeated and most migrated west to the Ili River valley (becoming the Greater Yuezhi), while a small remnant stayed near the Qilian Mountains (Lesser Yuezhi). This victory gave the Xiongnu full control of the Hexi Corridor, cutting Han communication with the Western Regions, and also provided fine warhorses and metallurgical technology from the Yuezhi. Xiongnu power reached its zenith.",
+        "a": 42.0,
+        "l": 95.0,
+        "c": "Military",
+        "r": "Xiongnu",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -198,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Gaozu of Han (Liu Bang)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Formal Heqin Treaty Between Han and Xiongnu",
+        "s": "Liu Bang sent Liu Jing to the Xiongnu with a daughter of the clan (styled as a princess) to marry Modu Chanyu. The treaty stipulated: the Great Wall as border, north for nomads and south for farmers; annual Han gifts of silk, wine, grain; and open border markets. This was the first large‑scale shipment of goods by the Han to the Xiongnu. For the next decade, the border was relatively peaceful.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome Captures Key Cities in the Second Macedonian War",
+        "s": "Roman forces under Flamininus captured Corinth and Demetrias in southern Greece, forcing Philip V back to Macedon. Rome allied with the Aetolian and Achaean Leagues, encircling Macedon. This intervention marked Rome's formal entry into Greek affairs and changed the balance of power in the eastern Mediterranean.",
+        "a": 37.9,
+        "l": 22.9,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Parthian Empire Establishes Western Silk Road Trade Network",
+        "s": "Arsaces II of Parthia (Arsacid dynasty) actively protected trade routes from Mesopotamia to Central Asia. The Parthians profited heavily from the Chinese silk trade and acted as cultural intermediaries between East and West. Hellenistic cities like Nisa and Hecatompylos became commercial hubs. Parthia also controlled the Tigris and Euphrates trade routes, laying the economic groundwork for later conflict with Rome over Syria.",
+        "a": 35.0,
+        "l": 45.0,
+        "c": "Economy",
+        "r": "Parthian Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -197,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Gaozu of Han (Liu Bang)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Decisive Battle of the Second Macedonian War: Cynoscephalae",
+        "s": "Roman forces met Philip V of Macedon at Cynoscephalae in Thessaly. The flexible Roman manipular legion defeated the Macedonian phalanx; Philip lost 8,000 killed and 5,000 captured. He sued for peace, giving up all Greek territories outside Macedon, surrendering his fleet and war elephants, and paying 1,000 talents. Rome became the arbiter of Greece.",
+        "a": 39.4,
+        "l": 22.3,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Han Suppresses Rebellion of King Xin of Han",
+        "s": "King Xin of Han (a descendant of the Warring States Han rulers), after being moved north of Taiyuan, allied with the Xiongnu and rebelled. Liu Bang led a campaign, defeated Xin, who fled to the Xiongnu. In pursuit, Han forces were briefly encircled by Xiongnu cavalry but managed to escape. After this, Liu Bang enfeoffed his son Liu Heng (later Emperor Wen) with the border commanderies of Yunzhong, Yanmen, and Dai, strengthening direct imperial control of the frontier.",
+        "a": 38.5,
+        "l": 112.0,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -196,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Gaozu of Han (Liu Bang)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Flamininus Proclaims Greek Freedom at Isthmian Games",
+        "s": "The Roman commander Titus Quinctius Flamininus proclaimed the freedom of the Greek city‑states from Macedonian rule at the Isthmian Games in Corinth. Roman garrisons were withdrawn from most major Greek cities, though some remained. This declaration won Greek sympathy but also gave Rome a pretext to intervene in Greek affairs, beginning the gradual Roman absorption of Greece.",
+        "a": 37.9,
+        "l": 22.9,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Han Xin Demoted to Marquis of Huaiyin",
+        "s": "The King of Chu, Han Xin, aroused Liu Bang's suspicion by sheltering a former general of Xiang Yu and commanding a strong army. Liu Bang pretended to tour Yunmeng Marsh; when Han Xin came to pay respects, he was arrested. Liu Bang pardoned him but demoted him to Marquis of Huaiyin and kept him under virtual house arrest in Chang'an. Han Xin then feigned illness, ceased attending court, and secretly conspired with Chen Xi, leading to his execution the following year. This episode showed Liu Bang's determination to eliminate non‑imperial kings.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "The Rosetta Stone Inscribed",
+        "s": "Egyptian priests of Ptolemy V (reigned 204–181 BCE) had the Rosetta Stone carved to honor the king's coronation. It bears the same text in three scripts: Egyptian hieroglyphs, Demotic, and Greek. Discovered in 1799, it was the key for Champollion to decipher ancient Egyptian writing. At this time Ptolemaic Egypt was declining and relied on priestly support.",
+        "a": 31.2,
+        "l": 29.9,
+        "c": "Culture",
+        "r": "Ptolemaic Egypt",
+        "o": "Africa"
+      },
+      {
+        "t": "Zhao Tuo Proclaims Himself King of Nanyue",
+        "s": "Zhao Tuo, a former Qin general in the Nanhai commandery, took advantage of the chaos in central China to annex Guilin and Xiang commanderies and declared himself King of Nanyue (Wu武王), with his capital at Panyu (modern Guangzhou). Liu Bang sent Lu Jia to Nanyue, formally recognizing Zhao Tuo as king and making Nanyue a nominal vassal. Zhao Tuo pursued a policy of 'harmonizing the Yue peoples', blending Han and Yue cultures. Nanyue would survive for nearly a century.",
+        "a": 23.1,
+        "l": 113.3,
+        "c": "Politics",
+        "r": "Nanyue",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -195,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Gaozu of Han (Liu Bang)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Death of Emperor Gaozu of Han",
+        "s": "Liu Bang was wounded by a stray arrow while suppressing Ying Bu's rebellion. He fell ill on the return march and died in April at Changle Palace in Chang'an, aged 62. His son Liu Ying (Emperor Hui) succeeded, but real power fell to Empress Lü. On his deathbed, Liu Bang had proclaimed the 'Oath of the White Horse', forbidding enfeoffment of non‑Liu as kings. Nevertheless, after his death, Empress Lü still enfeoffed her own clan members as kings.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Han Xin Executed with His Clan",
+        "s": "The conspiracy of Han Xin with Chen Xi was exposed. Empress Lü and Xiao He tricked Han Xin into coming to Changle Palace on the pretext that Gaozu had returned victoriously; there he was killed in the Bell Chamber, and his three clans were exterminated. His last words: 'I didn't follow Kuai Tong's advice, and now I die at the hands of a woman.' Han Xin's death marked the end of the most brilliant military commander of the early Han and demonstrated Empress Lü's ruthless political skill.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Hannibal Flees Carthage, Joins Seleucid Empire",
+        "s": "After the Second Punic War, Hannibal, serving as suffete (chief magistrate), launched political reforms that angered the oligarchy. Accused of conspiring with Antiochus III, he was forced to flee Carthage. He traveled via Tyre to Ephesus, joined Antiochus III as a military adviser, and urged Antiochus to fight Rome.",
+        "a": 36.9,
+        "l": 10.3,
+        "c": "Military",
+        "r": "Carthage",
+        "o": "Africa"
+      },
+      {
+        "t": "Rome Passes Lex Porcia Concerning Asia Province",
+        "s": "The Roman Senate enacted a law regulating the administration of Asia Minor. Allied kingdoms such as Pergamon retained autonomy, but Rome reserved the right of final arbitration and stationing troops. This foreshadowed the eventual bequest of Pergamon to Rome and showed Rome's gradual penetration of the Hellenistic world.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -194,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Hui of Han (Liu Ying)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Wei Man Establishes Wiman Joseon",
+        "s": "A Yan (Chinese) refugee named Wei Man led about a thousand people across the P’e River (modern Taedong River) and sought refuge with King Jun of Gija Joseon. Jun made him commander of the western border. Wei Man gathered followers, then falsely claimed a Han attack, seized the capital Wanggeomseong (Pyongyang), and proclaimed himself king. Jun fled south. Wiman Joseon controlled the northern Korean Peninsula and became a powerful buffer for Han in the northeast, until it was destroyed under Emperor Wu of Han.",
+        "a": 39.0,
+        "l": 125.7,
+        "c": "Politics",
+        "r": "Wiman Joseon",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome vs. Seleucid Empire: Battle of Thermopylae",
+        "s": "Seleucid king Antiochus III entered Greece at the invitation of the Aetolian League. Rome responded with a force that met Antiochus at Thermopylae. The Roman legions defeated Antiochus’s cavalry and elephants, forcing him back to Asia Minor. This cleared the way for Rome to march into Asia; Antiochus fled to Sardis, and the following year the Roman navy achieved a decisive victory.",
+        "a": 38.8,
+        "l": 22.5,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -193,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Hui of Han (Liu Ying)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Death of Zhang Liang, Marquis of Liu",
+        "s": "Zhang Liang, a key founding contributor to the Han dynasty, died of illness. Descended from the noble house of the Warring States state of Han, he had failed to assassinate Qin Shi Huang but later helped Liu Bang unify the realm. Liu Bang praised him as 'a strategist who wins battles a thousand miles away.' In his later years Zhang Liang practiced Daoist meditation and fasting, and thus ended his days peacefully. His death deprived Empress Lü of an important counterweight in court.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Person",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome Establishes Provincial Administration in Spain",
+        "s": "The Senate divided Hispania into two provinces, Nearer and Further Spain, each governed by a praetor. Rome had already conquered Carthaginian territories in Iberia, but the local Celtiberian tribes continued to resist. Rome began building roads, establishing colonies, and introducing Latin language and Roman law, gradually Romanizing Spain.",
+        "a": 40.4,
+        "l": -4.0,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Han Prohibits Private Possession of Weapons",
+        "s": "Empress Lü, in the name of Emperor Hui, issued a decree forbidding private possession of crossbows, spears, and similar weapons, with severe penalties for violation. This measure aimed to disarm local feudal lords and powerful families, strengthening central control. However, weapons could still be kept in border commanderies and military posts. The law reflected the early Han government's anxiety over internal security.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -192,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Hui of Han (Liu Ying)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Roman‑Seleucid War Erupts",
+        "s": "The formal war over Greek spheres of influence began between Antiochus III and Rome. Antiochus crossed the Dardanelles into Thrace, attempting to recover Seleucid control over European territory. The Roman Senate declared war, allied with Pergamon and Rhodes, and sent a fleet and army under Lucius Scipio (brother of Scipio Africanus). This war is known as the Syrian War.",
+        "a": 38.5,
+        "l": 22.5,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Peak of Hellenistic Science: Aristarchus Proposes Heliocentric Theory",
+        "s": "Aristarchus of Samos (c. 310–c. 230 BCE), in his writings, proposed that the Sun is the center of the universe and the Earth revolves around it. Although not widely accepted at the time (the heliocentric theory was suppressed by the Ptolemaic system), his idea was nearly two millennia ahead of its time. He also used lunar eclipses to estimate the distances to the Sun and Moon, advancing astronomy.",
+        "a": 37.7,
+        "l": 26.9,
+        "c": "Technology",
+        "r": "Hellenistic World",
+        "o": "Europe"
+      },
+      {
+        "t": "Empress Lü Forces Emperor Hui to Marry His Niece",
+        "s": "To consolidate power, Empress Lü arranged that her son, Emperor Hui (only 11 years old), marry Zhang Yan, daughter of his elder sister Princess Luyuan. Thus Zhang Yan was both wife and niece of the emperor—a violation of human ethics. Hui was extremely displeased but dared not disobey. Zhang Yan bore no children; Lü had a palace maid's baby substituted after killing the mother, falsely presented as the empress's son, planting seeds of future palace turmoil.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -191,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Hui of Han (Liu Ying)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Roman Navy Defeats Seleucid Fleet at Battle of Myonnesus",
+        "s": "The combined Roman‑Rhodian fleet under Admiral Aemilius Regillus defeated the main Seleucid navy at Myonnesus (near modern Miller, Turkey). Using fire ships and ramming tactics, they destroyed or captured many Seleucid vessels. This victory gave Rome complete control of the Aegean Sea, forcing Antiochus III to retreat inland in Asia Minor.",
+        "a": 38.0,
+        "l": 27.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Hui Implements 'Reduced Penalties' Policy",
+        "s": "Depressed over Empress Lü's control, Emperor Hui tried to win popular support by lightening punishments. He abolished the 'Book‑Burning Decree' (which had prohibited private possession of pre‑Qin texts), allowed free discussion and teaching of the Hundred Schools, and abolished the 'three‑clan execution' and 'law against seditious speech', while reducing corporal punishment. These measures fostered cultural recovery but did not reduce Lü's actual power.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Law",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -190,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Hui of Han (Liu Ying)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Magnesia: Rome Decisively Defeats Seleucids",
+        "s": "Under Lucius Scipio and Scipio Africanus (as advisor), the Roman army met Antiochus III at Magnesia (near modern Manisa, Turkey). The flexible Roman legions and cavalry flanking attacks overwhelmed Antiochus's war elephants and cataphracts. The Seleucids lost over 50,000 men; Antiochus fled to Syria to sue for peace. This forced the Seleucids to give up all their territories in Asia Minor.",
+        "a": 38.6,
+        "l": 27.4,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Asia"
+      },
+      {
+        "t": "Completion of the Walls of Chang'an",
+        "s": "After several years of construction, the walls of Chang'an were fully completed. They ran about 25.7 km in circumference, 12 m high, with a base 16 m wide; each of the three gates per side had three passageways. The enclosed area was about 36 square kilometers, making Chang'an one of the largest cities in the world at the time. Because the north wall followed the bend of a river, the irregular shape led people to call it the 'Walled City of the Dipper'.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Engineering",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -189,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Hui of Han (Liu Ying)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome and Seleucids Sign Treaty of Apamea",
+        "s": "Antiochus III, defeated, signed a treaty with Rome: he gave up all territories west of the Taurus Mountains (most of Asia Minor), paid 15,000 talents over 12 years, surrendered all war elephants and all but ten warships, and agreed not to hire mercenaries. Rome transferred the acquired lands to Pergamon and Rhodes, strengthening those allies. The Seleucid Empire was reduced to a second‑rate power.",
+        "a": 38.0,
+        "l": 29.0,
+        "c": "Diplomacy",
+        "r": "Roman Republic",
+        "o": "Asia"
+      },
+      {
+        "t": "Han Abolishes 'Three‑Clan Execution'",
+        "s": "Empress Lü, in the name of Emperor Hui, formally abolished the Qin‑era punishment of executing the parents, wife, and siblings of a criminal. However, for rebellion and other grave crimes, family members could still be enslaved. This alleviated the harsh Qin legal legacy, but Empress Lü herself often used extrajudicial killings against political enemies, so the reform was often nominal.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Law",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -188,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Hui of Han (Liu Ying)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Hui of Han Dies",
+        "s": "Emperor Hui, only 24 years old, fell ill and died from depression after witnessing Empress Lü poison his brother Prince Ruyi of Zhao and turn Lady Qi into a 'human pig.' After his death, Empress Lü placed a young child (the former emperor Liu Gong, born of a palace maid and passed off as the empress's son) on the throne as the 'Former Shao Emperor,' and ruled as regent — the first time a Chinese empress dowager effectively governed. She proceeded to enfeoff numerous Lü clan members as kings, breaking Liu Bang's oath.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Attalus I of Pergamon Dies",
+        "s": "Attalus I (reigned 241–197 BCE), king of Pergamon, died and was succeeded by his son Eumenes II. During his reign, Attalus I allied with Rome against the Seleucids, turning Pergamon from a minor Anatolian state into a culturally vibrant Hellenistic kingdom. He built the Great Altar of Pergamon (now in Berlin) and promoted the manufacture and use of parchment (pergamentum).",
+        "a": 39.1,
+        "l": 27.2,
+        "c": "Politics",
+        "r": "Kingdom of Pergamon",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -187,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Former Shao Emperor Liu Gong",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Cao Can Succeeds Xiao He as Chancellor",
+        "s": "Xiao He died and on his deathbed recommended Cao Can as his successor. Cao Can continued Xiao's policies: 'Xiao's statutes, Cao's following.' He drank wine daily and did not interfere with his subordinates' minor mistakes, using Huang‑Lao Daoist principles to let the people rest. Though some criticized him as ineffective, his approach avoided conflict with Empress Lü while maintaining stability.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Antiochus III Dies; Seleucus IV Succeeds",
+        "s": "Antiochus III was killed (or fell) while plundering a temple. His son Seleucus IV Philopator succeeded. The imperial treasury was exhausted by war indemnities; Seleucus sent his minister Heliodorus to rob the Jerusalem Temple, triggering a revolt in Judaea. The empire fell into financial crisis and internal turmoil.",
+        "a": 35.0,
+        "l": 37.5,
+        "c": "Politics",
+        "r": "Seleucid Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Aetolian League Forced to Submit to Rome",
+        "s": "After the Battle of Magnesia, the Aetolian League, which had allied with Antiochus III, lost its foreign support. The Roman Senate forced it to surrender all but a few cities with limited self‑government. The Aetolians became a Roman dependency, ending the independent city‑state system in Greece and paving the way for the eventual establishment of the Roman province of Achaea.",
+        "a": 38.5,
+        "l": 21.5,
+        "c": "Politics",
+        "r": "Aetolian League",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -186,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Former Shao Emperor Liu Gong",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Han Forbids Vassal Kings from Minting Coin",
+        "s": "Empress Lü issued a decree forbidding vassal states from minting their own coinage, requiring nationwide use of the 'eight‑zhu banliang' coin. Previously, kings such as Liu Bi of Wu had used mineral resources on their estates to mint coins, causing monetary disorder and inflation. This strengthened central control over the economy but also bred resentment among the kings, contributing to the later Rebellion of the Seven States.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Economy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Celtiberians Launch Major Revolt in Spain",
+        "s": "Oppressive taxes and forced conscription by Rome in Hispania provoked a large‑scale uprising of the native Celtiberian tribes. The rebels captured Roman colonies and killed colonists. The Senate sent the consul Marcus Fulvius Nobilior with an army to suppress the revolt, but he suffered early setbacks. The conflict, known as the 'Spanish War,' lasted for years.",
+        "a": 41.0,
+        "l": -3.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Zhang Liang's Son Zhang Buying Stripped of Title",
+        "s": "After Zhang Liang's death, his son Zhang Buying inherited the marquisate of Liu. However, Zhang Buying was convicted of manslaughter and lost the title, ending the fief. This marked a gradual decline of the first generation of Han founding families and a shift of power toward the Lü clan.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -185,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Former Shao Emperor Liu Gong",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Empress Lü Enfeoffs Lü Clan Members as Kings",
+        "s": "Ignoring Liu Bang's 'White Horse Oath' that only Liu‑surnamed men could be kings, Empress Lü enfeoffed her nephew Lü Tai as King of Lü, Lü Chan as King of Liang, and Lü Lu as King of Zhao, and posthumously honored her father Lü Gong as King of Lü Xuan. She also deposed the Former Shao Emperor and installed another child, Liu Hong (the Later Shao Emperor). The Lü clan controlled the northern and southern armies and the court; Liu princes were suppressed, and officials dared not speak out.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Mauryan Empire Falls; Shunga Dynasty Founded",
+        "s": "The last Mauryan emperor, Brihadratha, was assassinated by his general Pushyamitra Shunga during a military parade. Pushyamitra established the Shunga dynasty (c. 185–73 BCE), with its capital at Pataliputra. The new dynasty favored Brahmanism, persecuted Buddhists, and revived Vedic sacrifices. However, its territory was limited to the Ganges valley; the Deccan and northwest had broken away from the Mauryan empire.",
+        "a": 25.0,
+        "l": 80.0,
+        "c": "Politics",
+        "r": "India",
+        "o": "Asia"
+      },
+      {
+        "t": "Greek Becomes Required Subject for Roman Elite Education",
+        "s": "With Rome's conquest of Greek city‑states, many Greek scholars and teachers flowed into Rome as captives or free men. Roman aristocrats began hiring Greek tutors to teach Greek language, rhetoric, and philosophy. Although Cato the Elder criticized Greek cultural influence, even he learned Greek late in life. Greek education laid the foundation for Rome's eventual absorption of Greek civilization.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -184,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Former Shao Emperor Liu Gong",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Cato the Elder Speaks Against Destroying Corinth",
+        "s": "Roman censor Marcus Porcius Cato (Cato the Elder), though conservative, opposed the radical senators who wanted to utterly destroy Corinth. He argued for keeping Greek city‑states as a buffer for Rome. However, two decades later, Rome still sacked Corinth. Cato also promoted Latin literature, writing 'Origines' and 'De Agri Cultura'.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Empress Lü Deposes and Secretly Kills Former Shao Emperor",
+        "s": "When the former Shao Emperor Liu Gong learned the truth about his birth mother's murder, he angrily said, 'How could the Empress Dowager kill my mother and still call me her son? When I am grown, I will take action.' Empress Lü had him imprisoned in the Yong Alley, soon deposed him, and secretly killed him. She then installed Liu Hong, Prince of Changshan, as the Later Shao Emperor, further tightening her control over the palace.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -183,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Later Shao Emperor Liu Hong",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Death of Scipio Africanus",
+        "s": "Publius Cornelius Scipio Africanus (Scipio Africanus), the Roman general who defeated Hannibal at Zama, died at his estate in Campania at about age 52. Accused of corruption by his political enemies, he had voluntarily exiled himself in his later years. His reported last words: 'Ungrateful fatherland, you do not even deserve my ashes.'",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Person",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Hannibal Commits Suicide",
+        "s": "Hunted by the Romans, the exiled Hannibal took refuge with King Prusias I of Bithynia. When Roman envoys demanded his surrender, Hannibal found himself surrounded and poisoned himself (with poison he kept in a ring), at age 64. He is said to have declared: 'Let us lift the long burden from the Romans, who have waited far too long for the death of an old man.'",
+        "a": 40.5,
+        "l": 29.0,
+        "c": "Person",
+        "r": "Bithynia",
+        "o": "Asia"
+      },
+      {
+        "t": "Empress Lü Builds the Western Market of Chang'an",
+        "s": "To boost the capital's economy, Empress Lü ordered the construction of the Western Market in the northwest of Chang'an, complementing the existing Eastern Market. The Western Market dealt mainly in daily goods, livestock, and slaves, while the Eastern Market handled luxury goods and official trade. Chang'an's commerce gradually recovered, but Lü was more concerned with controlling markets to increase tax revenue for her private treasury.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Economy",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -182,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Later Shao Emperor Liu Hong",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome Suppresses Cisalpine Gauls in the Ligurian War",
+        "s": "The Roman consul Lucius Aemilius Paullus (later the victor at Pydna) suppressed a joint uprising of the Ligurians and Cisalpine Gauls. The legions used scorched‑earth tactics, razed villages, and sold survivors into slavery. Rome consolidated its rule over northern Italy and built the Via Aemilia connecting Piacenza and Rimini.",
+        "a": 44.0,
+        "l": 8.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Birth of Jia Yi",
+        "s": "Jia Yi, a native of Luoyang, was born. He would become a famous political commentator and writer of the Western Han. A prodigy, he was summoned to court as an erudite (boshi) in his twenties by Emperor Wen. He wrote 'The Faults of Qin,' 'On the Security of the State,' and 'On Storing Grain,' analyzing the fall of Qin, urging reduction of feudal princes, emphasis on agriculture, and ritual reform. His ideas profoundly influenced the 'Rule of Wen and Jing'.",
+        "a": 34.6,
+        "l": 112.4,
+        "c": "Person",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -181,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Later Shao Emperor Liu Hong",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Heightening Tensions Between Liu and Lü Clans on Eve of Lü's Death",
+        "s": "Empress Lü, seriously ill, appointed Lü Lu as General of the Northern Army and Lü Chan as General of the Southern Army, placing the capital's military under the Lü clan. She warned them: 'When I die, the young emperor will be vulnerable. The ministers may rebel. You must hold the army and guard the palace; do not come to my funeral.' Liu princes such as Liu Xiang of Qi and Liu Zhang (the Marquis of Zhuxu) secretly conspired in their fiefs to rise against the Lü; veteran officials Chen Ping and Zhou Bo waited for the right moment.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome Divides Macedon into Four Republics",
+        "s": "The Roman Senate divided the kingdom of Macedon into four autonomous regions, each with its own assembly and treasury. They were forbidden from intermarriage, land ownership across regions, mining silver, or building ships. This dismantled Macedon's military and economic potential, reducing it to a Roman dependency. The four‑region system lasted until Macedon became a province in 146 BCE.",
+        "a": 40.5,
+        "l": 23.0,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -180,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wen of Han (Liu Heng)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Empress Lü Dies; Zhou Bo and Chen Ping Crush the Lü Clan",
+        "s": "After Empress Lü's death, Lü Chan and Lü Lu planned a coup to seize the throne. Liu Xiang of Qi first raised troops; Grand Commandant Zhou Bo and Chancellor Chen Ping responded in Chang'an. Zhou Bo tricked Lü Lu into surrendering command of the Northern Army, then led forces to kill Lü Chan, Lü Lu, and the entire Lü clan. They then welcomed Liu Heng, Prince of Dai, as Emperor Wen. The Lü clan's extermination was the largest political purge of the early Western Han, returning power to the Liu imperial house.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Wen of Han Ascends, Initiating the Rule of Wen and Jing",
+        "s": "Liu Heng, Prince of Dai, ascended the throne as Emperor Wen of Han. He pursued a policy of letting the people rest: abolishing corporal punishment, reducing land tax (to one‑thirtieth), reducing corvée labor, and opening mountain and marshlands. He also curtailed powerful families and weakened vassal kings, following Jia Yi's advice to 'divide the large kingdoms into smaller pieces.' Emperor Wen lived frugally, and his reign, together with that of his son Jing, became the first golden age of the Western Han, known as the 'Rule of Wen and Jing.'",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "On Eve of Third Macedonian War, Perseus Consolidates Alliances",
+        "s": "Perseus of Macedon (son of Philip V) secretly allied with Illyria, Thrace, and the Seleucid Empire to resist Roman domination. He re‑armed his army, stockpiled grain, and sought support from Greek city‑states. The Roman Senate, suspecting his intentions, sent envoys. Perseus refused to comply, and in 171 BCE Rome formally declared war.",
+        "a": 40.5,
+        "l": 23.0,
+        "c": "Politics",
+        "r": "Kingdom of Macedon",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -179,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wen of Han (Liu Heng)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Wen Abolishes the Crime of 'Sedition'",
+        "s": "On Jia Yi's advice, Emperor Wen abolished the Qin‑era crime of 'vilification and sedition,' allowing people to criticize the government directly. His edict stated: 'Now the law has the crime of sedition, which prevents officials from speaking their minds and the ruler from hearing of his mistakes.' This greatly enlivened intellectual life, encouraged officials to remonstrate, and revived folk literature, laying a foundation for political openness during the 'Rule of Wen and Jing.'",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Law",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Perseus Formally Succeeds as King of Macedon",
+        "s": "Perseus (reigned 179–168 BCE) was formally crowned king of Macedon. He continued his father Philip V's policies, trying to restore Macedon's Mediterranean hegemony. He strengthened his state by dynastic marriage (to a Seleucid princess), issuing gold coinage, and hiring mercenaries, while also trying to split Rome's Greek allies. Rome, fearing his rise, prepared for war.",
+        "a": 40.5,
+        "l": 23.0,
+        "c": "Politics",
+        "r": "Kingdom of Macedon",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -178,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wen of Han (Liu Heng)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Wen Imposes 'One‑Thirtieth' Land Tax",
+        "s": "To encourage farming, Emperor Wen reduced the land tax from one‑fifteenth to one‑thirtieth (about 3.33% of harvest). This was one of the lowest rates in Chinese history, greatly lightening the burden on small peasants. The emperor repeatedly ordered local officials to promote agriculture and exempted 'filial and fraternal peasants' from corvée. Good harvests caused grain prices to fall to several tens of coins per shi.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Economy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome Allies with Numidian King Masinissa",
+        "s": "To weaken Carthage, Rome backed the Numidian king Masinissa in encroaching on Carthaginian territory. Masinissa, who had helped Rome in the Second Punic War and was now over eighty, continued to expand. Rome turned a blind eye as he seized Carthage's rich agricultural lands. Carthage appealed to Rome but got no relief, setting the stage for the Third Punic War.",
+        "a": 36.0,
+        "l": 6.0,
+        "c": "Diplomacy",
+        "r": "Roman Republic",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": -177,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wen of Han (Liu Heng)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Xiongnu's Right Worthy Prince Invades Han Beidi Commandery",
+        "s": "The Xiongnu's Right Worthy Prince led tens of thousands of cavalry into Shang Commandery (modern Yulin, Shaanxi), plundering and killing. Emperor Wen sent Chancellor Guan Ying with 85,000 chariots and cavalry to drive them out beyond the frontier. This was the largest Han‑Xiongnu clash during Emperor Wen's reign. Afterwards, Wen renewed heqin but strengthened border beacon towers and military agriculture.",
+        "a": 36.0,
+        "l": 109.0,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome Suppresses Revolts in Sardinia and Corsica",
+        "s": "Local tribes in Sardinia and Corsica, unable to bear Roman official oppression, launched a large‑scale revolt. The Senate sent consul Tiberius Sempronius Gracchus (father of the Gracchi brothers) to suppress it. He combined force with conciliation, granting Latin citizenship to some tribes and establishing colonies, keeping the islands relatively calm for over thirty years.",
+        "a": 40.0,
+        "l": 9.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -176,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wen of Han (Liu Heng)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Jia Yi Submits 'On the Security of the State'",
+        "s": "Alarmed by the growing power of the vassal kings, Jia Yi submitted 'On the Security of the State' to Emperor Wen. Its core idea was to 'divide the large kingdoms into many smaller ones' to disperse their strength. He also suggested reforming rituals, music, the calendar, and official attire. Emperor Wen did not fully adopt these proposals but began to weaken the kingdoms of Qi and Huainan.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Antiochus IV Ascends the Seleucid Throne",
+        "s": "Seleucid king Seleucus IV was murdered by his minister Heliodorus. His brother Antiochus IV (Epiphanes), with help from Athenians, returned and seized the throne. Antiochus IV had lived as a hostage in Rome for many years; he pursued a radical Hellenization policy and proclaimed himself a god manifest. He soon turned his attention to Egypt and Judea, ultimately sparking the Maccabean Revolt.",
+        "a": 33.5,
+        "l": 36.3,
+        "c": "Politics",
+        "r": "Seleucid Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -175,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wen of Han (Liu Heng)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Wen Repeals the Ban on Private Coin Minting",
+        "s": "Emperor Wen canceled Empress Lü's prohibition on private minting, allowing people to freely cast 'four‑zhu banliang' coins. However, copper and tin alloys were required, with no lead or iron adulteration. This boosted commerce but also allowed rich merchants (like Liu Bi, Prince of Wu, and Deng Tong) to monopolize minting, indirectly strengthening the economic power of vassal kings and planting seeds for future rebellion.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Economy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Hellenistic Medicine: Erasistratus Founds Physiological School",
+        "s": "The famous Hellenistic physician Erasistratus (c. 304–c. 250 BCE) practiced in Alexandria. Through human dissection he discovered that the heart is the center of blood circulation, distinguished sensory from motor nerves, and proposed that air enters the heart via the lungs to form 'vital spirit.' Although his theories had errors, he pioneered systematic anatomy and physiology, influencing the Roman physician Galen.",
+        "a": 31.2,
+        "l": 29.9,
+        "c": "Technology",
+        "r": "Ptolemaic Egypt",
+        "o": "Africa"
+      },
+      {
+        "t": "Laoshang Chanyu Succeeds as Xiongnu Ruler",
+        "s": "Modu Chanyu died and was succeeded by his son Jiyi, known as Laoshang Chanyu. Laoshang continued an expansionist policy, defeating the Greater Yuezhi in the west and subjugating the Wusun, while maintaining nominal heqin with the Han. Emperor Wen sent a daughter of a clan prince to be his consort; the eunuch Zhonghang Yue, who accompanied her, defected to the Xiongnu and became a fierce enemy of the Han.",
+        "a": 44.0,
+        "l": 112.0,
+        "c": "Politics",
+        "r": "Xiongnu",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -174,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wen of Han (Liu Heng)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Han and Xiongnu Reaffirm Heqin Treaty",
+        "s": "When Laoshang Chanyu ascended, he asked to renegotiate heqin with the Han. Emperor Wen sent large gifts and reaffirmed the brotherly relationship. But Zhonghang Yue, now serving the Xiongnu, taught the chanyu to read Han documents, introduced record‑keeping, and urged the chanyu to look down on the Han. Peace was short‑lived; border skirmishes continued.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome Builds the First Stone Circus Maximus",
+        "s": "Two Roman censors built the first permanent stone Circus Maximus in Rome, capable of holding about 150,000 spectators. Earlier circuses had been wooden. The Circus Maximus was used mainly for chariot races, spectacles, and religious festivals, becoming a central venue for Roman public entertainment.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Engineering",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -173,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wen of Han (Liu Heng)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Antiochus IV Suppresses Jewish Movement",
+        "s": "To impose Hellenization, Antiochus IV set up an altar to Olympian Zeus in Jerusalem, forbade circumcision and Sabbath observance, and converted the Temple into a shrine of Zeus. The Jewish priest Mattathias and his sons rose in revolt, killing a Greek official and fleeing to the hills, thus beginning the Maccabean Revolt (167–160 BCE).",
+        "a": 31.8,
+        "l": 35.2,
+        "c": "Politics",
+        "r": "Seleucid Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome Expels Epicurean Philosophers",
+        "s": "The Roman Senate ordered the expulsion of Epicurean philosophers on the grounds that they 'corrupted youth.' The Epicurean school advocated the pursuit of pleasure (in a rational, moderate way) and avoidance of politics—values the conservative Senate saw as corrosive to traditional Roman virtue. Meanwhile, Stoic philosophy continued to spread in Rome and was welcomed by the upper class.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -172,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wen of Han (Liu Heng)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome Declares War on Macedon, Third Macedonian War Begins",
+        "s": "The Roman Senate declared war on Macedon, claiming that King Perseus had assassinated a pro‑Roman claimant to the Macedonian throne. The consul Publius Licinius Crassus led forces into Illyria, while the fleet blockaded the Macedonian coast. Perseus initially won a minor victory at Larissa but failed to cut Roman supply lines.",
+        "a": 40.5,
+        "l": 23.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Jia Yi Exiled to be Tutor to King of Changsha",
+        "s": "Emperor Wen's favorite Deng Tong accused Jia Yi of 'seeking to monopolize power.' Wen demoted Jia Yi to be tutor to the king of Changsha. By the Xiang River, Jia Yi wrote 'Lament for Qu Yuan' to express his frustration. Later recalled to be tutor to Prince Liang Huai, he died of grief when his young charge fell from a horse and died, at only 33.",
+        "a": 28.2,
+        "l": 112.9,
+        "c": "Person",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -171,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wen of Han (Liu Heng)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Third Macedonian War: Perseus Wins at Callinicus",
+        "s": "Perseus defeated the Roman army at the Callinicus River in Thessaly; the Roman consul Crassus lost about 3,000 men. This was the only major Macedonian victory in the war. But Perseus was too cautious to follow up, instead offering peace negotiations, which gave Rome time to reorganize its forces.",
+        "a": 39.5,
+        "l": 22.4,
+        "c": "Military",
+        "r": "Kingdom of Macedon",
+        "o": "Europe"
+      },
+      {
+        "t": "Rome Establishes a Permanent Praetor for Hispania",
+        "s": "The Senate appointed a special praetor (proconsul) to reside permanently in Hispania, responsible for justice and administration. Previously, the Spanish provinces had been governed by annually rotating consuls or praetors, which was inefficient. This step advanced the maturation of the Roman provincial system, though local tribal resistance remained frequent.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -170,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wen of Han (Liu Heng)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Roman Forces Suffer Setbacks in Third Macedonian War",
+        "s": "The new Roman consul Marcus Junius Brutus attacked Macedon but was ambushed and suffered heavy losses at Oescum. Perseus refused to release Roman prisoners, hoping to force peace talks. The Senate refused to yield and appointed Lucius Aemilius Paullus as consul (in 168 BCE) to reverse the situation.",
+        "a": 40.5,
+        "l": 22.8,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Roman Aristocrats Systematically Study Greek Rhetoric",
+        "s": "Roman noble families began hiring Greek rhetoricians, such as Dionysius of Halicarnassus, to teach oratory to their sons. Although Cato the Elder criticized Greek luxury, he himself wrote a Latin rhetoric manual, 'De Oratore' (On the Principles of Oratory). Latin literature started to move away from Greek influence and develop its own character.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Death of Jia Yi",
+        "s": "Jia Yi, blaming himself for failing to protect Prince Liang Huai (who fell from a horse and died), wept daily and died a year later, aged only 33. His collected works, 'New Writings' (Xin Shu) in 58 chapters, analyzed the fall of Qin, proposed weakening feudal lords, promoting agriculture, and other policies that deeply influenced Han politics.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Person",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -169,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wen of Han (Liu Heng)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Roman Consul Paullus Prepares for Decisive Battle",
+        "s": "The newly appointed consul Lucius Aemilius Paullus arrived in Greece, reorganized the Roman army, and adopted new tactics: dividing the legions into three lines (hastati, principes, triarii), and improving cavalry and light infantry coordination. He avoided the front of the Macedonian phalanx, luring Perseus to leave the mountains and fight on the plain.",
+        "a": 40.5,
+        "l": 22.5,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Wen Adopts Chao Cuo's 'Memorial on Garrisoning the Borders'",
+        "s": "Chao Cuo, tutor to the heir apparent, proposed moving criminals and poor people from the interior to the frontier to cultivate the land and defend against the Xiongnu. Emperor Wen accepted the idea and ordered the settlement of volunteers in Shang, Beidi, and other commanderies, providing farm tools, seeds, houses, and tax exemptions. This not only strengthened border defense but also relieved population pressure in the interior.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -168,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wen of Han (Liu Heng)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Pydna: Rome Annihilates Macedon",
+        "s": "At Pydna in northern Greece, the Roman consul Paullus faced King Perseus. The Roman legions exploited terrain to break the Macedonian phalanx's formation, then attacked its flanks. The Macedonian army disintegrated: 20,000 killed, 11,000 captured. Perseus surrendered and was later paraded in Rome and died in captivity. Macedon was divided into four republics, effectively Roman puppets. The Third Macedonian War was over.",
+        "a": 40.4,
+        "l": 22.6,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Wen Issues 'Edict Abolishing Mutilating Punishments'",
+        "s": "Moved by a young girl named Tiying who begged to save her father, Emperor Wen abolished mutilating punishments (tattooing, cutting off the nose, cutting off the feet), replacing them with flogging. In practice, however, flogging was often so severe that it caused death. Emperor Jing later reduced the severity of flogging. This edict marked a significant step forward in the humanization of ancient Chinese penal law.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Law",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -167,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wen of Han (Liu Heng)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome Divides Macedon into Four Autonomous Republics",
+        "s": "The Roman Senate formally announced the partition of Macedon: four autonomous regions, each with its own noble assembly, but foreign policy controlled by Rome. They were forbidden from intermarriage, trade, shared mining, and land transfers. This eliminated any chance of Macedonian revival. Perseus was taken to Rome and died in prison after being paraded in triumph.",
+        "a": 40.5,
+        "l": 22.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Han Reforms Court Structure, Creates the 'Inner Court'",
+        "s": "To strengthen imperial power, Emperor Wen selected close attendants (such as shangshu, shizhong, changshi) to form an 'Inner Court' (zhongchao) that counterbalanced the 'Outer Court' headed by the chancellor. The Inner Court, composed of the emperor's confidants, directly participated in decision‑making, weakening the chancellor's authority. This system developed into the neichao under Emperor Wu and became an important feature of Han governance.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -166,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wen of Han (Liu Heng)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Xiongnu Laoshang Chanyu Launches Massive Invasion of Han",
+        "s": "Laoshang Chanyu led 140,000 cavalry into Chaona and Xiao Pass (modern Guyuan, Ningxia), killing the commandant of Beidi, Sun Ang, and plundering many people and livestock, with the vanguard reaching Yong County and the Ganquan Palace. Emperor Wen rushed 100,000 cavalry to defend Chang'an and sent counterattacking forces. The Xiongnu withdrew after about a month, without a decisive engagement. This was the deepest Xiongnu penetration into Han territory in the early Western Han.",
+        "a": 35.5,
+        "l": 106.5,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Maccabean Revolt Erupts",
+        "s": "The Jewish priest Mattathias killed a Seleucid official and fled into the desert. His son Judas Maccabeus ('The Hammer') took command. Using guerrilla tactics, the rebels captured villages around Jerusalem and ambushed Seleucid troops. Judas defeated General Apollonius at Mizpah, seizing weapons and equipment and greatly increasing his strength.",
+        "a": 31.8,
+        "l": 35.2,
+        "c": "Military",
+        "r": "Judea",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -165,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wen of Han (Liu Heng)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Judas Maccabeus Captures Jerusalem and Purifies the Temple",
+        "s": "Judas led his guerrilla army in a sudden attack on Jerusalem, capturing the city except for the Akra fortress. He removed the pagan altar from the Temple, rebuilt the Jewish altar, and restored traditional sacrifices. This event became the origin of the Jewish festival of Hanukkah (Dedication). The Seleucid garrison still held the fortress, but Judea achieved preliminary independence.",
+        "a": 31.8,
+        "l": 35.2,
+        "c": "Military",
+        "r": "Judea",
+        "o": "Asia"
+      },
+      {
+        "t": "Han Briefly Restores Heqin with Xiongnu",
+        "s": "After Laoshang Chanyu's invasion, the Han court, unable to mount a large‑scale counteroffensive, again sent envoys with gifts to restore heqin. Meanwhile, Emperor Wen strengthened border fortifications and expanded military‑agriculture colonies. The Xiongnu continued small‑scale raids, but generally avoided all‑out war.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -164,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wen of Han (Liu Heng)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Death of Antiochus IV; Civil War in Seleucid Empire",
+        "s": "Antiochus IV died during a campaign in Persia. His nine‑year‑old son Antiochus V succeeded, with Lysias as regent. Soon several pretenders appeared: Demetrius I (son of Seleucus IV), who escaped from Rome as a hostage, returned and seized the throne. Civil war exhausted Seleucid strength, allowing the Maccabees to consolidate Jewish independence.",
+        "a": 33.5,
+        "l": 36.3,
+        "c": "Politics",
+        "r": "Seleucid Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Chao Cuo Submits 'Memorial on Military Affairs'",
+        "s": "Chao Cuo analyzed the relative strengths and weaknesses of the Xiongnu and Han armies and proposed using 'barbarians against barbarians' by recruiting surrendered Hu cavalry to fight the Xiongnu. Emperor Wen approved and began establishing cavalry units in Longxi, Beidi, and other commanderies, while improving equipment and training for the frontier troops.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -163,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wen of Han (Liu Heng)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome Suppresses Illyrian Uprising",
+        "s": "Illyrian tribes (on the eastern Adriatic coast), unhappy with Roman control, launched an uprising. Rome dispatched legions to crush the main strongholds and established a protectorate over Illyria, extending Roman influence into the western Balkans.",
+        "a": 42.0,
+        "l": 19.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Wen Abolishes Land Tax",
+        "s": "Emperor Wen decreed a complete abolition of the land tax for the whole empire, lasting for eleven years (163–155 BCE). This was the first long‑term land‑tax remission in Chinese history. Combined with the previous low rate of one‑thirtieth, it greatly stimulated agriculture. The state treasury became so full that 'grain stored in the capital's granaries rotted from age.'",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Economy",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -162,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wen of Han (Liu Heng)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Han and Xiongnu Renew Heqin Again",
+        "s": "Laoshang Chanyu died and was succeeded by Gunchen Chanyu. To stabilize the situation, the Han sent another clan‑branch princess to be the chanyu's consort and increased annual gifts. Gunchen accepted the heqin but continued occasional border raids.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome Establishes Diplomatic Relations with Seleucid Empire",
+        "s": "Seleucid king Demetrius I, seeking to consolidate his throne, sent envoys to Rome requesting recognition and an alliance. The Senate agreed but demanded that the Seleucids surrender their war elephants and warships and refrain from interfering in Asia Minor. The Seleucid Empire became a client state of Rome.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Diplomacy",
+        "r": "Roman Republic",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -161,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wen of Han (Liu Heng)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Judas Maccabeus Allies with Rome",
+        "s": "Jewish leader Judas Maccabeus sent an envoy to Rome, concluding a mutual defense treaty with the Senate, which recognized Jewish independence. This aimed to use Rome against the Seleucids, but Rome gave no actual military aid, only diplomatic pressure.",
+        "a": 31.8,
+        "l": 35.2,
+        "c": "Diplomacy",
+        "r": "Judea",
+        "o": "Asia"
+      },
+      {
+        "t": "Founding of the Hasmonean Dynasty",
+        "s": "After Judas Maccabeus died, his brother Jonathan was chosen as leader and formally established the Hasmonean dynasty, inaugurating a period of Jewish independence (161–37 BCE). Jonathan exploited Seleucid civil strife to expand his territory, becoming both high priest and military commander.",
+        "a": 31.8,
+        "l": 35.2,
+        "c": "Politics",
+        "r": "Kingdom of Judea",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -160,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wen of Han (Liu Heng)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Judas Maccabeus Falls in Battle",
+        "s": "The Seleucid general Bacchides marched against Judea with a large army. Judas Maccabeus, heavily outnumbered, died heroically at the Battle of Elasa. The Seleucids briefly reoccupied Jerusalem. The remaining Maccabees under Jonathan continued resistance.",
+        "a": 31.8,
+        "l": 35.2,
+        "c": "Military",
+        "r": "Kingdom of Judea",
+        "o": "Asia"
+      },
+      {
+        "t": "Technological Innovation in Han Iron Industry",
+        "s": "The Han dynasty promoted the technique of malleable cast iron, which made cast iron tougher than raw pig iron and suitable for making farm tools and weapons. The 'stir‑frying' method of steel‑making also began to appear: stirring molten pig iron to decarburize it, improving both steel output and quality. Advances in iron metallurgy promoted agriculture and the military.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Technology",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -159,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wen of Han (Liu Heng)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Death of Cato the Elder",
+        "s": "Marcus Porcius Cato (Cato the Elder) died at the age of about 85. He was a famous Roman conservative politician, orator, and writer. He wrote 'De Agri Cultura' and adamantly opposed Greek cultural influence, championing traditional Roman virtues. His famous phrase was 'Carthage must be destroyed.' His great‑grandson, Cato the Younger, became a leader of the senatorial faction during the Roman civil wars.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Person",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Wen of Han Dies; Emperor Jing Ascends",
+        "s": "Emperor Wen of Han died. His heir Liu Qi ascended as Emperor Jing of Han. Jing continued Wen's policies of letting the people rest and employed Chao Cuo to implement the 'reduction of feudal kingdoms,' which led to the Rebellion of the Seven States (154 BCE). Emperor Wen's 23‑year reign, together with his son Jing's, is known as the 'Rule of Wen and Jing'—the first golden age in Chinese imperial history.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -158,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Jing of Han (Liu Qi)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Xiongnu Invasion at the Beginning of Emperor Jing's Reign",
+        "s": "Gunchen Chanyu took advantage of Emperor Wen's recent death and led 60,000 cavalry into Shang and Yunzhong commanderies. Emperor Jing appointed generals Li Guang and Cheng Bushi to guard the border. Li Guang, renowned for his archery and steadiness in battle, was so feared by the Xiongnu that they called him 'Flying General.' The Xiongnu soon withdrew, and Jing renewed the heqin.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Seleucids and Jews Reach Truce",
+        "s": "Seleucid king Demetrius I and the Jewish leader Jonathan concluded a truce. The Seleucids recognized Jonathan as High Priest in Jerusalem and granted Judea limited autonomy. Judea gained a period of respite, and Jonathan used it to expand his military forces.",
+        "a": 31.8,
+        "l": 35.2,
+        "c": "Diplomacy",
+        "r": "Kingdom of Judea",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -157,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Jing of Han (Liu Qi)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Han Continues Huang‑Lao Non‑Action Policy",
+        "s": "After Emperor Jing ascended, his grandmother Empress Dowager Dou (widow of Emperor Wen) still held great influence and favored Huang‑Lao philosophy. Chancellor Shen Tujia and Censor‑in‑Chief Tao Qing were cautious conservatives reluctant to reform. Although Jing wanted an activist policy, he was constrained by Empress Dowager Dou and the founding‑merit factions.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome‑Carthage Relations Deteriorate",
+        "s": "Numidian king Masinissa, with Rome's tacit consent, continued encroaching on Carthaginian territory. Carthage raised an army to defend itself. The Roman Senate claimed that Carthage had violated the treaty (by not asking Roman permission to fight) and prepared for war. Cato the Elder ended every speech in the Senate with 'Carthage must be destroyed.'",
+        "a": 36.85,
+        "l": 10.33,
+        "c": "Diplomacy",
+        "r": "Roman Republic",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": -156,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Jing of Han (Liu Qi)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Han Maintains Heqin and Border Markets with Xiongnu",
+        "s": "Emperor Jing continued the heqin policy and opened border markets (guan shi), allowing mutual trade. Through the markets, the Xiongnu obtained Han ironware, grain, and silk, temporarily reducing large‑scale incursions. However, small‑scale raids continued.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Hellenistic Philosopher Carneades Lectures in Rome",
+        "s": "The Greek philosopher Carneades (of the Academic Skeptical school) visited Rome as an envoy and gave public speeches on two consecutive days. On the first day he argued that justice is necessary and natural; on the second, with equal rhetorical skill, he refuted that argument, claiming that justice is merely a human convention. His cleverness enthralled Roman youths, but Cato the Elder was furious and demanded the Senate send him away to avoid corrupting traditional morality.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -155,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Jing of Han (Liu Qi)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Chao Cuo Proposes 'Policy of Reducing Feudal Kingdoms'",
+        "s": "Censor‑in‑Chief Chao Cuo submitted a memorial to Emperor Jing listing the crimes of the vassal kings, notably Liu Bi of Wu, and advised reducing their territories. He argued: 'If we reduce them, they will rebel; if we don't reduce them, they will also rebel. Reducing them means a quicker rebellion but with smaller harm; delaying reduction makes the rebellion later but greater.' Jing accepted, and began taking counties from Chu, Zhao, Jiaoxi, and others, directly triggering the Rebellion of the Seven States.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Numantian War in Spain",
+        "s": "Roman forces besieged the city of Numantia in Spain, but faced fierce resistance from the Celtiberians. The Roman consul Marcus Marcellus was forced to sign a humiliating treaty, which the Senate refused to ratify and instead sent more troops. The Numantian War lasted until 133 BCE, when Scipio Aemilianus finally took the city.",
+        "a": 42.0,
+        "l": -4.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Construction Begins on Rome's First Stone Theater",
+        "s": "The Roman censor Marcus Aemilius Lepidus approved the construction of a permanent stone theater, but due to conservative opposition (who believed theater would corrupt morals), the building was never finished and was dismantled. Thereafter Roman theaters remained mostly wooden until the Theater of Pompey (55 BCE), the first permanent stone theater in Rome.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Engineering",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -154,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Jing of Han (Liu Qi)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Rebellion of the Seven States Erupts",
+        "s": "Liu Bi, King of Wu, led six other princes—Liu Wu of Chu, Liu Sui of Zhao, Liu Biguang of Jinan, Liu Xian of Zichuan, Liu Ang of Jiaoxi, and Liu Xiongqu of Jiaodong—in rebellion under the slogan 'kill Chao Cuo and purge the emperor's side.' The king of Wu mobilized over 200,000 troops and crossed the Huai River westwards. On the advice of Yuan Ang, Emperor Jing ordered the waist execution of Chao Cuo, but the rebels would not retreat. Jing then appointed Zhou Yafu and Dou Ying to suppress the rebellion, which was quelled after three months.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome Suppresses Lusitanian Revolt in Spain",
+        "s": "The Lusitanian (modern Portugal) leader Viriatus led a revolt and repeatedly defeated Roman forces using guerrilla tactics, attacking supply lines and bogging down the Romans. Rome was eventually forced to recognize his territory, but soon broke the treaty and assassinated Viriatus.",
+        "a": 39.5,
+        "l": -8.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -153,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Jing of Han (Liu Qi)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Aftermath of the Rebellion: Weakening of Feudal Kingdoms",
+        "s": "After suppressing the Rebellion of the Seven States, Emperor Jing took advantage to strip many counties from the surviving vassal kings and issued the 'Statute of Left Offices' and the 'Law of Attached Benefits,' restricting kings' power to appoint officials and associate with guests. He continued Jia Yi's strategy of 'dividing the large kingdoms into many smaller ones,' splitting Chu into five, Zhao into six, and Qi into seven. The vassal kings were left only with the revenue from their domains, losing real political power.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome Reforms Consular Term Dates",
+        "s": "The Roman Senate passed a law moving the start of the consular year from March 15 to January 1, to better coordinate military campaigns. It also provided that outgoing consuls could continue to command armies as proconsuls, and the provincial administration system became more established.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -152,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Jing of Han (Liu Qi)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Seleucid King Demetrius I Overthrown",
+        "s": "Civil war in the Seleucid Empire: Alexander Balas (claiming to be a son of Antiochus IV), supported by Pergamon and Egypt, seized the throne and killed Demetrius I. Demetrius's son, Demetrius II, fled to Crete and would later return to reclaim the throne. The Seleucid Empire declined further, losing control over Palestine and Cilicia.",
+        "a": 35.0,
+        "l": 37.5,
+        "c": "Politics",
+        "r": "Seleucid Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Jing Institutes Military Merit Ranks",
+        "s": "To reward military achievements, Emperor Jing created eleven grades of 'military merit ranks' (wugong jue), allowing people to purchase ranks by donating grain, thereby gaining exemption from corvée or mitigation of crimes. This increased government revenue and relieved fiscal pressure, but also devalued the rank system.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -151,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Jing of Han (Liu Qi)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Jing Deposes Empress Bo",
+        "s": "Empress Bo (a great‑niece of Empress Dowager Bo) had no son and was not favored by Emperor Jing. After he deposed his heir Liu Rong, Jing also deposed Empress Bo, sending her to a separate palace. She was the first empress of the Western Han to be deposed, reflecting Jing's autocratic character.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Numidian King Masinissa Dies",
+        "s": "The Numidian king Masinissa died in his nineties. He had united Numidia, maintained good relations with Rome, and through gradual encroachment on Carthaginian territory made Numidia a major power in North Africa. His son Micipsa succeeded him.",
+        "a": 36.0,
+        "l": 6.0,
+        "c": "Politics",
+        "r": "Numidia",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": -150,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Jing of Han (Liu Qi)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Carthage Declares War on Numidia, Sparking Third Punic War",
+        "s": "Carthage, unable to bear Numidian depredations, raised an army to counterattack. The Roman Senate accused Carthage of violating the treaty (waging war without Roman permission) and promptly declared war. Rome's terms were so harsh—Carthaginians were to surrender all weapons and warships, then abandon the city and rebuild ten miles inland—that the Carthaginians refused. The Romans began a siege.",
+        "a": 36.85,
+        "l": 10.33,
+        "c": "Military",
+        "r": "Carthage",
+        "o": "Africa"
+      },
+      {
+        "t": "Hipparchus Founds Positional Astronomy",
+        "s": "The Greek astronomer Hipparchus (c. 190–120 BCE), observing from Rhodes, compiled a star catalog of 850 stars with positions and magnitudes. He invented trigonometry and spherical trigonometry for calculating celestial positions and discovered the precession of the equinoxes. His work laid the foundation for Ptolemaic astronomy.",
+        "a": 36.9,
+        "l": 27.3,
+        "c": "Technology",
+        "r": "Greece",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -149,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Jing of Han (Liu Qi)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Third Punic War: Romans Begin Siege of Carthage",
+        "s": "Roman consuls Manius Manilius and Lucius Marcius Censorinus landed in Africa with about 80,000 troops and encamped outside Carthage. Inside, around 300,000 inhabitants—including women and slaves—worked feverishly to defend the city, tearing down buildings for timber and stone, and manufacturing weapons day and night. The Roman assault met fierce resistance.",
+        "a": 36.85,
+        "l": 10.33,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Africa"
+      },
+      {
+        "t": "Border Clashes Between Han and Xiongnu",
+        "s": "Xiongnu cavalry raided Shanggu and Yuyang commanderies, killing and plundering. Emperor Jing sent General Li Guang out of Yanmen and General Han Tui out of Dai for counter‑raids. Li Guang was wounded and captured, but he feigned death, seized a horse, and escaped. After this, Jing strengthened border defenses and continued the heqin.",
+        "a": 40.5,
+        "l": 115.0,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -148,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Jing of Han (Liu Qi)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome Captures Carthage's Harbor; Carthaginians Hold On",
+        "s": "After Scipio Aemilianus (Scipio Africanus the Younger) took command, he blockaded the harbor and built a mole reaching the city walls. The Carthaginians dug a new channel at night and sent fire ships against the Roman fleet, but ultimately failed. The city was completely cut off, and famine began to spread.",
+        "a": 36.85,
+        "l": 10.33,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Africa"
+      },
+      {
+        "t": "Emperor Jing Appoints Liu Che (Later Emperor Wu) as Heir",
+        "s": "After deposing heir Liu Rong, Emperor Jing appointed the son of Consort Wang, Liu Che, as crown prince (later Emperor Wu), and named Dou Ying and Wei Wan as his tutors. To curb outside relatives, he had the deposed heir's mother, Consort Li Ji, killed.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -147,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Jing of Han (Liu Qi)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Roman Troops Enter Carthage; Fierce Street Fighting",
+        "s": "Scipio Aemilianus broke through the outer walls, but resistance inside the inner city was even more desperate. Every street and building became a battlefield; Carthaginians set their own houses on fire to kill Romans alongside them. After six days and nights of bloody combat, the Romans took the entire city.",
+        "a": 36.85,
+        "l": 10.33,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Africa"
+      },
+      {
+        "t": "Further Weakening of Vassal Kings After the Rebellion",
+        "s": "Emperor Jing ordered that the vassal kings could no longer personally administer their states. Instead, centrally appointed chancellors were to take full charge. The kings lost the power to appoint officials and collect taxes, retaining only the revenues from their domains. The principalities became administratively equivalent to commanderies, greatly strengthening central power.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -146,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Jing of Han (Liu Qi)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Carthage Razed to the Ground",
+        "s": "The Romans took full possession of Carthage. Scipio Aemilianus ordered the city burned; the fire lasted 17 days. The city was leveled and plowed over (traditionally with salt sown as a curse). The surviving 50,000 Carthaginians were sold into slavery, and Carthaginian territory became the Roman province of Africa. Thus ended the Third Punic War; Carthage ceased to exist as a state.",
+        "a": 36.85,
+        "l": 10.33,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Africa"
+      },
+      {
+        "t": "Rome Destroys Corinth; Greece Fully Annexed",
+        "s": "Rome crushed the revolt of the Achaean League. The consul Lucius Mummius captured and burned Corinth, slaughtering the adult males and selling the women and children into slavery. Greece was incorporated into the province of Macedonia (later Achaea was separated). The political independence of ancient Greek civilization ended.",
+        "a": 37.9,
+        "l": 22.9,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Jing Implements 'Sale of Ranks' to Fund Border Defense",
+        "s": "Emperor Jing allowed people to purchase ranks with grain or cash, using the revenue for military expenses on the frontier. Higher ranks brought exemption from corvée or even commutation of crimes. This policy, part of the 'Rule of Wen and Jing' fiscal approach, nevertheless led to the devaluation of official ranks.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Economy",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -145,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Jing of Han (Liu Qi)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Birth of Sima Qian",
+        "s": "Sima Qian, son of the Court Astronomer Sima Tan, was born in Xiayang (modern Hancheng, Shaanxi). He later succeeded his father as Grand Historian, reading widely in the imperial library and traveling through the realm. After being castrated for defending Li Ling, he resolved to complete the 'Records of the Grand Historian' (Shiji), a universal history from the Yellow Emperor to his own time and the first comprehensive Chinese biographical history.",
+        "a": 35.5,
+        "l": 110.4,
+        "c": "Culture",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome Establishes Province of Macedonia",
+        "s": "The Roman Senate formally merged Macedon, mainland Greece, and southern Illyria into the province of Macedonia, governed by a proconsul. The cities of the Achaean League were granted nominal freedom but had to pay tribute and accept Roman garrisons. Greece entered a period of Romanization.",
+        "a": 40.6,
+        "l": 22.9,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -144,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Jing of Han (Liu Qi)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Han Establishes Jiuquan Commandery in the Hexi Corridor",
+        "s": "To open the road to the Western Regions, the Han dynasty established Jiuquan Commandery in the Hexi Corridor as a military outpost. Later, Wuwei, Zhangye, and Dunhuang commanderies were added, known as the 'Four Commanderies of Hexi,' giving the Han control of the key Silk Road route.",
+        "a": 39.5,
+        "l": 99.0,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome Builds the First Aqueduct (Aqua Marcia)",
+        "s": "The Roman praetor Marcus Marcius oversaw construction of the first stone aqueduct, Aqua Marcia, about 91 km long, of which some 80 km were underground, bringing water from the Anio River to Rome. It used numerous arches; parts still survive.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Engineering",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -143,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Jing of Han (Liu Qi)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome's 'Lex Domitia' on Priesthood Elections",
+        "s": "The Roman tribune Gaius Domitius Ahenobarbus proposed a law that members of the priestly colleges (e.g., Pontifices) be elected by the popular assembly rather than co‑opted from within. This diminished aristocratic religious privileges. Although strongly opposed by the nobility, the bill passed with popular support.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Law",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Minor Han‑Xiongnu Border Clashes",
+        "s": "Xiongnu raided Yanmen Commandery. The border commander Zhi Du repelled them. Zhi Du was strict and fearless; the Xiongnu called him the 'Blue Falcon' and dared not approach his sector. However, Zhi Du angered Empress Dowager Dou and was executed.",
+        "a": 39.0,
+        "l": 112.5,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -142,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Jing of Han (Liu Qi)",
+        "e": ""
+      }
+    ],
+    "v": [
+      {
+        "t": "Early Han Contacts with the Western Regions Begin",
+        "s": "During Emperor Jing's reign, although Zhang Qian had not yet been dispatched, merchants from the Western Regions had already entered Han territory through the Hexi Corridor. The Han obtained initial intelligence about states such as Dayuan (Fergana), Wusun, and the Yuezhi, laying a foundation for Emperor Wu's later expansion into the Western Regions.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Stalemate in the Numantian War in Spain",
+        "s": "Rome had besieged Numantia for nearly a decade. Inside, food was exhausted, but the inhabitants refused to surrender. The Roman commander Hostilius Mancinus was forced to sign a treaty recognizing Numantian independence, which the Senate refused to ratify, instead sending more troops.",
+        "a": 42.0,
+        "l": -4.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -141,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Jianyuan 1"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Jing Dies; Emperor Wu Ascends",
+        "s": "Emperor Jing of Han died, and his 16‑year‑old heir Liu Che ascended as Emperor Wu of Han. He honored his grandmother Empress Dowager Dou as Grand Empress Dowager and his mother Wang Zhi as Empress Dowager. Ambitious from the start, Wu summoned men of talent to remonstrate and began to promote Confucian principles of governance, which clashed with his grandmother's Huang‑Lao inclinations.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Seleucid Demetrius II Captured by Parthians",
+        "s": "Demetrius II of the Seleucid Empire was defeated and captured while campaigning against Parthia. The Parthian king Mithradates I took him captive. Demetrius's brother Antiochus VII succeeded, marrying Demetrius's wife Cleopatra Thea, bringing a brief revival to the Seleucids.",
+        "a": 35.0,
+        "l": 45.0,
+        "c": "Politics",
+        "r": "Seleucid Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -140,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Jianyuan 1"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Wu Launches Jianyuan Reforms",
+        "s": "Emperor Wu adopted Dong Zhongshu's recommendation to 'dismiss the hundred schools and revere only Confucianism,' establishing chairs for the Five Classics, though in practice he continued to employ Legalist and other methods. He appointed Confucian scholars Zhao Wan and Wang Zang to high posts, attempting to implement ritual reforms and abandon Huang‑Lao inaction, intensifying his conflict with Grand Empress Dowager Dou.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "The Silk Road Begins to Take Shape",
+        "s": "The Han dynasty set up relay stations (tingzhang) in the Hexi Corridor to protect travelers and merchants. The trade route from Chang'an through the Hexi Corridor to Central Asia gradually matured, with silk, lacquerware, and iron goods moving west, and fine horses, grapes, and alfalfa moving east, fostering Eurasian cultural exchange.",
+        "a": 40.0,
+        "l": 75.0,
+        "c": "Economy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome Completes Encirclement of Numantia",
+        "s": "The Roman consul Quintus Caecilius Metellus Macedonicus besieged Numantia, cutting off water and food. Cannibalism broke out within, but the Numantines did not surrender.",
+        "a": 42.0,
+        "l": -4.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Roman Denarius Becomes Main Currency",
+        "s": "The Roman Republic issued the denarius silver coin, weighing about 4.5 grams, with the goddess Roma on the obverse and a chariot on the reverse. The denarius gradually replaced earlier, confused copper coins and Greek silver, becoming the foundation of the Roman economy until its debasement in the 3rd century CE.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Economy",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -139,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Jianyuan 2"
+      }
+    ],
+    "v": [
+      {
+        "t": "Zhang Qian's First Mission to the Western Regions",
+        "s": "To form an alliance with the Great Yuezhi against the Xiongnu, Emperor Wu called for volunteers. The low‑ranking official Zhang Qian stepped forward, left Chang'an with over a hundred men, and soon was captured by the Xiongnu when he crossed their territory. The chanyu detained him for more than a decade, even giving him a Xiongnu wife. Zhang Qian never surrendered his credentials, waiting for a chance to escape.",
+        "a": 38.0,
+        "l": 100.0,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome Captures Numantia, Subdues Central Spain",
+        "s": "Scipio Aemilianus (Scipio Africanus the Younger, conqueror of Carthage) took command, building a wall and moat around Numantia and cutting all contact. Starving, the population surrendered. The city was razed and most inhabitants sold into slavery. All of Hispania was effectively pacified.",
+        "a": 42.0,
+        "l": -4.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -138,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Jianyuan 3"
+      }
+    ],
+    "v": [
+      {
+        "t": "Min Yue Attacks Dongyue; Emperor Wu Sends Relief",
+        "s": "The king of Min Yue attacked Dongyue (modern Wenzhou, Zhejiang). Dongyue appealed to the Han for help. Emperor Wu sent Yan Zhu with naval forces from Kuaiji; before they arrived, Min Yue withdrew. The Dongyue king asked to move his people inside China, and the Han settled them between the Yangtze and Huai rivers. This was the first Han military intervention in the southeast Yue peoples.",
+        "a": 28.0,
+        "l": 120.7,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Antiochus VII Recovers Babylonia for the Seleucids",
+        "s": "Antiochus VII led a major campaign east, defeated the Parthians, and recovered Babylonia and Susa. The Parthian king Phraates II released Demetrius II, but Demetrius returned to internal strife.",
+        "a": 33.0,
+        "l": 44.0,
+        "c": "Military",
+        "r": "Seleucid Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -137,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Jianyuan 4"
+      }
+    ],
+    "v": [
+      {
+        "t": "First Sicilian Slave Revolt",
+        "s": "Slaves on Sicily, led by Eunus, a shepherd from Enna, rose up against unbearable oppression, seized Enna, and proclaimed a new kingdom. The revolt spread quickly across the island, eventually gathering up to 200,000 slaves. Rome sent forces to suppress it but suffered repeated setbacks. The revolt lasted until 132 BCE, when it was finally crushed.",
+        "a": 37.6,
+        "l": 14.0,
+        "c": "Social",
+        "r": "Sicily",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Wu Institutes Chairs for the Five Classics, Dismisses Hundred Schools",
+        "s": "Emperor Wu formally established chairs for the Five Classics (the Book of Poetry, Book of Documents, Book of Rites, Book of Changes, and Spring and Autumn Annals) and abolished chairs for the other philosophical schools, cementing Confucianism as the state orthodoxy. In practice, however, he continued to employ Legalist methods, resulting in a 'Confucian exterior, Legalist interior' governing model.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Culture",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -136,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Jianyuan 5"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Wu Expands Five Classics Program, Admits Disciples",
+        "s": "Emperor Wu ordered the chairs of the Five Classics to accept students (fifty per classic), who were known as 'disciples of the academicians,' with exemption from corvée. Those with excellent grades could be appointed officials—the prototype of the Imperial University. Confucian classics became the main route to officialdom.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Culture",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "King Attalus III of Pergamon Dies, Bequeaths Kingdom to Rome",
+        "s": "Attalus III, king of Pergamon, died without an heir. In his will, he left the entire Pergamene kingdom to Rome. The Senate accepted, and in 129 BCE formalized the province of Asia. This shocked other Anatolian states and led to the rebellion of Aristonicus, a pretender to the Pergamene throne.",
+        "a": 39.1,
+        "l": 27.2,
+        "c": "Politics",
+        "r": "Kingdom of Pergamon",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -135,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Jianyuan 6"
+      }
+    ],
+    "v": [
+      {
+        "t": "Grand Empress Dowager Dou Dies",
+        "s": "After the death of Grand Empress Dowager Dou, Emperor Wu was freed from the constraints of Huang‑Lao thought and could fully promote Confucian reforms. He immediately dismissed the pro‑Huang‑Lao chancellor Xu Chang and censor‑in‑chief Zhuang Qingzhi, appointing his maternal uncle Tian Fen as chancellor. Wu began a comprehensive reform of the bureaucracy, laws, and economy.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Tiberius Gracchus Elected Tribune",
+        "s": "Tiberius Gracchus was elected tribune of the plebs. He proposed land reform limiting the amount of public land (ager publicus) that wealthy individuals could hold and distributing the surplus to landless peasants. The Senate strongly opposed him; he bypassed the Senate and took the bill directly to the People's Assembly, setting a precedent for tribunes defying the Senate.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -134,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanguang 1"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Wu Holds Civil Service Examinations; Dong Zhongshu Presents 'Heaven‑Man Three Essays'",
+        "s": "Emperor Wu issued an edict seeking men of virtue and talent. In his response, Dong Zhongshu presented the doctrines of 'heaven‑man induction,' 'great unification,' and 'dismiss the hundred schools, revere only Confucianism.' Wu greatly appreciated these ideas and appointed Dong as chancellor to the king of Jiangdu. This event marked the adoption of Confucianism as the official philosophy of the Han dynasty.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Culture",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Tiberius Gracchus Killed, Reform Fails",
+        "s": "Seeking re‑election as tribune, Tiberius Gracchus was accused of seeking tyranny. Senators and their clients attacked a public assembly, killing Gracchus and about 300 of his supporters, throwing their bodies into the Tiber. Gracchus's death inaugurated the era of civil violence in the late Roman Republic; political murder became normal.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -133,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanguang 2"
+      }
+    ],
+    "v": [
+      {
+        "t": "The Mayi Plot: Han Fails to Ambush Xiongnu; Heqin Ends",
+        "s": "The Han grand administrator Wang Hui proposed luring the Xiongnu to Mayi (modern Shuozhou, Shanxi) with a huge convoy of goods, then ambushing them with 300,000 troops. The Xiongnu chanyu took the bait, but when he came within 100 li of Mayi, he saw livestock scattered and unattended, became suspicious, captured a Han officer, and learned of the plot, then retreated. Emperor Wu, enraged at Wang Hui's timidity, had him executed. Han‑Xiongnu peace ended, and full‑scale war began.",
+        "a": 39.3,
+        "l": 112.6,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Final Acquisition of Pergamon: Rome Suppresses Aristonicus",
+        "s": "The Pergamene pretender Aristonicus led a revolt of slaves and poor, taking over most of the kingdom. Rome sent forces to crush him; Aristonicus was captured in 130 BCE, and in 129 BCE the province of Asia was formally created. Rome gained its first province in Asia Minor.",
+        "a": 39.1,
+        "l": 27.2,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -132,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanguang 3"
+      }
+    ],
+    "v": [
+      {
+        "t": "Han Begins Large‑Scale Counter‑Attacks Against Xiongnu",
+        "s": "Emperor Wu sent generals Li Guang and Cheng Bushi to Yunzhong and Yanmen commanderies to train cavalry, preparing for northern campaigns. At the same time, he implemented the 'Horse Decree' to encourage private horse‑breeding for military needs. Han cavalry units gradually took shape.",
+        "a": 42.0,
+        "l": 110.0,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Yellow River Breaks at Huzi; Major Flood Control Works",
+        "s": "The Yellow River broke its banks at Huzi (modern Puyang, Henan), flooding sixteen commanderies. Emperor Wu dispatched Ji An and Zheng Dangshi to repair the breach, but because the flood was so powerful, they repeatedly failed. It was not until 109 BCE (Yuanfeng 2) that the emperor personally visited the site and succeeded in plugging the gap.",
+        "a": 35.7,
+        "l": 115.0,
+        "c": "Engineering",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome Crushes the Sicilian Slave Revolt",
+        "s": "The Roman consul Publius Rupilius besieged the last rebel stronghold at Tauromenium (Taormina) and forced its surrender by starvation. The rebel leader Eunus was captured and died in prison. The Romans executed thousands of captured slaves. The First Sicilian Slave Revolt ended.",
+        "a": 37.6,
+        "l": 14.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -131,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanguang 4"
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome Formally Establishes Province of Asia",
+        "s": "The Roman Senate formally organized the former Pergamene territory as the province of Asia, governed by a proconsul. The province comprised the western coastal region of Asia Minor and was one of the richest Roman provinces, producing large amounts of grain and tax revenue.",
+        "a": 38.0,
+        "l": 28.0,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Asia"
+      },
+      {
+        "t": "Han Reforms Currency, Issues San Guan Coins",
+        "s": "Because private coin‑minting was rampant, Emperor Wu banned minting by the commanderies and kingdoms, and instead had the three bureaus of the Shanglin Park (the Official of the Clock, the Assayer, and the Transport) uniformly cast 'five‑zhu' coins (wuzhu qian). These high‑quality, uniform coins became the standard currency of the Han dynasty for centuries.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Economy",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -130,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanguang 5"
+      }
+    ],
+    "v": [
+      {
+        "t": "While Zhang Qian is Detained, Han Explores Southwest Barbarians",
+        "s": "Emperor Wu sent Sima Xiangru as an envoy to the southwest barbarians, pacifying tribes such as Qiong, Zuo, and Ranmang, and establishing one commandery and over ten counties. This was an attempt to find a route to the Western Regions bypassing the Xiongnu. But the project was so costly that it was soon suspended.",
+        "a": 28.0,
+        "l": 104.0,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Jugurthine War Between Rome and Numidia Erupts",
+        "s": "The Numidian king Micipsa died; his adopted son Jugurtha killed his brother and seized the throne. The Roman Senate intervened, dividing Numidia between Jugurtha and his brother Adherbal. Jugurtha then besieged and killed Adherbal, captured the capital Cirta, and massacred Roman and Italian merchants. Rome declared war, beginning the Jugurthine War (112–105 BCE).",
+        "a": 36.0,
+        "l": 6.0,
+        "c": "Military",
+        "r": "Numidia",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": -129,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanguang 6"
+      }
+    ],
+    "v": [
+      {
+        "t": "Han's First Large‑Scale Sortie Against Xiongnu: Four Columns",
+        "s": "Emperor Wu ordered Wei Qing, General of Chariots and Cavalry, out of Shanggu; Gongsun Ao, General of Cavalry, out of Dai; Gongsun He, General of Light Chariots, out of Yunzhong; and Li Guang, General of Swift Cavalry, out of Yanmen, each with 10,000 horsemen. Wei Qing struck as far as the Longcheng, beheading 700. Li Guang encountered the main Xiongnu force, was captured, then escaped; Gongsun Ao lost 7,000 men; Gongsun He achieved nothing. Wei Qing was enfeoffed as Marquis of Guannei.",
+        "a": 43.0,
+        "l": 110.0,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Gaius Marius Begins to Rise",
+        "s": "Marius served as a legate in Numidia. He gained the loyalty of his troops and later, when elected consul in 107 BCE, carried out military reforms that turned the Roman army from a citizen militia into a professional standing army, fundamentally altering late‑Republican politics.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -128,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanshuo 1"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wei Qing Attacks Xiongnu Again, Recovers the Hetao Region",
+        "s": "Wei Qing led 30,000 horsemen out of Yanmen, killing several thousand Xiongnu and forcing them to retreat north. The following year, the Han recaptured the Hetao region (the 'Land Within the Bends' of the Yellow River), establishing Shuofang and Wuyuan commanderies and moving 100,000 commoners to farm the frontier, creating a forward base for further operations.",
+        "a": 41.0,
+        "l": 112.0,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Zhang Qian Escapes from Xiongnu, Travels to Dayuan and Kangju",
+        "s": "After more than a decade of captivity, Zhang Qian, with his servant Tangyifu (a Hu), escaped from Xiongnu territory and, traveling west for many days, reached Dayuan (Fergana). The king of Dayuan sent him on to Kangju and then to the Great Yuezhi. But the Great Yuezhi, having settled north of the Oxus River, had no desire to return east and seek revenge. Zhang Qian stayed a year and then started back.",
+        "a": 38.0,
+        "l": 68.0,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -127,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanshuo 2"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Wu Recovers the Hetao (Ordos) Region",
+        "s": "Wei Qing led forces from Yunzhong to Longxi, defeating the Xiongnu Loufan and Baiyang kings and seizing the Hetao region. The Han established Shuofang and Wuyuan commanderies, built fortified walls, and moved 100,000 settlers there. The recovery of Hetao removed the direct threat of Xiongnu cavalry to Chang'an and created a strategic base for Han counter‑attacks.",
+        "a": 40.5,
+        "l": 108.0,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Zhang Qian, Returning from Yuezhi, is Captured Again by Xiongnu",
+        "s": "On his way back to Han, Zhang Qian was again captured by the Xiongnu and detained for more than a year. Only after Gunchen Chanyu's death in 126 BCE and the ensuing Xiongnu civil strife did Zhang Qian escape and return to Chang'an. By then, 13 years had passed since his departure; of his original hundred men, only two remained.",
+        "a": 42.0,
+        "l": 90.0,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -126,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanshuo 3"
+      }
+    ],
+    "v": [
+      {
+        "t": "Zhang Qian Returns to Chang'an, Reports on Western Regions",
+        "s": "After many hardships, Zhang Qian finally returned to Chang'an and provided a detailed report on the geography, products, and customs of Dayuan, Bactria, the Great Yuezhi, Wusun, and other states. Emperor Wu was delighted and appointed him Grand Master of Remonstrance, and began planning a southwestern route to the Western Regions. Zhang Qian's intelligence laid the blueprint for the eventual opening of the Silk Road.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Gunchen Chanyu Dies; Yizhixie Usurps Throne",
+        "s": "Gunchen Chanyu died. His younger brother Yizhixie defeated the heir apparent, Yudan, and proclaimed himself chanyu. Yudan fled to the Han, and Emperor Wu enfeoffed him as Marquis of She'an. Yizhixie, after taking power, adopted a tougher stance toward the Han, with annual invasions.",
+        "a": 44.0,
+        "l": 112.0,
+        "c": "Politics",
+        "r": "Xiongnu",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -125,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanshuo 4"
+      }
+    ],
+    "v": [
+      {
+        "t": "Han and Xiongnu Clash in the Hetao",
+        "s": "The Xiongnu Right Worthy Prince repeatedly attacked Shuofang commandery in an attempt to regain the Ordos. The Han sent Wei Qing with over 100,000 horsemen in response, but no decisive battle occurred. The Han accelerated construction of Shuofang city and the Great Wall.",
+        "a": 40.5,
+        "l": 108.0,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman Judicial Reform: Standing Criminal Courts Established",
+        "s": "The Lex Acilia established permanent criminal courts (quaestiones perpetuae) to try cases of extortion and corruption. Juries were composed of both senators and equestrians, breaking the Senate's monopoly on judicial power. This was a sign of the rising power of the equestrian order.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Law",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -124,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanshuo 5"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wei Qing Crushes the Xiongnu Right Worthy Prince",
+        "s": "Wei Qing led 30,000 horsemen from Gaoque on a night march, surrounding the court of the Right Worthy Prince. The prince fled with only a few hundred horsemen. The Han captured over ten lesser kings, 15,000 people, and millions of livestock. Emperor Wu appointed Wei Qing Grand General and enfeoffed his three young sons as marquises.",
+        "a": 42.0,
+        "l": 105.0,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Zhang Qian Accompanying Wei Qing, Suggests New Missions to Western Regions",
+        "s": "Zhang Qian accompanied Wei Qing as a colonel; because of his geographical knowledge, he found water and grass for the army, earning the title of Marquis of Bowang. He advised the emperor to send more missions to the Western Regions to 'cut off the Xiongnu's right arm.' Emperor Wu accepted, and Zhang Qian set out on his second mission in 119 BCE.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -123,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanshuo 6"
+      }
+    ],
+    "v": [
+      {
+        "t": "Huo Qubing's First Campaign: With 800 Horsemen, Beheads Over 2,000",
+        "s": "Huo Qubing (nephew of Wei Qing), only 18 years old, took 800 light cavalry deep into Xiongnu territory, killing the chanyu's uncle, the prime minister, and over 2,000 others. Emperor Wu enfeoffed him as Marquis of Champion (Guanyun Hou), praising his courage.",
+        "a": 42.0,
+        "l": 108.0,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Wei Qing Twice Sorties from Dingxiang, Killing over 10,000",
+        "s": "Wei Qing led six generals on two sorties from Dingxiang, killing over 10,000 Xiongnu. However, two divisions under Su Jian and Zhao Xin were wiped out, and Zhao Xin, a former Xiongnu officer who had surrendered, defected back to the Xiongnu and became a key adviser to Yizhixie Chanyu.",
+        "a": 41.0,
+        "l": 112.0,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -122,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanshou 1"
+      }
+    ],
+    "v": [
+      {
+        "t": "Case of Liu An, King of Huainan",
+        "s": "Emperor Wu uncovered evidence that Liu An, King of Huainan, and his brother Liu Ci, King of Hengshan, were plotting rebellion. Liu An committed suicide, and tens of thousands of his followers were executed. Liu An was the chief editor of the 'Huainanzi,' a polymath, but his clan was wiped out. After this case, Emperor Wu further weakened the vassal kings.",
+        "a": 32.6,
+        "l": 116.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Gaius Gracchus Elected Tribune",
+        "s": "Gaius Gracchus, younger brother of Tiberius, was elected tribune of the plebs. He proposed an even broader reform program: a grain law (subsidized grain for the urban poor), colonization (founding colonies in Italy and abroad), a judicial law (transferring jury courts from senators to equestrians), and a citizenship law (granting citizenship to the Latin allies). Conservatives fiercely opposed him.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -121,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanshou 2"
+      }
+    ],
+    "v": [
+      {
+        "t": "Huo Qubing's Hexi Campaign: Seizing the Hexi Corridor",
+        "s": "Huo Qubing led 10,000 horsemen out of Longxi, crossing the Yanzhi Mountains, fighting for six days and advancing over a thousand li, killing the kings of Zhelan and Luohou, capturing the prince of Hunxie and his ministers, and beheading over 8,000. That summer, he advanced again, deep into the Qilian Mountains, killing over 30,000 Xiongnu. The Xiongnu lamented, 'Lost our Qilian Mountains, our six animals will not multiply; lost our Yanzhi Mountains, our women have no faces.'",
+        "a": 38.0,
+        "l": 100.0,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Hunxie and Xiutu Kings Surrender to Han",
+        "s": "The Xiongnu chanyu, angered by the defeat, summoned the two kings of Hexi to be executed. The Hunxie king killed the Xiutu king and led over 40,000 people to surrender. Emperor Wu enfeoffed the Hunxie king as Marquis of Liyin and settled his people in five commanderies (Longxi, Beidi, etc.) outside the pass, establishing five subordinate states. The Han now completely controlled the Hexi Corridor, clearing the way for the Silk Road.",
+        "a": 38.0,
+        "l": 100.0,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Gaius Gracchus Killed; Reform Fails",
+        "s": "Seeking a third term as tribune, Gaius Gracchus was attacked by a senatorial mob. He fled to the Janiculum hill and ordered a slave to kill him. Three thousand of his followers were executed. After the failure of the Gracchi reforms, conflict between the plebs and the nobility sharpened further.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -120,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanshou 3"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Wu Establishes the Imperial University (Taixue)",
+        "s": "On Dong Zhongshu's recommendation, Emperor Wu established the Imperial University in Chang'an, with fifty 'disciples of the Five Classics.' Graduates could be appointed as local officials. This was the beginning of state‑sponsored higher education in China; later it grew to 3,000 students and became the main training ground for the bureaucracy.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Culture",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Great Yuezhi Settle in Central Asia, Precursors of Kushan",
+        "s": "After their westward migration, the Great Yuezhi settled north of the Oxus (Amu Darya) and subjugated the local Bactrians. They divided into five yabghus (chiefdoms). The Kushan yabghu would later unify them and found the Kushan Empire. At this time, the Great Yuezhi were still in the five‑division stage but had already shifted from nomadic to agricultural life.",
+        "a": 38.0,
+        "l": 68.0,
+        "c": "Politics",
+        "r": "Great Yuezhi",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -119,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanshou 4"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Mobei: Wei Qing and Huo Qubing Destroy Xiongnu Main Forces",
+        "s": "Emperor Wu sent Wei Qing and Huo Qubing each with 50,000 horsemen out of Dingxiang and Dai, respectively, deep into the northern desert. Wei Qing encountered the chanyu's main force, used war carts to form a circular fortification, and in a sandstorm, split his forces to attack the flanks, beheading 19,000; the chanyu fled. Huo Qubing advanced over 2,000 li, fought the Left Worthy Prince, killed over 70,000, conducted a ceremony at Mount Langjuxu (modern Khentii Mountains in Mongolia), and stood overlooking the northern sea (Lake Baikal). The Xiongnu fled far north; south of the Gobi Desert, there was no longer a Xiongnu royal court.",
+        "a": 45.0,
+        "l": 110.0,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Zhang Qian's Second Mission to the Western Regions",
+        "s": "Emperor Wu appointed Zhang Qian as a palace attendant and sent him with a large retinue of 300 men, tens of thousands of cattle and sheep, and vast amounts of silk and goods to the Wusun, hoping to ally with them against the Xiongnu. When Zhang Qian reached the Wusun, the elderly king Kunmi was unwilling to move east. Zhang Qian sent deputies to Dayuan, Kangju, Great Yuezhi, Bactria, Parthia, and India, extending Han influence.",
+        "a": 43.0,
+        "l": 80.0,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome Begins Marian Military Reforms",
+        "s": "Gaius Marius, elected consul, began recruiting volunteers from the landless poor, providing them with equipment and pay. This professionalized the army; soldiers became loyal to their commander rather than to the state, laying the groundwork for the military dictatorships of Sulla and Caesar.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -118,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanshou 5"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Wu Centralizes Minting, Issues Wuzhu Coins",
+        "s": "Emperor Wu centralized coin‑minting authority under the three bureaus of the Shanglin Park, which cast uniform 'wuzhu' coins weighing five zhu (about 3.25 grams), with a raised rim to prevent clipping. The wuzhu coin was stable and remained in circulation until the Tang dynasty, over 700 years.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Economy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Huo Qubing Dies Young",
+        "s": "Huo Qubing, only 24 years old, died. Emperor Wu was deeply grieved; he ordered the five commanderies to provide iron‑clad soldiers to line the funeral procession and had the tomb shaped like the Qilian Mountains. Huo had six campaigns against the Xiongnu, never tasted defeat, and was famous for his saying, 'Before the Xiongnu are destroyed, how can I have a home?'",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Person",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -117,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanshou 6"
+      }
+    ],
+    "v": [
+      {
+        "t": "Han Establishes Jiuquan and Wuwei Commanderies",
+        "s": "In the Hexi Corridor, Han established Jiuquan and Wuwei commanderies, later adding Zhangye and Dunhuang, the 'Four Commanderies of Hexi.' These served as strategic bases to control the Western Regions, separate the Qiang, and protect the Silk Road.",
+        "a": 38.0,
+        "l": 98.0,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome Establishes First Veteran Colonies",
+        "s": "Marius, to settle discharged veterans, founded colonies in Africa and Corsica, distributing land. This practice later became a common way for Roman generals to build private power bases.",
+        "a": 36.0,
+        "l": 6.0,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": -116,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanding 1"
+      }
+    ],
+    "v": [
+      {
+        "t": "Jugurthine War Enters Critical Phase",
+        "s": "The Roman consul Metellus scored some successes in Numidia but failed to capture Jugurtha. Jugurtha exploited Roman generals' corruption and indecision to escape repeatedly. Frustrated by the war's delay, the Senate transferred command to Marius.",
+        "a": 36.0,
+        "l": 6.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Africa"
+      },
+      {
+        "t": "Increasing Han Contacts with Western States",
+        "s": "Zhang Qian's deputies returned one after another, bringing gifts and envoys from Dayuan, Bactria, Parthia, and other lands. Emperor Wu began dispatching regular missions to the Western Regions—as many as a dozen a year, each several hundred strong. The Silk Road began to flourish.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -115,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanding 2"
+      }
+    ],
+    "v": [
+      {
+        "t": "Zhang Qian Returns from Wusun; Wusun Envoys Accompany Him",
+        "s": "Zhang Qian, unable to persuade the Wusun to move east, returned to Chang'an accompanied by several dozen Wusun envoys. The envoys saw Han power and, after reporting back, the Wusun began to take relations with the Han seriously. Zhang Qian died soon thereafter, but the Han passage to the Western Regions was permanently opened.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "First Direct Parthian‑Roman Clash",
+        "s": "During the Seleucid civil war, the Parthian Empire expanded into Mesopotamia, coming into contact with the Roman province of Asia. Minor clashes occurred on the Syrian border, but not a full‑scale war.",
+        "a": 35.0,
+        "l": 43.0,
+        "c": "Military",
+        "r": "Parthian Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -114,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanding 3"
+      }
+    ],
+    "v": [
+      {
+        "t": "Han Formally Establishes Trade Relations with Western States",
+        "s": "Building on Zhang Qian's foundations, the Han established official trade ties with Wusun, Dayuan, Bactria, Parthia, and others. Large quantities of silk were exported, while fine horses, grapes, alfalfa, walnuts, and pomegranates were imported. The 'Silk Road' is said to have been fully opened at this time.",
+        "a": 36.0,
+        "l": 100.0,
+        "c": "Economy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Sulla Emerges as a Military Leader",
+        "s": "Sulla, serving as Marius's legate in the Jugurthine War, used diplomacy to trick King Jugurtha into surrendering (105 BCE). He led Jugurtha to believe he would be lenient, then handed him over to the Romans. Sulla began to gain political prestige.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -113,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanding 4"
+      }
+    ],
+    "v": [
+      {
+        "t": "Civil War in Nanyue; Han Intervenes",
+        "s": "The king of Nanyue, Zhao Xing, and his mother, the queen dowager Jiu (樛氏), supported incorporation into the Han, but the chancellor Lü Jia opposed them and staged a coup, killing Zhao Xing and the queen dowager. Emperor Wu ordered Lu Bode and others to lead a punitive expedition.",
+        "a": 23.1,
+        "l": 113.3,
+        "c": "Military",
+        "r": "Nanyue",
+        "o": "Asia"
+      },
+      {
+        "t": "Cimbri and Teutones Begin Threatening Rome",
+        "s": "The Germanic Cimbri and Teutones migrated south and defeated a Roman army at Noreia (modern Austria). Rome was shocked—the greatest threat since Hannibal. Marius was urgently summoned to lead the defense against the Germanic tribes.",
+        "a": 47.0,
+        "l": 14.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -112,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanding 5"
+      }
+    ],
+    "v": [
+      {
+        "t": "Han Conquers Nanyue, Establishes Nine Commanderies",
+        "s": "Han generals Lu Bode and Yang Pu, with naval and land forces, captured the Nanyue capital Panyu, killing Lü Jia. Nanyue was extinguished, and the Han established nine commanderies: Nanhai, Cangwu, Yulin, Hepu, Jiaozhi, Jiuzhen, Rinan, Zhuya, and Dan'er, bringing the Lingnan region formally into the empire.",
+        "a": 23.1,
+        "l": 113.3,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Jugurthine War Ends",
+        "s": "Marius defeated Jugurtha's Moorish allies, isolating Jugurtha. Sulla arranged his capture and handed him over to Rome. Jugurtha was condemned to death and died in the Mamertine prison. Rome established the province of Africa to administer Numidia.",
+        "a": 36.0,
+        "l": 6.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": -111,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanding 6"
+      }
+    ],
+    "v": [
+      {
+        "t": "Han Establishes Jiaozhi Region Administration",
+        "s": "In 111 BCE, Emperor Wu of Han set up the commanderies of Jiaozhi, Jiuzhen, and Rinan on the former Nanyue territory, and created the Jiaozhi Inspectorate to oversee the whole Lingnan region. The Han then sent migrants to Lingnan, promoted iron tools and ox‑plowing, fostering local economic and cultural development.",
+        "a": 23.1,
+        "l": 113.3,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome Defeated by Cimbri at Arausio",
+        "s": "The Roman consul Caepio was defeated at Arausio (modern Orange, France) by the Cimbri, losing about 80,000 men. The Senate urgently recalled Marius to lead the army north.",
+        "a": 44.0,
+        "l": 4.8,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -110,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanfeng 1"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Wu Performs Fengshan Sacrifice on Mount Tai",
+        "s": "To display his civil and military achievements, Emperor Wu emulated Qin Shi Huang and traveled east to Mount Tai for the feng and shan sacrifices. The ceremony lasted several days; Wu offered sacrifices to Heaven and Earth and inscribed a stone to record his achievements. He subsequently made multiple tours, sacrificing to the Five Sacred Peaks and the Four Great Rivers, deifying imperial authority.",
+        "a": 36.3,
+        "l": 117.1,
+        "c": "Religion",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Marius Defeats Teutones and Cimbri",
+        "s": "Marius led his army to crush the Teutones and Ambrones at Aquae Sextiae in Provence, killing about 20,000 and capturing tens of thousands. The next year, he annihilated the Cimbri at Vercellae, ending the Germanic threat to Rome.",
+        "a": 43.5,
+        "l": 5.5,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -109,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanfeng 2"
+      }
+    ],
+    "v": [
+      {
+        "t": "Han Campaign Against Gojoseon (Korea)",
+        "s": "Wiman Joseon's king Ugeo (衛右渠) prevented smaller states from communicating with the Han and killed Han envoys. Emperor Wu sent the naval commander Yang Pu and the army commander Xun Zhi with 50,000 troops to attack.",
+        "a": 39.0,
+        "l": 125.5,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Marius Consul for the Sixth Time",
+        "s": "Marius was elected consul for the sixth consecutive year (104–100 BCE) on the strength of his victories over the Germans. He continued his military reforms, creating a fully professional army. But his power aroused aristocratic fears, which later contributed to Sulla's march on Rome.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -108,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanfeng 3"
+      }
+    ],
+    "v": [
+      {
+        "t": "Han Destroys Wiman Joseon, Establishes Four Commanderies",
+        "s": "The Han army took the capital Wanggeomseong (Pyongyang), killed King Ugeo, and ended Wiman Joseon. The Han set up the commanderies of Lelang, Xuantu, Lintun, and Zhenfan, bringing the northern Korean Peninsula into the empire.",
+        "a": 39.0,
+        "l": 125.0,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Marius Completes His Military Reforms: Standardization of the Roman Legion",
+        "s": "Marius abolished the property requirement for legionaries, standardized equipment (gladius, pilum, armor), introduced the 'mule' system (soldiers carried their own packs), and reformed legion organization (10 cohorts per legion, 6 centuries per cohort). Legionary effectiveness increased dramatically, but soldiers' loyalty shifted from the state to their commanders.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -107,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanfeng 4"
+      }
+    ],
+    "v": [
+      {
+        "t": "Han and Parthia Exchange Official Missions",
+        "s": "The Parthian king Mithradates II sent an envoy to Chang'an, presenting large bird eggs and jugglers from Liqian (Roman territory). The Han reciprocated, sending envoys to Parthia, and diplomatic relations were established. The western Silk Road became more secure.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman Tribune Saturninus Proposes Radical Land Reforms",
+        "s": "Saturninus, in alliance with Marius, proposed a new land law and sought to force it through. His methods were radical, causing concern among the Senate and even Marius. Eventually, Marius suppressed Saturninus, a stain on Marius's record.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -106,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanfeng 5"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Wu Establishes Thirteen Prefectures (Zhou)",
+        "s": "Emperor Wu divided the empire into thirteen regional inspectorates (zhou), each with a censor (cishi) who supervised local strongmen and officials with 600‑bushel rank. The cishi had great supervisory power, foreshadowing the later system of provincial governors (zhoumu).",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Birth of Cicero",
+        "s": "Marcus Tullius Cicero, the famous Roman orator, philosopher, and politician, was born in Arpinum. He would later champion the Roman Republic, leaving a large body of speeches and philosophical works that influenced European thought.",
+        "a": 41.8,
+        "l": 13.2,
+        "c": "Person",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -105,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Yuanfeng 6"
+      }
+    ],
+    "v": [
+      {
+        "t": "Zhao Guo Promotes the 'Daitian' Alternating Field Method",
+        "s": "Zhao Guo, colonel of grain supply, promoted the daitian field system in Guanzhong: digging furrows and ridges that alternated each year, and using the paired plow and seed drill. This increased drought resistance and yields, leading to a major agricultural boom in Guanzhong.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Agriculture",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Marius Annihilates Cimbri at Vercellae",
+        "s": "Marius, with his legates Sulla and Catulus, fought the Cimbri at Vercellae (northern Italy). The Cimbri were annihilated; tens of thousands were captured, including their king. The northern frontier was secured.",
+        "a": 45.0,
+        "l": 8.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -104,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Taichu 1"
+      }
+    ],
+    "v": [
+      {
+        "t": "Sima Qian Begins Writing the 'Records of the Grand Historian'",
+        "s": "Sima Qian, the Grand Historian, officially began writing the 'Records of the Grand Historian' (Shiji) based on the draft left by his father Sima Tan. He planned a universal history from the Yellow Emperor to the Taichu era, totaling 130 chapters. After being castrated for defending Li Ling, he endured the humiliation to complete his great work.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Culture",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Wu Promulgates the 'Taichu Calendar'",
+        "s": "Emperor Wu ordered Luoxiahong and Deng Ping to reform the calendar, issuing the Taichu Calendar, which set the first month as the beginning of the year, adopted the Xia calendar, and for the first time incorporated the 24 solar terms into the lunisolar calendar. The Taichu Calendar was the first complete, fully documented calendar in Chinese history.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Technology",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Li Guangli Campaigns Against Dayuan (Fergana)",
+        "s": "To obtain 'Heavenly Horses' (Fergana horses), Emperor Wu ordered General Li Guangli (the 'Ershi General') to lead tens of thousands of troops against Dayuan. Because of the long distance and supply difficulties, Li's first campaign failed, and he retreated to Dunhuang. The emperor then reinforced him for a second attempt.",
+        "a": 40.5,
+        "l": 75.0,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -103,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Taichu 2"
+      }
+    ],
+    "v": [
+      {
+        "t": "Li Guangli's Second Campaign Against Dayuan",
+        "s": "Emperor Wu reinforced the expedition with 60,000 men (30,000 regulars), 100,000 oxen, 30,000 horses, tens of thousands of camels, and built supply depots. Li Guangli advanced again; states along the route, fearing Han power, did not resist and supplied grain.",
+        "a": 40.5,
+        "l": 75.0,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman Tribune Saturninus Killed",
+        "s": "Saturninus, after being re‑elected tribune, allied with praetor Glaucia and used violence to push land reform. The Senate declared a state of emergency; Marius was ordered to suppress them. Saturninus surrendered but was killed by a mob sent by the Senate. This showed that the Roman republican system was seriously breaking down.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -102,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Taichu 3"
+      }
+    ],
+    "v": [
+      {
+        "t": "Han Army Captures Dayuan, Obtains 'Heavenly Horses'",
+        "s": "Li Guangli besieged the Dayuan capital, Guishan, for over 40 days. Dayuan nobles killed their king, Mugu, and offered horses. The Han selected several dozen fine horses and over 3,000 medium horses for the return to Chang'an. Li Guangli was enfeoffed as Marquis of Haixi. Dayuan submitted; the Western states trembled and sent hostages.",
+        "a": 40.5,
+        "l": 75.0,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Marius Defeats the Teutones at Aquae Sextiae",
+        "s": "Marius ambushed the Teutones in a valley near Aquae Sextiae, annihilating their main force. The Teutones lost about 90,000 men, and their king was captured. Rome seized vast booty.",
+        "a": 43.5,
+        "l": 5.5,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -101,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "Taichu 4"
+      }
+    ],
+    "v": [
+      {
+        "t": "Han Sets Up Prototype of the Western Regions Protectorate",
+        "s": "In 100 BCE (Tianhan 1), the Han dynasty stationed a commandant with a few hundred soldier‑farmers at Luntai (modern Luntai, Xinjiang). This was the prototype of the first permanent Han military‑civilian office in the Western Regions, marking the beginning of Han control over the area.",
+        "a": 41.0,
+        "l": 83.0,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome Ends Cimbrian War; Marius Triumphs",
+        "s": "Marius returned to Rome and celebrated a grand triumph. He was hailed as 'the third founder of Rome' (after Romulus and Camillus). But the Senate remained wary of him, and he gradually withdrew from politics until the Social War broke out.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  }
+]

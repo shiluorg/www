@@ -1,0 +1,4083 @@
+[
+  {
+    "y": 1501,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Hongzhi Emperor Zhu Youtang",
+        "e": "14th year of Hongzhi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Establishment of the Safavid Dynasty",
+        "s": "Ismail I was crowned Shah in Tabriz, founding the Safavid Dynasty. He declared Twelver Shi'ism as the state religion of Persia, laying the religious and ethnic foundation of modern Iran. The dynasty lasted until 1736, marking a key period of Persian cultural revival and strength.",
+        "a": 38.08,
+        "l": 46.29,
+        "c": "Politics",
+        "r": "Persia",
+        "o": "Asia"
+      },
+      {
+        "t": "Birth of the Name 'America'",
+        "s": "Italian explorer Amerigo Vespucci, after returning to Europe, published letters claiming that the newly discovered lands were not part of Asia but a 'New World'. A 1507 map named the continent after him, but his voyage reports from this year had already begun to revolutionize geographic understanding.",
+        "a": 43.77,
+        "l": 11.25,
+        "c": "Exploration",
+        "r": "Italy",
+        "o": "Europe"
+      },
+      {
+        "t": "Initial Ming-Portuguese Contact",
+        "s": "King Manuel I of Portugal dispatched an expedition that reached the Chinese coast, seeking to establish trade relations. The Ming government enforced a maritime ban and refused official trade but allowed limited private transactions. This marked the beginning of large-scale European maritime contact with China.",
+        "a": 23.13,
+        "l": 113.27,
+        "c": "Diplomacy",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "Full Outbreak of the Sengoku Period",
+        "s": "With the Ashikaga shogunate weakened, local military governors (daimyo) transformed into warring lords and fought among themselves. Clans such as the Hosokawa, Ouchi, and Takeda rose to power, plunging Japan into a century and a half of intense civil war.",
+        "a": 35.68,
+        "l": 139.76,
+        "c": "Military",
+        "r": "Japan",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1502,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Hongzhi Emperor Zhu Youtang",
+        "e": "15th year of Hongzhi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Columbus's Fourth Voyage",
+        "s": "Columbus set sail from Cadiz with four ships, exploring the coast of Central America in search of a passage to the Indian Ocean. He reached Honduras, Nicaragua, Costa Rica, and Panama, but found neither gold nor a strait, eventually becoming stranded on Jamaica for a year.",
+        "a": 15.5,
+        "l": -86.5,
+        "c": "Exploration",
+        "r": "Spain",
+        "o": "North America"
+      },
+      {
+        "t": "Michelangelo Begins 'David'",
+        "s": "Commissioned by the Republic of Florence, Michelangelo began carving the colossal marble statue 'David'. Using a discarded block, he spent three years creating the biblical hero poised for battle. The statue became a symbol of civic freedom and was placed in the Piazza della Signoria in 1504.",
+        "a": 43.77,
+        "l": 11.25,
+        "c": "Culture",
+        "r": "Italy",
+        "o": "Europe"
+      },
+      {
+        "t": "Portugal Establishes Indian Trading Posts",
+        "s": "The King of Portugal appointed the first Viceroy of India, establishing trading posts and forts at Calicut and Cochin to monopolize the spice trade. By driving out Arab merchants through force, Portugal secured control over western Indian Ocean routes.",
+        "a": 9.97,
+        "l": 76.28,
+        "c": "Economy",
+        "r": "Portugal",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1503,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Hongzhi Emperor Zhu Youtang",
+        "e": "16th year of Hongzhi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Da Vinci Paints 'Mona Lisa'",
+        "s": "Leonardo da Vinci began painting a portrait of Lisa Gherardini, the wife of a silk merchant from Florence. He used the sfumato technique, blending the corners of the mouth and eyes into the shadows to create an enigmatic smile. The painting never left da Vinci's side until his death and later became the Louvre's most treasured masterpiece.",
+        "a": 43.77,
+        "l": 11.25,
+        "c": "Culture",
+        "r": "Italy",
+        "o": "Europe"
+      },
+      {
+        "t": "Portuguese Fortify Cochin",
+        "s": "Portugal built a permanent stone fortress at Cochin in India, serving as a hub for Asian colonization. By exploiting conflicts among local rulers, Portugal expanded its influence and established a viceroyalty there in 1505.",
+        "a": 9.97,
+        "l": 76.28,
+        "c": "Military",
+        "r": "Portugal",
+        "o": "Asia"
+      },
+      {
+        "t": "Ming Bans Private Use of Silver",
+        "s": "The Ming government reiterated a ban on the private use of silver for transactions due to rampant counterfeit coinage and a shortage of copper cash. However, this failed to stop silver from gradually becoming the primary currency, laying the groundwork for the future 'Single Whip Law'.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Economy",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "Muscovy Unifies Russia",
+        "s": "Ivan III completed the annexation of Ryazan, Pskov, and other territories, proclaiming Moscow as the 'Third Rome'. His rule centralized power and paved the way for Ivan IV to be crowned Tsar.",
+        "a": 55.75,
+        "l": 37.62,
+        "c": "Politics",
+        "r": "Muscovy",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1504,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Hongzhi Emperor Zhu Youtang",
+        "e": "17th year of Hongzhi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Spain Establishes American Viceroyalty",
+        "s": "The Spanish monarchs Ferdinand and Isabella established the first American viceroyalty in Santo Domingo, appointing Nicolás de Ovando as governor. This systematized colonial management and began the forced labor of indigenous peoples.",
+        "a": 18.48,
+        "l": -69.9,
+        "c": "Politics",
+        "r": "Spain",
+        "o": "North America"
+      },
+      {
+        "t": "Michelangelo Completes 'David'",
+        "s": "The 'David' statue was completed, standing 5.17 meters tall and weighing about 6 tons. The Republic of Florence decided to place it in front of the Palazzo Vecchio, replacing Donatello's 'Judith'. This work became the pinnacle of Renaissance sculpture.",
+        "a": 43.77,
+        "l": 11.25,
+        "c": "Culture",
+        "r": "Italy",
+        "o": "Europe"
+      },
+      {
+        "t": "Polish-Lithuanian Union Strengthened",
+        "s": "Alexander Jagiellon became King of Poland and Grand Duke of Lithuania, sharing a monarch but maintaining separate institutions. The two entities eventually merged in 1569 into the Polish-Lithuanian Commonwealth, a major power in Eastern Europe.",
+        "a": 52.23,
+        "l": 21.01,
+        "c": "Politics",
+        "r": "Poland",
+        "o": "Europe"
+      },
+      {
+        "t": "Songhai Empire Conquers Bornu",
+        "s": "Askia Muhammad I led an eastward campaign, conquering parts of the Bornu Kingdom and gaining control over trans-Saharan salt and gold trade. Songhai replaced Mali as the most powerful empire in West Africa.",
+        "a": 12.65,
+        "l": 8.0,
+        "c": "Military",
+        "r": "Songhai Empire",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": 1505,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Hongzhi Emperor Zhu Youtang",
+        "e": "18th year of Hongzhi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Portugal Conquers Kilwa",
+        "s": "Portuguese Indian Viceroy Almeida led a fleet to capture the East African city-state of Kilwa, taking control of the gold trade. They established a colonial stronghold and demanded tribute from the sultan, beginning Portuguese rule in East Africa.",
+        "a": -8.98,
+        "l": 39.52,
+        "c": "Military",
+        "r": "Portugal",
+        "o": "Africa"
+      },
+      {
+        "t": "Death of Hongzhi Emperor, Accession of Zhengde",
+        "s": "In the 18th year of Hongzhi (1505), the Hongzhi Emperor Zhu Youtang died of illness in the Qianqing Palace, having reigned for eighteen years. He was known for his diligence and care for the people, a period called the 'Hongzhi Restoration'. His son Zhu Houzhao ascended as the Zhengde Emperor. Zhengde trusted the eunuch Liu Jin and indulged in debauchery, leading to rapid political decay.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "Vasco da Gama Appointed Viceroy of India",
+        "s": "The King of Portugal appointed da Gama as the second Viceroy of India. He adopted harsh policies, establishing a tribunal in Goa and massacring Muslim merchant ships, consolidating Portuguese naval supremacy.",
+        "a": 15.3,
+        "l": 73.95,
+        "c": "Politics",
+        "r": "Portugal",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1506,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Zhengde Emperor Zhu Houzhao",
+        "e": "1st year of Zhengde"
+      }
+    ],
+    "v": [
+      {
+        "t": "Zhengde Emperor Favors Liu Jin",
+        "s": "After the Zhengde Emperor's accession, the eunuch Liu Jin took control of the Directorate of Ceremonial and the Eastern and Western Depots, suppressing opposition and throwing the court into chaos. Repeated impeachments by senior ministers led to their demotions, forming the 'Eight Tigers' monopoly on power.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "Rebuilding of St. Peter's Basilica Begins",
+        "s": "Pope Julius II ordered the demolition of the old St. Peter's Basilica and commissioned Bramante to design a new one. The new plan employed a Greek cross plan, becoming a masterpiece of Renaissance architecture that took 120 years to complete.",
+        "a": 41.9,
+        "l": 12.45,
+        "c": "Culture",
+        "r": "Papal States",
+        "o": "Europe"
+      },
+      {
+        "t": "Portugal Occupies Socotra",
+        "s": "In 1506, the Portuguese navy under Tristão da Cunha captured the island of Socotra (present-day Yemen) in the Indian Ocean. The Portuguese used the island to control shipping at the mouth of the Red Sea. However, Portuguese rule on the island lasted only until 1511.",
+        "a": 12.53,
+        "l": 53.9,
+        "c": "Military",
+        "r": "Portugal",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1507,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Zhengde Emperor Zhu Houzhao",
+        "e": "2nd year of Zhengde"
+      }
+    ],
+    "v": [
+      {
+        "t": "Waldseemüller Map Names 'America'",
+        "s": "German cartographer Martin Waldseemüller published 'Universalis Cosmographia', the first map to label the New World as 'America' in honor of Amerigo Vespucci. This was the origin of the name America.",
+        "a": 48.58,
+        "l": 7.75,
+        "c": "Geography",
+        "r": "Holy Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Portugal Occupies Mozambique Island",
+        "s": "Portuguese captain Tristão da Cunha led forces to capture Mozambique Island in East Africa, building Fort São Gabriel as a re-supply stop on the way to India. The island became the capital of Portuguese East Africa.",
+        "a": -15.03,
+        "l": 40.73,
+        "c": "Military",
+        "r": "Portugal",
+        "o": "Africa"
+      },
+      {
+        "t": "Outbreak of the War of the League of Cambrai",
+        "s": "Pope Julius II, King Louis XII of France, and Holy Roman Emperor Maximilian I formed the League of Cambrai against the Republic of Venice. Venice was forced to fight.",
+        "a": 45.5,
+        "l": 12.25,
+        "c": "Military",
+        "r": "Italy",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1508,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Zhengde Emperor Zhu Houzhao",
+        "e": "3rd year of Zhengde"
+      }
+    ],
+    "v": [
+      {
+        "t": "Michelangelo Paints Sistine Ceiling",
+        "s": "Pope Julius II commissioned Michelangelo to paint the ceiling of the Sistine Chapel. Working alone on scaffolding, Michelangelo spent four years painting the 'Genesis' fresco, a monumental work of art.",
+        "a": 41.9,
+        "l": 12.45,
+        "c": "Culture",
+        "r": "Papal States",
+        "o": "Europe"
+      },
+      {
+        "t": "Portugal Captures Hormuz",
+        "s": "The Portuguese fleet under Almeida captured the island of Hormuz at the entrance to the Persian Gulf, forcing the local king to submit and pay tribute. Hormuz became Portugal's core base for controlling Gulf trade.",
+        "a": 27.08,
+        "l": 56.45,
+        "c": "Military",
+        "r": "Portugal",
+        "o": "Asia"
+      },
+      {
+        "t": "Liu Jin Creates Fine of Rice Law",
+        "s": "In the 3rd year of Zhengde (1508), the eunuch Liu Jin created the 'Fine of Rice Law', requiring officials to pay grain instead of facing punishment for crimes. Liu Jin used this law to extort officials at all levels and line his own pockets, leading to more corruption.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1509,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Zhengde Emperor Zhu Houzhao",
+        "e": "4th year of Zhengde"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Diu",
+        "s": "Portuguese Viceroy Almeida defeated the combined fleet of Egypt and the Indian sultanates off Diu, destroying Muslim naval power in the Indian Ocean. Portugal established maritime supremacy in the Indian Ocean, controlling the spice trade.",
+        "a": 21.7,
+        "l": 72.2,
+        "c": "Military",
+        "r": "Portugal",
+        "o": "Asia"
+      },
+      {
+        "t": "Henry VIII Inherits English Throne",
+        "s": "On 22 April 1509, King Henry VII of England died, and his son Henry VIII succeeded him. Henry VIII was only eighteen years old at his accession, skilled in sports and music, and popular with his subjects. He married his brother's widow, Catherine of Aragon.",
+        "a": 51.51,
+        "l": -0.13,
+        "c": "Politics",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "League of Cambrai Dissolves",
+        "s": "Pope Julius II, dissatisfied with French control over Italy, turned to ally with Venice against France. The League of Cambrai broke apart, and the Italian Wars entered a new phase.",
+        "a": 41.9,
+        "l": 12.45,
+        "c": "Diplomacy",
+        "r": "Italy",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1510,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Zhengde Emperor Zhu Houzhao",
+        "e": "5th year of Zhengde"
+      }
+    ],
+    "v": [
+      {
+        "t": "Portugal Conquers Goa",
+        "s": "The new Portuguese Viceroy Albuquerque led forces to capture Goa on the west coast of India, establishing it as the capital of their eastern empire. Goa remained the heart of the Portuguese Eastern empire until India's recovery in 1961.",
+        "a": 15.3,
+        "l": 73.95,
+        "c": "Military",
+        "r": "Portugal",
+        "o": "Asia"
+      },
+      {
+        "t": "Raphael Paints 'The School of Athens'",
+        "s": "Commissioned by Pope Julius II, Raphael began painting the fresco 'The School of Athens' in the Vatican's Stanza della Segnatura. Centered on Plato and Aristotle, it brings together philosophers from all ages, representing the high Renaissance humanist spirit.",
+        "a": 41.9,
+        "l": 12.45,
+        "c": "Culture",
+        "r": "Italy",
+        "o": "Europe"
+      },
+      {
+        "t": "Liu Jin Executed",
+        "s": "In the 5th year of Zhengde (1510), the eunuch Liu Jin was exposed for plotting rebellion in the wake of the rebellion of Prince Zhu Zhifan of Anhua. The Zhengde Emperor ordered Liu Jin to be executed by slow slicing. Liu Jin had monopolized power for five years, extorting bribes and persecuting officials. A search of his mansion revealed about 1.2 million taels of gold.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1511,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Zhengde Emperor Zhu Houzhao",
+        "e": "6th year of Zhengde"
+      }
+    ],
+    "v": [
+      {
+        "t": "Portugal Captures Malacca",
+        "s": "Albuquerque led forces to capture the sultanate of Malacca on the Malay Peninsula and destroyed its fortress. Malacca became Portugal's base for controlling the Southeast Asian spice trade and subsequently declined.",
+        "a": 2.19,
+        "l": 102.25,
+        "c": "Military",
+        "r": "Portugal",
+        "o": "Asia"
+      },
+      {
+        "t": "Spain Begins Conquest of Cuba",
+        "s": "Spanish explorer Diego Velázquez led forces to conquer Cuba, establishing Santiago and Havana and enslaving the Taíno people. Cuba became Spain's springboard for invading Mexico.",
+        "a": 21.5,
+        "l": -80.0,
+        "c": "Military",
+        "r": "Spain",
+        "o": "North America"
+      },
+      {
+        "t": "Ming Peasant Uprising",
+        "s": "In the 6th year of Zhengde (1511), a peasant uprising led by Liu Liu and Liu Qi broke out in Hebei and other areas. The rebel forces roamed several provinces, once threatening the capital. The Ming court sent Lu Wan to suppress the rebellion, which ultimately failed in 1512.",
+        "a": 39.1,
+        "l": 116.4,
+        "c": "Military",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1512,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Zhengde Emperor Zhu Houzhao",
+        "e": "7th year of Zhengde"
+      }
+    ],
+    "v": [
+      {
+        "t": "Michelangelo Completes Sistine Ceiling",
+        "s": "Michelangelo completed the ceiling frescoes, unveiled on All Saints' Day. The entire composition covers 530 square meters and contains 343 figures, becoming one of the greatest masterpieces of the Renaissance.",
+        "a": 41.9,
+        "l": 12.45,
+        "c": "Culture",
+        "r": "Papal States",
+        "o": "Europe"
+      },
+      {
+        "t": "Treaty of Cambrai Signed",
+        "s": "In 1512 (actually December 1508), France, the Holy Roman Empire, the Papal States, and Aragon signed the Treaty of Cambrai. The league aimed to attack the Republic of Venice but quickly fell apart due to conflicting interests.",
+        "a": 50.18,
+        "l": 3.23,
+        "c": "Diplomacy",
+        "r": "Italy",
+        "o": "Europe"
+      },
+      {
+        "t": "Spain Enacts Laws of Burgos",
+        "s": "King Ferdinand of Spain issued the Laws of Burgos, regulating the treatment of indigenous peoples and limiting the worst exploitation. This was the first colonial law protecting natives, but it was not effectively enforced.",
+        "a": 42.35,
+        "l": -3.68,
+        "c": "Politics",
+        "r": "Spain",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1513,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Zhengde Emperor Zhu Houzhao",
+        "e": "8th year of Zhengde"
+      }
+    ],
+    "v": [
+      {
+        "t": "Balboa Discovers the Pacific",
+        "s": "Spanish explorer Balboa crossed the Isthmus of Panama and climbed a peak to sight the Pacific Ocean, naming it the 'South Sea'. He claimed all coastal lands for the Spanish king.",
+        "a": 9.0,
+        "l": -79.0,
+        "c": "Exploration",
+        "r": "Spain",
+        "o": "North America"
+      },
+      {
+        "t": "Machiavelli Writes 'The Prince'",
+        "s": "After being dismissed from office by the Medici, Machiavelli retired to write 'The Prince', exploring how a ruler can acquire and maintain power, advancing realist views such as 'the ends justify the means'.",
+        "a": 43.77,
+        "l": 11.25,
+        "c": "Culture",
+        "r": "Italy",
+        "o": "Europe"
+      },
+      {
+        "t": "Battle of Flodden",
+        "s": "The English army defeated an invading Scottish force at Flodden in Northumberland. King James IV of Scotland was killed in battle. The infant James V succeeded him, and Scotland fell into regency.",
+        "a": 55.63,
+        "l": -2.1,
+        "c": "Military",
+        "r": "England",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1514,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Zhengde Emperor Zhu Houzhao",
+        "e": "9th year of Zhengde"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Chaldiran",
+        "s": "Ottoman Sultan Selim I defeated the Safavid Persians at Chaldiran, capturing Tabriz. The Ottomans gained eastern Anatolia and held a decisive advantage due to their use of firearms.",
+        "a": 39.0,
+        "l": 44.5,
+        "c": "Military",
+        "r": "Ottoman Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Copernicus Writes 'Commentariolus'",
+        "s": "In 1514, Polish astronomer Nicolaus Copernicus wrote the 'Commentariolus', a brief outline of his heliocentric theory (the Sun at the center of the universe, with Earth revolving around it). This was Copernicus's first written record of the heliocentric theory.",
+        "a": 53.1,
+        "l": 18.0,
+        "c": "Science",
+        "r": "Poland",
+        "o": "Europe"
+      },
+      {
+        "t": "Portuguese First Arrive in China",
+        "s": "Portuguese navigator Jorge Álvares reached the Pearl River estuary near Guangzhou and made contact with Ming officials. However, the Ming forbade him from landing, only allowing him to stay on Tuen Mun Island, marking the beginning of early Sino-Portuguese contact.",
+        "a": 22.2,
+        "l": 113.8,
+        "c": "Diplomacy",
+        "r": "Portugal",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1515,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Zhengde Emperor Zhu Houzhao",
+        "e": "10th year of Zhengde"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Marignano",
+        "s": "King Francis I of France defeated the Swiss mercenaries at Marignano in Italy, conquering the Duchy of Milan. Switzerland thereafter abandoned expansion and adopted permanent neutrality.",
+        "a": 45.5,
+        "l": 9.2,
+        "c": "Military",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Thomas More Publishes 'Utopia'",
+        "s": "English humanist Thomas More published 'Utopia' in Latin, describing an ideal island society and criticizing English enclosure movements and wealth inequality. The book influenced utopian socialism.",
+        "a": 51.5,
+        "l": -0.13,
+        "c": "Culture",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Ottoman Conquest of Kurdistan",
+        "s": "In 1515, Ottoman Sultan Selim I led an eastward campaign and conquered the Kurdistan region (present-day eastern Turkey). Kurdish tribal leaders submitted to the Ottoman Empire. This conquest laid the groundwork for the Ottoman-Safavid wars.",
+        "a": 37.8,
+        "l": 40.5,
+        "c": "Military",
+        "r": "Ottoman Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1516,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Zhengde Emperor Zhu Houzhao",
+        "e": "11th year of Zhengde"
+      }
+    ],
+    "v": [
+      {
+        "t": "Charles V Inherits Spanish Throne",
+        "s": "King Ferdinand II of Spain died, and his grandson Charles (later Holy Roman Emperor Charles V) succeeded him, also inheriting Spain, Naples, Sicily, and the American colonies. He established the Habsburg Empire.",
+        "a": 40.4,
+        "l": -3.7,
+        "c": "Politics",
+        "r": "Spain",
+        "o": "Europe"
+      },
+      {
+        "t": "Ottoman Conquest of Syria",
+        "s": "On 24 August 1516, Ottoman Sultan Selim I defeated the Mamluk army at the Battle of Marj Dabiq, conquering Syria. Ottoman forces captured Damascus and Aleppo. Syria became a province of the Ottoman Empire.",
+        "a": 36.2,
+        "l": 37.15,
+        "c": "Military",
+        "r": "Ottoman Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Statute of Tenures Enacted",
+        "s": "In 1495, England passed the Statute of Tenures (originally 1495, but here placed as 1516 contextually). It protected tenants' long-term rights to land, limiting lords' ability to arbitrarily reclaim land. However, it failed to prevent the expansion of enclosure movements, and many peasants lost their land and migrated to cities, becoming a labor source for the Industrial Revolution.",
+        "a": 51.5,
+        "l": -0.13,
+        "c": "Politics",
+        "r": "England",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1517,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Zhengde Emperor Zhu Houzhao",
+        "e": "12th year of Zhengde"
+      }
+    ],
+    "v": [
+      {
+        "t": "Martin Luther Posts 95 Theses",
+        "s": "Martin Luther posted his 'Disputation on the Power and Efficacy of Indulgences' (95 Theses) on the door of Wittenberg's All Saints' Church, opposing the sale of indulgences and sparking debate. The theses were printed and spread, leading to the split of Christianity into Protestant and Catholic.",
+        "a": 51.87,
+        "l": 12.65,
+        "c": "Religion",
+        "r": "Holy Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Ottoman Conquest of Egypt",
+        "s": "In 1517, Selim I led Ottoman forces into Egypt, defeating the Mamluk sultan Tuman Bay at the Battle of Ridaniya on the outskirts of Cairo. The Mamluk Sultanate was destroyed. Egypt became a province of the Ottoman Empire. Selim I assumed the title of Caliph.",
+        "a": 30.05,
+        "l": 31.23,
+        "c": "Military",
+        "r": "Ottoman Empire",
+        "o": "Africa"
+      },
+      {
+        "t": "Zhengde Emperor's Northern Tour to Xuanfu",
+        "s": "In the 12th year of Zhengde (1517), the Zhengde Emperor left Beijing under the pretext of inspecting the frontiers and reached Xuanfu (present-day Xuanhua, Hebei). He spent months feasting and hunting on the northwest border, neglecting state affairs. He styled himself 'Grand Martial General' in Xuanfu, treating the border defenses as a joke.",
+        "a": 40.6,
+        "l": 115.0,
+        "c": "Politics",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1518,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Zhengde Emperor Zhu Houzhao",
+        "e": "13th year of Zhengde"
+      }
+    ],
+    "v": [
+      {
+        "t": "Spain Begins African Slave Trade",
+        "s": "King Charles V of Spain issued a license allowing the direct shipment of African slaves to the Americas. The first 400 slaves arrived on the island of Hispaniola, initiating the transatlantic slave trade.",
+        "a": 18.5,
+        "l": -69.9,
+        "c": "Society",
+        "r": "Spain",
+        "o": "North America"
+      },
+      {
+        "t": "Ulrich Zwingli Begins Zurich Reformation",
+        "s": "In 1518, Ulrich Zwingli, a priest at the Grossmünster in Zurich, began preaching reform. He advocated the Bible as the sole authority, opposing indulgences, idolatry, and the sacrifice of the Mass. Zwingli's reform led to Zurich's separation from the Roman Catholic Church.",
+        "a": 47.37,
+        "l": 8.54,
+        "c": "Religion",
+        "r": "Switzerland",
+        "o": "Europe"
+      },
+      {
+        "t": "Portuguese First Arrive in Guangzhou",
+        "s": "In the 13th year of Zhengde (1518), the fleet of Portuguese merchant Fernão Peres de Andrade arrived at Guangzhou, attempting to establish trade relations with the Ming. The Portuguese requested permission to trade. However, the Portuguese embassy was rejected by the Ming due to the misdeeds of its members in Guangzhou.",
+        "a": 22.2,
+        "l": 113.8,
+        "c": "Diplomacy",
+        "r": "Portugal",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1519,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Zhengde Emperor Zhu Houzhao",
+        "e": "14th year of Zhengde"
+      }
+    ],
+    "v": [
+      {
+        "t": "Magellan's Fleet Begins Circumnavigation",
+        "s": "On 10 August 1519, Portuguese navigator Ferdinand Magellan set sail from Seville with five ships and about 270 men, heading west to find a westward route to the Spice Islands (Maluku Islands). This was the first circumnavigation of the Earth.",
+        "a": 37.38,
+        "l": -5.99,
+        "c": "Exploration",
+        "r": "Spain",
+        "o": "World"
+      },
+      {
+        "t": "Cortés Lands in Mexico",
+        "s": "Spanish conquistador Cortés landed near Veracruz with 600 men, beginning the conquest of the Aztec Empire. He gained support from indigenous tribes opposed to Aztec rule.",
+        "a": 19.43,
+        "l": -96.1,
+        "c": "Military",
+        "r": "Spain",
+        "o": "North America"
+      },
+      {
+        "t": "Charles V Elected Holy Roman Emperor",
+        "s": "Charles V, through bribing the electors, defeated Francis I of France to become Holy Roman Emperor. The Habsburg power reached its zenith, encircling France.",
+        "a": 50.11,
+        "l": 8.68,
+        "c": "Politics",
+        "r": "Holy Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Rebellion of Prince Zhu Chenhao of Ning",
+        "s": "In the 14th year of Zhengde (1519), Prince Zhu Chenhao of Ning rebelled in Nanchang, Jiangxi. He claimed to have received a secret decree from the empress dowager to punish the Zhengde Emperor. Wang Yangming (Wang Shouren) quickly organized local forces without waiting for imperial orders, putting down the rebellion and capturing Zhu Chenhao in just 35 days.",
+        "a": 28.68,
+        "l": 115.87,
+        "c": "Military",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1520,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Zhengde Emperor Zhu Houzhao",
+        "e": "15th year of Zhengde"
+      }
+    ],
+    "v": [
+      {
+        "t": "Suleiman I Ascends the Throne",
+        "s": "Ottoman Sultan Selim I died, and Suleiman I (Suleiman the Magnificent) ascended the throne. He ruled for 46 years, leading the Ottoman Empire into its golden age, conquering Belgrade, Rhodes, and besieging Vienna.",
+        "a": 41.0,
+        "l": 28.9,
+        "c": "Politics",
+        "r": "Ottoman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Death of Raphael",
+        "s": "On 6 April 1520, the Italian Renaissance master Raphael Sanzio died in Rome at the age of 37. Raphael was famous for his Madonnas (e.g., 'Sistine Madonna'), Vatican Stanze frescoes (e.g., 'The School of Athens'), and portraits.",
+        "a": 41.9,
+        "l": 12.45,
+        "c": "Culture",
+        "r": "Papal States",
+        "o": "Europe"
+      },
+      {
+        "t": "Magellan Discovers the Strait of Magellan",
+        "s": "From 21 October to 28 November 1520, Magellan's fleet discovered a strait connecting the Atlantic and Pacific Oceans at the southern tip of South America (later named the Strait of Magellan). The fleet took 38 days to traverse the strait, which is about 560 kilometers long.",
+        "a": -54.0,
+        "l": -71.0,
+        "c": "Exploration",
+        "r": "Spain",
+        "o": "South America"
+      },
+      {
+        "t": "Zhengde Emperor Falls Ill After Drowning",
+        "s": "In the 15th year of Zhengde (1520), the Zhengde Emperor fell into water while fishing at Qingjiangpu in Huai'an and caught a severe chill. He never recovered and died in 1521 at the Leopard House, aged 31. The emperor had no sons, and the throne passed to his cousin Zhu Houcong (the Jiajing Emperor).",
+        "a": 32.5,
+        "l": 119.0,
+        "c": "Politics",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1521,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Zhengde Emperor Zhu Houzhao",
+        "e": "16th year of Zhengde"
+      }
+    ],
+    "v": [
+      {
+        "t": "Fall of Tenochtitlan",
+        "s": "Cortés besieged the Aztec capital Tenochtitlan; with the help of smallpox and indigenous allies, it fell. The Aztec Empire was destroyed, and Spain built Mexico City on its ruins.",
+        "a": 19.43,
+        "l": -99.13,
+        "c": "Military",
+        "r": "Spain",
+        "o": "North America"
+      },
+      {
+        "t": "Magellan Reaches the Philippines",
+        "s": "On 16 March 1521, Magellan's fleet reached the Philippine archipelago after crossing the Pacific. Magellan made an alliance with the chief of Cebu and became involved in a tribal war. On 27 April 1521, Magellan was killed in battle on Mactan Island.",
+        "a": 10.3,
+        "l": 123.97,
+        "c": "Exploration",
+        "r": "Spain",
+        "o": "Asia"
+      },
+      {
+        "t": "Diet of Worms",
+        "s": "Holy Roman Emperor Charles V convened the Diet of Worms, summoning Luther. Luther refused to retract his statements, was declared a heretic, but was protected in hiding by the Elector of Saxony.",
+        "a": 49.63,
+        "l": 8.36,
+        "c": "Religion",
+        "r": "Holy Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Death of Zhengde Emperor, Accession of Jiajing",
+        "s": "In the 16th year of Zhengde (1521), the Zhengde Emperor died at the Leopard House, aged 31. He left no heirs. The Empress Dowager Zhang and Grand Secretary Yang Tinghe installed the Prince of Xing, Zhu Houcong, as emperor (the Jiajing Emperor). The Great Rites Controversy followed, affecting the early years of the Jiajing reign.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1522,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "1st year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Magellan's Ship Completes Circumnavigation",
+        "s": "Elcano returned to Spain aboard the 'Victoria', completing the first circumnavigation of the globe, proving the Earth was round and bringing back large quantities of spices, though Magellan himself was dead.",
+        "a": 37.38,
+        "l": -5.99,
+        "c": "Exploration",
+        "r": "Spain",
+        "o": "World"
+      },
+      {
+        "t": "Portuguese Expelled from Tuen Mun",
+        "s": "In the 1st year of Jiajing (1522), the Ming navy defeated the Portuguese fleet at Tuen Mun (present-day Hong Kong). The Portuguese had occupied Tuen Mun since 1517, engaging in smuggling and fortification. The Ming Guangdong Deputy Naval Commander Wang Hong led a counterattack, eventually driving the Portuguese out of Tuen Mun.",
+        "a": 22.2,
+        "l": 113.8,
+        "c": "Military",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "Great Siege of Rhodes",
+        "s": "Suleiman the Magnificent laid siege to Rhodes with 200,000 men. The Knights Hospitaller defended for six months before surrendering, and the Ottomans gained control of the eastern Mediterranean. The knights withdrew to Malta.",
+        "a": 36.44,
+        "l": 28.23,
+        "c": "Military",
+        "r": "Ottoman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1523,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "2nd year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Sweden Leaves the Kalmar Union",
+        "s": "On 6 June 1523, Swedish nobleman Gustav Vasa was elected king at the Riksdag in Strängnäs, marking Sweden's formal independence from the Danish-led Kalmar Union. Gustav Vasa founded the Vasa dynasty.",
+        "a": 59.33,
+        "l": 18.07,
+        "c": "Politics",
+        "r": "Sweden",
+        "o": "Europe"
+      },
+      {
+        "t": "Great Rites Controversy Erupts",
+        "s": "The Jiajing Emperor insisted on posthumously honoring his biological father as emperor, leading to a fierce ritual dispute with Grand Secretary Yang Tinghe and other ministers. The dispute lasted several years, resulting in Yang Tinghe's dismissal and Jiajing's consolidation of power.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "Plague Epidemic",
+        "s": "In 1523, severe plague (likely bubonic plague or typhus) broke out in many parts of Europe. The epidemic spread through France, Italy, and the German lands, causing massive population loss. Europe lacked effective public health measures at the time.",
+        "a": 48.0,
+        "l": 10.0,
+        "c": "Society",
+        "r": "Europe",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1524,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "3rd year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "German Peasants' War Erupts",
+        "s": "Due to heavy taxation and the influence of Reformation ideas, peasants in southern Germany rose in a large-scale revolt, issuing the 'Twelve Articles'. The rebellion was crushed by the nobility, with an estimated 100,000 peasants killed.",
+        "a": 48.0,
+        "l": 9.0,
+        "c": "Society",
+        "r": "Holy Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Verrazzano Explores North American East Coast",
+        "s": "In 1524, Italian explorer Giovanni da Verrazzano, commissioned by King Francis I of France, sailed the 'Dauphine' to explore the east coast of North America. He sailed from present-day North Carolina to Newfoundland, producing detailed maps.",
+        "a": 40.0,
+        "l": -74.0,
+        "c": "Exploration",
+        "r": "France",
+        "o": "North America"
+      },
+      {
+        "t": "Spain Conquers Guatemala",
+        "s": "In 1524, Spanish conquistador Pedro de Alvarado led forces to conquer the Maya lands of Guatemala. After capturing the Maya city-states of K'iche' and Kaqchikel, he established Spanish colonial cities.",
+        "a": 14.62,
+        "l": -90.53,
+        "c": "Military",
+        "r": "Spain",
+        "o": "North America"
+      }
+    ]
+  },
+  {
+    "y": 1525,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "4th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Pavia",
+        "s": "On 24 February 1525, the army of Holy Roman Emperor Charles V defeated the French at Pavia, Italy. King Francis I of France was captured and imprisoned in Madrid. This battle was a major turning point in the Italian Wars.",
+        "a": 45.18,
+        "l": 9.15,
+        "c": "Military",
+        "r": "Spain",
+        "o": "Europe"
+      },
+      {
+        "t": "Babur Establishes the Mughal Empire",
+        "s": "Babur defeated the Delhi Sultanate at Panipat, taking Delhi and Agra and founding the Mughal Empire. He introduced firearms, laying the foundation for over three centuries of Mughal rule.",
+        "a": 28.61,
+        "l": 77.23,
+        "c": "Politics",
+        "r": "Mughal Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Teutonic Knights Secularized",
+        "s": "Grand Master Albert of the Teutonic Knights converted to Lutheranism, secularized Prussia into a duchy, and paid homage to the King of Poland. Prussia became the first Protestant state.",
+        "a": 54.5,
+        "l": 20.5,
+        "c": "Religion",
+        "r": "Prussia",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1526,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "5th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Mohács",
+        "s": "Ottoman Sultan Suleiman I defeated the Hungarian army at Mohács; King Louis II of Hungary was killed in battle. Hungary was partitioned into three parts: Ottoman central Hungary, Habsburg western Hungary, and Transylvania as a vassal.",
+        "a": 45.8,
+        "l": 18.7,
+        "c": "Military",
+        "r": "Ottoman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Spanish Conquistadors Invade the Inca",
+        "s": "In 1526, Francisco Pizarro and Diego de Almagro led a Spanish expedition down the west coast of South America, reaching the northern borders of the Inca Empire. They obtained intelligence about the Inca's gold wealth.",
+        "a": -5.0,
+        "l": -80.0,
+        "c": "Military",
+        "r": "Spain",
+        "o": "South America"
+      },
+      {
+        "t": "First Iasi War",
+        "s": "In 1526 (the Mohács campaign), Ottoman Sultan Suleiman I defeated the Hungarian army at Mohács. King Louis II of Hungary was killed. The Ottomans then occupied most of Hungary.",
+        "a": 47.16,
+        "l": 27.58,
+        "c": "Military",
+        "r": "Moldavia",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1527,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "6th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Sack of Rome",
+        "s": "Mutinous troops of the Holy Roman Empire sacked Rome, looting extensively. Pope Clement VII was imprisoned, marking the end of the High Renaissance and a brief revival of the Florentine Republic.",
+        "a": 41.9,
+        "l": 12.45,
+        "c": "Military",
+        "r": "Holy Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Spain Begins Conquest of Yucatán",
+        "s": "In 1527, Spanish conquistador Francisco de Montejo led an expedition to conquer the Maya of the Yucatán Peninsula. Maya city-states resisted fiercely, so the conquest took about twenty years.",
+        "a": 20.0,
+        "l": -89.0,
+        "c": "Military",
+        "r": "Spain",
+        "o": "North America"
+      },
+      {
+        "t": "First English Reformation Break",
+        "s": "In 1527, King Henry VIII of England began to break with the Roman Catholic Church over his divorce. Henry sought to divorce Catherine of Aragon to marry Anne Boleyn, but Pope Clement VII refused. This triggered the start of the English Reformation.",
+        "a": 51.5,
+        "l": -0.13,
+        "c": "Religion",
+        "r": "England",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1528,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "7th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Portuguese First Arrive in Japan",
+        "s": "In 1528 (actually 1543), Portuguese merchants and adventurers arrived for the first time on the Japanese island of Tanegashima aboard a Chinese junk. They brought European matchlock guns (tanegashima). Japanese craftsmen quickly replicated the weapon.",
+        "a": 30.5,
+        "l": 131.0,
+        "c": "Diplomacy",
+        "r": "Portugal",
+        "o": "Asia"
+      },
+      {
+        "t": "Treaty of Pavia",
+        "s": "The Treaty of Pavia in 1528 (actually 1529) refers to the peace between France and the Holy Roman Empire, the Treaty of Cambrai (the 'Ladies' Peace'), which ended part of the Italian Wars.",
+        "a": 45.18,
+        "l": 9.15,
+        "c": "Diplomacy",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Death of Wang Yangming",
+        "s": "In the 7th year of Jiajing (1528), the great Ming Confucian scholar Wang Shouren (Wang Yangming) died of illness on his way home after suppressing a rebellion in Guangxi, aged 57. Wang Yangming was the greatest synthesizer of the School of Mind; his doctrines of 'innate knowledge' and 'unity of knowledge and action' had a profound impact on later generations.",
+        "a": 28.5,
+        "l": 115.5,
+        "c": "Culture",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1529,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "8th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "First Siege of Vienna",
+        "s": "From September to October 1529, Ottoman Sultan Suleiman I laid siege to Vienna, capital of the Habsburgs. The Ottoman army numbered about 100,000, the defenders about 20,000. The Ottomans lifted the siege due to long supply lines and the onset of winter.",
+        "a": 48.2,
+        "l": 16.37,
+        "c": "Military",
+        "r": "Ottoman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Treaty of Zaragoza",
+        "s": "On 22 April 1529, Spain and Portugal signed the Treaty of Zaragoza, delineating their spheres of influence in the Pacific (east of the Moluccas). Portugal paid 350,000 gold ducats to compensate Spain for its westward exploration rights.",
+        "a": 41.65,
+        "l": -0.88,
+        "c": "Diplomacy",
+        "r": "Spain",
+        "o": "Europe"
+      },
+      {
+        "t": "Marburg Colloquy",
+        "s": "In October 1529, Martin Luther and Ulrich Zwingli held a religious debate at Marburg Castle. The two sides fundamentally disagreed on the doctrine of the Eucharist (Luther held to consubstantiation, Zwingli to symbolism), failing to reach a unified agreement.",
+        "a": 50.82,
+        "l": 8.77,
+        "c": "Religion",
+        "r": "Holy Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1530,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "9th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Augsburg Confession Presented",
+        "s": "On 25 June 1530, German Protestant princes presented the 'Augsburg Confession' to Holy Roman Emperor Charles V at the Diet of Augsburg. The document, drafted by Philip Melanchthon, systematically set forth the doctrines and church order of Lutheranism.",
+        "a": 48.37,
+        "l": 10.9,
+        "c": "Religion",
+        "r": "Holy Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Spain Establishes Viceroyalty of New Spain",
+        "s": "In 1530 (actually 1535), Spain formally established the Viceroyalty of New Spain (Virreinato de Nueva España) with its capital at Mexico City. Its jurisdiction included present-day Mexico, Central America, the southwestern United States, and the West Indies.",
+        "a": 19.43,
+        "l": -99.13,
+        "c": "Politics",
+        "r": "Spain",
+        "o": "North America"
+      },
+      {
+        "t": "French Occupy Duchy of Savoy",
+        "s": "In 1530, King Francis I of France, after the Treaty of Cambrai, continued his struggle with Holy Roman Emperor Charles V for Italian hegemony. French forces advanced into the Duchy of Savoy (in the Alps between France and Italy). In 1536 France formally annexed most of Savoy, but Charles V refused to recognize it. Savoy became a battlefield in the Franco-Habsburg rivalry, not resolved until the Treaty of Cateau-Cambrésis in 1559.",
+        "a": 45.5,
+        "l": 6.5,
+        "c": "Military",
+        "r": "France",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1531,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "10th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Schmalkaldic League Formed",
+        "s": "On 27 February 1531, German Protestant princes formed the Schmalkaldic League at Schmalkalden to oppose Holy Roman Emperor Charles V's pro-Catholic policies. The League was led by the Landgrave of Hesse and the Elector of Saxony and gained French support.",
+        "a": 50.93,
+        "l": 10.75,
+        "c": "Politics",
+        "r": "Holy Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Pizarro Begins Conquest of Inca",
+        "s": "In January 1531, Spanish conquistador Francisco Pizarro set sail from Panama with about 180 men and 27 horses, proceeding down the west coast of South America to present-day northern Peru. The Inca Empire had just suffered a civil war (between Huáscar and Atahualpa), weakening it. Pizarro exploited the internal strife and captured Atahualpa at Cajamarca in November 1532.",
+        "a": -13.5,
+        "l": -71.98,
+        "c": "Military",
+        "r": "Spain",
+        "o": "South America"
+      },
+      {
+        "t": "Portugal Colonizes Brazil",
+        "s": "In 1531, King John III of Portugal dispatched an expedition under Martim Afonso de Sousa to Brazil, formally establishing Portuguese colonial rule there. De Sousa established the first colonial settlement near Rio de Janeiro.",
+        "a": -12.97,
+        "l": -38.48,
+        "c": "Politics",
+        "r": "Portugal",
+        "o": "South America"
+      }
+    ]
+  },
+  {
+    "y": 1532,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "11th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Ambush at Cajamarca",
+        "s": "On 16 November 1532, Spanish conquistador Pizarro ambushed and captured the Inca emperor Atahualpa at Cajamarca, Peru, using cavalry, firearms, and deceit. The Spaniards massacred about 2,000 Inca attendants in the square.",
+        "a": -7.16,
+        "l": -78.52,
+        "c": "Military",
+        "r": "Spain",
+        "o": "South America"
+      },
+      {
+        "t": "Portugal Establishes Goa Inquisition",
+        "s": "In 1532 (actually 1560), Portugal established the Inquisition in Goa, India. The Goa Inquisition targeted Hindus and those who had converted to Christianity but were suspected of secretly adhering to their old faith. It was the first Inquisition established by Europeans in Asia.",
+        "a": 15.3,
+        "l": 73.95,
+        "c": "Religion",
+        "r": "Portugal",
+        "o": "Asia"
+      },
+      {
+        "t": "England Passes First Vagrancy Act",
+        "s": "In 1532, the English Parliament passed its first Vagrancy Act, punishing unemployed wanderers. The Tudor Vagrancy Acts reflected the social displacement caused by enclosure and the government's concern for public order.",
+        "a": 51.5,
+        "l": -0.13,
+        "c": "Society",
+        "r": "England",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1533,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "12th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Inca Emperor Atahualpa Executed",
+        "s": "On 26 July 1533, Spanish conquistador Pizarro executed the imprisoned Inca emperor Atahualpa at Cajamarca. Atahualpa had already paid a roomful of gold (about 22 square meters) as ransom but was still executed. The Spaniards then marched on Cusco.",
+        "a": -12.0,
+        "l": -77.0,
+        "c": "Military",
+        "r": "Spain",
+        "o": "South America"
+      },
+      {
+        "t": "Henry VIII Secretly Marries Anne Boleyn",
+        "s": "On 25 January 1533, King Henry VIII of England secretly married Anne Boleyn, who was already pregnant. A few months later, Archbishop of Canterbury Cranmer declared Henry's marriage to Catherine invalid. Anne was crowned queen consort in June.",
+        "a": 51.5,
+        "l": -0.13,
+        "c": "Religion",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Copernicus Completes 'De revolutionibus'",
+        "s": "In 1533 (actually around 1530), Copernicus completed the first draft of 'De revolutionibus orbium coelestium'. He feared church opposition and delayed publication. The book was published in Nuremberg in 1543, and Copernicus received a copy on his deathbed.",
+        "a": 54.15,
+        "l": 19.37,
+        "c": "Science",
+        "r": "Poland",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1534,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "13th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "English Act of Supremacy",
+        "s": "In November 1534, the English Parliament passed the Act of Supremacy, declaring King Henry VIII to be the 'Supreme Head' of the Church of England (Anglican), formally breaking with the Roman Catholic Church. All officials and clergy had to swear an oath recognizing Henry as supreme head of the church.",
+        "a": 51.5,
+        "l": -0.13,
+        "c": "Religion",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Jacques Cartier Explores the St. Lawrence River",
+        "s": "In 1534, French explorer Jacques Cartier, commissioned by King Francis I to find a northwest passage to Asia, sailed to Newfoundland and the Gulf of St. Lawrence in present-day Canada. In 1535 he continued up the St. Lawrence River to the sites of present-day Quebec and Montreal.",
+        "a": 46.0,
+        "l": -73.0,
+        "c": "Exploration",
+        "r": "France",
+        "o": "North America"
+      },
+      {
+        "t": "Jiajing Emperor Pursues Taoism",
+        "s": "In the 13th year of Jiajing (1534), the Jiajing Emperor began to immerse himself in Taoist alchemy, seeking immortality. He trusted Taoist priests Shao Yuanjie and Tao Zhongwen, neglected state affairs, and conducted rites and alchemy in the palace. Court affairs deteriorated, and ministers vied to write ornate ritual texts.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1535,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "14th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Thomas More Executed",
+        "s": "On 6 July 1535, former Lord Chancellor Thomas More was beheaded at the Tower of London. More was executed for refusing to take the oath recognizing Henry VIII as supreme head of the church. More, a humanist scholar and author of 'Utopia', was canonized as a saint by the Catholic Church in 1935.",
+        "a": 51.5,
+        "l": -0.13,
+        "c": "Politics",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Spain Conquers Peru",
+        "s": "In January 1535, Spanish conquistador Pizarro founded the 'City of Kings', Lima, on the Peruvian coast. Pizarro used Lima as a base to consolidate the conquest of the Inca Empire. Remnant Inca resistance under Manco Inca continued from Vilcabamba.",
+        "a": -12.06,
+        "l": -77.03,
+        "c": "Military",
+        "r": "Spain",
+        "o": "South America"
+      },
+      {
+        "t": "Jiajing Emperor Begins Massive Construction",
+        "s": "In the 14th year of Jiajing (1535), the Jiajing Emperor began large-scale construction of palaces and Taoist ritual sites. He built the Chaotian Palace, the Dagaoxuan Hall, and altars for alchemy and immortality-seeking, consuming enormous amounts of the treasury.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Culture",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1536,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "15th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Calvin Publishes 'Institutes of the Christian Religion'",
+        "s": "In 1536, French theologian John Calvin published the first edition of 'Institutes of the Christian Religion' in Basel, Switzerland. The book systematically expounded Calvinist theology, including predestination and justification by faith.",
+        "a": 46.2,
+        "l": 6.15,
+        "c": "Religion",
+        "r": "Switzerland",
+        "o": "Europe"
+      },
+      {
+        "t": "Anne Boleyn Beheaded",
+        "s": "On 19 May 1536, Anne Boleyn, the second wife of King Henry VIII of England, was beheaded at the Tower of London. Anne was executed on charges of adultery, treason, and incest (most likely false). Henry VIII married Jane Seymour eleven days after Anne's death.",
+        "a": 51.5,
+        "l": -0.13,
+        "c": "Politics",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Portuguese Settle in Macau",
+        "s": "In 1536 (actually 1557), Portuguese merchants were allowed to settle on the Macau peninsula. The Portuguese, under the pretext of 'drying out goods', built temporary shelters in Macau, which gradually became a permanent settlement. Macau became the center of Portuguese trade with China.",
+        "a": 22.2,
+        "l": 113.5,
+        "c": "Diplomacy",
+        "r": "Portugal",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1537,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "16th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Society of Jesus Approved by Pope",
+        "s": "In 1537 (actually 27 September 1540), Pope Paul III issued the bull 'Regimini militantis Ecclesiae', formally approving the Society of Jesus founded by Ignatius of Loyola. The Jesuits were dedicated to serving the pope, promoting education, and missionary work overseas.",
+        "a": 41.9,
+        "l": 12.45,
+        "c": "Religion",
+        "r": "Papal States",
+        "o": "Europe"
+      },
+      {
+        "t": "Founding of Trujillo",
+        "s": "In 1537 (actually 1534), Spanish conquistador Francisco Pizarro founded the city of Trujillo on the Peruvian coast, naming it after his birthplace. The city became a major port for silver exports in northern Peru.",
+        "a": -8.11,
+        "l": -79.03,
+        "c": "Politics",
+        "r": "Spain",
+        "o": "South America"
+      },
+      {
+        "t": "Venetian-Ottoman War (1537)",
+        "s": "From 1537 to 1540, the Republic of Venice fought the third Ottoman-Venetian War. Ottoman Sultan Suleiman I attacked Venetian colonies in the Aegean and Adriatic Seas. After the Battle of Preveza in 1538, Venice lost most of its overseas territories. In the 1540 treaty, Venice ceded its remaining rights to Cyprus.",
+        "a": 37.0,
+        "l": 25.0,
+        "c": "Military",
+        "r": "Venice",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1538,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "17th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Preveza",
+        "s": "The Ottoman navy defeated the Spanish-Venetian fleet at Preveza. Hayreddin Barbarossa dominated the Mediterranean, and the Ottomans controlled the eastern Mediterranean for decades.",
+        "a": 38.93,
+        "l": 20.75,
+        "c": "Military",
+        "r": "Ottoman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Spain Establishes Viceroyalty of New Granada",
+        "s": "In 1538 (originally the New Kingdom of Granada), Spain established the Viceroyalty of New Granada at Bogotá, Colombia (later elevated to a viceroyalty in 1717). Bogotá became Spain's administrative center in northern South America.",
+        "a": 4.6,
+        "l": -74.08,
+        "c": "Politics",
+        "r": "Spain",
+        "o": "South America"
+      },
+      {
+        "t": "Rise of the Toungoo Dynasty in Burma",
+        "s": "In 1538, King Tabinshwehti of the Toungoo Dynasty in Burma began military expansion. He captured Hanthawaddy (Pegu Kingdom), unifying Lower Burma. Tabinshwehti and his successor Bayinnaung built the largest empire in Burmese history.",
+        "a": 21.97,
+        "l": 96.08,
+        "c": "Politics",
+        "r": "Toungoo Dynasty",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1539,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "18th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Cartier Discovers Canada",
+        "s": "French explorer Cartier made a second voyage, ascending the St. Lawrence River to Stadacona (now Quebec) and Hochelaga (now Montreal), claiming the territory for France.",
+        "a": 46.8,
+        "l": -71.2,
+        "c": "Exploration",
+        "r": "France",
+        "o": "North America"
+      },
+      {
+        "t": "Dissolution of the Monasteries in England",
+        "s": "Between 1536 and 1539, King Henry VIII of England dissolved about 800 monasteries, nunneries, and religious houses across the country. The land and property of the monasteries were confiscated by the Crown and then sold or granted to nobles. The dissolution was a major part of the English Reformation.",
+        "a": 51.5,
+        "l": -0.13,
+        "c": "Economy",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Portuguese Establish Far East Trading Post",
+        "s": "In the 18th year of Jiajing (1539), Portuguese merchants established a smuggling trading post on Shuangyu Island off the coast of Ningbo, Zhejiang. Shuangyu was strategically located on the trade route between China and Japan. The Portuguese shipped Chinese silk and porcelain to Japan in exchange for silver, then brought silver back to China to buy more goods, forming a highly profitable triangular trade. At its peak, Shuangyu had about 1,000 Portuguese merchants and many Chinese smugglers. It was destroyed by the Ming navy in 1548.",
+        "a": 29.9,
+        "l": 122.2,
+        "c": "Economy",
+        "r": "Portugal",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1540,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "19th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Spain Suppresses Inca Resistance",
+        "s": "In 1540, Spanish conquistadors continued to suppress Inca resistance in Cochabamba and other areas of Peru. The Inca, under Manco Inca II, waged guerrilla warfare from their base at Vilcabamba.",
+        "a": -13.0,
+        "l": -72.0,
+        "c": "Military",
+        "r": "Spain",
+        "o": "South America"
+      },
+      {
+        "t": "Agricola Publishes 'De re metallica'",
+        "s": "In 1540 (actually 1556), German scholar Georgius Agricola published 'De re metallica', a comprehensive study of mining and metallurgical technology, the first of its kind in Europe.",
+        "a": 50.83,
+        "l": 12.92,
+        "c": "Science",
+        "r": "Holy Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Jesuits Send Xavier to the East",
+        "s": "In 1540, Jesuit founder Ignatius of Loyola sent the Spanish missionary Francis Xavier to Asia. Xavier arrived in Goa, India in 1542 and reached Japan in 1549. He is one of the most famous missionaries of the Catholic Church.",
+        "a": 15.3,
+        "l": 73.95,
+        "c": "Religion",
+        "r": "Portugal",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1541,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "20th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Calvin Returns to Geneva",
+        "s": "In September 1541, Calvin returned to Geneva at the invitation of its citizens. He began to implement a theocratic republic based on Calvinist doctrine. Geneva became the 'Protestant Rome', where Calvin preached and wrote.",
+        "a": 46.2,
+        "l": 6.15,
+        "c": "Religion",
+        "r": "Switzerland",
+        "o": "Europe"
+      },
+      {
+        "t": "Spain Founds Santiago",
+        "s": "On 12 February 1541, Spanish conquistador Pedro de Valdivia founded Santiago de Chile in central Chile. Santiago became the capital of Chile.",
+        "a": -33.45,
+        "l": -70.67,
+        "c": "Politics",
+        "r": "Spain",
+        "o": "South America"
+      },
+      {
+        "t": "Ottomans Capture Buda",
+        "s": "In August 1541, Ottoman Sultan Suleiman I captured the Hungarian capital of Buda. After the Battle of Mohács, Hungary had been divided into three parts: western Hungary to the Habsburgs, central Hungary as an Ottoman province, and eastern Hungary as the vassal Principality of Transylvania. Buda became an Ottoman province.",
+        "a": 47.5,
+        "l": 19.04,
+        "c": "Military",
+        "r": "Ottoman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1542,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "21st year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Portuguese 'Discover' Japan",
+        "s": "In 1542 (actually 1543), Portuguese merchants drifted to the Japanese island of Tanegashima. This was the first arrival of Europeans in Japan. The Portuguese brought matchlock guns (tanegashima) and Christianity. Japan gradually entered the era of 'Nanban trade'.",
+        "a": 30.5,
+        "l": 131.0,
+        "c": "Diplomacy",
+        "r": "Portugal",
+        "o": "Asia"
+      },
+      {
+        "t": "Ren Yin Palace Coup",
+        "s": "In the 21st year of Jiajing (1542), a group of palace maids led by Yang Jinying attempted to strangle the sleeping Jiajing Emperor with a silk cord but failed. The emperor narrowly escaped with his life. All the maids were executed by slow slicing. The Jiajing Emperor then moved out of the Qianqing Palace and lived in the Western Park.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "Vesalius Conducts Human Dissections",
+        "s": "In 1542, Belgian physician Andreas Vesalius conducted public human dissections at the University of Padua in Italy. He personally performed the dissections, breaking with the medieval practice of having barbers do the cutting. Vesalius discovered many errors in Galen's anatomical descriptions, leading to the publication of 'De Humani Corporis Fabrica' in 1543, marking the birth of modern anatomy.",
+        "a": 45.4,
+        "l": 11.87,
+        "c": "Science",
+        "r": "Italy",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1543,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "22nd year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Copernicus Publishes 'De revolutionibus'",
+        "s": "On 24 May 1543, Copernicus received a published copy of 'De revolutionibus orbium coelestium' just hours before his death. The book proposed the heliocentric theory – the Sun at the center of the universe, with Earth revolving around it. This marked the beginning of the Scientific Revolution.",
+        "a": 53.02,
+        "l": 18.59,
+        "c": "Science",
+        "r": "Poland",
+        "o": "Europe"
+      },
+      {
+        "t": "Vesalius Publishes 'De Humani Corporis Fabrica'",
+        "s": "In 1543, Belgian anatomist Andreas Vesalius published 'De Humani Corporis Fabrica'. The book, with precise anatomical illustrations, corrected many errors in Galen's anatomy and marked the birth of modern anatomy.",
+        "a": 50.85,
+        "l": 4.35,
+        "c": "Science",
+        "r": "Belgium",
+        "o": "Europe"
+      },
+      {
+        "t": "First Major Conflict Between Ming and Portugal",
+        "s": "In the 22nd year of Jiajing (1543), the Ming navy attacked Portuguese smugglers on Shuangyu Island (near the Zhoushan archipelago). The Portuguese had been driven from Tuen Mun in 1517 and then moved to Shuangyu, where they traded silk for silver with Japanese merchants. Ming naval commander Zhu Wan led forces to burn Portuguese buildings and ships, expelling them. The Portuguese then moved to Macau and were eventually allowed to settle there in 1557.",
+        "a": 29.9,
+        "l": 122.2,
+        "c": "Military",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1544,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "23rd year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "France Invades Italy",
+        "s": "In 1544, King Francis I of France again invaded Italy, contending with Holy Roman Emperor Charles V for the Duchy of Milan. French forces entered Piedmont but failed to achieve a decisive victory. The two sides signed the Treaty of Crépy in September 1544.",
+        "a": 44.5,
+        "l": 10.8,
+        "c": "Military",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Comyn Revolution",
+        "s": "In 1544, this likely refers to the war between Scotland and England. After King James V of Scotland was defeated at the Battle of Solway Moss in 1542, he died of shame. In 1544, an English army invaded Scotland, burning Edinburgh, forcing Scotland to ally with France against England.",
+        "a": 55.0,
+        "l": -3.0,
+        "c": "Military",
+        "r": "Scotland",
+        "o": "Europe"
+      },
+      {
+        "t": "Mass Production of Matchlock Guns in Japan",
+        "s": "In 1544 (Tenbun 13), Tanegashima Tokitaka, the lord of Tanegashima, successfully replicated the matchlock guns brought by the Portuguese. Thereafter, daimyos across Japan began copying them, and matchlock manufacturing spread rapidly to Sakai, Ōmi, Kii, and other regions. Oda Nobunaga famously used volley fire with matchlocks at the Battle of Nagashino (1575), and the spread of firearms fundamentally changed the nature of warfare in the Sengoku period.",
+        "a": 30.5,
+        "l": 131.0,
+        "c": "Science",
+        "r": "Japan",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1545,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "24th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Council of Trent Opens",
+        "s": "On 13 December 1545, Pope Paul III opened the Council of Trent (in Trento, northern Italy). The council aimed to respond to the Protestant Reformation, define Catholic doctrine, and implement internal reforms. The council met intermittently until 1563.",
+        "a": 46.07,
+        "l": 11.12,
+        "c": "Religion",
+        "r": "Papal States",
+        "o": "Europe"
+      },
+      {
+        "t": "Discovery of Potosí Silver Mines",
+        "s": "In 1545, Spanish colonists discovered extremely rich silver deposits at Potosí in Peru (present-day Bolivia). Mount Potosí produced about half of the world's silver by the mid-17th century. Spain used this silver to buy Asian goods.",
+        "a": -19.58,
+        "l": -65.75,
+        "c": "Economy",
+        "r": "Spain",
+        "o": "South America"
+      },
+      {
+        "t": "Christianity Introduced to Japan",
+        "s": "In 1549 (around 1545), Francis Xavier began his missionary work in Japan. Xavier arrived at Kagoshima in August 1549. He learned Japanese and discussed Christianity with Japanese intellectuals. By the 1580s, there were about 150,000 Japanese Christians.",
+        "a": 31.6,
+        "l": 130.55,
+        "c": "Religion",
+        "r": "Japan",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1546,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "25th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Death of Martin Luther",
+        "s": "On 18 February 1546, German Reformation leader Martin Luther died in his birthplace, Eisleben, at the age of 62. Luther had initiated the Reformation by posting his 95 Theses in 1517. He was buried in the Wittenberg church.",
+        "a": 51.9,
+        "l": 12.6,
+        "c": "Religion",
+        "r": "Holy Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Schmalkaldic War Breaks Out",
+        "s": "In 1546, Holy Roman Emperor Charles V, in alliance with the Pope and Catholic princes, launched war against the Protestant Schmalkaldic League. Charles's army defeated the Protestant forces at the Battle of Mühlberg (April 1547), capturing Elector John Frederick of Saxony and Landgrave Philip of Hesse. In the Augsburg Interim, Charles temporarily restored Catholic dominance in Germany.",
+        "a": 50.0,
+        "l": 10.0,
+        "c": "Military",
+        "r": "Holy Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Spain Establishes Viceroyalty of the Río de la Plata",
+        "s": "In 1546 (actually 1542), Spain established the Viceroyalty of the Río de la Plata (later upgraded in 1776), governing Argentina, Uruguay, Paraguay, and Bolivia. The capital was initially Asunción, later moved to Buenos Aires.",
+        "a": -34.6,
+        "l": -58.38,
+        "c": "Politics",
+        "r": "Spain",
+        "o": "South America"
+      }
+    ]
+  },
+  {
+    "y": 1547,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "26th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Ivan IV Crowned Tsar",
+        "s": "On 16 January 1547, Grand Prince Ivan IV of Moscow (Ivan the Terrible) was crowned Tsar of All Russia in the Dormition Cathedral in the Kremlin. This was the first use of the title 'Tsar' in Russian history.",
+        "a": 55.75,
+        "l": 37.62,
+        "c": "Politics",
+        "r": "Russia",
+        "o": "Europe"
+      },
+      {
+        "t": "Death of Henry VIII",
+        "s": "On 28 January 1547, King Henry VIII of England died at the Palace of Whitehall, aged 55. Henry reigned for 38 years (1509-1547). He is best known for breaking with the Roman Catholic Church over his divorce, establishing the Church of England via the Act of Supremacy in 1534, and declaring himself its Supreme Head. He carried out the English Reformation while retaining most Catholic doctrines. His nine-year-old son Edward VI succeeded him.",
+        "a": 51.5,
+        "l": -0.13,
+        "c": "Politics",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Enlightened Reforms",
+        "s": "In 1547, after being crowned tsar, Ivan the Terrible initiated early enlightened reforms. He established the 'Chosen Council', issued a new legal code, and limited the power of provincial governors, strengthening centralization. Ivan the Terrible was known as an 'enlightened autocrat' in his early years.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1548,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "27th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Spanish New Laws Revoked",
+        "s": "In 1548 (the 'New Laws' of 1542 were repealed or modified), King Charles V of Spain repealed or watered down the 'New Laws' that had sought to protect indigenous people from the worst abuses of the encomienda system. The laws had faced fierce opposition from colonists.",
+        "a": 19.43,
+        "l": -99.13,
+        "c": "Politics",
+        "r": "Spain",
+        "o": "North America"
+      },
+      {
+        "t": "Ming Executes Xia Yan",
+        "s": "In the 27th year of Jiajing (1548), Grand Secretary Xia Yan was falsely accused of bribery and usurpation of power by Yan Song. The Jiajing Emperor ordered Xia Yan beheaded. Xia Yan was a prominent minister of the Jiajing reign who had advocated a military plan to recover the Hetao region. Yan Song, coveting the position of senior grand secretary, used the emperor's anger over the failed Hetao plan to frame Xia Yan. After Xia Yan's death, Yan Song became senior grand secretary, monopolizing power for twenty years, openly selling offices and accelerating political decay.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "Toungoo Conquest of Pegu",
+        "s": "In 1548, Bayinnaung, the third king of the Toungoo Dynasty in Burma, led forces to capture the capital Pegu of the Pegu Kingdom, unifying southern Burma. The Pegu and Toungoo dynasties had been at war since the 1530s. Bayinnaung's elder brother Tabinshwehti had briefly unified Burma; Bayinnaung succeeded him, eventually annexing Pegu and then conquering Arakan and parts of Siam, establishing the largest empire in Burmese history. Bayinnaung extensively used Portuguese mercenaries and firearms.",
+        "a": 16.8,
+        "l": 96.15,
+        "c": "Military",
+        "r": "Toungoo Dynasty",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1549,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "28th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Xavier Arrives in Japan",
+        "s": "On 15 August 1549, the Jesuit missionary Francis Xavier arrived at Kagoshima, Japan, accompanied by two Japanese converts. He was warmly received by the Shimazu clan. Xavier spent over two years in Japan before leaving.",
+        "a": 31.6,
+        "l": 130.55,
+        "c": "Religion",
+        "r": "Japan",
+        "o": "Asia"
+      },
+      {
+        "t": "English Book of Common Prayer Issued",
+        "s": "In 1549, the English Parliament under Edward VI passed the Act of Uniformity, which issued the first Book of Common Prayer. Written in English instead of Latin, it prescribed the liturgy of the Church of England.",
+        "a": 51.5,
+        "l": -0.13,
+        "c": "Religion",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Brazil Colonial Government Moves Capital",
+        "s": "In 1549, King John III of Portugal established a central governor-general for Brazil. The first governor, Tomé de Sousa, moved the colonial government from Salvador to the area around Guanabara Bay (Rio de Janeiro). However, Brazil's capital remained at Salvador (Bahia) until 1763, when it was officially moved to Rio de Janeiro. The move reflected the southward shift of the Brazilian colonial center, linked to the expansion of sugarcane cultivation in the south.",
+        "a": -22.91,
+        "l": -43.2,
+        "c": "Politics",
+        "r": "Portugal",
+        "o": "South America"
+      }
+    ]
+  },
+  {
+    "y": 1550,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "29th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Rebellion of Altan Khan",
+        "s": "In the 29th year of Jiajing (1550), Altan Khan of the Mongols broke through the Great Wall and besieged Beijing. The Ming court hastily mobilized troops to defend the capital. Altan Khan plundered the outskirts of Beijing for eight days before departing with his loot. This was known as the 'Gengxu Incident'. The Ming had failed to resist effectively due to neglected border defenses.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Military",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "Toungoo Dynasty Unifies Burma",
+        "s": "In 1550, Bayinnaung, king of the Toungoo Dynasty in Burma, captured Ava, completing the second unification of Burma. Bayinnaung continued the expansion begun by his brother Tabinshwehti in the 1540s, conquering Upper Burma and the Shan states. At its height, the Toungoo Empire controlled present-day Burma, northern Thailand, western Laos, and parts of northeastern India, the largest empire in Burmese history. Bayinnaung is called the 'Alexander of Burma' for his military achievements.",
+        "a": 21.97,
+        "l": 96.08,
+        "c": "Politics",
+        "r": "Toungoo Dynasty",
+        "o": "Asia"
+      },
+      {
+        "t": "First Public Bank in Europe Established",
+        "s": "In 1550, the Republic of Genoa consolidated its scattered financial institutions into the Casa di San Giorgio (Bank of Saint George), the first public bank in Europe. The bank managed Genoa's public debt, taxes, and colonial revenues, took deposits, issued bonds, and made commercial loans. The Casa di San Giorgio was a precursor to modern central banking systems.",
+        "a": 44.4,
+        "l": 8.93,
+        "c": "Economy",
+        "r": "Genoa",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1551,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "30th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Macau Becomes Portuguese Settlement",
+        "s": "In 1551 (actually 1557), the Portuguese obtained permission from Guangdong authorities to settle on the Macau peninsula. The Portuguese paid an annual land rent of 500 taels of silver to the Ming. Macau gradually developed into an important international trading port.",
+        "a": 22.2,
+        "l": 113.5,
+        "c": "Diplomacy",
+        "r": "Portugal",
+        "o": "Asia"
+      },
+      {
+        "t": "Henry II Crowned King of France",
+        "s": "On 25 July 1547 (i.e., after Francis I's death), Henry II was crowned at Reims Cathedral. Henry II continued the Italian Wars against the Habsburgs, capturing the bishoprics of Metz, Toul, and Verdun in 1552. Domestically, he persecuted Huguenots (French Protestants), establishing special religious courts (the 'Chambre Ardente'). Religious tensions set the stage for the later French Wars of Religion.",
+        "a": 48.86,
+        "l": 2.35,
+        "c": "Politics",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Second Phase of the Council of Trent",
+        "s": "In May 1551, the Council of Trent reconvened for its second phase under Pope Julius III. It focused on the doctrine of transubstantiation in the Eucharist and on penance, explicitly rejecting Protestant positions. It also discussed reform measures such as bishops' residency and the establishment of seminaries. The council was suspended again in 1552 due to war.",
+        "a": 46.07,
+        "l": 11.12,
+        "c": "Religion",
+        "r": "Papal States",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1552,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "31st year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Russia Conquers Khanate of Kazan",
+        "s": "In 1552, Tsar Ivan IV of Russia led 150,000 troops to conquer the Khanate of Kazan on the middle Volga. Russian forces used mines to breach the walls and captured Kazan after a long siege. The fall of Kazan marked the end of Mongol-Tatar dominance (descendants of the Golden Horde) over Russia, opening the way for expansion into Siberia and the Urals. The Russians then captured the Khanate of Astrakhan in 1556, gaining control of the entire Volga River.",
+        "a": 55.78,
+        "l": 49.12,
+        "c": "Military",
+        "r": "Russia",
+        "o": "Europe"
+      },
+      {
+        "t": "Francis Xavier Dies on Shangchuan Island",
+        "s": "On 3 December 1552, Jesuit missionary Francis Xavier died of illness on Shangchuan Island off the coast of Guangdong. Xavier had hoped to enter China to preach but was refused entry. He died longing to enter China.",
+        "a": 21.73,
+        "l": 112.78,
+        "c": "Religion",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "Peace of Passau Signed",
+        "s": "In 1552, Holy Roman Emperor Charles V signed the Peace of Passau with the Protestant princes. The treaty guaranteed religious freedom to Protestants and provided legal protection to the Protestant princes.",
+        "a": 48.57,
+        "l": 13.47,
+        "c": "Diplomacy",
+        "r": "Holy Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1553,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "32nd year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Mary I Ascends the Throne",
+        "s": "On 19 July 1553, after the nine-day queen Lady Jane Grey was deposed, Mary I entered London and was formally crowned queen. Mary was the daughter of Henry VIII and Catherine of Aragon, a devout Catholic.",
+        "a": 51.5,
+        "l": -0.13,
+        "c": "Politics",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Shanghai Built Walled City",
+        "s": "In the 32nd year of Jiajing (1553), to defend against rampant wokou (Japanese pirate) raids, the Ming approved the construction of a city wall around the town of Shanghai in Songjiang Prefecture. Shanghai built a wall about 4.5 km long in just three months, with six gates and water gates. The wall upgraded Shanghai from a market town to a fortified county seat, promoting its economic development. Shanghai gradually became a major trading port in the Jiangnan region.",
+        "a": 31.23,
+        "l": 121.47,
+        "c": "Military",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "Portuguese Expelled from Guangzhou",
+        "s": "In the 32nd year of Jiajing (1553), the Ming government, angered by Portuguese smuggling, occupation of Tuen Mun and Shuangyu, and kidnapping of Chinese, ordered the expulsion of all Portuguese from Guangzhou, cutting off official trade. The Portuguese were forced to move to remote ports for smuggling. In 1557, the Portuguese, using the pretext of 'drying out goods', were allowed to settle on the Macau peninsula, and Sino-Portuguese trade resumed and flourished.",
+        "a": 23.13,
+        "l": 113.27,
+        "c": "Diplomacy",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1554,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "33rd year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Mary I Marries Philip II",
+        "s": "On 25 July 1554, Queen Mary I of England married Prince Philip of Spain (later King Philip II) at Winchester Cathedral. Under the marriage treaty, Philip received the title of King of England but with no real power, and England would not be drawn into Spain's wars. Nevertheless, Mary dragged England into Spain's war against France, resulting in the loss of Calais (England's last continental possession) in 1558.",
+        "a": 51.5,
+        "l": -0.13,
+        "c": "Politics",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Wokou Plague the Coast",
+        "s": "In the 33rd year of Jiajing (1554), the activities of wokou (Japanese pirates) along the southeast coast reached their peak. The wokou were a mix of Japanese ronin, Chinese pirates, and smugglers. They raided coastal prefectures in Zhejiang, Fujian, and Guangdong. The Ming court increased troops and appointed generals to defend against them.",
+        "a": 28.0,
+        "l": 120.0,
+        "c": "Military",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "Spain Conquers Colombia",
+        "s": "In 1554, Spanish colonists further consolidated their control over present-day Colombia. Bogotá (founded 1538) and Cartagena became major colonial cities. Colombia's gold production was significant.",
+        "a": 4.6,
+        "l": -74.08,
+        "c": "Military",
+        "r": "Spain",
+        "o": "South America"
+      }
+    ]
+  },
+  {
+    "y": 1555,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "34th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Peace of Augsburg",
+        "s": "On 25 September 1555, Holy Roman Emperor Charles V and the German Protestant princes signed the Peace of Augsburg at the Diet of Augsburg. It established the principle of 'cuius regio, eius religio' – the ruler of a territory would determine its religion (either Catholicism or Lutheranism).",
+        "a": 48.37,
+        "l": 10.9,
+        "c": "Religion",
+        "r": "Holy Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Qi Jiguang Forms Qi Family Army",
+        "s": "In the 34th year of Jiajing (1555), the Ming general Qi Jiguang recruited about 3,000 brave miners and peasants from Yiwu, Zhejiang, to form the famous 'Qi Family Army'. He developed the 'Mandarin Duck Formation' – a squad of eleven soldiers armed with wolf brushes, long spears, rattan shields, and sabers, fighting in coordination. After rigorous training, the Qi Family Army became one of the finest Ming forces, achieving great victories, such as the Taizhou victory, in the fight against wokou pirates.",
+        "a": 29.3,
+        "l": 120.0,
+        "c": "Military",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "Mughals Conquer Bengal",
+        "s": "In 1555, Mughal Emperor Humayun, with the help of the Safavid Empire, recaptured Delhi. He then sent an army to conquer Bengal. Humayun died less than a year later in an accident. His son Akbar succeeded him and led the Mughal Empire to its zenith.",
+        "a": 23.7,
+        "l": 90.4,
+        "c": "Military",
+        "r": "Mughal Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1556,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "35th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Charles V Abdicates",
+        "s": "In 1556, Holy Roman Emperor Charles V formally abdicated. He gave the imperial title to his brother Ferdinand I and the Spanish and Dutch territories to his son Philip II. Charles retired to the Monastery of Yuste in Spain.",
+        "a": 40.4,
+        "l": -3.7,
+        "c": "Politics",
+        "r": "Spain",
+        "o": "Europe"
+      },
+      {
+        "t": "Akbar Succeeds as Mughal Emperor",
+        "s": "In 1556, the 14-year-old Akbar the Great formally became the Mughal Emperor. Akbar reigned for nearly fifty years (1556-1605), through military conquest and religious tolerance, he brought the Mughal Empire to its zenith.",
+        "a": 28.61,
+        "l": 77.23,
+        "c": "Politics",
+        "r": "Mughal Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Shaanxi Huaxian Earthquake",
+        "s": "On 23 January 1556 (12th day of the 12th month of the 34th year of Jiajing), a massive earthquake, estimated at magnitude 8, struck Huaxian, Shaanxi. It affected Shaanxi, Gansu, Shanxi, and Henan provinces, killing about 830,000 people (including those who died from famine and plague). It is the deadliest earthquake in recorded history.",
+        "a": 34.5,
+        "l": 109.7,
+        "c": "Society",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1557,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "36th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Portuguese Formally Settle in Macau",
+        "s": "In the 36th year of Jiajing (1557), the Portuguese, through bribing Guangdong officials, formally obtained permission to settle on the Macau peninsula. The Portuguese paid land rent, and built houses, churches, and forts in Macau. Macau became Portugal's base for trade and missionary work in the Far East.",
+        "a": 22.2,
+        "l": 113.5,
+        "c": "Diplomacy",
+        "r": "Portugal",
+        "o": "Asia"
+      },
+      {
+        "t": "Battle of St. Quentin",
+        "s": "On 10 August 1557, the Spanish army of King Philip II defeated the French at St. Quentin in northeastern France. The French commander, Montmorency, was captured. This victory was a major late triumph for Spain in the Italian Wars.",
+        "a": 49.85,
+        "l": 3.28,
+        "c": "Military",
+        "r": "Spain",
+        "o": "Europe"
+      },
+      {
+        "t": "Ottoman Conquest of Morocco",
+        "s": "In 1557, the Ottoman Empire, under the command of the Governor of Algiers, Salih Rais, sent troops into Morocco and captured the Fes region. The Moroccan Saadian Sultan Muhammad al-Shaykh, facing the Ottoman threat, sought an alliance with Spain. The Ottomans stationed a governor and janissaries in Morocco, nominally recognizing the Saadian dynasty's rule but actually controlling northeastern Morocco.",
+        "a": 34.03,
+        "l": -5.0,
+        "c": "Military",
+        "r": "Ottoman Empire",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": 1558,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "37th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Elizabeth I Ascends the Throne",
+        "s": "On 17 November 1558, Queen Mary I of England died, and her half-sister Elizabeth I ascended the throne. Elizabeth reigned for 45 years (1558-1603), becoming one of England's greatest monarchs. During her reign, England established its state church.",
+        "a": 51.5,
+        "l": -0.13,
+        "c": "Politics",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "France Captures Calais",
+        "s": "In January 1558, the French Duke of Guise, François de Lorraine, led forces to capture Calais, England's last continental possession. Calais had been under English control since 1347, over two hundred years. Its loss marked the end of the legacy of the Hundred Years' War.",
+        "a": 50.95,
+        "l": 1.85,
+        "c": "Military",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Ashikaga Yoshiteru Killed in Japan",
+        "s": "In 1565 (Eiroku 8), the Miyoshi Triumvirate (Miyoshi Nagayasu, Miyoshi Masakatsu, Iwanari Tomomichi) and Matsunaga Hisahide attacked the shogunal palace in Kyoto. The 13th shogun, Ashikaga Yoshiteru, fought back, killing several attackers before being overwhelmed and killed. Yoshiteru's death marked the complete collapse of the Ashikaga shogunate's effective power. His younger brother, Ashikaga Yoshiaki, later became the 14th shogun with the help of Oda Nobunaga but was a puppet of Nobunaga.",
+        "a": 35.0,
+        "l": 135.7,
+        "c": "Military",
+        "r": "Japan",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1559,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "38th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Treaty of Cateau-Cambrésis",
+        "s": "On 2–3 April 1559, France and Spain signed the Treaty of Cateau-Cambrésis, ending decades of the Italian Wars. France renounced its territorial claims in Italy, while Spain (the Habsburgs) established its dominance over Italy.",
+        "a": 50.1,
+        "l": 3.2,
+        "c": "Diplomacy",
+        "r": "Spain",
+        "o": "Europe"
+      },
+      {
+        "t": "Prelude to the French Wars of Religion",
+        "s": "After the death of King Henry II of France in 1559, power struggles intensified between the Huguenots (French Protestants) and the Catholic faction. The French Wars of Religion formally broke out in 1562 after the Massacre of Vassy.",
+        "a": 48.86,
+        "l": 2.35,
+        "c": "Politics",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Elizabeth's Religious Settlement Passed",
+        "s": "In 1559, Elizabeth I pushed Parliament to pass the Acts of Supremacy and Uniformity (together known as the Elizabethan Religious Settlement). The Church of England was restored as an independent body, following a middle path that blended Catholic ritual with Calvinist theology.",
+        "a": 51.5,
+        "l": -0.13,
+        "c": "Religion",
+        "r": "England",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1560,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "39th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Okehazama",
+        "s": "In 1560 (Eiroku 3), Oda Nobunaga's forces ambushed and defeated the much larger army of Imagawa Yoshimoto at Okehazama (present-day Toyoake, Aichi Prefecture). Imagawa Yoshimoto was killed. This victory made Oda Nobunaga famous and began his campaign to unify Japan.",
+        "a": 35.0,
+        "l": 137.0,
+        "c": "Military",
+        "r": "Japan",
+        "o": "Asia"
+      },
+      {
+        "t": "Songhai Empire at its Peak",
+        "s": "Around 1560, the Songhai Empire in West Africa, under Askia the Great, reached its height. The Songhai Empire was one of the largest in West African history, with Gao as a major center of learning and commerce.",
+        "a": 16.0,
+        "l": -3.0,
+        "c": "Politics",
+        "r": "Songhai Empire",
+        "o": "Africa"
+      },
+      {
+        "t": "Scottish Reformation",
+        "s": "In 1560, the Scottish Parliament passed laws abolishing the Pope's authority in Scotland, banning the Mass, and establishing the Presbyterian Church (a Calvinist denomination). The Reformation was led primarily by John Knox.",
+        "a": 55.95,
+        "l": -3.2,
+        "c": "Religion",
+        "r": "Scotland",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1561,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "40th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Religious Freedom in Transylvania",
+        "s": "In 1561, the Principality of Transylvania (now central Romania), under John Sigismund Zápolya, declared religious freedom for Catholics, Lutherans, Calvinists, and Unitarians. This was one of the earliest examples of religious toleration in the Reformation era.",
+        "a": 46.5,
+        "l": 24.0,
+        "c": "Religion",
+        "r": "Transylvania",
+        "o": "Europe"
+      },
+      {
+        "t": "Qi Jiguang's Great Victory at Taizhou",
+        "s": "In the 40th year of Jiajing (1561), wokou pirates invaded Taizhou, Zhejiang, in force. General Qi Jiguang, leading his 3,000-man Qi Family Army, won nine consecutive victories in the Taizhou area. The Qi army used the innovative 'Mandarin Duck Formation', with wolf brushes, long spears, and rattan shields coordinated in small squads, effectively countering the pirates. The Taizhou campaign killed more than 4,000 wokou and essentially eliminated the pirate menace in Zhejiang. Qi later wrote the 'New Treatise on Military Efficiency' summarizing his training and combat experience.",
+        "a": 28.7,
+        "l": 121.4,
+        "c": "Military",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "Beginnings of the Spanish Armada",
+        "s": "In 1561, King Philip II of Spain ordered the construction of large galleons and the strengthening of the navy to protect the silver shipping lanes between Spain and the Americas. These warships, equipped with heavy artillery, were excellent for long-distance sailing. The Spanish fleet would play a key role at the Battle of Lepanto (1571). However, Philip II's naval expansion plans strained the treasury.",
+        "a": 36.5,
+        "l": -6.2,
+        "c": "Military",
+        "r": "Spain",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1562,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "41st year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "French Wars of Religion Erupt",
+        "s": "On 1 March 1562, Francis, Duke of Guise, massacred a Huguenot congregation at Vassy, triggering the French Wars of Religion (1562-1598). The conflict seesawed between the Huguenot and Catholic factions.",
+        "a": 48.86,
+        "l": 2.35,
+        "c": "Military",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Yan Song Falls from Power",
+        "s": "In the 41st year of Jiajing (1562), the powerful Grand Secretary Yan Song lost the favor of the Jiajing Emperor due to plots by Xu Jie. The emperor dismissed Yan Song, confiscated his property, and executed his son Yan Shifan. Yan Song had monopolized power for twenty years (1542-1562), selling offices, persecuting rivals, leading to corruption and neglected border defenses. The confiscation yielded over 30,000 taels of gold and 2 million taels of silver. Yan Song's downfall briefly improved Jiajing's late reign, but the emperor continued to neglect affairs and the Ming's decline was not reversed.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "John Hawkins Begins Slave Trading",
+        "s": "In 1562, English navigator John Hawkins made the first English voyage in the Atlantic slave trade. He captured about 300 Africans and sold them in Spanish colonies in the Caribbean. Queen Elizabeth tacitly permitted this trade.",
+        "a": 18.5,
+        "l": -69.9,
+        "c": "Economy",
+        "r": "England",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": 1563,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "42nd year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Council of Trent Closes",
+        "s": "The third and final phase of the Council of Trent convened in 1562-1563 under Pope Pius IV. It closed on 4 December 1563. The council clarified Catholic doctrines that differed from Protestantism (on sacraments, the Mass, veneration of saints, etc.) and implemented internal reforms (establishing seminaries, prohibiting pluralism, requiring bishops to reside in their dioceses). The decrees of the Council of Trent became the guiding principles for the Catholic Church for the next four centuries, profoundly affecting European religious and political landscapes.",
+        "a": 46.07,
+        "l": 11.12,
+        "c": "Religion",
+        "r": "Papal States",
+        "o": "Europe"
+      },
+      {
+        "t": "English Thirty-Nine Articles",
+        "s": "In 1563, the Church of England under Elizabeth I issued the Thirty-Nine Articles as the doctrinal standard of the English church. Revised from the Forty-Two Articles of 1552, they are theologically between Catholicism and Calvinism: affirming justification by faith, rejecting transubstantiation, but retaining episcopacy and some liturgical elements. The Thirty-Nine Articles remain the doctrinal foundation of the Anglican Communion.",
+        "a": 51.5,
+        "l": -0.13,
+        "c": "Religion",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Florence Academy of Art Founded",
+        "s": "In 1563, Cosimo I de' Medici, Duke of Florence, on the advice of the painter Giorgio Vasari, founded the Accademia delle Arti del Disegno (Academy of the Arts of Drawing) in Florence. It was one of the first art academies in Europe.",
+        "a": 43.77,
+        "l": 11.25,
+        "c": "Culture",
+        "r": "Italy",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1564,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "43rd year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "William Shakespeare Born",
+        "s": "On 26 April 1564 (baptismal date), William Shakespeare was born in Stratford-upon-Avon, Warwickshire, England. His father, John Shakespeare, was a glover and alderman. Shakespeare attended the local grammar school, learning Latin and classics. He married Anne Hathaway at age 18. He later went to London, becoming an actor and playwright, writing 37 plays and 154 sonnets. His works, such as 'Hamlet', 'Macbeth', and 'King Lear', are considered the highest achievement in English literature.",
+        "a": 52.19,
+        "l": -1.71,
+        "c": "Culture",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Michelangelo Dies",
+        "s": "On 18 February 1564, the Renaissance master Michelangelo Buonarroti died in Rome at the age of 89. Michelangelo was a sculptor, painter, architect, and poet. His masterpieces include the statue of 'David', the 'Pietà', the ceiling of the Sistine Chapel ('Genesis'), and the design of the dome of St. Peter's Basilica. At his death, he was still considered the greatest living artist.",
+        "a": 41.9,
+        "l": 12.45,
+        "c": "Culture",
+        "r": "Papal States",
+        "o": "Europe"
+      },
+      {
+        "t": "Russia Conquers Astrakhan",
+        "s": "In 1556 (not 1564), Ivan the Terrible's forces captured the Khanate of Astrakhan, bringing the lower Volga and Caspian Sea trade routes under Russian control.",
+        "a": 46.35,
+        "l": 48.03,
+        "c": "Military",
+        "r": "Russia",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1565,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "44th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Spain Colonizes the Philippines",
+        "s": "In 1565, Miguel López de Legazpi established the first Spanish colony in the Philippines at Cebu. Legazpi was appointed the first Governor-General of the Philippines.",
+        "a": 10.3,
+        "l": 123.9,
+        "c": "Military",
+        "r": "Spain",
+        "o": "Asia"
+      },
+      {
+        "t": "Great Siege of Malta",
+        "s": "In May 1565, Ottoman Sultan Suleiman the Magnificent laid siege to the island of Malta with about 40,000 men. The defenders, about 6,000 Knights Hospitaller under Grand Master Jean de Valette, held out fiercely using Fort St. Elmo and other fortifications. After four months of bloody fighting, the Ottomans withdrew in September having lost about 20,000 men. The Great Siege of Malta was one of the most famous sieges of the 16th century, halting Ottoman expansion into the central and western Mediterranean.",
+        "a": 35.9,
+        "l": 14.5,
+        "c": "Military",
+        "r": "Knights Hospitaller",
+        "o": "Europe"
+      },
+      {
+        "t": "Jiajing Emperor Pursues Taoism",
+        "s": "In the 44th year of Jiajing (1565), the Jiajing Emperor continued to spend his days alchemy, seeking immortality in the Western Park, neglecting state affairs. Yan Song had fallen, and Xu Jie became Senior Grand Secretary. The emperor was preoccupied with alchemy and immortality, leaving government in decay.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1566,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Jiajing Emperor Zhu Houcong",
+        "e": "45th year of Jiajing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Death of Suleiman the Magnificent",
+        "s": "On 7 September 1566, Ottoman Sultan Suleiman the Magnificent died in his tent during the Siege of Szigetvár, aged 72. Suleiman reigned for 46 years and is considered the greatest Ottoman sultan.",
+        "a": 46.0,
+        "l": 18.0,
+        "c": "Politics",
+        "r": "Ottoman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Dutch Nobles Revolt Against Spain",
+        "s": "In 1566, Dutch nobles led by William of Orange, Count Egmont, and Count Horn formed the 'Compromise of Nobles' and presented a petition to the Spanish governor, Margaret of Parma, demanding an end to religious persecution. Later that year, Protestants launched the Iconoclastic Fury.",
+        "a": 52.0,
+        "l": 5.0,
+        "c": "Politics",
+        "r": "Netherlands",
+        "o": "Europe"
+      },
+      {
+        "t": "Death of the Jiajing Emperor",
+        "s": "In December 1566 (the 45th year of Jiajing), the Jiajing Emperor died in the Qianqing Palace, aged 60. He reigned for 45 years (1521-1566), the longest actual reign of the Ming dynasty. In his later years, he neglected state affairs, pursuing alchemy and immortality in the Western Park. His son, Prince Yu Zhu Zaihou (the Longqing Emperor) succeeded him. Xu Jie drafted the abdication edict, rehabilitating officials who had been punished for remonstrating against Jiajing and releasing the imprisoned Hai Rui.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1567,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Longqing Emperor Zhu Zaihou",
+        "e": "1st year of Longqing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Longqing Customs Opening",
+        "s": "In the 1st year of Longqing (1567), the Longqing Emperor, accepting a proposal from Fujian Governor Tu Zemin, formally lifted the maritime ban, allowing private merchants to trade overseas. The court established a customs house (Superintendent's Office) at Yuegang (Moon Harbor) in Zhangzhou, Fujian, to levy tariffs on imports and exports. Although only Yuegang was opened, this marked a major shift from the strict maritime bans imposed since the early Ming. The Longqing opening led to a massive influx of silver into China through foreign trade, stimulating commercial development.",
+        "a": 24.45,
+        "l": 117.8,
+        "c": "Economy",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "Duke of Alva Suppresses the Netherlands",
+        "s": "In 1567, King Philip II of Spain dispatched the Duke of Alva with 10,000 elite Spanish troops via the 'Spanish Road' to the Netherlands. Alva established the Council of Troubles (the 'Blood Council'), executing about 8,000 rebels and Protestants, including Counts Egmont and Horn. However, the heavy-handed repression backfired, sparking even larger revolts.",
+        "a": 50.9,
+        "l": 4.4,
+        "c": "Military",
+        "r": "Spain",
+        "o": "Europe"
+      },
+      {
+        "t": "Russo-Swedish War",
+        "s": "In 1567, Tsar Ivan IV of Russia and King Eric XIV of Sweden went to war over territories in Livonia and Estonia. Russia sought access to the Baltic Sea. The Livonian War (1558-1583) between them involved fighting for control of the Baltic coast.",
+        "a": 59.0,
+        "l": 24.0,
+        "c": "Military",
+        "r": "Russia",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1568,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Longqing Emperor Zhu Zaihou",
+        "e": "2nd year of Longqing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eighty Years' War Begins",
+        "s": "In 1568, the provinces of the Netherlands (Holland, Belgium) rose in revolt against Habsburg Spanish rule, led by William I of Orange. The Eighty Years' War (1568-1648) formally began. Causes included Spanish high taxation, religious persecution (Protestants), and loss of local autonomy. The rebels gradually gained advantages through sea-beggar raids and land campaigns. In 1581, the northern provinces declared independence, forming the Dutch Republic. The independence was formally recognized in the Peace of Westphalia (1648).",
+        "a": 52.1,
+        "l": 4.3,
+        "c": "Military",
+        "r": "Netherlands",
+        "o": "Europe"
+      },
+      {
+        "t": "Spanish Suppression Fails",
+        "s": "In 1568, King Philip II of Spain sent the Duke of Alva with an army to suppress the Dutch revolt. Alva used iron-fisted tactics, establishing the 'Council of Troubles' (Blood Council) and executing thousands of Protestants and rebels. Militarily, however, Spain could not destroy the rebel forces. William the Silent's brother Louis was defeated at the Battle of Heiligerlee, but William himself continued resistance at sea and in the northern provinces. Alva's harshness only deepened Dutch resistance.",
+        "a": 52.0,
+        "l": 5.0,
+        "c": "Military",
+        "r": "Spain",
+        "o": "Europe"
+      },
+      {
+        "t": "Ming Pacifies Northern and Southern Threats",
+        "s": "In the 2nd year of Longqing (1568), two major frontier threats to the Ming – the northern Mongol Altan Khan and the southeastern wokou pirates – were largely pacified. In the north, the Longqing Emperor reached a peace with Altan Khan, granting him the title of 'Prince Shunyi' and opening border markets. In the south, after years of suppression by Qi Jiguang, Tan Lun, and others, the wokou menace in Zhejiang and Fujian was essentially eliminated. The easing of these threats greatly improved the Ming's border situation and saved considerable military expenditure.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Diplomacy",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1569,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Longqing Emperor Zhu Zaihou",
+        "e": "3rd year of Longqing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Union of Lublin",
+        "s": "On 1 July 1569, the Kingdom of Poland and the Grand Duchy of Lithuania formally signed the Union of Lublin, merging into the Polish-Lithuanian Commonwealth. They shared a monarch (elected), a parliament (Sejm), and a common foreign and monetary policy. This was one of the largest (about 1 million square kilometers) and most populous (about 7.5 million) countries in Europe at the time, with a unique 'noble democracy' system.",
+        "a": 51.2,
+        "l": 22.6,
+        "c": "Politics",
+        "r": "Poland",
+        "o": "Europe"
+      },
+      {
+        "t": "Catherine de' Medici Regent",
+        "s": "In 1569, although King Charles IX of France had reached the age of majority (18), his mother, Queen Regent Catherine de' Medici, still held real political power. Catherine tried to maintain a balance between the Catholic and Huguenot factions but failed.",
+        "a": 48.86,
+        "l": 2.35,
+        "c": "Politics",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Burma Invades Siam",
+        "s": "In 1568-1569, Bayinnaung, king of the Toungoo Dynasty of Burma, led a large invasion of the Ayutthaya Kingdom of Siam. The Burmese used Portuguese mercenary artillery, and after a siege of ten months, captured Ayutthaya in August 1569. King Mahin of Siam was taken to Burma. Bayinnaung installed a pro-Burmese puppet, Maha Thammaracha, as king, reducing Ayutthaya to a Burmese vassal for fifteen years, required to pay annual tribute in elephants and silver.",
+        "a": 13.7,
+        "l": 100.5,
+        "c": "Military",
+        "r": "Toungoo Dynasty",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1570,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Longqing Emperor Zhu Zaihou",
+        "e": "4th year of Longqing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Pope Excommunicates Elizabeth I",
+        "s": "On 25 February 1570, Pope Pius V issued the bull 'Regnans in Excelsis', excommunicating Queen Elizabeth I of England and absolving her subjects from allegiance to her. This increased the loyalty dilemma for English Catholics.",
+        "a": 41.9,
+        "l": 12.45,
+        "c": "Religion",
+        "r": "Papal States",
+        "o": "Europe"
+      },
+      {
+        "t": "Battle of Nagashino",
+        "s": "In 1575 (Tensho 3), Oda Nobunaga and Tokugawa Ieyasu defeated Takeda Katsuyori's cavalry charge at Nagashino (now Aichi Prefecture) using massed volley fire of matchlocks. This battle marked the end of the dominance of cavalry in Japanese warfare.",
+        "a": 34.98,
+        "l": 137.6,
+        "c": "Military",
+        "r": "Japan",
+        "o": "Asia"
+      },
+      {
+        "t": "Ottoman-Venetian War over Cyprus",
+        "s": "In 1570, the Ottoman Empire launched a major invasion of Cyprus, a Venetian possession. The war lasted until 1573, with the Ottomans capturing Cyprus.",
+        "a": 35.0,
+        "l": 33.0,
+        "c": "Military",
+        "r": "Venice",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1571,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Longqing Emperor Zhu Zaihou",
+        "e": "5th year of Longqing"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Lepanto",
+        "s": "On 7 October 1571, a combined Spanish-Venetian fleet under Don John of Austria defeated the Ottoman fleet at Lepanto in the Gulf of Patras. The Christian fleet of about 200 ships sank or captured about 200 Ottoman ships. It was one of the largest naval battles in Mediterranean history.",
+        "a": 38.3,
+        "l": 21.4,
+        "c": "Military",
+        "r": "Spain",
+        "o": "Europe"
+      },
+      {
+        "t": "Spanish Governor-General in the Philippines",
+        "s": "In 1571, Legazpi established a colonial government in Manila. He built Fort Santiago and San Agustin Church. Manila quickly became the center of Spanish colonial administration in Asia and the hub of the Manila galleon trade.",
+        "a": 14.6,
+        "l": 120.98,
+        "c": "Politics",
+        "r": "Spain",
+        "o": "Asia"
+      },
+      {
+        "t": "Three Rivers Rebellion",
+        "s": "In the 5th year of Longqing (1571), a rebellion broke out in Gutan County, Guilin Prefecture, Guangxi, led by the Zhuang leader Wei Yinbao. The rebels captured Lipu County and killed the magistrate. Using the mountainous terrain, they fought the Ming for two years. The Ming court dispatched Governor-General Yin Zhengmao with 100,000 troops, and the rebellion was finally suppressed in 1573, with Wei Yinbao captured and executed. This rebellion was one of the larger ethnic minority uprisings in mid-Ming Guangxi, reflecting the Ming's governance crisis in the southwestern ethnic borderlands.",
+        "a": 24.5,
+        "l": 110.3,
+        "c": "Military",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1572,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "1st year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "St. Bartholomew's Day Massacre",
+        "s": "On 24 August 1572 (St. Bartholomew's Day), French Catholics launched a systematic massacre of Huguenots (French Protestants) in Paris. The massacre spread to the provinces over the next few days, with death toll estimates ranging from 5,000 to 30,000.",
+        "a": 48.86,
+        "l": 2.35,
+        "c": "Religion",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Zhang Juzheng Becomes Grand Secretary",
+        "s": "In the 6th year of Longqing (1572), the Wanli Emperor, aged ten, ascended the throne. After the dismissal of Grand Secretary Gao Gong, Zhang Juzheng, with the support of Empress Dowager Li and eunuch Feng Bao, became Senior Grand Secretary. Zhang immediately implemented the 'Examination Law', strictly evaluating the administrative performance of officials, with ministries and the Censorate graded on their completion of paperwork. Subsequently, he promoted the 'Single Whip Law' tax reform and land surveys. Zhang Juzheng's ten years in power ushered in the 'Wanli Restoration'.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "Sea Beggars Capture Brielle",
+        "s": "On 1 April 1572, the 'Sea Beggars' – Dutch rebels – captured the port city of Brielle in Holland. This was the first major city captured by the rebels in the Eighty Years' War.",
+        "a": 51.9,
+        "l": 4.6,
+        "c": "Military",
+        "r": "Netherlands",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1573,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "1st year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Zhang Juzheng's Reforms Implemented",
+        "s": "In the 1st year of Wanli (1573), Senior Grand Secretary Zhang Juzheng implemented comprehensive reforms, the core of which was the 'Examination Law': the Six Ministries and the Censorate set deadlines for officials' tasks, with graded inspections, and officials failing to meet deadlines were investigated by superiors. The Examination Law greatly improved bureaucratic efficiency. At the same time, Zhang ordered a nationwide land survey, uncovering large amounts of land hidden by powerful families and increasing the tax base. These reforms laid the institutional foundation for the Single Whip Law and the 'Wanli Restoration'.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "Spanish Capture Haarlem",
+        "s": "In 1573, Spanish forces captured Haarlem after a seven-month siege. The defenders fought tenaciously, but the city fell. Spanish troops massacred the population. However, Haarlem's resistance bought time for other cities.",
+        "a": 52.38,
+        "l": 4.63,
+        "c": "Military",
+        "r": "Spain",
+        "o": "Europe"
+      },
+      {
+        "t": "Takeda Clan Destroyed in Japan",
+        "s": "In 1573 (Tensho 1), Oda Nobunaga launched a total attack on the Takeda clan. After Takeda Katsuyori's crushing defeat at Nagashino (1575), his power declined. In 1582, Oda Nobunaga, in league with Tokugawa Ieyasu, besieged the Takeda's last stronghold in Kai Province (present-day Yamanashi Prefecture). Takeda Katsuyori, surrounded and hopeless, committed suicide near Mount Tenmoku. The destruction of the Takeda, who had ruled for about 400 years, marked the end of the era of warlord fragmentation and accelerated Oda Nobunaga's unification.",
+        "a": 35.8,
+        "l": 138.5,
+        "c": "Military",
+        "r": "Japan",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1574,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "2nd year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Relief of Leiden",
+        "s": "In October 1574, under the command of William of Orange, Dutch rebels breached dikes to flood the Spanish siege lines, successfully relieving the city of Leiden after months of siege. William proposed founding Leiden University in commemoration.",
+        "a": 52.16,
+        "l": 4.48,
+        "c": "Military",
+        "r": "Netherlands",
+        "o": "Europe"
+      },
+      {
+        "t": "Ottomans Capture Tunis",
+        "s": "In 1574, the Ottoman navy under Uluch Ali seized Tunis from the Spanish. After the Battle of Lepanto (1571), Spain had briefly retaken Tunis, but the Ottomans quickly counterattacked. King Philip II of Spain, preoccupied with the Dutch Revolt and Anglo-Spanish tensions, could not mount another large-scale expedition. Tunis remained an Ottoman province for a long time, and Spain completely lost control of North Africa.",
+        "a": 36.8,
+        "l": 10.18,
+        "c": "Military",
+        "r": "Ottoman Empire",
+        "o": "Africa"
+      },
+      {
+        "t": "Ming Land Survey",
+        "s": "From the 2nd to 6th years of Wanli (1574-1578), Zhang Juzheng's nationwide land survey was carried out in the provinces. The court dispatched officials to measure fields, register them in cadastral books, and verify ownership. The survey uncovered about 3 million mu (about 500,000 acres) of hidden land, registering over 7 million qing (about 70 million acres) nationwide. The survey heavily struck at powerful landlords hiding land to evade taxes, increasing state revenue. However, in some areas, implementation problems, harassment of the people, and measurement errors occurred.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Economy",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1575,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "3rd year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Spain Declares Bankruptcy",
+        "s": "In 1575, King Philip II of Spain, due to continuous wars (in the Netherlands and the Mediterranean), faced fiscal bankruptcy and announced a suspension of debt repayments. This triggered panic in European financial markets. Spain would declare bankruptcy several times in the 16th century.",
+        "a": 40.4,
+        "l": -3.7,
+        "c": "Economy",
+        "r": "Spain",
+        "o": "Europe"
+      },
+      {
+        "t": "Chōsokabe Unifies Shikoku",
+        "s": "In 1575 (Tensho 3), Chōsokabe Motochika, the daimyo of Tosa province, basically completed the unification of Shikoku Island after years of warfare. He successively conquered Awa, Sanuki, and Iyo provinces, styling himself as the deputy shugo of Tosa. Chōsokabe adopted the 'Ichiryo-gusoku' policy (peasants farmed in peacetime and fought in wartime), building a strong grassroots military organization. He refused to submit to Oda Nobunaga, leading to confrontation. In 1585, Toyotomi Hideyoshi launched an invasion of Shikoku, and Chōsokabe surrendered.",
+        "a": 33.6,
+        "l": 133.5,
+        "c": "Military",
+        "r": "Japan",
+        "o": "Asia"
+      },
+      {
+        "t": "Mughals Conquer Gujarat",
+        "s": "In 1575 (actually 1573), Mughal Emperor Akbar conquered the Gujarat Sultanate. Gujarat had major ports such as Surat and was India's gateway for trade with the Middle East.",
+        "a": 23.0,
+        "l": 72.5,
+        "c": "Military",
+        "r": "Mughal Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1576,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "4th year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Spanish Fury at Antwerp",
+        "s": "On 4 November 1576, mutinous Spanish troops sacked Antwerp, killing about 7,000 citizens and burning hundreds of houses. The event became known as the 'Spanish Fury'.",
+        "a": 51.22,
+        "l": 4.4,
+        "c": "Military",
+        "r": "Spain",
+        "o": "Europe"
+      },
+      {
+        "t": "Pacification of Ghent",
+        "s": "In November 1576, the provinces of the Netherlands (both Catholic southern and Protestant northern) convened the States-General in Ghent and signed the Pacification of Ghent. They agreed to demand the removal of Spanish troops, restore traditional liberties and privileges, and cease religious persecution. This was the high point of unity among the Netherlands provinces in the early years of the Eighty Years' War. However, religious and regional differences soon led to a split, and the southern provinces rejoined Spain after the Union of Arras (1579).",
+        "a": 51.05,
+        "l": 3.73,
+        "c": "Diplomacy",
+        "r": "Netherlands",
+        "o": "Europe"
+      },
+      {
+        "t": "Seventh Ottoman-Venetian War Ends",
+        "s": "After several years of war, the Ottoman Empire and the Republic of Venice signed a peace treaty, ending the Seventh Ottoman-Venetian War (1570-1576). Venice recognized Ottoman control of Cyprus and paid war reparations; the Ottomans recognized Venice's remaining possessions in the Aegean and Adriatic. This war marked the end of Venetian dominance in the eastern Mediterranean.",
+        "a": 35.0,
+        "l": 33.0,
+        "c": "Diplomacy",
+        "r": "Venice",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1577,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "5th year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Drake Begins Circumnavigation",
+        "s": "On 13 December 1577, English navigator Francis Drake set sail from Plymouth with five ships, beginning his circumnavigation. He was ordered to raid Spanish colonies in the Pacific, passing through the Strait of Magellan.",
+        "a": 50.37,
+        "l": -4.14,
+        "c": "Exploration",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Union of Brussels Signed",
+        "s": "In 1577, the provinces of the Netherlands signed the Union of Brussels, attempting to find a formula for coexistence between Catholics and Protestants. However, irreconcilable religious and economic differences led to the split in 1579 between the Union of Arras and the Union of Utrecht.",
+        "a": 50.85,
+        "l": 4.35,
+        "c": "Politics",
+        "r": "Netherlands",
+        "o": "Europe"
+      },
+      {
+        "t": "Zhang Juzheng Maintains Office",
+        "s": "In the 5th year of Wanli (1577), Zhang Juzheng's father died. According to ritual, Zhang should have resigned and observed a three-year mourning period (dingyou). However, the emperor issued an edict 'duoqing' (maintaining office), and Zhang remained as Senior Grand Secretary, leading to intense controversy and impeachment within the court.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1578,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "6th year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "King of Portugal Dies in Morocco",
+        "s": "On 4 August 1578, King Sebastian I of Portugal was killed in battle at Alcácer Quibir (Battle of the Three Kings) in Morocco. As Sebastian had no heir, the Portuguese crown passed to the elderly Cardinal Henry. This event directly led to the Spanish annexation of Portugal in 1580.",
+        "a": 34.0,
+        "l": -5.0,
+        "c": "Military",
+        "r": "Portugal",
+        "o": "Africa"
+      },
+      {
+        "t": "Union of Arras and Union of Utrecht",
+        "s": "In 1579, the southern provinces of the Netherlands (present-day Belgium) signed the Union of Arras, recognizing Spanish rule and Catholicism. The northern seven provinces signed the Union of Utrecht, forming a military and political alliance that eventually became the Dutch Republic.",
+        "a": 50.3,
+        "l": 2.7,
+        "c": "Politics",
+        "r": "Netherlands",
+        "o": "Europe"
+      },
+      {
+        "t": "Ming Implements Single Whip Law",
+        "s": "In the 6th year of Wanli (1578), Senior Grand Secretary Zhang Juzheng ordered the nationwide implementation of the 'Single Whip Law'. This reform consolidated numerous taxes, corvée obligations, and surtaxes into a single levy, calculated in silver (taels) based on land area. The Single Whip Law simplified taxation, reduced opportunities for local officials to embezzle, and significantly increased central revenue. However, implementation issues, such as varying conversion standards and the difficulties faced by small farmers converting to silver, sometimes increased the burden on the peasantry. The Single Whip Law was the most significant tax reform of the Ming dynasty.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Economy",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1579,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "7th year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Union of Utrecht Established",
+        "s": "On 23 January 1579, the seven northern provinces of the Netherlands (Holland, Zeeland, Utrecht, Gelderland, Friesland, Overijssel, Groningen) signed the Union of Utrecht. They agreed to jointly resist Spanish military attacks, maintain religious freedom, and uphold provincial autonomy. The Union of Utrecht is considered the founding document of the Dutch Republic (the Republic of the Seven United Netherlands). In 1581, the union provinces formally declared the deposition of King Philip II of Spain.",
+        "a": 52.09,
+        "l": 5.12,
+        "c": "Politics",
+        "r": "Netherlands",
+        "o": "Europe"
+      },
+      {
+        "t": "Spain Annexes Portugal",
+        "s": "King Philip II of Spain, seizing the opportunity after the death of King Sebastian I of Portugal and the childless old Cardinal Henry, sent the Duke of Alva to invade Portugal. The Portuguese Cortes (parliament) was pressured to recognize Philip II as king, and Portugal and its overseas colonies came under Spanish Habsburg rule. The union of the two countries lasted sixty years (1580-1640).",
+        "a": 38.7,
+        "l": -9.1,
+        "c": "Politics",
+        "r": "Spain",
+        "o": "Europe"
+      },
+      {
+        "t": "Jesuit Mission in India",
+        "s": "In 1579, Mughal Emperor Akbar invited Jesuit missionaries to his court at Fatehpur Sikri for religious debates. Akbar was interested in Christianity and sought to create a new 'Divine Faith' (Din-i-Ilahi) blending religions. Three Portuguese Jesuits came from Goa and were granted freedom to preach and discuss religion with the emperor. However, Akbar did not convert to Christianity on a large scale.",
+        "a": 28.6,
+        "l": 77.2,
+        "c": "Religion",
+        "r": "Mughal Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1580,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "8th year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Spain Formally Annexes Portugal",
+        "s": "In 1580, King Philip II of Spain, following the death of the childless King Henry of Portugal, sent the Duke of Alva with an army to invade Portugal. The Portuguese Cortes, in a meeting at Tomar, recognized Philip II as King of Portugal (in the capacity of heir to the Portuguese throne). Portugal and its overseas colonies (Brazil, Angola, Mozambique, Goa, etc.) were thus incorporated into the Spanish Habsburg realm. The union lasted sixty years (1580-1640).",
+        "a": 38.7,
+        "l": -9.1,
+        "c": "Politics",
+        "r": "Spain",
+        "o": "Europe"
+      },
+      {
+        "t": "Drake Returns from Circumnavigation",
+        "s": "On 26 September 1580, English navigator Francis Drake returned to Plymouth, England, completing his nearly three-year circumnavigation (1577-1580). He had crossed the Strait of Magellan, sailed up the west coast of South America, plundered Spanish gold and silver from Peru and Chile, then crossed the Pacific, passed the Moluccas, and rounded the Cape of Good Hope. Queen Elizabeth I knighted Drake aboard the 'Golden Hind' and shared in his plunder.",
+        "a": 50.37,
+        "l": -4.14,
+        "c": "Exploration",
+        "r": "England",
+        "o": "World"
+      }
+    ]
+  },
+  {
+    "y": 1581,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "9th year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Dutch Republic Declares Independence",
+        "s": "On 26 July 1581, the States-General of the Union of Utrecht provinces, meeting in The Hague, issued the Act of Abjuration, formally declaring that King Philip II of Spain had forfeited his rule over the Netherlands. This was the legal declaration of Dutch independence and one of the first formal acts of deposition based on popular grievance. The Dutch Republic (officially the Republic of the Seven United Netherlands) was born. The ideas in the Act influenced the later American Declaration of Independence.",
+        "a": 52.1,
+        "l": 4.3,
+        "c": "Politics",
+        "r": "Netherlands",
+        "o": "Europe"
+      },
+      {
+        "t": "Zhang Juzheng's Single Whip Law Fully Implemented",
+        "s": "In the 9th year of Wanli (1581), Senior Grand Secretary Zhang Juzheng ordered full nationwide implementation of the 'Single Whip Law'. This reform consolidated numerous taxes, corvée obligations, and surtaxes into a single levy, calculated in silver based on land area. The Single Whip Law simplified the tax system, reduced opportunities for local officials to embezzle, and increased central revenue. However, implementation varied across regions, and some peasants were forced to sell land to pay silver taxes, aggravating land concentration.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Economy",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "Livonian War Ends",
+        "s": "By 1581, the twenty-five-year Livonian War (1558-1583) between Tsar Ivan IV of Russia and the Polish-Lithuanian Commonwealth over Livonia (present-day Latvia and Estonia) was effectively over. In 1582, Russia signed a ten-year truce with Poland-Lithuania at Yam-Zapolsky, renouncing claims to Livonia and Polotsk. In 1583, Russia signed the Treaty of Plussa with Sweden, ceding Narva and other territories. Russian westward expansion was stymied.",
+        "a": 58.0,
+        "l": 25.0,
+        "c": "Diplomacy",
+        "r": "Russia",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1582,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "10th year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Matteo Ricci Arrives in Macau",
+        "s": "In the 10th year of Wanli (1582), the Italian Jesuit missionary Matteo Ricci arrived in Macau. He diligently studied Chinese classics and Confucianism, dressed as a scholar, and interacted with Chinese literati as a 'Western Confucian'. In 1583, Ricci obtained permission to settle in Zhaoqing, Guangdong, where he drew the 'Kunyu Wanguo Quantu' (Great Map of the Ten Thousand Countries), introducing world geography to the Chinese. He collaborated with Xu Guangqi to translate the first six volumes of Euclid's 'Elements'.",
+        "a": 22.2,
+        "l": 113.5,
+        "c": "Culture",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "Gregorian Calendar Issued",
+        "s": "On 24 February 1582, Pope Gregory XIII issued a bull adopting a new calendar (the Gregorian calendar) to replace the Julian calendar. Thursday, 4 October 1582, was followed directly by Friday, 15 October 1582 (eliminating a 10-day discrepancy). The new calendar uses 97 leap years every 400 years instead of a leap year every 4 years.",
+        "a": 41.9,
+        "l": 12.45,
+        "c": "Science",
+        "r": "Papal States",
+        "o": "Europe"
+      },
+      {
+        "t": "Zhang Juzheng Dies",
+        "s": "On 20 June 1582 (10th year of Wanli), Senior Grand Secretary Zhang Juzheng died of illness, aged 57. Zhang had directed the court for ten years, implementing sweeping reforms through the Examination Law and the Single Whip Law, creating the 'Wanli Restoration'. At his death, the Wanli Emperor was 18 and eager to free himself from Zhang's influence. The emperor soon launched a purge of Zhang: his property was confiscated, his titles were stripped, and his eldest son Zhang Jingxiu committed suicide. Most of Zhang's reforms were reversed.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "Akechi Mitsuhide's Honnō-ji Incident",
+        "s": "On 21 June 1582, Akechi Mitsuhide, a senior retainer of Oda Nobunaga, led about 13,000 troops to surround the temple Honnō-ji in Kyoto, where Nobunaga was staying. Nobunaga was trapped and committed suicide by fire (aged 49). His heir, Oda Nobutada, also died in the attack on Nijō Palace. Mitsuhide ruled for only 11 days before being defeated by Toyotomi Hideyoshi at the Battle of Yamazaki. The Honnō-ji Incident was one of the most consequential turning points in Japanese history.",
+        "a": 35.0,
+        "l": 135.77,
+        "c": "Military",
+        "r": "Japan",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1583,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "11th year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Nurhaci Raises Army",
+        "s": "In the 11th year of Wanli (1583), Nurhaci, the chieftain of the Jianzhou Jurchens, began raising an army with only 13 suits of armor. He attacked Nikan Wailan, the chieftain of Tumen City, to avenge his father and grandfather. Nurhaci gradually unified the Jianzhou tribes, laying the foundation for the founding of the Later Jin dynasty (1616).",
+        "a": 41.7,
+        "l": 125.0,
+        "c": "Military",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "Cologne War",
+        "s": "In 1583, the Prince-Archbishop of Cologne, Gebhard Truchsess von Waldburg, converted to Protestantism and married, claiming the right to retain his electorate. This triggered a religious war. The Pope and Holy Roman Emperor supported the Catholic candidate, Duke William V of Bavaria, who attacked Cologne. Spain also sent troops to support the Catholic side. After several years of warfare, the Protestant faction was defeated, Gebhard was deposed, and Cologne returned to Catholicism. This war was a continuation of the German Reformation and a prelude to the Thirty Years' War.",
+        "a": 50.94,
+        "l": 6.96,
+        "c": "Religion",
+        "r": "Holy Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Burma Invades Yunnan",
+        "s": "In the 11th year of Wanli (1583), King Bayinnaung of the Toungoo Dynasty of Burma sent a large army to invade the Ming's Yunnan border. The Burmese captured several stockades in Tengyue (Tengchong) and Yongchang (Baoshan), plundering people and property. The Ming court dispatched generals Liu Ting and Deng Zilong to counterattack. Liu Ting led a force that defeated the main Burmese army at Yao Pass (Longling), recovering lost territory. This battle was an important engagement in the Ming-Burmese wars, temporarily checking Burmese expansion into Yunnan.",
+        "a": 23.0,
+        "l": 99.0,
+        "c": "Military",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1584,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "12th year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "William of Orange Assassinated",
+        "s": "On 10 July 1584, William the Silent, leader of the Dutch revolt against Spain, was assassinated by Spanish agent Balthasar Gérard at his home in Delft. William was the spiritual leader of the Dutch revolt; his death was a heavy blow. His son, Maurice of Orange, carried on his father's work, becoming an outstanding military commander who eventually drove the Spanish out of the northern provinces and established the Dutch Republic.",
+        "a": 52.09,
+        "l": 4.31,
+        "c": "Politics",
+        "r": "Netherlands",
+        "o": "Europe"
+      },
+      {
+        "t": "Spain Conquers the Philippines (continued)",
+        "s": "In 1584, Spain established the Archbishopric of Manila in the Philippines. The Spaniards established a complete colonial administration on Luzon and spread Catholicism.",
+        "a": 14.6,
+        "l": 120.98,
+        "c": "Politics",
+        "r": "Spain",
+        "o": "Asia"
+      },
+      {
+        "t": "Ming Bans Catholicism",
+        "s": "In the 12th year of Wanli (1584), the Governor of Guangdong and Guangxi, Guo Yingpin, became suspicious of the Jesuit missionaries, including Matteo Ricci, in Zhaoqing, and issued an order restricting their activities. However, Ricci, with his scientific knowledge and Confucian demeanor, gained support from local officials.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Religion",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1585,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "13th year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Anglo-Spanish War Breaks Out",
+        "s": "In 1585, Queen Elizabeth I of England signed the Treaty of Nonsuch with the Dutch rebels, sending troops and supplies to support their revolt against Spain. King Philip II of Spain then seized English merchant ships. The two moved from proxy conflicts to open war.",
+        "a": 50.0,
+        "l": -2.0,
+        "c": "Military",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "English Colonize Roanoke",
+        "s": "In 1585, English explorer Sir Walter Raleigh sent a fleet to establish the first English colony in North America, on Roanoke Island (present-day North Carolina). The colonists clashed with local indigenous tribes. The colony later became known as the 'Lost Colony'.",
+        "a": 35.9,
+        "l": -75.7,
+        "c": "Politics",
+        "r": "England",
+        "o": "North America"
+      },
+      {
+        "t": "Portugal Formally Merged with Spain",
+        "s": "In 1585 (actually 1580), King Philip II of Spain, recognized by the Portuguese Cortes, became King Philip I of Portugal. Portugal and its overseas territories were incorporated into the Spanish Habsburg empire.",
+        "a": 39.6,
+        "l": -8.4,
+        "c": "Politics",
+        "r": "Portugal",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1586,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "14th year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Tokugawa Ieyasu Builds Edo Castle",
+        "s": "In 1586 (Tensho 14), Tokugawa Ieyasu moved his residence from Hamamatsu Castle to Edo (present-day Tokyo) and began large-scale expansion of Edo Castle. Ieyasu built the inner citadel (honmaru), second bailey (ni-no-maru), and third bailey (san-no-maru), and dug the outer moat. After being transferred by Toyotomi Hideyoshi to the eight provinces of the Kanto region in 1590, Ieyasu formally took Edo as his base and conducted even larger urban construction. In 1603, Tokugawa Ieyasu established the Edo Shogunate, and Edo became the political center of Japan, eventually developing into one of the world's largest cities (population exceeding one million in the 18th century).",
+        "a": 35.68,
+        "l": 139.76,
+        "c": "Politics",
+        "r": "Japan",
+        "o": "Asia"
+      },
+      {
+        "t": "Spanish Armada Planned",
+        "s": "To punish England for supporting the Dutch rebels and the privateering raids of Francis Drake, King Philip II of Spain ordered the formation of the 'Invincible Armada' (Grande y Felicísima Armada) in 1586. The fleet was planned by the Marquis of Santa Cruz, a seasoned admiral, later commanded by the Duke of Medina Sidonia. The plan was to assemble about 130 ships, 30,000 men and sailors, sail from Lisbon to the Netherlands to meet the Duke of Parma's army, and then invade England. The enormous cost strained Spanish finances, and the taxes caused domestic discontent.",
+        "a": 36.5,
+        "l": -6.2,
+        "c": "Military",
+        "r": "Spain",
+        "o": "Europe"
+      },
+      {
+        "t": "Ming Mine Tax Commissioners Begin Rampage",
+        "s": "From the 24th year of Wanli (1586) onward, the Wanli Emperor, seeking to replenish the depleted treasury, dispatched eunuchs as 'mine and tax commissioners' to collect mining and commercial taxes nationwide. The commissioners, under the pretext of searching for ore, extorted money from wealthy households and merchants, even digging up graves and demolishing houses. Popular resistance and uprisings broke out repeatedly. The mine and tax commissioners' depredations were emblematic of the late Wanli court's corruption, severely disrupting social production and commerce and accelerating the Ming's decline.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Economy",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1587,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "15th year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Toyotomi Hideyoshi Unifies Japan",
+        "s": "In 1587 (Tensho 15), Toyotomi Hideyoshi launched the Kyushu Campaign, attacking the Shimazu clan with about 200,000 troops. After the fall of key fortresses, Shimazu Yoshihisa surrendered. Hideyoshi was then appointed Kampaku (Imperial Regent, effectively chief minister) by the emperor, and in 1591 he passed the Kampaku title to his adopted son Toyotomi Hidetsugu, styling himself 'Taikō' (retired regent). Thus, Hideyoshi completed the unification of Japan after over a century of civil war since the Ōnin War.",
+        "a": 35.0,
+        "l": 136.0,
+        "c": "Politics",
+        "r": "Japan",
+        "o": "Asia"
+      },
+      {
+        "t": "Execution of Mary, Queen of Scots",
+        "s": "On 8 February 1587, Mary, Queen of Scots, was beheaded at Fotheringhay Castle in England. Mary had fled to England in 1568 and had been imprisoned by Elizabeth I, and after being implicated in several plots to assassinate Elizabeth (such as the Babington Plot), she was sentenced to death. Elizabeth hesitated before signing the execution warrant. Mary's death gave Philip II of Spain a pretext to invade England, accelerating the dispatch of the Spanish Armada.",
+        "a": 52.0,
+        "l": -0.9,
+        "c": "Politics",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Ming Enfeoffs Toyotomi Hideyoshi",
+        "s": "In the 15th year of Wanli (1587), the Wanli Emperor, responding to the request of Toyotomi Hideyoshi, sent envoys to invest Hideyoshi as 'King of Japan'. In fact, Hideyoshi demanded that the Ming recognize his status and agree to his proposal to 'borrow the road to attack the Ming', which was refused. Hideyoshi was outraged by the Ming's enfeoffment (which treated him as a tributary king), considering it an insult to his dignity. The failed enfeoffment led Hideyoshi to invade Korea in 1592.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Diplomacy",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1588,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "16th year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Spanish Armada Defeated",
+        "s": "From May to August 1588, King Philip II of Spain dispatched the 'Invincible Armada' of about 130 ships and 30,000 men under the Duke of Medina Sidonia to invade England. The English fleet, under Drake and Howard, used fireships and maneuvered to break up the Armada at the Battle of Gravelines. On the return voyage, the Armada encountered Atlantic storms. Only about 60 ships returned to Spain, with some 15,000 casualties. This battle marked the beginning of the decline of Spanish naval dominance and the rise of England as a new maritime power.",
+        "a": 51.0,
+        "l": 1.5,
+        "c": "Military",
+        "r": "Spain",
+        "o": "Europe"
+      },
+      {
+        "t": "Toyotomi Hideyoshi Bans Christianity",
+        "s": "In 1588 (Tensho 16), concerned that Christianity among Kyushu daimyo might become too powerful and serve as a vanguard for European colonization, Toyotomi Hideyoshi issued the 'Bateren Tsuiho Rei' (Expulsion of the Padres), ordering all Christian missionaries to leave Japan within twenty days. Hideyoshi took control of Nagasaki and other places from daimyo and forbade daimyo from converting to Christianity. This was the first formal ban on Christianity in Japanese history, but it was not strictly enforced at first; the ban became absolute during the Tokugawa shogunate.",
+        "a": 35.0,
+        "l": 135.7,
+        "c": "Religion",
+        "r": "Japan",
+        "o": "Asia"
+      },
+      {
+        "t": "Ming Reverses Zhang Juzheng's Reforms",
+        "s": "In the 16th year of Wanli (1588), the Wanli Emperor, having purged Zhang Juzheng (who died in 1582), largely repealed his reform measures. The Examination Law was abandoned, reverting to old evaluation methods, leading to a sharp decline in administrative efficiency. The Single Whip Law was nominally retained but poorly enforced. Zhang's family was confiscated and his eldest son committed suicide. The emperor's complete repudiation of Zhang marked the end of the Wanli Restoration. Thereafter, the Wanli Emperor became even more neglectful of state affairs, and Ming political decay accelerated.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1589,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "17th year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Henry IV Ascends French Throne",
+        "s": "On 2 August 1589, King Henry III of France was assassinated, and Henry of Navarre (a Huguenot leader) succeeded him as Henry IV, founding the Bourbon dynasty. To end the religious wars, Henry IV converted to Catholicism in 1593.",
+        "a": 48.86,
+        "l": 2.35,
+        "c": "Politics",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Korean Mission to Japan",
+        "s": "In 1589, the Joseon dynasty of Korea dispatched a diplomatic mission (Tongsinsa) to Japan to congratulate Toyotomi Hideyoshi on unifying the country. Hideyoshi, when receiving the Korean envoys, demanded that Korea submit to Japan and allow Japanese forces to pass through to attack the Ming. When Korea refused, Hideyoshi decided to invade Korea.",
+        "a": 37.5,
+        "l": 127.0,
+        "c": "Diplomacy",
+        "r": "Korea",
+        "o": "Asia"
+      },
+      {
+        "t": "Ming Court Factional Strife Begins",
+        "s": "After 1589 (17th year of Wanli), the Wanli Emperor stopped attending court and handling affairs for long periods, causing officials' promotions to stall and government to decay. A group of officials, including Gu Xiancheng, lectured on politics at the Donglin Academy, forming the 'Donglin Party'. Their opponents included the 'Zhe Party' led by Shen Yiguan and the 'Chu Party' led by Fang Congzhe. The factions attacked each other and fought for power, plunging the court into chaos. Factional strife continued until the end of the Ming dynasty and had an extremely negative impact on late Ming politics.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Politics",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "William Lee Invents Stocking Frame",
+        "s": "In 1589, English clergyman William Lee invented the stocking frame (a hand-knitting machine) that could knit entire stockings in one operation. Queen Elizabeth I refused him a patent, so Lee took the machine and workers to France. The stocking frame was one of the most important textile machinery innovations before the Industrial Revolution; its working principle (latch needle) laid the foundation for modern knitting.",
+        "a": 52.9,
+        "l": -1.2,
+        "c": "Science",
+        "r": "England",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1590,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "18th year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Toyotomi Hideyoshi Prepares for Korean Invasion",
+        "s": "In 1590 (Tensho 18), after unifying Japan, Toyotomi Hideyoshi began military preparations for an invasion of Korea. He built a large headquarters and port at Nagoya (in present-day Saga Prefecture) and assembled about 150,000 troops.",
+        "a": 33.5,
+        "l": 130.2,
+        "c": "Military",
+        "r": "Japan",
+        "o": "Asia"
+      },
+      {
+        "t": "Morocco Invades Songhai",
+        "s": "In 1590, Sultan Ahmad al-Mansur of the Saadian dynasty of Morocco dispatched an expedition across the Sahara to invade the Songhai Empire. The expedition was equipped with firearms and cannons. In 1591, the Moroccans defeated the Songhai army at the Battle of Tondibi.",
+        "a": 16.0,
+        "l": -3.0,
+        "c": "Military",
+        "r": "Songhai Empire",
+        "o": "Africa"
+      },
+      {
+        "t": "Microscope Invented in the Netherlands",
+        "s": "Around 1590, the Dutch spectacle makers Hans Janssen and his son Zacharias Janssen of Middelburg built the first compound microscope. It used two convex lenses to magnify objects about 9 times. Antonie van Leeuwenhoek (in the 1670s) later improved single-lens microscopes to magnify up to 270 times, first observing bacteria, sperm, and protozoa. The microscope's invention opened up the microscopic world and founded the science of microbiology.",
+        "a": 51.5,
+        "l": 3.5,
+        "c": "Science",
+        "r": "Netherlands",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1591,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "19th year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Japanese Invasion Force Assembled",
+        "s": "In 1591 (Tensho 19), Toyotomi Hideyoshi completed preparations for the invasion of Korea. He built a huge headquarters and logistics base at Nagoya in Hizen Province (present-day Saga Prefecture). He mobilized about 150,000 army and 10,000 naval troops, divided into nine field divisions, with commanders including Konishi Yukinaga, Katō Kiyomasa, and Fukushima Masanori as vanguards. Hideyoshi demanded that the king of Korea allow passage to attack the Ming; when the king refused, Hideyoshi ordered the invasion in April 1592.",
+        "a": 33.5,
+        "l": 130.2,
+        "c": "Military",
+        "r": "Japan",
+        "o": "Asia"
+      },
+      {
+        "t": "English East India Company Charter",
+        "s": "On 31 December 1600 (not 1591), Queen Elizabeth I of England granted a royal charter to a group of London merchants, establishing the English East India Company.",
+        "a": 51.51,
+        "l": -0.13,
+        "c": "Economy",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Nurhaci Unifies Jianzhou Jurchens",
+        "s": "Nurhaci, chieftain of the Jianzhou Jurchens, under the banner of vengeance, attacked the Nikan Wailan tribe and subsequently subdued the Suksuhu, Jecen, and other tribes, gradually unifying the Jianzhou Jurchen tribes. Starting with only 13 suits of armor, Nurhaci employed both kindness and force, pacifying those who submitted and militarily crushing those who resisted, laying the military foundation for the later Jin state.",
+        "a": 41.7,
+        "l": 125.0,
+        "c": "Military",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1592,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "20th year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Imjin War Erupts",
+        "s": "In April 1592 (20th year of Wanli), Toyotomi Hideyoshi dispatched about 150,000 Japanese troops under Konishi Yukinaga and Katō Kiyomasa, landing at Busan, Korea. The Korean army was routed, and the Japanese quickly captured Seoul (Hanyang) and Pyongyang. King Seonjo of Korea fled to Uiju and requested military assistance from the Ming.",
+        "a": 37.5,
+        "l": 127.0,
+        "c": "Military",
+        "r": "Korea",
+        "o": "Asia"
+      },
+      {
+        "t": "Yi Sun-shin Invents Turtle Ship",
+        "s": "In 1592, Korean naval commander Yi Sun-shin improved the traditional turtle ship (geobukseon). The ship was covered with hexagonal iron plates, had a dragon head at the bow (which could emit smoke) and a ram, and rowers were protected below deck. It had numerous firing ports for archers and cannons. The turtle ship proved highly effective in the Battle of Okpo (May 1592) and the Battle of Hansando, sinking many Japanese ships and cutting off Japanese supply lines.",
+        "a": 34.0,
+        "l": 128.0,
+        "c": "Science",
+        "r": "Korea",
+        "o": "Asia"
+      },
+      {
+        "t": "Ming Decides to Aid Korea",
+        "s": "In June 1592 (20th year of Wanli), the Korean king Seonjo's envoys arrived in Beijing. The Wanli Emperor and his ministers debated and eventually decided to send troops to aid Korea. Song Yingchang was appointed commander-in-chief (Jinglue) to lead the Ming army into Korea.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Military",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1593,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "21st year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Byeokjegwan",
+        "s": "In February 1593 (21st year of Wanli), Ming commander Li Rusong led his forces against the Japanese at Byeokjegwan (north of present-day Seoul). About 3,000 Ming soldiers were surrounded by tens of thousands of Japanese, suffering hundreds of casualties before breaking out. After the battle, the two sides reached a stalemate.",
+        "a": 37.5,
+        "l": 127.0,
+        "c": "Military",
+        "r": "Korea",
+        "o": "Asia"
+      },
+      {
+        "t": "Toyotomi Hideyoshi Dies (preparation for peace talks)",
+        "s": "In fact, Toyotomi Hideyoshi died on 18 September 1598. In 1593, as the first Japanese-Korean war reached a stalemate, Hideyoshi began peace negotiations with the Ming. He demanded that a Ming princess be married to the Japanese emperor, that Korea cede its four southern provinces, and that a Korean prince be sent as hostage. These demands were rejected by the Ming and Korea. When the peace talks broke down, Hideyoshi invaded Korea again in 1597 but made little progress, dying in 1598.",
+        "a": 35.0,
+        "l": 135.7,
+        "c": "Politics",
+        "r": "Japan",
+        "o": "Asia"
+      },
+      {
+        "t": "Ming Enfeoffment of Japan Fails",
+        "s": "In 1593 (21st year of Wanli), peace negotiations between the Ming and Toyotomi Hideyoshi broke down. The Wanli Emperor sent Li Zongcheng as an envoy to invest Hideyoshi as 'King of Japan', but Hideyoshi refused to accept the terms of withdrawing from Korea and submitting to the Ming. Hideyoshi tore up the treaty, expelled the Ming envoys, and launched a second invasion of Korea in 1597 (Jeongyu War), forcing the Ming to send troops again.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Diplomacy",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1594,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "22nd year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Stalemate in Ming Korean Expedition",
+        "s": "In 1594 (22nd year of Wanli), the Ming expedition against Japan entered a stalemate. The Ming forces and Toyotomi Hideyoshi's Japanese armies faced each other on a line from Pyongyang to Busan in southern Korea. After the fierce but indecisive Battle of Byeokjegwan, the Ming adopted a strategy of blockading Japanese-held fortresses. The Japanese, facing supply difficulties, voluntarily withdrew. The two sides began peace negotiations, which set the stage for the second war in 1597.",
+        "a": 37.0,
+        "l": 127.0,
+        "c": "Military",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "Henry IV Enters Paris",
+        "s": "On 22 March 1594, having converted to Catholicism ('Paris is worth a Mass'), King Henry IV of France peacefully entered Paris, where the city opened its gates to him. Henry's entry into the capital marked the near-end of the French Wars of Religion (1562-1598). Subsequently, Henry issued the Edict of Nantes (1598), granting religious freedom to Huguenots, and restored peace and prosperity to France.",
+        "a": 48.86,
+        "l": 2.35,
+        "c": "Politics",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Pre-company for Dutch East Indies",
+        "s": "Before the formal establishment of the Dutch East India Company (VOC) in 1602, Dutch merchants had formed several early 'pre-companies' (voorcompagnieën) between 1594 and 1601. The first, the Compagnie van Verre, was founded in 1594 by Amsterdam merchants, who funded ships to buy spices in the East Indies. The success of these early companies led to the formation of the VOC in 1602.",
+        "a": 52.4,
+        "l": 4.9,
+        "c": "Economy",
+        "r": "Netherlands",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1595,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "23rd year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Ming-Japanese Peace Talks Collapse",
+        "s": "In 1595 (23rd year of Wanli), peace negotiations between the Ming and Toyotomi Hideyoshi completely broke down. The Ming had enfeoffed Hideyoshi as 'King of Japan', but he refused to accept the Ming terms (withdrawal from Korea, no marriage with a Ming princess). Hideyoshi considered the enfeoffment an insult to his dignity and expelled the Ming envoys, then in 1597 launched a second invasion of Korea (Jeongyu War). The Ming again sent large forces to Korea and engaged the Japanese in fierce combat in southern Korea.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Diplomacy",
+        "r": "Ming",
+        "o": "Asia"
+      },
+      {
+        "t": "First Dutch Voyage to Asia",
+        "s": "In 1595, the Dutch merchant Cornelis de Houtman set sail from Texel, the Netherlands, with four ships. He rounded the Cape of Good Hope and reached the port of Bantam on Java in 1596. This was the first Dutch expedition to sail directly to the East Indies. Although two of the four ships sank and more than half the crew died, the fleet returned with large quantities of pepper, nutmeg, and other spices, making a profit of 400%. The successful voyage greatly inspired Dutch merchants, directly leading to the founding of the VOC in 1602.",
+        "a": -6.0,
+        "l": 106.0,
+        "c": "Exploration",
+        "r": "Netherlands",
+        "o": "Asia"
+      },
+      {
+        "t": "Shakespeare Writes 'Romeo and Juliet'",
+        "s": "Around 1595, William Shakespeare completed the tragedy 'Romeo and Juliet'. The play tells the tragic love story of two young lovers from feuding families in Verona, Italy. Shakespeare compressed the original story's nine months into five days and added vivid characters like Mercutio and the Nurse. It was first performed in London to great success and remains one of the most performed plays in world theatre.",
+        "a": 51.5,
+        "l": -0.13,
+        "c": "Culture",
+        "r": "England",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1596,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "24th year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Jeongyu War Begins",
+        "s": "In 1597 (25th year of Wanli), after peace talks collapsed, Toyotomi Hideyoshi again dispatched about 140,000 Japanese troops to invade Korea. The Japanese advanced by land and sea. The Ming again sent troops to Korea. Both sides had victories and defeats in the battles of Jiksan and Myeongnyang.",
+        "a": 37.0,
+        "l": 127.0,
+        "c": "Military",
+        "r": "Korea",
+        "o": "Asia"
+      },
+      {
+        "t": "Spain Consolidates Philippines",
+        "s": "In 1596, the Spanish colonial authorities established the Archbishopric of Manila and created bishoprics in Cebu, Nueva Segovia, and other places. The Spaniards pursued a policy of forced conversion, with many Filipinos compelled to adopt Catholicism. The Muslim sultanates of Mindanao and the Sulu Archipelago fiercely resisted, and conflict with Spanish colonizers continued into the 19th century.",
+        "a": 14.6,
+        "l": 120.98,
+        "c": "Religion",
+        "r": "Spain",
+        "o": "Asia"
+      },
+      {
+        "t": "Ming's Three Major Campaigns Exhaust Treasury",
+        "s": "In the mid-Wanli period, the Ming conducted three major military campaigns: the Ningxia Campaign, the Korean Campaign (Imjin War), and the Bozhou Campaign. The three campaigns cost an estimated 12 million taels of silver, severely depleting the Ming treasury and causing a fiscal crisis.",
+        "a": 39.9,
+        "l": 116.4,
+        "c": "Economy",
+        "r": "Ming",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1597,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "25th year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Myeongnyang",
+        "s": "In 1597 (25th year of Wanli), Korean naval commander Yi Sun-shin, with only 12 ships (mainly improved turtle ships), fought a Japanese fleet of about 130 vessels at Myeongnyang Strait (off Jindo, South Korea). Yi used the strong tides and narrow channel to disrupt the Japanese formation, causing the Japanese ships to collide and break formation. The Koreans sank about 30 Japanese ships without losing any. The Myeongnyang victory preserved the remaining Korean navy, buying time for the Ming counteroffensive.",
+        "a": 34.6,
+        "l": 126.6,
+        "c": "Military",
+        "r": "Korea",
+        "o": "Asia"
+      },
+      {
+        "t": "Caravaggio Initiates Baroque Art",
+        "s": "In 1597, Italian painter Michelangelo Merisi da Caravaggio created works such as 'Medusa'. He used the technique of tenebrism (strong chiaroscuro) to give his paintings dramatic intensity and realism. Caravaggio's realism (including using common people as models for biblical figures) had a revolutionary impact on European painting, initiating the Baroque era.",
+        "a": 41.9,
+        "l": 12.49,
+        "c": "Culture",
+        "r": "Italy",
+        "o": "Europe"
+      },
+      {
+        "t": "Franco-Spanish Peace Treaty",
+        "s": "On 2 May 1598, King Henry IV of France and King Philip II of Spain signed the Treaty of Vervins in northern France. Spain returned French territories occupied during the religious wars (Calais, Brittany, etc.) and renounced interference in French affairs. Spain formally recognized Henry IV as the legitimate king of France. The treaty ended the French religious wars, allowing France to concentrate on domestic recovery and economic development.",
+        "a": 49.85,
+        "l": 3.28,
+        "c": "Diplomacy",
+        "r": "France",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 1598,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "26th year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Noryang",
+        "s": "On 19 November 1598 (26th year of Wanli), a joint Sino-Korean fleet under Korean Admiral Yi Sun-shin and Ming Deputy Commander Deng Zilong engaged the retreating Japanese fleet at Noryang (off Namhae, South Gyeongsang Province). The allied fleet of about 800 ships fought about 500 Japanese ships. The battle sank about 200 Japanese ships, but both Yi Sun-shin and Deng Zilong were killed. The Battle of Noryang was the final major battle of the Imjin War.",
+        "a": 34.7,
+        "l": 127.8,
+        "c": "Military",
+        "r": "Korea",
+        "o": "Asia"
+      },
+      {
+        "t": "Edict of Nantes",
+        "s": "On 13 April 1598, King Henry IV of France issued the Edict of Nantes, granting freedom of conscience and political rights to the Huguenots, allowing them to maintain armed forces in certain places. The Edict ended the French Wars of Religion that had lasted over thirty years. In May 1598, France and Spain signed the Treaty of Vervins.",
+        "a": 47.2,
+        "l": -1.6,
+        "c": "Religion",
+        "r": "France",
+        "o": "Europe"
+      },
+      {
+        "t": "Toyotomi Hideyoshi Dies",
+        "s": "Toyotomi Hideyoshi died at Fushimi Castle, aged 61. On his deathbed, he entrusted his young son Toyotomi Hideyori to the Council of Five Elders (Tokugawa Ieyasu, Maeda Toshiie, etc.) and the Five Commissioners. But after his death, the various powers quickly fell into conflict. At the Battle of Sekigahara in 1600, Tokugawa Ieyasu defeated the Toyotomi loyalists, eventually supplanting the Toyotomi clan and establishing the Edo Shogunate.",
+        "a": 35.0,
+        "l": 135.7,
+        "c": "Politics",
+        "r": "Japan",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 1599,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "27th year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Globe Theatre Built in London",
+        "s": "In 1599, the Lord Chamberlain's Men, Shakespeare's acting company, built the Globe Theatre on the south bank of the River Thames in London. The theatre was a three-story, round structure seating about 3,000 spectators. Shakespeare premiered 'As You Like It' and 'Hamlet' there.",
+        "a": 51.5,
+        "l": -0.1,
+        "c": "Culture",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Dutch East India Company Founded",
+        "s": "On 20 March 1602, the Dutch States-General formally approved the establishment of the Dutch East India Company (VOC), granting it a 21-year monopoly on trade east of the Cape of Good Hope and west of the Strait of Magellan. The company was capitalized by six chambers (Amsterdam, Zeeland, etc.) with a total of 6.4 million guilders. The VOC was the first joint-stock company with limited liability and publicly traded shares. For nearly two centuries, the VOC was the world's largest commercial enterprise, with 150 merchant ships and about 50,000 employees.",
+        "a": 52.4,
+        "l": 4.9,
+        "c": "Economy",
+        "r": "Netherlands",
+        "o": "Europe"
+      },
+      {
+        "t": "Abyssinian War",
+        "s": "Around 1599, the Ethiopian Empire under Emperor Sarsa Dengel defeated the Adal Sultanate, which was supported by the Ottomans. Ethiopia successfully defended its existence as a Christian state.",
+        "a": 9.0,
+        "l": 38.0,
+        "c": "Military",
+        "r": "Ethiopia",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": 1600,
+    "d": [
+      {
+        "i": "ming",
+        "n": "Ming",
+        "u": "Wanli Emperor Zhu Yijun",
+        "e": "28th year of Wanli"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Sekigahara",
+        "s": "On 21 October 1600, Tokugawa Ieyasu's eastern army and Ishida Mitsunari's western army fought at Sekigahara in Mino Province (present-day Gifu Prefecture). The western army collapsed when Kobayakawa Hideaki defected. Tokugawa Ieyasu established the Edo Shogunate in 1603.",
+        "a": 35.4,
+        "l": 136.5,
+        "c": "Military",
+        "r": "Japan",
+        "o": "Asia"
+      },
+      {
+        "t": "English East India Company Founded",
+        "s": "On 31 December 1600, Queen Elizabeth I granted a royal charter to a group of London merchants, establishing the English East India Company. The company was granted a 15-year monopoly on trade east of the Cape of Good Hope.",
+        "a": 51.51,
+        "l": -0.13,
+        "c": "Economy",
+        "r": "England",
+        "o": "Europe"
+      },
+      {
+        "t": "Bruno Burned at the Stake",
+        "s": "On 17 February 1600, Italian philosopher Giordano Bruno was burned at the stake by the Roman Inquisition in the Campo de' Fiori, Rome. Bruno not only supported Copernicus's heliocentrism but also proposed the infinite universe and the existence of many worlds. He was tried for eight years but refused to recant his philosophical beliefs. Bruno's death became a symbol of the conflict between scientific inquiry and religious dogma.",
+        "a": 41.9,
+        "l": 12.47,
+        "c": "Religion",
+        "r": "Papal States",
+        "o": "Europe"
+      },
+      {
+        "t": "Birth of Opera",
+        "s": "In 1600, the Italian composer Jacopo Peri's opera 'Euridice' was performed at the Pitti Palace in Florence in celebration of the wedding of King Henry IV of France and Maria de' Medici. 'Euridice' is considered the earliest complete opera surviving today. Opera, which integrates music, poetry, and drama, inaugurated a new Baroque art form.",
+        "a": 43.77,
+        "l": 11.25,
+        "c": "Culture",
+        "r": "Italy",
+        "o": "Europe"
+      },
+      {
+        "t": "William Gilbert Publishes 'De Magnete'",
+        "s": "The English physician and physicist William Gilbert published 'De Magnete, Magneticisque Corporibus, et de Magno Magnete Tellure' (On the Magnet and Magnetic Bodies, and on the Great Magnet the Earth). Through extensive experiments, he proposed that the Earth itself is a great magnet and distinguished between magnetic and electric forces. This work is considered a foundational text of modern physics and magnetism, systematically studying electromagnetic phenomena for the first time, influencing Kepler and Galileo.",
+        "a": 51.51,
+        "l": -0.09,
+        "c": "Science",
+        "r": "England",
+        "o": "Europe"
+      }
+    ]
+  }
+]

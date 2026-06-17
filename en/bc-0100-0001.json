@@ -1,0 +1,3801 @@
+[
+  {
+    "y": -100,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "1st year of Tianhan"
+      }
+    ],
+    "v": [
+      {
+        "t": "Greek Philosophy Spreads in Rome",
+        "s": "As Rome conquered the Hellenistic world, many Greek philosophers traveled to Rome to teach. Stoics Panaetius and Posidonius gained many followers among Roman aristocrats. Stoicism emphasized reason, duty, and world citizenship, profoundly influencing Roman law, politics, and education, providing the intellectual foundation for Roman jurisprudence and imperial governance. Cicero was later deeply influenced by this school.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Western Han Imperial Academy Expands",
+        "s": "During Emperor Wu's reign, the Imperial Academy was established in Chang'an, where Erudites of the Five Classics taught Confucian texts. Initially enrolling 50 students, the numbers grew yearly. The Academy trained many civil officials for Han and promoted Confucianism as the state ideology. This state-run higher education system was inherited by later dynasties.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Culture",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Wu Changes Era to Tianhan",
+        "s": "The previous year, Li Guangli's expedition against Dayuan (Ferghana) brought back heavenly horses with blood-like sweat. Emperor Wu saw this as an auspicious omen of Han prestige spreading afar, and changed the era name to Tianhan (Heavenly Han), evoking the Milky Way as a symbol of Han's eternal brilliance. This was his sixth era change, each carrying specific political meaning.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome and Parthia Confront in Mesopotamia",
+        "s": "The Roman Republic and Parthian Empire formed a military standoff in Mesopotamia. Parthian King Mithridates II expanded west to the Euphrates, directly contacting Rome's Syrian sphere. Although no large war broke out, border clashes continued, setting the stage for three centuries of Roman-Parthian warfare.",
+        "a": 35.0,
+        "l": 40.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Asia"
+      },
+      {
+        "t": "Su Wu Sent as Envoy to Xiongnu",
+        "s": "Emperor Wu sent Su Wu as envoy to the Xiongnu to escort Xiongnu envoys home and repair relations. When Su Wu prepared to return, internal strife erupted among the Xiongnu. His deputy Zhang Sheng became implicated in a rebellion. The Xiongnu Chanyu detained Su Wu and demanded surrender. Su Wu declared, 'To betray my integrity and disgrace my mission - even alive, how could I face Han?' He attempted suicide but was rescued. The Chanyu exiled him to herd sheep by Lake Baikal, claiming he could only return when rams gave birth.",
+        "a": 34.3,
+        "l": 108.86,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -99,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "2nd year of Tianhan"
+      }
+    ],
+    "v": [
+      {
+        "t": "Sima Qian Receives Castration",
+        "s": "In Tianhan 2nd year (99 BC), Li Ling was defeated and surrendered to the Xiongnu. Emperor Wu was furious. Grand Historian Sima Qian defended Li Ling, arguing he killed over 10,000 enemies with 5,000 infantry against 80,000 cavalry - a glorious defeat, his surrender likely out of necessity. Emperor Wu saw this as criticism of General Li Guangli, had Sima Qian imprisoned and sentenced to death. Under Han law, death could be commuted by paying 500,000 cash or accepting castration. Unable to pay, Sima Qian chose castration to complete his father's work and the unfinished Records of the Grand Historian. He devoted himself to writing, completing China's first comprehensive history in 14 years.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Culture",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Li Ling Defeated and Surrenders to Xiongnu",
+        "s": "General Li Guangli led 30,000 cavalry against the Xiongnu. Emperor Wu ordered Li Ling to transport supplies. Li Ling requested to lead 5,000 infantry north from Juyan. After 30 days they reached Junji Mountains, encountering Chanyu Qiedihou's 80,000 main cavalry. Li Ling formed a wagon fortress, unleashing thousand crossbows, killing thousands. After days, arrows depleted, reinforcements never came, and Li Ling was forced to surrender. Emperor Wu initially thought Li Ling died in battle, then raged upon learning of his surrender. Sima Qian was castrated for defending Li Ling. The Chanyu married his daughter to Li Ling, enfeoffing him as King of the Right, but Li Ling never returned to Han.",
+        "a": 43.0,
+        "l": 108.0,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Western Region Instruments Enter Han",
+        "s": "With the Silk Road opening, Western Region music and instruments entered the Han court. Hujia, pipa, konghou, and qiangdi became popular in Chang'an. Western melodies and the Whirling Dance gained favor among royalty and nobility. This cross-cultural exchange enriched Han music and showed the Silk Road was not just a trade route but also a cultural bridge.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Music",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman Senate Sends Missions East",
+        "s": "The Roman Senate dispatched multiple missions to Pontus, Parthia, and Egypt. The Senate played a central role in foreign policy, sending and receiving envoys, ratifying treaties, and declaring war and peace. This aristocratic collective decision-making reflected Rome's tradition of checks and balances, though criticized for slowness.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Populares-Optimates Conflict Intensifies",
+        "s": "Roman Republic's political struggle reached a fever pitch. The Populares and Optimates clashed violently over land distribution, citizenship rights, and judicial reform. Tribune Saturninus' land bill sparked massive riots. This decades-long struggle erupted into the Marius-Sulla civil war, fundamentally shaking the Republic's foundations.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -98,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "3rd year of Tianhan"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Wu Imposes Property Tax and Informant Policy",
+        "s": "To increase revenue and target wealthy merchants, Emperor Wu adopted Zhang Tang and Sang Hongyang's advice, implementing the suanmin (property tax on merchants and moneylenders) and gaomin (encouraging reporting of hidden property, with half the confiscated assets as reward) policies. State revenue surged short-term, but commerce declined, informants flourished, and many upper-middle-class families were ruined.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Economy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Ptolemaic Egypt Adopts Greek Farming",
+        "s": "Under Ptolemaic rule, Greek immigrants and rulers introduced olive cultivation, viticulture, and crop rotation to the Nile Valley, along with new types of irrigation wheels and olive presses. These agricultural exchanges increased Egyptian farming diversity and output, while spreading Hellenistic culture in Egypt.",
+        "a": 26.0,
+        "l": 32.0,
+        "c": "Technology",
+        "r": "Egypt",
+        "o": "Africa"
+      },
+      {
+        "t": "Parthian Empire Expands to Euphrates",
+        "s": "Under Mithridates II, the Parthian Empire continued expanding west. Parthian cavalry, using flexible mounted archery tactics, occupied northern Mesopotamia and pushed to the Euphrates, directly confronting Rome's Syrian and Anatolian spheres. This westward policy established nearly three centuries of strategic confrontation with Rome.",
+        "a": 33.0,
+        "l": 44.0,
+        "c": "Military",
+        "r": "Parthian Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -97,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "4th year of Tianhan"
+      }
+    ],
+    "v": [
+      {
+        "t": "Li Guangli Attacks Xiongnu from Wuyuan",
+        "s": "Emperor Wu mobilized large numbers of troops, sending General Li Guangli with 30,000 cavalry from Wuyuan Commandery to attack the Xiongnu. This was a major operation in Han's total war against the Xiongnu. Li Guangli achieved some results, but suffered heavy losses, reflecting the troop depletion and logistical difficulties of Emperor Wu's later years.",
+        "a": 42.0,
+        "l": 110.0,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman Public Bath Architecture Matures",
+        "s": "Roman Republic's public baths evolved into comprehensive complexes combining bathing, exercise, socializing, and reading. A standard bath complex included changing rooms, frigidarium, tepidarium, caldarium, and laconicum, with underground hypocaust heating. Baths became indispensable social venues, reflecting Roman architectural and cultural prosperity.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Roman Small Farmers' Bankruptcy Worsens",
+        "s": "Roman social contradictions intensified: aristocrats annexed large amounts of land, bankrupting small farmers who fled to cities as proletarians; Italian allies demanded Roman citizenship; conquered provinces bore heavy taxes. These contradictions erupted in 91 BC as the Social War.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Society",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -96,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "1st year of Taishi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Seleucid Empire Falls",
+        "s": "The Seleucid Empire, once spanning Syria, Mesopotamia, and Persia, finally fell under continuous internal strife and external pressure. After last king Antiochus XIII was deposed, Pompey annexed remaining territory into Syria province, while eastern lands fell to Parthia. Seleucid fall marked the Hellenistic era's end, with Rome and Parthia becoming the Middle East's two dominant powers.",
+        "a": 33.5,
+        "l": 36.3,
+        "c": "Politics",
+        "r": "Seleucid Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Wu Changes Era to Taishi",
+        "s": "Emperor Wu used 11 era names during his reign, among the first Chinese emperors to do so extensively. Taishi (96-93 BC) was his seventh era, meaning 'Beginning of the Great Era'. That year, he declared a general amnesty and performed a series of sacrifices to heaven and earth. Frequent era changes reflected his love of grandeur and pursuit of auspicious omens.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Wu Expands Music Bureau",
+        "s": "Emperor Wu ordered expansion of the Music Bureau (Yuefu), responsible for collecting folk songs, composing ritual music, and training musicians. The collected folk ballads (Yuefu poetry) truthfully reflected all social strata's lives, becoming China's second great collection of folk poetry after the Book of Songs, influencing later five-character and seven-character poetry.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Literature",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Greek Philosophy Grows in Roman Circles",
+        "s": "Greek philosophy's influence grew in Roman intellectual circles. Stoicism, with its systematic ethics and emphasis on world reason, was most popular among the elite, while Epicureanism also spread among lower classes. Roman aristocrats hired Greek philosophers as tutors, and Greek became a required subject for elite youth.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -95,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "2nd year of Taishi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Western Han Resumes Heqin with Xiongnu",
+        "s": "After years of war, Emperor Wu in his later years shifted strategy from all-out offense to active defense combined with marriage alliances. Han continued the heqin policy, marrying imperial princesses to Xiongnu Chanyus, annually presenting silk, grain, and wine to reduce border raids and ease fiscal pressure.",
+        "a": 42.0,
+        "l": 110.0,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Frequent Han-Western Region Envoys",
+        "s": "Since Zhang Qian's two missions, diplomatic and commercial exchanges between Han and the Western Regions grew increasingly frequent. Han sent dozens of missions yearly, each hundreds strong, carrying silk and gold coins. Western Region states reciprocated with envoys to Chang'an. Close political, economic, and cultural ties drove Silk Road prosperity.",
+        "a": 40.0,
+        "l": 85.0,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman Rhetoric Education Matures",
+        "s": "Roman Republic's rhetoric education formed a complete system from basic grammar to advanced rhetoric. After basic grammar, aristocratic youth entered rhetoric schools to learn debating, public speaking, and law - the required path to becoming lawyers, judges, or politicians. Roman rhetoric, though Greek-influenced, emphasized practicality and courtroom skills. Cicero was its most outstanding product.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Education",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Rome Builds Temple of Mars",
+        "s": "The Roman Republic built a magnificent temple to Mars, Rome's guardian god, in the Campus Martius. Mars, both god of war and agriculture, ranked second only to Jupiter. The temple featured Greek peripteral style with a large altar and sculptures, a representative religious building of the Republic.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -94,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "3rd year of Taishi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Wu Fathers Liu Fuling in Old Age",
+        "s": "Emperor Wu fathered Liu Fuling (later Emperor Zhao) in his old age, born to Lady Gouyi (Zhao). Delighted, Wu faced a difficult succession choice after Crown Prince Liu Ju's wrongful death in the witchcraft scandal. He ultimately appointed the infant as heir and ordered his mother's death to prevent consort clan interference.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Xiongnu Split Over Succession",
+        "s": "The Xiongnu ruling group split into multiple factions over Chanyu succession. After Chanyu Hulugu's death, his son and brother fought fiercely, with multiple princes raising troops independently. This infighting greatly weakened Xiongnu military power, with some tribal leaders submitting to Han. Xiongnu internal division brought several years of peace to Han's northwest border.",
+        "a": 44.0,
+        "l": 112.0,
+        "c": "Politics",
+        "r": "Xiongnu",
+        "o": "Asia"
+      },
+      {
+        "t": "Su Wu Herds Sheep at Baikal",
+        "s": "Su Wu was now in his seventh year of detention. Chanyu Qiedihou repeatedly tried to persuade him to surrender - offering high rank, imprisoning him in a cellar without food, then exiling him to desolate Lake Baikal to herd sheep. Su Wu always held his Han credentials, unyielding, surviving extreme hardship, becoming a symbol of Chinese integrity.",
+        "a": 55.0,
+        "l": 105.0,
+        "c": "Society",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -93,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "4th year of Taishi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Pontus-Rome Conflict Escalates",
+        "s": "King Mithridates VI of Pontus exploited Rome's entanglement in the Social War to invade Rome's Asia province. He incited Greek cities to rebel, massacring about 80,000 Romans and Italians in the province overnight. This sparked the First Mithridatic War (89-85 BC), with Sulla ultimately defeating Pontus.",
+        "a": 39.0,
+        "l": 35.0,
+        "c": "Military",
+        "r": "Kingdom of Pontus",
+        "o": "Asia"
+      },
+      {
+        "t": "Han Frontier Poetry Emerges",
+        "s": "With the prolonged Han-Xiongnu war, ballads reflecting frontier military life spread among troops. These frontier poems depicted soldiers' hardships, homesickness, and patriotic zeal. Emperor Wu's establishment of the Music Bureau collected these folk poems, making frontier poetry a key Yuefu genre and influencing Tang dynasty frontier poetry.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Literature",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -92,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "1st year of Zhenghe"
+      }
+    ],
+    "v": [
+      {
+        "t": "Witchcraft Scandal Begins",
+        "s": "Emperor Wu's later years saw the worst political event - the Witchcraft Scandal. Sick and suspicious, Emperor Wu's favored minister Jiang Chong falsely accused Chancellor Gongsun He of burying dolls in a tunnel to the emperor's bedchamber. Gongsun He and his son were executed and their clan exterminated. Jiang Chong extensively implicated many, with tens of thousands dying unjustly. The scandal culminated in Crown Prince Liu Ju's wrongful suicide.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Chang'an Plunges into Witchcraft Panic",
+        "s": "Weak with age, Emperor Wu grew increasingly suspicious, dreaming of being attacked by countless dolls, becoming convinced someone was using witchcraft against him. Jiang Chong exploited this, falsely accusing officials and concubines of witchcraft. Informants flourished in Chang'an, tens of thousands were imprisoned, and terror gripped the capital.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Society",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -91,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "2nd year of Zhenghe"
+      }
+    ],
+    "v": [
+      {
+        "t": "Sima Qian Completes Records of the Grand Historian",
+        "s": "After suffering castration, Sima Qian devoted himself to writing, completing Records of the Grand Historian, China's first comprehensive history. The work has 130 chapters, over 520,000 characters, covering about 3,000 years from the Yellow Emperor to Emperor Wu. It pioneered the biographical style of history writing, deeply influencing later historiography, praised by Lu Xun as 'the historian's masterpiece, a rhymeless Li Sao.'",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Culture",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Crown Prince Liu Ju Dies in Witchcraft Scandal",
+        "s": "Jiang Chong excavated pre-buried dolls in the crown prince's palace. Unable to prove his innocence, Crown Prince Liu Ju, on tutor Shi De's advice, raised troops to kill Jiang Chong. Emperor Wu, believing rumors of rebellion, sent Chancellor Liu Qumao to suppress. Defeated, Liu Ju fled with his two sons to Hu County (modern Lingbao, Henan), where they were surrounded by local officials; Liu Ju hanged himself and his sons were killed. Upon learning the truth, Emperor Wu regretted deeply, built the 'Palace of Yearning' to mourn, and exterminated Jiang Chong's clan.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -90,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "3rd year of Zhenghe"
+      }
+    ],
+    "v": [
+      {
+        "t": "Li Guangli Defeated, Surrenders to Xiongnu",
+        "s": "General Li Guangli led 70,000 Han troops from Wuyuan against the Xiongnu, encountering the main force at Yanran Mountain (modern Khangai Mountains, Mongolia). Initial victory gave way to defeat as supply lines stretched and troops tired, allowing the Xiongnu to encircle and crush them. Li Guangli surrendered, becoming another Han general to defect after Li Ling. Enraged, Emperor Wu executed Li Guangli's entire family. This defeat marked the complete failure of Emperor Wu's later Xiongnu campaigns.",
+        "a": 43.0,
+        "l": 108.0,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Wu Seeks Immortality",
+        "s": "Emperor Wu obsessively pursued immortality in his later years. He sent alchemists to sea searching for Penglai and Yingzhou mythical islands, built bronze pillars and dew-collecting plates in the palace, and consumed alchemists' pills. He performed the Fengshan sacrifices at Mount Tai seven times, hoping to meet immortals. All attempts failed, and the alchemists were executed one by one as their frauds were exposed.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Religion",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Rome Builds Large Public Basilica",
+        "s": "The Roman Republic built a grand basilica in the Roman Forum for court proceedings and commercial transactions. It featured a rectangular hall divided by columns into nave and aisles, with a semicircular apse at one end for the judge's seat. This architectural form became the prototype for later Christian churches.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -89,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "4th year of Zhenghe"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Wu Issues Luntai Self-Criticism Edict",
+        "s": "During a tour of Juding in Zhenghe 4th year (89 BC), Emperor Wu issued the famous 'Luntai Self-Criticism Edict.' He deeply reflected, admitting years of campaigning 'disturbed the realm, not benefiting the people,' declaring the priority was to 'stop cruelty, end arbitrary taxes, and focus on agriculture.' This edict marked a fundamental shift from militarism to restorative governance, laying the policy foundation for the later Zhao-Xuan Restoration.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Zhao Guo Promotes Alternate Field Method",
+        "s": "Western Han Agricultural Commandant Zhao Guo invented the Alternate Field Method (daitianfa) based on folk experience and promoted it in Guanzhong. The method alternated furrows and ridges, planting crops in furrows and mounding soil as they grew, rotating annually to restore fertility. Zhao also improved plows and seed drills, boosting efficiency. The method increased grain yields in Guanzhong by about one-third.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Economy",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -88,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "1st year of Houyuan"
+      }
+    ],
+    "v": [
+      {
+        "t": "Social War Breaks Out",
+        "s": "Rome's Social War with Italian allies reached a critical stage. The war erupted over Rome's refusal to grant citizenship to Italian cities. The Marsi-led Italian rebels formed the 'Italian State' and fought Rome for three years. Rome ultimately prevailed at great cost, but granted citizenship to all Italians, expanding the Republic's social base.",
+        "a": 42.0,
+        "l": 12.5,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Western Han Continues Salt-Iron Monopoly",
+        "s": "Western Han continued Sang Hongyang's state monopoly on salt and iron. The government appointed salt and iron officials, monopolizing production and sales, with all revenue going to the treasury. The monopoly brought hundreds of millions in annual revenue, supporting Emperor Wu's campaigns. But it also led to poor quality, high prices, and inconvenience, sparking controversy about 'competing with the people for profit.'",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Economy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Wu Arranges Succession",
+        "s": "Emperor Wu made careful arrangements for young Liu Fuling's succession. He ordered the death of Liu Fuling's mother Lady Gouyi to prevent a repeat of Empress Lu's domination. He also summoned trusted ministers Huo Guang, Jin Midi, Shangguan Jie, and Sang Hongyang to his sickbed, entrusting them to jointly assist the young emperor.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Wu Appoints Liu Fuling Crown Prince",
+        "s": "Emperor Wu formally appointed seven-year-old Liu Fuling as crown prince while gravely ill. To ensure safe succession, he executed Lady Gouyi to prevent consort clan interference, appointed Huo Guang as Grand Marshal and General-in-Chief to lead the government, with Jin Midi and Shangguan Jie as deputies and Sang Hongyang managing finances. These deathbed arrangements ensured a smooth power transition.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -87,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Wu of Han (Liu Che)",
+        "e": "2nd year of Houyuan"
+      },
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Zhao of Han (Liu Fuling)",
+        "e": "1st year of Shiyuan"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Wu Dies, Emperor Zhao Ascends",
+        "s": "Emperor Wu died at Wuzuo Palace at age 70. Reigning 54 years, he was among China's longest-reigning emperors. He massively expanded territory, elevated Confucianism, and opened the Silk Road, but his constant wars and harsh policies exhausted the people. Crown Prince Liu Fuling ascended as Emperor Zhao at age 8, with Huo Guang, Jin Midi, Shangguan Jie, and Sang Hongyang as regents.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Huo Guang Regents, Promotes Recovery",
+        "s": "After Emperor Zhao ascended, Grand Marshal Huo Guang, by imperial edict, served as regent. Huo continued Emperor Wu's later restorative policies, reducing taxes and corvee, allowing the war-weary and scandal-shaken Han to rapidly recover stability. Huo's regency set a precedent for powerful ministers but also planted seeds for future Huo clan dominance.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Su Wu Remains Detained by Xiongnu",
+        "s": "Su Wu was now in his 14th year of Xiongnu detention. The Chanyu repeatedly threatened and tempted him, but Su Wu remained unmoved, herding sheep at Lake Baikal, clutching his Han credentials whose tassels had all fallen off. His unwavering integrity became widely known among the Xiongnu, paving the way for his eventual return.",
+        "a": 55.0,
+        "l": 105.0,
+        "c": "Diplomacy",
+        "r": "Xiongnu",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -86,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Zhao of Han (Liu Fuling)",
+        "e": "1st year of Shiyuan"
+      }
+    ],
+    "v": [
+      {
+        "t": "Xiongnu Invade Wuhuan",
+        "s": "Xiongnu Chanyu Huyandi mobilized cavalry to massively invade the Wuhuan tribe (modern Chifeng, Inner Mongolia and Laoha River basin). The Wuhuan, originally a Donghu branch, were forced into submission when Xiongnu dominated the steppe, annually paying leather and war horses. This invasion aimed to consolidate eastern steppe control, but pushed Wuhuan toward Han for protection.",
+        "a": 42.0,
+        "l": 118.0,
+        "c": "Military",
+        "r": "Xiongnu",
+        "o": "Asia"
+      },
+      {
+        "t": "Western Han Sends Envoys to Pacify Wuhuan",
+        "s": "Facing the Xiongnu invasion of Wuhuan, Emperor Zhao and Huo Guang chose diplomacy, sending envoys to Wuhuan promising military aid in exchange for submission. This strategy successfully brought Wuhuan into Han's camp, weakening Xiongnu influence in Northeast Asia.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -85,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Zhao of Han (Liu Fuling)",
+        "e": "2nd year of Shiyuan"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Zhao Decrees Tax Relief",
+        "s": "Emperor Zhao decreed reduction of land tax rates and reduced poll tax and corvee levies nationwide. Under Huo Guang's leadership, this was a major adjustment to Emperor Wu's heavy tax policies. Tax relief allowed bankrupt farmers to recover and resume production, boosting agricultural recovery and social stability.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Economy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "First Mithridatic War Ends",
+        "s": "Roman general Sulla and King Mithridates VI of Pontus signed a treaty at Dardanus (near the Dardanelles, modern Turkey). Mithridates surrendered all conquered Anatolian territory, 80 warships, and 2,000 talents of silver. The war established Roman dominance in Anatolia but exacerbated tensions between Sulla and the Marians.",
+        "a": 40.0,
+        "l": 35.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -84,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Zhao of Han (Liu Fuling)",
+        "e": "3rd year of Shiyuan"
+      }
+    ],
+    "v": [
+      {
+        "t": "Western Han Implements Border Colonization",
+        "s": "Western Han continued its border colonization strategy. The government recruited landless farmers and reduced-sentence convicts for relocation to the northwest frontier, providing land, oxen, tools, and seeds with tax exemptions for several years. Settlers reclaimed wasteland and built fortified settlements, developing frontier economies and defensive capacity, gradually transforming the northwest from military front to stable farmland.",
+        "a": 38.5,
+        "l": 101.0,
+        "c": "Economy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Sulla-Marius Civil War Erupts",
+        "s": "While Sulla campaigned in the East against Pontus, Marius and Cinna allied with the Populares in Rome to stage a coup, seizing control. Upon hearing this, Sulla marched his army from Greece back to Italy, escalating the conflict into open civil war. This broke Rome's ancient tradition of keeping armies out of Italy, setting a dangerous precedent of Roman armies fighting each other, presaging the Republic's eventual fall.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -83,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Zhao of Han (Liu Fuling)",
+        "e": "4th year of Shiyuan"
+      }
+    ],
+    "v": [
+      {
+        "t": "Western Han Adjusts Policy, Eases Xiongnu Ties",
+        "s": "Emperor Zhao and Huo Guang adjusted Emperor Wu's militaristic border policy toward more pragmatic peaceful diplomacy. Han proactively released Xiongnu prisoners, opened border markets, and reduced patrol troops. These measures significantly eased tensions with Xiongnu and the Western Regions, winning precious peaceful development time for Han.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Sulla Captures Rome",
+        "s": "Sulla landed at Brundisium with his six eastern legions and marched on Rome. For the first time in Roman history, a Roman general led Roman troops against Rome itself. His forces fought the Marians fiercely at the Colline Gate outside Rome, defeating them and seizing the capital. Sulla then declared his enemies 'public enemies,' executing thousands of Marian supporters.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -82,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Zhao of Han (Liu Fuling)",
+        "e": "5th year of Shiyuan"
+      }
+    ],
+    "v": [
+      {
+        "t": "Western Han Social Order Recovers",
+        "s": "After Emperor Wu's later years of constant war and harsh policies, Han social order gradually recovered under Huo Guang's regency. The court promoted restorative policies - reducing taxes, halting foreign campaigns, encouraging farming. Many people displaced by war and heavy taxes gradually returned home, with social production and life returning to normal.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Society",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Sulla Becomes Roman Dictator",
+        "s": "Roman general Sulla became Rome's first dictator to seize power through military force after his civil war victory. He published 'proscription lists,' executing thousands of political enemies, weakened tribune power, and expanded senatorial authority. Sulla's dictatorship opened the era of Roman civil wars and proved the Republic could no longer constrain military commanders.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -81,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Zhao of Han (Liu Fuling)",
+        "e": "6th year of Shiyuan"
+      }
+    ],
+    "v": [
+      {
+        "t": "Salt and Iron Debate",
+        "s": "Emperor Zhao ordered commanderies to recommend over 60 worthy scholars to Chang'an for a landmark debate with Grandee Secretary Sang Hongyang on salt and iron monopoly. The scholars urged abolition of the monopoly and relief for the people; Sang insisted the state must control key economic levers for revenue. The court ultimately retained the monopoly but abolished liquor monopoly and reduced taxes. Under Emperor Xuan, Huan Kuan compiled the debate records into the 'Discourses on Salt and Iron.'",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Economy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Su Wu Returns to Han",
+        "s": "After 19 years of detention, Han envoy Su Wu was finally released and returned to Chang'an. Sent in 100 BC, he endured the Chanyu's threats and temptations with unyielding integrity, exiled to herd sheep at Lake Baikal for 19 years. Returning with white hair and beard, his Han credentials' tassels all worn away. Emperor Zhao honored him as Director of Dependent States. Su Wu's story became a symbol of Chinese loyalty and integrity.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Sulla Resigns Dictatorship",
+        "s": "After becoming dictator for life, Sulla shocked all of Rome by voluntarily resigning all public offices and retiring to his estate at Puteoli to live as a private citizen. Sulla's retirement was unprecedented in Roman history - an absolute dictator voluntarily surrendering power. He died shortly after retiring, reportedly from illness due to excessive drinking. His retirement left Rome with an unresolved political crisis.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Sulla's Reforms Strengthen Senate",
+        "s": "During his dictatorship, Sulla implemented a series of constitutional reforms strengthening the Senate. He expanded the Senate from 300 to 600, appointing supporters from equestrians and aristocrats. Tribune powers were severely curtailed - their proposals required Senate approval, and tribunes were barred from holding other offices. Court juries were returned from equestrians to the Senate. These reforms restored Senate dominance in Roman politics.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -80,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Zhao of Han (Liu Fuling)",
+        "e": "1st year of Yuanfeng"
+      }
+    ],
+    "v": [
+      {
+        "t": "Shangguan Jie's rebellion crushed",
+        "s": "Regent minister Shangguan Jie, in a power struggle with Huo Guang, conspired with Sang Hongyang, Prince Liu Dan of Yan and others to launch a coup, attempting to depose Emperor Zhao of Han and kill Huo Guang. After the conspiracy was exposed, Shangguan Jie and Sang Hongyang were executed, and Prince Liu Dan of Yan committed suicide. Huo Guang gained complete control over the court, but this incident also exposed deep contradictions within the regent group.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Western Han silk weaving reaches world-leading level",
+        "s": "Western Han sericulture and silk weaving technology had reached world-leading levels. Large-scale state-run silk workshops were established in Chang'an, Linzi, Chengdu and other places, with various types of looms capable of producing dozens of silk products including brocade, embroidery, gauze, and silk gauze. Jacquard techniques allowed silk products to feature exquisite patterns and text. Silk was exported to the Roman Empire via the Silk Road, becoming the most popular Chinese commodity.",
+        "a": 34.0,
+        "l": 118.0,
+        "c": "Economy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Continuing political instability in Rome",
+        "s": "Sulla's dictatorial reforms did not fundamentally resolve the political crisis of the Roman Republic, and the covert struggles between different factions never ceased. The contradictions between the equestrian class and the Senate, and the opposition between plebeians and patricians, continued. This political instability created conditions for the later rise of military strongmen such as Caesar.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -79,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Zhao of Han (Liu Fuling)",
+        "e": "2nd year of Yuanfeng"
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome suppresses revolts in Spain and Gaul",
+        "s": "The Roman Republic militarily suppressed local tribes in Spain and Gaul that resisted Roman rule. Through a series of military campaigns, Rome consolidated control over these regions and established them as provinces. Although the Roman provincial system brought the spread of Roman law and culture, it was also accompanied by the exploitation and oppression of local populations.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Western Han continues policy of rest and recovery",
+        "s": "Emperor Zhao of Han and Huo Guang continued the policy of rest and recovery with the people, reducing government expenditures and halting unnecessary construction projects and military actions. The court also issued multiple edicts requiring local officials to promote agriculture and sericulture and to relieve the poor and weak. These measures allowed the Han economy to continuously recover and the treasury to gradually fill.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Economy",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -78,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Zhao of Han (Liu Fuling)",
+        "e": "3rd year of Yuanfeng"
+      }
+    ],
+    "v": [
+      {
+        "t": "Internal strife weakens the Xiongnu",
+        "s": "The Xiongnu erupted in civil strife over the chanyu succession issue, with multiple tribal chiefs raising armies and attacking each other. The Xiongnu's military strength was thus greatly weakened, and their raids on Han border territories significantly decreased. Some Xiongnu tribal chiefs led their people south to submit to the Han dynasty, which took the opportunity to establish the City of Surrender in border areas to accommodate the submitting Xiongnu.",
+        "a": 44.0,
+        "l": 112.0,
+        "c": "Politics",
+        "r": "Xiongnu",
+        "o": "Asia"
+      },
+      {
+        "t": "Sertorian Uprising erupts",
+        "s": "An uprising led by Sertorius erupted in the Roman Republic's province of Spain. Sertorius was a staunch supporter of the Marian faction. He established an independent base in Spain, recruiting from local tribes and Roman exiles to form a well-trained army. His army repeatedly defeated the punitive forces sent by the Roman Senate, persisting in the struggle in Spain for as long as eight years.",
+        "a": 40.4,
+        "l": -3.7,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Roman equestrian class influence expands",
+        "s": "The Roman equestrian class, as a special social stratum, saw its influence steadily expand. Knights originally referred to wealthy citizens serving in the cavalry, later evolving into a class primarily engaged in finance and commerce. They possessed enormous wealth but were excluded from the Senate, leading to sharp political contradictions with the senatorial aristocracy. This contradiction was one of the important roots of political turmoil in the late Roman Republic.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Society",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -77,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Zhao of Han (Liu Fuling)",
+        "e": "4th year of Yuanfeng"
+      }
+    ],
+    "v": [
+      {
+        "t": "Pompey ordered to suppress Sertorian Uprising",
+        "s": "The Roman Senate granted Pompey extraordinary command authority, ordering him to lead an army to Spain to suppress the Sertorian Uprising. Although the 29-year-old Pompey lacked the qualifications to serve as consul, his military talents were recognized by the Senate. The campaign in Spain honed Pompey's military command abilities, laying the foundation for his later rise.",
+        "a": 40.4,
+        "l": -3.7,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "14-year-old Emperor Zhao begins learning governance",
+        "s": "Emperor Zhao of Han turned fourteen, and according to Han dynasty convention, the emperor began learning to handle state affairs. However, actual power remained in the hands of Huo Guang. Emperor Zhao was intelligent and precocious, aware of Huo Guang's monopolization of power, but being young and without partisans, he could only endure silently.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -76,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Zhao of Han (Liu Fuling)",
+        "e": "5th year of Yuanfeng"
+      }
+    ],
+    "v": [
+      {
+        "t": "Parthia sends envoy to Han",
+        "s": "The Parthian Empire sent envoys carrying rare animals such as lions and ostriches to Chang'an to pay tribute to the Han emperor. This was an early formal diplomatic exchange between the two great empires along the Silk Road. Parthia was located in the middle section of the Silk Road, controlling the trade routes from Central Asia to Mesopotamia, serving as an important intermediary in trade between the Han dynasty and Rome.",
+        "a": 33.0,
+        "l": 44.0,
+        "c": "Diplomacy",
+        "r": "Parthia",
+        "o": "Asia"
+      },
+      {
+        "t": "Western Han border farming colonies show results",
+        "s": "After years of management, Western Han's military agricultural colonies on the northwestern border achieved remarkable results. The grain produced in these colonies not only sufficed for self-sufficiency but also supplied passing troops and diplomatic missions. The promotion of these colonies reduced the pressure of transporting provisions from the interior to the border, and also promoted economic development and ethnic integration in the border regions.",
+        "a": 38.5,
+        "l": 101.0,
+        "c": "Economy",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -75,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Zhao of Han (Liu Fuling)",
+        "e": "6th year of Yuanfeng"
+      }
+    ],
+    "v": [
+      {
+        "t": "Western Han culture and education recover and develop",
+        "s": "During Emperor Zhao of Han's reign, the court focused on cultural and educational development. The Imperial Academy in Chang'an continued to enroll academicians, and official schools were established in commanderies and principalities. Classical studies deepened on the foundation laid by Emperor Wu's dismissal of the hundred schools and reverence only for Confucianism, laying the academic groundwork for the later Shiqu Pavilion conference during Emperor Xuan's reign. The recovery of culture and education reflected the social stability and economic development of the Zhao-Xuan period.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Culture",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman gladiator schools arise",
+        "s": "Roman gladiatorial games became increasingly popular. A large school for training gladiators was established in Capua in the Campania region. These gladiators were mostly prisoners of war, slaves, or debtors who fought in pairs to the death in the arena for the cheers of the audience. Victorious gladiators could win their freedom. Gladiatorial culture reflected Roman society's particular fascination with violent entertainment. Seven years later, the Spartacus Uprising would erupt from this very gladiator school in Capua.",
+        "a": 41.1,
+        "l": 14.2,
+        "c": "Society",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -74,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Zhao of Han (Liu Fuling)",
+        "e": "1st year of Yuanping"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Zhao of Han dies",
+        "s": "Emperor Zhao of Han (Liu Fuling) died at the Weiyang Palace at only 21 years old. Emperor Zhao ascended the throne at age 8 and reigned for 13 years, during which Huo Guang served as regent and the country maintained stable development. Emperor Zhao's early death once again plunged the Han dynasty into a succession crisis.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Liu He enthroned then deposed",
+        "s": "Emperor Zhao of Han had no sons, so Huo Guang installed Prince Liu He of Changyi as emperor. Liu He reigned for only 27 days before being deposed by Huo Guang in the name of the empress dowager due to debauchery and disregard for ritual law. When Liu He was deposed, more than two hundred of his attendants were all executed, and all decrees issued during his reign were annulled. Liu He became one of the shortest-reigning emperors in Chinese history.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Xuan of Han enthroned",
+        "s": "After deposing Liu He, Huo Guang installed Emperor Wu's great-grandson Liu Xun as emperor (Emperor Xuan of Han). Liu Xun had lived among the common people in his youth after his grandfather Liu Ju was killed in the witchcraft scandal, so he deeply understood the people's hardships. After taking the throne, he remained frugal, outwardly showing great respect to Huo Guang while inwardly remaining vigilant, waiting for the opportunity to completely eliminate the Huo clan.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -73,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "e": "1st year of Benshi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Spartacus Uprising erupts",
+        "s": "Rome witnessed the largest slave uprising of the ancient world. The Thracian Spartacus led more than 70 gladiators to escape from the Capua gladiator school and established a rebel base on Mount Vesuvius. Escaped slaves and bankrupt peasants from various places joined, quickly swelling the rebel army to tens of thousands. Spartacus demonstrated exceptional military talent, successively defeating the armies of two Roman consuls and campaigning across the Italian peninsula. His goal was to lead the rebel army across the Alps to return to their respective homelands, not to capture Rome. Ultimately, the Roman Senate authorized Crassus to lead eight legions in a full-scale suppression. Crassus restored the brutal practice of decimation to discipline his troops. In the final battle of 71 BC, Spartacus was killed in action, and about 6,000 captured rebels were crucified along the road from Capua to Rome.",
+        "a": 40.55,
+        "l": 14.25,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Xuan rewards supporters",
+        "s": "After his enthronement, Emperor Xuan of Han rewarded the meritorious officials who had supported his ascension. Huo Guang received an additional 17,000 households of fief, Chancellor Cai Yi was enfeoffed as Marquis of Yangping, and other officials involved in the installation received promotions. This rewarding of merit was a necessary strategy for Emperor Xuan to consolidate his rule, but while dispensing rewards, he was also secretly making arrangements to guard against Huo Guang's power becoming too great.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -72,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "e": "2nd year of Benshi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Xuan establishes strict official evaluation system",
+        "s": "Emperor Xuan of Han issued an edict requiring all provinces and commanderies to evaluate and report on local officials with outstanding performance for commendation. Emperor Xuan placed great importance on official governance, believing that if officials are not honest and fair, the way of governance declines. He personally oversaw the evaluations of two-thousand-bushel officials (commandery governor level) and frequently summoned newly appointed commandery governors to inquire about their administrative strategies. Under Emperor Xuan's promotion, Han dynasty official governance reached its peak.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Lucullus campaigns against Pontus",
+        "s": "Roman general Lucullus led an expedition against the Kingdom of Pontus. Using flexible tactics, he defeated Mithridates VI at the Battle of Cabira despite being outnumbered, and occupied large territories of Pontus. However, in subsequent campaigns, Lucullus's excessively strict discipline caused a soldier mutiny. Combined with interference from his political enemies in Rome, he was eventually recalled, and Pompey took over command.",
+        "a": 39.0,
+        "l": 35.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -71,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "e": "3rd year of Benshi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Huo Guang's wife poisons Empress Xu",
+        "s": "Huo Guang's wife Huo Xian, wanting her daughter Huo Chengjun to become empress, bribed the female physician Chunyu Yan to mix poison into Empress Xu's medicinal broth during childbirth. Empress Xu died of poisoning in her early twenties. After Empress Xu's death, Huo Chengjun was indeed installed as empress. Huo Guang was greatly shocked when he later learned the truth, but to preserve his family, he chose to conceal the matter until his death.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Spartacus Uprising suppressed",
+        "s": "Crassus led Roman legions to finally defeat Spartacus's rebel army at the Battle of Apulia. Spartacus was killed in action, and about 6,000 captured rebels were crucified along the road from Capua to Rome. Although the Spartacus Uprising was suppressed, it dealt a heavy blow to Rome's slave-based economy and accelerated the political transformation of the Roman Republic.",
+        "a": 40.55,
+        "l": 14.25,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -70,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "e": "4th year of Benshi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Xuan forced to make Huo Chengjun empress",
+        "s": "After Empress Xu was poisoned by the Huo family, Huo Guang forced Emperor Xuan of Han to install his daughter Huo Chengjun as empress. After Huo Chengjun became empress, the Huo clan's power reached its peak. However, Emperor Xuan was extremely dissatisfied with the Huo family. He outwardly showed great respect to Huo Guang while secretly building up strength to eliminate the Huo clan's influence. Empress Huo was later deposed after the Huo clan's downfall.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman poet Virgil is born",
+        "s": "Rome's greatest poet, Virgil, was born in the village of Andes near Mantua in northern Italy. His epic poem the Aeneid tells the mythological story of the Trojan hero Aeneas who, after many hardships, came to Italy to found the Roman city-state. It is hailed as the pinnacle of Latin literature. Virgil's works profoundly influenced later literary figures such as Dante, Shakespeare, and Milton.",
+        "a": 45.1,
+        "l": 10.8,
+        "c": "Culture",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -69,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "e": "1st year of Dijie"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Xuan changes era to \"Dijie\"",
+        "s": "Emperor Xuan of Han changed the era name to \"Dijie,\" meaning \"the earth has restraint,\" reflecting his governing philosophy of valuing agricultural production and the people's livelihood. After the era change, Emperor Xuan further promoted the policy of recovery and rest, reducing taxes, encouraging farming, while strengthening the evaluation of local officials.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Pompey clears Mediterranean pirates",
+        "s": "Rome passed the Lex Gabinia granting Pompey extraordinary command authority to clear pirates throughout the Mediterranean. At that time, piracy on the Mediterranean was rampant, seriously threatening Rome's grain supply. Pompey divided the Mediterranean into thirteen zones, dispatched fleets to attack simultaneously, and essentially eliminated the pirates in just three months.",
+        "a": 36.0,
+        "l": 22.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -68,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "e": "2nd year of Dijie"
+      }
+    ],
+    "v": [
+      {
+        "t": "Huo Guang dies of illness",
+        "s": "Huo Guang, the powerful minister who had effectively controlled the government for nearly twenty years, died of illness in Chang'an. Huo Guang had been entrusted with assisting the young emperor since the late years of Emperor Wu, serving through the reigns of Emperor Zhao and Emperor Xuan. During his tenure, he implemented policies of rest and recovery with the people, maintaining stable development for the state. However, Huo Guang's long-term monopolization of power led to the expansion of the Huo clan, and his wife's poisoning of Empress Xu planted the seeds for the family's destruction. After Huo Guang's death, Emperor Xuan quickly moved to purge the Huo clan.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Xuan begins personal rule",
+        "s": "After Huo Guang's death, Emperor Xuan of Han gradually began to personally take charge of state affairs. Learning from the lesson of Huo Guang's monopolization of power, Emperor Xuan quickly set about redistributing authority. On one hand, he promoted members of his own maternal relatives, the Xu clan, and his grandmother's Shi clan; on the other hand, he gradually reduced the military power and official positions of the Huo clan. Two years later, the Huo clan's rebellion was completely eliminated by Emperor Xuan.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Crassus and Pompey vie for power",
+        "s": "The power struggle between Crassus and Pompey became increasingly overt. Crassus leveraged the prestige gained from suppressing the Spartacus Uprising and the enormous wealth accumulated through commercial activities to influence Roman politics. Pompey won broad popular support through his impressive military achievements in clearing pirates and his Eastern campaigns. Their conflict was later mediated by Caesar, forming the First Triumvirate.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -67,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "e": "3rd year of Dijie"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Xuan eliminates Huo clan",
+        "s": "After Huo Guang's death, Emperor Xuan of Han gradually stripped the Huo clan members of their military power. Huo Guang's son Huo Yu and others conspired to rebel, but after the plot failed, the entire family was executed. Empress Huo was deposed, and the Huo clan's influence was completely eliminated. From then on, Emperor Xuan truly grasped the reins of government.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Pompey given command of Eastern campaign",
+        "s": "Pompey succeeded Lucullus in taking command of the Eastern campaign. He led his army in pursuing Mithridates VI to the eastern shore of the Black Sea, forcing the King of Pontus to flee to the Kingdom of Bosporus, where he eventually committed suicide. Pompey then marched south, subduing King Tigranes of Armenia, annexing Syria, and turning the Jewish Kingdom in Palestine into a Roman client state.",
+        "a": 39.0,
+        "l": 35.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -66,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "e": "4th year of Dijie"
+      }
+    ],
+    "v": [
+      {
+        "t": "Huo Yu's rebellion crushed",
+        "s": "Huo Guang's son Huo Yu, together with Huo clan members and some officials dissatisfied with Emperor Xuan, conspired to rebel, attempting to depose Emperor Xuan. After the plot was exposed, Huo Yu was executed, the Huo clan was wiped out, and Empress Huo was deposed. Emperor Xuan completely eradicated the Huo faction and began his true personal rule.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Pompey conquers Pontus",
+        "s": "Pompey led his army in pursuing Mithridates VI to the eastern shore of the Black Sea, where the King of Pontus ultimately committed suicide in the Kingdom of Bosporus. Pompey annexed most of the territory of the Kingdom of Pontus into the Roman domain and established a series of vassal states in the East, securing Rome's hegemony in Asia Minor and Syria.",
+        "a": 39.0,
+        "l": 35.0,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -65,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "e": "1st year of Yuankang"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Xuan changes era to \"Yuankang\"",
+        "s": "Emperor Xuan of Han changed the era name to \"Yuankang,\" meaning \"beginning of well-being.\" After the change, Emperor Xuan continued the policy of recovery and rest and greatly commended virtuous officials who were diligent and cared for the people. He appointed Huang Ba as Governor of Yingchuan and Gong Sui as Governor of Bohai, among other local officials known for their benevolence. During Emperor Xuan's reign, official governance was clean and honest, later celebrated as the \"Restoration of Emperor Xuan.\"",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman poet Horace is born",
+        "s": "The outstanding Roman poet Horace was born in Venusia in southern Italy. His masterpiece Odes features beautiful language and profound imagery, while his Ars Poetica proposed the literary concept of instructing through pleasure, hailed as a classic work of Western classical literary theory.",
+        "a": 40.3,
+        "l": 15.9,
+        "c": "Culture",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -64,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "e": "2nd year of Yuankang"
+      }
+    ],
+    "v": [
+      {
+        "t": "Pompey conquers Syria",
+        "s": "Pompey led Roman troops into Syria, annexing all remaining territories of the dying Seleucid Empire into the Roman domain and establishing the province of Syria. Pompey then entered Jerusalem, conquered the Jewish Kingdom, and turned it into a Roman client state. After a series of campaigns, Rome's eastern territories expanded to the Euphrates River.",
+        "a": 33.5,
+        "l": 36.3,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Asia"
+      },
+      {
+        "t": "Western Han economy continues recovery",
+        "s": "Driven by the continuous policy of recovery and rest since Emperor Zhao's reign, the Han economy steadily recovered. Agricultural production improved year by year, grain reserves grew increasingly abundant, creating a scene of overflowing granaries with grain piled up and spilling over. Commerce and trade also became active, with new developments in domestic and foreign trade along the Silk Road, as the social economy fully revived.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Economy",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -63,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "e": "3rd year of Yuankang"
+      }
+    ],
+    "v": [
+      {
+        "t": "Augustus, first Roman emperor, is born",
+        "s": "Gaius Octavian (later Emperor Augustus) was born in Rome. His father was the senatorial aristocrat Octavius Gaius, and his mother Atia was the niece of Julius Caesar. Caesar was very fond of this intelligent grandnephew, adopting him as his son and designating him as heir. After Caesar's assassination, the 18-year-old Octavian went to Rome to inherit his estate. With astonishing political skill, he formed the Second Triumvirate with Antony and Lepidus, ultimately defeating his political enemies, unifying Rome, and founding the Roman Empire.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Xuan rectifies wrongful convictions",
+        "s": "Emperor Xuan of Han, addressing the judicial abuses left by the harsh laws of Emperor Wu's era, issued edicts requiring judicial officials everywhere to carefully adjudicate cases and overturn wrongful convictions. Having personally experienced the witchcraft scandal in his youth, where his entire family died unjustly, Emperor Xuan deeply understood the severe consequences of judicial injustice. He appointed Yu Dingguo as Commandant of Justice, and a group of judicial officials known for their fairness were given important positions. During Emperor Xuan's reign, there were multiple general amnesties, and a large number of wrongful convictions were rectified.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Cicero serves as Roman consul",
+        "s": "The famous Roman orator and philosopher Cicero was elected Roman consul. During his term, he exposed and thwarted the Catilinarian conspiracy, winning the title Father of the Fatherland. Cicero's speeches and works had a profound impact on the development of Latin and the formation of Roman jurisprudence.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -62,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "e": "4th year of Yuankang"
+      }
+    ],
+    "v": [
+      {
+        "t": "Catilinarian conspiracy thwarted",
+        "s": "The Roman patrician Catiline, having failed in his campaign for consul, secretly conspired to launch a coup to overthrow the republic. Consul Cicero learned of the conspiracy through his intelligence network and delivered his famous In Catilinam speech in the Senate, forcing Catiline to flee Rome. Catiline was subsequently killed in a military action, and his followers were executed. This event exposed the deep crisis of the Roman Republic.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Western Han borders peaceful",
+        "s": "After years of recovery and rest and diplomatic efforts, the northwestern border of Western Han maintained a relatively peaceful situation. The Xiongnu, weakened by internal strife, were unable to launch large-scale southern incursions, and the various states in the Western Regions maintained friendly relations with the Han dynasty. The stability of the borders created a favorable environment for Han economic development.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -61,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "e": "1st year of Shenjue"
+      }
+    ],
+    "v": [
+      {
+        "t": "Caesar appointed governor of Spain",
+        "s": "After serving as quaestor, Julius Caesar was appointed governor of the province of Spain. During his time in Spain, he accumulated wealth and political capital through military actions and administrative reforms, laying the foundation for his later return to Rome to contend for power.",
+        "a": 40.4,
+        "l": -3.7,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Xuan changes era to \"Shenjue\"",
+        "s": "Emperor Xuan of Han changed the era name to \"Shenjue\" because legend had it that divine sparrows (phoenixes) gathered in Chang'an, which was regarded as an auspicious omen. After the change, Emperor Xuan continued to strengthen official governance and began addressing issues in the Western Regions, preparing for the establishment of the Protectorate of the Western Regions.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Western Han campaigns in the Western Regions",
+        "s": "To maintain the security of the Silk Road and weaken Xiongnu influence in the Western Regions, Emperor Xuan of Han dispatched troops for military campaigns in the Western Regions, defeating small states that resisted Han authority, further consolidating the Han dynasty's position in the Western Regions.",
+        "a": 40.0,
+        "l": 85.0,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -60,
+    "d": [
+      {
+        "e": "2nd year of Shenjue",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "i": "xihan",
+        "n": "Western Han"
+      }
+    ],
+    "v": [
+      {
+        "r": "Western Han",
+        "o": "Asia",
+        "a": 41.5,
+        "s": "Emperor Xuan of Han appointed Zheng Ji as the first Protector General of the Western Regions, establishing the Protectorate which marked the formal incorporation of the Western Regions into Han administrative control. The Protectorate was responsible for managing affairs of the various states in the Western Regions, safeguarding the Silk Road, and coordinating relations with the Xiongnu. This move consolidated Han rule in the Western Regions.",
+        "t": "Western Han establishes the Protectorate of the Western Regions",
+        "c": "Politics",
+        "l": 82
+      },
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 41.9,
+        "s": "Caesar, Pompey, and Crassus formed a secret political alliance known as the First Triumvirate. The three men jointly controlled Roman politics using their military prestige, political influence, and enormous wealth. With the Triumvirate's support, Caesar was elected consul and became governor of Gaul the following year. The Triumvirate collapsed in 53 BC after Crassus died fighting the Parthians, leading to civil war between Caesar and Pompey.",
+        "t": "Formation of the First Triumvirate in Rome",
+        "c": "Politics",
+        "l": 12.5
+      },
+      {
+        "r": "Western Han",
+        "o": "Asia",
+        "a": 40,
+        "s": "With the establishment of the Protectorate of the Western Regions and the decline of Xiongnu power, the Silk Road's security was guaranteed. Chinese silk, lacquerware, and ironware were transported westward, while fine horses, grapes, alfalfa, and walnuts from the Western Regions were brought eastward. The prosperity of the Silk Road promoted cultural exchange between East and West.",
+        "t": "Silk Road trade flourishes",
+        "c": "Economy",
+        "l": 80
+      }
+    ]
+  },
+  {
+    "y": -59,
+    "d": [
+      {
+        "e": "3rd year of Shenjue",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "i": "xihan",
+        "n": "Western Han"
+      }
+    ],
+    "v": [
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 41.9,
+        "s": "With the support of the First Triumvirate, Caesar was elected Roman consul. During his term he pushed through a series of reform bills catering to the common people, including land distribution laws and provincial administration reforms, further consolidating his political base. After his consulship, Caesar became governor of Gaul.",
+        "t": "Caesar elected Roman consul",
+        "c": "Politics",
+        "l": 12.5
+      },
+      {
+        "r": "Western Han",
+        "o": "Asia",
+        "a": 41.5,
+        "s": "After the establishment of the Protectorate of the Western Regions, Han governance in the region achieved remarkable results. Various states of the Western Regions sent envoys to pay tribute, the Silk Road's security was ensured, and Han prestige spread as far as Central Asia.",
+        "t": "Western Han achieves notable results governing the Western Regions",
+        "c": "Politics",
+        "l": 82
+      },
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 41.89,
+        "s": "During his consulship, Julius Caesar ordered the establishment of a public notice board in the Roman Forum, posting daily the resolutions of the Senate and the Popular Assemblies, military reports, and social news, called the Acta Diurna. It was one of the earliest official gazettes in the world, pioneering the dissemination of news.",
+        "t": "Acta Diurna (Daily Gazette) founded in Rome",
+        "c": "Culture",
+        "l": 12.49
+      }
+    ]
+  },
+  {
+    "y": -58,
+    "d": [
+      {
+        "e": "4th year of Shenjue",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "i": "xihan",
+        "n": "Western Han"
+      }
+    ],
+    "v": [
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 47,
+        "s": "Caesar led his army into Gaul as its governor. He first defeated the Helvetii, who were attempting to migrate westward from modern-day Switzerland, and then repelled the invasion of Gaul by the Germanic chieftain Ariovistus. Caesar's military talents and his Commentarii de Bello Gallico made this war famous throughout history.",
+        "t": "Caesar launches the Gallic Wars",
+        "c": "Military",
+        "l": 4
+      },
+      {
+        "r": "Western Han",
+        "o": "Asia",
+        "a": 34.304,
+        "s": "During Emperor Xuan's reign, because the emperor valued official conduct and personally assessed commandery governors, most local officials were diligent and caring. A cohort of virtuous officials including Huang Ba, Gong Sui, and Zhao Guanghan promoted education and developed production across the land, earning the people's praise. This period was hailed as the 'Restoration of Emperor Xuan'.",
+        "t": "Western Han civil service is clean and efficient",
+        "c": "Politics",
+        "l": 108.856
+      },
+      {
+        "r": "Gaul",
+        "o": "Europe",
+        "a": 46.5,
+        "s": "As Caesar conquered Gaul, some Gallic tribes began to unite against Roman rule. The Belgae confederation was the first to rebel but was defeated by Caesar. This Gallic resistance laid the groundwork for Vercingetorix's later great uprising.",
+        "t": "Gallic tribes resist Rome",
+        "c": "Military",
+        "l": 6.5
+      }
+    ]
+  },
+  {
+    "y": -57,
+    "d": [
+      {
+        "e": "1st year of Wufeng",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "i": "xihan",
+        "n": "Western Han"
+      }
+    ],
+    "v": [
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 50.5,
+        "s": "Caesar marched north against the Belgae confederation. After fierce fighting, the Roman legions defeated the famously fierce Belgae and conquered northern Gaul. This victory further consolidated Roman rule in Gaul.",
+        "t": "Caesar defeats the Belgae",
+        "c": "Military",
+        "l": 4
+      },
+      {
+        "r": "Western Han",
+        "o": "Asia",
+        "a": 34.304,
+        "s": "Emperor Xuan of Han changed the era name to 'Wufeng' (Five Phoenixes), signifying the auspicious omen of five phoenixes descending. After the change, Emperor Xuan continued his policy of giving the people respite and strengthened ties with the states of the Western Regions.",
+        "t": "Emperor Xuan of Han changes era name to Wufeng",
+        "c": "Politics",
+        "l": 108.856
+      },
+      {
+        "r": "Korean Peninsula",
+        "o": "Asia",
+        "a": 35.9,
+        "s": "According to Korean historical records, in 57 BC, Bak Hyeokgeose was elected leader of the six tribes of Jinhan and established Seorabeol (modern-day Gyeongju), naming the kingdom 'Silla'. This marked the beginning of Silla, one of the Three Kingdoms of Korea (Goguryeo, Baekje, Silla).",
+        "t": "Legend of the founding of Silla",
+        "c": "Politics",
+        "l": 129
+      }
+    ]
+  },
+  {
+    "y": -56,
+    "d": [
+      {
+        "e": "2nd year of Wufeng",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "i": "xihan",
+        "n": "Western Han"
+      }
+    ],
+    "v": [
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 43.8,
+        "s": "Caesar, Pompey, and Crassus held a conference at Luca in northern Italy to reconfirm the Triumvirate. Caesar promised political support for Pompey and Crassus, while they backed Caesar's military campaigns in Gaul. The conference decided that Pompey and Crassus would become consuls the following year, after which they would receive the provinces of Spain and Syria respectively.",
+        "t": "Conference of Luca of the Triumvirate",
+        "c": "Politics",
+        "l": 10.5
+      },
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 51.5,
+        "s": "Caesar led Roman legions on the first cross-channel expedition to Britain. He landed in Kent and fought local tribes but could not establish a permanent base. After storms damaged his ships, Caesar withdrew to Gaul having obtained nominal submission. This expedition marked the beginning of Rome's relationship with Britain.",
+        "t": "Caesar's expedition to Britain",
+        "c": "Military",
+        "l": -0.1
+      },
+      {
+        "r": "Xiongnu",
+        "o": "Asia",
+        "a": 44,
+        "s": "The Xiongnu suffered ongoing internal strife over the succession of the chanyu, and civil war broke out between the brothers Huhanye and Zhizhi. The Xiongnu split into northern and southern branches; the Southern Xiongnu attached themselves to Han while the Northern Xiongnu continued to oppose it. The division greatly reduced the Xiongnu threat to Han.",
+        "t": "Xiongnu division intensifies",
+        "c": "Politics",
+        "l": 112
+      }
+    ]
+  },
+  {
+    "y": -55,
+    "d": [
+      {
+        "e": "3rd year of Wufeng",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "i": "xihan",
+        "n": "Western Han"
+      }
+    ],
+    "v": [
+      {
+        "r": "Roman Republic",
+        "o": "Asia",
+        "a": 35,
+        "s": "After becoming governor of Syria, Crassus, eager to gain prestige and wealth through military victory, ignored warnings and led an expedition east against the Parthian Empire. He crossed the Euphrates with seven legions, about 40,000 men, beginning his campaign against Parthia. This expedition ultimately ended in disaster.",
+        "t": "Crassus campaigns against Parthia",
+        "c": "Military",
+        "l": 40
+      },
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 51.5,
+        "s": "Caesar invaded Britain again with a larger fleet (800 ships) and five legions. He defeated the British tribal confederation led by Cassivellaunus, forcing the British tribes to submit and pay tribute. However, Caesar still could not establish permanent rule and soon withdrew to Gaul.",
+        "t": "Caesar's second expedition to Britain",
+        "c": "Military",
+        "l": -0.1
+      },
+      {
+        "r": "Western Han",
+        "o": "Asia",
+        "a": 34.304,
+        "s": "In the Xiongnu civil war, Chanyu Huhanye was defeated and led his people south to submit to Han. Emperor Xuan of Han welcomed Huhanye and bestowed rich gifts upon him. The submission of the Southern Xiongnu marked a new phase in Han-Xiongnu relations.",
+        "t": "Southern Xiongnu submits to Han",
+        "c": "Diplomacy",
+        "l": 108.856
+      }
+    ]
+  },
+  {
+    "y": -54,
+    "d": [
+      {
+        "e": "4th year of Wufeng",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "i": "xihan",
+        "n": "Western Han"
+      }
+    ],
+    "v": [
+      {
+        "r": "Roman Republic",
+        "o": "Asia",
+        "a": 36.9,
+        "s": "Crassus' Roman legions encountered the Parthian army at Carrhae (in modern-day southeastern Turkey). Parthian cavalry employed hit-and-run archery tactics, putting the Roman legions at a disadvantage. Crassus' army was surrounded and annihilated; Crassus himself was captured and killed. Rome lost about 20,000 soldiers and its standards were seized. The Battle of Carrhae was one of the worst military defeats in Roman history and ended the First Triumvirate.",
+        "t": "Battle of Carrhae: Crassus' disastrous defeat",
+        "c": "Military",
+        "l": 39
+      },
+      {
+        "r": "Western Han",
+        "o": "Asia",
+        "a": 34.304,
+        "s": "After years of recovery and effective governance under Emperor Xuan, Western Han reached its zenith. The treasury was full, the people were prosperous, the borders were peaceful, and the Silk Road was open. This period was called the 'Restoration of Emperor Xuan' or the 'Rule of Xiaoxuan', another golden age following the 'Rule of Wen and Jing'.",
+        "t": "Western Han reaches peak national power",
+        "c": "Economy",
+        "l": 108.856
+      },
+      {
+        "r": "Parthian Empire",
+        "o": "Asia",
+        "a": 35,
+        "s": "Crassus' catastrophic defeat blunted Rome's eastward expansion, and the Parthian Empire temporarily consolidated its rule over Mesopotamia. Rome thereafter maintained peace with Parthia for decades, until the era of Mark Antony and Octavian.",
+        "t": "Rome's eastern expansion thwarted",
+        "c": "Politics",
+        "l": 40
+      }
+    ]
+  },
+  {
+    "y": -53,
+    "d": [
+      {
+        "e": "1st year of Ganlu",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "i": "xihan",
+        "n": "Western Han"
+      }
+    ],
+    "v": [
+      {
+        "r": "Western Han",
+        "o": "Asia",
+        "a": 34.304,
+        "s": "Emperor Xuan of Han changed the era name to 'Ganlu' (Sweet Dew), meaning 'sweet rain and dew', symbolizing heaven's blessing. After the change, Emperor Xuan continued his policy of giving the people respite and began compiling Confucian classics in preparation for the Stone Canal Pavilion conference.",
+        "t": "Emperor Xuan of Han changes era name to Ganlu",
+        "c": "Politics",
+        "l": 108.856
+      },
+      {
+        "r": "Gaul",
+        "o": "Europe",
+        "a": 47,
+        "s": "After news of the disastrous Battle of Carrhae reached Gaul, Gallic tribes believed Rome was weakened and rose up in rebellion. Caesar had to devote more effort to suppressing Gallic uprisings, laying the groundwork for Vercingetorix's great revolt.",
+        "t": "Gaulish resistance intensifies",
+        "c": "Military",
+        "l": 4
+      }
+    ]
+  },
+  {
+    "y": -52,
+    "d": [
+      {
+        "e": "2nd year of Ganlu",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "i": "xihan",
+        "n": "Western Han"
+      }
+    ],
+    "v": [
+      {
+        "r": "Western Han",
+        "o": "Asia",
+        "a": 34.304,
+        "s": "The Southern Xiongnu Chanyu Huhanye personally came to Chang'an to pay court to Emperor Xuan of Han. The emperor received him with ceremonies higher than those for vassal kings and bestowed lavish gifts. Huhanye's visit marked the Xiongnu's submission to Han and ushered in a period of peace in Han-Xiongnu relations.",
+        "t": "Chanyu Huhanye pays court to Han",
+        "c": "Diplomacy",
+        "l": 108.856
+      },
+      {
+        "r": "Gaul",
+        "o": "Europe",
+        "a": 46.5,
+        "s": "The young Gallic chieftain Vercingetorix united various tribes in a massive uprising against Roman rule. He defeated Caesar at the Battle of Gergovia but was then besieged by Caesar at the fortress of Alesia. Vercingetorix eventually surrendered and the Gallic revolt was crushed.",
+        "t": "Vercingetorix leads a great Gallic uprising",
+        "c": "Military",
+        "l": 3
+      },
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 41.9,
+        "s": "Lucius Cornelius Cinna, a leader of the populares faction, was elected consul with Caesar's support. Cinna implemented a series of reforms favoring the common people but also intensified conflicts with the Senate.",
+        "t": "Cinna becomes Roman consul",
+        "c": "Politics",
+        "l": 12.5
+      }
+    ]
+  },
+  {
+    "y": -51,
+    "d": [
+      {
+        "e": "3rd year of Ganlu",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "i": "xihan",
+        "n": "Western Han"
+      }
+    ],
+    "v": [
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 47.5,
+        "s": "After defeating Vercingetorix at the Battle of Alesia, Caesar continued mopping up remaining resistance. All of Gaul was conquered by Rome and became a Roman province. Caesar's Commentarii de Bello Gallico recorded this eight-year war in detail.",
+        "t": "Caesar completely conquers Gaul",
+        "c": "Military",
+        "l": 4.5
+      },
+      {
+        "r": "Western Han",
+        "o": "Asia",
+        "a": 34.304,
+        "s": "Emperor Xuan convened a Confucian classics conference at the Stone Canal Pavilion north of Weiyang Palace in Chang'an, summoning eminent scholars such as Xiao Wangzhi and Liu Xiang to discuss differences among the Five Classics. The conference unified classical interpretations and promoted the officialization of Confucian thought. This was another important event in Confucian development after Emperor Wu's 'sole veneration of Confucianism'.",
+        "t": "Stone Canal Pavilion Confucian conference",
+        "c": "Culture",
+        "l": 108.856
+      },
+      {
+        "r": "Western Han",
+        "o": "Asia",
+        "a": 34.304,
+        "s": "Emperor Xuan, to honor the officials who had helped him achieve the restoration, ordered portraits of eleven men — Huo Guang, Zhang Anshi, Han Zeng, Zhao Chongguo, Wei Xiang, Bing Ji, Du Yannian, Liu De, Liangqiu He, Xiao Wangzhi, and Su Wu — painted at the Qilin Pavilion in Weiyang Palace. This was a famous tradition of honoring meritorious officials in the Han dynasty.",
+        "t": "Emperor Xuan has meritorious officials painted at Qilin Pavilion",
+        "c": "Culture",
+        "l": 108.856
+      }
+    ]
+  },
+  {
+    "y": -50,
+    "d": [
+      {
+        "e": "4th year of Ganlu",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "i": "xihan",
+        "n": "Western Han"
+      }
+    ],
+    "v": [
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 41.9,
+        "s": "After completing the conquest of Gaul, Caesar returned with his army to Cisalpine Gaul. The Senate, fearing Caesar's military power, demanded that he disband his army before entering Rome. The conflict between Caesar and the Senate intensified, setting the stage for the coming civil war.",
+        "t": "Caesar returns to Rome",
+        "c": "Politics",
+        "l": 12.5
+      },
+      {
+        "r": "Western Han",
+        "o": "Asia",
+        "a": 34.304,
+        "s": "After Huhanye paid court to Han, Han-Xiongnu relations entered a period of peace. Han opened border markets, and the Xiongnu ceased border raids. The opposition between the Northern and Southern Xiongnu allowed Han to manage the Western Regions at leisure.",
+        "t": "Peaceful coexistence between Western Han and Xiongnu",
+        "c": "Diplomacy",
+        "l": 108.856
+      },
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 41.9,
+        "s": "The renowned Roman statesman and philosopher Cicero wrote De Re Publica during this period, expounding his views on the ideal political system and advocating a mixed constitution combining monarchy, aristocracy, and democracy. This work had a profound influence on later political thought.",
+        "t": "Cicero publishes De Re Publica",
+        "c": "Culture",
+        "l": 12.5
+      }
+    ]
+  },
+  {
+    "y": -49,
+    "d": [
+      {
+        "e": "1st year of Huanglong",
+        "u": "Emperor Xuan of Han (Liu Xun)",
+        "i": "xihan",
+        "n": "Western Han"
+      }
+    ],
+    "v": [
+      {
+        "r": "Western Han",
+        "o": "Asia",
+        "a": 34.304,
+        "s": "Emperor Xuan of Han (Liu Xun) died at Weiyang Palace at the age of 43. Crown Prince Liu Shi ascended the throne as Emperor Yuan of Han. Emperor Xuan reigned for 25 years, ushering in the 'Restoration of Emperor Xuan', another golden age of Western Han. Emperor Yuan was weak in character, favoring Confucian scholars and eunuchs, leading Western Han into decline.",
+        "t": "Emperor Xuan of Han dies, Emperor Yuan succeeds",
+        "c": "Politics",
+        "l": 108.856
+      },
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 44.1,
+        "s": "Caesar led the Thirteenth Legion across the Rubicon River, the boundary of Italy proper, violating the law that Roman generals could not bring troops into Italy. Caesar uttered the famous words 'Alea iacta est' (The die is cast). This act triggered the Roman civil war; Pompey and the Senate fled to Greece. Caesar defeated Pompey at the Battle of Pharsalus (48 BC) and became Rome's sole ruler.",
+        "t": "Caesar crosses the Rubicon, civil war erupts",
+        "c": "Military",
+        "l": 12.4
+      }
+    ]
+  },
+  {
+    "y": -48,
+    "d": [
+      {
+        "e": "1st year of Chuyuan",
+        "u": "Emperor Yuan of Han (Liu Shi)",
+        "i": "xihan",
+        "n": "Western Han"
+      }
+    ],
+    "v": [
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 39.5,
+        "s": "Caesar and Pompey faced off in a decisive battle at Pharsalus in Greece. Caesar defeated Pompey's larger army despite being outnumbered. Pompey fled to Egypt after his defeat and was assassinated on the orders of Ptolemy XIII. Caesar became the de facto ruler of Rome.",
+        "t": "Battle of Pharsalus: Caesar defeats Pompey",
+        "c": "Military",
+        "l": 22.3
+      },
+      {
+        "r": "Western Han",
+        "o": "Asia",
+        "a": 34.304,
+        "s": "After ascending the throne, Emperor Yuan changed the era name to 'Chuyuan' (First Beginning). He revered Confucian thought and appointed Confucian ministers such as Xiao Wangzhi and Liu Xiang, attempting to reform the harsh governance of Emperor Xuan's era. However, Emperor Yuan was indecisive, and court affairs gradually fell into the hands of eunuch Shi Xian and others.",
+        "t": "Emperor Yuan changes era name to Chuyuan and begins reign",
+        "c": "Politics",
+        "l": 108.856
+      }
+    ]
+  },
+  {
+    "y": -47,
+    "d": [
+      {
+        "e": "2nd year of Chuyuan",
+        "u": "Emperor Yuan of Han (Liu Shi)",
+        "i": "xihan",
+        "n": "Western Han"
+      }
+    ],
+    "v": [
+      {
+        "r": "Egypt",
+        "o": "Africa",
+        "a": 30,
+        "s": "Caesar pursued Pompey to Egypt and became embroiled in the Egyptian Ptolemaic civil war. He supported Cleopatra VII against her brother Ptolemy XIII for the throne. Caesar's forces defeated Ptolemy XIII's army, Cleopatra became Queen of Egypt, and she and Caesar became lovers.",
+        "t": "Caesar and Cleopatra",
+        "c": "Politics",
+        "l": 31.2
+      },
+      {
+        "r": "Western Han",
+        "o": "Asia",
+        "a": 34.304,
+        "s": "Emperor Yuan, trusting the eunuch Shi Xian, put him in long-term charge of the central secretariat. Shi Xian sidelined Confucian ministers such as Xiao Wangzhi and Zhou Kan, and Xiao Wangzhi was forced to commit suicide. Eunuch power became a major scourge of the late Western Han.",
+        "t": "Eunuch Shi Xian rises to power",
+        "c": "Politics",
+        "l": 108.856
+      },
+      {
+        "r": "Egypt",
+        "o": "Africa",
+        "a": 30,
+        "s": "The civil war between Cleopatra and Ptolemy XIII ended with Caesar's intervention. Ptolemy XIII was defeated and killed, and Cleopatra became the sole ruler of Egypt. However, she still needed Roman support to maintain her rule.",
+        "t": "Ptolemaic civil war",
+        "c": "Politics",
+        "l": 31.2
+      }
+    ]
+  },
+  {
+    "y": -46,
+    "d": [
+      {
+        "e": "3rd year of Chuyuan",
+        "u": "Emperor Yuan of Han (Liu Shi)",
+        "i": "xihan",
+        "n": "Western Han"
+      }
+    ],
+    "v": [
+      {
+        "r": "Roman Republic",
+        "o": "Africa",
+        "a": 36.5,
+        "s": "Caesar defeated Pompey's supporters (including Cato and Scipio) at the Battle of Thapsus in Africa. Cato committed suicide at Utica. Caesar consolidated his control over Rome's African provinces.",
+        "t": "Caesar defeats Pompeian remnants",
+        "c": "Military",
+        "l": 10
+      },
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 41.9,
+        "s": "Caesar adopted the advice of the Alexandrian astronomer Sosigenes to reform the Roman calendar, abolishing the old lunar calendar in favor of a solar calendar (the Julian calendar). The Julian calendar set the year at 365 days with a leap year every four years and was the predecessor of the modern Gregorian calendar.",
+        "t": "Caesar reforms the Roman calendar",
+        "c": "Culture",
+        "l": 12.5
+      },
+      {
+        "r": "Western Han",
+        "o": "Asia",
+        "a": 34.304,
+        "s": "Xiao Wangzhi, Emperor Yuan's tutor and leader of the Confucian ministers, was framed by the eunuch Shi Xian and forced to commit suicide. Although Emperor Yuan knew Xiao was wronged, his weak character prevented him from stopping it. Thereafter, court governance deteriorated further.",
+        "t": "Xiao Wangzhi forced to commit suicide",
+        "c": "Politics",
+        "l": 108.856
+      }
+    ]
+  },
+  {
+    "y": -45,
+    "d": [
+      {
+        "e": "4th year of Chuyuan",
+        "u": "Emperor Yuan of Han (Liu Shi)",
+        "i": "xihan",
+        "n": "Western Han"
+      }
+    ],
+    "v": [
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 37.5,
+        "s": "Pompey's sons gathered an army in Spain to oppose Caesar. Caesar defeated them at the Battle of Munda, eliminating the last resistance of the Pompeian faction. Caesar became the undisputed ruler of Rome.",
+        "t": "Caesar defeats the Spanish rebellion",
+        "c": "Military",
+        "l": -4.5
+      },
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 41.9,
+        "s": "The Roman Senate appointed Caesar dictator perpetuo (dictator for life). Caesar implemented a series of reforms, including expanding the Senate, building public works, and granting Roman citizenship to provincial residents. However, his autocratic rule aroused discontent among republican senators.",
+        "t": "Caesar appointed dictator for life",
+        "c": "Politics",
+        "l": 12.5
+      },
+      {
+        "r": "Western Han",
+        "o": "Asia",
+        "a": 34.304,
+        "s": "During Emperor Yuan's reign, the Guandong region suffered successive floods and droughts, resulting in crop failures and mass displacement. Although the court issued relief orders, corruption and inappropriate policies rendered them ineffective.",
+        "t": "Frequent natural disasters in Han",
+        "c": "Society",
+        "l": 108.856
+      }
+    ]
+  },
+  {
+    "y": -44,
+    "d": [
+      {
+        "e": "5th year of Chuyuan",
+        "u": "Emperor Yuan of Han (Liu Shi)",
+        "i": "xihan",
+        "n": "Western Han"
+      }
+    ],
+    "v": [
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 41.89,
+        "s": "On March 15, 44 BC (the Ides of March), Rome's dictator for life Julius Caesar was stabbed 23 times by over sixty senators led by Brutus and Cassius in the Senate chamber. The assassins claimed they were 'saving the Republic', but their actions instead hastened the Republic's demise. After Caesar's assassination, Rome fell into thirteen years of civil war, ultimately resulting in the establishment of the Empire by his adopted son Octavian (Augustus).",
+        "t": "Julius Caesar assassinated",
+        "c": "Politics",
+        "l": 12.49
+      },
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 41.9,
+        "s": "After Caesar's death, his adopted son Octavian, his lieutenant Mark Antony, and Lepidus formed the Second Triumvirate, receiving full authority to govern the Roman world for five years. The three first purged the republicans, with about 300 senators and 2,000 equestrians, including Cicero, executed in the proscriptions.",
+        "t": "Formation of the Second Triumvirate in Rome",
+        "c": "Politics",
+        "l": 12.5
+      },
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 41.9,
+        "s": "Cicero delivered a series of speeches in the Senate against Mark Antony, called the Philippics (imitating Demosthenes' speeches against Philip II of Macedon). These speeches made him a symbol of the republican cause but also led to his execution in the Second Triumvirate's proscriptions.",
+        "t": "Cicero delivers the Philippics",
+        "c": "Culture",
+        "l": 12.5
+      },
+      {
+        "r": "Western Han",
+        "o": "Asia",
+        "a": 34.304,
+        "s": "Facing successive years of famine and financial hardship, Emperor Yuan issued an edict to reduce some luxurious palaces and recreational facilities and cut court expenses. However, these austerity measures could not fundamentally solve Western Han's political corruption.",
+        "t": "Emperor Yuan cuts expenditures",
+        "c": "Politics",
+        "l": 108.856
+      }
+    ]
+  },
+  {
+    "y": -43,
+    "d": [
+      {
+        "e": "1st year of Yongguang",
+        "u": "Emperor Yuan of Han (Liu Shi)",
+        "i": "xihan",
+        "n": "Western Han"
+      }
+    ],
+    "v": [
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 41.9,
+        "s": "Octavian, Mark Antony, and Lepidus published a 'proscription list' in Rome naming Caesar's assassins and their supporters. About 300 senators and 2,000 equestrians were executed and their property confiscated. Cicero was on the list and was killed by soldiers sent by Mark Antony.",
+        "t": "Second Triumvirate issues proscription",
+        "c": "Politics",
+        "l": 12.5
+      },
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 40,
+        "s": "Brutus and Cassius, Caesar's assassins, fled east and recruited armies in Macedonia and Syria to oppose the Second Triumvirate. They controlled the eastern provinces, preparing for the Battle of Philippi.",
+        "t": "Brutus recruits an army",
+        "c": "Military",
+        "l": 22
+      },
+      {
+        "r": "Western Han",
+        "o": "Asia",
+        "a": 34.304,
+        "s": "Emperor Yuan changed the era name to 'Yongguang' (Everlasting Light). After the change, Yuan became even more dependent on the eunuch Shi Xian for handling state affairs, and court governance grew increasingly corrupt. The Confucian scholar Jing Fang was executed for criticizing Shi Xian's monopoly on power.",
+        "t": "Emperor Yuan changes era name to Yongguang",
+        "c": "Politics",
+        "l": 108.856
+      }
+    ]
+  },
+  {
+    "y": -42,
+    "d": [
+      {
+        "e": "2nd year of Yongguang",
+        "u": "Emperor Yuan of Han (Liu Shi)",
+        "i": "xihan",
+        "n": "Western Han"
+      }
+    ],
+    "v": [
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 41,
+        "s": "Octavian and Mark Antony led their forces against the armies of Brutus and Cassius at Philippi in Macedonia. After two battles, Brutus and Cassius were defeated and committed suicide. The Second Triumvirate completely eliminated the republican faction that had assassinated Caesar, and the eastern Roman provinces came under Mark Antony's control.",
+        "t": "Battle of Philippi",
+        "c": "Military",
+        "l": 24.5
+      },
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 41.9,
+        "s": "After the Battle of Philippi, Octavian, Mark Antony, and Lepidus redivided the Roman world. Antony ruled the East (including Egypt), Octavian ruled the West (Italy and Gaul), and Lepidus ruled Africa. However, Lepidus was the weakest and was soon stripped of power by Octavian.",
+        "t": "Second Triumvirate divides the Roman world",
+        "c": "Politics",
+        "l": 12.5
+      },
+      {
+        "r": "Western Han",
+        "o": "Asia",
+        "a": 35,
+        "s": "During Emperor Yuan's reign, the Qiang people in the Longxi region rebelled due to oppressive officials. The Han sent Feng Fengshi to suppress the rebellion, taking several months to pacify it. This rebellion exposed the weakness of Western Han's border administration.",
+        "t": "Qiang rebellion on the Western Han border",
+        "c": "Military",
+        "l": 104
+      }
+    ]
+  },
+  {
+    "y": -41,
+    "d": [
+      {
+        "e": "3rd year of Yongguang",
+        "u": "Emperor Yuan of Han (Liu Shi)",
+        "i": "xihan",
+        "n": "Western Han"
+      }
+    ],
+    "v": [
+      {
+        "r": "Egypt",
+        "o": "Africa",
+        "a": 30,
+        "s": "During his rule in the East, Mark Antony summoned Queen Cleopatra of Egypt. The two became lovers, and Antony gradually fell under Cleopatra's influence, granting Roman eastern territories to her children. This provoked strong opposition from Octavian.",
+        "t": "Mark Antony meets Cleopatra",
+        "c": "Politics",
+        "l": 31.2
+      },
+      {
+        "r": "Roman Republic",
+        "o": "Europe",
+        "a": 41.9,
+        "s": "To settle veteran soldiers, Octavian confiscated land from multiple cities and landowners in Italy for distribution to troops. This provoked strong resentment among Italian residents, leading to large-scale protests and armed conflict.",
+        "t": "Octavian distributes land in Italy",
+        "c": "Society",
+        "l": 12.5
+      },
+      {
+        "r": "Western Han",
+        "o": "Asia",
+        "a": 34.304,
+        "s": "During Emperor Yuan's reign, due to frequent disasters, corrupt officialdom, and poor fiscal management, the Western Han economy experienced difficulties. The treasury was empty, prices rose, and the people's livelihood grew increasingly hard.",
+        "t": "Western Han economic difficulties worsen",
+        "c": "Economy",
+        "l": 108.856
+      }
+    ]
+  },
+  {
+    "y": -40,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Yuan of Han (Liu Shi)",
+        "e": "4th year of Yongguang"
+      }
+    ],
+    "v": [
+      {
+        "t": "Parthian Empire invades Syria",
+        "s": "Taking advantage of the Roman civil war, the Parthian Empire sent troops to invade the Roman province of Syria. Parthian forces briefly captured Jerusalem but were driven back by Antony's general Ventidius.",
+        "a": 35,
+        "l": 40,
+        "c": "Military",
+        "r": "Parthian Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Treaty of Brundisium",
+        "s": "Antony and Octavian signed a treaty at Brundisium in southern Italy, temporarily easing the conflict between them. The treaty stipulated that Antony would marry Octavian's sister Octavia and agreed to jointly deal with Pompey's son Sextus Pompey.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Yuan of Han abolishes some harsh policies",
+        "s": "Facing increasingly serious social problems, Emperor Yuan of Han issued an edict abolishing some harsh policies left over from Emperor Wu's reign, such as halting the property tax and informant tax in some areas. However, these measures failed to reverse Western Han's decline.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -39,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Yuan of Han (Liu Shi)",
+        "e": "5th year of Yongguang"
+      }
+    ],
+    "v": [
+      {
+        "t": "Antony counterattacks Parthia",
+        "s": "Antony led an eastern campaign against the Parthian Empire. Although he could not completely conquer Parthia, he successfully recovered the occupied territories of Syria and Asia Minor and signed a peace treaty with Parthia.",
+        "a": 35,
+        "l": 40,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Asia"
+      },
+      {
+        "t": "Herod appointed King of Judea",
+        "s": "Antony supported Herod (Herod the Great) becoming ruler of the Kingdom of Judea. Herod was known for his cruelty, but he energetically built cities and the Temple, making Jerusalem a magnificent capital.",
+        "a": 31.8,
+        "l": 35.2,
+        "c": "Politics",
+        "r": "Judea",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -38,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Yuan of Han (Liu Shi)",
+        "e": "1st year of Jianzhao"
+      }
+    ],
+    "v": [
+      {
+        "t": "Antony's eastern campaign thwarted",
+        "s": "Antony continued his eastern campaign against Parthia but suffered heavy losses due to supply difficulties and harassment by Parthian cavalry. He was forced to withdraw without making substantial progress. This failure weakened Antony's prestige.",
+        "a": 36,
+        "l": 42,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Asia"
+      },
+      {
+        "t": "Octavian consolidates power in the West",
+        "s": "Octavian led forces to suppress Sextus Pompey's resistance in Sicily and incorporated Lepidus's army. Lepidus was stripped of power, and Octavian became the sole ruler of the western Roman world.",
+        "a": 45,
+        "l": 2,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Yuan of Han changes era to Jianzhao",
+        "s": "Emperor Yuan of Han changed the era name to 'Jianzhao'. After the change, Yuan continued to trust the eunuch Shi Xian, and court governance became more corrupt. Meanwhile, relations between Western Han and the Xiongnu remained peaceful due to the submission of Chanyu Huhanye.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -37,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Yuan of Han (Liu Shi)",
+        "e": "2nd year of Jianzhao"
+      }
+    ],
+    "v": [
+      {
+        "t": "Antony marries Cleopatra",
+        "s": "Antony formally married Cleopatra and announced the gift of Rome's eastern territories to Cleopatra and her children. This action greatly angered the Romans, and Octavian used it to incite anti-Antony sentiment.",
+        "a": 30,
+        "l": 31.2,
+        "c": "Politics",
+        "r": "Egypt",
+        "o": "Africa"
+      },
+      {
+        "t": "Octavian rebuilds Rome",
+        "s": "Octavian began a large-scale rebuilding of Rome, constructing public buildings such as forums, temples, and aqueducts. He declared he would turn Rome from a city of brick into a city of marble. This project lasted decades and laid the foundation for Roman Imperial architecture.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Western Han suppresses Qiang rebellion",
+        "s": "Emperor Yuan of Western Han sent General Feng Fengshi to suppress the Qiang rebellion in Longxi. The Han army attacked in three columns, beheading thousands, and the Qiang surrendered. Yuan accepted Feng's advice to set up military agricultural colonies in Longxi. The Qiang did not rebel for years, and the western border stabilized.",
+        "a": 35,
+        "l": 104,
+        "c": "Military",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -36,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Yuan of Han (Liu Shi)",
+        "e": "3rd year of Jianzhao"
+      }
+    ],
+    "v": [
+      {
+        "t": "Octavian defeats Sextus Pompey",
+        "s": "Octavian's general Agrippa defeated Sextus Pompey's fleet at the Battle of Naulochus. Sextus fled east and was later executed by Antony. Octavian completely eliminated opposition forces in the West.",
+        "a": 38,
+        "l": 13.5,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Lepidus loses power",
+        "s": "Using the excuse that Lepidus had colluded with Sextus Pompey, Octavian stripped Lepidus of his power. Lepidus was exiled, and the Second Triumvirate effectively became a duel between Octavian and Antony.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Yuan of Han indulges in pleasure",
+        "s": "In his later years, Emperor Yuan of Han indulged in wine and women, neglecting state affairs and handing power to the eunuch Shi Xian. Political corruption and social contradictions in Western Han grew increasingly severe, and the nation's fortunes began to decline.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -35,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Yuan of Han (Liu Shi)",
+        "e": "4th year of Jianzhao"
+      }
+    ],
+    "v": [
+      {
+        "t": "Antony and Octavian relations deteriorate",
+        "s": "Antony's relationship with Cleopatra and his disposition of the eastern territories caused his conflict with Octavian to become open. Octavian spread rumors in Rome that Antony would give Roman territory to Egypt, inciting anti-Antony sentiment.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Parthian Empire consolidates the East",
+        "s": "After signing a peace treaty with Rome, the Parthian Empire turned its attention eastward, consolidating control over Central Asia and the Indian border. Parthia became an important intermediary on the Silk Road connecting China, India, and Rome.",
+        "a": 35,
+        "l": 50,
+        "c": "Military",
+        "r": "Parthian Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -34,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Yuan of Han (Liu Shi)",
+        "e": "5th year of Jianzhao"
+      }
+    ],
+    "v": [
+      {
+        "t": "Antony conquers Armenia",
+        "s": "Antony led his army to conquer Armenia, capturing the Armenian king. He held a triumph in Alexandria, presenting the Armenian crown to Cleopatra. This further intensified his conflict with Octavian.",
+        "a": 40,
+        "l": 44,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Asia"
+      },
+      {
+        "t": "Birth of Emperor Cheng of Han",
+        "s": "Liu Ao (later Emperor Cheng of Han), son of Emperor Yuan of Han, was born. Liu Ao was the son of Yuan and Wang Zhengjun and was later made crown prince. His birth sowed the seeds for Wang Mang's later usurpation of Han.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Yuan of Han abolishes some palaces",
+        "s": "In the 5th year of Chuyuan (34 BC), to save fiscal expenditure, Yuan issued an edict abolishing some palaces and royal hunting grounds and reducing court dining expenses. He also ordered commanderies to stop offering precious tributes. But these austerity measures failed to fundamentally improve the fiscal crisis and land annexation problems since mid-Western Han.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -33,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Yuan of Han (Liu Shi)",
+        "e": "1st year of Jingning"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Yuan of Han dies, Emperor Cheng ascends",
+        "s": "Emperor Yuan of Han (Liu Shi) died at Weiyang Palace. Crown Prince Liu Ao ascended the throne as Emperor Cheng of Han. Yuan reigned for 16 years, during which eunuch Shi Xian dominated the court and Western Han began to decline. After Cheng's accession, the Wang consort clan began to hold power, and Wang Mang gradually rose.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Wang Zhaojun marries the Xiongnu Chanyu",
+        "s": "Emperor Yuan of Han married the palace lady Wang Zhaojun to Chanyu Huhanye of the Southern Xiongnu to consolidate Han-Xiongnu peace. After leaving the frontier, Wang Zhaojun was called 'Ninghu Yanzhi'. Her story became an important theme in later literature and art.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Diplomacy",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -32,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "1st year of Jianshi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Cheng ascends, consort clans rise",
+        "s": "After Emperor Cheng of Han ascended, he honored his mother Wang Zhengjun as Empress Dowager, and the Wang consort clan began to hold power. Wang Zhengjun's brothers Wang Feng, Wang Shang, Wang Yin and others successively served as Grand Marshal and General-in-Chief, dominating the court. This marked the beginning of consort clan autocracy in Western Han.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Octavian and Antony on the eve of the final conflict",
+        "s": "The relationship between Octavian and Antony broke down. Octavian read Antony's will in the Senate, which contained provisions granting Roman territories to Cleopatra and her children. The Senate declared Antony an 'Enemy of the State' and declared war on Cleopatra.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -31,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "2nd year of Jianshi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Actium",
+        "s": "Octavian's fleet engaged the combined fleet of Antony and Cleopatra at Cape Actium on the western coast of Greece. Octavian's commander Agrippa used flexible tactics to rout Antony's fleet. Cleopatra suddenly withdrew with the Egyptian fleet, and Antony followed. This battle decided the final outcome of the Roman civil war. The following year, Octavian marched into Egypt, and Antony and Cleopatra successively committed suicide.",
+        "a": 38.9,
+        "l": 20.7,
+        "c": "Military",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Cheng of Han promotes Confucianism",
+        "s": "Emperor Cheng of Han promoted Confucianism and appointed Confucian scholars, but most Confucian officials were skilled in empty theorizing and lacked practical governing ability. Cheng himself also indulged in pleasure and neglected state affairs, allowing the Wang consort clan to seize power.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Culture",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -30,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "3rd year of Jianshi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Antony and Cleopatra commit suicide",
+        "s": "Octavian marched into Egypt and besieged Alexandria. After being defeated, Antony committed suicide. Cleopatra tried to negotiate with Octavian but failed, and also poisoned herself (rumored by snake bite). The Ptolemaic dynasty of Egypt ended, and Egypt became a Roman province.",
+        "a": 30,
+        "l": 31.2,
+        "c": "Politics",
+        "r": "Egypt",
+        "o": "Africa"
+      },
+      {
+        "t": "Establishment of the Kushan Empire",
+        "s": "The Yuezhi people established the Kushan Empire in Central Asia, with its capital at Balkh. Located at a strategic point on the Silk Road, the Kushan Empire became an important hub connecting China, India, Persia, and Rome. Kushan culture blended Greek, Indian, and Persian elements, significantly influencing the development of Buddhist art.",
+        "a": 37,
+        "l": 70,
+        "c": "Politics",
+        "r": "Kushan Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Cheng neglects state affairs",
+        "s": "After ascending the throne, Emperor Cheng of Han (Liu Ao) neglected state affairs, spending his days feasting in the rear palace with his favorite consorts Zhao Feiyan and Zhao Hede. The Zhao sisters, spoilt by favor, controlled the harem and interfered in court politics. The Wang consort clan (Wang Feng, Wang Shang, etc.) seized the opportunity to control court power, and most officials came from the Wang clan, with Western Han politics becoming increasingly corrupt.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -29,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "4th year of Jianshi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Octavian triumphs in Rome",
+        "s": "Octavian held a magnificent triumph in Rome, celebrating the conquest of Egypt and the unification of Rome. He closed the doors of the Temple of Janus, symbolizing Rome's entry into an era of peace. Octavian became the sole ruler of the Roman world.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Octavian begins republican reforms",
+        "s": "Octavian began implementing a series of political reforms, ostensibly restoring the republican system but actually concentrating power in his own hands. He retained the Senate and popular assemblies but controlled supreme military, financial, and administrative power. This laid the foundation for the establishment of the Principate.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Republic",
+        "o": "Europe"
+      },
+      {
+        "t": "Wang Feng monopolizes power",
+        "s": "Emperor Cheng of Han's uncle Wang Feng was appointed Grand Marshal and General-in-Chief, overseeing the affairs of the Imperial Secretariat and monopolizing court politics. The Wang consort clan's power expanded rapidly, paving the way for Wang Mang's later usurpation of Han.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -28,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "1st year of Heping"
+      }
+    ],
+    "v": [
+      {
+        "t": "Octavian conducts a census",
+        "s": "Octavian ordered the first large-scale census in Roman history, counting Roman citizens. The census showed approximately four million Roman citizens. This census provided a basis for the tax and military service systems of the Roman Empire.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Yellow River flood control",
+        "s": "The Yellow River burst its banks near Wei Commandery, causing widespread flooding. Emperor Cheng of Han sent Wang Yanshi to manage the Yellow River. By combining damming and diversion, he successfully controlled the flood. This effort kept the Yellow River stable for decades.",
+        "a": 35.5,
+        "l": 115,
+        "c": "Economy",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Cheng changes era to Heping",
+        "s": "Emperor Cheng of Han changed the era name to 'Heping', meaning 'Yellow River peaceful'. The change was made because the successful Yellow River flood control was seen as an auspicious omen. But Cheng still neglected state affairs, and the Wang consort clan continued to dominate.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -27,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "2nd year of Heping"
+      }
+    ],
+    "v": [
+      {
+        "t": "Octavian becomes Augustus, Roman Empire founded",
+        "s": "The Roman Senate granted Octavian the title 'Augustus' (meaning 'sacred and majestic'), marking the transition from the Roman Republic to Empire. Augustus retained the facade of the republican system but held supreme power. He established the Principate, and Rome entered the era of 'Pax Romana'.",
+        "a": 41.89,
+        "l": 12.49,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Five Wangs enfeoffed as marquesses",
+        "s": "Emperor Cheng of Han enfeoffed his five uncles - Wang Tan, Wang Shang, Wang Li, Wang Gen, and Wang Fengshi - as marquesses on the same day, historically known as the 'Five Marquesses'. The Wang consort clan's power reached its peak, and court politics were almost entirely monopolized by the Wangs.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -26,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "3rd year of Heping"
+      }
+    ],
+    "v": [
+      {
+        "t": "Liu Xiang collates the classics",
+        "s": "Emperor Cheng of Han ordered Liu Xiang (a famous Western Han scholar) to collate the imperial library's books. Over many years, Liu Xiang classified and organized scattered texts and compiled the 'Bielu', China's earliest bibliographic work. His work made enormous contributions to preserving ancient texts.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Culture",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Augustus tours Gaul",
+        "s": "Augustus went to Gaul for an inspection tour, reviewing provincial administration and promoting Gaul's Romanization. He founded several Roman-style cities in Gaul and promoted Latin language and Roman law.",
+        "a": 47,
+        "l": 4,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Egyptian temple construction flourishes",
+        "s": "Under Roman rule, Egypt continued building Hellenistic-style temples, such as the Temple of Dendera and the Temple of Edfu. These temples blended traditional Egyptian architecture with Greco-Roman elements and are masterpieces of ancient architecture.",
+        "a": 26.1,
+        "l": 32.7,
+        "c": "Culture",
+        "r": "Egypt",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": -25,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "4th year of Heping"
+      }
+    ],
+    "v": [
+      {
+        "t": "Galatia becomes a Roman province",
+        "s": "Augustus incorporated the Kingdom of Galatia in Asia Minor (modern Ankara, Turkey) into Roman territory, establishing the province of Galatia. This further consolidated Roman rule in Asia Minor.",
+        "a": 39,
+        "l": 33,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Augustus campaigns in Spain",
+        "s": "Augustus personally led a campaign against the Cantabri and Astures in northern Spain. After several years of war, Rome finally conquered the entire Iberian Peninsula.",
+        "a": 43,
+        "l": -5,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Western Han reforms currency",
+        "s": "During Emperor Cheng of Han's reign, due to financial difficulties, the court attempted to reform the currency by minting new coins. However, due to technical and management problems, the new coins were of poor quality, the people refused to use them, and the reform failed.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Economy",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -24,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "1st year of Yangshuo"
+      }
+    ],
+    "v": [
+      {
+        "t": "Kingdom of Kush invades Egypt",
+        "s": "The Kingdom of Kush (modern Sudan region) on the upper Nile, taking advantage of Rome's recent occupation of Egypt and unstable rule, sent troops to invade Upper Egypt. Roman garrison forces repelled the Kushite army after fierce fighting, and the two sides subsequently signed a peace treaty.",
+        "a": 24,
+        "l": 33,
+        "c": "Military",
+        "r": "Kingdom of Kush",
+        "o": "Africa"
+      },
+      {
+        "t": "Augustus reforms the judiciary",
+        "s": "Augustus implemented judicial reforms, establishing special courts to handle different cases and promulgating the 'Lex Julia' to regulate marriage and family relations. These reforms strengthened Rome's legal system and social order.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Cheng changes era to Yangshuo",
+        "s": "Emperor Cheng of Han changed the era to 'Yangshuo' (1st year of Yangshuo) and declared a general amnesty. Cheng continued to indulge in pleasure and neglect affairs. The consort relative Wang Feng, as Grand Marshal and General-in-Chief, monopolized court politics, while other Wang brothers and nephews also occupied key positions. The Capital Governor Wang Zhang was imprisoned and executed for impeaching Wang Feng, and thereafter no one in court dared to speak about the consort clan.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -23,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "2nd year of Yangshuo"
+      }
+    ],
+    "v": [
+      {
+        "t": "Augustus falls gravely ill",
+        "s": "Augustus fell gravely ill, and people thought he would soon die. He designated his grandson Marcellus as his successor, but Marcellus died shortly thereafter. Augustus later designated Agrippa and Tiberius as successors.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Wang Feng ousts Wang Shang",
+        "s": "Wang Feng and another consort relative Wang Shang struggled for power. Wang Feng falsely accused Wang Shang of plotting rebellion, forcing Wang Shang to commit suicide. Thereafter, Wang Feng monopolized power, and the Wang consort clan's influence further expanded.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -22,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "3rd year of Yangshuo"
+      }
+    ],
+    "v": [
+      {
+        "t": "Augustus tours the East",
+        "s": "Augustus went to Greece and Asia Minor on an inspection tour, reviewing the administration of the eastern provinces. He stayed in Athens for an extended period, showing keen interest in Greek culture.",
+        "a": 38,
+        "l": 24,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Parthian Empire returns Roman standards",
+        "s": "Through negotiations with the Parthian Empire, Augustus successfully recovered the Roman standards lost by Crassus at the Battle of Carrhae. This was an important diplomatic victory, which Augustus regarded as a symbol of Rome's revival.",
+        "a": 35,
+        "l": 50,
+        "c": "Diplomacy",
+        "r": "Parthian Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Wang Feng dies, Wang Yin succeeds",
+        "s": "After Wang Feng died, his brother Wang Yin succeeded him as Grand Marshal and General-in-Chief, continuing to dominate court politics. The power transition within the Wang consort clan was smooth, with the family monopolizing court politics for a long time.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -21,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "4th year of Yangshuo"
+      }
+    ],
+    "v": [
+      {
+        "t": "Augustus promotes Roman urban development",
+        "s": "Augustus vigorously promoted urban construction in Rome, building magnificent structures such as the Forum of Augustus, the Temple of Mars Ultor, and the Ara Pacis. He declared, 'I found Rome a city of brick and left it a city of marble.'",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Cheng dotes on Zhao Feiyan sisters",
+        "s": "Emperor Cheng of Han was extremely infatuated with the sisters Zhao Feiyan and Zhao Hede. He deposed Empress Xu and made Zhao Feiyan empress. The Zhao sisters, spoiled by favor, became arrogant and interfered in court politics, intensifying conflicts in the harem and among consort clans.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Agrippa marries Julia",
+        "s": "Augustus married his daughter Julia to his right-hand man Agrippa to ensure Agrippa's loyalty to children born of Julia. Agrippa became Augustus's most important military commander.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -20,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "1st year of Hongjia"
+      }
+    ],
+    "v": [
+      {
+        "t": "Augustus signs peace treaty with Parthia",
+        "s": "Augustus, through negotiation with Parthian king Phraates IV, successfully resolved the disputes between the two sides over Armenia and Syria. Parthia recognized Rome's protectorate over Armenia, and Rome returned the Parthian prince. Peace between the two sides lasted for decades.",
+        "a": 35.0,
+        "l": 40.0,
+        "c": "Diplomacy",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Cheng of Han changes era to Hongjia",
+        "s": "Emperor Cheng of Han changed the era name to \"Hongjia\", meaning \"Great Fortune\". After the era change, Emperor Cheng became even more dissolute, building many palaces for entertainment at enormous cost, emptying the treasury.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -19,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "2nd year of Hongjia"
+      }
+    ],
+    "v": [
+      {
+        "t": "Rome completes the conquest of Hispania",
+        "s": "The Roman army completely conquered the Cantabri and Astures of northern Hispania, and the Iberian Peninsula was fully incorporated into the Roman domain. Hispania became an important province of the Roman Empire, providing abundant mineral resources and soldiers.",
+        "a": 40.4,
+        "l": -3.7,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Roman poet Virgil dies",
+        "s": "Rome's greatest poet, Virgil, died in Brundisium at the age of 51. His unfinished epic, the Aeneid, was compiled and published by his friends, becoming the pinnacle of Latin literature.",
+        "a": 40.6,
+        "l": 17.9,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Cheng of Han indulges in pleasure",
+        "s": "Emperor Cheng neglected state affairs, spending all day in pleasure with Zhao Feiyan and her sister. He often left the palace incognito to play in the outskirts of Chang'an, wasting huge sums of money. The court was completely controlled by the Wang clan of consort relatives.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -18,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "3rd year of Hongjia"
+      }
+    ],
+    "v": [
+      {
+        "t": "Augustus promulgates the Lex Julia",
+        "s": "Augustus promulgated the Lex Julia, aimed at encouraging marriage and childbirth while punishing adultery and celibacy. The law required citizens of marriageable age to marry or face tax penalties. These laws reflected Augustus's emphasis on traditional Roman morality.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Herod rebuilds the Temple of Jerusalem",
+        "s": "Herod the Great began a large-scale reconstruction of the Temple of Jerusalem. He expanded the Temple Mount and built a magnificent temple complex, making it one of the most spectacular religious buildings of the ancient world. The reconstruction project lasted for decades.",
+        "a": 31.8,
+        "l": 35.2,
+        "c": "Culture",
+        "r": "Judea",
+        "o": "Asia"
+      },
+      {
+        "t": "Zhao Feiyan slanders Empress Xu",
+        "s": "In 18 BC, Zhao Feiyan, seeking to gain favor, conspired to falsely accuse Empress Xu of using witchcraft in the harem to curse the emperor. Emperor Cheng sent people to search the harem, found the doll Zhao had planted, and deposed Empress Xu. Soon Zhao Feiyan was made Empress, and the Zhao sisters monopolized imperial favor for over a decade.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -17,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "4th year of Hongjia"
+      }
+    ],
+    "v": [
+      {
+        "t": "Augustus holds the Secular Games",
+        "s": "Augustus held a grand Secular Games (Ludi Saeculares) celebration, commemorating Rome's entry into a new era of peace and prosperity. The celebration included theatrical performances, athletic contests, and religious ceremonies lasting several days.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Agrippa builds the Pantheon",
+        "s": "Agrippa built the first Pantheon in Rome, dedicated to all Roman gods. The building featured a rotunda and portico design and was a masterpiece of Roman architectural history. The later Pantheon was rebuilt in 118 AD.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Western Han opens channels of remonstrance",
+        "s": "Facing increasingly severe social crises, Emperor Cheng issued an edict opening channels of remonstrance, encouraging all officials to speak frankly. However, the emperor did not adopt any substantive suggestions, and the reform measures fizzled out.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -16,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "1st year of Yongshi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Zhao Feiyan is made Empress",
+        "s": "After successfully slandering Empress Xu, Zhao Feiyan was formally made Empress by Emperor Cheng. Her sister Zhao Hede was made a consort. The Zhao sisters monopolized imperial favor, pushed out other concubines, and left Emperor Cheng without heirs.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman-Germanic war breaks out",
+        "s": "The conflict between the Roman Empire and the Germanic tribes escalated. Augustus sent Tiberius to lead an army into Germania, beginning Rome's war of conquest against the Germans. Rome attempted to make Germania a province, but ultimately failed.",
+        "a": 51.0,
+        "l": 8.0,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Cheng of Han changes era to Yongshi",
+        "s": "Emperor Cheng changed the era name to \"Yongshi\". After the change, Emperor Cheng became even more dissolute, the Zhao sisters seized power, and the Wang consort clan continued to control the court. The decline of the Western Han became irreversible.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -15,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "2nd year of Yongshi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Germanic tribes revolt against Rome",
+        "s": "The Germanic tribes of the Sicambri, Cherusci, and others united to resist Roman conquest. Tiberius led forces to suppress them, but the Germanic guerrilla tactics put the Roman legions in a difficult position.",
+        "a": 48.0,
+        "l": 12.0,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Rome establishes Gallia Narbonensis",
+        "s": "Augustus established southern Gaul as the province of Gallia Narbonensis, under direct Roman jurisdiction. This region became the most Romanized area of Gaul.",
+        "a": 45.5,
+        "l": 7.0,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Western Han suffers successive years of famine",
+        "s": "The eastern region suffered successive years of floods and droughts, crops failed, and countless people starved to death. Although the court issued edicts for disaster relief, corrupt officials siphoned off most of the relief supplies, leaving the people in dire straits.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Society",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -14,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "3rd year of Yongshi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Augustus implements currency reform",
+        "s": "Augustus carried out currency reform, unifying the monetary system of the Roman Empire and standardizing the purity and exchange ratios of gold, silver, and bronze coins. The aureus became the standard currency of the Roman world, promoting trade and economic development.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Economy",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Tiberius campaigns against Pannonia",
+        "s": "Tiberius led an expedition against the tribes of Pannonia (in present-day Hungary) and conquered them after several years of war. Pannonia became a province of the Roman Empire, providing important military manpower and mineral resources.",
+        "a": 45.0,
+        "l": 18.0,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Western Han iron office workers revolt",
+        "s": "Iron office workers (artisans of the government-run ironworks) in Yingchuan Commandery, unable to bear the oppression, launched a revolt under the leadership of Shentu Sheng. The rebel force grew to several hundred before being suppressed. This was one of the frequent refugee uprisings in the late Western Han.",
+        "a": 34.0,
+        "l": 110.0,
+        "c": "Society",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -13,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "4th year of Yongshi"
+      }
+    ],
+    "v": [
+      {
+        "t": "Augustus builds the Ara Pacis",
+        "s": "Augustus ordered the construction of the Ara Pacis in Rome to celebrate Rome's military victories in Hispania and Gaul and the arrival of the Pax Romana. This altar is famous for its exquisite reliefs and is now an important ancient monument in Rome.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Agrippa tours the East",
+        "s": "Augustus sent Agrippa to tour the eastern provinces, resolve local administrative issues, and oversee Herod's reconstruction projects. Agrippa's tour strengthened Rome's control over the East.",
+        "a": 38.0,
+        "l": 24.0,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Cheng of Han dismisses Wang Shang",
+        "s": "Emperor Cheng, believing false accusations from Wang Gen and other consort relatives, issued an edict dismissing Chancellor Wang Shang. Wang Shang died of vomiting blood within three days of his dismissal. Thereafter, the chancellorship was controlled by consort clan forces, and the central government was completely dominated by the Wang family. The emperor acquiesced, and the Western Han dynasty accelerated toward decline.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -12,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "1st year of Yuanyan"
+      }
+    ],
+    "v": [
+      {
+        "t": "Tiberius marries Julia",
+        "s": "After Agrippa's death, Augustus ordered Tiberius to divorce his wife and marry his daughter Julia. Tiberius was forced to comply, but the marriage with Julia was unhappy, and Tiberius later retired to Rhodes.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Agrippa dies",
+        "s": "Augustus' most loyal assistant and Rome's most outstanding general, Agrippa, died. Agrippa had commanded the Battle of Actium and built the Pantheon; he was the pillar of Augustus' rule. His death was a great blow to Augustus.",
+        "a": 40.8,
+        "l": 14.2,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Cheng of Han changes era to Yuanyan",
+        "s": "Emperor Cheng changed the era name to \"Yuanyan\" and granted a general amnesty. By this time, the Wang consort clan had become an uncontrollable force, with Wang Gen, Wang Li, and others controlling the court. The emperor continued to ignore state affairs and indulge in pleasure, as the treasury grew increasingly empty and social contradictions deepened.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -11,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "2nd year of Yuanyan"
+      }
+    ],
+    "v": [
+      {
+        "t": "Augustus establishes the Germanic frontier",
+        "s": "The Roman Empire established a military frontier along the Rhine, building forts and roads to defend against Germanic tribal incursions. This frontier became the boundary between the Roman Empire and Germania.",
+        "a": 50.0,
+        "l": 8.0,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Tiberius campaigns against Illyricum",
+        "s": "Tiberius led an expedition against the rebellious tribes of Illyricum (in the western Balkans) and conquered them after several years of war. Illyricum became an important province of the Roman Empire.",
+        "a": 44.0,
+        "l": 16.0,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Western Han official corruption",
+        "s": "During the reign of Emperor Cheng, due to the dominance of consort clans and the emperor's neglect of state affairs, official corruption became severe. Local officials embezzled bribes and oppressed the people, and social contradictions grew increasingly acute.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -10,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "3rd year of Yuanyan"
+      }
+    ],
+    "v": [
+      {
+        "t": "Augustus founds new cities in Gaul",
+        "s": "Augustus established several Roman-style cities in Gaul, such as Lugdunum (Lyon) and Augusta Treverorum (Trier), promoting Roman culture and the Latin language. These cities became centers of Romanization in Gaul.",
+        "a": 47.0,
+        "l": 4.0,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Parthian Empire civil war",
+        "s": "After the death of Parthian king Phraates IV, his son Phraates V came into conflict with the nobility, leading to civil war. Parthia was temporarily unable to attend to eastern affairs, providing space for the rise of the Kushan Empire.",
+        "a": 35.0,
+        "l": 50.0,
+        "c": "Politics",
+        "r": "Parthian Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Cheng of Han travels incognito",
+        "s": "Emperor Cheng often left the palace incognito to play in the outskirts of Chang'an and even sought out beautiful women among the people. His dissolute behavior aroused strong discontent among court officials, but no one dared to remonstrate.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Society",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -9,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "4th year of Yuanyan"
+      }
+    ],
+    "v": [
+      {
+        "t": "Tiberius conquers Pannonia",
+        "s": "After years of campaigning, Tiberius finally conquered the tribes of Pannonia (present-day Hungary). Pannonia became an important province of the Roman Empire, providing abundant mineral resources and military manpower.",
+        "a": 45.0,
+        "l": 18.0,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Roman Ara Pacis completed",
+        "s": "The Ara Pacis (Altar of Peace), commissioned by Augustus, was completed in Rome. This altar, with its exquisite reliefs depicting mythological and real scenes of the Roman peace, is a masterpiece of Roman art.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -8,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "1st year of Suihe"
+      }
+    ],
+    "v": [
+      {
+        "t": "Augustus reforms the Senate",
+        "s": "Augustus reformed the Senate, reducing its membership and requiring senators to possess a certain amount of property and undergo moral scrutiny. The Senate became an advisory body under Augustus' rule.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Cheng of Han changes era to Suihe",
+        "s": "Emperor Cheng changed the era name to \"Suihe\", hoping to pacify the realm. However, by this time the Western Han society was riddled with crises: land annexation was severe, and the refugee problem was acute. The emperor remained indulging himself in the harem, while Wang Mang and other consort relatives held power. This era change could not reverse the decline of the Western Han.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Wang Mang appointed Grand Marshal",
+        "s": "Wang Mang, known for his humility, frugality, and respect for worthy men, was appointed Grand Marshal by Emperor Cheng and began to grasp power over the court. Wang Mang later usurped the throne and established the Xin dynasty.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Roman poet Horace dies",
+        "s": "The famous Roman poet Horace died in Rome at the age of 57. His works, including the Odes, Satires, and Ars Poetica, had a profound influence on Western poetry and literary criticism.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -7,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Cheng of Han (Liu Ao)",
+        "e": "2nd year of Suihe"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Cheng of Han dies suddenly, Emperor Ai of Han ascends",
+        "s": "Emperor Cheng (Liu Ao) died suddenly in the Weiyang Palace, reportedly from a stroke caused by excessive indulgence. Crown Prince Liu Xin ascended the throne as Emperor Ai. Emperor Cheng reigned for 26 years, during which the Wang consort clan monopolized power and the Western Han's strength severely declined.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Tiberius retires to Rhodes",
+        "s": "Tiberius, due to his deteriorating relationship with his wife Julia and dissatisfaction with Augustus' succession arrangements, voluntarily retired to Rhodes to live in seclusion. He later returned to Rome at Augustus' request.",
+        "a": 36.4,
+        "l": 28.2,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Liu Xin collates ancient texts",
+        "s": "Liu Xin continued his father Liu Xiang's work of collating the imperial library, compiling the \"Seven Summaries\", China's first classified book catalog. Liu Xin was also an important representative of the Old Text Confucianism school.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Culture",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -6,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Ai of Han (Liu Xin)",
+        "e": "1st year of Jianping"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Ai of Han restrains the consort clans",
+        "s": "After ascending the throne, Emperor Ai attempted to curb the power of the Wang consort clan and promoted the families of his grandmother Empress Dowager Fu and his mother Empress Dowager Ding. He dismissed Wang Mang from his post as Grand Marshal and appointed his own confidants.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Augustus' grandsons grow up",
+        "s": "Augustus' grandsons Gaius and Lucius (born to Agrippa and Julia) grew up and were designated by Augustus as his heirs. Augustus personally taught them, cultivating their political and military abilities.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Rome establishes a mint",
+        "s": "Augustus established an imperial mint in Rome, unifying coinage standards. The mint produced gold, silver, and bronze coins bearing Augustus' portrait and propaganda inscriptions, strengthening the image of imperial authority.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Economy",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -5,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Ai of Han (Liu Xin)",
+        "e": "2nd year of Jianping"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Ai of Han favors Dong Xian",
+        "s": "Emperor Ai favored the handsome Dong Xian, sharing his bed and granting him enormous wealth. Dong Xian rose to the position of Grand Marshal, wielding power over the court. The emperor even considered passing the throne to Dong Xian, arousing strong resentment among court officials.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Ai of Han changes era to Jianping",
+        "s": "Emperor Ai changed the era name to \"Jianping\" in an attempt to save the declining Western Han. After ascending the throne, he tried to curb the consort clans and promote his grandmother's Fu family. However, Emperor Ai was weak and ill, and he doted on his male favorite Dong Xian, so the court remained chaotic as before. Landannexation and refugee problems continued to worsen.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Gaius Caesar enters politics",
+        "s": "Augustus' grandson Gaius Caesar, having turned 15, was granted the title \"Prince of Youth\" and began to participate in politics. Augustus hoped he would inherit the throne, but Gaius was later wounded in the East and died.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -4,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Ai of Han (Liu Xin)",
+        "e": "3rd year of Jianping"
+      }
+    ],
+    "v": [
+      {
+        "t": "Augustus' frontier policy",
+        "s": "Augustus consolidated the Roman Empire's frontiers, establishing a defensive system along the Rhine, Danube, and Euphrates rivers. He abandoned plans to conquer all of Germania and adopted a defensive posture.",
+        "a": 50.0,
+        "l": 8.0,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Western Han political turmoil",
+        "s": "During the reign of Emperor Ai, the families of Empress Dowager Fu and Empress Dowager Ding, the Wang consort clan, and Dong Xian all struggled for power, creating utter chaos in the court. Peasant uprisings and refugee problems grew increasingly severe, and the Western Han was on the verge of collapse.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Judea political turmoil",
+        "s": "After Herod the Great's death, his sons fought for the throne, and Rome intervened to mediate. Augustus divided Herod's kingdom among his three sons: Archelaus, Herod Antipas, and Philip. Judea fell into turmoil.",
+        "a": 31.8,
+        "l": 35.2,
+        "c": "Politics",
+        "r": "Judea",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -3,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Ai of Han (Liu Xin)",
+        "e": "4th year of Jianping"
+      }
+    ],
+    "v": [
+      {
+        "t": "Herod the Great dies",
+        "s": "Herod the Great, king of Judea, died at Jericho at about age 69. He was a cruel but capable ruler who built the Masada fortress, the port of Caesarea, and rebuilt the Temple of Jerusalem. His death marked the end of the Herodian dynasty's golden age.",
+        "a": 31.9,
+        "l": 35.5,
+        "c": "Politics",
+        "r": "Judea",
+        "o": "Asia"
+      },
+      {
+        "t": "Gaius Caesar sent to the East",
+        "s": "Augustus sent his grandson Gaius Caesar to the East to handle matters concerning Armenia and Parthia. Gaius Caesar's eastern mission demonstrated Augustus' grooming of his heir.",
+        "a": 38.0,
+        "l": 24.0,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Ai of Han fears natural disasters",
+        "s": "In the 4th year of Jianping (3 BC), the eastern region suffered successive severe droughts and locust plagues, with total crop failure and starving people everywhere. Emperor Ai, fearful, issued an edict taking blame and granting a general amnesty. However, due to financial difficulties and theexpansion of the Wang consort clan, the government failed to take effective relief measures.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Society",
+        "r": "Western Han",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": -2,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Ai of Han (Liu Xin)",
+        "e": "1st year of Yuanshou"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Ai of Han changes era to Yuanshou",
+        "s": "In 2 BC, Emperor Ai changed the era name to \"Yuanshou\" (meaning Long Life) and granted a general amnesty. By this time, the Western Han was in a precarious state: landannexation was severe, refugees were everywhere, and the Wang consort clan's power wasincreasinglyexpansion. Emperor Ai, weak and ill with no heirs, was unable to effectively govern. He placed his hopes on the era change for a turnaround, but social contradictions had become intractable. In the 2nd year of Yuanshou (1 BC), Emperor Ai died at only 26 years old.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Dong Xian enfeoffed as Marquis",
+        "s": "In the 1st year of Yuanshou (2 BC), Emperor Ai enfeoffed his favorite Dong Xian as Marquis of Gao'an with a fief of 2,000 households, and later promoted him to Grand Marshal. Dong Xian, only 22 years old, wielded power over the court and ranked among the Three Excellencies. The emperor even declared his intention to abdicate in favor of Dong Xian, which, though not carried out, reflected the political absurdity of the late Western Han.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Gaius Caesar meets with Parthia",
+        "s": "Gaius Caesar met with Parthian king Phraates V on the banks of the Euphrates, where both sides confirmed Armenia's status as a Roman protectorate. This meeting strengthened Rome's position in the East.",
+        "a": 35.0,
+        "l": 40.0,
+        "c": "Diplomacy",
+        "r": "Roman Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Augustus becomes Princeps Senatus",
+        "s": "Augustus was again chosen by the Senate as Princeps Senatus (First Man of the Senate), a position that allowed him to speak first in the Senate, further consolidating his power.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Politics",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": -1,
+    "d": [
+      {
+        "i": "xihan",
+        "n": "Western Han",
+        "u": "Emperor Ai of Han (Liu Xin)",
+        "e": "2nd year of Yuanshou"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Ai of Han dies, Emperor Ping of Han ascends",
+        "s": "Emperor Ai (Liu Xin) died in the Weiyang Palace at the age of 25. Having no sons, Wang Mang returned to power, installing the 9-year-old Liu Jizi, Prince of Zhongshan, as Emperor Ping of Han. Wang Mang appointed himself Grand Marshal and monopolized court affairs. The Western Han existed in name only.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Wang Mang returns to power",
+        "s": "After Emperor Ai's death, Wang Mang, with the support of Wang Zhengjun, returned to serve as Grand Marshal, taking charge of all court affairs. He eliminated the Fu and Ding consort clan forces from Emperor Ai's reign, demoted Dong Xian, and began preparing for his usurpation of the throne.",
+        "a": 34.304,
+        "l": 108.856,
+        "c": "Politics",
+        "r": "Western Han",
+        "o": "Asia"
+      },
+      {
+        "t": "Gaius Caesar wounded in the East",
+        "s": "Gaius Caesar was severely wounded while besieging an Armenian city. He was forced to return to Rome but died on the way. Augustus lost his most favored heir.",
+        "a": 40.0,
+        "l": 44.0,
+        "c": "Military",
+        "r": "Roman Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Dionysius of Halicarnassus writes history",
+        "s": "The Greek historian Dionysius of Halicarnassus completed his magnum opus, \"Roman Antiquities\", in 20 volumes, providing a detailed account of Roman history from mythological times to the First Punic War. This work provided important material for later scholars studying early Roman history.",
+        "a": 41.9,
+        "l": 12.5,
+        "c": "Culture",
+        "r": "Roman Empire",
+        "o": "Europe"
+      }
+    ]
+  }
+]

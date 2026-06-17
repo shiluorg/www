@@ -1,26 +1,17 @@
-const CACHE_NAME = 'shilu-v2';
+const CACHE_NAME = 'shilu-v3';
 const STATIC_ASSETS = [
   '/',
   '/index.html',
   '/style.css',
-  '/js/state.js',
-  '/js/hash-search.js',
-  '/js/timelines.js',
-  '/js/map-view.js',
   '/js/app.js',
-  '/js/home.js',
-  '/js/router.js',
-  '/js/quiz.js',
-  '/data/content-years.json'
+  '/content-years.json'
 ];
 
 // Install: pre-cache critical static assets
 self.addEventListener('install', event => {
   event.waitUntil(
     caches.open(CACHE_NAME).then(cache => {
-      return cache.addAll(STATIC_ASSETS).catch(err => {
-        console.warn('[SW] Pre-cache failed for some assets:', err);
-      });
+      return cache.addAll(STATIC_ASSETS);
     }).then(() => self.skipWaiting())
   );
 });
@@ -49,8 +40,7 @@ self.addEventListener('fetch', event => {
   const path = url.pathname;
 
   // Strategy 1: Stale-While-Revalidate for JSON data files
-  // Serve cached version immediately, update cache from network in background
-  if (path.startsWith('/data/') && path.endsWith('.json')) {
+  if (path.endsWith('.json') && (path.startsWith('/zh/') || path.startsWith('/en/') || path === '/content-years.json')) {
     event.respondWith(
       caches.open(CACHE_NAME).then(cache => {
         return cache.match(event.request).then(cached => {

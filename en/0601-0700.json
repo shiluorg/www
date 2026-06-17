@@ -1,0 +1,3483 @@
+[
+  {
+    "y": 601,
+    "d": [
+      {
+        "i": "sui",
+        "n": "Sui",
+        "u": "Emperor Wen of Sui (Yang Jian)",
+        "e": "1st year of the Renshou era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Introduction of the heavy wheeled plow and three-field system in Europe",
+        "s": "Medieval European agriculture saw a major innovation. The heavy wheeled plow (a plow with wheels) could turn the heavy, damp soils of Northern Europe, replacing the lighter scratch plow. Meanwhile, the three-field crop rotation system gradually replaced the two-field system, dividing arable land into spring-sown, autumn-sown, and fallow sections, improving soil fertility and grain yields. The improvement of the horse collar enabled horses to replace oxen efficiently for plowing. These advances collectively boosted agricultural productivity, laying the foundation for population growth and the development of the manorial economy in Europe.",
+        "a": 50.0,
+        "l": 3.0,
+        "c": "Economy",
+        "r": "Europe",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Wen of Sui changes era name to Renshou",
+        "s": "Emperor Wen of Sui (Yang Jian), seeking national peace, prosperity, and longevity, changed the reign title to 'Renshou' in the first lunar month of 601 AD. Previously, the Sui Dynasty had reunified north and south, achieving political stability and economic recovery. The change reflected the emperor's devotion to Buddhism in his later years and his hope for the dynasty's longevity. That same year, Emperor Wen ordered the construction of relic pagodas in all prefectures to promote Buddhism. The Renshou era lasted four years until the emperor's death in 604.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Sui",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 602,
+    "d": [
+      {
+        "i": "sui",
+        "n": "Sui",
+        "u": "Emperor Wen of Sui (Yang Jian)",
+        "e": "2nd year of the Renshou era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Songtsen Gampo establishes Tibetan administrative and military system",
+        "s": "The Tibetan tsanpo Songtsen Gampo (also known as Srongtsen Gampo), seeking to consolidate his rule, carried out extensive political and military reforms. He established the post of 'lon chen' (prime minister) and various officials, formulated written laws including the Six Great Laws and Six Small Laws, and created a military organization of 'ru' and 'stong sde' (thousand-districts) integrating military and civil administration. He also founded a system of military colonies and relay stations. Songtsen Gampo sent scholars to create a Tibetan script and introduced Buddhism. These measures transformed Tibet from a tribal confederation into a powerful centralized kingdom, laying the groundwork for its later expansion.",
+        "a": 29.0,
+        "l": 90.0,
+        "c": "Politics",
+        "r": "Tibet",
+        "o": "Asia"
+      },
+      {
+        "t": "Formation of the self-sufficient manorial economy in Western Europe",
+        "s": "Following the collapse of the Roman Empire and the decline of long-distance trade, Western Europe's economy devolved into a self-sufficient system centered around the closed manor. Each manor included arable land, woodlands, pastures, a mill, and craft workshops, producing basic necessities like grain, clothing, and tools. Serfs labored on the lord's land in exchange for protection and strips of land (fiefs). This highly localized and self-contained economic pattern persisted for centuries and formed the economic basis of European feudalism.",
+        "a": 48.0,
+        "l": 3.0,
+        "c": "Economy",
+        "r": "Europe",
+        "o": "Europe"
+      },
+      {
+        "t": "Sui general Wei Yunqi crushes the Khitans",
+        "s": "Emperor Wen of Sui ordered Wei Yunqi to lead an army against the Khitan tribes, who were constantly raiding Sui borders. Wei Yunqi, with the assistance of Turkic tribes, used a surprise attack to defeat the Khitans in the Liaoxi region (today's border between Inner Mongolia and Liaoning), capturing over 40,000 men and women. The victory weakened the Khitan forces, maintained stability on the Sui's northeastern frontier, and demonstrated the Sui's ability to control the Turkic tribes.",
+        "a": 42.0,
+        "l": 120.0,
+        "c": "Military",
+        "r": "Sui",
+        "o": "Asia"
+      },
+      {
+        "t": "Sui suppresses Li Fozi rebellion in Jiaozhou",
+        "s": "Li Fozi, a local strongman in Jiaozhou (present-day northern Vietnam), raised a rebellion, occupying Goulou County and proclaiming himself emperor. Emperor Wen of Sui sent General Liu Fang to lead a southern expedition. Liu Fang used a strategy of converging attacks, capturing Li Fozi's stronghold and sending him to Chang'an for execution. After suppressing the rebellion, the Sui strengthened direct control over Jiaozhou, establishing a protectorate to secure the southern frontier and maritime trade routes.",
+        "a": 21.0,
+        "l": 105.8,
+        "c": "Military",
+        "r": "Sui",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 603,
+    "d": [
+      {
+        "i": "sui",
+        "n": "Sui",
+        "u": "Emperor Wen of Sui (Yang Jian)",
+        "e": "3rd year of the Renshou era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Phocas usurps the Byzantine throne",
+        "s": "Emperor Maurice of the Byzantine Empire had long been at war with the Sassanian Persian Empire. Troop mutinies broke out along the Danube frontier due to unpaid salaries. A centurion named Phocas was proclaimed leader and marched south to Constantinople. With the support of the Greens (one of the Hippodrome factions), Phocas entered the capital, deposed Maurice, and had him and his six sons executed, declaring himself emperor. This civil war left the Byzantine eastern frontier vulnerable, opening the door for Persian and Slavic invasions and setting the stage for Heraclius's later revolt.",
+        "a": 41.0,
+        "l": 28.9,
+        "c": "Military",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Turkic Tuli Khan sends envoys to pay tribute to Sui",
+        "s": "The Turkic Tuli Khan, seeking Sui support against the Western Turks and to consolidate his position, sent an embassy to Chang'an bearing fine horses and treasures. Emperor Wen of Sui reciprocated with generous gifts, reaffirming the suzerain-vassal relationship. This diplomatic move strengthened Sui influence over Turkic affairs and alleviated pressure on the northern border.",
+        "a": 45.0,
+        "l": 100.0,
+        "c": "Diplomacy",
+        "r": "Turks",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Wen of Sui distributes Buddhist relics and orders pagodas built",
+        "s": "Emperor Wen of Sui, a devout Buddhist since childhood, ordered the distribution of Buddhist relics (śarīra) to thirty prefectures and commanded the construction of relic pagodas there to solidify his rule and pray for blessings. Local officials organized grand ceremonies to enshrine the relics. During the Renshou years (601-603), three large-scale relic distributions took place, resulting in the construction of over a hundred pagodas, greatly promoting the spread of Buddhism among the Chinese populace and the growth of monastic economies.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Religion",
+        "r": "Sui",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 604,
+    "d": [
+      {
+        "i": "sui",
+        "n": "Sui",
+        "u": "Emperor Yang of Sui (Yang Guang)",
+        "e": "4th year of the Renshou era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Prince Shōtoku of Japan promulgates the Seventeen-Article Constitution",
+        "s": "Prince Shōtoku, regent of Japan under Empress Suiko, formulated and promulgated the 'Seventeen-Article Constitution' to strengthen centralization and establish a Confucian-Buddhist governing philosophy. The document was not a constitution in the modern sense but a set of moral precepts and behavioral guidelines for officials, emphasizing principles such as 'harmony is to be valued', reverence for Buddhism, keeping contracts, and the supremacy of the monarch. Its promulgation marked the beginning of Japan's transition from clan politics to a law-based state, laying the ideological groundwork for the Taika Reforms.",
+        "a": 34.7,
+        "l": 135.7,
+        "c": "Politics",
+        "r": "Japan",
+        "o": "Asia"
+      },
+      {
+        "t": "Great Slavic migration and settlement",
+        "s": "During the 6th and 7th centuries, Slavic tribes migrated in large numbers during the great migration period, settling in the Balkans, Central Europe, and the East European Plain. The South Slavs entered the Balkans, replacing the Illyrians and Thracians; the West Slavs settled in the areas of modern Poland, the Czech Republic, and Slovakia; and the East Slavs occupied the East European Plain, evolving into the later Russian, Belarusian, and Ukrainian peoples. This migration laid the foundation for the modern Slavic national landscape.",
+        "a": 50.0,
+        "l": 28.0,
+        "c": "Society",
+        "r": "Slavs",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Wen of Sui dies; Emperor Yang (Yang Guang) ascends the throne",
+        "s": "Emperor Wen of Sui (Yang Jian) died in the Renshou Palace at the age of sixty-four. Legend has it that his son Yang Guang colluded with Prime Minister Yang Su to usurp the throne and may have been involved in patricide. Yang Guang immediately ascended the throne as Emperor Yang of Sui. Changing the cautious style of his father, Emperor Yang ambitiously launched massive projects including the Grand Canal, the construction of the eastern capital Luoyang, and campaigns against Goguryeo, ultimately exhausting the populace and leading to the rapid collapse of the Sui Dynasty. The year 604 thus marked a turning point from prosperity to decline for the Sui.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Sui",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 605,
+    "d": [
+      {
+        "i": "sui",
+        "n": "Sui",
+        "u": "Emperor Yang of Sui (Yang Guang)",
+        "e": "1st year of the Daye era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Byzantine Empire constructs defensive system in the Balkans",
+        "s": "Faced with continuous southward incursions by the Avars and Slavs, the Byzantine Empire built a chain of fortresses in the Balkans and reorganized its border legions (limitanei). Emperor Maurice (and later Phocas) pursued a defensive strategy, using the Danube line and mountain forts to slow the barbarian invasions. Although the invasions were temporarily contained, the long-term military expenditures exacerbated the financial crisis.",
+        "a": 42.0,
+        "l": 23.0,
+        "c": "Military",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Byzantium begins implementing the theme system",
+        "s": "Facing multiple pressures from the Persians, Arabs, and Slavs, the Byzantine Empire began converting provinces into themes (military districts). The theme system placed civil and military authority under a general (strategos), with soldiers receiving hereditary land grants, forming a soldier-farmer militia. This system increased army mobilization efficiency and loyalty, enabling Byzantium to withstand Arab offensives in the 7th-8th centuries. The theme system was first tested in Armenia and Anatolia before being extended empire-wide.",
+        "a": 41.0,
+        "l": 29.0,
+        "c": "Military",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Emperor Yang of Sui formally establishes the imperial examination system",
+        "s": "Emperor Yang of Sui issued an edict formally establishing the jinshi (presented scholar) examination category, selecting officials through subject-based exams and breaking the aristocratic monopoly of the nine-rank system. Candidates could 'submit themselves' for examination without needing recommendations from nobles. This move initiated China's 1,300-year-old imperial examination system, providing a path for common landlords to enter government and profoundly changing social mobility and the political landscape. The Daye era also saw other regular exams such as mingjing (classics), mingfa (law), and mingsuan (mathematics).",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Sui",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Yang of Sui constructs the eastern capital Luoyang",
+        "s": "To strengthen control over the Guandong and Jiangnan regions, Emperor Yang of Sui ordered Yuwen Kai to build the eastern capital, Luoyang. The project conscripted two million corvée laborers per month and took only ten months to complete the palace, imperial, and outer cities. Luoyang was laid out along the Luo River, with magnificent scale and three major markets: Fengdu, Datong, and Tongyuan, becoming a transportation hub of the Grand Canal. The excessive forced labor during construction led to many deaths, sowing seeds of resentment.",
+        "a": 34.7,
+        "l": 112.5,
+        "c": "Society",
+        "r": "Sui",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Yang of Sui orders the excavation of the Grand Canal",
+        "s": "Emperor Yang of Sui, with Luoyang as the center, conscripted a million corvée laborers to excavate the Grand Canal. The project included the Tongji Canal (Luoyang to Xuyi) and the Hangou (Shanyang to Jiangdu), connecting the Yellow, Huai, and Yangtze Rivers. The Grand Canal, stretching over 2,000 li, facilitated north-south grain and resource transport, strengthening centralization and economic ties. However, the pressing schedule and heavy labor became a major cause of the rebellions at the end of the Sui.",
+        "a": 34.5,
+        "l": 115.5,
+        "c": "Engineering",
+        "r": "Sui Dynasty",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 606,
+    "d": [
+      {
+        "i": "sui",
+        "n": "Sui",
+        "u": "Emperor Yang of Sui (Yang Guang)",
+        "e": "2nd year of the Daye era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Establishment of the Harsha Empire",
+        "s": "In northern India, Harṣavardhana (King Harsha) took up arms after his elder brother was killed by King Śaśāṅka, and went on to unify the regions of Punjab and Kanyakubja. He formally established the Harsha Empire in 606, with its capital at Kanyakubja (modern Kannauj). King Harsha pursued a tolerant religious policy, personally favoring Buddhism but supporting Hinduism, and maintained diplomatic relations with the Tang dynasty. The Harsha Empire became the most powerful regime in northern India since the Gupta dynasty, lasting until Harsha's death in 647.",
+        "a": 27.0,
+        "l": 80.0,
+        "c": "Politics",
+        "r": "Harsha Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Yang of Sui displays extravagant performances in Luoyang to flaunt national power",
+        "s": "To showcase the wealth and power of the Sui dynasty to the Turkic Qimin Khan and envoys from the Western Regions, Emperor Yang of Sui held a grand performance at the Duanmen gate in Luoyang. The performance grounds stretched for eight li, with 30,000 performers on stage, brightly lit, and audible for dozens of li. The emperor also ordered that the streets of Luoyang be decorated with silk curtains and that foreign merchants receive free food and lodging. The lavish expenditure, although briefly overawing foreign visitors, deepened the financial crisis and popular burden at home.",
+        "a": 34.7,
+        "l": 112.5,
+        "c": "Diplomacy",
+        "r": "Sui",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Yang of Sui makes his first tour to Jiangdu",
+        "s": "After excavating the Tongji Canal in the first year of Daye (605), Emperor Yang of Sui made his first tour to Jiangdu (modern Yangzhou) the following year (606) on a dragon boat. The fleet stretched over 200 li, with ships linked bow to stern, and as many as 80,000 boat trackers. The prefectures and counties along the route supplied food and drink, incurring boundless expenses. The emperor's tours aimed not only at pleasure but also at displaying imperial majesty and controlling the south. He made two more tours to Jiangdu, each time exhausting the people and exacerbating social conflicts.",
+        "a": 32.4,
+        "l": 119.4,
+        "c": "Society",
+        "r": "Sui",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 607,
+    "d": [
+      {
+        "i": "sui",
+        "n": "Sui",
+        "u": "Emperor Yang of Sui (Yang Guang)",
+        "e": "3rd year of the Daye era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Japanese envoy Ono no Imoko arrives in China",
+        "s": "Empress Suiko and Prince Shōtoku of Japan dispatched Ono no Imoko as a envoy to the Sui court, bearing a state letter addressed 'From the sovereign of the land where the sun rises, to the sovereign of the land where the sun sets.' Emperor Yang of Sui was displeased with the use of 'sovereign' but still received the envoy and sent Pei Shiqing on a return mission. This diplomatic contact broke a blank period in official Sino-Japanese relations, allowing Japan to learn from Sui institutions and Buddhist culture, and initiated the tradition of large-scale Japanese missions to China that continued with the Tang.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Diplomacy",
+        "r": "Sui",
+        "o": "Asia"
+      },
+      {
+        "t": "Japan implements the twelve-cap ranks system during the Asuka period",
+        "s": "Prince Shōtoku, aiming to curb the power of aristocratic clans, implemented the 'twelve-cap ranks' system (Kan'i Jūnikai), which distinguished twelve ranks based on virtue, benevolence, propriety, faith, righteousness, and wisdom, each subdivided into greater and lesser, with caps of different colors indicating rank. The cap rank was granted based on personal ability rather than birth, breaking the hereditary clan title system and strengthening the authority of the emperor. This was the most important political reform before the Taika Reforms, taking a key step toward building a law-based state in Japan.",
+        "a": 34.5,
+        "l": 136.0,
+        "c": "Politics",
+        "r": "Japan",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Yang of Sui tours north; Qimin Khan kneels in welcome",
+        "s": "To intimidate the Turks and northern tribes, Emperor Yang of Sui led an army to Yulin Commandery (in modern Inner Mongolia). The Eastern Turkic Qimin Khan led his tribal chiefs in kneeling by the roadside and offered livestock. The delighted emperor bestowed 200,000 bolts of silk. The Qimin Khan voluntarily requested to adopt Chinese dress, but the emperor did not permit it. This meeting, however, solidified the Turkic vassal relationship and ensured temporary peace on the northern frontier.",
+        "a": 40.8,
+        "l": 111.8,
+        "c": "Diplomacy",
+        "r": "Sui",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 608,
+    "d": [
+      {
+        "i": "sui",
+        "n": "Sui",
+        "u": "Emperor Yang of Sui (Yang Guang)",
+        "e": "4th year of the Daye era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Flourishing of Buddhist art in the Asuka period of Japan",
+        "s": "Prince Shōtoku vigorously promoted Buddhism, sponsoring the construction of temples such as Hōryū-ji and Shitennō-ji, making Buddhism a state religion. The main hall and five-story pagoda of Hōryū-ji exemplify Chinese Northern and Southern Dynasties architectural styles, and the statues inside are of the 'Tori' style. Asuka Buddhist art integrated elements from Baekje, Goguryeo, and the Southern Dynasties, forming a unique Japanese Buddhist artistic prototype that profoundly influenced later Hakuhō and Tenpyō cultures.",
+        "a": 34.5,
+        "l": 136.0,
+        "c": "Culture",
+        "r": "Wa (Japan)",
+        "o": "Asia"
+      },
+      {
+        "t": "The Yongji Canal opens, linking the north-south Grand Canal",
+        "s": "Emperor Yang of Sui ordered the excavation of the Yongji Canal, diverting water from the Qin River south to the Yellow River and north to Zhuojun (present-day Beijing). The Yongji Canal, about 2,000 li in length, was the northernmost section of the Sui-era Grand Canal. By this point, the Grand Canal, with Luoyang at its center, reaching Yuhang in the south and Zhuojun in the north, was fully connected, spanning over 4,000 li. The Yongji Canal was primarily dug to supply logistics for the campaigns against Goguryeo, but it also greatly facilitated north-south connections between northern China and the Jiangnan region.",
+        "a": 38.0,
+        "l": 114.5,
+        "c": "Economy",
+        "r": "Sui",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Yang of Sui mobilizes for the campaign against Goguryeo",
+        "s": "Emperor Yang of Sui, preparing to attack Goguryeo, ordered the construction of 300 ships at Donglai (present-day Laizhou) in Shandong, and conscripted large numbers of laborers, supplies, and warhorses. He also forced the wealthy nationwide to join the army, causing 'turmoil under heaven.' The shipbuilding deadlines were so tight that laborers stood in water day and night, developing maggots below their waists, with three or four out of ten dying. These brutal exactions ignited popular anger and directly led to the Wang Bo uprising in 611.",
+        "a": 40.0,
+        "l": 125.0,
+        "c": "Military",
+        "r": "Sui",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 609,
+    "d": [
+      {
+        "i": "sui",
+        "n": "Sui",
+        "u": "Emperor Yang of Sui (Yang Guang)",
+        "e": "5th year of the Daye era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Yang of Sui tours the Hexi corridor",
+        "s": "To display national power and secure the Silk Road routes to the Western Regions, Emperor Yang of Sui led his army on a western tour to Zhangye and Wuwei. Envoys from twenty-seven Western Region states paid homage at the foot of Mount Yanzhi, where the emperor ordered his retinue to wear splendid clothing and staged acrobatic performances. He established four new commanderies there (Xihai, Heyuan, etc.), further controlling eastern Qinghai. Although this tour strengthened ties with the Western Regions, it was enormously costly, and his suppression of the Tuyuhun led to widespread suffering on the Qinghai plateau.",
+        "a": 39.0,
+        "l": 100.0,
+        "c": "Politics",
+        "r": "Sui",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Yang of Sui campaigns against the Tuyuhun",
+        "s": "Murong Fuyun, the khan of the Tuyuhun, had long harassed the Sui's western border. Emperor Yang of Sui personally led a large army on a western campaign, sending four columns over the Qilian Mountains and routing the Tuyuhun at Fuyuan River (east of Qinghai Lake). Fuyun fled to the Tangut, and the Sui established four commanderies (Shanshan, Qiemo, Xihai, Heyuan) on his former territory, controlling the Qaidam Basin and the southern route of the Western Regions. This campaign destroyed the Tuyuhun regime, but at a great cost, with many soldiers dying of cold and hunger.",
+        "a": 36.6,
+        "l": 101.8,
+        "c": "Military",
+        "r": "Sui",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 610,
+    "d": [
+      {
+        "i": "sui",
+        "n": "Sui",
+        "u": "Emperor Yang of Sui (Yang Guang)",
+        "e": "6th year of the Daye era"
+      }
+    ],
+    "v": [
+      {
+        "t": "The rise of Islam",
+        "s": "In Mecca on the Arabian Peninsula, a merchant named Muhammad, while meditating in the Cave of Hira, claimed to have received revelations from Allah via the angel Gabriel, and began preaching Islam. He called for abandoning polytheism and worshipping only Allah, the one true God, and criticized the greed and social injustice of the Meccan elite. His early followers were few, mostly the poor and slaves. The rise of Islam would profoundly alter the course of Arabian and world history.",
+        "a": 21.42,
+        "l": 39.83,
+        "c": "Religion",
+        "r": "Arabian Peninsula",
+        "o": "Asia"
+      },
+      {
+        "t": "Full completion of the Grand Canal",
+        "s": "After six years of large-scale excavation, the Sui-era Grand Canal, centered on Luoyang and stretching from Yuhang (Hangzhou) in the south to Zhuojun (Beijing) in the north, was fully opened to navigation. The canal spanned over 2,700 kilometers, connecting five major river systems: the Hai, Yellow, Huai, Yangtze, and Qiantang. The Grand Canal became the economic artery of north-south transport, allowing grain from the south to flow northward, but the heavy labor demands also sparked rebellions, sowing the seeds of the Sui's downfall.",
+        "a": 35.0,
+        "l": 116.0,
+        "c": "Engineering",
+        "r": "Sui",
+        "o": "Asia"
+      },
+      {
+        "t": "Luoyang hosts a 'Universal Exposition'",
+        "s": "Emperor Yang of Sui held a grand 'Universal Exposition' at the Duanmen gate in the imperial city of Luoyang, inviting envoys and merchants from dozens of countries, including those from the Western Regions, Southeast Asia, and Japan. The venue displayed the Nine Tripods of the Zhou dynasty, featured acrobatic troupes and the Nine Court Musics, and ordered that restaurants in Luoyang be decorated with curtains and that foreign merchants receive free meals. The event aimed to boast of Sui's wealth and power and attract foreign trade, but it expended enormous wealth and increased the national burden.",
+        "a": 34.7,
+        "l": 112.5,
+        "c": "Politics",
+        "r": "Sui",
+        "o": "Asia"
+      },
+      {
+        "t": "Maya civilization enters its Classic peak",
+        "s": "Maya civilization in Mesoamerica reached its peak during the Classic period (c. 250-900 AD). City-states such as Tikal, Palenque, and Copán built monumental pyramid-temples and palaces, with kings recording their deeds on stelae covered in hieroglyphs. Maya astronomers calculated the solar year as 365.2420 days and the Venusian cycle as 584 days, with precision far surpassing contemporary Europe. However, by the 9th century, the Classic Maya civilization suddenly collapsed, for reasons still debated.",
+        "a": 17.0,
+        "l": -90.0,
+        "c": "Culture",
+        "r": "Maya",
+        "o": "North America"
+      },
+      {
+        "t": "Sui conducts a nationwide census",
+        "s": "Emperor Yang of Sui ordered a nationwide 'maoyue' (comparing physical appearance with household registers) to forcibly uncover hidden and underreported households. Local officials recorded each household's population, and able-bodied men had to be personally verified. The census yielded approximately nine million households and about 46 million people, a significant increase from the time of Emperor Wen. The inspection effectively reduced the ability of powerful families to conceal people and evade taxes and corvée, but official harassment exacerbated class conflicts.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Society",
+        "r": "Sui",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Yang of Sui makes his third tour to Jiangdu",
+        "s": "Emperor Yang of Sui traveled by dragon boat for the third time to Jiangdu, accompanied by over 100,000 officials, consorts, and monks and nuns. There, he feasted the elders of the Jianghuai region and built many palaces. By this time, rebellions had erupted across the country, but the emperor, ignoring advice, indulged in pleasure. After this southern tour, he remained in Jiangdu for an extended period until his assassination in 618. The Jiangdu tours accelerated the disintegration of the Sui ruling clique and the expansion of regional warlord forces.",
+        "a": 32.4,
+        "l": 119.4,
+        "c": "Society",
+        "r": "Sui",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 611,
+    "d": [
+      {
+        "i": "sui",
+        "n": "Sui",
+        "u": "Emperor Yang of Sui (Yang Guang)",
+        "e": "7th year of the Daye era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wang Bo's uprising sparks the late Sui rebellions",
+        "s": "Wang Bo, a native of Changbai Mountain in Shandong (present-day Zouping, Shandong), unable to bear the heavy corvée imposed for the campaigns against Goguryeo, composed the song 'Don't Go to the Eastern Liaodong to Die' and rallied tens of thousands of hungry peasants to rise in rebellion. He occupied Changbai Mountain and called himself 'Zhishi Lang' (the one who knows the times). Wang Bo's uprising marked the beginning of the large-scale peasant wars at the end of the Sui dynasty, followed by uprisings led by Liu Badao, Sun Xuanya, Hao Xiaode, and others, plunging the country into a conflagration that fundamentally shook the Sui regime.",
+        "a": 36.7,
+        "l": 117.5,
+        "c": "Military",
+        "r": "Sui",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 612,
+    "d": [
+      {
+        "i": "sui",
+        "n": "Sui",
+        "u": "Emperor Yang of Sui (Yang Guang)",
+        "e": "8th year of the Daye era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Li Mi joins the Wagang Army",
+        "s": "Li Mi, a former Sui nobleman, fled after his involvement in the failed rebellion of Yang Xuangan and eventually joined the Wagang Army (led by Zhai Rang). Li Mi, a shrewd strategist, advised Zhai Rang to capture Xingyang and the Luokou Granary and to distribute grain to the starving. The Wagang Army quickly expanded, and Li Mi gradually assumed real power, becoming the most potent anti-Sui force, dealing devastating blows to the Sui regime.",
+        "a": 34.5,
+        "l": 114.0,
+        "c": "Society",
+        "r": "Sui",
+        "o": "Asia"
+      },
+      {
+        "t": "First Sui campaign against Goguryeo ends in disaster",
+        "s": "Emperor Yang of Sui amassed an army of 1.13 million (officially claimed 2 million) for a two-pronged land and sea attack on Goguryeo. The land forces crossed the Liao River and besieged Liaodong City but could not take it. The naval forces, led by Lai Huer, were ambushed and heavily defeated near Pyongyang. The nine armies of General Yuwen Shu, numbering 300,000, crossed the Yalu River but ran out of food. They were ambushed by the famous Goguryeo general Eulji Mundeok at the Salsu River (Chongchon River) and nearly annihilated, with only 2,700 men escaping. The Sui suffered grievous losses, its national power was severely damaged, and waves of uprisings erupted nationwide.",
+        "a": 39.1,
+        "l": 125.0,
+        "c": "Military",
+        "r": "Sui",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 613,
+    "d": [
+      {
+        "i": "sui",
+        "n": "Sui",
+        "u": "Emperor Yang of Sui (Yang Guang)",
+        "e": "9th year of the Daye era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Yang Xuangan rebels against Sui",
+        "s": "Yang Xuangan (son of Yang Su), the Minister of Rites and Duke of Chu, taking advantage of Emperor Yang's second campaign against Goguryeo, raised a rebellion at Liyang (present-day Xun County, Henan). He released the grain transport laborers, opened granaries to feed the people, and quickly gathered an army of over 100,000. Yang Xuangan besieged the eastern capital Luoyang for more than a month without success, then was defeated by Sui generals Yuwen Shu and Lai Huer, and committed suicide at Jialu Fort. Yang Xuangan's rebellion severely damaged the Sui's base of aristocratic support, creating a huge rift within the ruling class.",
+        "a": 34.5,
+        "l": 114.5,
+        "c": "Military",
+        "r": "Sui",
+        "o": "Asia"
+      },
+      {
+        "t": "Visigothic Kingdom relocates capital to Toledo",
+        "s": "King Suintila of the Visigoths unified most of the Iberian Peninsula and moved the capital from Narbonne to Toledo. He put down a rebellion by the Basques and promoted religious unification, forcing Jews to accept baptism. Toledo became the political and religious center of the Visigothic Kingdom, remaining the capital of the region for over a century. The Visigothic Kingdom preserved some classical heritage between the Roman and Islamic worlds.",
+        "a": 40.0,
+        "l": -3.0,
+        "c": "Politics",
+        "r": "Visigothic Kingdom",
+        "o": "Europe"
+      },
+      {
+        "t": "Second Sui campaign against Goguryeo and the Yang Xuangan rebellion",
+        "s": "Emperor Yang of Sui, disregarding the exhausted populace, once again personally led a campaign against Goguryeo. He ordered Yuwen Shu, Lai Huer, and others to advance on multiple fronts and besiege Liaodong City. While the battle raged, news arrived that Yang Xuangan had risen in rebellion. The emperor hastily withdrew, abandoning vast amounts of military supplies. The second campaign against Goguryeo achieved nothing, but the Yang Xuangan rebellion led to the alienation of the Guanlong aristocracy and shook the very foundations of the Sui regime.",
+        "a": 39.1,
+        "l": 125.0,
+        "c": "Military",
+        "r": "Sui",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 614,
+    "d": [
+      {
+        "i": "sui",
+        "n": "Sui",
+        "u": "Emperor Yang of Sui (Yang Guang)",
+        "e": "10th year of the Daye era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Dou Jiande rises in Hebei",
+        "s": "Dou Jiande, a native of Zhangnan in Hebei, after his family was killed by Sui forces, joined the rebel army led by Gao Shida. Known for his chivalry and popularity, he declared himself general at Xindu (present-day Jizhou, Hebei) and was later proclaimed Prince of Changle. Dou Jiande established the Xia regime, holding several commanderies in Hebei. He recruited former Sui officials such as Li Jiancheng and pursued a policy of light punishments and low taxes, becoming the strongest anti-Sui force in Hebei and forming a tripartite power balance with Li Yuan's Tang regime and Wang Shichong's Zheng regime.",
+        "a": 38.0,
+        "l": 115.0,
+        "c": "Society",
+        "r": "Sui",
+        "o": "Asia"
+      },
+      {
+        "t": "Third Sui campaign against Goguryeo ends inconclusively",
+        "s": "Emperor Yang of Sui forcefully launched a third campaign against Goguryeo. King Yeongyang of Goguryeo sent envoys to surrender and returned the defected Sui general Hu Sizheng. Seeing slow progress on the front and widespread rebellions at home, Emperor Yang accepted the surrender and ordered a withdrawal. This campaign saw no major engagement but wasted vast amounts of grain and supplies. Thereafter, the Sui could no longer afford to attack Goguryeo, and the failure of the campaigns severely weakened central authority, accelerating the Sui's collapse.",
+        "a": 39.1,
+        "l": 125.0,
+        "c": "Military",
+        "r": "Sui",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 615,
+    "d": [
+      {
+        "i": "sui",
+        "n": "Sui",
+        "u": "Emperor Yang of Sui (Yang Guang)",
+        "e": "11th year of the Daye era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Pakal the Great ascends to the throne in Palenque",
+        "s": "Pakal the Great (K'inich Janaab' Pakal) of the Maya city-state of Palenque formally ascended the throne in 615 at the age of twelve. He reigned for sixty-eight years, the longest of any Maya king. Pakal undertook major construction projects, including the Temple of the Inscriptions, whose stone sarcophagus lid is carved with nearly 2,000 hieroglyphs detailing his genealogy and accomplishments. His reign marked the peak of Palenque's power and prosperity.",
+        "a": 17.5,
+        "l": -92.0,
+        "c": "Politics",
+        "r": "Maya",
+        "o": "North America"
+      },
+      {
+        "t": "Emperor Yang of Sui is besieged at Yanmen",
+        "s": "While on a northern tour to Yanmen Commandery (present-day Daixian, Shanxi), the Eastern Turkic Illig Qaghan (Shibi Khan) led several hundred thousand cavalry on a sudden southward raid, trapping Emperor Yang in the city of Yanmen. With insufficient grain and supplies, the situation was dire. Following the advice of his counselor Xiao Yu, the emperor issued an edict promising heavy rewards to loyal troops. Sui reinforcements rushed to his aid, and Illig Qaghan, learning of false intelligence from Princess Yicheng (a Sui princess married to the khagan), lifted the siege and withdrew north. After this event, the emperor adopted a defensive stance against the Turks, and Sui prestige was shattered.",
+        "a": 39.1,
+        "l": 113.0,
+        "c": "Military",
+        "r": "Sui",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 616,
+    "d": [
+      {
+        "i": "sui",
+        "n": "Sui",
+        "u": "Emperor Yang of Sui (Yang Guang)",
+        "e": "12th year of the Daye era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Numerous warlords rise; the Sui dynasty nears collapse",
+        "s": "Anti-Sui armed forces grew to over a hundred groups. Li Mi's Wagang Army captured the Xingluo Granary, opened it to feed the people, and gathered hundreds of thousands of followers. Dou Jiande controlled Hebei, Du Fuwei ruled the Jianghuai region, Xue Ju rose in Longyou, and Liang Shidu held Shuofang. The Sui controlled only a few isolated strongholds such as Chang'an, Luoyang, and Jiangdu. Ignoring the pleas of his ministers, Emperor Yang decided to flee south to Jiangdu, abandoning much of northern China to rebel and separatist forces. The Sui existed in name only.",
+        "a": 34.6,
+        "l": 112.5,
+        "c": "Military",
+        "r": "Sui",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 617,
+    "d": [
+      {
+        "i": "sui",
+        "n": "Sui",
+        "u": "Emperor Yang of Sui (Yang Guang)",
+        "e": "13th year of the Daye era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Li Yuan rebels at Taiyuan",
+        "s": "Li Yuan, the Duke of Tang and garrison commander at Taiyuan, seeing that the Sui had lost the Mandate of Heaven, and urged on by his second son Li Shimin, raised an army at Taiyuan. Under the banner of 'honoring the Sui and punishing the rebels', he released prisoners, opened granaries to feed the people, and recruited 30,000 volunteers. Following Li Shimin's advice to 'strike directly for Guanzhong', they advanced south along the Fen River, crossed the Yellow River, and quickly approached Chang'an. In November of that year, Li Yuan captured Chang'an, installed Emperor Yang's grandson Yang You on the throne as Emperor Gong, and himself took the titles of Prince of Tang and Grand Chancellor, wielding real power.",
+        "a": 37.9,
+        "l": 112.5,
+        "c": "Politics",
+        "r": "Sui",
+        "o": "Asia"
+      },
+      {
+        "t": "Li Yuan enters Chang'an and honors Emperor Yang as 'Retired Emperor'",
+        "s": "Li Yuan's army entered Chang'an. He placed Yang You, grandson of Emperor Yang of Sui, on the throne as Emperor Gong, changing the era name to Yining, and honored the faraway Emperor Yang as 'Retired Emperor'. Li Yuan appointed himself Grand Chancellor and Prince of Tang, taking charge of all state affairs. He actively courted the Guanzhong gentry and maintained local order, laying the foundation for his eventual assumption of the throne. Many Sui officials in Chang'an defected to Li Yuan, making his regime the most promising to unify the empire.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Wagang Army occupies most of Henan",
+        "s": "Under Li Mi's command, the Wagang Army captured the Luokou, Huiluo, and Liyang granaries, seizing vast amounts of grain. Li Mi proclaimed himself Duke of Wei, established a bureaucracy, and issued a manifesto listing the ten great crimes of Emperor Yang of Sui. The Wagang Army reached its peak, holding most of Henan. However, a power struggle between Li Mi and Zhai Rang led to Zhai Rang's murder, causing internal discord. At the same time, Li Mi faced off against Wang Shichong near Luoyang and failed to strike west for Chang'an, missing a critical opportunity.",
+        "a": 34.7,
+        "l": 112.5,
+        "c": "Military",
+        "r": "Sui",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 618,
+    "d": [
+      {
+        "i": "sui",
+        "n": "Sui",
+        "u": "Emperor Yang of Sui (Yang Guang)",
+        "e": "14th year of the Daye era"
+      },
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozu of Tang (Li Yuan)",
+        "e": "1st year of the Wude era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Establishment of the Tang Dynasty",
+        "s": "After Emperor Yang of Sui was strangled at Jiangdu by Yuwen Huaji, Li Yuan forced Emperor Gong of Sui (Yang You) to abdicate and formally ascended the throne, proclaiming the Tang Dynasty with the reign name Wude. Li Yuan became Emperor Gaozu of Tang. The Tang inherited the political system and territorial foundation of the Sui, and gradually eliminated rival regional powers to reunify the country. The Tang Dynasty (618-907) became one of the most powerful and prosperous in Chinese history, with the reigns of Zhenguan and Kaiyuan taking Chinese civilization to new heights.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Tang Dynasty issues Kaiyuan Tongbao currency",
+        "s": "Emperor Gaozu of Tang abolished the Sui-era wuzhu coins and various other currencies, and ordered the casting of 'Kaiyuan Tongbao' coins. Each coin had a diameter of eight fen and weighed 2.4 zhu, with ten coins weighing one liang, pioneering a decimal currency system based on the 'wen' unit. The 'Kaiyuan' in the coin's name did not refer to a reign era but meant 'opening a new epoch'. These coins were regular in form and stable in quality, used for over 1,300 years and influencing the monetary systems of Japan, Korea, and other East Asian countries.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Economy",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Li Mi is defeated and surrenders to Tang",
+        "s": "Li Mi, leader of the Wagang Army, engaged Wang Shichong in a decisive battle at Mang Mountain north of Luoyang. Li Mi, overconfident and reckless, was utterly defeated and scattered. He fled west to Chang'an with his remaining troops and surrendered to Li Yuan. Li Yuan bestowed on Li Mi the title of Duke of Xingguo but treated him poorly. Unwilling to remain a subordinate, Li Mi later rebelled against Tang and fled east, only to be killed by Tang general Sheng Yanshi at Mount Xiong'er. The defeat of the Wagang Army allowed Wang Shichong to dominate Henan and removed a major rival of Li Yuan.",
+        "a": 34.7,
+        "l": 112.5,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Yang of Sui is murdered; the Sui dynasty ends",
+        "s": "During his third southern tour to Jiangdu, Emperor Yang of Sui was accompanied by the Xiaoguo Army (the imperial guard), which was mostly composed of men from Guanzhong who longed to return home. Yuwen Huaji and his brother Yuwen Zhiji led a mutiny and strangled Emperor Yang at the Jiangdu Palace. The emperor was fifty years old. Yuwen Huaji then made Yang Hao, a grandson of Emperor Yang, emperor for a short time before being defeated by Dou Jiande. The death of Emperor Yang marked the official end of Sui rule, ushering in an era of warlord conflict.",
+        "a": 32.4,
+        "l": 119.4,
+        "c": "Politics",
+        "r": "Sui",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 619,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozu of Tang (Li Yuan)",
+        "e": "2nd year of the Wude era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Tang army consolidates its Guanzhong base",
+        "s": "At the start of the Tang dynasty, it controlled only parts of Guanzhong, Hedong, and other areas. Emperor Gaozu ordered Li Shimin to lead troops to pacify the Xue brothers (Xue Ju and Xue Rengao) in Longyou, achieving a decisive victory at Qianshuiyuan, after which Xue Rengao surrendered. Tang forces then defeated Li Gui in Liangzhou and recovered the Hexi Corridor. Through these military actions, the Tang consolidated its Guanzhong base, acquired access to Longyou horses and the Hexi grain route, and laid a solid foundation for its eastward expansion to unify the empire.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Wang Shichong proclaims himself emperor and founds the Zheng dynasty",
+        "s": "Wang Shichong, a former Sui general, after defeating the Wagang Army, declared himself Prince of Zheng and took control of the government. In April of that year, he deposed Yang Tong, proclaimed himself emperor, and founded the Zheng dynasty with the reign name of Kaiming. He ruled Luoyang with harsh laws and lost popular support. Occupying Luoyang and much of Henan, Wang Shichong became one of the Tang dynasty's most formidable rivals east of the Pass.",
+        "a": 34.7,
+        "l": 112.5,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 620,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozu of Tang (Li Yuan)",
+        "e": "3rd year of the Wude era"
+      }
+    ],
+    "v": [
+      {
+        "t": "The Islamic calendar is formally established",
+        "s": "The second orthodox caliph, Umar, wanting a unified calendar system, adopted Ali's suggestion and used the year of the Hijra (the Prophet Muhammad's migration from Mecca to Medina, beginning in September 622 AD) as the first year of the Islamic era. The Islamic calendar (Hijri calendar) is a purely lunar calendar with 354 or 355 days per year and no intercalary months. It remains the religious calendar of the Islamic world, used to determine religious events such as Ramadan and Hajj.",
+        "a": 24.5,
+        "l": 39.6,
+        "c": "Religion",
+        "r": "Arab Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Li Shimin pacifies Liu Wuzhou",
+        "s": "Liu Wuzhou, a warlord based at Mayi (present-day Shuozhou, Shanxi), had allied with the Eastern Turks and captured Taiyuan and most of Hedong, posing a serious threat to the Tang. Emperor Gaozu ordered Li Shimin to lead a campaign against him. At Baibi (present-day Xinjiang, Shanxi), Li Shimin held his position and refused battle, waiting until Liu's army ran out of supplies before launching a major counterattack that retook Taiyuan. Liu Wuzhou fled to the Turks and was later killed. This victory pacified Hedong and provided a secure northern flank for the Tang.",
+        "a": 37.9,
+        "l": 112.5,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Li Shimin defeats Xue Rengao at the Battle of Qianshuiyuan",
+        "s": "Xue Rengao, son of Xue Ju, held Longyou and frequently raided Guanzhong. Li Shimin led his army to Qianshuiyuan (northeast of present-day Changwu, Shaanxi) for a decisive battle. First, he ordered his troops to lure the enemy, then ambushed them, routing Xue's forces. Xue Rengao surrendered and was later killed. This campaign removed the western threat to the Tang and gave it access to Longyou's cavalry resources.",
+        "a": 35.5,
+        "l": 105.0,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 621,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozu of Tang (Li Yuan)",
+        "e": "4th year of the Wude era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Hulao Pass: Li Shimin annihilates the Xia and Zheng regimes in one stroke",
+        "s": "Li Shimin led Tang forces besieging Wang Shichong in Luoyang when Dou Jiande led 100,000 Xia troops south to relieve him. Leaving a contingent to continue the siege, Li Shimin took 3,500 elite cavalry to seize the strategic Hulao Pass (present-day Xingyang, Henan). Dou Jiande deployed his army in a line twenty li long, but the Tang troops refused to engage. At midday, the Xia troops grew tired and hungry, and Li Shimin led his cavalry in a charge that shattered the Xia army and captured Dou Jiande alive. Wang Shichong, seeing his relief force destroyed, surrendered. The Battle of Hulao Pass was the decisive engagement in the Tang unification wars, eliminating the two major regional powers at once.",
+        "a": 34.8,
+        "l": 113.2,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Du Fuwei submits to the Tang dynasty",
+        "s": "Du Fuwei, leader of a rebel army in the Jianghuai region, controlled Danyang (present-day Nanjing) with over 100,000 troops. Seeing that Tang unification was inevitable, he voluntarily petitioned to submit. Emperor Gaozu granted Du the title of Prince of Wu and Grand Marshal of the Southeast Circuit, recognizing his autonomous rule over the Jianghuai region. Du's submission created favorable conditions for the Tang to pacify the Jiangnan region and unify the south.",
+        "a": 32.4,
+        "l": 119.4,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 622,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozu of Tang (Li Yuan)",
+        "e": "5th year of the Wude era"
+      }
+    ],
+    "v": [
+      {
+        "t": "The Hijra – year one of the Islamic calendar",
+        "s": "After twelve years of preaching in Mecca, the Prophet Muhammad faced persecution from the Umayyad family and other nobles. In September 622 AD, learning of a plot by Meccan nobles to assassinate him, he fled Mecca with his close friend Abu Bakr, migrating north to Yathrib (later renamed Medina, 'the City of the Prophet'). This migration is known as the Hijra. In Medina, Muhammad established a politico-religious community (the umma) and formulated the 'Constitution of Medina', uniting the Aws and Khazraj tribes. The Hijra was later designated as the start of the Islamic calendar.",
+        "a": 24.47,
+        "l": 39.61,
+        "c": "Religion",
+        "r": "Arabia",
+        "o": "Asia"
+      },
+      {
+        "t": "Liu Heita rises against Tang",
+        "s": "After Dou Jiande was captured, his former follower Liu Heita raised a rebellion in Zhangnan, Hebei, proclaiming himself King of Handong. Fierce and skilled in battle, Liu quickly won popular support in Hebei and within six months recovered Dou's former territories. He heavily defeated Tang generals Li Shentong and Luo Yi, and killed Tang general Li Daoxuan. The Liu Heita rebellion was one of the greatest setbacks in the Tang unification process, plunging Hebei into prolonged warfare.",
+        "a": 38.9,
+        "l": 115.0,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 623,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozu of Tang (Li Yuan)",
+        "e": "6th year of the Wude era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Liu Heita's second uprising fails and he is killed",
+        "s": "After being defeated by Li Shimin, Liu Heita fled to the Turks. He later returned south with Turkic cavalry and regained control of Hebei. Emperor Gaozu ordered Crown Prince Li Jiancheng and Li Yuanji (Prince of Qi) to campaign against him. Following Wei Zheng's advice, Li Jiancheng adopted a conciliatory policy, releasing prisoners and relieving famine, which eroded Liu's popular support. Liu's subordinates defected, and he fled to Raoyang where he was captured and sent to the Tang camp, then executed at Ming Prefecture. Liu's death marked the basic pacification of Hebei by the Tang.",
+        "a": 38.9,
+        "l": 115.0,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Tang unification basically completed",
+        "s": "With the pacification of Liu Heita, the Tang had eliminated the major separatist forces: Wang Shichong, Dou Jiande, Liu Heita, Xue Ju, Li Gui, Liang Shidu, and others, leaving only Fu Gongshi in Jiangnan and the Feng family in Lingnan. After six years of warfare, Li Yuan and his son Li Shimin had largely unified Guandong, Guanzhong, Hebei, Longyou, and Bashu, laying the territorial foundation for the Zhenguan era.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Fu Gongshi proclaims himself emperor and rebels against Tang",
+        "s": "Fu Gongshi (a general under Du Fuwei) raised a rebellion at Danyang, declaring himself Emperor of Song. He occupied the Jianghuai region, blocked water transport, and threatened Tang control over Jiangnan. Emperor Gaozu sent Li Xiaogong and Li Jing with a combined land and naval force to attack him. Li Jing used tactics of avoiding strong points and cutting off escape routes, quickly routing Fu's forces. Fu fled to Wukang where he was captured and killed. After this battle, the Tang gained full control of the middle and lower Yangtze region.",
+        "a": 32.0,
+        "l": 118.8,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 624,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozu of Tang (Li Yuan)",
+        "e": "7th year of the Wude era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Promulgation of the Wude Code, following Sui legal tradition",
+        "s": "Emperor Gaozu ordered Pei Ji, Xiao Yu, and other ministers to revise the Sui's Kaihuang Code, producing and promulgating the Wude Code. Comprising twelve sections and 500 articles, the Wude Code abolished the harsh punishments of Emperor Yang's era, reduced the severity of the five penalties (beating, caning, forced labor, exile, death), and established the legislative principle that 'virtue and ritual are the foundation of governance, while punishment is the tool.' The Wude Code was the first Tang legal code, forming the basis for the later Zhenguan Code and Yonghui Code.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Law",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Tang implements the equal-field system",
+        "s": "Emperor Gaozu issued an equal-field decree, stipulating that adult males receive 100 mu of land (20 mu as hereditary land, 80 mu as service land), with the old, widowed, and disabled receiving half. Hereditary land could be passed to descendants, while service land reverted to the state upon death. The equal-field system aimed to curb land concentration, ensure state tax revenue, and provide peasants with basic means of production. This system was effectively implemented in the early Tang and provided the economic foundation for the Zhenguan era.",
+        "a": 34.3,
+        "l": 108.86,
+        "c": "Economy",
+        "r": "Tang Dynasty",
+        "o": "Asia"
+      },
+      {
+        "t": "Tang establishes the three-department and six-ministry system",
+        "s": "The Tang dynasty formally established the three-department and six-ministry system: the Chancellery (Zhongshu Sheng) drafted edicts, the Gate Department (Menxia Sheng) reviewed them, and the Secretariat (Shangshu Sheng) executed them. The Secretariat oversaw six ministries: Personnel, Revenue, Rites, War, Justice, and Works. It also established the Censorate to monitor officials and nine courts and five directorates to handle specific affairs. This administrative system, with clear divisions of labor and checks and balances, ensured political stability and administrative efficiency, profoundly influencing later Chinese and East Asian governance.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 625,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozu of Tang (Li Yuan)",
+        "e": "8th year of the Wude era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Eastern Turkic Illig Qaghan launches major invasion south",
+        "s": "Taking advantage of the Tang's exhaustion after the unification wars, the Eastern Turkic Illig Qaghan led over 100,000 cavalry deep into Tang territory, reaching Bin Prefecture (present-day Binzhou, Shaanxi), only forty li from Chang'an. Tang defenses were inadequate, and border posts sent urgent alarms. Li Yuan considered moving the capital, a plan opposed by Li Shimin. The Tang court mustered its forces for defense and eventually reached a settlement with Illig Qaghan, who withdrew his forces. This invasion exposed the weakness of the Tang's border defenses.",
+        "a": 39.3,
+        "l": 112.4,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Byzantine Emperor Heraclius recovers eastern territories",
+        "s": "After years of preparation, Byzantine Emperor Heraclius launched a major counteroffensive against the Sasanian Persians. He led his army deep into Persian territory, using the Turks as a flanking force, and defeated the Persians at the Battle of Nineveh, recovering Syria, Palestine, and Egypt previously occupied by the Persians, and regaining the True Cross. Heraclius's military victories temporarily restored Byzantium's eastern frontier, but soon after the rise of the Arab Empire quickly swallowed those territories.",
+        "a": 31.8,
+        "l": 35.2,
+        "c": "Military",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 626,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "9th year of the Wude era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Xuanwu Gate Incident",
+        "s": "The conflict for succession between Li Shimin, the Prince of Qin (second son of Emperor Gaozu), and the crown prince Li Jiancheng and Li Yuanji, Prince of Qi, intensified. Li Shimin suborned the commander of Xuanwu Gate, Chang He, and ambushed his brothers there with Changsun Wuji, Yuchi Jingde, and others. When Li Jiancheng and Li Yuanji entered the palace through Xuanwu Gate, they were attacked. Li Shimin shot Li Jiancheng dead, and Yuchi Jingde killed Li Yuanji. Li Shimin then forced his father to make him crown prince, and soon after, Gaozu abdicated, and Li Shimin ascended the throne as Emperor Taizong of Tang. The bloodshed at Xuanwu Gate resolved the succession crisis and ushered in the Zhenguan era.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Turks march on Chang'an; Treaty of Wei River",
+        "s": "Taking advantage of the political turmoil following the Xuanwu Gate Incident, the Eastern Turkic Illig Qaghan led 200,000 cavalry south to the Wei River, only forty li from Chang'an. Emperor Taizong personally rode with six companions, including Gao Shilian and Fang Xuanling, to the edge of the Wei River and confronted Illig across the water, accusing him of breaking his oath. Tang forces then deployed in formation, their banners blotting out the sun. Seeing that the Tang were prepared and that his ally Tuli Khan had already made peace with Tang, Illig agreed to a covenant with Taizong at a bridge over the Wei, swearing on a white horse, and withdrew after receiving gifts of silk and gold. The Treaty of Wei River resolved the immediate crisis but was regarded as a humiliation, spurring Taizong to prepare for a counterattack.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Diplomacy",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 627,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "1st year of the Zhenguan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Beginning of the Zhenguan Era",
+        "s": "After ascending the throne, Emperor Taizong of Tang changed the reign title to Zhenguan. He strove for good governance, appointing Fang Xuanling and Du Ruhui as chancellors, accepting remonstrances humbly, and promoting upright officials like Wei Zheng. He implemented the equal-field system, the zu-yong-diao tax system, and light corvée. He improved the three-department and six-ministry system and the imperial examinations. Militarily, he defeated the Turks, Tuyuhun, and others. The Zhenguan era was marked by clean politics, economic recovery, cultural flourishing, and social stability, hailed as a model of good governance in China's feudal era and laying the foundation for the Tang's golden age.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 628,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "2nd year of the Zhenguan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Tang eliminates Liang Shidu; national unification completed",
+        "s": "Liang Shidu, a separatist based at Shuofang (north of present-day Jingbian, Shaanxi), had allied with the Turks and was the last regional power not yet eliminated by Tang. Emperor Taizong sent Chai Shao and Xue Wanjun to attack him. Tang forces defeated a Turkic relief force and besieged Shuofang. Liang Shidu's cousin, Liang Luoren, killed Liang Shidu and surrendered. The Tang recovered the Hetao region and established Xia Prefecture. At this point, the Tang basically unified the former Sui territories, completing national unification.",
+        "a": 38.3,
+        "l": 109.7,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 629,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "3rd year of the Zhenguan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Xuanzang journeys west to seek the Dharma",
+        "s": "Tang monk Xuanzang, troubled by discrepancies among Chinese Buddhist scriptures, vowed to journey to India to obtain original texts. Without government authorization, he left Chang'an in secret, passing through Liangzhou and Guazhou, sneaking past the Yumen Pass and crossing the Moheyanqi Desert to reach the kingdom of Gaochang. The king of Gaochang, Qu Wentai, provided him with funds to continue west. He passed through the Western Regions states, crossed the Pamir Mountains, and finally arrived in northern India. Xuanzang's journey took four years and covered over 50,000 li, demonstrating extraordinary perseverance and determination.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Culture",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 630,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "4th year of the Zhenguan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Tang destroys the Eastern Turks",
+        "s": "Taking advantage of internal strife and a snow disaster among the Eastern Turks, Emperor Taizong appointed Li Jing as commander-in-chief and launched 100,000 troops in six columns. Li Jing led 3,000 cavalry in a night attack on Dingxiang, forcing Illig Qaghan to flee to Tie Mountain. Li Ji intercepted and routed the Turks at Baidao. Illig sent envoys to surrender, but Li Jing launched a surprise attack on the khan's tent, killing over 10,000 and capturing over 100,000. Illig fled to the Qishi (Gobi) but was captured by Tang general Zhang Baoxiang. The Eastern Turkic Khaganate was destroyed; its tribes either moved into China or submitted, and the northern border threat to Tang was fundamentally resolved. Emperor Taizong was honored by the Four Directions as the 'Heavenly Khan' (Tian Kehan).",
+        "a": 43.6,
+        "l": 112.0,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "First Japanese mission to Tang China",
+        "s": "Emperor Jomei of Japan dispatched Inukami no Mitasuki (a envoy) to accompany the Tang envoy Gao Biaoren back to China. This was the first official diplomatic mission from Japan to the Tang, marking the beginning of large-scale Japanese learning of Tang institutions and culture. Over the following two centuries, Japan sent nearly twenty missions to Tang, comprehensively importing Tang law, Buddhism, architecture, art, etc., driving the Taika Reforms and the development of Nara period civilization.",
+        "a": 34.5,
+        "l": 136.0,
+        "c": "Diplomacy",
+        "r": "Wa (Japan)",
+        "o": "Asia"
+      },
+      {
+        "t": "Xuanzang reaches Nalanda Monastery in India",
+        "s": "After enduring countless hardships, Xuanzang arrived at Nalanda Monastery, the highest seat of Buddhist learning in India. He studied the Yogācārabhūmi-śāstra and other Buddhist texts under the master Śīlabhadra, and became a tripitaka master (master of the three collections). Xuanzang studied in India for five years and then traveled to dozens of states in eastern, western, southern, and northern India, bringing back 657 Buddhist scriptures. His 'Great Tang Records on the Western Regions' provides detailed geographical, historical, and cultural information about Central Asia and India, becoming a precious source for the study of ancient India and Central Asia.",
+        "a": 25.0,
+        "l": 85.0,
+        "c": "Culture",
+        "r": "Tang China",
+        "o": "Asia"
+      },
+      {
+        "t": "Muhammad conquers Mecca",
+        "s": "Prophet Muhammad led an army of 10,000 Muslims from Medina to Mecca. Seeing the situation was hopeless, the Meccan leader Abu Sufyan surrendered. Muhammad declared a general amnesty, pardoning all Meccans except a few for severe crimes. He entered the Kaaba shrine, smashed 360 idols, proclaimed 'There is no god but Allah', and declared the Kaaba the holiest site of Islam. Mecca became the holy city of Islam, and most tribes on the Arabian Peninsula converted to Islam.",
+        "a": 21.42,
+        "l": 39.83,
+        "c": "Military",
+        "r": "Arabia",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 631,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "5th year of the Zhenguan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Tang three-department and six-ministry system is refined",
+        "s": "Emperor Taizong further improved the functioning of the three-department and six-ministry system. The Chancellery drafted decrees, the Gate Department reviewed them, and the Secretariat executed them; the heads of the three departments deliberated together at the Council of State (Zhengshitang). He also established the Hanlin Academy for consultation and the Censorate as the supreme audit body. Meanwhile, he refined the selection process of the Ministry of Personnel and the regular imperial examinations (jinshi and mingjing). This system, with clear divisions of responsibility and checks and balances, preserved the emperor's power while avoiding policy mistakes, and was key to the efficient functioning of the Tang government.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Wine-making flourishes in the Tang's Hexi Corridor",
+        "s": "Emperor Taizong introduced grape seeds and winemaking techniques from Gaochang (Turpan) to Chang'an and the Longyou region. In the Zhenguan years, large vineyards spread across Liangzhou (Wuwei) and Ganzhou (Zhangye), producing fine wines of amber color and sweet taste. The flourishing wine industry enriched Tang food culture and became an important commodity on the Silk Road.",
+        "a": 40.0,
+        "l": 110.0,
+        "c": "Culture",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 632,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "6th year of the Zhenguan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Death of the Prophet Muhammad",
+        "s": "Prophet Muhammad died of illness in Medina at the age of 63. He left no explicit heir, leading to disagreements over his succession. After intense debate, Abu Bakr was elected the first caliph. However, some (later the Shia) insisted that only Ali was qualified. Muhammad's death marked the beginning of the 'Rashidun Caliphate' period and sowed the seeds of the Sunni-Shia split.",
+        "a": 24.5,
+        "l": 39.6,
+        "c": "Religion",
+        "r": "Arab Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Taizong frees condemned prisoners on parole",
+        "s": "While reviewing death penalty cases, Emperor Taizong ordered the release of 390 condemned prisoners, sending them home with the promise that they would return the next autumn for execution. The following autumn, all the prisoners returned on time without a single default. Deeply moved, the emperor pardoned them all. This event became a symbol of Taizong's 'virtuous governance', demonstrating his belief in ruling by good faith, though some later historians questioned its authenticity.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 633,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "7th year of the Zhenguan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Taizong orders the compilation of the 'Genealogy of Clans'",
+        "s": "Emperor Taizong ordered Gao Shilian and Wei Ting to compile the 'Genealogy of Clans' (Shizu Zhi) to establish a new social hierarchy. The original draft ranked the Cui family of Shandong as first class, greatly displeasing the emperor. He ordered that the imperial Li clan come first, followed by the consort clans, with the old Shandong families relegated. The 'Genealogy of Clans' consisted of 100 volumes, covering 293 surnames and 1,651 houses, breaking the old aristocratic system of the 'Five Surnames and Seven Great Houses', elevating the Guanlong group and the common gentry, and strengthening the emperor's power.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Arab Empire unifies the Arabian Peninsula",
+        "s": "The first caliph, Abu Bakr, put down the 'Ridda Wars' (apostasy wars), defeating tribal leaders who refused to pay zakat or claimed prophethood, such as Musaylima. He then continued to consolidate the peninsula. Subsequently, the second caliph, Umar, continued integrating the tribes, uniting them under the banner of Islam. The complete unification of the Arabian Peninsula provided the manpower and resources for later large-scale conquests (Syria, Persia, Egypt).",
+        "a": 25.0,
+        "l": 45.0,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 634,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "8th year of the Zhenguan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Songtsen Gampo sends envoys to Tang to seek a marriage alliance",
+        "s": "After unifying the Tibetan plateau, the Tibetan tsanpo Songtsen Gampo dispatched an embassy to Chang'an, seeking to marry a Tang princess. Emperor Taizong initially refused. Songtsen Gampo then attacked Songzhou (present-day Songpan, Sichuan) and defeated a Tang army. After a Tang counterattack repulsed the Tibetan vanguard, Songtsen Gampo again requested marriage. Seeing the strength of Tibet and its sincerity, the emperor agreed. 634 marked the beginning of diplomatic contact between Tang and Tibet, paving the way for Princess Wencheng's entry into Tibet in 641.",
+        "a": 32.6,
+        "l": 103.6,
+        "c": "Diplomacy",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Arabs capture Damascus",
+        "s": "Arab forces under Khalid ibn al-Walid defeated Byzantine defenders and, after a six-month siege, captured Damascus, the capital of Syria. Damascus was one of the most prosperous cities in Western Asia at the time. The surrender terms ensured the safety of the residents' lives and property and allowed churches to be preserved. The Muslims made it an important military base, later the capital of the Umayyad Caliphate. The fall of Damascus caused the Byzantine Empire to lose the Levant.",
+        "a": 33.5,
+        "l": 36.3,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 635,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "9th year of the Zhenguan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Tang forces crush the Tuyuhun",
+        "s": "The Tuyuhun khan Murong Fuyun repeatedly raided Tang borders. Emperor Taizong ordered Li Jing, Hou Junji, Li Daozong, and others to lead five armies against him. The Tang forces advanced deep into the Qinghai-Tibet plateau, defeating the Tuyuhun at the source of the Yellow River and Jishi Mountain. Fuyun committed suicide. The Tang installed his son Murong Shun as khan, later replaced by Nuhebo. The Tuyuhun became a Tang vassal, and the Tang gained control over eastern Qinghai and the southern route of the Western Regions, opening the passage to the west.",
+        "a": 36.6,
+        "l": 101.8,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Nestorian Christianity enters China",
+        "s": "Alopen, a Persian bishop of the Nestorian Church, arrived in Chang'an with scriptures. Emperor Taizong sent Chancellor Fang Xuanling to welcome him outside the city and permitted him to build a church in Yining Ward, called the 'Persian Temple'. Nestorianism, which holds that the divine and human natures of Christ are separate, was approved by imperial edict as 'beneficial to things and people'. Nestorianism spread in China for more than 200 years, as recorded in the 'Nestorian Stele' now preserved in the Xi'an Forest of Steles.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Religion",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Arabs conquer the Sasanian Persian Empire",
+        "s": "Arab forces defeated the Persian army at the Battle of Qadisiyya and captured the Persian capital Ctesiphon. Emperor Yazdegerd III fled east. The Arabs then advanced into Persia, occupying Khuzestan, Fars, and other regions. The Sasanian Empire was completely conquered by the Arabs in a few decades. Emperor Yazdegerd III was killed in Central Asia in 651. The conquest caused Islam to replace Zoroastrianism as the main religion in Persia, but Persia retained its own language and culture.",
+        "a": 33.0,
+        "l": 44.0,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Arabs capture Jerusalem",
+        "s": "Caliph Umar personally went to Jerusalem to accept its surrender. The Greek Orthodox patriarch Sophronius handed over the keys. Umar made a pact with the Christians, promising not to destroy churches or force conversions, and allowing Christians to keep their faith, but forbidding Jews from living in the city. Umar cleared the ruins on the Temple Mount and built a simple mosque (later expanded into the Al-Aqsa Mosque and the Dome of the Rock). Jerusalem became the third holiest city of Islam (after Mecca and Medina).",
+        "a": 31.8,
+        "l": 35.2,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 636,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "10th year of the Zhenguan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Taizong has portraits of 24 founding ministers painted in Lingyan Pavilion",
+        "s": "To commemorate and honor his founding ministers, Emperor Taizong commissioned Yan Liben to paint portraits of 24 ministers, including Changsun Wuji, Fang Xuanling, Du Ruhui, Wei Zheng, Li Jing, and Yuchi Jingde, which were hung in Lingyan Pavilion in the Taiji Palace. The emperor himself wrote eulogies praising their achievements. The 'Twenty-Four Meritorious Officials of Lingyan Pavilion' became symbols of loyal service to the Tang, and later literati often used 'merits in Lingyan Pavilion' as a metaphor for great ambitions.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Culture",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Empress Zhangsun dies",
+        "s": "Empress Zhangsun (Empress Wende, nee Zhangsun, also known as Guanyinbi) died at Lizheng Palace at the age of thirty-six. She had authored a ten-volume work 'Nü Ze' (Models for Women), repeatedly advised Taizong to accept remonstrances and treat loyal ministers well, and protected upright officials such as Wei Zheng. On her deathbed, she requested a simple burial without a tumulus. Empress Zhangsun was a force for moderation in the Zhenguan government, and her death was a great loss to Taizong, who often missed her afterward.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Battle of Yarmuk",
+        "s": "An Arab army of 50,000 under Khalid ibn al-Walid confronted a Byzantine force (including Armenian and Arab Christian allies) of about 100,000 sent by Emperor Heraclius at the Yarmuk River (a tributary of the Jordan). Using cavalry mobility and a dust storm, Khalid attacked with pincer movements and crushed the Byzantines, who suffered tens of thousands of casualties. The battle caused the Byzantines to lose Syria and Palestine permanently, and the Arab Empire gained control of the eastern Mediterranean, becoming a world power.",
+        "a": 32.8,
+        "l": 35.9,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 637,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "11th year of the Zhenguan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Promulgation of the Zhenguan Code",
+        "s": "Emperor Taizong ordered Changsun Wuji, Fang Xuanling, and others to revise the Wude Code, producing the Zhenguan Code in twelve sections with 500 articles. The Zhenguan Code further reduced the number of capital offenses (from hundreds in the Wude Code to just over ninety), abolished corporal punishments and many harsh provisions of joint punishment, and established the principle of 'cautious punishment'. It was the mature form of Tang law and served as the blueprint for the later Yonghui Code and the Tang Code Commentary, representing the highest achievement of ancient Chinese legal codes.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Arabs conquer Mesopotamia",
+        "s": "Arab forces under Sa'd ibn Abi Waqqas, after the Battle of Qadisiyya, advanced and occupied all of Mesopotamia (modern Iraq). The last Persian resistance was crushed at Mosul and elsewhere. The Arabs established the city of Kufa as a military and administrative center. Mesopotamia's fertile land and rich resources greatly strengthened the Arab Empire, enabling it to continue expanding east and west.",
+        "a": 33.3,
+        "l": 44.4,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Arabs officially occupy Jerusalem and build a mosque there",
+        "s": "After accepting Jerusalem's surrender, Caliph Umar ordered the construction of a simple mosque on the Temple Mount (site of the Jewish Second Temple). This mosque was later expanded by the Umayyad Caliphate into the Al-Aqsa Mosque, and the Dome of the Rock was built at the same site in 691. Jerusalem has since been considered the third holiest city of Islam, with Muslim rule lasting nearly 1,300 years (except for the Crusader period).",
+        "a": 31.78,
+        "l": 35.23,
+        "c": "Military",
+        "r": "Arabia",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 638,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "12th year of the Zhenguan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Songzhou: first major military clash between Tang and Tibet",
+        "s": "Songtsen Gampo, angered by the refusal of his marriage request, led 200,000 Tibetan troops to attack Songzhou (present-day Songpan, Sichuan), defeating the Tang governor Han Wei. Emperor Taizong ordered Hou Junji, Niu Jinda, and others to lead 50,000 infantry and cavalry to reinforce the city. Niu Jinda launched a night raid on the Tibetan camp, killing over a thousand. Seeing the strength of the Tang forces and instability in his rear, Songtsen Gampo withdrew. He then again requested a marriage alliance, which the emperor granted. The Battle of Songzhou, the first major armed conflict between Tang and Tibet, ended with a marriage arrangement.",
+        "a": 32.6,
+        "l": 103.6,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Arabs capture Antioch",
+        "s": "Arab forces under Abu Ubayda captured Antioch (present-day Antakya, Turkey), the major city in northern Syria. Antioch was one of the five patriarchates of Christianity and the last important Byzantine stronghold in Syria. After its capture, the Arab Empire controlled all of Syria, and Byzantine forces retreated south of the Taurus Mountains.",
+        "a": 36.2,
+        "l": 36.8,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 639,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "13th year of the Zhenguan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Jiesheshuai, a Turk, attempts to assassinate Emperor Taizong",
+        "s": "After the defeat of the Eastern Turks, their tribes were settled in and around Chang'an. Jiesheshuai (brother of Ashina She'er), brother of Tuli Khan, dissatisfied with his treatment, plotted with former Turkic comrades to assassinate Emperor Taizong during the emperor's night tour of Jiucheng Palace. Jiesheshuai led about forty horsemen into the palace, killing dozens of people. They were repelled, and when they fled north across the Wei River, they were killed by pursuing Tang forces. After this incident, Emperor Taizong ordered the remaining Turkic tribes to be resettled in various places and forbidden to gather, to prevent further trouble.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Arab Empire invades Egypt",
+        "s": "Caliph Umar decided to conquer Egypt, ordering Amr ibn al-As to lead 4,000 cavalry (later reinforced to 15,000) from Palestine into Egypt via the Sinai Peninsula. Amr defeated the Byzantine defenders at Farama and then besieged Babylon Fortress (near modern Cairo). The Egyptian governor Cyrus surrendered and agreed to pay tribute. This invasion opened the way for the Arab conquest of North Africa.",
+        "a": 30.5,
+        "l": 31.0,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": 640,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "14th year of the Zhenguan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Yijing, a Tang monk, journeys to India for Buddhist scriptures",
+        "s": "The Chinese monk Yijing set sail from Guangzhou on a Persian merchant ship, taking a sea route to India to seek the Dharma. He stayed in Srivijaya (Sumatra) for six months to learn Sanskrit, then arrived in eastern India. Yijing studied in India for ten years, visiting more than thirty countries. After returning, he translated Buddhist scriptures and wrote books such as 'A Record of Buddhist Practices Sent Home from the Southern Seas', which provide detailed accounts of Southeast Asian and Indian Buddhism, customs, and geography, making them important sources for the study of 7th-century Southeast Asia.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Religion",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Tang destroys Gaochang; establishes the Protectorate General to Pacify the West (Anxi Protectorate)",
+        "s": "Qu Wentai, the king of Gaochang, allied with the Western Turks to obstruct the tributary missions of Western Regions states to the Tang. Emperor Taizong ordered Hou Junji to lead tens of thousands of troops to attack Gaochang. Qu Wentai, terrified by news of the approaching Tang army, died of shock. His son Qu Zhisheng surrendered. The Tang established Xi Prefecture on the former territory of Gaochang and also set up the Protectorate General to Pacify the West (Anxi Protectorate, initially at Xi Prefecture, later moved to Kucha), which governed the states south of the Tian Shan. The Anxi Protectorate became the military and administrative center for Tang's operations in the Western Regions.",
+        "a": 42.9,
+        "l": 89.2,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Establishment of the Srivijaya Kingdom",
+        "s": "The Srivijaya (Sanfoqi) kingdom, located in southeastern Sumatra, was founded at Palembang. The ruling dynasty was Sailendra. Leveraging its position at the Strait of Malacca, a hub of maritime trade, Srivijaya controlled the east-west spice and silk trade and gradually became the most powerful maritime empire in Southeast Asia. The kingdom adhered to Mahayana Buddhism and traded with Tang China, India, and the Arab world. It later had close ties with the Sailendra dynasty of Java.",
+        "a": -2.8,
+        "l": 104.0,
+        "c": "Politics",
+        "r": "Srivijaya",
+        "o": "Asia"
+      },
+      {
+        "t": "Wang Xuance's diplomatic mission to India",
+        "s": "Emperor Taizong appointed Wang Xuance, a gentleman of the Right Guard, as chief envoy, with Jiang Shiren as deputy, leading more than thirty men to the Harsha Empire. When Wang arrived, King Harsha had died, and the usurper Aluonashun (Arunasva) seized the mission. Wang escaped, sought troops from Tibet and Nepal, and with an army of 8,000 returned to defeat Aluonashun, capturing his queen and children and sending them to Chang'an. Wang Xuance's legendary feat of conquering a kingdom with his own means became widely known.",
+        "a": 28.0,
+        "l": 78.0,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Arabs besiege Babylon Fortress",
+        "s": "The Arab general Amr ibn al-As besieged Babylon Fortress (old Cairo) in Egypt. The defending general Cyrus and Byzantine relief forces held out for months but eventually surrendered due to starvation. Amr allowed the Byzantine troops to withdraw peacefully and made an agreement with the local Copts. The Arabs then built a new garrison city, Fustat, which became the capital of Egypt. The fall of Babylon Fortress marked the end of Byzantine rule in Egypt.",
+        "a": 30.0,
+        "l": 31.2,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": 641,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "15th year of the Zhenguan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Princess Wencheng enters Tibet for a marriage alliance",
+        "s": "Emperor Taizong married Princess Wencheng, a Tang clanswoman, to the Tibetan tsanpo Songtsen Gampo. The princess brought a large dowry including Buddhist scriptures, medical books, farm tools, seeds, artisans, and treasures. She oversaw the construction of the Jokhang and Ramoche Temples, introducing Buddhism, calendar, medicine, and farming techniques to Tibet, promoting its social development. Songtsen Gampo, in turn, sent Tibetan nobles to Chang'an to study. Tang-Tibetan relations entered a period of about twenty years of peace and friendship.",
+        "a": 29.7,
+        "l": 91.1,
+        "c": "Diplomacy",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Arabs occupy Alexandria",
+        "s": "After capturing Babylon Fortress, Amr ibn al-As marched north and besieged Alexandria, Egypt's largest seaport. After a brief siege, the Byzantine defenders surrendered. Amr reported to Caliph Umar: 'I have conquered a city of 4,000 palaces and 400 theaters and baths.' Most of the library of Alexandria's collection was lost (whether it was burned is highly disputed). The Arabs then established an Islamic administrative system in Egypt.",
+        "a": 31.2,
+        "l": 29.9,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": 642,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "16th year of the Zhenguan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Nihavand: final destruction of the Persian Empire",
+        "s": "The remnants of the Sasanian Persian army gathered at Nihavand (near modern Hamadan, Iran) to counterattack the Arabs. The Arab general Nu'man led 30,000 troops. After fierce fighting, the Arabs won a great victory, and the Persian general Firuzan was killed. Yazdegerd III fled to Central Asia and was eventually killed at Merv. The Battle of Nihavand marked the complete destruction of the Sasanian Empire. All of Persia was incorporated into the Arab Empire, and Zoroastrianism was replaced by Islam.",
+        "a": 34.0,
+        "l": 48.0,
+        "c": "Military",
+        "r": "Persia",
+        "o": "Asia"
+      },
+      {
+        "t": "Arab conquest of all of Egypt",
+        "s": "After the capture of Alexandria, Arab forces continued west, occupying Cyrenaica (eastern Libya) and oases in the Libyan desert. Byzantine rule in Egypt ended completely. The Arabs built a mosque in Fustat (the Mosque of Amr) and began probing attacks into neighboring Nubia (Sudan).",
+        "a": 30.0,
+        "l": 31.0,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Africa"
+      },
+      {
+        "t": "Yeon Gaesomun's coup in Goguryeo",
+        "s": "Yeon Gaesomun (also known as Yeon Gaesomin), the Dae Mangniji (head of the military) of Goguryeo, staged a coup, killing King Yeongnyu, installing his nephew Go Bojang as king, and taking the title of Dae Mangniji (regent), seizing all power. Yeon Gaesomun pursued a hardline policy, actively preparing for war against the Tang. The coup caused political turmoil in Goguryeo and gave the Tang an excuse for intervention (later Emperor Taizong launched a campaign under the pretext of restoring Goguryeo's legitimate ruler).",
+        "a": 39.0,
+        "l": 125.8,
+        "c": "Politics",
+        "r": "Goguryeo",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 643,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "17th year of the Zhenguan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Crown Prince Li Chengqian plots rebellion and is deposed",
+        "s": "Li Chengqian, the eldest son of Emperor Taizong and crown prince, fearing that his younger brother Li Tai (Prince of Wei) was gaining favor and his own misbehavior might lead to his deposition, conspired with Hou Junji, Li Yuanchang, and others to launch a coup. The plot was uncovered, and Taizong ordered Li Chengqian to be reduced to commoner status and exiled to Qianzhou; Hou Junji was executed. To quell the rivalry, the emperor then appointed his gentle third son, Li Zhi, as crown prince. The deposal of the crown prince was a major political setback for Taizong in his later years, and it foreshadowed Li Zhi's weak character and the subsequent rise of Wu Zetian.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Arabs expand westward into North Africa",
+        "s": "The Arab Empire continued its westward expansion from Egypt. Amr ibn al-As led his army into present-day Libya and Tunisia, occupying Tripoli and Surt. The Byzantine Exarchate of Africa (Carthage) came under direct threat. The Arabs began establishing a province in North Africa (Ifriqiya), laying the groundwork for later conquests in the Maghreb and Spain.",
+        "a": 33.0,
+        "l": 11.0,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Africa"
+      },
+      {
+        "t": "Widespread circulation of the 'Yan Family Instructions' in Tang times",
+        "s": "The 'Yan Family Instructions' (Yanshi Jiaxun) by Yan Zhitui of the Northern Qi was collated and commented on by his grandson Yan Shigu during the Zhenguan period, becoming an important educational text for Tang gentry families. The book, in seven volumes and twenty chapters, covers self-cultivation, household management, social behavior, learning, and officialdom, grounded in Confucianism with plain language. It profoundly influenced later family instruction literature and is known as the 'ancestor of all family instructions'.",
+        "a": 34.0,
+        "l": 115.0,
+        "c": "Education",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Wei Zheng dies",
+        "s": "The famous Tang remonstrating official Wei Zheng died of illness in Chang'an. Emperor Taizong visited him in person, suspended court for five days, and ordered a grand funeral. Wei Zheng was known for his frank advice, offering over two hundred remonstrances, deeply respected by Taizong. After his death, Taizong said: 'Use copper as a mirror to straighten your clothing; use history as a mirror to know the rise and fall of dynasties; use people as a mirror to perceive gain and loss. With Wei Zheng dead, I have lost a mirror.' Wei Zheng's death marked a turning point in the culture of remonstrance during the Zhenguan era.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 644,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "18th year of the Zhenguan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Taizong decides to personally lead a campaign against Goguryeo",
+        "s": "Emperor Taizong, citing Yeon Gaesomun's regicide and oppression of Silla and Baekje, decided to lead a personal campaign against Goguryeo. He appointed Zhang Liang, the Minister of Justice, as commander of the Pyongyang route, leading 40,000 marines from Laizhou across the sea, and Li Shiji (Li Ji) as commander of the Liaodong route, leading 60,000 infantry and cavalry overland. The emperor planned to destroy Goguryeo in one blow and restore Han dynasty territories. Many officials advised against it, but the emperor was determined.",
+        "a": 39.1,
+        "l": 125.0,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Uthman elected third orthodox caliph",
+        "s": "After the assassination of the second caliph, Umar, a six-member committee elected seventy-year-old Uthman ibn Affan as the third caliph. Uthman was from the Umayyad clan. Though mild-tempered, he appointed many of his relatives to high positions, causing discontent. He also oversaw the compilation of the definitive version of the Quran, but his nepotism sowed the seeds of the first Islamic civil war.",
+        "a": 33.5,
+        "l": 36.3,
+        "c": "Politics",
+        "r": "Arab Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 645,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "19th year of the Zhenguan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Taizong's personal campaign against Goguryeo falls short of total victory",
+        "s": "Emperor Taizong personally led the Tang army against Goguryeo. The Tang forces captured more than ten cities, including Liaodong (present-day Liaoyang) and Baiyan, but could not take the well-defended Ansi (present-day Haicheng, Liaoning). When autumn arrived and grass withered and water froze, supplies ran out, and the emperor was forced to order a withdrawal. Although the campaign killed tens of thousands of Goguryeo soldiers, it failed to capture its capital, and the Tang themselves suffered 10,000 casualties and lost 70-80 percent of their horses. Taizong deeply regretted the outcome and was still planning another campaign when he died.",
+        "a": 39.1,
+        "l": 125.0,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Taika Reforms in Japan",
+        "s": "Prince Naka no Ōe (later Emperor Tenji) and Nakatomi no Kamatari staged the Isshi Incident, eliminating the powerful Soga no Iruka. Emperor Kōtoku ascended the throne, changed the era name to 'Taika', and issued the 'Reform Edict' (Kaishin no Mikotonori), modeling reforms on Tang institutions. The reforms included: abolition of private lands (屯倉, miyake) and people (田部, tabe), with all land nationalized; implementation of the Handen Shūju system (allotment of rice fields); creation of a centralized bureaucracy with the Two Departments and Eight Ministries; and the establishment of a household registration system. The Taika Reforms marked Japan's transition from a clan-based slave society to a law-based feudal state, laying the foundation for a millennium of Japanese political structure.",
+        "a": 34.7,
+        "l": 135.5,
+        "c": "Politics",
+        "r": "Japan",
+        "o": "Asia"
+      },
+      {
+        "t": "Xuanzang returns to Chang'an after his Buddhist pilgrimage",
+        "s": "Xuanzang returned to Chang'an after seventeen years of travel, bringing 657 Buddhist scriptures, 150 relics, and 7 statues. Emperor Taizong received him in Luoyang and ordered support for his translation work. In Chang'an, Xuanzang organized a translation bureau at Hongfu Temple and later at Daci'en Temple, translating 75 texts in 1,335 volumes, and dictated the 'Great Tang Records on the Western Regions' to his disciple Bianji. Xuanzang's great journey greatly promoted Chinese Buddhism and Sino-Indian cultural exchange.",
+        "a": 34.3,
+        "l": 108.94,
+        "c": "Religion",
+        "r": "Tang Dynasty",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 646,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "20th year of the Zhenguan era"
+      },
+      {
+        "i": "sui",
+        "n": "Japan (Taika Reform)",
+        "u": "Emperor Kōtoku",
+        "e": "2nd year of the Taika era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Tang destroys the Xueyantuo Khanate",
+        "s": "After the death of the Xueyantuo Zhenzhu Khan Yinan, his son Duomi Khan led the tribes and repeatedly raided Tang borders. Emperor Taizong ordered Li Ji to lead an army against them. Li Ji defeated the Xueyantuo at Mount Yudujun (present-day Hangai Mountains, Mongolia), killing over 5,000 and capturing more than 30,000. The Xueyantuo tribes scattered, with remnants fleeing to the Uyghurs. The Tang established the Yanran Protectorate on their former territory, ruling over the lands north and south of the Gobi, and the northern steppe came under Tang control.",
+        "a": 47.0,
+        "l": 105.0,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Uyghurs submit to the Tang",
+        "s": "After the destruction of the Xueyantuo, the Uyghur chieftain Tumidu led his tribe to submit to the Tang. Emperor Taizong appointed Tumidu as General Who Protects and Pacifies the Han (or, according to some sources, Protector-General of the Sea) and Governor of Hanhai, recognizing Uyghur rule over some of the former Xueyantuo tribes. The Uyghurs established a tributary and military alliance with the Tang, and Uyghur cavalry often fought alongside the Tang, becoming one of the Tang's most important northern allies.",
+        "a": 46.0,
+        "l": 107.0,
+        "c": "Diplomacy",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 647,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "21st year of the Zhenguan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Tang establishes the Yanran Protectorate",
+        "s": "To strengthen its rule over the northern steppe, the Tang established the Yanran Protectorate on the former Xueyantuo territory, overseeing various Jimi prefectures in southern and northern Mongolia. Its seat was at West Shouxiang Fortress (present-day Urat Middle Banner, Inner Mongolia). The Yanran Protectorate administered six prefectures and seven sub-prefectures, with chieftains of the Uyghur, Pugu, Tongluo, and other tribes serving as governors (duhu) and prefects (cishi). This was the first time the Tang established a formal administrative system north of the Gobi.",
+        "a": 46.0,
+        "l": 107.0,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Arab Empire begins building a navy",
+        "s": "Caliph Uthman ordered the construction of warships in Syria and Egypt to counter Byzantine naval superiority. The Arabs quickly absorbed Phoenician and Greek shipbuilding techniques and established docks in Alexandria, Acre, and other ports. This fleet would later defeat the Byzantine navy at the Battle of the Masts in 655, giving the Arabs control of the eastern Mediterranean.",
+        "a": 33.5,
+        "l": 36.3,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 648,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "22nd year of the Zhenguan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "The Tang Anxi Protectorate moves its seat to Kucha",
+        "s": "To further control the Western Regions, Emperor Taizong moved the seat of the Anxi Protectorate from Xi Prefecture (Gaochang) to Kucha (present-day Kuqa, Xinjiang), governing the Four Garrisons of Anxi (Kucha, Kashgar, Khotan, and Karashahr). The Anxi Protectorate became the military and administrative center of the Tang's western frontier, controlling the southern Tian Shan route and areas east and west of the Pamirs. This move extended Tang influence deep into Central Asia, confronting the Western Turks and the Arab Empire.",
+        "a": 41.0,
+        "l": 80.0,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 649,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Taizong of Tang (Li Shimin)",
+        "e": "23rd year of the Zhenguan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Taizong dies; Emperor Gaozong (Li Zhi) ascends the throne",
+        "s": "Emperor Taizong of Tang died in the Hanfeng Hall of the Cuiwei Palace at the age of 52. On his deathbed, he entrusted the crown prince Li Zhi to ministers Changsun Wuji and Chu Suiliang. Li Zhi ascended the throne as Emperor Gaozong. In the early years of Gaozong's reign, senior ministers like Changsun Wuji continued the Zhenguan policies, known as the 'Yonghui governance'. However, Gaozong was mild-natured and often ill, which later allowed Wu Zetian to interfere in politics and eventually claim the throne.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 650,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "1st year of the Yonghui era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Birth of Shangguan Wan'er",
+        "s": "The famous Tang poet and female official Shangguan Wan'er was born in Shan County, Shan Prefecture (present-day Sanmenxia, Henan). Her grandfather Shangguan Yi was a chancellor under Emperor Gaozong, and her father was Shangguan Tingzhi. Due to her grandfather's downfall, Shangguan Wan'er was placed in the palace as a maid. However, with her literary talent she gained the favor of Wu Zetian and became one of Wu's key secretaries, often called the 'Woman Chancellor', influencing politics and literature in the Tang.",
+        "a": 34.3,
+        "l": 108.86,
+        "c": "Politics",
+        "r": "Tang Dynasty",
+        "o": "Asia"
+      },
+      {
+        "t": "Sun Simiao completes the 'Essential Formulas for Emergencies'",
+        "s": "The famous Tang medical scholar Sun Simiao, drawing on decades of experience, completed the 'Essential Formulas for Emergencies Worth a Thousand Gold' (Beiji Qianjin Yaofang, often abbreviated as 'Qianjin Yaofang'), a thirty-volume encyclopedic work covering clinical medicine, prescriptions, acupuncture, health preservation, and more. Sun advocated the medical ethical principle that 'a human life is of the greatest value, worth more than a thousand gold', emphasizing comprehensive treatment and preventive medicine. This work greatly influenced later Chinese medicine, and Sun Simiao is revered as the 'King of Medicine' (Yaowang).",
+        "a": 34.3,
+        "l": 108.86,
+        "c": "Culture",
+        "r": "Tang Dynasty",
+        "o": "Asia"
+      },
+      {
+        "t": "Widespread adoption of stirrups in Europe",
+        "s": "Stirrups (introduced from China via the Avars) were widely adopted in Europe. Cavalry in the Frankish kingdom, Byzantine Empire, and Visigothic kingdoms began using paired stirrups, which allowed riders to stabilize themselves and use lances for high-impact charges. The spread of stirrups gave rise to heavy cavalry (knights), changing the nature of warfare in Europe, serving as the technological basis for the rise of feudal knighthood, and profoundly influencing medieval social structure.",
+        "a": 48.0,
+        "l": 4.0,
+        "c": "Technology",
+        "r": "Europe",
+        "o": "Europe"
+      },
+      {
+        "t": "Tang defeats the Western Turks and gains control of the Western Regions",
+        "s": "Emperor Gaozong ordered Cheng Yaojin, Su Dingfang, and others to lead expeditions against the Western Turks. After several years of fighting, Tang forces defeated the Western Turkic khan Ashina Helu and regained control of the Western Regions. The Tang established the Kunling Protectorate and the Mengchi Protectorate on the former Western Turkic territory, formally incorporating parts of Central Asia into the empire. Tang's reach extended to the east of the Aral Sea, bordering the Arab Empire.",
+        "a": 42.0,
+        "l": 75.0,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Gaozong's accession and the beginning of the Yonghui era",
+        "s": "After ascending the throne, Emperor Gaozong of Tang continued the policies of the Zhenguan era, implementing the equal-field system, the zu-yong-diao tax system, streamlining officialdom, and reducing taxes. He ordered Changsun Wuji, Chu Suiliang, and others to assist in governance and to compile the Yonghui Code and the Tang Code Commentary. In the early years of his reign, Tang continued to prosper, with its territory reaching its maximum extent, known as the 'Yonghui governance'. However, in his later years, Gaozong's health declined, and power gradually passed to Wu Zetian.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 651,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "2nd year of the Yonghui era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Formal introduction of Islam to China",
+        "s": "The third caliph, Uthman, sent an embassy to Chang'an, introducing Islam to Emperor Gaozong. The Tang referred to Islam as 'Dashi Law' (Arab Law) and allowed Muslims to establish places of worship in Chang'an, Guangzhou, Yangzhou, and other trading ports. A large number of Arab and Persian merchants then settled in China, forming 'Fanfang' (Foreign Quarters). Islam entered China via the overland Silk Road and maritime spice routes, becoming one of the foreign religions in China.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Religion",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Arabs completely destroy the Sasanian Empire",
+        "s": "The last Persian king, Yazdegerd III, was killed by a miller at Merv. His son Peroz fled to the Tang court seeking refuge. Arab forces gained full control of the Persian plateau. Zoroastrian temples were converted to mosques, and many Zoroastrians converted to Islam. Persian nobles and scholars gradually integrated into the Arab Empire, but Persian culture and language (especially New Persian) persisted, laying the foundation for later Persian-Islamic civilization.",
+        "a": 33.0,
+        "l": 46.0,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 652,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "3rd year of the Yonghui era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Completion of the 'Tang Code Commentary'",
+        "s": "Emperor Gaozong ordered Changsun Wuji to lead the production of a commentary to the Zhenguan Code, resulting in the thirty-volume 'Tang Code Commentary' (Tanglü Shuyi). The commentary explains the meaning and application of each legal article and carries the same legal force as the code. The 'Tang Code Commentary' is the oldest extant complete Chinese legal code, known for its rigorous structure and clear logic. It became the model for later imperial Chinese law codes and profoundly influenced the legal systems of Japan, Korea, Vietnam, and other East Asian countries, earning it the title 'cornerstone of the East Asian legal family'.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Law",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Tang forces defeat Ashina Helu; Western Turks surrender",
+        "s": "Emperor Gaozong ordered the great general Su Dingfang to lead an army against the Western Turkic khan Ashina Helu. Su Dingfang won decisive victories at the Altai Mountains (Jinshan) and the Jinya Mountains (present-day Emin, Xinjiang), capturing Helu. The remaining Western Turkic tribes surrendered. The Tang established the Mengchi and Kunling Protectorates on the former Western Turkic territory to govern the ten tribes. The Western Turkic Khaganate was destroyed, and Tang achieved suzerainty over Central Asia.",
+        "a": 43.0,
+        "l": 82.0,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Rise of the Umayyad clan in the Arab Empire",
+        "s": "Caliph Uthman appointed many of his Umayyad relatives to high positions, such as Mu'awiya as governor of Syria. The power of the Umayyad clan expanded greatly, causing discontent among other tribes, particularly the Hashimites and the supporters of Ali. This internal conflict led to Uthman's assassination in 656 and the first Islamic civil war (Battle of Siffin), laying the power base for the subsequent Umayyad caliphate.",
+        "a": 33.5,
+        "l": 36.3,
+        "c": "Politics",
+        "r": "Arab Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 653,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "4th year of the Yonghui era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Xuanzang translates Buddhist scriptures back in Chang'an",
+        "s": "Monk Xuanzang, after returning to Chang'an, established a translation bureau at Daci'en Temple and translated a large number of Sanskrit Buddhist texts. He produced translations of important Yogācāra works such as the Yogācārabhūmi-śāstra and the Chengweishi-lun, founding the Faxiang (Yogācāra) school of Buddhism. Xuanzang's translations, known for their accuracy and fluency, greatly enriched the Chinese Buddhist canon. He also translated Chinese classics, such as the 'Tao Te Ching', into Sanskrit for transmission to India, promoting cultural exchange.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Religion",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Chen Shuozhen's rebellion",
+        "s": "Chen Shuozhen, a woman from Qingxi (present-day Chun'an, Zhejiang), used Daoist-Maitreyan doctrines to organize a peasant rebellion, proclaiming herself 'Wenjia Emperor' (Civilizing Emperor), the first female rebel leader to claim the title of emperor in Chinese history. She led her followers to capture Mu Prefecture and Tonglu, shaking the southeast. Emperor Gaozong sent Cui Yixuan to suppress the uprising. Chen was captured and executed. The rebellion highlighted the social contradictions of heavy peasant burdens and unequal tax and labor policies under the equal-field system.",
+        "a": 29.6,
+        "l": 119.0,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 654,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "5th year of the Yonghui era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wu Zetian re-enters the palace",
+        "s": "Emperor Gaozong, while visiting Ganye Temple, met Wu Zetian (formerly a consort of his father Emperor Taizong), who had become a nun there. Their old passion reignited. Overriding opposition from Empress Wang and ministers such as Changsun Wuji, Gaozong brought Wu back into the palace and made him a zhaoyin (a high-rank consort). After her return, Wu quickly cultivated power in the palace and court through cunning and machination, engaging in fierce rivalry with Empress Wang and Consort Xiao, setting the stage for her eventual replacement of Wang and subsequent interference in politics.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 655,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "6th year of the Yonghui era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wu Zetian is made empress",
+        "s": "Gaozong deposed Empress Wang and Consort Xiao as commoners and made Wu Zetian empress. In the power struggle, Wu had plotted against Wang (according to the 'Zizhi Tongjian', she killed her own daughter and blamed Wang). She also accused Wang and Xiao of practicing witchcraft. The senior statesmen led by Changsun Wuji and Chu Suiliang strongly opposed, but Gaozong accepted Li Ji's remark that 'this is your majesty's family affair' and issued an edict making Wu empress. Empress Wang and Consort Xiao were later killed. After becoming empress, Wu quickly began interfering in affairs of state, forming a 'Two Saints' power structure.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "First Arab attack on Constantinople",
+        "s": "Caliph Uthman ordered Mu'awiya, governor of Syria, to lead a combined naval and land force against the Byzantine capital, Constantinople. The Arab fleet sailed from Syria along the coast of Anatolia, but encountered Byzantine 'Greek fire' for the first time on a large scale and suffered heavy losses. On land, the Arabs were repulsed by Constantinople's massive walls and the cold winter, forcing a withdrawal. This was the first major Arab assault on Constantinople, and although it failed, it foreshadowed centuries of continued threat.",
+        "a": 41.0,
+        "l": 29.0,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 656,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "1st year of the Xianqing era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Third Caliph Uthman is assassinated",
+        "s": "Due to Uthman's nepotism, corruption, and the forced unification of the Quran and burning of variant copies, widespread discontent arose among Muslims, especially in Egypt and Kufa. Five hundred rebels besieged Uthman's house in Medina and eventually killed him. Uthman's assassination marked the end of the Rashidun Caliphate and the first major split within the Muslim community. Ali was proclaimed the fourth caliph, but Mu'awiya, governor of Syria, refused to recognize him, leading to the first Islamic civil war (Battle of Siffin) and the formal split between Sunni and Shia.",
+        "a": 33.5,
+        "l": 36.3,
+        "c": "Politics",
+        "r": "Arab Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Cheng Yaojin campaigns against the Western Turks",
+        "s": "Emperor Gaozong ordered Cheng Yaojin (Cheng Zhijie) to lead an army against the Western Turkic remnants under Ashina Helu. Cheng Yaojin fought the Western Turks at Yingsuo River (present-day Bayinbuluk, Xinjiang), killing over a thousand. However, jealousy from his deputy Wang Wendu led to a premature withdrawal, losing the chance for a decisive victory. Cheng Yaojin was dismissed, and Su Dingfang took over command.",
+        "a": 44.0,
+        "l": 82.0,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Gaozong changes era name to Xianqing; Wu Zetian begins participating in politics",
+        "s": "Emperor Gaozong changed the era name to Xianqing, and Empress Wu Zetian began participating in imperial decision-making. The senior ministers Changsun Wuji and Chu Suiliang were successively dismissed and exiled. Taking advantage of Gaozong's frequent illness, Wu gradually built her own political team (such as Xu Jingzong and Li Yifu). During the Xianqing years, a pattern of 'emperor and empress co-ruling' emerged, with Wu effectively acting as a second sovereign, preparing the way for her later claim to the throne.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 657,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "2nd year of the Xianqing era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Tang destroys the Western Turks",
+        "s": "Su Dingfang was appointed commander for the Ili route (Yili Dao). He led 10,000 elite cavalry along with Uyghur and other allied horse archers against Ashina Helu. Su Dingfang defeated Helu at the Ili River and the Chu River (Suyab), pursuing him to Tashkent (Shiguo), where the lord of Tashkent captured Helu and sent him to the Tang camp. The Western Turkic Khaganate was completely destroyed. The Tang established the Kunling and Mengchi Protectorates on its territory, appointing the ten tribal leaders as governors (duhu). The Tang western frontier extended to the Aral Sea, bordering Persia and the Arab Empire.",
+        "a": 44.0,
+        "l": 82.0,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Ali becomes the fourth caliph",
+        "s": "After Uthman's assassination, the Muslims of Medina elected Ali ibn Abi Talib (Muhammad's cousin and son-in-law) as the fourth Rashidun caliph. Ali tried to curb the power of Mu'awiya, governor of Syria, but Mu'awiya refused to submit, demanding punishment for Uthman's murder. The two sides faced off on the plain of Siffin, and after negotiations broke down, civil war erupted. As a result, Islam split into the pro-Ali Shia (meaning 'party') and the majority Sunni.",
+        "a": 36.2,
+        "l": 36.8,
+        "c": "Politics",
+        "r": "Arab Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 658,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "3rd year of the Xianqing era"
+      }
+    ],
+    "v": [
+      {
+        "t": "The Anxi Protectorate moves its seat to Kucha",
+        "s": "The Tang moved the seat of the Anxi Protectorate from Xi Prefecture to Kucha (present-day Kuqa, Xinjiang), formally establishing the Anxi Four Garrisons (Kucha, Kashgar, Khotan, and Karashahr). The Anxi Protectorate became the Tang military and political center for the Western Regions, controlling the southern Tian Shan route, the Pamirs, and the Transoxiana region, and serving as a vital security guarantee for the Silk Road.",
+        "a": 41.7,
+        "l": 83.0,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 659,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "4th year of the Xianqing era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Changsun Wuji is exiled; Gaozong centralizes power",
+        "s": "Wu Zetian and Xu Jingzong conspired to fabricate a rebellion charge against Changsun Wuji. Emperor Gaozong exiled Changsun Wuji to Qianzhou, and soon after Xu Jingzong forced him to commit suicide. Changsun Wuji, the senior minister entrusted by Taizong, fell, marking the complete collapse of the Guanlong aristocratic group, and Gaozong and Wu Zetian gained full control of the court. Afterward, Wu promoted commoner scholars and those from humble backgrounds, leading to profound changes in the bureaucracy.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "The Tang Anxi Protectorate expands further west",
+        "s": "After destroying the Western Turks, the Tang continued to expand westward. The jurisdiction of the Anxi Protectorate extended west of the Pamirs (present-day Pamir Plateau), including the nine states of Zhaowu (Sogdian states such as Samarkand, Bukhara, and Tashkent). The Tang established Jimi prefectures and sub-prefectures in these areas and appointed local kings as governors (duhu). Tang's sphere of influence reached eastern Persia, directly confronting the Arab Empire.",
+        "a": 41.0,
+        "l": 80.0,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 660,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "5th year of the Xianqing era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Su Dingfang destroys Baekje",
+        "s": "At the request of Silla, Emperor Gaozong ordered Su Dingfang to lead 100,000 land and naval forces against Baekje. Su Dingfang set sail from Chengshan (Rongcheng, Shandong) and landed at the mouth of the Baek River (Geum River), defeated the Baekje army, and besieged its capital, Sabi. King Uija of Baekje surrendered, and Baekje was destroyed. The Tang established five governor-general offices (Bear River, Mahan, Dongmyeong, etc.) on Baekje's former territory, with local chieftains serving as governors. Later, the Baekje restoration movement led by Gwisil Boksin sought Japanese aid, leading to the Battle of Baekgang in 663.",
+        "a": 36.0,
+        "l": 127.0,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 661,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "1st year of the Longshuo era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Establishment of the Umayyad Caliphate with capital at Damascus",
+        "s": "After Ali was assassinated at Kufa, Mu'awiya defeated Ali's successor Hasan and became the sole caliph, founding the Umayyad Caliphate. He moved the capital to Damascus and replaced the elective system with hereditary monarchy. Mu'awiya pursued Arabization policies: issuing a unified gold dinar coin, making Arabic the official language, and establishing a postal service and bureaucracy. The Umayyad Caliphate expanded from Spain to Central Asia, becoming one of the largest empires of its time.",
+        "a": 33.5,
+        "l": 36.3,
+        "c": "Politics",
+        "r": "Arab Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Tang, at Silla's request, jointly attacks Goguryeo",
+        "s": "King Muyeol of Silla sent an envoy to the Tang requesting aid in attacking Goguryeo. Emperor Gaozong ordered Qibi Heli, Su Dingfang, and others to lead forces against Goguryeo. The Tang captured the important western fortress of Liaodong, but due to logistical difficulties and lingering issues in Baekje, failed to destroy Goguryeo in one stroke. This joint campaign was a prelude to the final Tang conquest of Goguryeo in 668.",
+        "a": 39.0,
+        "l": 125.8,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 662,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "2nd year of the Longshuo era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Prelude to the Battle of Baekgang: Baekje restoration movement",
+        "s": "The Baekje restoration leader Gwisil Boksin established Prince Buyeo Pung as king, holding the fortress of Juryu, and requested aid from Japan. Empress Saimei (Empress Kōgyoku) of Japan decided to send troops to help restore Baekje, dispatching Abe no Hirafu with a fleet. The Tang, for their part, sent Liu Rengui and Liu Renyuan to lead Tang forces stationed in former Baekje territory to suppress the restorationists. The two sides confronted each other in the southwestern part of the Korean Peninsula, with battle imminent.",
+        "a": 36.3,
+        "l": 126.5,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Arab forces attack Anatolia",
+        "s": "Umayyad Caliph Mu'awiya sent forces deep into Byzantine Asia Minor, capturing several fortresses and raiding towns. The Byzantine forces used guerrilla tactics and Greek fire to resist, but annual Arab summer incursions gradually depopulated the Greek population of Anatolia, creating conditions for later Turkish settlement.",
+        "a": 39.0,
+        "l": 33.0,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 663,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "3rd year of the Longshuo era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Baekgang: Tang navy decisively defeats the joint Japanese–Baekje fleet",
+        "s": "Tang admiral Liu Rengui led 7,000 marines and 170 warships into battle at the Baekgang River (Geum River estuary) against the Japanese (Wa) fleet. The Japanese had over 400 ships and more than 30,000 men. Liu used the superior height and firepower of the Tang ships, along with fire attacks, surrounding the Japanese fleet from four directions. The crowded Japanese ships were engulfed in flames, turning the sea red. The Battle of Baekgang was a famous naval engagement in ancient Chinese history, completely crushing Japanese ambitions to intervene on the Korean peninsula and establishing Tang hegemony in Northeast Asia. Afterward, Japan submitted fully and intensified the dispatch of missions to Tang China to learn its systems.",
+        "a": 36.0,
+        "l": 126.7,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 664,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "1st year of the Linde era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Xuanzang passes away",
+        "s": "The monk Xuanzang died in the Jade Flower Temple in Chang'an at the age of sixty-three. Emperor Gaozong, deeply saddened, ordered the suspension of court for five days and that the burial expenses be borne by the state. Xuanzang was buried at White Deer Plain, later moved to Shaoling Plain. He had translated 75 texts in 1,335 volumes, written the 'Great Tang Records on the Western Regions', and founded the Faxiang (Yogācāra) school. Xuanzang's spirit of seeking the Dharma became a symbol of Sino-Indian cultural exchange and had an incalculable impact on the development of Chinese Buddhism.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Culture",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Arabs advance west into North Africa",
+        "s": "The Umayyad Caliphate sent Uqba ibn Nafi leading Arab cavalry westward. He crossed the Libyan desert, captured Tripoli, and continued west into modern-day Tunisia. Uqba founded the city of Kairouan (in modern Tunisia) as a base for Islam in the Maghreb. The Great Mosque of Kairouan became the center of Islam in North Africa.",
+        "a": 34.0,
+        "l": 10.0,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": 665,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "2nd year of the Linde era"
+      }
+    ],
+    "v": [
+      {
+        "t": "First Tang-Tibetan peace talks",
+        "s": "Tibetan lönchen (grand minister) Gar Tongtsen (also known as Mgar Stong-rtsan) had multiple talks with the Tang regarding borders and marriage alliances before the Battle of Dafeichuan (670). In 665, envoys met to discuss the boundary west of Songzhou (present-day Songpan, Sichuan), but failed to reach an agreement. The Tibetans continued to encroach on the Tang's Anxi Four Garrisons and the former Tuyuhun territory, with increasing tensions.",
+        "a": 29.7,
+        "l": 91.1,
+        "c": "Diplomacy",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Emperor Gaozong plans another campaign against Goguryeo",
+        "s": "Emperor Gaozong appointed Li Ji (Li Shiji) as commander-in-chief of the Liaodong route, planning a large-scale campaign against Goguryeo. Li Ji adopted a strategy of 'protracted war,' first taking the eastern fortresses of Goguryeo and cutting off its external support, preparing the way for the final conquest in 668. The Tang–Goguryeo war entered its final phase.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 666,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "1st year of the Qianfeng era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Gaozong of Tang conducts a Fengshan sacrifice at Mount Tai",
+        "s": "Emperor Gaozong of Tang, following the examples of the First Emperor of Qin and Emperor Wu of Han, led a large entourage of officials and foreign envoys to Mount Tai to perform the Fengshan ceremony. Fengshan was the highest imperial ritual of sacrificing to heaven and earth at Mount Tai, announcing that the emperor had received the Mandate of Heaven. Gaozong first offered sacrifice to heaven on the sealing altar, then to earth on the revetment altar. Empress Wu Zetian, as empress, performed the second sacrifice (the first time in history). The ceremony was extremely costly but demonstrated the prosperity of the Tang and the homage of the Four Directions.",
+        "a": 36.3,
+        "l": 117.1,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Arab fleet again attacks Byzantium",
+        "s": "Umayyad Caliph Mu'awiya sent naval forces from Syria to attack Byzantine coastal cities. The Byzantine navy repelled the Arab fleet with Greek fire. The Arabs, however, gained control of the eastern Mediterranean, capturing the islands of Rhodes and Kos and conducting annual raids against Constantinople.",
+        "a": 41.0,
+        "l": 29.0,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 667,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "2nd year of the Qianfeng era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Tenji of Japan ascends the throne",
+        "s": "After the death of Empress Saimei, Prince Naka no Ōe ascended the throne as Emperor Tenji. He continued to implement the Taika Reforms, promulgating the 'Ōmi Code' (Japan's first written legal code), perfecting the bureaucratic and household registration systems, and revising the 'Kōgō Nenjaku' (a census). Emperor Tenji also commissioned the compilation of Japan's first national history, the 'Nihon Shoki' (completed in 720). His reign marked further consolidation of a law-based state in Japan.",
+        "a": 34.5,
+        "l": 136.0,
+        "c": "Politics",
+        "r": "Japan",
+        "o": "Asia"
+      },
+      {
+        "t": "Li Ji captures the 'New City' of Goguryeo",
+        "s": "Tang general Li Ji, in the campaign against Goguryeo, captured 'New City' (present-day Fushun Golsan, Liaoning), an important western fortress of Goguryeo. Its fall opened the western gateway to Goguryeo, allowing Tang forces to advance deep into enemy territory. Li Ji then captured Jinshan (present-day Kaiyuan, Liaoning), linking up with the forces of Xue Rengui, forming a pincer movement against the Goguryeo capital Pyongyang.",
+        "a": 41.8,
+        "l": 124.0,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Arab forces under the Umayyad Caliphate invade Asia Minor",
+        "s": "The Arab general Mu'awiya (later caliph) led his army from Syria into Byzantine Asia Minor, occupying Cappadocia and threatening the Asiatic side of Constantinople. The Byzantine Emperor Constans II was forced to move his capital to Sicily, but died shortly thereafter. The Arab offensive paused for a time.",
+        "a": 40.8,
+        "l": 29.5,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 668,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "1st year of the Zongzhang era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Tang destroys Goguryeo",
+        "s": "Tang forces under Li Ji and Xue Rengui linked up and besieged the Goguryeo capital Pyongyang. King Bojang surrendered, and the powerful Dae Mangniji Yeon Gaesomun had already died; his son Yeon Namsaeng was captured. Goguryeo, which had existed for 705 years (37 BC – 668 AD), was destroyed. The Tang established the Protectorate General to Pacify the East (Andong Protectorate) at Pyongyang, appointing Xue Rengui as Protector-General (Andong Duhu), governing nine governorates and forty-two prefectures of the former Goguryeo. Hundreds of thousands of Goguryeo people were resettled in the Jianghuai and Central Plains regions, gradually integrating into the Han population. The destruction of Goguryeo brought Tang power in Northeast Asia to its peak.",
+        "a": 39.0,
+        "l": 125.8,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Silla unifies the region south of the Daedong River on the Korean Peninsula",
+        "s": "After the Tang destroyed Goguryeo, Silla seized the former Goguryeo territory south of the Daedong River (the southern part of the Korean Peninsula). King Munmu of Silla (Kim Beopmin) sought to unify the entire peninsula, leading to conflict with the Tang. The Tang was compelled to recognize Silla's control over the former Baekje territories and part of southern Goguryeo, and Silla entered the 'Unified Silla' period. The Tang, however, retained the Andong Protectorate to control Liaodong and the northern part of the Korean Peninsula.",
+        "a": 37.5,
+        "l": 127.0,
+        "c": "Politics",
+        "r": "Silla",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 669,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "2nd year of the Zongzhang era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Tibet invades Tang borders on a large scale",
+        "s": "Tibetan lönchen Gar Tongtsen took advantage of the Tang's main forces being committed in Liaodong and attacked the Anxi Four Garrisons (Kucha, Kashgar, Khotan, Karashahr), shaking Tang control over the Western Regions. At the same time, Tibetan forces occupied the former Tuyuhun territory, directly threatening the Hexi Corridor. Tang-Tibetan relations deteriorated sharply, setting the stage for the Battle of Dafeichuan in 670.",
+        "a": 36.6,
+        "l": 101.8,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Tang undertakes massive resettlement of Goguryeo remnants",
+        "s": "To prevent Goguryeo remnants from trying to restore their kingdom, the Tang moved hundreds of thousands of Goguryeo nobles and commoners in batches to the Jianghuai, Central Plains, and Sichuan regions. The Goguryeo royal family were given official positions and scattered in Chang'an and other places. This resettlement effectively broke the cohesion of the Goguryeo people, but also led to the widespread loss of Goguryeo culture and historical records.",
+        "a": 39.0,
+        "l": 125.8,
+        "c": "Society",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 670,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "1st year of the Xianheng era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Battle of Dafeichuan: Tang army suffers a disastrous defeat by Tibet",
+        "s": "Tibetan lönchen Gar Trinring (also known as Mgar Khri-'bring) led 400,000 troops to attack the Tuyuhun. The Tang sent Xue Rengui as commander-in-chief of the Lhasa route (Luo suo dao) with 50,000 troops. Xue Rengui first launched a cavalry raid, defeating the Tibetans at Dafeichuan (southwest of present-day Gonghe, Qinghai). However, his deputy Guo Daifeng disobeyed orders, and his supply train was captured by the Tibetans. The Tang army, out of food, retreated and was surrounded at Dafeichuan by the main Tibetan force, resulting in total annihilation. Xue Rengui was forced to conclude a peace and return. The Battle of Dafeichuan was one of the greatest military defeats for the Tang since its founding, and thereafter the Tibetans faced the Tang along the Hexi Corridor in a standoff.",
+        "a": 36.3,
+        "l": 100.6,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "The Dome of the Rock is completed in Jerusalem",
+        "s": "The Umayyad caliph Abd al-Malik built the Dome of the Rock on the Temple Mount in Jerusalem (known to Muslims as Haram al-Sharif). The octagonal building covers a large rock believed to be the spot from which Muhammad ascended to heaven, and also where Abraham was to sacrifice Isaac. The dome was originally covered in gold leaf, and the interior has splendid mosaics. The Dome of the Rock became the third holiest site in Islam (after the Kaaba in Mecca and the Prophet's Mosque in Medina), as well as a landmark of Jerusalem.",
+        "a": 31.78,
+        "l": 35.24,
+        "c": "Culture",
+        "r": "Jerusalem",
+        "o": "Asia"
+      },
+      {
+        "t": "First Arab siege of Constantinople",
+        "s": "Umayyad Caliph Mu'awiya sent his son Yazid with land and naval forces to besiege Constantinople. The Arab fleet blockaded the Bosphorus, and the land assault continued for several years. Byzantine Emperor Constantine IV used Greek fire and the city's massive walls to hold out. The siege continued until 678, when it was finally lifted. This was one of the most dangerous Arab attacks on Constantinople.",
+        "a": 41.0,
+        "l": 29.0,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Cultural influence of the Turkic Khaganate in Central Asia",
+        "s": "During its rule over Central Asia, the Second Eastern Turkic Khaganate (or later Türkic Khaganate) absorbed Persian and Sogdian elements, created the Old Turkic runic script (Orkhon-Yenisei script), and erected the famous 'Kul Tigin Stele' and 'Bilge Khagan Stele'. Inscribed in both Old Turkic and Chinese, these stelae record Turkic history, heroic stories, and interactions with the Tang, making them precious sources for the study of the ancient Turkic language and history.",
+        "a": 45.0,
+        "l": 90.0,
+        "c": "Culture",
+        "r": "Turks",
+        "o": "Asia"
+      },
+      {
+        "t": "Sailendra dynasty rules Java",
+        "s": "The Sailendra dynasty (Shailendra) of central Java began to rise. The dynasty adhered to Mahayana Buddhism, and based on agriculture and maritime trade, built large Buddhist temple complexes including Borobudur. The Sailendra dynasty competed with the Srivijaya Empire for control of the Strait of Malacca, later forming an alliance through marriage.",
+        "a": -7.5,
+        "l": 110.0,
+        "c": "Politics",
+        "r": "Java",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 671,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "2nd year of the Xianheng era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Greek fire repels the Arab fleet",
+        "s": "The Byzantine navy used Greek fire (a liquid incendiary compound of petroleum, sulfur, and other ingredients that burns on water) on a large scale in the naval battle before Constantinople. The Arab fleet was heavily damaged by Greek fire, losing many ships. The successful use of Greek fire helped Byzantium defend its capital and forced the Arabs to withdraw. This is the most famous historical example of Greek fire in action.",
+        "a": 41.0,
+        "l": 29.0,
+        "c": "Military",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Umayyad expansion into Central Asia",
+        "s": "The Arab general Sa'id ibn Uthman led his army east across the Amu Darya, capturing the Central Asian cities of Samarkand and Bukhara and defeating the Sogdian states (Zhaowu Nine Surnames), allies of the Tang. Arab power now directly confronted the Tang Anxi Protectorate in Central Asia, setting the stage for the later Battle of Talas in 751.",
+        "a": 39.0,
+        "l": 67.0,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Tang and Tibet again hold peace talks",
+        "s": "After the defeat at Dafeichuan, the Tang sent envoys to Tibet to negotiate with Gar Trinring. The talks centered on the Tuyuhun territory, but Tibet made excessive demands, and the negotiations failed. Thereafter, the Tang revised its frontier strategy, abandoning the Tuyuhun and concentrating its defenses on the Hexi Corridor.",
+        "a": 29.7,
+        "l": 91.1,
+        "c": "Diplomacy",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Rise of the Srivijaya Empire",
+        "s": "The Srivijaya (Sanfoqi) king Jayanaga established maritime hegemony at Palembang in Sumatra, controlling the Strait of Malacca. Srivijaya established tributary relations with the Tang and sent many missions to China. The kingdom was the most powerful maritime empire in Southeast Asia from the 7th to the 11th century and a center of Buddhist propagation.",
+        "a": -2.0,
+        "l": 105.0,
+        "c": "Politics",
+        "r": "Srivijaya",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 672,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "3rd year of the Xianheng era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Umayyads continue expansion into the Maghreb",
+        "s": "Uqba ibn Nafi led his army from Kairouan west to the Atlantic coast of present-day Morocco. He captured Tangier and subdued the Berber tribes. The Arab Empire reached the Atlantic for the first time. However, on his return march, Uqba was killed by the Berber chieftain Kusayla, temporarily halting the Arab conquest.",
+        "a": 36.8,
+        "l": 10.2,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Africa"
+      },
+      {
+        "t": "Mu'awiya continues the siege of Constantinople",
+        "s": "Umayyad caliph Mu'awiya continued to send troops to besiege Constantinople, but the Byzantine land walls and Greek fire prevented the Arabs from achieving a decisive breakthrough. Byzantine Emperor Constantine IV also launched counterattacks, harassing the Arab rear. The siege became a stalemate.",
+        "a": 41.0,
+        "l": 29.0,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 673,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "4th year of the Xianheng era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Tang suppresses the Goguryeo restoration movement",
+        "s": "Remnants of Goguryeo led by Geom Mojam launched a rebellion in an attempt to restore the kingdom. Emperor Gaozong ordered Gao Kan, the Andong Protector-General, to suppress it. Tang forces crushed Geom Mojam and captured several thousand of his followers. Thereafter, the Tang strengthened control over Goguryeo remnants, dispersing them inland, and the Goguryeo restoration movement was completely crushed.",
+        "a": 39.0,
+        "l": 125.8,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Arab empire continues its siege of Constantinople",
+        "s": "The Arab forces continued the siege of Constantinople without being able to breach the walls. The Byzantine navy repeatedly sortied, using Greek fire against the Arab fleet. Both sides suffered heavy losses, and the battle was stalemated. This was a crucial engagement that decided the fate of Europe: the stubborn defense of Constantinople blocked the expansion of Islam into Europe.",
+        "a": 41.0,
+        "l": 28.9,
+        "c": "Military",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 674,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "1st year of the Shangyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Umayyad monetary reforms",
+        "s": "Caliph Abd al-Malik introduced monetary reform, abolishing Byzantine and Persian coins and minting the gold dinar (4.25g pure gold) and silver dirham. Coins no longer bore the portrait of a monarch, but instead were decorated with Quranic verses. The reform unified the monetary system of the Arab Empire, promoted internal trade and prosperity, and marked the cultural separation of the Arab Empire from Byzantium and Persia.",
+        "a": 33.5,
+        "l": 36.3,
+        "c": "Economy",
+        "r": "Arab Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Wu Zetian is proclaimed 'Empress of Heaven', establishing a 'Two Saints' rule",
+        "s": "Due to Emperor Gaozong's severe dizziness and inability to govern, all court business was first decided by Empress Wu Zetian. Wu took advantage of this to add the title 'Empress of Heaven' (Tianhou), and she and Gaozong were known as the 'Two Saints'. Wu Zetian began to openly participate in the highest decision-making, appointing her own trusted followers as chancellors and effectively taking control of the court. This was a key step on Wu's path to the imperial throne.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 675,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "2nd year of the Shangyuan era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Arabs conquer the remaining Byzantine territories in North Africa",
+        "s": "The Arab general Hassan ibn al-Nu'man led his army to capture Carthage, completely destroying the last Byzantine stronghold in North Africa. A Byzantine fleet briefly retook Carthage, but the Arabs permanently held it. The Arabs established firm control over North Africa and began advancing westward to the Strait of Gibraltar, preparing for the invasion of Spain in 711.",
+        "a": 36.9,
+        "l": 10.3,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Africa"
+      },
+      {
+        "t": "Emperor Gaozong considers abdicating to Wu Zetian, but abandons the plan",
+        "s": "When Emperor Gaozong was seriously ill, he considered abdicating in favor of Wu Zetian, allowing her to hold court. The chancellors Hao Chujun and Li Yiyan strongly opposed, citing that 'the empire belongs to the ancestors Gaozu and Taizong'. Gaozong therefore abandoned the idea. However, Wu Zetian's power continued to grow, and no one at court could stop her.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 676,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "1st year of the Yifeng era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Tang moves the Andong Protectorate to Liaodong",
+        "s": "Due to Silla's expansion and insufficient Tang forces, the Tang moved the Andong Protectorate from Pyongyang east to Liaodong (present-day Liaoyang), and later to Youzhou (Beijing). This marked the effective abandonment of direct Tang control over the northern Korean Peninsula. Silla effectively occupied the region south of the Daedong River. The Tang and Silla maintained a nominal suzerain-vassal relationship but no longer fought each other.",
+        "a": 38.0,
+        "l": 124.0,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Japan compiles the 'Asuka Kiyomihara Code'",
+        "s": "Emperor Tenmu of Japan (673-686) began compiling the 'Asuka Kiyomihara Code' (also called the 'Tenmu Code'), Japan's first complete legal code, covering administrative, criminal, civil, and other norms. Although the original has been lost, it provided the foundation for the later 'Taihō Code' (701), promoting the development of Japan as a law-based state.",
+        "a": 34.5,
+        "l": 136.0,
+        "c": "Politics",
+        "r": "Japan",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 677,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "2nd year of the Yifeng era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Tibet captures the Anxi Four Garrisons",
+        "s": "Tibetan lönchen Gar Trinring led forces to capture the Tang's Anxi Four Garrisons (Kucha, Kashgar, Khotan, Karashahr), causing Tang rule over the Western Regions to collapse. Emperor Gaozong ordered Xiao Siye to lead a western expedition, but he could not recover the garrisons. The Anxi Protectorate was moved back to Xi Prefecture (Gaochang). Tibet controlled the Western Regions for about a decade, until they were recaptured by Wang Xiaojie during the Wu Zhou period.",
+        "a": 38.0,
+        "l": 80.0,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Arab armies advance into Spain (Visigothic Kingdom)",
+        "s": "The Arab Empire sent a Berber general, Tariq ibn Ziyad, from North Africa across the Strait of Gibraltar into the Iberian Peninsula. Although the main conquest began in 711, the Arabs had already carried out reconnaissance and raids before. Some Jews and nobles welcomed the Arabs due to discontent with Visigothic rule.",
+        "a": 36.0,
+        "l": -5.0,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 678,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "3rd year of the Yifeng era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Li Jingxuan's campaign against Tibet ends in disaster",
+        "s": "Emperor Gaozong appointed Li Jingxuan as commander-in-chief of the Taohe route, leading 180,000 Tang troops to attack Tibet. Li Jingxuan, who knew nothing of military affairs, fought the Tibetans near Qinghai Lake and was utterly routed; his deputy Liu Shenli was captured. The Tang army suffered heavy losses. Only when the general Heichi Changzhi led a night raid on the Tibetan camp with a few hundred elite horsemen did the Tibetans withdraw. This defeat further weakened Tang defenses in the Hexi region.",
+        "a": 36.6,
+        "l": 101.8,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Tang strengthens its northern frontier defenses",
+        "s": "In response to threats from Tibet and the Turks, the Tang constructed extensive fortifications on the northern and northwestern frontiers, including the three Shouxiang Forts (East, Central, West). At the same time, the Tang increased its efforts to appease tribes such as the Khitans and Xis in the northeast, in order to divide Turkic power.",
+        "a": 42.0,
+        "l": 112.0,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "The former Baekje prince Buyeo Yung dies",
+        "s": "After the destruction of Goguryeo, Buyeo Yung (also known as Buyeo Yung), the last crown prince of Baekje, was appointed by the Tang as the governor of Ungjin to rule over the Baekje remnants. Seeing no hope of restoration and having a poor relationship with Tang generals, he eventually died in Luoyang. His death marked the end of any effective leadership for the Baekje restoration movement, and the Baekje remnants were fully integrated into Tang and Silla.",
+        "a": 36.3,
+        "l": 126.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 679,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "1st year of the Tiaolu era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Pei Xingjian puts down a Turkic rebellion",
+        "s": "The Eastern Turkic tribes led by Ashide Wenfu and Ashina Fuzhi rose in rebellion, proclaiming Ashina Nishufu as khan, with twenty-four prefectures of Turkic tribes responding. Emperor Gaozong appointed Pei Xingjian as commander-in-chief of the Dingxiang route with 300,000 troops to suppress the rebellion. Pei Xingjian set ambushes around Shuozhou and won a succession of victories, capturing Nishufu and killing Wenfu. This campaign intimidated the remaining Eastern Turkic tribes and temporarily stabilized the northern frontier.",
+        "a": 42.0,
+        "l": 111.0,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Wu Zetian's power continues to grow",
+        "s": "Taking advantage of Gaozong's illness and factional strife among ministers, Wu Zetian vigorously promoted her own followers (such as Wu Chengsi and Wu Sansi) while denouncing and exiling opponents (such as Pei Yan and Liu Yizhi). Wu also established the 'North Gate Scholars' (so called because they were summoned in the north gate of the palace) as her brain trust. Court power had completely fallen into the hands of Wu Zetian, and Gaozong was effectively sidelined.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Wang Bo drowns",
+        "s": "Wang Bo, the leading poet of the 'Four Elites of the Early Tang', drowned in a storm while traveling to Jiaozhi (present-day northern Vietnam) to visit his father. He was only 27 years old. Wang Bo's masterpiece, 'A Tribute to the Tengwang Tower', with its famous line 'Falling glow flies together with the lonely duck; autumn waters share one color with the vast sky', has been celebrated through the ages. His early death was a great loss to Tang poetry.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Culture",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 680,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "1st year of the Yonglong era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Shia Islam formally takes shape",
+        "s": "Husayn ibn Ali, the son of Ali, led a rebellion against the Umayyads and was surrounded by Umayyad forces at Karbala (in present-day Iraq). Husayn and his seventy-two followers were all killed, and Husayn's head was sent to Damascus. The Battle of Karbala caused a permanent split between Shia and Sunni Islam. The Shia venerate Husayn as the third imam and commemorate the event annually on the Day of Ashura. Shia identity was now fixed around the doctrine of the Imamate.",
+        "a": 36.0,
+        "l": 45.0,
+        "c": "Religion",
+        "r": "Arab Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Establishment of the Second Turkic Khaganate (Göktürk Khaganate)",
+        "s": "A Turkic chieftain named Ilterish Qaghan (also known as Kutluk or Tonyukuk) rose in rebellion in the Mongolian plateau, recovering the Iron (Tiele) tribes previously under Tang control, and re-established the Turkic Khaganate, known as the 'Second Turkic Khaganate' or 'Göktürk Khaganate'. Ilterish established his capital at Ötüken (present-day Hangai Mountains, Mongolia) and frequently raided Tang's northern borders. The Second Turkic Khaganate lasted for over half a century until its destruction by the Uyghurs in 744.",
+        "a": 46.0,
+        "l": 107.0,
+        "c": "Politics",
+        "r": "Turks",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 681,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "1st year of the Kaiyao era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Establishment of the First Bulgarian Empire",
+        "s": "The Bulgar chieftain Asparukh led his people across the Danube and defeated a Byzantine army, establishing the First Bulgarian Empire, with its capital at Pliska. Byzantine Emperor Constantine IV was forced to sign a treaty recognizing Bulgaria's independence and paying annual tribute. The First Bulgarian Empire became a major power in the Balkans, lasting until 1018.",
+        "a": 43.3,
+        "l": 26.5,
+        "c": "Politics",
+        "r": "Bulgaria",
+        "o": "Europe"
+      },
+      {
+        "t": "Pei Xingjian again defeats the Turks",
+        "s": "The remaining Turkic rebel Ashina Fuzhi proclaimed himself khan and resisted the Tang. Pei Xingjian again led an expedition, using a strategy of sowing discord to split the rebels. Fuzhi was captured and handed over to the Tang. Pei executed Fuzhi, and the Turkic rebellion was completely crushed. Thereafter, the Tang's northern border enjoyed relative peace for about a decade.",
+        "a": 42.0,
+        "l": 111.0,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Arabs pursue Arabization policies",
+        "s": "The Umayyad Caliphate enforced the use of Arabic as the official language of administration and religion in conquered territories such as Syria, Iraq, and Egypt, and encouraged Arabs to migrate to new territories and integrate with conquered peoples. Non-Arab Muslims (mawali) were required to form alliances with Arabs but still faced discrimination. These policies accelerated the spread of Islam and the formation of Arab culture, but also led to strong resentment among peoples such as the Persians.",
+        "a": 33.5,
+        "l": 36.3,
+        "c": "Politics",
+        "r": "Arab Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 682,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Gaozong of Tang (Li Zhi)",
+        "e": "1st year of the Yongchun era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Ilterish Qaghan of the Second Turkic Khaganate invades Tang",
+        "s": "Ilterish Qaghan led his army to capture Tang's Bingzhou (Taiyuan) and Lanzhou (Lan County), plundering population and livestock. The Tang forces fared poorly, and unrest spread across Hebei. Emperor Gaozong was forced to strengthen border defenses and conscript laborers in Hebei to build fortresses.",
+        "a": 39.0,
+        "l": 114.0,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "The Maya city-state of Yaxchilan reaches its peak",
+        "s": "The Maya city-state of Yaxchilan (in present-day Chiapas, Mexico) flourished under King Itzamnaaj B'alam II (also known as Shield Jaguar II). He undertook grand construction projects, including many pyramids and stelae, recording his campaigns and rituals. Yaxchilan is renowned for its finely carved lintels and hieroglyphic inscriptions, and was an important political and cultural center during the Maya Classic period.",
+        "a": 16.9,
+        "l": -91.0,
+        "c": "Politics",
+        "r": "Maya",
+        "o": "North America"
+      }
+    ]
+  },
+  {
+    "y": 683,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Zhongzong of Tang (Li Xian)",
+        "e": "1st year of the Hongdao era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Emperor Gaozong dies; Emperor Zhongzong ascends the throne",
+        "s": "Emperor Gaozong of Tang died at the age of 56 in the Zhenguan Palace in Luoyang. His will made his son Li Xian emperor (as Emperor Zhongzong), with the provision that in case of urgent military and state affairs, Empress Dowager Wu Zetian would rule. After Zhongzong's accession, he wanted to appoint his father-in-law Wei Xuanzhen as chancellor, which was opposed by Pei Yan. Angrily, Zhongzong said, 'I could give the empire to Wei Xuanzhen, what would it matter?' Wu Zetian used this as a pretext to depose Zhongzong, reducing him to the title of Prince of Luling. She then installed another son, Li Dan, as emperor (Emperor Ruizong).",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Widespread use of Greek fire in Byzantium",
+        "s": "After proving its worth in naval battles, the Byzantine Empire began to widely equip Greek fire projectors and grenades on its navy and in its fortresses. The formula was a state secret and has never been fully reconstructed. Greek fire played a crucial role in the defense of Constantinople against Arab and later Russian attacks, and was a key factor in the Byzantine Empire's millennial endurance.",
+        "a": 41.0,
+        "l": 29.0,
+        "c": "Technology",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      },
+      {
+        "t": "Wu Zetian formally takes the throne as 'Empress Dowager' and holds court",
+        "s": "After Zhongzong was deposed and Ruizong installed, Wu Zetian, as empress dowager, held court and wielded actual power. Emperor Ruizong Li Dan was effectively confined in a side palace and not allowed to participate in government. Wu changed the era name to Wenming and renamed the eastern capital Luoyang as Shendu (Divine Capital). She began comprehensive preparations for declaring herself emperor.",
+        "a": 34.68,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Wu Zhou",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 684,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Ruizong of Tang (Li Dan)",
+        "e": "1st year of the Wenming era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Xu Jingye rebels against Wu Zetian at Yangzhou",
+        "s": "Xu Jingye (grandson of Li Ji, later renamed Li Jingye), incensed by his demotion, raised an army at Yangzhou with Luo Binwang and Du Qiuren, ostensibly to restore the deposed Prince of Luling Li Xian. Luo Binwang wrote the famous manifesto 'Opposing Wu Zhao's Imperial Usurpation', which was widely circulated for its literary flair. Wu Zetian sent Li Xiaoyi with 300,000 troops to suppress the rebellion. Xu Jingye was defeated and killed. This was the largest opposition to Wu before she declared herself emperor, and after its failure she was free to pursue her usurpation of the Tang throne.",
+        "a": 32.4,
+        "l": 119.4,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Wu Zetian deposes Zhongzong, elevates Ruizong, and assumes regency",
+        "s": "After deposing Li Xian, Wu Zetian installed her fourth son Li Dan as Emperor Ruizong, but he was confined and not allowed to attend court. Wu changed the era name to Guangzhai, ordered the removal of the Tang imperial clan from the imperial register, changed the colours of flags and officials' robes, and declared a general amnesty. She also renamed the eastern capital Luoyang as Shendu (Divine Capital), paving the way for her assumption of the throne.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 685,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Ruizong of Tang (Li Dan)",
+        "e": "1st year of the Chuigong era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Umayyads attack Khwarazm",
+        "s": "The Arab governor of Khurasan, Qutayba ibn Muslim, led an expedition against Khwarazm (western Uzbekistan and northern Turkmenistan). Qutayba conquered Khwarazm, forcing its king to submit and pay tribute. Arab power in Central Asia expanded further, threatening the Tang Anxi Protectorate.",
+        "a": 41.0,
+        "l": 65.0,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Asia"
+      },
+      {
+        "t": "Wu Zetian encourages informants and uses harsh officials",
+        "s": "To eliminate political enemies and potential opponents, Wu Zetian ordered that 'informants, no matter what their status, shall not be interrogated, but shall be provided with post horses and given a grade-five official's daily allowance'. Informants, regardless of status, were granted an audience. Wu heavily relied on harsh officials like Lai Junchen and Zhou Xing, creating many miscarriages of justice and executing hundreds of Tang imperial clan members and ministers. The court was filled with terror, and Wu Zetian thereby solidified her power.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 686,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Ruizong of Tang (Li Dan)",
+        "e": "2nd year of the Chuigong era"
+      }
+    ],
+    "v": [
+      {
+        "t": "The Bulgars formally establish a state",
+        "s": "The Bulgars under Asparukh, having defeated the Byzantines, formally established the First Bulgarian Empire. The Byzantine Empire was forced to recognize its independence and pay an annual tribute. The Bulgars gradually became Slavicized, forming the Bulgarian nation.",
+        "a": 44.0,
+        "l": 28.0,
+        "c": "Politics",
+        "r": "Bulgar Khanate",
+        "o": "Europe"
+      },
+      {
+        "t": "Silla sends an envoy to Tang to request books",
+        "s": "King Sinmun of Silla sent a mission to Chang'an to request Buddhist sutras, Confucian classics, and works on astronomy and calendrical science. The Tang emperor (under Wu Zetian's control) granted the request, awarding many books. This promoted cultural development in Silla; the Unified Silla period created a Confucian education system modeled on the Tang.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Culture",
+        "r": "Silla",
+        "o": "Asia"
+      },
+      {
+        "t": "Wu Zetian builds the Bright Hall (Mingtang)",
+        "s": "Wu Zetian had the Bright Hall (Mingtang) built in Luoyang as a ritual building for sacrificing to heaven and earth and for promulgating government decrees. The Bright Hall was 294 chi high, with three floors, richly decorated. Wu Zetian held many ceremonies and court meetings there, to proclaim her legitimacy as having received the Mandate of Heaven, preparing public opinion for her assumption of the throne.",
+        "a": 34.7,
+        "l": 112.5,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 687,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Ruizong of Tang (Li Dan)",
+        "e": "3rd year of the Chuigong era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Pepin of Herstal becomes Mayor of the Palace in the Frankish kingdom",
+        "s": "Pepin of Herstal (also known as Pepin II), mayor of the palace of the Merovingian kingdom, defeated the Neustrian nobles and unified the entire Frankish kingdom. Although he remained officially a subject of the king, he effectively controlled the military and political power, establishing the tradition of the hereditary mayoralty in the Pepinid family, laying the foundation for the later Carolingian Empire.",
+        "a": 50.0,
+        "l": 5.0,
+        "c": "Politics",
+        "r": "Frankish Kingdom",
+        "o": "Europe"
+      },
+      {
+        "t": "Lai Junchen compiles the 'Art of Framing'",
+        "s": "The harsh official Lai Junchen, together with his associates, compiled the 'Art of Framing' (also known as the 'Informers' Art'), a manual for fabricating charges, creating miscarriages of justice, and extracting confessions. The book had twelve volumes and was extremely cynical. Lai Junchen used his skills to persecute a large number of innocent officials and imperial relatives, but he was eventually executed by Wu Zetian for his crimes.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 688,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Ruizong of Tang (Li Dan)",
+        "e": "4th year of the Chuigong era"
+      }
+    ],
+    "v": [
+      {
+        "t": "The Li imperial clan rises against Wu Zetian",
+        "s": "Several Tang imperial princes rose in a coordinated rebellion against Wu Zetian. Prince Zhen of Yue (Li Zhen) raised troops in Yuzhou (modern Ruyang, Henan) and Prince Chong of Langya (Li Chong) in Bozhou (modern Liaocheng, Shandong) simultaneously. However, they lacked unified command, and were quickly crushed by Wu's forces. Taking advantage of the situation, Wu Zetian massacred the Li clan; dozens of princes, including the Prince of Han, Prince of Lu, and Prince of Huo, were killed, and the Tang imperial clan was almost annihilated.",
+        "a": 34.0,
+        "l": 114.0,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      },
+      {
+        "t": "Arab armies advance in Africa",
+        "s": "The Arab governor of North Africa led forces westward, conquering the Berber tribes of present-day Morocco. Arab power reached the Atlantic coast, controlling the entire North African coast from Egypt to the Atlantic. The Berbers gradually converted to Islam but retained their own language and tribal structure.",
+        "a": 32.0,
+        "l": 8.0,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": 689,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Emperor Ruizong of Tang (Li Dan)",
+        "e": "1st year of the Yongchang era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Silla further improves its state institutions",
+        "s": "King Sinmun of Silla implemented a 'civil service examination' and 'national university' system, modeled on the Tang, establishing a national university (Gukhak) to teach Confucian classics. At the same time, he completed the central and local administrative systems, creating the 'nine provinces and five minor capitals' system (Gu - Ju, So - Gyeong), strengthening centralization. These measures made Unified Silla more stable; Korean historians mark this as the 'beginning of the medieval period'.",
+        "a": 37.6,
+        "l": 127.0,
+        "c": "Politics",
+        "r": "Silla",
+        "o": "Asia"
+      },
+      {
+        "t": "Wu Zetian reforms the official system to prepare for her accession",
+        "s": "Wu Zetian carried out extensive reforms of the official system, renaming the Chancellery as Phoenix Hall, the Gate Department as Swan Court, and the Secretariat as the Ministry for the Advancement of the State. She also changed the names of ministers and officials. She changed the colors of official robes and reformulated official titles, in every way signaling 'reform and renewal'. At the same time, Wu Zetian began to create 'auspicious omens' (such as the discovery of a chart in the Luo River) and used the Buddhist 'Great Cloud Sutra' to proclaim that she was the reincarnation of Maitreya Buddha, preparing public opinion for her ascension as empress regnant.",
+        "a": 34.3,
+        "l": 108.9,
+        "c": "Politics",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 690,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Empress Regnant Wu Zetian (Holy Divine Emperor)",
+        "e": "1st year of the Tianshou era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wu Zetian proclaims herself emperor, establishing the Zhou dynasty",
+        "s": "Wu Zetian, after a petition of support from over 60,000 officials, imperial clan members, chieftains of the Four Directions, and Buddhist and Daoist clergy, formally ascended the throne as 'Emperor Shengshen' (Holy Divine Emperor), changed the name of the dynasty to Zhou, and made the sacred capital (Shendu, Luoyang) her capital. She became the only orthodox female emperor in Chinese history. She used the name Zhou to claim descent from the Zhou dynasty. After becoming emperor, she continued to promote the imperial examinations, elevate commoner-gentry, attack the Guanlong aristocracy, and promote Buddhism. The Zhou dynasty ruled for a total of fifteen years (690–705).",
+        "a": 34.68,
+        "l": 112.47,
+        "c": "Politics",
+        "r": "Wu Zhou",
+        "o": "Asia"
+      },
+      {
+        "t": "Christianity spreads in Nubia",
+        "s": "The three Nubian kingdoms of Nobadia, Makuria, and Alodia (in present-day Sudan) fully converted to Christian Monophysitism under the influence of Byzantine missionaries. Churches and monasteries were built, and Greek and Old Nubian were used for writing. Christianity endured in Nubia for nearly a thousand years, until the Islamic conquest of the 14th century.",
+        "a": 20.0,
+        "l": 32.0,
+        "c": "Religion",
+        "r": "Nubia",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": 691,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Empress Regnant Wu Zetian (Holy Divine Emperor)",
+        "e": "2nd year of the Tianshou era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wu Zetian moves the capital to Luoyang",
+        "s": "Wu Zetian formally moved the political center from Chang'an to Luoyang, renaming it the Divine Capital (Shendu). She made Luoyang the capital of the Zhou dynasty, with Chang'an as a secondary capital. Luoyang, located in the Central Plains, was convenient for transportation and far from the old Guanlong aristocracy. Wu Zetian undertook large-scale construction in Luoyang, building the Heavenly Hall, the Bright Hall, the Tianjin Bridge, and other magnificent structures, making Luoyang one of the most prosperous cities in the world.",
+        "a": 34.7,
+        "l": 112.5,
+        "c": "Politics",
+        "r": "Wu Zhou",
+        "o": "Asia"
+      },
+      {
+        "t": "Arab Empire builds the Dome of the Rock",
+        "s": "The Umayyad caliph Abd al-Malik completed the Dome of the Rock on the Temple Mount in Jerusalem. This building used copious gold and Byzantine-style mosaics, and is considered a masterpiece of Islamic architecture. The construction was partly intended to rival the religious centrality of the Kaaba in Mecca (since Abd al-Malik was in conflict with anti-Umayyad forces in Mecca), but it remains a holy site.",
+        "a": 31.8,
+        "l": 35.2,
+        "c": "Culture",
+        "r": "Arab Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 692,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Empress Regnant Wu Zetian (Holy Divine Emperor)",
+        "e": "1st year of the Ruyi era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wang Xiaojie recaptures the Anxi Four Garrisons for Wu Zhou",
+        "s": "Wu Zetian appointed Wang Xiaojie as commander-in-chief of the Wuwei route, leading an expedition against Tibet. Wang defeated the Tibetans at Qinghai and in the Western Regions, recapturing the four garrisons of Kucha, Kashgar, Khotan, and Karashahr. Wu Zetian re-established the Anxi Protectorate at Kucha, restoring Tang control over the Western Regions. Wang Xiaojie was promoted to General of the Left Guard for his success.",
+        "a": 41.7,
+        "l": 83.0,
+        "c": "Military",
+        "r": "Wu Zhou",
+        "o": "Asia"
+      },
+      {
+        "t": "Justinian II is restored to the Byzantine throne",
+        "s": "After being deposed and exiled, Byzantine Emperor Justinian II, with the help of the Bulgars and Slavs, led an army into Constantinople and overthrew the usurper Leontios, regaining the throne. His restoration began with a bloody purge, leading to a reign of terror that ended with his second overthrow in 695.",
+        "a": 41.0,
+        "l": 29.0,
+        "c": "Politics",
+        "r": "Byzantine Empire",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 693,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Empress Regnant Wu Zetian (Holy Divine Emperor)",
+        "e": "2nd year of the Changshou era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wu Zetian bans slaughter and promotes Buddhism",
+        "s": "Wu Zetian, a devout Buddhist, ordered a prohibition on the slaughter of animals and the catching of fish to demonstrate compassion. This affected folk dietary and sacrificial customs. At the same time, she supported Buddhist scripture translation and temple construction, so that Buddhism reached its peak during the Wu Zhou period. The Northern Chan master Shenxiu was welcomed into Chang'an and honored as 'National Preceptor'.",
+        "a": 34.5,
+        "l": 112.5,
+        "c": "Religion",
+        "r": "Wu Zhou",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 694,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Empress Regnant Wu Zetian (Holy Divine Emperor)",
+        "e": "1st year of the Yanzai era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Manichaeism enters China",
+        "s": "A Persian Manichaean missionary named Fuduo (or Fotudeng) arrived in Chang'an with Manichaean scriptures and was received by Wu Zetian. Manichaeism, which teaches the struggle between Light and Darkness (two principles and three ages), was allowed to spread because Wu Zetian saw its usefulness for legitimizing her rule. Manichaeism was later banned during the Tang Wuzong's persecution of Buddhism, but it continued among the Uyghurs.",
+        "a": 34.7,
+        "l": 112.5,
+        "c": "Religion",
+        "r": "Wu Zhou",
+        "o": "Asia"
+      },
+      {
+        "t": "Arab forces capture Carthage",
+        "s": "The Arab general Hassan ibn al-Nu'man led 40,000 troops to besiege Carthage again. The Byzantine defenders and Berber allies resisted, but the city eventually fell. Carthage was completely destroyed to prevent the Byzantines from reusing it. The Arabs then established Tunis as the new capital of North Africa. The ancient city of Carthage disappeared from history.",
+        "a": 36.9,
+        "l": 10.3,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": 695,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Empress Regnant Wu Zetian (Holy Divine Emperor)",
+        "e": "1st year of the Zhengsheng era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wu Zetian adds the title 'Tiance Golden Wheel Holy Divine Emperor'",
+        "s": "To enhance her authority, Wu Zetian accepted from her ministers the additional honorific title 'Tiance Golden Wheel Holy Divine Emperor'. She changed her era name several times (Zhengsheng, Tiance Wansui, Wansui Dengfeng, etc.), and held grand ceremonies such as the Fengshan at Mount Song and sacrificing to the Luo River. She also added the Buddhist emblem of the 'Golden Wheel' to her title, emphasizing that she was a cakravartin (wheel-turning king), strengthening the notion that her rule was divinely ordained.",
+        "a": 34.7,
+        "l": 112.5,
+        "c": "Politics",
+        "r": "Wu Zhou",
+        "o": "Asia"
+      },
+      {
+        "t": "Umayyads establish the governorate of Ifriqiya",
+        "s": "The Arab Empire formally established the governorate of Ifriqiya (northwest Africa from Egypt to Morocco) with its capital at Kairouan. Hassan ibn al-Nu'man was appointed the first governor. This administrative division strengthened Arab rule over North Africa and paved the way for the crossing of the Strait of Gibraltar and the conquest of Spain.",
+        "a": 34.0,
+        "l": 9.0,
+        "c": "Politics",
+        "r": "Arab Empire",
+        "o": "Africa"
+      }
+    ]
+  },
+  {
+    "y": 696,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Empress Regnant Wu Zetian (Holy Divine Emperor)",
+        "e": "1st year of the Wansui Tongtian era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Khitan chief Li Jinzhong rebels against Wu Zhou",
+        "s": "The Khitan tribal chief Li Jinzhong (the Li surname was a Tang honorific), angered by mistreatment by the Wu Zhou official Zhao Wenju, joined with Sun Wanrong to rise in rebellion, capturing Yingzhou (present-day Chaoyang, Liaoning). Li Jinzhong declared himself 'Wushang Khan'. Wu Zetian sent generals Cao Renshi and Zhang Xuanyu to suppress the rebellion, but they were annihilated at the Huangzhong Valley. Later, the Turks raided the Khitan rear, Li Jinzhong was killed, and Sun Wanrong fled to the Turks and was killed. This rebellion severely damaged Wu Zhou's control over the northeast.",
+        "a": 41.6,
+        "l": 120.4,
+        "c": "Military",
+        "r": "Wu Zhou",
+        "o": "Asia"
+      },
+      {
+        "t": "Rise of Qapaghan Qaghan of the Second Turkic Khaganate",
+        "s": "After the death of Ilterish Qaghan, his brother Qapaghan Qaghan ascended the throne, taking the title 'Qian Shan Qaghan' (or 'Kül Qaghan'). Qapaghan, a talented leader, quickly united the Turkic tribes, conquering the Tiele, Khitans, and other tribes. He raided the Tang repeatedly, forcing Wu Zetian to cede land and give gifts. Under Qapaghan, the Second Turkic Khaganate reached its peak, becoming the greatest northern threat to the Tang.",
+        "a": 46.0,
+        "l": 107.0,
+        "c": "Politics",
+        "r": "Turks",
+        "o": "Asia"
+      },
+      {
+        "t": "The Frankish kingdom allies with the Pope",
+        "s": "The Frankish mayor of the palace, Pepin of Herstal, established an alliance with Pope Sergius I. The pope sought Frankish support due to persecution by the Byzantine emperor over iconoclasm. This alliance foreshadowed the later Donation of Pepin and the coronation of Charlemagne, marking the start of a long alliance between the papacy and the Frankish monarchy.",
+        "a": 49.0,
+        "l": 5.0,
+        "c": "Politics",
+        "r": "Frankish Kingdom",
+        "o": "Europe"
+      }
+    ]
+  },
+  {
+    "y": 697,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Empress Regnant Wu Zetian (Holy Divine Emperor)",
+        "e": "1st year of the Shengong era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wu Zetian executes Lai Junchen",
+        "s": "The harsh official Lai Junchen planned to accuse the Wu princes and Princess Taiping of rebellion, but they united to expose his crimes. Wu Zetian ordered Lai Junchen executed. The death of Lai Junchen marked the end of the stage of 'cruel official rule' under Wu Zetian, bringing some relief to the court.",
+        "a": 34.7,
+        "l": 112.5,
+        "c": "Politics",
+        "r": "Wu Zhou",
+        "o": "Asia"
+      },
+      {
+        "t": "Japan begins compiling the 'Taihō Code'",
+        "s": "Emperor Monmu of Japan, under the leadership of Chancellor Fujiwara no Fuhito, promulgated the 'Taihō Code' (the era name was Taihō). This code included criminal law (ritsu) and administrative law (ryō), modeled on the Tang 'Yonghui Code' but adapted to Japanese conditions. The Taihō Code perfected the 'Two Departments and Eight Ministries' central bureaucracy, divided the country into 66 provinces, and implemented the Handen Shūju (rice field allotment) and household registration systems. It marked the formal establishment of Japan as a law-based state, with influence lasting for centuries.",
+        "a": 34.5,
+        "l": 136.0,
+        "c": "Politics",
+        "r": "Japan",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 698,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Empress Regnant Wu Zetian (Holy Divine Emperor)",
+        "e": "1st year of the Shengli era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Wu Zhou appoints Li Xian as crown prince",
+        "s": "Heeding the advice of Di Renjie and other ministers, Wu Zetian abandoned the idea of making her nephew Wu Sansi crown prince, and secretly brought the deposed Li Xian (Prince of Luling) back to Luoyang, making him crown prince. This marked Wu Zetian's final decision to return the throne to the Li imperial family, setting the stage for the Shenlong Coup and the restoration of the Tang.",
+        "a": 34.7,
+        "l": 112.5,
+        "c": "Politics",
+        "r": "Wu Zhou",
+        "o": "Asia"
+      },
+      {
+        "t": "Umayyad campaign against Byzantium",
+        "s": "Umayyad caliph Abd al-Malik sent forces to attack Byzantine Asia Minor, seizing parts of Isauria and Cappadocia. Emperor Tiberius III reached a peace agreement with the Arabs, paying an annual tribute. The Byzantine Empire's eastern defenses continued to contract.",
+        "a": 39.0,
+        "l": 33.0,
+        "c": "Military",
+        "r": "Arab Empire",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 699,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Empress Regnant Wu Zetian (Holy Divine Emperor)",
+        "e": "2nd year of the Shengli era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Qapaghan Qaghan invades Hebei",
+        "s": "Qapaghan Qaghan led 100,000 cavalry south, capturing Dingzhou and Zhaozhou, killing and plundering. Wu Zetian sent Di Renjie, Li Xian, and others to lead resistance. Di Renjie used a scorched-earth strategy, and the Turks withdrew when their supplies ran out. Thereafter, the Tang shifted its defense focus to Hebei, constructing fortifications to guard against the Turks.",
+        "a": 38.0,
+        "l": 114.5,
+        "c": "Military",
+        "r": "Wu Zhou",
+        "o": "Asia"
+      },
+      {
+        "t": "Tang adjusts its frontier defenses",
+        "s": "In response to threats from the Turks, Tibet, and the Khitans, Wu Zetian reorganized the northern defense system. She set up major garrisons such as the Tianbing Army and the Dawu Army, strengthening the defenses of Taiyuan and Youzhou. At the same time, she used marriage alliances, giving a Tang princess in marriage to Qapaghan Qaghan, temporarily easing the situation.",
+        "a": 42.0,
+        "l": 110.0,
+        "c": "Military",
+        "r": "Tang",
+        "o": "Asia"
+      }
+    ]
+  },
+  {
+    "y": 700,
+    "d": [
+      {
+        "i": "tang",
+        "n": "Tang",
+        "u": "Empress Regnant Wu Zetian (Holy Divine Emperor)",
+        "e": "1st year of the Jiushi era"
+      }
+    ],
+    "v": [
+      {
+        "t": "Di Renjie dies",
+        "s": "The renowned chancellor Di Renjie of the Wu Zhou died of illness at the age of 71. Wu Zetian said mournfully, 'The court is empty now.' She posthumously honored him as Minister of Education (Wenchang Youxiang) with the posthumous name Wenhui. Di Renjie was known for his uprightness and forthright remonstrations, often dissuading Wu Zetian from excessive killing and military adventures, and protecting the Li imperial clan. He secretly recommended officials such as Zhang Jianzhi to Wu, which paved the way for the Shenlong Coup that restored the Tang dynasty.",
+        "a": 34.7,
+        "l": 112.5,
+        "c": "Politics",
+        "r": "Wu Zhou",
+        "o": "Asia"
+      },
+      {
+        "t": "Christianity spreads among the Germanic peoples",
+        "s": "The Anglo-Saxon missionary Willibrord, with the support of the Frankish mayor of the palace Pepin of Herstal, went to Frisia (modern Netherlands) and the German lands. He established the bishopric of Utrecht, leading many Germanic tribes to convert to Christianity. This was an important step in the spread of Christianity to northern and eastern Europe.",
+        "a": 51.0,
+        "l": 9.0,
+        "c": "Religion",
+        "r": "Germanic peoples",
+        "o": "Europe"
+      },
+      {
+        "t": "Ancestral Puebloans build cliff dwellings in North America",
+        "s": "Around 700–1300 AD, the Ancestral Puebloans (also known as Anasazi) in the southwestern United States built multi-story stone villages in cliffs, such as at Mesa Verde and Chaco Canyon. At Chaco Canyon, they built 12 large 'great houses', the largest, Pueblo Bonito, having over 600 rooms. These buildings were precisely aligned to the sun and moon. Around 1300, due to severe drought, the Puebloans migrated south to the Rio Grande valley.",
+        "a": 37.0,
+        "l": -108.0,
+        "c": "Engineering",
+        "r": "Puebloans",
+        "o": "North America"
+      },
+      {
+        "t": "First Polynesian settlers arrive on Easter Island",
+        "s": "Around 700–900 AD, Polynesian navigators arrived on Easter Island (Rapa Nui) in double-hulled canoes, one of the most remote inhabited islands on Earth. Over several centuries, the islanders built about 900 moai statues, the tallest 10 meters high and weighing 82 tons. The moai represented ancestral spirits and were placed on stone platforms called ahu. Deforestation and resource overuse led to social collapse and civil war; by the time Europeans arrived, the population had greatly declined.",
+        "a": -27.1,
+        "l": -109.3,
+        "c": "Culture",
+        "r": "Easter Island",
+        "o": "Oceania"
+      }
+    ]
+  }
+]
