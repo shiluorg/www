@@ -30,20 +30,14 @@ async function _loadLeaflet() {
   await loadJS('https://unpkg.com/leaflet@1.9.4/dist/leaflet.js');
 }
 
-async function _loadMaplibre() {
+export async function loadMaplibre() {
   await loadCSS(CSS[1]);
   await loadJS('https://unpkg.com/maplibre-gl@4/dist/maplibre-gl.js');
   await loadJS('https://unpkg.com/@maplibre/maplibre-gl-leaflet@0.1.3/leaflet-maplibre-gl.js');
   await loadJS('js/maplibre-gl-dates.js');
 }
 
-export function loadMaplibre() {
-  return _loadMaplibre();
-}
-
 export function ensureL() {
   if (typeof L !== 'undefined') return Promise.resolve();
-  return _loadLeaflet().then(() => {
-    if (typeof L === 'undefined') return new Promise(r => setTimeout(r, 2000));
-  });
+  return _loadLeaflet();
 }

@@ -1643,6 +1643,7 @@ kbd {
 /* Map Game */
 .map-game__question { text-align: center; font-size: clamp(14px, 4vw, 17px); font-weight: 600; margin-bottom: 10px; padding: 12px 14px; background: var(--color-surface); border-radius: var(--radius-md); border: 1px solid var(--color-border); line-height: 1.5; }
 .map-game__map { height: 350px; border-radius: var(--radius-md); border: 1px solid var(--color-border); margin-bottom: 10px; }
+.map-game__map-area { position: relative; }
 .map-game__score { display: flex; justify-content: space-between; align-items: center; padding: 0 4px; margin-bottom: 10px; }
 .map-game__score-text { font-size: clamp(16px, 4vw, 20px); font-weight: 700; color: var(--color-accent); }
 .map-game__total { font-size: clamp(13px, 3vw, 15px); color: var(--color-text-muted); }
@@ -1731,7 +1732,8 @@ kbd {
 .page--game.page--game-inplay .game-share-btn:active { transform: scale(0.9); }
 .game-footer { text-align: center; padding: 6px 12px; font-size: 10px; color: var(--color-text-muted); border-top: 1px solid var(--color-border); flex-shrink: 0; background: var(--color-surface); }
 .page--game.page--game-inplay .map-game__question { margin: 8px 12px 4px; border-radius: 12px; flex-shrink: 0; }
-.page--game.page--game-inplay .map-game__map { flex: 1; height: auto; min-height: 200px; border-radius: 0; border: none; margin: 0; }
+.page--game.page--game-inplay .map-game__map-area { flex: 1; position: relative; min-height: 200px; }
+.page--game.page--game-inplay .map-game__map { position: absolute; inset: 0; height: auto; border-radius: 0; border: none; margin: 0; }
 .page--game.page--game-inplay .map-game__score { padding: 0 12px; flex-shrink: 0; }
 .page--game.page--game-inplay .map-game__next { margin: 4px 12px 0; width: calc(100% - 24px); flex-shrink: 0; }
 .page--game.page--game-inplay .quiz__game { padding: 4px 12px 4px; overflow-y: auto; flex: 1; }

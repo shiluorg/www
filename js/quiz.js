@@ -12,7 +12,7 @@ let _quizInitialized = false;
 let _qContainer = null;
 let _quizFooterAdded = false;
 
-function _qEl(id) { return _qContainer ? _qContainer.querySelector('#' + id) : document.getElementById(id); }
+function _qEl(id) { return _qContainer.querySelector('#' + id); }
 
 function _qRealm(l, realms) { for (const r of realms) { if (l >= r.s && l <= r.e) return r; } return realms[0]; }
 function _qShuffle(a) { const b = [...a]; for (let i = b.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [b[i], b[j]] = [b[j], b[i]]; } return b; }

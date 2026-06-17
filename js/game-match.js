@@ -5,6 +5,7 @@ import { _showCards, _shuffle, gameShare } from './game-center.js';
 let _matchCards = [];
 let _selectedCard = null;
 let _matchedCount = 0;
+let _matchYearCache = null;
 let _score = 0;
 
 function _isChinese(evt) {
@@ -12,7 +13,11 @@ function _isChinese(evt) {
 }
 
 function _findMatchYear(events) {
-  // Group events by year
+  if (_matchYearCache) {
+    const year = Object.keys(_matchYearCache)[Math.floor(Math.random() * Object.keys(_matchYearCache).length)];
+    return _matchYearCache[year];
+  }
+  // Build cache on first run
   const byYear = {};
   for (const evt of events) {
     if (!byYear[evt.y]) byYear[evt.y] = { chinese: [], foreign: [] };
@@ -22,15 +27,17 @@ function _findMatchYear(events) {
       byYear[evt.y].foreign.push(evt);
     }
   }
-
-  // Find years with at least 2 Chinese and 2 foreign events
-  const validYears = Object.keys(byYear).filter(y => byYear[y].chinese.length >= 2 && byYear[y].foreign.length >= 2);
-  if (validYears.length === 0) return null;
-
-  const year = validYears[Math.floor(Math.random() * validYears.length)];
-  const chinese = _shuffle(byYear[year].chinese).slice(0, 2);
-  const foreign = _shuffle(byYear[year].foreign).slice(0, 2);
-  return { year: parseInt(year), chinese, foreign };
+  // Cache only years with at least 2 Chinese and 2 foreign events
+  _matchYearCache = {};
+  for (const [y, data] of Object.entries(byYear)) {
+    if (data.chinese.length >= 2 && data.foreign.length >= 2) {
+      _matchYearCache[y] = { year: parseInt(y), chinese: data.chinese, foreign: data.foreign };
+    }
+  }
+  const keys = Object.keys(_matchYearCache);
+  if (keys.length === 0) return null;
+  const year = keys[Math.floor(Math.random() * keys.length)];
+  return _matchYearCache[year];
 }
 
 function _renderCards(container, matchData) {

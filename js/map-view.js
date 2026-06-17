@@ -4,11 +4,12 @@ import { ensureL, loadMaplibre } from './map-libs.js';
 let _map = null;
 let _satelliteLayer = null;
 let _streetLayer = null;
+let _topoLayer = null;
 let _historicLayer = null;
 let _currentLayer = 'satellite';
 let _currentYear = 1;
 let _sharedIcon = null;
-let _satBtn = null, _strBtn = null, _histBtn = null;
+let _satBtn = null, _strBtn = null, _topoBtn = null, _histBtn = null;
 let _pendingEvents = null;
 
 function _getIcon() {
@@ -51,10 +52,16 @@ function _initMap() {
     zoomControl: false, attributionControl: true
   });
   _satelliteLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
-    maxZoom: 18, attribution: '&copy; Esri'
+    maxZoom: 18, attribution: '&copy; Esri',
+    updateWhenIdle: false, updateWhenZooming: false
   });
-  _streetLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 18, attribution: '&copy; OpenStreetMap'
+  _streetLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
+    maxZoom: 18, attribution: '&copy; Esri',
+    updateWhenIdle: false, updateWhenZooming: false
+  });
+  _topoLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
+    maxZoom: 18, attribution: '&copy; Esri',
+    updateWhenIdle: false, updateWhenZooming: false
   });
   _satelliteLayer.addTo(_map);
   L.control.zoom({ position: 'topleft' }).addTo(_map);
@@ -74,12 +81,16 @@ function _initMap() {
   _satBtn = document.getElementById('layer-satellite');
   _strBtn = document.getElementById('layer-street');
   _histBtn = document.getElementById('layer-historic');
+  _topoBtn = document.getElementById('layer-topo');
   if (_satBtn) _satBtn.addEventListener('click', () => switchLayer('satellite'));
   if (_strBtn) _strBtn.addEventListener('click', () => switchLayer('street'));
   if (_histBtn) {
     _histBtn.disabled = true;
     _histBtn.title = '\u52A0\u8F7D\u4E2D...';
     _histBtn.addEventListener('click', () => switchLayer('historic'));
+  }
+  if (_topoBtn) {
+    _topoBtn.addEventListener('click', () => switchLayer('topo'));
   }
 }
 
@@ -91,13 +102,16 @@ function switchLayer(type) {
   const attr = _map.attributionControl;
   if (_currentLayer === 'satellite') _map.removeLayer(_satelliteLayer);
   else if (_currentLayer === 'street') _map.removeLayer(_streetLayer);
+  else if (_currentLayer === 'topo') _map.removeLayer(_topoLayer);
   else { if (_historicLayer) { _map.removeLayer(_historicLayer); } if (attr) attr.removeAttribution(_HISTORIC_ATTR); }
   _currentLayer = type;
   if (type === 'satellite') _satelliteLayer.addTo(_map);
   else if (type === 'street') _streetLayer.addTo(_map);
+  else if (type === 'topo') _topoLayer.addTo(_map);
   else if (_historicLayer) { _historicLayer.addTo(_map); if (attr) attr.addAttribution(_HISTORIC_ATTR); _applyHistoricDate(); }
   if (_satBtn) _satBtn.classList.toggle('active', type === 'satellite');
   if (_strBtn) _strBtn.classList.toggle('active', type === 'street');
+  if (_topoBtn) _topoBtn.classList.toggle('active', type === 'topo');
   if (_histBtn) _histBtn.classList.toggle('active', type === 'historic');
 }
 

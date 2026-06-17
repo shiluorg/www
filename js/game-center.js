@@ -41,7 +41,7 @@ export function _showCards() {
   const qs = new URLSearchParams({ page: 'game' });
   const lang = getCurrentLang();
   if (lang !== 'zh') qs.set('lang', lang);
-  history.pushState(null, '', '?' + qs.toString());
+  history.replaceState(null, '', '?' + qs.toString());
 }
 
 function _showGame(tab) {

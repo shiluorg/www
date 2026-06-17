@@ -178,6 +178,7 @@ const HashSearch = {
     }
     const data = await _fetchJSON(url);
     _memoryCache.set(url, data);
+    if (_memoryCache.size > 100) { const first = _memoryCache.keys().next().value; _memoryCache.delete(first); }
     if (_storageAvailable) {
       try { localStorage.setItem(_cacheKey(url), JSON.stringify(data)); } catch (_) { _storageAvailable = false; }
     }

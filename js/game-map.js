@@ -1,6 +1,6 @@
 import state from './state.js';
 import { t9n } from './i18n.js';
-import { ensureL } from './map-libs.js';
+import { ensureL, loadMaplibre } from './map-libs.js';
 import { _showCards, gameShare } from './game-center.js';
 
 let _map = null;
@@ -9,6 +9,8 @@ let _totalScore = 0;
 let _userMarker = null;
 let _correctMarker = null;
 let _line = null;
+let _satelliteLayer = null, _streetLayer = null, _topoLayer = null, _historicLayer = null;
+let _currentLayer = 'satellite';
 
 function haversine(lat1, lon1, lat2, lon2) {
   const R = 6371;
@@ -41,6 +43,23 @@ function _newQuestion(container, events) {
   if (nextBtn) nextBtn.classList.remove('show');
 }
 
+async function _initHistoricLayer(container) {
+  try {
+    await loadMaplibre();
+    if (!_historicLayer && typeof L.maplibreGL !== 'undefined') {
+      _historicLayer = L.maplibreGL({
+        style: 'https://www.openhistoricalmap.org/map-styles/main/main.json',
+        attributionControl: false
+      });
+      const histBtn = container.querySelector('#gm-layer-historic');
+      if (histBtn) {
+        histBtn.disabled = false;
+        histBtn.title = '';
+      }
+    }
+  } catch (_) {}
+}
+
 export async function initMapGame(container, events) {
   await ensureL();
   const dict = t9n();
@@ -51,7 +70,15 @@ export async function initMapGame(container, events) {
       <button class="game-share-btn" data-tab="map">📤</button>
     </div>
     <div class="map-game__question"></div>
-    <div id="map-game-map" class="map-game__map"></div>
+    <div class="map-game__map-area">
+      <div id="map-game-map" class="map-game__map"></div>
+      <div class="map-events__layer-toggle">
+        <button id="gm-layer-satellite" class="layer-btn active">${dict.layerSatellite}</button>
+        <button id="gm-layer-street" class="layer-btn">${dict.layerStreet}</button>
+        <button id="gm-layer-topo" class="layer-btn">${dict.layerTopo}</button>
+        <button id="gm-layer-historic" class="layer-btn">${dict.layerHistoric}</button>
+      </div>
+    </div>
     <div class="map-game__score">
       <span class="map-game__score-text">${dict.mapGameScore(0)}</span>
       <span class="map-game__total">${dict.mapGameTotal(0)}</span>
@@ -65,24 +92,70 @@ export async function initMapGame(container, events) {
   if (!mapEl) return;
 
   _map = L.map(mapEl, {
-    scrollWheelZoom: false,
+    scrollWheelZoom: true,
     doubleClickZoom: false,
     dragging: true,
-    zoomControl: true
+    zoomControl: true,
+    attributionControl: true
   }).setView([30, 40], 2);
 
-  // Satellite tiles (same as home page)
-  L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
-    attribution: '&copy; Esri',
-    maxZoom: 18
-  }).addTo(_map);
+  // Layer tiles (same as home page)
+  _satelliteLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+    maxZoom: 18, attribution: '&copy; Esri',
+    updateWhenIdle: false, updateWhenZooming: false
+  });
+  _streetLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
+    maxZoom: 18, attribution: '&copy; Esri',
+    updateWhenIdle: false, updateWhenZooming: false
+  });
+  _topoLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
+    maxZoom: 18, attribution: '&copy; Esri',
+    updateWhenIdle: false, updateWhenZooming: false
+  });
+  _satelliteLayer.addTo(_map);
+  _map.attributionControl.setPrefix('');
 
-  // Add labels
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>',
-    subdomains: 'abcd',
-    maxZoom: 18
-  }).addTo(_map);
+  const HISTORIC_ATTR = '&copy; OpenHistoricalMap';
+
+  // Layer switch function
+  function switchLayer(type) {
+    if (!_map || _currentLayer === type) return;
+    if (type === 'historic' && !_historicLayer) return;
+    const attr = _map.attributionControl;
+
+    if (_currentLayer === 'satellite') _map.removeLayer(_satelliteLayer);
+    else if (_currentLayer === 'street') _map.removeLayer(_streetLayer);
+    else if (_currentLayer === 'topo') _map.removeLayer(_topoLayer);
+    else if (_historicLayer) { _map.removeLayer(_historicLayer); if (attr) attr.removeAttribution(HISTORIC_ATTR); }
+
+    _currentLayer = type;
+    if (type === 'satellite') _satelliteLayer.addTo(_map);
+    else if (type === 'street') _streetLayer.addTo(_map);
+    else if (type === 'topo') _topoLayer.addTo(_map);
+    else if (_historicLayer) { _historicLayer.addTo(_map); if (attr) attr.addAttribution(HISTORIC_ATTR); }
+
+    const satBtn = container.querySelector('#gm-layer-satellite');
+    const strBtn = container.querySelector('#gm-layer-street');
+    const topoBtn = container.querySelector('#gm-layer-topo');
+    const histBtn = container.querySelector('#gm-layer-historic');
+    if (satBtn) satBtn.classList.toggle('active', type === 'satellite');
+    if (strBtn) strBtn.classList.toggle('active', type === 'street');
+    if (topoBtn) topoBtn.classList.toggle('active', type === 'topo');
+    if (histBtn) histBtn.classList.toggle('active', type === 'historic');
+  }
+
+  const gmSatBtn = container.querySelector('#gm-layer-satellite');
+  const gmStrBtn = container.querySelector('#gm-layer-street');
+  const gmTopoBtn = container.querySelector('#gm-layer-topo');
+  const gmHistBtn = container.querySelector('#gm-layer-historic');
+  if (gmSatBtn) gmSatBtn.addEventListener('click', () => switchLayer('satellite'));
+  if (gmStrBtn) gmStrBtn.addEventListener('click', () => switchLayer('street'));
+  if (gmTopoBtn) gmTopoBtn.addEventListener('click', () => switchLayer('topo'));
+  if (gmHistBtn) {
+    gmHistBtn.disabled = true;
+    gmHistBtn.title = '\u52A0\u8F7D\u4E2D...';
+    gmHistBtn.addEventListener('click', () => switchLayer('historic'));
+  }
 
   // Map click handler
   _map.on('click', function(e) {
@@ -165,4 +238,7 @@ export async function initMapGame(container, events) {
 
   // Start first question
   _newQuestion(container, events);
+
+  // Deferred load historic layer
+  _initHistoricLayer(container);
 }

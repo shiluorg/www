@@ -5,8 +5,9 @@ import { _showCards, _shuffle, gameShare } from './game-center.js';
 let _sortEvents = [];
 
 function _pickRandomEvents(events, count) {
-  if (events.length < count) return _shuffle(events);
-  return _shuffle(events).slice(0, count);
+  const picked = _shuffle(events).slice(0, Math.min(events.length, count));
+  picked.forEach((e, i) => { e._i = i; });
+  return picked;
 }
 
 function _renderList(container) {
@@ -14,7 +15,7 @@ function _renderList(container) {
   if (!list) return;
 
   list.innerHTML = _sortEvents.map((evt, i) => `
-    <div class="sort-game__item" draggable="true" data-idx="${i}">
+    <div class="sort-game__item" draggable="true" data-idx="${evt._i}">
       <span class="sort-game__item-order">${i + 1}</span>
       <span class="sort-game__item-text">${evt.t}</span>
       <span class="sort-game__item-desc">${(evt.s || '').substring(0, 60)}${(evt.s || '').length > 60 ? '…' : ''}</span>

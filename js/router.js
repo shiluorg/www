@@ -2,7 +2,7 @@ import state, { themeInit } from './state.js';
 import HashSearch from './hash-search.js';
 import { t9n, t, getCurrentLang, setLanguage, onLangChange, ZH } from './i18n.js';
 
-const _pages = ['home', 'events', 'detail', 'quiz', 'game'];
+const _pages = ['home', 'events', 'detail', 'game'];
 let _homeInitialized = false;
 let _errorTimer = null;
 const _regexCache = new Map();
@@ -78,18 +78,18 @@ export function setPageMeta(title, description, url, imageUrl) {
   // Update hreflang links
   const lang = getCurrentLang();
   const baseUrl = 'https://shilu.org';
-  const path = url ? new URL(url).search : '';
-  const zhUrl = baseUrl + (lang === 'zh' ? path : path.replace('?lang=en', '?lang=zh'));
-  const enUrl = baseUrl + (lang === 'en' ? path : path.replace('?lang=zh', '?lang=en'));
+  const qs = window.location.search;
+  const zhPath = qs ? qs.replace(/[?&]lang=en/, '').replace('&&', '&').replace(/\?&/, '?') : '';
+  const enPath = qs ? (qs.includes('lang=en') ? qs : (qs + (qs ? '&' : '?') + 'lang=en')) : '?lang=en';
   const hlZh = document.querySelector('link[hreflang="zh-CN"]');
   const hlEn = document.querySelector('link[hreflang="en"]');
   const hlXd = document.querySelector('link[hreflang="x-default"]');
-  if (hlZh) hlZh.setAttribute('href', zhUrl);
-  if (hlEn) hlEn.setAttribute('href', enUrl);
-  if (hlXd) hlXd.setAttribute('href', baseUrl + path.replace('?lang=en', ''));
+  if (hlZh) hlZh.setAttribute('href', baseUrl + zhPath);
+  if (hlEn) hlEn.setAttribute('href', baseUrl + enPath);
+  if (hlXd) hlXd.setAttribute('href', baseUrl + zhPath);
 }
 
-const _canonicalMap = { home: 'https://shilu.org/', events: 'https://shilu.org/?page=events', map: 'https://shilu.org/?page=game&tab=map', quiz: 'https://shilu.org/?page=game&tab=quiz', game: 'https://shilu.org/?page=game' };
+const _canonicalMap = { home: 'https://shilu.org/', events: 'https://shilu.org/?page=events', game: 'https://shilu.org/?page=game' };
 
 const _MAP_IMG = 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-180,-85,180,85&size=1200,630&format=png32&f=image';
 
@@ -103,20 +103,24 @@ function _genJsonLD(page, eventData) {
   const dict = t9n();
   const lang = getCurrentLang();
   const baseUrl = 'https://shilu.org';
-  const langSuffix = lang === 'en' ? '?lang=en' : '';
-  const pagePath = _canonicalMap[page] || '';
-  const pageUrl = baseUrl + langSuffix + (page === 'home' ? '' : pagePath.replace(/^[^?]*\?/, function(m) { return m ? '&' : '?'; }));
+  const qs = new URLSearchParams();
+  if (page !== 'home') qs.set('page', page);
+  if (lang === 'en') qs.set('lang', 'en');
+  const pageUrl = baseUrl + (qs.toString() ? '?' + qs.toString() : '');
+  const homeQs = new URLSearchParams();
+  if (lang === 'en') homeQs.set('lang', 'en');
+  const homeUrl = baseUrl + (homeQs.toString() ? '?' + homeQs.toString() : '');
   const breadcrumb = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     'itemListElement': [
-      { '@type': 'ListItem', 'position': 1, 'name': dict.siteName, 'item': baseUrl + langSuffix }
+      { '@type': 'ListItem', 'position': 1, 'name': dict.siteName, 'item': homeUrl }
     ]
   };
   if (page === 'events') {
     breadcrumb.itemListElement.push({ '@type': 'ListItem', 'position': 2, 'name': dict.navEvents, 'item': pageUrl });
   } else if (eventData) {
-    breadcrumb.itemListElement.push({ '@type': 'ListItem', 'position': 2, 'name': dict.navEvents, 'item': baseUrl + langSuffix + '?page=events' });
+    breadcrumb.itemListElement.push({ '@type': 'ListItem', 'position': 2, 'name': dict.navEvents, 'item': homeUrl + (homeQs.toString() ? '&' : '?') + 'page=events' });
     breadcrumb.itemListElement.push({ '@type': 'ListItem', 'position': 3, 'name': eventData.t, 'item': pageUrl });
   } else if (page === 'game') {
     breadcrumb.itemListElement.push({ '@type': 'ListItem', 'position': 2, 'name': dict.navGames, 'item': pageUrl });
@@ -157,7 +161,7 @@ function _genJsonLD(page, eventData) {
       '@context': 'https://schema.org',
       '@type': 'WebSite',
       'name': dict.siteName,
-      'url': baseUrl + langSuffix,
+      'url': homeUrl,
       'description': dict.pageDescription.home,
       'inLanguage': lang === 'zh' ? 'zh-CN' : 'en',
       'applicationCategory': 'EducationalApplication',
@@ -303,9 +307,11 @@ function _applyI18n() {
   setText('#map-empty-hint', dict.mapEmpty);
   setText('#layer-satellite', dict.layerSatellite);
   setText('#layer-street', dict.layerStreet);
+  setText('#layer-topo', dict.layerTopo);
   setText('#layer-historic', dict.layerHistoric);
   setText('#dl-satellite', dict.layerSatellite);
   setText('#dl-street', dict.layerStreet);
+  setText('#dl-topo', dict.layerTopo);
   setText('#dl-historic', dict.layerHistoric);
   // Shortcut panel
   setText('#shortcut-panel h3', dict.shortcutTitle);

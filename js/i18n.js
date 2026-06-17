@@ -40,6 +40,7 @@ const LOCALE = {
     mapEmpty: '该年份暂无记录事件',
     layerSatellite: '卫星',
     layerStreet: '街道',
+    layerTopo: '地形',
     layerHistoric: '历史',
     // Event detail panel
     detailTitle: '事件详情',
@@ -227,6 +228,7 @@ const LOCALE = {
     mapEmpty: 'No events recorded for this year',
     layerSatellite: 'Satellite',
     layerStreet: 'Street',
+    layerTopo: 'Topo',
     layerHistoric: 'Historical',
     // Event detail panel
     detailTitle: 'Event Details',
@@ -434,13 +436,13 @@ export function onLangChange(fn) {
 }
 
 export function t9n(lang) {
-  const l = lang || _lang._current || _detectLang();
+  const l = lang || _lang._current;
   return LOCALE[l] || LOCALE[ZH];
 }
 
 export function t(key, ...args) {
   const dict = t9n();
-  const val = key.split('.').reduce((o, k) => o && o[k] !== undefined ? o[k] : undefined, dict);
+  const val = dict[key];
   if (typeof val === 'function') return val(...args);
   return val !== undefined ? val : key;
 }
