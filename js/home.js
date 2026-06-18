@@ -5,16 +5,17 @@ import state from './state.js';
 import { routeTo, setRouterState, getState, _searchShow, _searchClose, nearestYear, _showError, _fmtYear, setPageMeta } from './router.js';
 import { t9n, t } from './i18n.js';
 import { showPreview } from './share-card.js';
-import { ensureL } from './map-libs.js';
+import { ensureL, getTileConfigSync } from './map-libs.js';
 
 let _homeEvents = [];
 let _dynastyYearMap = null;
 let _currentDetailEvent = null;
 let _detailPageEvent = null;
 let _detailMap = null;
-let _detailMapLayers = { satellite: null, street: null, topo: null, historic: null };
+let _detailMapLayers = { satellite: null, street: null, historic: null };
 let _detailMapCurrent = 'satellite';
 let _detailHistoricYear = null;
+const SI_VERSION = 3;
 
 function _getDynastyId(year) {
   if (!_dynastyYearMap) {
@@ -27,6 +28,9 @@ function _getDynastyId(year) {
   const ad = eras.find(d => year >= d.start && year <= d.end);
   const id = ad ? ad.id : null;
   _dynastyYearMap.set(year, id);
+  if (_dynastyYearMap.size > 1000) {
+    _dynastyYearMap.delete(_dynastyYearMap.keys().next().value);
+  }
   return id;
 }
 
@@ -102,13 +106,28 @@ async function _navigateToYear(year) {
   await _loadAndShowEvents(year);
 }
 
-async function _buildSearchIndex(onProgress) {
+// Shared helper to load search index from sessionStorage cache
+function _loadSearchIndexFromCache() {
   const SK = 'shilu_search_index_' + state.lang;
-  const SI_VERSION = 3;
   try {
     const c = sessionStorage.getItem(SK);
-    if (c) { const p = JSON.parse(c); if (p && p._version === SI_VERSION && p._events && p._events.length > 7000) { state.searchIndex = p; state.searchIndexReady = true; return; } }
+    if (c) {
+      const p = JSON.parse(c);
+      if (p && p._version === SI_VERSION && p._events && p._events.length > 7000) {
+        state.searchIndex = p;
+        state.searchIndexReady = true;
+        return p;
+      }
+    }
   } catch (_) {}
+  return null;
+}
+
+async function _buildSearchIndex(onProgress) {
+  const SK = 'shilu_search_index_' + state.lang;
+
+  // Try loading from sessionStorage cache
+  if (_loadSearchIndexFromCache()) return;
 
   const all = [];
   const prefix = state.lang + '/';
@@ -181,7 +200,8 @@ function _renderAllEvents(events) {
   if (events.length === 0) { list.innerHTML = `<div class="no-match">${t('noMatch')}</div>`; return; }
   let html = '';
   for (const e of events) {
-    const d = (e.s || '').substring(0, 80) + ((e.s || '').length > 80 ? '…' : '');
+    const s = e.s || '';
+    const d = s.substring(0, 80) + (s.length > 80 ? '…' : '');
     html += `<div class="event-item" data-year="${e.y}" data-title="${e.t.replace(/"/g, '&quot;')}" data-idx="${e._i}">
       <div class="event-year">${_fmtYear(e.y)}</div>
       <div class="event-body">
@@ -214,13 +234,11 @@ async function initEventsPage() {
   _activeFilters = { category: new Set() };
   const loading = document.getElementById('events-loading'), inp = document.getElementById('events-filter');
   if (loading) { loading.classList.remove('hidden'); }
-  if (state.searchIndex && state.searchIndex._version === 3 && state.searchIndex._events && state.searchIndex._events.length > 7000) {
+  if (state.searchIndex && state.searchIndex._events && state.searchIndex._events.length > 7000) {
     _allEventsCache = state.searchIndex._events;
   } else {
-    try {
-      const c = sessionStorage.getItem('shilu_search_index_' + state.lang);
-      if (c) { const p = JSON.parse(c); if (p && p._version === 3 && p._events && p._events.length > 7000) { _allEventsCache = p._events; state.searchIndex = p; state.searchIndexReady = true; } }
-    } catch (_) {}
+    const cached = _loadSearchIndexFromCache();
+    if (cached) _allEventsCache = cached._events;
   }
   if (!_allEventsCache.length) {
     _allEventsCache = await HashSearch.getAllEvents(null, state.lang);
@@ -269,21 +287,17 @@ async function _initDetailMap(evt, year) {
     scrollWheelZoom: false
   });
 
-  _detailMapLayers.satellite = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+  const tiles = getTileConfigSync();
+
+  _detailMapLayers.satellite = L.tileLayer(tiles.satellite, {
     maxZoom: 18,
-    attribution: '&copy; Esri',
+    attribution: tiles.attr,
     updateWhenIdle: false, updateWhenZooming: false
   });
 
-  _detailMapLayers.street = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
+  _detailMapLayers.street = L.tileLayer(tiles.street, {
     maxZoom: 18,
-    attribution: '&copy; Esri',
-    updateWhenIdle: false, updateWhenZooming: false
-  });
-
-  _detailMapLayers.topo = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
-    maxZoom: 18,
-    attribution: '&copy; Esri',
+    attribution: tiles.streetAttr || tiles.attr,
     updateWhenIdle: false, updateWhenZooming: false
   });
 
@@ -318,7 +332,6 @@ async function _initDetailMap(evt, year) {
 
     if (_detailMapCurrent === 'satellite') _detailMap.removeLayer(_detailMapLayers.satellite);
     else if (_detailMapCurrent === 'street') _detailMap.removeLayer(_detailMapLayers.street);
-    else if (_detailMapCurrent === 'topo') _detailMap.removeLayer(_detailMapLayers.topo);
     else if (_detailMapLayers.historic) {
       _detailMap.removeLayer(_detailMapLayers.historic);
       if (attr) attr.removeAttribution(HISTORIC_ATTR);
@@ -327,7 +340,6 @@ async function _initDetailMap(evt, year) {
     _detailMapCurrent = type;
     if (type === 'satellite') _detailMapLayers.satellite.addTo(_detailMap);
     else if (type === 'street') _detailMapLayers.street.addTo(_detailMap);
-    else if (type === 'topo') _detailMapLayers.topo.addTo(_detailMap);
     else if (_detailMapLayers.historic) {
       _detailMapLayers.historic.addTo(_detailMap);
       if (attr) attr.addAttribution(HISTORIC_ATTR);
@@ -347,14 +359,10 @@ async function _initDetailMap(evt, year) {
     if (satBtn) satBtn.classList.toggle('active', type === 'satellite');
     if (strBtn) strBtn.classList.toggle('active', type === 'street');
     if (histBtn) histBtn.classList.toggle('active', type === 'historic');
-    const topoBtn = document.getElementById('dl-topo');
-    if (topoBtn) topoBtn.classList.toggle('active', type === 'topo');
   };
 
   if (satBtn && !satBtn.dataset.linked) { satBtn.dataset.linked = '1'; satBtn.addEventListener('click', () => switchDetailLayer('satellite')); }
   if (strBtn && !strBtn.dataset.linked) { strBtn.dataset.linked = '1'; strBtn.addEventListener('click', () => switchDetailLayer('street')); }
-  const topoBtn2 = document.getElementById('dl-topo');
-  if (topoBtn2 && !topoBtn2.dataset.linked) { topoBtn2.dataset.linked = '1'; topoBtn2.addEventListener('click', () => switchDetailLayer('topo')); }
   if (histBtn && !histBtn.dataset.linked) {
     histBtn.dataset.linked = '1';
     if (!_detailMapLayers.historic) {
@@ -407,10 +415,18 @@ async function initDetailPage(params) {
 
     // Ensure map renders correctly after content becomes visible
     setTimeout(() => { if (_detailMap) _detailMap.invalidateSize(); }, 100);
-    document.getElementById('detail-year-display').textContent = _fmtYear(year);
-    document.getElementById('detail-title-display').textContent = evt.t;
-    document.getElementById('detail-tags').innerHTML = ['c','r','o'].filter(k => evt[k]).map(k => `<span class="event-tag${k==='r'?' region':k==='o'?' continent':''}">${evt[k]}</span>`).join('');
-    document.getElementById('detail-desc-text').innerHTML = (evt.s || dict.noDescription) + `<br><small>${dict.disclaimer}</small>`;
+    {
+      const el = document.getElementById('detail-year-display'); if (el) el.textContent = _fmtYear(year);
+    }
+    {
+      const el = document.getElementById('detail-title-display'); if (el) el.textContent = evt.t;
+    }
+    {
+      const el = document.getElementById('detail-tags'); if (el) el.innerHTML = ['c','r','o'].filter(k => evt[k]).map(k => `<span class="event-tag${k==='r'?' region':k==='o'?' continent':''}">${evt[k]}</span>`).join('');
+    }
+    {
+      const el = document.getElementById('detail-desc-text'); if (el) el.innerHTML = (evt.s || dict.noDescription) + `<br><small>${dict.disclaimer}</small>`;
+    }
     if (entry.d && entry.d.length > 0) {
       const de = document.getElementById('detail-dynasty'); if (de) de.classList.remove('hidden');
       const dh = document.getElementById('detail-dynasty-heading'); if (dh) dh.textContent = dict.dynastySection;
@@ -463,7 +479,7 @@ function _searchInit() {
       clearTimeout(_searchTimer);
       const q = inp.value.trim();
       if (q.length < 2) { const r = document.getElementById('search-results'), s = document.getElementById('search-status'); if (r) r.innerHTML = ''; if (s) s.textContent = ''; return; }
-      if (!state.searchIndexReady) HashSearch.preloadAll(null, state.lang);
+      if (!state.searchIndexReady) _buildSearchIndex();
       _searchTimer = setTimeout(() => _searchShow(q, _searchMode), 150);
     });
     inp.addEventListener('keydown', e => { if (e.key === 'Escape') _searchClose(); if (e.key === 'Enter') { clearTimeout(_searchTimer); const q = inp.value.trim(); if (q.length >= 2) _searchShow(q, _searchMode); } });

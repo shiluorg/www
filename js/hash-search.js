@@ -207,6 +207,14 @@ const HashSearch = {
     return ['0001-0100.json','0101-0200.json','0201-0300.json','0301-0400.json','0401-0500.json','0501-0600.json','0601-0700.json','0701-0800.json','0801-0900.json','0901-1000.json','1001-1100.json','1101-1200.json','1201-1300.json','1301-1400.json','1401-1500.json','1501-1600.json','1601-1700.json','1701-1800.json','1801-1900.json','1901-2000.json','bc-0100-0001.json','bc-0200-0101.json','bc-0300-0201.json','bc-0400-0301.json','bc-0500-0401.json','bc-0600-0501.json','bc-0700-0601.json','bc-0800-0701.json','bc-0900-0801.json','bc-1000-0901.json','bc-2000-1001.json','bc-9600-2001.json'];
   },
 
+  async getEventCount(lang) {
+    const l = lang || getCurrentLang();
+    const files = this.getAllFileNames().map(f => _getLangPrefix(l) + f);
+    let total = 0;
+    await _forEachFileChunk(files, async f => { try { const d = await this.get(f); if (Array.isArray(d)) { for (const entry of d) { if (entry && entry.v) total += entry.v.length; } } } catch (_) {} });
+    return total;
+  },
+
   async getYearData(year, lang) {
     const l = lang || getCurrentLang();
     const fileName = this.getFileName(year);
@@ -249,18 +257,15 @@ const HashSearch = {
       for (let i = 1; i < data.years_delta_rle.length; i += 2) {
         totalLen += data.years_delta_rle[i];
       }
-      const deltas = new Array(totalLen);
-      let di = 0;
+      years = new Array(totalLen);
+      let yi = 0;
       for (let i = 0; i < data.years_delta_rle.length; i += 2) {
-        const val = data.years_delta_rle[i];
+        const delta = data.years_delta_rle[i];
         const count = data.years_delta_rle[i + 1];
         for (let j = 0; j < count; j++) {
-          deltas[di++] = val;
+          years[yi] = (yi === 0) ? delta : years[yi - 1] + delta;
+          yi++;
         }
-      }
-      years = [deltas[0]];
-      for (let i = 1; i < deltas.length; i++) {
-        years.push(years[years.length - 1] + deltas[i]);
       }
     } else if (data.years_delta) {
       years = [data.years_delta[0]];
@@ -272,7 +277,7 @@ const HashSearch = {
     }
     return {
       years: years,
-      yearIndex: years.length ? Object.fromEntries(years.map((y, i) => [y, i])) : {}
+      yearIndex: (() => { const idx = {}; for (let i = 0; i < years.length; i++) idx[years[i]] = i; return idx; })()
     };
   },
 

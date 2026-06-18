@@ -1,7 +1,7 @@
 import HashSearch from './hash-search.js';
 import state from './state.js';
 import { t9n } from './i18n.js';
-import { gameShare } from './game-center.js';
+import { gameShare, _shuffle } from './game-center.js';
 
 const _fmtYear = HashSearch.formatYear;
 
@@ -10,12 +10,10 @@ const QK = 'shilu_quiz_level';
 let _qEvents = [], _qLevel = 0, _qCorrect = null, _qType = null, _qAnswered = false;
 let _quizInitialized = false;
 let _qContainer = null;
-let _quizFooterAdded = false;
 
 function _qEl(id) { return _qContainer.querySelector('#' + id); }
 
 function _qRealm(l, realms) { for (const r of realms) { if (l >= r.s && l <= r.e) return r; } return realms[0]; }
-function _qShuffle(a) { const b = [...a]; for (let i = b.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [b[i], b[j]] = [b[j], b[i]]; } return b; }
 
 function _qUpdateUI() {
   const dict = t9n();
@@ -45,15 +43,15 @@ function _qGen() {
     _qType = 'year';
     const ws = new Set(); ws.add(_qCorrect.y);
     while (ws.size < 4) { const re = _qEvents[Math.floor(Math.random() * _qEvents.length)]; if (re.y !== _qCorrect.y) ws.add(re.y); }
-    const yo = _qShuffle([...ws]);
+    const yo = _shuffle([...ws]);
     if (qType) qType.textContent = dict.quizTypeYear;
     if (qText) qText.innerHTML = dict.quizQTextYear(_qCorrect.t);
     if (opts) opts.innerHTML = yo.map((y, i) => `<button class="option-btn" data-value="${y}" data-correct="${y === _qCorrect.y}"><span class="opt-label">${'ABCD'[i]}.</span> ${_fmtYear(y)}</button>`).join('');
   } else {
     _qType = 'event';
     const pool = _qEvents.filter(e => e.y !== _qCorrect.y);
-    const picked = _qShuffle(pool).slice(0, 3);
-    const all = _qShuffle([{ title: _qCorrect.t, year: _qCorrect.y, correct: true }, ...picked.map(e => ({ title: e.t, year: e.y, correct: false }))]);
+    const picked = _shuffle(pool).slice(0, 3);
+    const all = _shuffle([{ title: _qCorrect.t, year: _qCorrect.y, correct: true }, ...picked.map(e => ({ title: e.t, year: e.y, correct: false }))]);
     if (qType) qType.textContent = dict.quizTypeEvent;
     if (qText) qText.innerHTML = dict.quizQTextEvent(_fmtYear(_qCorrect.y));
     if (opts) opts.innerHTML = all.map((o, i) => `<button class="option-btn" data-value="${o.title.replace(/"/g,'&quot;')}" data-correct="${o.correct}"><span class="opt-label">${'ABCD'[i]}.</span> ${o.title}</button>`).join('');
@@ -102,7 +100,6 @@ export async function initQuizGame(container, existingEvents) {
     if (loading) loading.classList.add('hidden');
     if (game) game.classList.remove('hidden');
     _qLoad(); _qUpdateUI(); _qGen();
-    _addQuizFooter();
     return;
   }
 
@@ -117,17 +114,4 @@ export async function initQuizGame(container, existingEvents) {
   if (loading) loading.classList.add('hidden');
   if (game) game.classList.remove('hidden');
   _qLoad(); _qUpdateUI(); _qGen();
-  _addQuizFooter();
-}
-
-function _addQuizFooter() {
-  if (_quizFooterAdded) return;
-  _quizFooterAdded = true;
-  const dict = t9n();
-  const panel = _qContainer || document.getElementById('game-panel-quiz');
-  if (!panel) return;
-  const footer = document.createElement('div');
-  footer.className = 'game-footer';
-  footer.innerHTML = dict.footerPrefix + '<span>' + (state.searchIndex?._events?.length || 7275) + '</span>' + dict.footerSuffix;
-  panel.appendChild(footer);
 }

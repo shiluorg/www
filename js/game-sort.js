@@ -1,4 +1,3 @@
-import state from './state.js';
 import { t9n } from './i18n.js';
 import { _showCards, _shuffle, gameShare } from './game-center.js';
 
@@ -60,8 +59,10 @@ function _bindDrag(list) {
       e.preventDefault();
       el.classList.remove('drag-over');
       if (dragSrc && dragSrc !== el) {
-        const from = parseInt(dragSrc.dataset.idx);
-        const to = parseInt(el.dataset.idx);
+        const srcIdx = parseInt(dragSrc.dataset.idx);
+        const targetIdx = parseInt(el.dataset.idx);
+        const from = _sortEvents.findIndex(e => e._i === srcIdx);
+        const to = _sortEvents.findIndex(e => e._i === targetIdx);
         const [moved] = _sortEvents.splice(from, 1);
         _sortEvents.splice(to, 0, moved);
         _renderList(list.closest('.game-panel'));
@@ -109,7 +110,6 @@ export function initSortGame(container, events) {
     <div class="sort-game__feedback"></div>
     <div class="sort-game__score"></div>
     <button class="sort-game__submit">${dict.sortGameSubmit}</button>
-    <div class="game-footer">${dict.footerPrefix}<span>${state.searchIndex?._events?.length || 7275}</span>${dict.footerSuffix}</div>
   `;
 
   const shareBtn = container.querySelector('.game-share-btn');

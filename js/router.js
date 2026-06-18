@@ -15,7 +15,7 @@ function _getHomeOnlyEls() {
 }
 
 export function getState() {
-  return { _homeInitialized, _errorTimer };
+  return { _homeInitialized };
 }
 
 export function setRouterState(key, value) {
@@ -44,10 +44,6 @@ function _showPage(name) {
     const el = document.getElementById(`page-${p}`);
     if (el) el.classList.toggle('hidden', p !== name);
   });
-  if (name === 'quiz') {
-    const gamePage = document.getElementById('page-game');
-    if (gamePage) gamePage.classList.remove('hidden');
-  }
   _getHomeOnlyEls().forEach(el => el.classList.toggle('hidden', name !== 'home'));
 }
 
@@ -110,6 +106,10 @@ function _genJsonLD(page, eventData) {
   const homeQs = new URLSearchParams();
   if (lang === 'en') homeQs.set('lang', 'en');
   const homeUrl = baseUrl + (homeQs.toString() ? '?' + homeQs.toString() : '');
+  const eventsQs = new URLSearchParams();
+  eventsQs.set('page', 'events');
+  if (lang === 'en') eventsQs.set('lang', 'en');
+  const eventsUrl = baseUrl + '?' + eventsQs.toString();
   const breadcrumb = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
@@ -120,7 +120,7 @@ function _genJsonLD(page, eventData) {
   if (page === 'events') {
     breadcrumb.itemListElement.push({ '@type': 'ListItem', 'position': 2, 'name': dict.navEvents, 'item': pageUrl });
   } else if (eventData) {
-    breadcrumb.itemListElement.push({ '@type': 'ListItem', 'position': 2, 'name': dict.navEvents, 'item': homeUrl + (homeQs.toString() ? '&' : '?') + 'page=events' });
+    breadcrumb.itemListElement.push({ '@type': 'ListItem', 'position': 2, 'name': dict.navEvents, 'item': eventsUrl });
     breadcrumb.itemListElement.push({ '@type': 'ListItem', 'position': 3, 'name': eventData.t, 'item': pageUrl });
   } else if (page === 'game') {
     breadcrumb.itemListElement.push({ '@type': 'ListItem', 'position': 2, 'name': dict.navGames, 'item': pageUrl });
@@ -300,6 +300,9 @@ function _applyI18n() {
   setText('.search-mode-btn[data-mode="combined"]', dict.modeCombined);
   setText('.search-mode-btn[data-mode="exact"]', dict.modeExact);
   setText('.search-mode-btn[data-mode="fuzzy"]', dict.modeFuzzy);
+  setAttr('.search-mode-btn[data-mode="combined"]', 'title', dict.searchModeCombined);
+  setAttr('.search-mode-btn[data-mode="exact"]', 'title', dict.searchModeExact);
+  setAttr('.search-mode-btn[data-mode="fuzzy"]', 'title', dict.searchModeFuzzy);
   // Timeline ARIA
   setAttr('#dynasty-canvas', 'aria-label', dict.dynastyAria);
   setAttr('#calendar-canvas', 'aria-label', dict.calendarAria);
@@ -307,11 +310,9 @@ function _applyI18n() {
   setText('#map-empty-hint', dict.mapEmpty);
   setText('#layer-satellite', dict.layerSatellite);
   setText('#layer-street', dict.layerStreet);
-  setText('#layer-topo', dict.layerTopo);
   setText('#layer-historic', dict.layerHistoric);
   setText('#dl-satellite', dict.layerSatellite);
   setText('#dl-street', dict.layerStreet);
-  setText('#dl-topo', dict.layerTopo);
   setText('#dl-historic', dict.layerHistoric);
   // Shortcut panel
   setText('#shortcut-panel h3', dict.shortcutTitle);
@@ -336,6 +337,8 @@ function _applyI18n() {
   setText('.quiz__level-title', dict.quizLevelTitle);
   setText('#quiz-next', dict.quizNext);
   setText('#quiz-reset', dict.quizReset);
+  // Game Center
+  setText('#game-loading span', dict.gameLoading);
   // Footer
   setText('.footer-prefix', dict.footerPrefix);
   setText('.footer-suffix', dict.footerSuffix);
@@ -361,7 +364,7 @@ export async function handleRoute() {
   try {
     const p = new URLSearchParams(window.location.search);
     const rawPage = p.get('page') || 'home';
-    const page = rawPage === 'map' ? 'home' : rawPage;
+    const page = rawPage === 'map' ? 'home' : rawPage === 'quiz' ? 'game' : rawPage;
     const pObj = {}; for (const [k, v] of p) pObj[k] = v;
 
     _showPage(page);
@@ -401,12 +404,6 @@ export async function handleRoute() {
         _updatePageMeta('detail', evtData);
         break;
       }
-      case 'quiz': {
-        themeInit();
-        const { initGameCenter } = await import('./game-center.js');
-        await initGameCenter('quiz');
-        break;
-      }
       case 'game': {
         themeInit();
         const { initGameCenter } = await import('./game-center.js');
@@ -419,6 +416,11 @@ export async function handleRoute() {
         break;
       }
     }
+    // Update footer event count (fire-and-forget)
+    HashSearch.getEventCount().then(count => {
+      const el = document.getElementById('footer-count');
+      if (el && count > 0) el.textContent = count;
+    }).catch(() => {});
   } catch (e) {
     console.error('[Shilu] Route handler error:', e);
   }

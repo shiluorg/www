@@ -1,4 +1,3 @@
-import state from './state.js';
 import { t9n } from './i18n.js';
 import { _showCards, _shuffle, gameShare } from './game-center.js';
 
@@ -45,9 +44,12 @@ function _renderCards(container, matchData) {
   const grid = container.querySelector('.match-game__grid');
   if (!grid) return;
 
+  const pairCount = Math.min(matchData.chinese.length, matchData.foreign.length);
+  const chinese = matchData.chinese.slice(0, pairCount);
+  const foreign = matchData.foreign.slice(0, pairCount);
   _matchCards = _shuffle([
-    ...matchData.chinese.map(e => ({ ...e, tag: _isChinese(e) ? '中' : '外', year: matchData.year })),
-    ...matchData.foreign.map(e => ({ ...e, tag: '外', year: matchData.year }))
+    ...chinese.map(e => ({ ...e, tag: '中', year: matchData.year })),
+    ...foreign.map(e => ({ ...e, tag: '外', year: matchData.year }))
   ]);
 
   _matchedCount = 0;
@@ -89,7 +91,7 @@ function _onCardClick(container, cardEl) {
   } else {
     // Second selection - check match
     const first = _selectedCard;
-    if (first.card.year === card.year) {
+    if (first.card.year === card.year && first.card.tag !== card.tag) {
       // Match!
       first.el.classList.remove('selected');
       first.el.classList.add('matched');
@@ -138,7 +140,6 @@ export function initMatchGame(container, events) {
     <div class="match-game__pick">${dict.matchGamePick}</div>
     <div class="match-game__grid"></div>
     <button class="match-game__new">${dict.matchGameNew}</button>
-    <div class="game-footer">${dict.footerPrefix}<span>${state.searchIndex?._events?.length || 7275}</span>${dict.footerSuffix}</div>
   `;
 
   const shareBtn = container.querySelector('.game-share-btn');
@@ -153,7 +154,7 @@ export function initMatchGame(container, events) {
     const matchData = _findMatchYear(events);
     if (!matchData) {
       const grid = container.querySelector('.match-game__grid');
-      if (grid) grid.innerHTML = '<div style="text-align:center;padding:20px;color:var(--color-text-muted);">No matching events found</div>';
+      if (grid) grid.innerHTML = `<div style="text-align:center;padding:20px;color:var(--color-text-muted);">${dict.noMatch}</div>`;
       return;
     }
     _renderCards(container, matchData);

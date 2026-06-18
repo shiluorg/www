@@ -3,8 +3,7 @@ const STATIC_ASSETS = [
   '/',
   '/index.html',
   '/style.css',
-  '/js/app.js',
-  '/content-years.json'
+  '/js/app.js'
 ];
 
 // Install: pre-cache critical static assets
@@ -87,7 +86,7 @@ self.addEventListener('fetch', event => {
   }
 
   // Strategy 4: Cache-First for static assets (JS, CSS, images, fonts)
-  if (/\.(js|css|png|jpg|jpeg|gif|svg|ico|woff2?)$/.test(path) || path === '/') {
+  if (path.endsWith('.js') || path.endsWith('.css') || path === '/') {
     event.respondWith(
       caches.match(event.request).then(cached => {
         const fetchPromise = fetch(event.request).then(response => {

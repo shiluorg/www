@@ -320,6 +320,7 @@ html, body {
   padding: var(--spacing-md);
   overflow-y: auto;
   flex: 1;
+  contain: layout style;
 }
 
 .event-detail__category,
@@ -373,6 +374,7 @@ html, body {
   flex-wrap: wrap;
   align-content: flex-start;
   gap: 0 12px;
+  contain: layout style;
 }
 
 .event-region-group {
@@ -520,10 +522,8 @@ html, body {
   animation: spin 0.8s linear infinite;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  @keyframes spin {
-    to { transform: rotate(360deg); }
-  }
+@keyframes spin {
+  to { transform: rotate(360deg); }
 }
 
 .err-toast {
@@ -615,6 +615,7 @@ html, body {
   flex: 1;
   overflow-y: auto;
   padding: 0;
+  contain: layout style;
 }
 
 .search-panel__status {
@@ -771,7 +772,6 @@ kbd {
   z-index: 1000;
 }
 
-/* Leaflet applies inline styles on tooltips; !important is necessary to override them */
 .leaflet-tooltip {
   /* Box model */
   padding: 6px 10px !important;
@@ -787,8 +787,6 @@ kbd {
   white-space: nowrap;
 }
 
-/* !important kept because Leaflet generates the tooltip arrow via border-color on
-   the ::before pseudo-element with an inline style in the z-index stacking context */
 .leaflet-tooltip::before {
   border-top-color: var(--color-surface) !important;
 }
@@ -810,6 +808,7 @@ kbd {
     flex: 2;
     max-height: 50vh;
     overflow-y: auto;
+    contain: layout style;
   }
 
   .header {
@@ -915,6 +914,10 @@ kbd {
     width: 12px;
     height: 12px;
   }
+
+  .events__list .event-year { min-width: 70px; font-size: 11px; }
+  .events__filter-bar { padding: 3px 8px 4px; }
+  .filter-chip { font-size: 10px; padding: 0 6px; }
 }
 
 @media (min-width: 768px) and (max-width: 1199px) {
@@ -1069,6 +1072,7 @@ kbd {
   flex: 1;
   overflow-y: auto;
   padding: 0;
+  contain: layout style;
 }
 
 .events__list:empty {
@@ -1147,18 +1151,12 @@ kbd {
   max-width: 600px;
 }
 
-@media (max-width: 767px) {
-  .events__list .event-year { min-width: 70px; font-size: 11px; }
-  .events__filter-bar { padding: 3px 8px 4px; }
-  .filter-chip { font-size: 10px; padding: 0 6px; }
-}
-
 @media (max-width: 480px) {
   .events__list .event-desc { max-width: none; }
 }
 
 /* Detail page */
-.page--detail .page-content-inner { overflow-y: auto; overflow-x: hidden; padding: 24px 16px; }
+.page--detail .page-content-inner { overflow-y: auto; overflow-x: hidden; padding: 24px 16px; contain: layout style; }
 
 .detail-header-bar {
   display: flex;
@@ -1190,7 +1188,7 @@ kbd {
   color: var(--color-text-muted);
 }
 
-.quiz__game { flex:1; display:flex; flex-direction:column; padding:12px 16px; overflow-y:auto; min-height:0; }
+.quiz__game { flex:1; display:flex; flex-direction:column; padding:12px 16px; overflow-y:auto; min-height:0; contain: layout style; }
 .quiz__game.hidden { display:none; }
 .quiz__level-section { text-align:center; margin-bottom:8px; }
 .quiz__level-title { font-size:12px; color:var(--color-text-muted); margin-bottom:4px; }
@@ -1258,7 +1256,6 @@ kbd {
 
 .detail__layout {
   display: flex;
-  gap: 0;
   flex: 1;
   min-height: 0;
   overflow: hidden;
@@ -1269,6 +1266,7 @@ kbd {
   overflow-y: auto;
   padding: 24px;
   min-width: 0;
+  contain: layout style;
 }
 
 .detail__map-container {
@@ -1449,6 +1447,7 @@ kbd {
 
 /* Home events empty state */
 .home-events__empty {
+  width: 100%;
   color: var(--color-text-muted);
   font-size: 12px;
   padding: 8px;
@@ -1721,7 +1720,7 @@ kbd {
 }
 
 /* Game page layout */
-.page--game .page-content-inner { overflow-y: auto; }
+.page--game .page-content-inner { overflow-y: auto; contain: layout style; }
 .page--game.page--game-inplay .game-center__header { display: none; }
 .page--game.page--game-inplay .page-content-inner { padding: 0; overflow: hidden; }
 .page--game.page--game-inplay .game-panel:not(.hidden) { position: fixed; inset: 0; padding-top: var(--header-height); z-index: 50; background: var(--color-bg); display: flex; flex-direction: column; }
@@ -1730,7 +1729,7 @@ kbd {
 .page--game.page--game-inplay .game-share-btn { width: 32px; height: 32px; border: 1px solid var(--color-border); border-radius: 50%; background: var(--color-surface); color: var(--color-text); cursor: pointer; font-size: 15px; display: flex; align-items: center; justify-content: center; transition: all 0.15s; -webkit-tap-highlight-color: transparent; }
 .page--game.page--game-inplay .game-share-btn:hover { border-color: var(--color-accent); }
 .page--game.page--game-inplay .game-share-btn:active { transform: scale(0.9); }
-.game-footer { text-align: center; padding: 6px 12px; font-size: 10px; color: var(--color-text-muted); border-top: 1px solid var(--color-border); flex-shrink: 0; background: var(--color-surface); }
+
 .page--game.page--game-inplay .map-game__question { margin: 8px 12px 4px; border-radius: 12px; flex-shrink: 0; }
 .page--game.page--game-inplay .map-game__map-area { flex: 1; position: relative; min-height: 200px; }
 .page--game.page--game-inplay .map-game__map { position: absolute; inset: 0; height: auto; border-radius: 0; border: none; margin: 0; }

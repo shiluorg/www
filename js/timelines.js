@@ -104,7 +104,8 @@ function dynastyDraw() {
   });
 }
 function _dynastyDrawNow() {
-  const ctx = _state.ctxD, w = _state.canvasD.width / (window.devicePixelRatio || 1), h = _state.canvasD.height / (window.devicePixelRatio || 1);
+  const dpr = window.devicePixelRatio || 1;
+  const ctx = _state.ctxD, w = _state.canvasD.width / dpr, h = _state.canvasD.height / dpr;
   ctx.clearRect(0, 0, w, h);
   const px = 8, by = h * 0.15, bh = h * 0.7, drawW = _dw(w, px), r = 3, layout = _dynastyLayout(drawW);
   let xo = px;
@@ -174,7 +175,7 @@ function calendarDraw() {
   });
 }
 function _getCalendarTicks(drawW) {
-  const key = drawW + '|' + state.contentYears.length;
+  const key = String(state.contentYears.length);
   if (_calendarTickCache && _calendarTickCacheKey === key) return _calendarTickCache;
   const years = state.contentYears;
   const total = years.length;
@@ -294,7 +295,7 @@ function init() {
   C.addEventListener('click', e => { const y = calendarYearAt(e.clientX); if (y >= HashSearch.YEAR_MIN && y <= HashSearch.YEAR_MAX) { document.dispatchEvent(new CustomEvent('shilu:yearSelect', { detail: y })); } });
   let _ctMousemoveThrottle = 0;
   C.addEventListener('mousemove', e => {
-    const now = performance.now();
+    const now = Date.now();
     if (now - _ctMousemoveThrottle < 16) return; // ~60fps throttle
     _ctMousemoveThrottle = now;
     const y = calendarYearAt(e.clientX);

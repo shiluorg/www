@@ -1,6 +1,5 @@
-import state from './state.js';
 import { t9n } from './i18n.js';
-import { ensureL, loadMaplibre } from './map-libs.js';
+import { ensureL, loadMaplibre, getTileConfigSync, createSwitchLayer, initHistoricLayer } from './map-libs.js';
 import { _showCards, gameShare } from './game-center.js';
 
 let _map = null;
@@ -9,7 +8,7 @@ let _totalScore = 0;
 let _userMarker = null;
 let _correctMarker = null;
 let _line = null;
-let _satelliteLayer = null, _streetLayer = null, _topoLayer = null, _historicLayer = null;
+let _satelliteLayer = null, _streetLayer = null, _historicLayer = null;
 let _currentLayer = 'satellite';
 
 function haversine(lat1, lon1, lat2, lon2) {
@@ -43,23 +42,6 @@ function _newQuestion(container, events) {
   if (nextBtn) nextBtn.classList.remove('show');
 }
 
-async function _initHistoricLayer(container) {
-  try {
-    await loadMaplibre();
-    if (!_historicLayer && typeof L.maplibreGL !== 'undefined') {
-      _historicLayer = L.maplibreGL({
-        style: 'https://www.openhistoricalmap.org/map-styles/main/main.json',
-        attributionControl: false
-      });
-      const histBtn = container.querySelector('#gm-layer-historic');
-      if (histBtn) {
-        histBtn.disabled = false;
-        histBtn.title = '';
-      }
-    }
-  } catch (_) {}
-}
-
 export async function initMapGame(container, events) {
   await ensureL();
   const dict = t9n();
@@ -75,7 +57,6 @@ export async function initMapGame(container, events) {
       <div class="map-events__layer-toggle">
         <button id="gm-layer-satellite" class="layer-btn active">${dict.layerSatellite}</button>
         <button id="gm-layer-street" class="layer-btn">${dict.layerStreet}</button>
-        <button id="gm-layer-topo" class="layer-btn">${dict.layerTopo}</button>
         <button id="gm-layer-historic" class="layer-btn">${dict.layerHistoric}</button>
       </div>
     </div>
@@ -84,7 +65,6 @@ export async function initMapGame(container, events) {
       <span class="map-game__total">${dict.mapGameTotal(0)}</span>
     </div>
     <button class="map-game__next">${dict.mapGameNext}</button>
-    <div class="game-footer">${dict.footerPrefix}<span>${state.searchIndex?._events?.length || 7275}</span>${dict.footerSuffix}</div>
   `;
 
   // Init Leaflet map
@@ -100,57 +80,33 @@ export async function initMapGame(container, events) {
   }).setView([30, 40], 2);
 
   // Layer tiles (same as home page)
-  _satelliteLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
-    maxZoom: 18, attribution: '&copy; Esri',
+  const tiles = getTileConfigSync();
+  _satelliteLayer = L.tileLayer(tiles.satellite, {
+    maxZoom: 18, attribution: tiles.attr,
     updateWhenIdle: false, updateWhenZooming: false
   });
-  _streetLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
-    maxZoom: 18, attribution: '&copy; Esri',
-    updateWhenIdle: false, updateWhenZooming: false
-  });
-  _topoLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
-    maxZoom: 18, attribution: '&copy; Esri',
+  _streetLayer = L.tileLayer(tiles.street, {
+    maxZoom: 18, attribution: tiles.streetAttr || tiles.attr,
     updateWhenIdle: false, updateWhenZooming: false
   });
   _satelliteLayer.addTo(_map);
   _map.attributionControl.setPrefix('');
 
-  const HISTORIC_ATTR = '&copy; OpenHistoricalMap';
-
-  // Layer switch function
-  function switchLayer(type) {
-    if (!_map || _currentLayer === type) return;
-    if (type === 'historic' && !_historicLayer) return;
-    const attr = _map.attributionControl;
-
-    if (_currentLayer === 'satellite') _map.removeLayer(_satelliteLayer);
-    else if (_currentLayer === 'street') _map.removeLayer(_streetLayer);
-    else if (_currentLayer === 'topo') _map.removeLayer(_topoLayer);
-    else if (_historicLayer) { _map.removeLayer(_historicLayer); if (attr) attr.removeAttribution(HISTORIC_ATTR); }
-
-    _currentLayer = type;
-    if (type === 'satellite') _satelliteLayer.addTo(_map);
-    else if (type === 'street') _streetLayer.addTo(_map);
-    else if (type === 'topo') _topoLayer.addTo(_map);
-    else if (_historicLayer) { _historicLayer.addTo(_map); if (attr) attr.addAttribution(HISTORIC_ATTR); }
-
-    const satBtn = container.querySelector('#gm-layer-satellite');
-    const strBtn = container.querySelector('#gm-layer-street');
-    const topoBtn = container.querySelector('#gm-layer-topo');
-    const histBtn = container.querySelector('#gm-layer-historic');
-    if (satBtn) satBtn.classList.toggle('active', type === 'satellite');
-    if (strBtn) strBtn.classList.toggle('active', type === 'street');
-    if (topoBtn) topoBtn.classList.toggle('active', type === 'topo');
-    if (histBtn) histBtn.classList.toggle('active', type === 'historic');
-  }
-
+  // Layer switch function (shared)
   const gmSatBtn = container.querySelector('#gm-layer-satellite');
   const gmStrBtn = container.querySelector('#gm-layer-street');
-  const gmTopoBtn = container.querySelector('#gm-layer-topo');
   const gmHistBtn = container.querySelector('#gm-layer-historic');
+
+  const switchLayer = createSwitchLayer(
+    _map, _satelliteLayer, _streetLayer,
+    () => _historicLayer,
+    () => _currentLayer,
+    (type) => { _currentLayer = type; },
+    gmSatBtn, gmStrBtn, gmHistBtn,
+    _map.attributionControl
+  );
   if (gmSatBtn) gmSatBtn.addEventListener('click', () => switchLayer('satellite'));
   if (gmStrBtn) gmStrBtn.addEventListener('click', () => switchLayer('street'));
-  if (gmTopoBtn) gmTopoBtn.addEventListener('click', () => switchLayer('topo'));
   if (gmHistBtn) {
     gmHistBtn.disabled = true;
     gmHistBtn.title = '\u52A0\u8F7D\u4E2D...';
@@ -240,5 +196,8 @@ export async function initMapGame(container, events) {
   _newQuestion(container, events);
 
   // Deferred load historic layer
-  _initHistoricLayer(container);
+  initHistoricLayer(
+    (layer) => { _historicLayer = layer; },
+    container.querySelector('#gm-layer-historic')
+  );
 }

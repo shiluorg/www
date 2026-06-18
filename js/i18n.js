@@ -5,6 +5,12 @@ const _lang = {
 
 const ZH = 'zh', EN = 'en';
 
+const _shortcuts = [
+  { keys: ['←','→'], desc: '切换年份' },
+  { keys: ['Shift + ←','Shift + →'], desc: '快进/快退10年' },
+  { keys: ['/','Ctrl+F'], desc: '搜索事件' }
+];
+
 const LOCALE = {
   [ZH]: {
     name: '中文',
@@ -30,6 +36,9 @@ const LOCALE = {
     // Search panel
     searchPlaceholder: '搜索事件标题、地区、描述（至少2个汉字）',
     clearTitle: '清除',
+    searchModeCombined: '组合搜索：精确词全部匹配 + 模糊词任一匹配',
+    searchModeExact: '精确搜索：所有词必须匹配（用引号括起来）',
+    searchModeFuzzy: '模糊搜索：任一关键词匹配即可',
     modeCombined: '组合',
     modeExact: '精确',
     modeFuzzy: '模糊',
@@ -40,7 +49,6 @@ const LOCALE = {
     mapEmpty: '该年份暂无记录事件',
     layerSatellite: '卫星',
     layerStreet: '街道',
-    layerTopo: '地形',
     layerHistoric: '历史',
     // Event detail panel
     detailTitle: '事件详情',
@@ -86,6 +94,7 @@ const LOCALE = {
     quizLoadingStats: (pct) => `已加载 ${Math.round(pct)}% 的数据文件`,
     quizLoadingCount: (count) => `已加载 ${count} 个事件`,
     // Game Center
+    gameLoading: '加载游戏数据...',
     gameTitle: '趣味历史游戏',
     gameBackBtn: '← 返回',
     gameAction: '开始游戏 →',
@@ -114,7 +123,7 @@ const LOCALE = {
     sortGameTip: '从早到晚排列',
     matchGameDesc: '找出同一时期发生的中外事件',
     matchGameScore: (score) => `得分: ${score}`,
-    matchGameMatch: '匹配正确！',
+    
     matchGameNoMatch: '不是同一时期，再试试',
     matchGameDone: '全部匹配完成！',
     matchGameNew: '新一题',
@@ -165,19 +174,8 @@ const LOCALE = {
     ],
     // Keyboard shortcuts
     shortcutTitle: '键盘快捷键',
-    shortcuts: [
-      { keys: ['←','→'], desc: '切换年份' },
-      { keys: ['Shift + ←','Shift + →'], desc: '快进/快退10年' },
-      { keys: ['/','Ctrl+F'], desc: '搜索事件' }
-    ],
-    // NoScript
-    noscript: {
-      heading: '📜 实录 shilu.org',
-      desc: '跨越11512年的人类文明历史年表 — 交互式地球文明年表，覆盖公元前9600年至公元1912年间的重大历史事件。',
-      warning: '⚠️ 您的浏览器未启用 JavaScript。本站为交互式应用，建议启用 JavaScript 以获得完整体验。您仍可浏览以下基本内容：',
-      navTitle: '导航',
-      jumpTitle: '快速跳转年份'
-    },
+    shortcuts: _shortcuts,
+    
     // Footer
     footerPrefix: '© 2026 实录 shilu.org 地球硅基文明的',
     footerSuffix: '个闪耀时刻',
@@ -218,6 +216,9 @@ const LOCALE = {
     // Search panel
     searchPlaceholder: 'Search event titles, regions, descriptions (min 2 chars)',
     clearTitle: 'Clear',
+    searchModeCombined: 'Combined search: all exact terms + any fuzzy term must match',
+    searchModeExact: 'Exact search: all terms must match (quote phrases)',
+    searchModeFuzzy: 'Fuzzy search: any keyword matches',
     modeCombined: 'Combined',
     modeExact: 'Exact',
     modeFuzzy: 'Fuzzy',
@@ -228,7 +229,6 @@ const LOCALE = {
     mapEmpty: 'No events recorded for this year',
     layerSatellite: 'Satellite',
     layerStreet: 'Street',
-    layerTopo: 'Topo',
     layerHistoric: 'Historical',
     // Event detail panel
     detailTitle: 'Event Details',
@@ -274,6 +274,7 @@ const LOCALE = {
     quizLoadingStats: (pct) => `Loaded ${Math.round(pct)}% of data files`,
     quizLoadingCount: (count) => `Loaded ${count} events`,
     // Game Center
+    gameLoading: 'Loading game data...',
     gameTitle: 'History Games',
     gameBackBtn: '← Back',
     gameAction: 'Play →',
@@ -302,7 +303,7 @@ const LOCALE = {
     sortGameTip: 'Arrange from earliest to latest',
     matchGameDesc: 'Match Chinese and world events from the same period',
     matchGameScore: (score) => `Score: ${score}`,
-    matchGameMatch: 'Match!',
+    
     matchGameNoMatch: 'Not the same period, try again',
     matchGameDone: 'All matched!',
     matchGameNew: 'New Round',
@@ -361,11 +362,7 @@ const LOCALE = {
     ],
     // Keyboard shortcuts
     shortcutTitle: 'Keyboard Shortcuts',
-    shortcuts: [
-      { keys: ['←','→'], desc: 'Navigate years' },
-      { keys: ['Shift + ←','Shift + →'], desc: 'Skip 10 years' },
-      { keys: ['/','Ctrl+F'], desc: 'Search events' }
-    ],
+    shortcuts: _shortcuts,
     // Footer
     footerPrefix: '© 2026 Shilu.org ',
     footerSuffix: ' shining moments of Earth\'s silicon civilization',
@@ -398,7 +395,13 @@ function _detectLang() {
     const stored = localStorage.getItem('shilu_lang');
     if (stored === 'en' || stored === 'zh') return stored;
   } catch (_) {}
-  // 3. Browser language for first-time visitors
+  // 3. IP detection (from map-libs.js sessionStorage cache)
+  try {
+    const region = sessionStorage.getItem('shilu_region');
+    if (region === 'cn') return ZH;
+    if (region === 'en') return EN;
+  } catch (_) {}
+  // 4. Browser language for first-time visitors
   try {
     const navLang = (navigator.language || navigator.userLanguage || '').toLowerCase();
     if (navLang.startsWith('zh')) return ZH;

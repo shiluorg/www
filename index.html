@@ -98,15 +98,7 @@
       <li><a href="?page=events">全站事件列表 / All Events</a></li>
       <li><a href="?page=game">历史趣味问答 / History Quiz</a></li>
     </ul>
-    <h2>快速跳转年份 / Quick Jump</h2>
-    <ul>
-      <li><a href="?page=home&year=-2070">夏朝建立 / Xia Dynasty (c. 2070 BC)</a></li>
-      <li><a href="?page=home&year=-221">秦统一六国 / Qin Unification (221 BC)</a></li>
-      <li><a href="?page=home&year=618">唐朝建立 / Tang Dynasty (618 AD)</a></li>
-      <li><a href="?page=home&year=960">北宋建立 / Northern Song (960 AD)</a></li>
-      <li><a href="?page=home&year=1644">清朝建立 / Qing Dynasty (1644 AD)</a></li>
-      <li><a href="?page=home&year=1912">清朝灭亡 / Qing Fall (1912 AD)</a></li>
-    </ul>
+    
   </div>
 </noscript>
   <div class="app">
@@ -116,8 +108,8 @@
       <div class="header__actions">
         <a href="?page=events" class="nav-link" title="全站事件列表">📋</a>
         <a href="?page=game" class="nav-link" title="历史趣味问答">🎯</a>
-        <button id="search-btn" class="search-btn icon-btn home-only" title="搜索事件">🔍</button>
-        <button id="theme-toggle" class="theme-toggle icon-btn" title="明暗切换">🌙</button>
+        <button id="search-btn" class="icon-btn home-only" title="搜索事件">🔍</button>
+        <button id="theme-toggle" class="icon-btn" title="明暗切换">🌙</button>
         <button id="lang-switch" class="lang-switch">EN</button>
         <button id="shortcut-btn" class="shortcut-btn icon-btn home-only" title="键盘快捷键">⌨</button>
       </div>
@@ -143,11 +135,11 @@
       <div class="timeline-area">
         <div id="dynasty-timeline-container" class="timeline__dynasty">
           <canvas id="dynasty-canvas" class="timeline__dynasty-canvas" role="img" aria-label="朝代时间轴，展示从史前到清朝的28个朝代持续时间"></canvas>
-          <div id="dynasty-tooltip" class="tooltip--dynasty tooltip hidden"></div>
+          <div id="dynasty-tooltip" class="tooltip hidden"></div>
         </div>
         <div id="calendar-timeline-container" class="timeline__calendar">
           <canvas id="calendar-canvas" class="timeline__calendar-canvas" role="img" aria-label="日历时间轴，展示当前年份在有数据年份中的位置"></canvas>
-          <div id="calendar-tooltip" class="tooltip--calendar tooltip hidden"></div>
+          <div id="calendar-tooltip" class="tooltip hidden"></div>
         </div>
       </div>
 
@@ -167,7 +159,6 @@
             <div class="map-events__layer-toggle">
               <button id="layer-satellite" class="layer-btn active">卫星</button>
               <button id="layer-street" class="layer-btn">街道</button>
-              <button id="layer-topo" class="layer-btn" title="地形">地形</button>
               <button id="layer-historic" class="layer-btn">历史</button>
             </div>
           </div>
@@ -235,15 +226,14 @@
               <div class="map-events__layer-toggle">
                 <button id="dl-satellite" class="layer-btn active">卫星</button>
                 <button id="dl-street" class="layer-btn">街道</button>
-                <button id="dl-topo" class="layer-btn" title="地形">地形</button>
                 <button id="dl-historic" class="layer-btn">历史</button>
               </div>
             </div>
             <div class="detail__info">
-              <div class="event-year detail__year" id="detail-year-display"></div>
-              <div class="event-title detail__title" id="detail-title-display"></div>
-              <div class="event-tags detail__tags" id="detail-tags"></div>
-              <div class="event-description detail__desc" id="detail-desc-text"></div>
+              <div class="event-year" id="detail-year-display"></div>
+              <div class="event-title" id="detail-title-display"></div>
+              <div class="event-tags" id="detail-tags"></div>
+              <div class="event-description" id="detail-desc-text"></div>
               <div class="dynasty-info detail__dynasty hidden" id="detail-dynasty">
                 <h3 id="detail-dynasty-heading">所属朝代</h3>
                 <p id="detail-dynasty-text" class="detail__dynasty-text"></p>
@@ -335,7 +325,7 @@
       <span class="footer-prefix"></span><span id="footer-count">7275</span><span class="footer-suffix"></span>
     </footer>
 
-    <div id="err-toast" class="err-toast hidden"><p id="err-message" class="err-toast__message"></p></div>
+    <div id="err-toast" class="err-toast hidden"><p id="err-message"></p></div>
   </div>
 
   <script type="module" src="js/app.js"></script>
