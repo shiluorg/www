@@ -41,44 +41,55 @@ export function createTileLayers(map) {
   return { satellite: sat, street: str };
 }
 
-const _loadingCSS = new Set();
-const _loadingJS = new Set();
+const _cssPromises = new Map();
+const _jsPromises = new Map();
 
 function loadCSS(url) {
-  if (_loadingCSS.has(url)) return Promise.resolve();
-  _loadingCSS.add(url);
-  return new Promise((resolve) => {
+  if (_cssPromises.has(url)) return _cssPromises.get(url);
+  const p = new Promise((resolve) => {
     const link = document.createElement('link');
     link.rel = 'stylesheet'; link.href = url;
     link.onload = resolve; link.onerror = resolve;
     document.head.appendChild(link);
   });
+  _cssPromises.set(url, p);
+  return p;
 }
 
 function loadJS(url) {
-  if (_loadingJS.has(url)) return Promise.resolve();
-  _loadingJS.add(url);
-  return new Promise((resolve, reject) => {
+  if (_jsPromises.has(url)) return _jsPromises.get(url);
+  const p = new Promise((resolve, reject) => {
     const s = document.createElement('script');
     s.src = url; s.async = true;
     s.onload = resolve; s.onerror = () => reject(new Error('Failed to load: ' + url));
     document.body.appendChild(s);
   });
+  _jsPromises.set(url, p);
+  return p;
 }
 
-async function _loadLeaflet() {
-  await loadCSS(CSS[0]);
-  await loadJS('https://unpkg.com/leaflet@1.9.4/dist/leaflet.js');
+let _leafletPromise = null;
+function _loadLeaflet() {
+  if (!_leafletPromise) {
+    _leafletPromise = (async () => {
+      await loadCSS(CSS[0]);
+      await loadJS('https://unpkg.com/leaflet@1.9.4/dist/leaflet.js');
+    })();
+  }
+  return _leafletPromise;
 }
 
-let _maplibreLoaded = false;
-export async function loadMaplibre() {
-  if (_maplibreLoaded) return;
-  _maplibreLoaded = true;
-  await loadCSS(CSS[1]);
-  await loadJS('https://unpkg.com/maplibre-gl@4/dist/maplibre-gl.js');
-  await loadJS('https://unpkg.com/@maplibre/maplibre-gl-leaflet@0.1.3/leaflet-maplibre-gl.js');
-  await loadJS('js/maplibre-gl-dates.js');
+let _maplibrePromise = null;
+export function loadMaplibre() {
+  if (!_maplibrePromise) {
+    _maplibrePromise = (async () => {
+      await loadCSS(CSS[1]);
+      await loadJS('https://unpkg.com/maplibre-gl@4/dist/maplibre-gl.js');
+      await loadJS('https://unpkg.com/@maplibre/maplibre-gl-leaflet@0.1.3/leaflet-maplibre-gl.js');
+      await loadJS('js/maplibre-gl-dates.js');
+    })();
+  }
+  return _maplibrePromise;
 }
 
 export function ensureL() {
