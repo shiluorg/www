@@ -14,13 +14,8 @@ function _getHomeOnlyEls() {
   return _homeOnlyEls;
 }
 
-export function getState() {
-  return { _homeInitialized };
-}
-
-export function setRouterState(key, value) {
-  if (key === '_homeInitialized') _homeInitialized = value;
-}
+export function isHomeInit() { return _homeInitialized; }
+export function setHomeInit(v) { _homeInitialized = v; }
 
 const _fmtYear = HashSearch.formatYear;
 
@@ -62,8 +57,10 @@ export function setPageMeta(title, description, url, imageUrl) {
   const ogt = document.querySelector('meta[property="og:title"]'); if (ogt) ogt.setAttribute('content', title);
   const ogd = document.querySelector('meta[property="og:description"]'); if (ogd) ogd.setAttribute('content', description);
   if (url) {
-    const ogu = document.querySelector('meta[property="og:url"]'); if (ogu) ogu.setAttribute('content', url);
-    const can = document.querySelector('link[rel="canonical"]'); if (can) can.setAttribute('href', url);
+    const ogu = document.querySelector('meta[property="og:url"]');
+    if (ogu) ogu.setAttribute('content', url);
+    const can = document.querySelector('link[rel="canonical"]');
+    if (can) can.setAttribute('href', url);
   }
   if (imageUrl) {
     const ogi = document.querySelector('meta[property="og:image"]'); if (ogi) ogi.setAttribute('content', imageUrl);
@@ -71,11 +68,10 @@ export function setPageMeta(title, description, url, imageUrl) {
   }
   const twt = document.querySelector('meta[name="twitter:title"]'); if (twt) twt.setAttribute('content', title);
   const twd = document.querySelector('meta[name="twitter:description"]'); if (twd) twd.setAttribute('content', description);
-  // Update hreflang links
   const lang = getCurrentLang();
   const baseUrl = 'https://shilu.org';
   const qs = window.location.search;
-  const zhPath = qs ? qs.replace(/[?&]lang=en/, '').replace('&&', '&').replace(/\?&/, '?') : '';
+  const zhPath = qs ? qs.replace(/[?&]lang=en/g, '').replace(/&&/g, '&').replace(/\?&/, '?') : '';
   const enPath = qs ? (qs.includes('lang=en') ? qs : (qs + (qs ? '&' : '?') + 'lang=en')) : '?lang=en';
   const hlZh = document.querySelector('link[hreflang="zh-CN"]');
   const hlEn = document.querySelector('link[hreflang="en"]');
@@ -85,9 +81,20 @@ export function setPageMeta(title, description, url, imageUrl) {
   if (hlXd) hlXd.setAttribute('href', baseUrl + zhPath);
 }
 
-const _canonicalMap = { home: 'https://shilu.org/', events: 'https://shilu.org/?page=events', game: 'https://shilu.org/?page=game' };
+const _canonicalMap = { home: 'https://shilu.org/', events: 'https://shilu.org/?page=events', game: 'https://shilu.org/?page=game', map: 'https://shilu.org/' };
 
 const _MAP_IMG = 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-180,-85,180,85&size=1200,630&format=png32&f=image';
+
+// Cached search DOM refs
+let _$searchPanel = null, _$searchInput = null, _$searchResults = null, _$searchStatus = null;
+let _$footerCount = null;
+function _cacheSearchDom() {
+  if (!_$searchPanel) _$searchPanel = document.getElementById('search-panel');
+  if (!_$searchInput) _$searchInput = document.getElementById('search-input');
+  if (!_$searchResults) _$searchResults = document.getElementById('search-results');
+  if (!_$searchStatus) _$searchStatus = document.getElementById('search-status');
+  return { p: _$searchPanel, i: _$searchInput, r: _$searchResults, s: _$searchStatus };
+}
 
 // Update twitter:card type based on page
 function _updateTwitterCard(isDetail) {
@@ -199,8 +206,9 @@ function _updatePageMeta(page, eventData) {
 
 // Search functions
 function _searchClose() {
-  const p = document.getElementById('search-panel'), i = document.getElementById('search-input');
-  if (p) p.classList.add('hidden'); if (i) i.value = '';
+  const dom = _cacheSearchDom();
+  if (dom.p) dom.p.classList.add('hidden');
+  if (dom.i) dom.i.value = '';
 }
 
 function _searchHL(text, q) {
@@ -218,15 +226,18 @@ function _escHtml(s) {
 }
 
 export function _searchShow(q, mode) {
-  const c = document.getElementById('search-results'), s = document.getElementById('search-status');
-  if (!c) return;
+  const dom = _cacheSearchDom();
+  if (!dom.r) return;
   const idx = state.searchIndex;
-  if (!idx || !idx._events) { c.innerHTML = `<div class="search-result-empty">${t('indexNotReady')}</div>`; return; }
+  if (!idx || !idx._events) { dom.r.innerHTML = `<div class="search-result-empty">${t('indexNotReady')}</div>`; return; }
   const results = HashSearch.search(idx._events, q, undefined, mode);
-  if (results.length === 0) { c.innerHTML = `<div class="search-result-empty">${t('searchNoResult')}</div>`; if (s) s.textContent = state.searchIndexReady ? '' : `${t('searchBuilding')}`; return; }
+  if (results.length === 0) { dom.r.innerHTML = `<div class="search-result-empty">${t('searchNoResult')}</div>`; if (dom.s) dom.s.textContent = state.searchIndexReady ? '' : `${t('searchBuilding')}`; return; }
   let html = '';
-  for (const evt of results.slice(0, 100)) {
-    const hlT = _searchHL(_escHtml(evt.t), q), hlR = evt.r ? _searchHL(_escHtml(evt.r), q) : '';
+  const maxResults = Math.min(results.length, 100);
+  const capped = results.length > 100;
+  for (let i = 0; i < maxResults; i++) {
+    const evt = results[i];
+    const hlT = _searchHL(_escHtml(evt.t), q);
     const descText = evt.s || '';
     const dp = descText.length > 60 ? descText.substring(0, 60) + '…' : descText;
     html += `<div class="search-result-item" data-year="${evt.y}" data-title="${_escHtml(evt.t)}">
@@ -235,15 +246,15 @@ export function _searchShow(q, mode) {
         <div class="search-result-title">${hlT}</div>
         <div class="search-result-meta">
           <span class="search-result-tag">${_escHtml(evt.c || t('fallbackCategory'))}</span>
-          ${evt.r ? `<span class="search-result-tag">${hlR}</span>` : ''}
+          ${evt.r ? `<span class="search-result-tag">${_searchHL(_escHtml(evt.r), q)}</span>` : ''}
           <span class="search-result-tag">${_escHtml(evt.o || '')}</span>
         </div>
         <div class="search-result-desc">${_searchHL(_escHtml(dp), q)}</div>
       </div>
     </div>`;
   }
-  c.innerHTML = html;
-  if (s) s.textContent = `${t('searchResultCount', results.length, results.length > 100)}${!state.searchIndexReady ? ` | ${t('searchBuilding')}` : ''}`;
+  dom.r.innerHTML = html;
+  if (dom.s) dom.s.textContent = `${t('searchResultCount', results.length, capped)}${!state.searchIndexReady ? ` | ${t('searchBuilding')}` : ''}`;
 }
 
 export function nearestYear(year) {
@@ -275,12 +286,20 @@ function _initLangSwitch() {
 }
 
 // Apply i18n to ALL static elements
+let _lastI18nLang = '';
+onLangChange(() => { _lastI18nLang = ''; });
 function _applyI18n() {
+  const lang = getCurrentLang();
+  if (_lastI18nLang === lang) return;
+  _lastI18nLang = lang;
+
+  // Cache DOM refs for i18n to avoid repeated queries
+  const $ = document.querySelector.bind(document);
+
   const dict = t9n();
   // Meta tags
   document.title = dict.htmlTitle;
   setAttr('meta[name="description"]', 'content', dict.htmlDescription);
-  setAttr('meta[name="keywords"]', 'content', dict.htmlKeywords);
   setAttr('meta[property="og:title"]', 'content', dict.ogTitle);
   setAttr('meta[property="og:description"]', 'content', dict.ogDescription);
   setAttr('meta[property="og:locale"]', 'content', dict.ogLocale);
@@ -288,35 +307,37 @@ function _applyI18n() {
   setAttr('meta[name="twitter:title"]', 'content', dict.ogTitle);
   setAttr('meta[name="twitter:description"]', 'content', dict.ogDescription);
   // Header
-  setText('.header__title a', dict.homeLink);
-  setAttr('.nav-link:nth-child(1)', 'title', dict.navEvents);
-  setAttr('.nav-link:nth-child(2)', 'title', dict.navGames);
-  setAttr('#search-btn', 'title', dict.searchTitle);
-  setAttr('#theme-toggle', 'title', dict.themeTitle);
-  setAttr('#shortcut-btn', 'title', dict.shortcutTitle);
+  const headerLink = $('.header__title a');
+  if (headerLink) headerLink.textContent = dict.homeLink;
+  const navLinks = document.querySelectorAll('.nav-link');
+  if (navLinks[0]) navLinks[0].title = dict.navEvents;
+  if (navLinks[1]) navLinks[1].title = dict.navGames;
+  const searchBtn = $('#search-btn');
+  if (searchBtn) searchBtn.title = dict.searchTitle;
+  const themeBtn = $('#theme-toggle');
+  if (themeBtn) themeBtn.title = dict.themeTitle;
+  const shortcutBtn = $('#shortcut-btn');
+  if (shortcutBtn) shortcutBtn.title = dict.shortcutTitle;
   // Search panel
   setAttr('#search-input', 'placeholder', dict.searchPlaceholder);
   setAttr('#search-clear', 'title', dict.clearTitle);
-  setText('.search-mode-btn[data-mode="combined"]', dict.modeCombined);
-  setText('.search-mode-btn[data-mode="exact"]', dict.modeExact);
-  setText('.search-mode-btn[data-mode="fuzzy"]', dict.modeFuzzy);
-  setAttr('.search-mode-btn[data-mode="combined"]', 'title', dict.searchModeCombined);
-  setAttr('.search-mode-btn[data-mode="exact"]', 'title', dict.searchModeExact);
-  setAttr('.search-mode-btn[data-mode="fuzzy"]', 'title', dict.searchModeFuzzy);
+  const modeBtns = document.querySelectorAll('.search-mode-btn');
+  const modeKeys = ['combined', 'exact', 'fuzzy'];
+  const modeTexts = [dict.modeCombined, dict.modeExact, dict.modeFuzzy];
+  const modeTitles = [dict.searchModeCombined, dict.searchModeExact, dict.searchModeFuzzy];
+  modeBtns.forEach((btn, i) => { if (modeKeys[i]) { btn.textContent = modeTexts[i]; btn.title = modeTitles[i]; } });
   // Timeline ARIA
   setAttr('#dynasty-canvas', 'aria-label', dict.dynastyAria);
   setAttr('#calendar-canvas', 'aria-label', dict.calendarAria);
   // Map area
   setText('#map-empty-hint', dict.mapEmpty);
-  setText('#layer-satellite', dict.layerSatellite);
-  setText('#layer-street', dict.layerStreet);
-  setText('#layer-historic', dict.layerHistoric);
-  setText('#dl-satellite', dict.layerSatellite);
-  setText('#dl-street', dict.layerStreet);
-  setText('#dl-historic', dict.layerHistoric);
+  ['layer-satellite', 'layer-street', 'layer-historic', 'dl-satellite', 'dl-street', 'dl-historic'].forEach((id, i) => {
+    const el = document.getElementById(id);
+    if (el) el.textContent = [dict.layerSatellite, dict.layerStreet, dict.layerHistoric][i % 3];
+  });
   // Shortcut panel
   setText('#shortcut-panel h3', dict.shortcutTitle);
-  const shortList = document.querySelector('#shortcut-panel ul');
+  const shortList = $('#shortcut-panel ul');
   if (shortList) {
     shortList.innerHTML = dict.shortcuts.map(s =>
       `<li>${s.keys.map(k => `<kbd>${k}</kbd>`).join(' ')} ${s.desc}</li>`
@@ -342,12 +363,9 @@ function _applyI18n() {
   // Footer
   setText('.footer-prefix', dict.footerPrefix);
   setText('.footer-suffix', dict.footerSuffix);
-  // Language switch button: short text, title shows target language
+  // Language switch button
   const ls = document.getElementById('lang-switch');
-  if (ls) {
-    ls.textContent = getCurrentLang() === ZH ? 'EN' : '\u4e2d';
-    ls.title = dict.langSwitchLabel;
-  }
+  if (ls) { ls.textContent = lang === ZH ? 'EN' : '\u4e2d'; ls.title = dict.langSwitchLabel; }
 }
 
 function setText(selector, value) {
@@ -365,10 +383,10 @@ export async function handleRoute() {
     const p = new URLSearchParams(window.location.search);
     const rawPage = p.get('page') || 'home';
     const page = rawPage === 'map' ? 'home' : rawPage === 'quiz' ? 'game' : rawPage;
-    const pObj = {}; for (const [k, v] of p) pObj[k] = v;
+    const pObj = Object.fromEntries(p);
 
     _showPage(page);
-    _updatePageMeta(rawPage === 'map' ? 'map' : page);
+    if (rawPage !== 'detail') _updatePageMeta(rawPage === 'map' ? 'map' : page);
     _applyI18n();
     _initLangSwitch();
 
@@ -416,11 +434,10 @@ export async function handleRoute() {
         break;
       }
     }
-    // Update footer event count (fire-and-forget)
-    HashSearch.getEventCount().then(count => {
-      const el = document.getElementById('footer-count');
-      if (el && count > 0) el.textContent = count;
-    }).catch(() => {});
+    if (!_$footerCount) _$footerCount = document.getElementById('footer-count');
+    if (_$footerCount && state.searchIndex && state.searchIndex._events) {
+      _$footerCount.textContent = state.searchIndex._events.length;
+    }
   } catch (e) {
     console.error('[Shilu] Route handler error:', e);
   }

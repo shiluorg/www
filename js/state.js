@@ -1,5 +1,7 @@
 import { getCurrentLang, onLangChange } from './i18n.js';
 
+const MIN_EVENTS = 7000;
+
 const state = {
   currentYear: 1,
   selectedDynasty: null,
@@ -22,7 +24,8 @@ const _THEME_KEY = 'shilu_theme';
 function themeGet() {
   const s = localStorage.getItem(_THEME_KEY);
   if (s === 'light' || s === 'dark') return s;
-  return (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) ? 'light' : 'dark';
+  const mm = window.matchMedia && window.matchMedia('(prefers-color-scheme: light)');
+  return mm && mm.matches ? 'light' : 'dark';
 }
 function themeSet(t) {
   document.documentElement.setAttribute('data-theme', t);
@@ -43,4 +46,5 @@ export function themeInit() {
   btn.addEventListener('click', themeToggle);
 }
 
+export { MIN_EVENTS };
 export default state;

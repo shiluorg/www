@@ -1,4 +1,5 @@
 import HashSearch from './hash-search.js';
+const formatYear = HashSearch.formatYear;
 import { t9n } from './i18n.js';
 
 const W = 630;
@@ -47,10 +48,6 @@ function _wrapText(text, maxWidth, font) {
   }
   if (line) lines.push(line);
   return lines;
-}
-
-function _fmtYear(y) {
-  return HashSearch.formatYear(y);
 }
 
 function _drawTag(text, x, y, color, bgAlpha) {
@@ -203,7 +200,7 @@ async function generate(evt) {
   // ===== Year =====
   ctx.fillStyle = '#f0883e';
   ctx.font = 'bold 48px "PingFang SC","Microsoft YaHei","Helvetica Neue",sans-serif';
-  ctx.fillText(_fmtYear(evt.y), W / 2, 58);
+  ctx.fillText(formatYear(evt.y), W / 2, 58);
 
   let cy = 88;
 

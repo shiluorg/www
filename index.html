@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>实录：跨越11512年的人类文明历史年表 shilu.org</title>
   <meta name="description" content="实录是一部交互式地球文明年表，覆盖公元前9600年至公元1912年间的重大历史事件。按年份浏览政治、军事、文化、科技等领域的重要时刻，配合地图直观呈现，跨越11512年人类文明史。">
-  <meta name="keywords" content="历史年表,世界历史,中国历史,文明年表,交互式地图,shilu,实录,人类文明史,编年史,公元前,公元,朝代,大事件">
   <meta name="robots" content="index, follow">
   <meta name="author" content="shilu.org">
   <meta name="referrer" content="strict-origin-when-cross-origin">
@@ -28,57 +27,12 @@
   <meta name="twitter:image" content="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-180,-85,180,85&amp;size=1200,630&amp;format=png32&amp;f=image">
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E📜%3C/text%3E%3C/svg%3E">
   <link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E📜%3C/text%3E%3C/svg%3E">
-  <script type="application/ld+json">[{
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "实录 shilu.org",
-    "url": "https://shilu.org/",
-    "description": "交互式地球文明年表，覆盖公元前9600年至公元1912年间的重大历史事件，跨越11512年",
-    "inLanguage": "zh-CN",
-    "applicationCategory": "EducationalApplication",
-    "operatingSystem": "All",
-    "browserRequirements": "Requires JavaScript",
-    "about": {
-      "@type": "Thing",
-      "name": "人类文明史",
-      "description": "从公元前9600年哥贝克力石阵到公元1912年清朝灭亡，涵盖11512年的人类文明发展历程"
-    },
-    "audience": {
-      "@type": "Audience",
-      "audienceType": "历史爱好者"
-    },
-    "potentialAction": [{
-      "@type": "SearchAction",
-      "target": {
-        "@type": "EntryPoint",
-        "urlTemplate": "https://shilu.org/?page=home&q={search_term_string}"
-      },
-      "query-input": "required name=search_term_string"
-    }]
-  },{
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [{
-      "@type": "ListItem",
-      "position": 1,
-      "name": "首页",
-      "item": "https://shilu.org/"
-    },{
-      "@type": "ListItem",
-      "position": 2,
-      "name": "全站事件列表",
-      "item": "https://shilu.org/?page=events"
-    },{
-      "@type": "ListItem",
-      "position": 3,
-      "name": "历史地图",
-      "item": "https://shilu.org/?page=map"
-    }]
-  }]</script>
+
   <link rel="canonical" href="https://shilu.org/">
   <link rel="preconnect" href="https://unpkg.com" crossorigin>
   <link rel="preconnect" href="https://server.arcgisonline.com">
   <link rel="preload" href="content-years.json" as="fetch" crossorigin="anonymous">
+  <link rel="preload" href="js/app.js" as="script">
   <link rel="stylesheet" href="style.css?v=20260616">
   <link rel="sitemap" type="application/xml" href="/sitemap.xml">
 </head>
@@ -103,7 +57,7 @@
 </noscript>
   <div class="app">
     <header class="header">
-      <h1 class="header__title"><a href="./">📜实录</a></h1>
+      <h1 class="header__title"><a href="/">📜实录</a></h1>
       <div id="rule-quote" class="header__quote"></div>
       <div class="header__actions">
         <a href="?page=events" class="nav-link" title="全站事件列表">📋</a>
@@ -202,7 +156,7 @@
           <input type="text" id="events-filter" class="page-filter" placeholder="筛选事件标题、地区、描述...">
         </div>
         <div id="events-filter-bar" class="events__filter-bar">
-          <div class="filter-group"><span class="filter-label">分类</span><div class="filter-chips fc-category" id="fc-category"></div></div>
+          <div class="filter-group"><span class="filter-label">分类</span><div class="filter-chips" id="fc-category"></div></div>
         </div>
         <div id="events-loading" class="page-loading"><div class="spinner"></div><span>加载全站事件数据中...</span></div>
         <div id="events-list" class="events__list"></div>
@@ -234,7 +188,7 @@
               <div class="event-title" id="detail-title-display"></div>
               <div class="event-tags" id="detail-tags"></div>
               <div class="event-description" id="detail-desc-text"></div>
-              <div class="dynasty-info detail__dynasty hidden" id="detail-dynasty">
+              <div class="dynasty-info hidden" id="detail-dynasty">
                 <h3 id="detail-dynasty-heading">所属朝代</h3>
                 <p id="detail-dynasty-text" class="detail__dynasty-text"></p>
               </div>
@@ -270,19 +224,11 @@
             <div class="game-card__desc">将打乱的事件按时间顺序排列，挑战满分</div>
             <div class="game-card__action"></div>
           </div>
-          <div class="game-card" data-game="match">
-            <div class="game-card__icon">🔗</div>
-            <div class="game-card__title">同期匹配</div>
-            <div class="game-card__desc">找出同一时期发生的中外历史事件</div>
-            <div class="game-card__action"></div>
-          </div>
         </div>
         <!-- Game panels (hidden by default) -->
         <div id="game-panel-quiz" class="game-panel hidden">
-          <div class="game-panel-header">
-            <button class="game-back-btn" data-back="quiz">← 返回</button>
-            <button class="game-share-btn" data-tab="quiz">📤</button>
-          </div>
+          <button class="game-back-btn" data-back="quiz">← 返回</button>
+          <button class="game-share-btn" data-tab="quiz">📤</button>
           <div id="quiz-loading" class="page-loading"><div class="spinner"></div><span>加载全站事件数据中...</span></div>
           <div id="quiz-game" class="quiz__game hidden">
             <div class="quiz__level-section">
@@ -314,9 +260,6 @@
         <div id="game-panel-sort" class="game-panel hidden">
           <button class="game-back-btn" data-back="sort">← 返回</button>
         </div>
-        <div id="game-panel-match" class="game-panel hidden">
-          <button class="game-back-btn" data-back="match">← 返回</button>
-        </div>
         <div id="game-loading" class="page-loading"><div class="spinner"></div><span>加载游戏数据...</span></div>
       </div>
     </div>
@@ -328,6 +271,6 @@
     <div id="err-toast" class="err-toast hidden"><p id="err-message"></p></div>
   </div>
 
-  <script type="module" src="js/app.js"></script>
+  <script type="module" src="js/app.js?v=20260616"></script>
 </body>
 </html>

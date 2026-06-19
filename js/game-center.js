@@ -1,5 +1,5 @@
 import HashSearch from './hash-search.js';
-import state from './state.js';
+import state, { MIN_EVENTS } from './state.js';
 import { t9n, getCurrentLang } from './i18n.js';
 import { initQuizGame } from './quiz.js';
 
@@ -8,8 +8,7 @@ let _quizInited = false;
 
 async function _loadEvents() {
   if (_events) return _events;
-  // Check search index cache first
-  if (state.searchIndex && state.searchIndex._events && state.searchIndex._events.length > 7000) {
+  if (state.searchIndex && state.searchIndex._events && state.searchIndex._events.length > MIN_EVENTS) {
     _events = state.searchIndex._events;
     return _events;
   }
@@ -64,8 +63,6 @@ function _initGamePanel(panel, tab, events) {
     import('./game-map.js').then(m => m.initMapGame(panel, events));
   } else if (tab === 'sort') {
     import('./game-sort.js').then(m => m.initSortGame(panel, events));
-  } else if (tab === 'match') {
-    import('./game-match.js').then(m => m.initMatchGame(panel, events));
   }
 }
 
@@ -97,8 +94,7 @@ export async function initGameCenter(tab) {
     const cardMap = {
       quiz: { title: dict.gameTabQuiz, desc: dict.gameShare.quiz.d },
       map: { title: dict.gameTabMap, desc: dict.gameShare.map.d },
-      sort: { title: dict.gameTabSort, desc: dict.gameShare.sort.d },
-      match: { title: dict.gameTabMatch, desc: dict.gameShare.match.d }
+      sort: { title: dict.gameTabSort, desc: dict.gameShare.sort.d }
     };
     page.querySelectorAll('.game-card').forEach(card => {
       const g = card.dataset.game;

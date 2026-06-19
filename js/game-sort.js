@@ -1,12 +1,16 @@
 import { t9n } from './i18n.js';
-import { _showCards, _shuffle, gameShare } from './game-center.js';
+import { _showCards, gameShare } from './game-center.js';
 
 let _sortEvents = [];
 
 function _pickRandomEvents(events, count) {
-  const picked = _shuffle(events).slice(0, Math.min(events.length, count));
-  picked.forEach((e, i) => { e._i = i; });
-  return picked;
+  const n = Math.min(events.length, count);
+  const picked = new Array(n);
+  for (let i = 0; i < events.length; i++) {
+    if (i < n) { picked[i] = events[i]; }
+    else { const j = Math.floor(Math.random() * (i + 1)); if (j < n) picked[j] = events[i]; }
+  }
+  return picked.map((e, i) => ({ ...e, _i: i }));
 }
 
 function _renderList(container) {
@@ -74,24 +78,11 @@ function _bindDrag(list) {
 function _checkAnswer(container) {
   const dict = t9n();
   const fb = container.querySelector('.sort-game__feedback');
-  let correct = 0;
-  let allCorrect = true;
-
   const sorted = [..._sortEvents].sort((a, b) => a.y - b.y);
-  for (let i = 0; i < _sortEvents.length; i++) {
-    if (_sortEvents[i]._i === sorted[i]._i && _sortEvents[i].y === sorted[i].y) {
-      correct++;
-    } else {
-      allCorrect = false;
-    }
-  }
+  const correct = _sortEvents.filter((e, i) => e._i === sorted[i]._i).length;
+  const allCorrect = correct === _sortEvents.length;
 
-  if (allCorrect) {
-    if (fb) { fb.className = 'sort-game__feedback correct'; fb.textContent = '✓ ' + dict.sortGameCorrect; }
-  } else {
-    if (fb) { fb.className = 'sort-game__feedback wrong'; fb.textContent = '✗ ' + dict.sortGameWrong; }
-  }
-
+  if (fb) { fb.className = 'sort-game__feedback ' + (allCorrect ? 'correct' : 'wrong'); fb.textContent = (allCorrect ? '✓ ' : '✗ ') + (allCorrect ? dict.sortGameCorrect : dict.sortGameWrong); }
   const scoreEl = container.querySelector('.sort-game__score');
   if (scoreEl) scoreEl.textContent = dict.sortGameScore(correct, _sortEvents.length);
 }
@@ -100,10 +91,8 @@ export function initSortGame(container, events) {
   const dict = t9n();
 
   container.innerHTML = `
-    <div class="game-panel-header">
-      <button class="game-back-btn" data-back="sort">${dict.gameBackBtn}</button>
-      <button class="game-share-btn" data-tab="sort">📤</button>
-    </div>
+    <button class="game-back-btn" data-back="sort">${dict.gameBackBtn}</button>
+    <button class="game-share-btn" data-tab="sort">📤</button>
     <div class="sort-game__desc">${dict.sortGameDesc}</div>
     <div class="sort-game__tip">${dict.sortGameTip}</div>
     <div class="sort-game__list"></div>

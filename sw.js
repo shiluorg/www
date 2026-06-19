@@ -1,107 +1,46 @@
-const CACHE_NAME = 'shilu-v3';
-const STATIC_ASSETS = [
-  '/',
-  '/index.html',
-  '/style.css',
-  '/js/app.js'
-];
+const CACHE = 'shilu-v5';
+const STATIC = ['/','/index.html','/style.css','/js/app.js','/js/router.js','/js/state.js','/js/hash-search.js','/js/i18n.js','/js/home.js','/js/timelines.js','/js/map-view.js','/js/map-libs.js','/js/maplibre-gl-dates.js','/js/share-card.js','/js/game-center.js','/js/quiz.js','/js/game-map.js','/js/game-sort.js'];
 
-// Install: pre-cache critical static assets
-self.addEventListener('install', event => {
-  event.waitUntil(
-    caches.open(CACHE_NAME).then(cache => {
-      return cache.addAll(STATIC_ASSETS);
-    }).then(() => self.skipWaiting())
-  );
+self.addEventListener('install', e => {
+  e.waitUntil(caches.open(CACHE).then(c => c.addAll(STATIC)).then(() => self.skipWaiting()));
 });
 
-// Activate: clean old caches
-self.addEventListener('activate', event => {
-  event.waitUntil(
-    caches.keys().then(keys => {
-      return Promise.all(
-        keys.filter(key => key !== CACHE_NAME).map(key => caches.delete(key))
-      );
-    }).then(() => self.clients.claim())
-  );
+self.addEventListener('activate', e => {
+  e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim()));
 });
 
-// Fetch: different strategies for different resource types
-self.addEventListener('fetch', event => {
-  const url = new URL(event.request.url);
+self.addEventListener('fetch', e => {
+  if (e.request.method !== 'GET') return;
+  const u = new URL(e.request.url);
+  if (u.hostname !== self.location.hostname) return;
+  const p = u.pathname;
 
-  // Skip non-GET requests
-  if (event.request.method !== 'GET') return;
-
-  // Skip browser extensions and analytics
-  if (url.hostname !== self.location.hostname) return;
-
-  const path = url.pathname;
-
-  // Strategy 1: Stale-While-Revalidate for JSON data files
-  if (path.endsWith('.json') && (path.startsWith('/zh/') || path.startsWith('/en/') || path === '/content-years.json')) {
-    event.respondWith(
-      caches.open(CACHE_NAME).then(cache => {
-        return cache.match(event.request).then(cached => {
-          const fetchPromise = fetch(event.request).then(response => {
-            if (response.ok) cache.put(event.request, response.clone());
-            return response;
-          }).catch(() => cached);
-          return cached || fetchPromise;
-        });
-      })
-    );
-    return;
+  // Data files: stale-while-revalidate
+  if (p.endsWith('.json') && (p.startsWith('/zh/') || p.startsWith('/en/') || p === '/content-years.json')) {
+    e.respondWith(staleWhileRevalidate(e.request)); return;
   }
 
-  // Strategy 2: Network-First for map tiles (tile.openstreetmap.org)
-  if (url.hostname === 'tile.openstreetmap.org' || url.hostname.endsWith('.tile.openstreetmap.org')) {
-    event.respondWith(
-      fetch(event.request).then(response => {
-        const clone = response.clone();
-        caches.open(CACHE_NAME).then(cache => cache.put(event.request, clone));
-        return response;
-      }).catch(() => {
-        return caches.match(event.request);
-      })
-    );
-    return;
+  // Navigation: stale-while-revalidate via index.html
+  if (e.request.mode === 'navigate') {
+    e.respondWith(staleWhileRevalidate(e.request)); return;
   }
 
-  // Strategy 3: Stale-While-Revalidate for HTML pages (navigation requests)
-  if (event.request.mode === 'navigate') {
-    event.respondWith(
-      caches.match('/index.html').then(cached => {
-        const fetchPromise = fetch(event.request).then(response => {
-          if (response.ok) {
-            const clone = response.clone();
-            caches.open(CACHE_NAME).then(cache => cache.put('/index.html', clone));
-          }
-          return response;
-        }).catch(() => cached);
-        return cached || fetchPromise;
-      })
-    );
-    return;
+  // Static assets: cache-first
+  if (p.endsWith('.js') || p.endsWith('.css') || p === '/') {
+    e.respondWith(cacheFirst(e.request)); return;
   }
-
-  // Strategy 4: Cache-First for static assets (JS, CSS, images, fonts)
-  if (path.endsWith('.js') || path.endsWith('.css') || path === '/') {
-    event.respondWith(
-      caches.match(event.request).then(cached => {
-        const fetchPromise = fetch(event.request).then(response => {
-          if (response.ok) {
-            const clone = response.clone();
-            caches.open(CACHE_NAME).then(cache => cache.put(event.request, clone));
-          }
-          return response;
-        }).catch(() => cached);
-        return cached || fetchPromise;
-      })
-    );
-    return;
-  }
-
-  // Other requests: network only
-  event.respondWith(fetch(event.request));
 });
+
+function staleWhileRevalidate(req) {
+  return caches.open(CACHE).then(c => c.match(req).then(cached => {
+    const fetchP = fetch(req).then(r => { if (r.ok) c.put(req, r.clone()); return r; }).catch(() => cached);
+    return cached || fetchP;
+  }));
+}
+
+function cacheFirst(req) {
+  return caches.match(req).then(cached => {
+    const fetchP = fetch(req).then(r => { if (r.ok) { const c = r.clone(); caches.open(CACHE).then(cache => cache.put(req, c)); } return r; });
+    return cached || fetchP;
+  });
+}

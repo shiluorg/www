@@ -1,10 +1,9 @@
 import HashSearch from './hash-search.js';
-import state from './state.js';
+import state, { MIN_EVENTS } from './state.js';
 import { t9n } from './i18n.js';
 import { gameShare, _shuffle } from './game-center.js';
 
 const _fmtYear = HashSearch.formatYear;
-
 const QK = 'shilu_quiz_level';
 
 let _qEvents = [], _qLevel = 0, _qCorrect = null, _qType = null, _qAnswered = false;
@@ -96,7 +95,7 @@ export async function initQuizGame(container, existingEvents) {
 
   _qEvents = existingEvents || state.searchIndex?._events || [];
 
-  if (_qEvents.length > 7000) {
+  if (_qEvents.length > MIN_EVENTS) {
     if (loading) loading.classList.add('hidden');
     if (game) game.classList.remove('hidden');
     _qLoad(); _qUpdateUI(); _qGen();

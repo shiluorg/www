@@ -1,11 +1,13 @@
 import HashSearch from './hash-search.js';
 import Timelines from './timelines.js';
 import MapView from './map-view.js';
-import state from './state.js';
-import { routeTo, setRouterState, getState, _searchShow, _searchClose, nearestYear, _showError, _fmtYear, setPageMeta } from './router.js';
+import state, { MIN_EVENTS } from './state.js';
+import { routeTo, isHomeInit, setHomeInit, _searchShow, _searchClose, nearestYear, _showError, _fmtYear, setPageMeta } from './router.js';
 import { t9n, t } from './i18n.js';
 import { showPreview } from './share-card.js';
-import { ensureL, getTileConfigSync } from './map-libs.js';
+import { ensureL, createTileLayers, HISTORIC_ATTR } from './map-libs.js';
+
+const SI_VERSION = 3;
 
 let _homeEvents = [];
 let _dynastyYearMap = null;
@@ -15,7 +17,15 @@ let _detailMap = null;
 let _detailMapLayers = { satellite: null, street: null, historic: null };
 let _detailMapCurrent = 'satellite';
 let _detailHistoricYear = null;
-const SI_VERSION = 3;
+
+// Cached DOM elements
+let _$ruleQuote = null, _$mobYear = null, _$mapHint = null, _$homeList = null;
+function _cacheDom() {
+  if (!_$ruleQuote) _$ruleQuote = document.getElementById('rule-quote');
+  if (!_$mobYear) _$mobYear = document.getElementById('mob-year-display');
+  if (!_$mapHint) _$mapHint = document.getElementById('map-empty-hint');
+  if (!_$homeList) _$homeList = document.getElementById('home-event-list');
+}
 
 function _getDynastyId(year) {
   if (!_dynastyYearMap) {
@@ -35,58 +45,82 @@ function _getDynastyId(year) {
 }
 
 function _renderEventList(yearData) {
-  const body = document.getElementById('home-event-list');
   const events = yearData.v;
   _homeEvents = events;
-  if (!body) return;
+  if (!_$homeList) return;
   const dict = t9n();
-  if (!events || events.length === 0) { body.innerHTML = `<p class="home-events__empty">${dict.mapEmpty}</p>`; return; }
+  if (!events || events.length === 0) { _$homeList.innerHTML = `<p class="home-events__empty">${dict.mapEmpty}</p>`; return; }
   const groups = {};
-  events.forEach(e => { const co = e.o || dict.fallbackContinent, r = e.r || dict.fallbackRegion; if (!groups[co]) groups[co] = {}; if (!groups[co][r]) groups[co][r] = []; groups[co][r].push(e); });
+  for (let i = 0; i < events.length; i++) {
+    const e = events[i];
+    const co = e.o || dict.fallbackContinent, r = e.r || dict.fallbackRegion;
+    if (!groups[co]) groups[co] = {};
+    if (!groups[co][r]) groups[co][r] = [];
+    groups[co][r].push(e);
+  }
   const coOrder = dict.continentOrder;
   let html = '';
-  coOrder.forEach(co => { if (!groups[co]) return; html += `<div class="event-continent-group"><div class="event-continent-title">${co}</div>`;
-    Object.keys(groups[co]).sort().forEach(r => {
+  for (let ci = 0; ci < coOrder.length; ci++) {
+    const co = coOrder[ci];
+    if (!groups[co]) continue;
+    html += `<div class="event-continent-group"><div class="event-continent-title">${co}</div>`;
+    const regions = Object.keys(groups[co]).sort();
+    for (let ri = 0; ri < regions.length; ri++) {
+      const r = regions[ri];
       html += `<div class="event-region-group"><div class="event-region-title">${r}</div><div class="event-region-items">`;
-      groups[co][r].forEach(e => { html += `<div class="event-item" data-title="${e.t.replace(/"/g, '&quot;')}"><span class="event-item-dot"></span><span class="event-item-cat">${e.c || t('fallbackCategory')}</span><span class="event-item-title">${e.t}</span></div>`; });
+      const items = groups[co][r];
+      const fallbackCat = t('fallbackCategory');
+      for (let ei = 0; ei < items.length; ei++) {
+        const e = items[ei];
+        html += `<div class="event-item" data-title="${e.t.replace(/"/g, '&quot;')}"><span class="event-item-dot"></span><span class="event-item-cat">${e.c || fallbackCat}</span><span class="event-item-title">${e.t}</span></div>`;
+      }
       html += '</div></div>';
-    }); html += '</div>'; });
-  body.innerHTML = html;
+    }
+    html += '</div>';
+  }
+  _$homeList.innerHTML = html;
+}
+
+const _$detailEls = {};
+function _getDetailEl(id) {
+  if (!_$detailEls[id]) _$detailEls[id] = document.getElementById(id);
+  return _$detailEls[id];
 }
 
 function _showDetail(evt) {
   _currentDetailEvent = { ...evt, y: state.currentYear };
   const dict = t9n();
-  const ids = ['event-detail-title', 'event-detail-category', 'event-detail-continent', 'event-detail-region'];
-  const vals = [evt.t, evt.c || dict.fallbackCategory, evt.o || '', evt.r || ''];
-  ids.forEach((id, i) => { const el = document.getElementById(id); if (el) el.textContent = vals[i]; });
-  const descEl = document.getElementById('event-detail-description');
+  const titleEl = _getDetailEl('event-detail-title');
+  if (titleEl) titleEl.textContent = evt.t;
+  const catEl = _getDetailEl('event-detail-category');
+  if (catEl) catEl.textContent = evt.c || dict.fallbackCategory;
+  const contEl = _getDetailEl('event-detail-continent');
+  if (contEl) contEl.textContent = evt.o || '';
+  const regEl = _getDetailEl('event-detail-region');
+  if (regEl) regEl.textContent = evt.r || '';
+  const descEl = _getDetailEl('event-detail-description');
   if (descEl) descEl.innerHTML = (evt.s || dict.noDescription) + `<br><small>${dict.disclaimer}</small>`;
-  const shareBtn = document.getElementById('share-detail-btn');
+  const shareBtn = _getDetailEl('share-detail-btn');
   if (shareBtn) shareBtn.title = dict.shareTitle;
-  const panel = document.getElementById('event-detail-panel');
+  const panel = _getDetailEl('event-detail-panel');
   if (panel) panel.classList.remove('hidden');
 }
 
-function _hideDetail() { const p = document.getElementById('event-detail-panel'); if (p) p.classList.add('hidden'); }
+function _hideDetail() { const p = _getDetailEl('event-detail-panel'); if (p) p.classList.add('hidden'); }
 
 async function _loadAndShowEvents(year) {
   try {
     const yd = await HashSearch.getYearData(year, state.lang);
-    const rq = document.getElementById('rule-quote');
-    if (rq) { const dd = yd.d; if (dd && dd.length > 0) { const parts = [dd[0].n, dd[0].u, dd[0].e].filter(Boolean); rq.innerHTML = `<span class="rule-year">${_fmtYear(year)}，</span>${parts.join('，')}`; } else rq.innerHTML = `<span class="rule-year">${_fmtYear(year)}</span>`; }
-    const md = document.getElementById('mob-year-display');
-    if (md) md.textContent = _fmtYear(year);
+    if (_$ruleQuote) { const dd = yd.d; if (dd && dd.length > 0) { const parts = [dd[0].n, dd[0].u, dd[0].e].filter(Boolean); _$ruleQuote.innerHTML = `<span class="rule-year">${_fmtYear(year)}，</span>${parts.join('，')}`; } else _$ruleQuote.innerHTML = `<span class="rule-year">${_fmtYear(year)}</span>`; }
+    if (_$mobYear) _$mobYear.textContent = _fmtYear(year);
     MapView.showEvents(yd.v);
     _renderEventList(yd);
   } catch (_) {
     _showError(t('dataLoadError'));
-    const h = document.getElementById('map-empty-hint');
-    if (h) h.classList.remove('hidden');
+    if (_$mapHint) _$mapHint.classList.remove('hidden');
     MapView.clearMarkers();
-    const body = document.getElementById('home-event-list');
-    if (body) {
-      body.innerHTML = `<div style="padding:8px;text-align:center;color:var(--color-text-muted);font-size:12px;">
+    if (_$homeList) {
+      _$homeList.innerHTML = `<div style="padding:8px;text-align:center;color:var(--color-text-muted);font-size:12px;">
         ${t('loadFailed')}
         <button id="retry-load-btn" style="margin:4px 0 0;padding:8px 20px;border:1px solid var(--color-border);border-radius:8px;background:var(--color-accent);color:#fff;font-family:inherit;font-size:12px;cursor:pointer;">${t('retry')}</button>
       </div>`;
@@ -98,12 +132,19 @@ async function _loadAndShowEvents(year) {
 }
 
 async function _navigateToYear(year) {
-  state.currentYear = year; state.selectedDynasty = null;
   const ad = _getDynastyId(year);
-  if (ad) state.selectedDynasty = ad;
+  const prevYear = state.currentYear;
+  state.currentYear = year; state.selectedDynasty = ad || null;
   Timelines.dynastyDraw(); Timelines.calendarDraw();
   MapView.setHistoricDate(year);
-  await _loadAndShowEvents(year);
+  try {
+    await _loadAndShowEvents(year);
+  } catch (e) {
+    state.currentYear = prevYear;
+    Timelines.dynastyDraw(); Timelines.calendarDraw();
+    MapView.setHistoricDate(prevYear);
+    _showError(t('dataLoadError'));
+  }
 }
 
 // Shared helper to load search index from sessionStorage cache
@@ -113,7 +154,7 @@ function _loadSearchIndexFromCache() {
     const c = sessionStorage.getItem(SK);
     if (c) {
       const p = JSON.parse(c);
-      if (p && p._version === SI_VERSION && p._events && p._events.length > 7000) {
+      if (p && p._version === SI_VERSION && p._events && p._events.length > MIN_EVENTS) {
         state.searchIndex = p;
         state.searchIndexReady = true;
         return p;
@@ -126,23 +167,33 @@ function _loadSearchIndexFromCache() {
 async function _buildSearchIndex(onProgress) {
   const SK = 'shilu_search_index_' + state.lang;
 
-  // Try loading from sessionStorage cache
   if (_loadSearchIndexFromCache()) return;
 
   const all = [];
   const prefix = state.lang + '/';
   const files = HashSearch.getAllFileNames().map(f => prefix + f);
+  const total = files.length;
 
   const CHUNK = 8;
-  for (let i = 0; i < files.length; i += CHUNK) {
+  for (let i = 0; i < total; i += CHUNK) {
     await new Promise(resolve => {
       const doWork = () => {
-        const chunk = files.slice(i, i + CHUNK);
-        for (const f of chunk) {
-          const d = HashSearch.getCached(f);
-          if (d) { for (const e of d) { if (e && e.v) { e.v.forEach((evt, i) => all.push({ y: e.y, _i: i, ...evt })); } } }
+        const end = Math.min(i + CHUNK, total);
+        for (let fi = i; fi < end; fi++) {
+          const d = HashSearch.getCached(files[fi]);
+          if (d) {
+            for (let ei = 0; ei < d.length; ei++) {
+              const e = d[ei];
+              if (e && e.v) {
+                const evts = e.v;
+                for (let vi = 0; vi < evts.length; vi++) {
+                  all.push({ y: e.y, _i: vi, ...evts[vi] });
+                }
+              }
+            }
+          }
         }
-        if (onProgress) onProgress(Math.min(i + CHUNK, files.length), files.length);
+        if (onProgress) onProgress(Math.min(end, total), total);
         resolve();
       };
       window.requestIdleCallback(doWork, { timeout: 2000 });
@@ -154,87 +205,113 @@ async function _buildSearchIndex(onProgress) {
   state.searchIndexReady = true;
 
   const serialized = JSON.stringify(state.searchIndex);
-  try { sessionStorage.setItem(SK, serialized); } catch (_) { console.warn('[Shilu] Search index cache failed, sessionStorage may be full'); }
+  try { sessionStorage.setItem(SK, serialized); } catch (_) { /* sessionStorage may be full */ }
 }
 
 let _allEventsCache = [];
 let _activeFilters = { category: new Set() };
 let _filterTimer = 0;
 
+// Cached DOM refs for events page
+let _$fcCat = null, _$filterBar = null;
+function _cacheFilterDom() {
+  if (!_$fcCat) _$fcCat = document.getElementById('fc-category');
+  if (!_$filterBar) _$filterBar = document.getElementById('events-filter-bar');
+  return { fcCat: _$fcCat, filterBar: _$filterBar };
+}
+
 function _buildFilterChips() {
   const cats = new Set();
   for (const e of _allEventsCache) { if (e.c) cats.add(e.c); }
   const catSorted = [...cats].sort();
   const dict = t9n();
-  const fcCat = document.getElementById('fc-category');
-  if (fcCat) {
+  const dom = _cacheFilterDom();
+  if (dom.fcCat) {
     const allHtml = `<button class="filter-chip filter-all" data-group="category" data-val="__ALL__">${dict.filterAll || '全部'}</button>`;
-    fcCat.innerHTML = allHtml + catSorted.map(c => `<button class="filter-chip" data-group="category" data-val="${c.replace(/"/g, '&quot;')}">${c}</button>`).join('');
+    dom.fcCat.innerHTML = allHtml + catSorted.map(c => `<button class="filter-chip" data-group="category" data-val="${c.replace(/"/g, '&quot;')}">${c}</button>`).join('');
   }
-  document.querySelectorAll('#events-filter-bar .filter-chip').forEach(chip => {
-    chip.addEventListener('click', function() {
-      const group = this.dataset.group, val = this.dataset.val;
+  if (dom.filterBar) {
+    dom.filterBar.addEventListener('click', e => {
+      const chip = e.target.closest('.filter-chip');
+      if (!chip) return;
+      const group = chip.dataset.group, val = chip.dataset.val;
       const set = _activeFilters[group];
+      const allChips = dom.filterBar.querySelectorAll('.filter-chip[data-group="category"]');
+      const allBtn = dom.filterBar.querySelector('.filter-chip.filter-all');
       if (val === '__ALL__') {
-        // Clear all filters when "All" is clicked
         set.clear();
-        document.querySelectorAll('#events-filter-bar .filter-chip[data-group="category"]').forEach(c => c.classList.remove('active'));
-        this.classList.add('active');
+        allChips.forEach(c => c.classList.remove('active'));
+        chip.classList.add('active');
       } else {
         if (set.has('__ALL__')) set.delete('__ALL__');
-        document.querySelector('.filter-chip.filter-all').classList.remove('active');
-        if (set.has(val)) { set.delete(val); this.classList.remove('active'); }
-        else { set.add(val); this.classList.add('active'); }
+        if (allBtn) allBtn.classList.remove('active');
+        if (set.has(val)) { set.delete(val); chip.classList.remove('active'); }
+        else { set.add(val); chip.classList.add('active'); }
       }
       _applyAllFilters();
     });
-  });
-  // Start with "All" selected by default
+  }
   _activeFilters.category.add('__ALL__');
-  document.querySelector('.filter-chip.filter-all').classList.add('active');
+  const allBtn = dom.filterBar?.querySelector('.filter-chip.filter-all');
+  if (allBtn) allBtn.classList.add('active');
 }
 
 function _renderAllEvents(events) {
-  const list = document.getElementById('events-list');
-  if (!list) return;
-  if (events.length === 0) { list.innerHTML = `<div class="no-match">${t('noMatch')}</div>`; return; }
+  if (!_$eventsList) _$eventsList = document.getElementById('events-list');
+  if (!_$eventsList) return;
+  if (events.length === 0) { _$eventsList.innerHTML = `<div class="no-match">${t('noMatch')}</div>`; return; }
   let html = '';
-  for (const e of events) {
+  for (let i = 0; i < events.length; i++) {
+    const e = events[i];
     const s = e.s || '';
-    const d = s.substring(0, 80) + (s.length > 80 ? '…' : '');
+    const d = s.length > 80 ? s.substring(0, 80) + '…' : s;
+    const tags = [];
+    if (e.c) tags.push(`<span class="event-tag">${e.c}</span>`);
+    if (e.r) tags.push(`<span class="event-tag region">${e.r}</span>`);
+    if (e.o) tags.push(`<span class="event-tag continent">${e.o}</span>`);
     html += `<div class="event-item" data-year="${e.y}" data-title="${e.t.replace(/"/g, '&quot;')}" data-idx="${e._i}">
       <div class="event-year">${_fmtYear(e.y)}</div>
       <div class="event-body">
         <div class="event-title">${e.t}</div>
-        <div class="event-meta">${['c','r','o'].filter(k => e[k]).map(k => `<span class="event-tag${k==='r'?' region':k==='o'?' continent':''}">${e[k]}</span>`).join('')}</div>
+        <div class="event-meta">${tags.join('')}</div>
         <div class="event-desc">${d}</div>
       </div>
     </div>`;
   }
-  list.innerHTML = html;
+  _$eventsList.innerHTML = html;
 }
 
+let _$eventsCount = null, _$eventsFilter = null, _$eventsList = null, _$eventsLoading = null;
 function _applyAllFilters() {
-  const q = (document.getElementById('events-filter')?.value || '').trim().toLowerCase();
+  if (!_$eventsFilter) _$eventsFilter = document.getElementById('events-filter');
+  if (!_$eventsCount) _$eventsCount = document.getElementById('events-count');
+  const q = (_$eventsFilter?.value || '').trim().toLowerCase();
   let filtered = _allEventsCache;
   if (q) {
-    filtered = filtered.filter(e => (e.t||'').toLowerCase().includes(q)||(e.r||'').toLowerCase().includes(q)||(e.s||'').toLowerCase().includes(q)||(e.o||'').toLowerCase().includes(q)||(e.c||'').toLowerCase().includes(q));
+    const lq = q.toLowerCase();
+    filtered = filtered.filter(e => (e.t||'').toLowerCase().includes(lq)||(e.r||'').toLowerCase().includes(lq)||(e.s||'').toLowerCase().includes(lq)||(e.o||'').toLowerCase().includes(lq)||(e.c||'').toLowerCase().includes(lq));
   }
   if (_activeFilters.category.size > 0 && !_activeFilters.category.has('__ALL__')) {
     filtered = filtered.filter(e => _activeFilters.category.has(e.c));
   }
-  const ct = document.getElementById('events-count');
-  if (ct) ct.textContent = t('eventsCount', _allEventsCache.length, filtered.length);
+  if (_$eventsCount) _$eventsCount.textContent = t('eventsCount', _allEventsCache.length, filtered.length);
   _renderAllEvents(filtered);
 }
 
 let _eventsInitialized = false;
 
+function _cacheEventsDom() {
+  if (!_$eventsLoading) _$eventsLoading = document.getElementById('events-loading');
+  if (!_$eventsFilter) _$eventsFilter = document.getElementById('events-filter');
+  if (!_$eventsList) _$eventsList = document.getElementById('events-list');
+  return { loading: _$eventsLoading, inp: _$eventsFilter, list: _$eventsList };
+}
+
 async function initEventsPage() {
   _activeFilters = { category: new Set() };
-  const loading = document.getElementById('events-loading'), inp = document.getElementById('events-filter');
-  if (loading) { loading.classList.remove('hidden'); }
-  if (state.searchIndex && state.searchIndex._events && state.searchIndex._events.length > 7000) {
+  const dom = _cacheEventsDom();
+  if (dom.loading) dom.loading.classList.remove('hidden');
+  if (state.searchIndex && state.searchIndex._events && state.searchIndex._events.length > MIN_EVENTS) {
     _allEventsCache = state.searchIndex._events;
   } else {
     const cached = _loadSearchIndexFromCache();
@@ -244,21 +321,23 @@ async function initEventsPage() {
     _allEventsCache = await HashSearch.getAllEvents(null, state.lang);
   }
   if (_allEventsCache.length === 0) {
-    if (loading) loading.classList.add('hidden');
+    if (dom.loading) dom.loading.classList.add('hidden');
     return;
   }
   const fc = document.getElementById('footer-count');
   if (fc) fc.textContent = _allEventsCache.length;
-  if (loading) loading.classList.add('hidden');
-  _buildFilterChips();
-  if (inp && !_eventsInitialized) { inp.addEventListener('input', () => { clearTimeout(_filterTimer); _filterTimer = setTimeout(_applyAllFilters, 200); }); _eventsInitialized = true; }
-  if (inp) inp.value = '';
-  const eventsList = document.getElementById('events-list');
-  if (!eventsList.dataset.delegated) {
-    eventsList.dataset.delegated = '1';
-    eventsList.addEventListener('click', e => {
+  if (dom.loading) dom.loading.classList.add('hidden');
+  if (!dom.list.dataset.filterBuilt) {
+    _buildFilterChips();
+    dom.list.dataset.filterBuilt = '1';
+  }
+  if (dom.inp && !_eventsInitialized) { dom.inp.addEventListener('input', () => { clearTimeout(_filterTimer); _filterTimer = setTimeout(_applyAllFilters, 200); }); _eventsInitialized = true; }
+  if (dom.inp) dom.inp.value = '';
+  if (!dom.list.dataset.delegated) {
+    dom.list.dataset.delegated = '1';
+    dom.list.addEventListener('click', e => {
       const item = e.target.closest('.event-item');
-      if (item) routeTo('detail', { year: item.dataset.year, title: item.dataset.title, idx: item.dataset.idx });
+      if (item) routeTo('detail', { year: item.dataset.year, title: item.dataset.title, idx: item.dataset.idx || undefined });
     });
   }
   _applyAllFilters();
@@ -277,53 +356,34 @@ async function _initDetailMap(evt, year) {
   const hasCoords = evt.a != null && evt.l != null;
   const lat = hasCoords ? Number(evt.a) : 30;
   const lon = hasCoords ? Number(evt.l) : 20;
-  const zoom = hasCoords ? 5 : 2;
 
   _detailMap = L.map(mapEl, {
-    center: [lat, lon],
-    zoom: zoom,
-    zoomControl: true,
-    attributionControl: true,
-    scrollWheelZoom: false
+    center: [lat, lon], zoom: hasCoords ? 5 : 2,
+    zoomControl: true, attributionControl: true, scrollWheelZoom: false
   });
 
-  const tiles = getTileConfigSync();
-
-  _detailMapLayers.satellite = L.tileLayer(tiles.satellite, {
-    maxZoom: 18,
-    attribution: tiles.attr,
-    updateWhenIdle: false, updateWhenZooming: false
-  });
-
-  _detailMapLayers.street = L.tileLayer(tiles.street, {
-    maxZoom: 18,
-    attribution: tiles.streetAttr || tiles.attr,
-    updateWhenIdle: false, updateWhenZooming: false
-  });
+  const layers = createTileLayers(_detailMap);
+  _detailMapLayers.satellite = layers.satellite;
+  _detailMapLayers.street = layers.street;
 
   try {
     _detailMapLayers.historic = L.maplibreGL({
       style: 'https://www.openhistoricalmap.org/map-styles/main/main.json',
       attributionControl: false
     });
-  } catch (e) {
-    _detailMapLayers.historic = null;
-  }
+  } catch (_) { _detailMapLayers.historic = null; }
 
   _detailMapLayers.satellite.addTo(_detailMap);
   _detailMap.attributionControl.setPrefix('');
 
   if (hasCoords) {
     const marker = L.marker([lat, lon]).addTo(_detailMap);
-    const popupText = evt.r ? `${evt.t}<br><small>${evt.r}</small>` : evt.t;
-    marker.bindPopup(popupText).openPopup();
+    marker.bindPopup(evt.r ? `${evt.t}<br><small>${evt.r}</small>` : evt.t).openPopup();
   }
 
-  // Layer toggle buttons
   const satBtn = document.getElementById('dl-satellite');
   const strBtn = document.getElementById('dl-street');
   const histBtn = document.getElementById('dl-historic');
-  const HISTORIC_ATTR = '&copy; OpenHistoricalMap';
 
   const switchDetailLayer = (type) => {
     if (!_detailMap || _detailMapCurrent === type) return;
@@ -332,10 +392,7 @@ async function _initDetailMap(evt, year) {
 
     if (_detailMapCurrent === 'satellite') _detailMap.removeLayer(_detailMapLayers.satellite);
     else if (_detailMapCurrent === 'street') _detailMap.removeLayer(_detailMapLayers.street);
-    else if (_detailMapLayers.historic) {
-      _detailMap.removeLayer(_detailMapLayers.historic);
-      if (attr) attr.removeAttribution(HISTORIC_ATTR);
-    }
+    else if (_detailMapLayers.historic) { _detailMap.removeLayer(_detailMapLayers.historic); if (attr) attr.removeAttribution(HISTORIC_ATTR); }
 
     _detailMapCurrent = type;
     if (type === 'satellite') _detailMapLayers.satellite.addTo(_detailMap);
@@ -346,16 +403,11 @@ async function _initDetailMap(evt, year) {
       try {
         const mlMap = _detailMapLayers.historic.getMaplibreMap();
         if (mlMap && mlMap.filterByDate && _detailHistoricYear) {
-          const applyDate = () => {
-            const y = Math.abs(_detailHistoricYear);
-            mlMap.filterByDate((_detailHistoricYear < 0 ? '-' : '') + String(y).padStart(4, '0') + '-01-01');
-          };
-          if (mlMap.isStyleLoaded()) applyDate();
-          else mlMap.once('styledata', applyDate);
+          const applyDate = () => { mlMap.filterByDate(_formatDetailISODate(_detailHistoricYear)); };
+          if (mlMap.isStyleLoaded()) applyDate(); else mlMap.once('styledata', applyDate);
         }
       } catch (_) {}
     }
-
     if (satBtn) satBtn.classList.toggle('active', type === 'satellite');
     if (strBtn) strBtn.classList.toggle('active', type === 'street');
     if (histBtn) histBtn.classList.toggle('active', type === 'historic');
@@ -365,14 +417,10 @@ async function _initDetailMap(evt, year) {
   if (strBtn && !strBtn.dataset.linked) { strBtn.dataset.linked = '1'; strBtn.addEventListener('click', () => switchDetailLayer('street')); }
   if (histBtn && !histBtn.dataset.linked) {
     histBtn.dataset.linked = '1';
-    if (!_detailMapLayers.historic) {
-      histBtn.disabled = true;
-      histBtn.title = '加载中...';
-    }
+    if (!_detailMapLayers.historic) { histBtn.disabled = true; histBtn.title = '加载中...'; }
     histBtn.addEventListener('click', () => switchDetailLayer('historic'));
   }
 
-  // Deferred load MapLibre for historic layer
   if (!_detailMapLayers.historic && typeof L.maplibreGL === 'undefined') {
     import('./map-libs.js').then(m => m.loadMaplibre()).then(() => {
       if (_detailMapLayers.historic) return;
@@ -381,13 +429,15 @@ async function _initDetailMap(evt, year) {
           style: 'https://www.openhistoricalmap.org/map-styles/main/main.json',
           attributionControl: false
         });
-        if (histBtn) {
-          histBtn.disabled = false;
-          histBtn.title = '';
-        }
+        if (histBtn) { histBtn.disabled = false; histBtn.title = ''; }
       } catch (_) {}
     });
   }
+}
+
+function _formatDetailISODate(year) {
+  const y = Math.abs(year);
+  return (year < 0 ? '-' : '') + String(y).padStart(4, '0') + '-01-01';
 }
 
 async function initDetailPage(params) {
@@ -405,11 +455,11 @@ async function initDetailPage(params) {
     const dspBtn = document.getElementById('detail-page-share-btn');
     if (dspBtn) {
       dspBtn.title = dict.shareTitle;
-      dspBtn.addEventListener('click', () => showPreview(_detailPageEvent));
+      if (!dspBtn.dataset.linked) { dspBtn.dataset.linked = '1'; dspBtn.addEventListener('click', () => showPreview(_detailPageEvent)); }
     }
 
     // Initialize detail page map
-    _initDetailMap(evt, year);
+    await _initDetailMap(evt, year);
 
     if (loading) loading.classList.add('hidden'); if (content) content.classList.remove('hidden');
 
@@ -517,9 +567,10 @@ function _searchInit() {
 }
 
 export async function initHome() {
-  if (getState()._homeInitialized) return;
-  setRouterState('_homeInitialized', true);
+  if (isHomeInit()) return;
+  setHomeInit(true);
 
+  _cacheDom();
   if (!_initHomeListenersDone) {
     _initHomeListenersDone = true;
     const closeBtn = document.getElementById('event-detail-close');
@@ -611,7 +662,7 @@ export async function initHome() {
     bgPreload.catch(() => {});
   } catch (e) {
     console.error('[Shilu] Home data load failed:', e);
-    setRouterState('_homeInitialized', false);
+    setHomeInit(false);
     _showError(t('dataLoadError'));
   }
 }

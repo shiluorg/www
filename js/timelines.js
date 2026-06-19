@@ -17,6 +17,7 @@ let _dynastyDrawPending = false;
 let _calendarDrawPending = false;
 let _dynastyLayoutCache = { drawW: -1, layout: null };
 let _colorCache = {};
+let _rgbaCache = {};
 let _calendarTickCache = null;
 let _calendarTickCacheKey = '';
 
@@ -28,11 +29,14 @@ function _cssVar(name) {
 }
 
 function _cssVarRgba(name, alpha) {
+  const key = name + '|' + alpha;
+  if (_rgbaCache[key]) return _rgbaCache[key];
   const hex = _cssVar(name);
   const r = parseInt(hex.slice(1, 3), 16);
   const g = parseInt(hex.slice(3, 5), 16);
   const b = parseInt(hex.slice(5, 7), 16);
-  return `rgba(${r},${g},${b},${alpha})`;
+  _rgbaCache[key] = `rgba(${r},${g},${b},${alpha})`;
+  return _rgbaCache[key];
 }
 
 function _cacheDom() {
@@ -266,6 +270,7 @@ function _resizeNow() {
   }
   _dynastyLayoutCache = { drawW: -1, layout: null };
   _colorCache = {};
+  _rgbaCache = {};
   _calendarTickCache = null;
   _calendarTickCacheKey = '';
   _dynastyDrawNow();
@@ -278,7 +283,7 @@ function init() {
     console.warn('[Shilu] Timeline canvas elements not found, skipping init');
     return;
   }
-  window.addEventListener('shilu:themechange', () => { _colorCache = {}; _dynastyDrawNow(); _calendarDrawNow(); });
+  window.addEventListener('shilu:themechange', () => { _colorCache = {}; _rgbaCache = {}; _dynastyDrawNow(); _calendarDrawNow(); });
   window.addEventListener('shilu:langchange', () => { _dynastyLayoutCache = { drawW: -1, layout: null }; dynastyDraw(); calendarDraw(); });
   const D = _state.containerD, C = _state.containerC;
   if (!D || !C) return;

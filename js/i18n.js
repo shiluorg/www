@@ -101,13 +101,11 @@ const LOCALE = {
     gameShare: {
       quiz:  { t: '历史问答', d: '答对年份/事件一路飞升，从炼气到道祖，挑战你的历史知识库！' },
       map:   { t: '地图定位', d: '给你一个历史事件，在世界地图上盲猜位置！越接近得分越高🌍' },
-      sort:  { t: '时间排序', d: '打乱的历史事件等你重新排列！拖动排序，测测你的历史时间感⏳' },
-      match: { t: '同期匹配', d: '同一时间地球两端在发生什么？把中外同期事件配对，发现历史的奇妙共振🔗' }
+      sort:  { t: '时间排序', d: '打乱的历史事件等你重新排列！拖动排序，测测你的历史时间感⏳' }
     },
     gameTabQuiz: '历史问答',
     gameTabMap: '地图定位',
     gameTabSort: '时间排序',
-    gameTabMatch: '同期匹配',
     mapGameQuestion: (evt) => `"${evt}" 发生在哪里？请在地图上点击`,
     mapGameScore: (score) => `得分: ${score} 分`,
     mapGameNext: '下一题',
@@ -121,13 +119,6 @@ const LOCALE = {
     sortGameCorrect: '正确！',
     sortGameWrong: '再想想，时间顺序不对哦',
     sortGameTip: '从早到晚排列',
-    matchGameDesc: '找出同一时期发生的中外事件',
-    matchGameScore: (score) => `得分: ${score}`,
-    
-    matchGameNoMatch: '不是同一时期，再试试',
-    matchGameDone: '全部匹配完成！',
-    matchGameNew: '新一题',
-    matchGamePick: '点击两个事件进行配对',
     // Search
     indexNotReady: '索引未就绪',
     searchNoResult: '未找到匹配事件',
@@ -155,7 +146,7 @@ const LOCALE = {
       events: '浏览实录全站所有历史事件，按分类筛选，搜索任意年份、地区、关键词。',
       map: '在地图上查看全球历史事件的时空分布，从安纳托利亚到印度河流域，纵览人类文明足迹。',
       quiz: '通过趣味问答测试历史知识，包含朝代、年份、事件等多种题型。逐步提升修为等级。',
-      game: '玩历史游戏：地图定位答题、时间排序闯关、同期事件匹配。测试你的世界历史知识。'
+      game: '玩历史游戏：地图定位答题、时间排序闯关。测试你的世界历史知识。'
     },
     // Quiz levels (59 levels)
     quizLevels: [
@@ -281,13 +272,11 @@ const LOCALE = {
     gameShare: {
       quiz:  { t: 'History Quiz', d: 'Test your history IQ! Answer year/event questions and level up from Qi Refining to Dao Ancestor 🧠' },
       map:   { t: 'Map Locator', d: 'Guess locations on a world map blind! Given an event, drop a pin and score points based on distance 🌍' },
-      sort:  { t: 'Timeline Sort', d: 'Scrambled events need sorting! Drag & drop to rearrange them in the right order ⏳' },
-      match: { t: 'Period Match', d: 'What happened on opposite sides of the world at the same time? Pair events across cultures 🔗' }
+      sort:  { t: 'Timeline Sort', d: 'Scrambled events need sorting! Drag & drop to rearrange them in the right order ⏳' }
     },
     gameTabQuiz: 'History Quiz',
     gameTabMap: 'Map Locator',
     gameTabSort: 'Timeline Sort',
-    gameTabMatch: 'Period Match',
     mapGameQuestion: (evt) => `Where did "${evt}" happen? Click on the map`,
     mapGameScore: (score) => `Score: ${score}`,
     mapGameNext: 'Next',
@@ -301,13 +290,6 @@ const LOCALE = {
     sortGameCorrect: 'Correct!',
     sortGameWrong: 'Not quite right, try again',
     sortGameTip: 'Arrange from earliest to latest',
-    matchGameDesc: 'Match Chinese and world events from the same period',
-    matchGameScore: (score) => `Score: ${score}`,
-    
-    matchGameNoMatch: 'Not the same period, try again',
-    matchGameDone: 'All matched!',
-    matchGameNew: 'New Round',
-    matchGamePick: 'Click two events to match',
     // Search
     indexNotReady: 'Index not ready',
     searchNoResult: 'No matching events found',
@@ -335,7 +317,7 @@ const LOCALE = {
       events: 'Browse all historical events, filter by category, search by year, region, or keyword.',
       map: 'Explore the spatial distribution of global historical events on a map, from Anatolia to the Indus Valley.',
       quiz: 'Test your history knowledge with fun quiz questions about dynasties, years, and events. Level up as you progress.',
-      game: 'Play history games: map location quiz, timeline sorting, and period matching. Test your knowledge of world history.'
+      game: 'Play history games: map location quiz and timeline sorting. Test your knowledge of world history.'
     },
     // Quiz levels
     quizLevels: [

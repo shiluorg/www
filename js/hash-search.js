@@ -11,17 +11,21 @@ const YEAR_PAD = 4;
 let _memoryCache = new Map();
 let _initialized = false;
 let _storageAvailable = true;
+let _cachedContentIndex = null;
 
 function _init() {
   if (_initialized) return;
   if (_storageAvailable) {
     try {
-      const meta = JSON.parse(localStorage.getItem(STORAGE_META) || '{}');
+      const metaRaw = localStorage.getItem(STORAGE_META);
+      const meta = metaRaw ? JSON.parse(metaRaw) : {};
       if (meta.version !== CACHE_VERSION) {
-        for (let i = localStorage.length - 1; i >= 0; i--) {
+        const toRemove = [];
+        for (let i = 0; i < localStorage.length; i++) {
           const key = localStorage.key(i);
-          if (key && key.startsWith(STORAGE_PREFIX)) localStorage.removeItem(key);
+          if (key && key.startsWith(STORAGE_PREFIX)) toRemove.push(key);
         }
+        toRemove.forEach(k => localStorage.removeItem(k));
       }
       localStorage.setItem(STORAGE_META, JSON.stringify({ version: CACHE_VERSION }));
     } catch (_) {
@@ -173,12 +177,13 @@ const HashSearch = {
           return data;
         }
       } catch (_) {
+        try { localStorage.removeItem(_cacheKey(url)); } catch (_) {}
         _storageAvailable = false;
       }
     }
     const data = await _fetchJSON(url);
     _memoryCache.set(url, data);
-    if (_memoryCache.size > 100) { const first = _memoryCache.keys().next().value; _memoryCache.delete(first); }
+    if (_memoryCache.size > 200) { const first = _memoryCache.keys().next().value; _memoryCache.delete(first); }
     if (_storageAvailable) {
       try { localStorage.setItem(_cacheKey(url), JSON.stringify(data)); } catch (_) { _storageAvailable = false; }
     }
@@ -248,11 +253,10 @@ const HashSearch = {
   },
 
   async getContentYearIndex() {
+    if (_cachedContentIndex) return _cachedContentIndex;
     const data = await this.get('content-years.json');
     let years;
     if (data.years_delta_rle) {
-      // RLE format: [value, count, value, count, ...]
-      // Pre-calculate total length
       let totalLen = 0;
       for (let i = 1; i < data.years_delta_rle.length; i += 2) {
         totalLen += data.years_delta_rle[i];
@@ -275,10 +279,10 @@ const HashSearch = {
     } else {
       years = data.years || [];
     }
-    return {
-      years: years,
-      yearIndex: (() => { const idx = {}; for (let i = 0; i < years.length; i++) idx[years[i]] = i; return idx; })()
-    };
+    const idx = {};
+    for (let i = 0; i < years.length; i++) idx[years[i]] = i;
+    _cachedContentIndex = { years, yearIndex: idx };
+    return _cachedContentIndex;
   },
 
   parseQuery(queryString) {
